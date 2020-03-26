@@ -1,18 +1,46 @@
 # covid19-datashare
 A repo for sharing language resources related to the outbreak (in machine readable format)
 
+## Directory Organization
+This is the suggested organization. Hopefully some content will mover from one bucket to another, as we keep refining it.
+Additional information (eg. metadata) can be added through xml tags (see below).
+
+```
+Parallel 
+- TMs (homogeneous)
+- Terminologies (homogeneous)
+- Documents (homogeneous)
+- Sentences (sparse)
+- Terms (sparse)
+
+Comparable 
+- Documents (not translations, wiki pages)
+- Sentences (as above)
+
+Back-translated (xml defines original and MT and engine)
+- documents 
+- sentences
+
+Monolingual
+- Documents (pages, docs) 
+- Sentences ( e.g tweets) 
+```
+
 ## Data file format
 
 The industry standard for sharing parallel data is TMX. TAUS and other translators can easily share their data in this format.
 
 For other scraped/collected/filtered data (e.g. monolingual news articles) we suggest a very simple xml format, as it is important to add some metadata information, where available. This can/should include: 
 
-* lang: the language of the document (please use ISO-3, three-letter codes)
-* source: (e.g. url or other dataset) 
-* type: to denote the type of data e.g. mono, parallel, comparable, terminology, translation memory, and others. 
-I also added: 
-* a 'docid' field: can be used to match parallel docs across languages, or to map filtered/aligned docs to their original dumped version.
+* 'lang': the language of the document (please use ISO-3, three-letter codes)
+* 'source': (e.g. url or other dataset) 
+* 'type': to denote the type of data e.g. mono, parallel, comparable, terminology, translation memory, and others. 
+* 'docid': can be used to match parallel docs across languages, or to map filtered/aligned docs to their original dumped version.
+
+Also, optionally you can add: 
 * a 'term' field: to be used if we have other information, e.g. some monolingual texts that were filtered based on some term (e.g. COVID, SARS, Ebola).
+* a 'original_lang' field: in the case of translated data, it'd be good to define the source
+* a 'translation_mode': in the case of (back-)translated data, please denote if this was "auto" (for MT) or "manual" (for human-generated translations).
 
 Example for document level:
 ```
@@ -30,5 +58,5 @@ If we manage to align documents at the sentence level, we can add 'sent_id' info
 </doc>
 ```
 
-
+If you can't or don't want to convert your data into this xml, you could also share plain text files, but also add a README that will provide information on the source of the data, the type, etc etc
 

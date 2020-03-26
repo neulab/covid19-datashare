@@ -60,3 +60,4 @@ If we manage to align documents at the sentence level, we can add 'sent_id' info
 
 If you can't or don't want to convert your data into this xml, you could also share plain text files, but also add a README that will provide information on the source of the data, the type, etc etc
 
+For sharing large files, you can also upload a compressed archive. The current repo tracks `.zip` and `.tar.gz` files and stores them using [git-lfs](https://git-lfs.github.com/).

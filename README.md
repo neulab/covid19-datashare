@@ -15,20 +15,20 @@ I also added:
 * a 'term' field: to be used if we have other information, e.g. some monolingual texts that were filtered based on some term (e.g. COVID, SARS, Ebola).
 
 Example for document level:
-~~
+```
 <doc docid='bbc_51871911' lang='eng' type='mono' source_url='https://www.bbc.co.uk/gahuza/51871911' term='COVID'>
 text text text
 </doc>
-~~
+```
 
 If we manage to align documents at the sentence level, we can add 'sent_id' information e.g.
-~~
+```
 <doc docid='bbc_51871911' lang='eng' type='mono' source_url='https://www.bbc.co.uk/gahuza/51871911' term='COVID'>
 <s sent_id='1'>text text text</s>
 <s sent_id='2'>text text text</s>
 ...
 </doc>
-~~
+```
 
 
 

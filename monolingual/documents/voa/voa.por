@@ -1,4 +1,4 @@
-<doc id='voa_5339319' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ministra-angolana-da-sa%C3%BAde-confirma-dois-casos-positivos-do-novo-coronav%C3%ADrus/5339319.html' term='COVID'>
+<doc docid='voa_5339319' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ministra-angolana-da-sa%C3%BAde-confirma-dois-casos-positivos-do-novo-coronav%C3%ADrus/5339319.html' term='COVID'>
 Ministra angolana da Saúde confirma dois casos positivos do novo coronavírus
 A ministra da Saúde de Angola, Sílvia Lutucuta, revelou neste sábado, 21, que o país registou os primeiros dois casos do novo coronavirus.
 Em conferência de imprensa, a governante acrescentou que são dois angolanos do sexo masculino, com idades entre os 36 e 38 anos, que entraram no país nos dias 17 e 18 de Março, provenientes de Portugal.
@@ -23,7 +23,7 @@ Na quarta-feira, a médica Manuela Adão, que revelou um áudio em que dizia que
 Ela foi libertada sob termo de identidade e residência na quinta-feira, 19, após ter sido ouvida pelo Ministério Público.
 Apesar de a ministra da Saúde ter dito hoje que há mais dois casos suspeitos, na quinta-feira, em Cabinda, Sílvia Lutucuta, tinha admitido a existência de sete casos.
 </doc>
-<doc id='voa_5325877' lang='por' type='mono' source_url='https://www.voaportugues.com/a/comiss%C3%A3o-sindical-do-porto-do-lobito-denuncia-falta-de-preven%C3%A7%C3%A3o-contra-o-coronav%C3%ADrus/5325877.html' term='COVID'>
+<doc docid='voa_5325877' lang='por' type='mono' source_url='https://www.voaportugues.com/a/comiss%C3%A3o-sindical-do-porto-do-lobito-denuncia-falta-de-preven%C3%A7%C3%A3o-contra-o-coronav%C3%ADrus/5325877.html' term='COVID'>
 Comissão Sindical do Porto do Lobito denuncia falta de prevenção contra o coronavírus
 O Ministério angolano da Saúde garante que estão a ser instalados centros de quarentena em estabelecimentos portuários por força do coronavírus, mas a Comissão Sindical do Porto do Lobito, na província de Benguela, diz que não existe nada em matéria de prevenção, desde dispositivos para rastreios a palestras de sensibilização.
 O alerta é para a existência de mais de 1500 trabalhadores do Porto, mais os quadros da Polícia Fiscal, do Serviço de Migração e Estrangeiros (SME) e da Capitania, os primeiros em contato com a tripulação dos navios que ali atracam, na sua maioria provenientes da Ásia, o foco da doença.
@@ -37,7 +37,7 @@ Em visita de trabalho a Benguela, a deputada da Unita Mihaela Weba afirmou que s
 ‘’As nossas condições sanitárias não vão conseguir nos acudir. Portanto, tudo deverá ser feito para prevenir que a doença venha e depois combater o próprio vírus’’, sugere a parlamentar angolana.
 No Lubango, província da Huíla, a ministra da Saúde, Sílvia Lutukuta, assegurou, nesta terça-feira, 10, que a instalação de centros de quarentena em portos e aeroportos é uma das medidas de prevenção adotadas pelo seu setor.
 </doc>
-<doc id='voa_5335133' lang='por' type='mono' source_url='https://www.voaportugues.com/a/covid19-governo-cabo-verdiano-antecipa-f%C3%A9rias-escolares-e-limita-aglomera%C3%A7%C3%A3o-de-pessoas/5335133.html' term='COVID'>
+<doc docid='voa_5335133' lang='por' type='mono' source_url='https://www.voaportugues.com/a/covid19-governo-cabo-verdiano-antecipa-f%C3%A9rias-escolares-e-limita-aglomera%C3%A7%C3%A3o-de-pessoas/5335133.html' term='COVID'>
 Covid19: Governo cabo-verdiano antecipa férias escolares e limita aglomeração de pessoas
 No dia em que entrou em vigor a suspensão de voos da Europa, Estados Unidos, Brasil, Nigéria e Senegal, o Governo de Cabo Verde anunciou a antecipação das férias escolares da Páscoa para o póximo dia 23 de Março, como forma de evitar a entrada e propagação do novo coronavirus no país.
 As aulas serão retomadas a 13 de Abril, "sem prejuízo" de a decisão poder “ser prorrogada ou não, conforme evolução do Covid-19", esclarece o Executivo.
@@ -49,7 +49,7 @@ Entre outras medidas publicadas no Boletim Oficial, o Governo determinou que bar
 O Governo prometeu ainda usar mão dura em caso de incumprimento
 Cabo Verde não registou até ao momento qualquer caso de Covid-19.
 </doc>
-<doc id='voa_5332059' lang='por' type='mono' source_url='https://www.voaportugues.com/a/%C3%A1frica-do-sul-burl%C3%B5es-tentam-beneficiar-de-coronav%C3%ADrus-alegando-contamina%C3%A7%C3%A3o-de-moedas-e-notas/5332059.html' term='COVID'>
+<doc docid='voa_5332059' lang='por' type='mono' source_url='https://www.voaportugues.com/a/%C3%A1frica-do-sul-burl%C3%B5es-tentam-beneficiar-de-coronav%C3%ADrus-alegando-contamina%C3%A7%C3%A3o-de-moedas-e-notas/5332059.html' term='COVID'>
 África do Sul: Burlões tentam beneficiar de coronavírus alegando contaminação de moedas e notas
 O banco central da África do Sul alertou os cidadãos contra os golpistas que visitam casas para "recuperar" notas e moedas que, segundo eles, foram contaminadas pelo novo coronavírus.
 Os criminosos exibem crachás de identificação falsos e forneciam recibos falsos às vítimas, que foram informadas de que podiam trocar o dinheiro (supostamente contaminado) por dinheiro "limpo" em qualquer instituição bancária.
@@ -59,7 +59,7 @@ Os falsos agentes aproveitaram o nervosismo dos sul-africanos, quando muitos se 
 Até ao momento, a África do Sul registou 62 casos, o segundo maior número de infecções por coronavírus em África, depois do Egito. Oficialmente conhecido como COVID-19, o vírus infectou quase 180.000 pessoas em todo o mundo e matou mais de 7.000.
 O Presidente Cyril Ramaphosa anunciou o encerramento das escolas e proibiu as reuniões públicas depois do número de casos mais que triplicar no fim-de-semana. A entrada de estrangeiros de países altamente afetados também será negada a partir de quarta-feira, 18 de Março, pois a maioria dos casos na África do Sul são de pessoas que tinham regressado recentemente do exterior.
 </doc>
-<doc id='voa_5339253' lang='por' type='mono' source_url='https://www.voaportugues.com/a/morreu-o-cantor-kenny-rogers/5339253.html' term='COVID'>
+<doc docid='voa_5339253' lang='por' type='mono' source_url='https://www.voaportugues.com/a/morreu-o-cantor-kenny-rogers/5339253.html' term='COVID'>
 Morreu o cantor Kenny Rogers
 Morreu o cantor e actor norte-americano Kenny Rogers, intérprete, entre outros, de sucessos como "Lucille", "Lady" e "Islands in the Stream". Tinha 81 anos de idade e 60 de carreira.
 Kenny Rogers morreu, sexta-feira, 20, de causas naturais, em casa, em Sandy Springs, na Geórgia, disse à Associated Press o seu representante Keith Hagan. O cantor estava sob cuidados paliativos.
@@ -71,7 +71,7 @@ Outra colaboração de destaque foi com Lionel Richie, que escreveu o tema “La
 O cantor abraçou causas humanitárias, apoiando organizações como a Cruz Vermelha e MusicCares. Foi uma das 46 vozes da canção “We are the World”, destinada a apoiar a luta contra a fome em África, em 1985.
 A família de Kenny Rogers diz que vai ter uma cerimônia privada “por causa da emergência nacional do Covid-19”. Posteriormente será anunciada uma homenagem pública.
 </doc>
-<doc id='voa_5333781' lang='por' type='mono' source_url='https://www.voaportugues.com/a/coronav%C3%ADrus-pode-adiar-elei%C3%A7%C3%B5es-aut%C3%A1rquicas-em-angola/5333781.html' term='COVID'>
+<doc docid='voa_5333781' lang='por' type='mono' source_url='https://www.voaportugues.com/a/coronav%C3%ADrus-pode-adiar-elei%C3%A7%C3%B5es-aut%C3%A1rquicas-em-angola/5333781.html' term='COVID'>
 Coronavírus "pode adiar" eleições autárquicas em Angola
 O Parlamento angolano adiou por tempo indeterminado o início da sessão plenária, que devia retomar a discussão do pacote legislativo eleitoral, depois de as autoridades sanitárias terem proibido a aglomeração de mais de 200 pessoas devido à pandemia do Covid-19.
 A decisão da Comissão Interministerial para a Resposta à Pandemia do coronavírus começou a vigorar nesta quarta-feira, 18, “com caráter obrigatório”.
@@ -88,7 +88,7 @@ A quarentena obrigatória aplica-se também a todos os cidadãos que em qualquer
 Veja Também
 Portugal: Presidente do Santander Totta morre de coronavírus
 </doc>
-<doc id='voa_5328941' lang='por' type='mono' source_url='https://www.voaportugues.com/a/sem-casos-positivos-angola-continua-o-rastreio-de-suspeitos-de-coronav%C3%ADrus/5328941.html' term='COVID'>
+<doc docid='voa_5328941' lang='por' type='mono' source_url='https://www.voaportugues.com/a/sem-casos-positivos-angola-continua-o-rastreio-de-suspeitos-de-coronav%C3%ADrus/5328941.html' term='COVID'>
 Sem casos positivos, Angola continua o rastreio de suspeitos de coronavírus
 As autoridades angolanas de saúde aguardam resultados de cinco dos 104 indivíduos rastreados por suspeita de infecção com o novo coronavírus.
 Até o momento, os testes de 99 indivíduos foram negativos, disse Franco Mufinda, Secretário de Estado da Saúde Pública de Angola.
@@ -98,7 +98,7 @@ Entre os individuos rastreados figuram Angolanos, Chineses e de outras nacionali
 Veja Também
 Namíbia regista dois primeiros casos de coronavírus e impõe proibição de viagens
 </doc>
-<doc id='voa_5324574' lang='por' type='mono' source_url='https://www.voaportugues.com/a/oms-declara-pandemia-devido-ao-novo-coronav%C3%ADrus/5324574.html' term='COVID'>
+<doc docid='voa_5324574' lang='por' type='mono' source_url='https://www.voaportugues.com/a/oms-declara-pandemia-devido-ao-novo-coronav%C3%ADrus/5324574.html' term='COVID'>
 OMS declara pandemia devido ao novo coronavírus
 A Organização Mundial de Saúde (OMS) declarou pandemia de Covid-19 nesta quarta-feira, 11 Março, tendo em conta o número de casos, mortes e números de países atingidos números que ainda devem aumentar.
 "A descrição da situação como uma pandemia não altera a avaliação da OMS da ameaça representada por esse vírus. Isso não muda o que a OMS está a fazer, nem o que os países devem fazer", afirmou em Genebra, Tedros Adhanom Ghebreyesus, diretor-geral da organização.
@@ -115,7 +115,7 @@ Explicativo: O que é um vírus
 352p | 3,1MB
 396p | 3,9MB
 </doc>
-<doc id='voa_5326404' lang='por' type='mono' source_url='https://www.voaportugues.com/a/factor-ra%C3%A7a-n%C3%A3o-tem-influ%C3%AAncia-no-coronav%C3%ADrus-diz-especialista/5326404.html' term='COVID'>
+<doc docid='voa_5326404' lang='por' type='mono' source_url='https://www.voaportugues.com/a/factor-ra%C3%A7a-n%C3%A3o-tem-influ%C3%AAncia-no-coronav%C3%ADrus-diz-especialista/5326404.html' term='COVID'>
 Factor raça não tem influência no Coronavírus, diz especialista
 Um especialista português desmentiu em Angola rumores de que os africanos de raça negra sejam imunes ao Coronavírus.
 Filomeno Fortes, que é o director do Instituto de Higiene e Medicina na Universidade Nova de Lisboa disse que esses rumores se devem a “uma teoria que foi levantada por um cientista chinês que teve um doente de raça negra acometido pela doença e que a evolução foi muito boa e não teve necessidade de entrar em grandes tratamentos”.
@@ -128,7 +128,7 @@ Um centro de quarentena para acolher eventuais casos positivos de coronavírus f
 Por outro lado centro de quarentena da Barra do Kwanza, onde se encontravam sete pessoas, foi esvaziado esta quinta-feira, para ser transformado numa unidade de tratamento do novo coronavírus, informou o secretário de Estado para a Saúde Pública de Angola, Franco Mufinda, que apontou as fronteiras das regiões norte e leste como as que mais vão merecer a atenção do Governo, por causa do surgimento do primeiro caso de COVID-19 na República Democrática do Congo (RDC).
 Em Luanda, nota-se já preocupaçao de varios cidadãos em se protegerem do novo coronavírus (COVID-19), com o uso de máscara e outros cuidados recomendados pelo ministerio da saude. A entrada em m algumas instituições como a Sonangol e Presidencia da República,está sujeita ao mesmo rastreioem vigor nos aeroportos e fronteiras do país.
 </doc>
-<doc id='voa_5318098' lang='por' type='mono' source_url='https://www.voaportugues.com/a/vacina-para-coronav%C3%ADrus-em-desenvolvimento-mas-com-muitos-obst%C3%A1culos/5318098.html' term='COVID'>
+<doc docid='voa_5318098' lang='por' type='mono' source_url='https://www.voaportugues.com/a/vacina-para-coronav%C3%ADrus-em-desenvolvimento-mas-com-muitos-obst%C3%A1culos/5318098.html' term='COVID'>
 Vacina para coronavírus em desenvolvimento, mas com muitos obstáculos
 WASHINGTON DC —
 A possível primeira vacina contra o coronavírus está para ser testada em humanos.
@@ -179,11 +179,11 @@ A empresa já está a produzir grandes quantidades de vacina contra a gripe, acr
 Onde a epidemia estará até então é uma incógnita.
 por Steve Baragona da VOA
 </doc>
-<doc id='voa_5317427' lang='por' type='mono' source_url='https://www.voaportugues.com/a/5317427.html' term='COVID'>
+<doc docid='voa_5317427' lang='por' type='mono' source_url='https://www.voaportugues.com/a/5317427.html' term='COVID'>
 Emissão Vespertina: Sexta-feira
 
 </doc>
-<doc id='voa_5319344' lang='por' type='mono' source_url='https://www.voaportugues.com/a/coranav%C3%ADrus-for%C3%A7a-cancelamento-de-reuni%C3%B5es-importantes-antes-da-cimeira-clim%C3%A1tica/5319344.html' term='COVID'>
+<doc docid='voa_5319344' lang='por' type='mono' source_url='https://www.voaportugues.com/a/coranav%C3%ADrus-for%C3%A7a-cancelamento-de-reuni%C3%B5es-importantes-antes-da-cimeira-clim%C3%A1tica/5319344.html' term='COVID'>
 Coranavírus força o cancelamento de reuniões importantes da ONU antes da cimeira climática
 A Organização das Nações Unidas cancelou reuniões em Bona, na Alemanha, e noutros lugares antes da cimeira climática crucial da ONU a ser realizada em Glasgow, Escócia, em novembro, devido ao surto de coronavírus, reporta a Reuters.
 “Esta medida excepcional visa conter a disseminação do COVID-19 e salvaguardar a saúde e a segurança dos participantes das reuniões da UNFCCC em Bona e em outros lugares”, disse Patricia Espinosa, secretária-executiva da Convenção-Quadro das Nações Unidas sobre Mudança do Clima (UNFCCC, na sigla em inglês).
@@ -192,7 +192,7 @@ Espera-se que a cimeira de Glasgow em novembro seja a mais importante das negoci
 Preocupações com a disseminação do coronavírus levaram ao cancelamento de dezenas de grandes eventos globais. Nesta semana, organizadores cancelaram a conferência de energia CERAWeek, uma das maiores reuniões globais de ministros do Petróleo e altos executivos em Houston.
 Jennifer Tollmann, consultora de políticas do grupo internacional de especialistas em mudanças climáticas E3G, disse que a reunião programada para Bona, em março, era uma sessão preparatória altamente técnica, que deve ser mais fácil de realizar por videoconferência do que uma reunião muito maior que ocorrerá em Bona em junho.
 </doc>
-<doc id='voa_5338822' lang='por' type='mono' source_url='https://www.voaportugues.com/a/china-epicentro-do-covid-19-adopta-diplomacia-das-m%C3%A1scaras-/5338822.html' term='COVID'>
+<doc docid='voa_5338822' lang='por' type='mono' source_url='https://www.voaportugues.com/a/china-epicentro-do-covid-19-adopta-diplomacia-das-m%C3%A1scaras-/5338822.html' term='COVID'>
 China, epicentro do COVID-19, adopta “diplomacia das máscaras”
 Num esforço para superar a sua imagem como o epicentro de duas pandemias do século XXI, a China lançou uma blitz de ajuda humanitária doando máscaras faciais, luvas e outros suprimentos médicos a países atingidos pelo COVID-19, o mais recente coronavírus que emergiu na cidade de Wuhan.
 Com a ajuda, a China pretende redefenir-se como "uma potência responsável", segundo especialistas, alguns dos quais duvidam que a chamada "diplomacia das máscaras" de Pequim restaure uma imagem nublada por suspeitas de encobrimento por parte do governo.
@@ -228,7 +228,7 @@ Escreveu ele: “E isso não se refere apenas à venda de animais selvagens no m
 Outros acreditam que a China irá tirar dividendos geopoliticamente desta sua ofensiva diplomática, especialmente desde que os Estados Unidos fecharam a sua fronteira com o Canadá na quarta-feira, e dias depois de começar a pôr em vigor proibições de viagens da Europa e de outros países (a 11 de março).
 Douglas Paal, ex-assistente especial do presidente americano George W. Bush e diretor sénior de assuntos asiáticos do Conselho de Segurança Nacional, disse VOA: "De muitas maneiras, estou preocupado com a resposta trágica e incompetente do governo Trump à situação. Se a China se beneficia com isso, é em grande parte porque deixamos que isso aconteça.
 </doc>
-<doc id='voa_5304170' lang='por' type='mono' source_url='https://www.voaportugues.com/a/arg%C3%A9lia-regista-primeiro-caso-de-coronav%C3%ADrus/5304170.html' term='COVID'>
+<doc docid='voa_5304170' lang='por' type='mono' source_url='https://www.voaportugues.com/a/arg%C3%A9lia-regista-primeiro-caso-de-coronav%C3%ADrus/5304170.html' term='COVID'>
 Argélia regista primeiro caso de coronavírus
 As autoridades da Argélia confirmaram o primeiro caso de Covid-19, o novo coronavírus, nesta terça-feira, 25, revelou a agência Reuters.
 Este é o segundo caso da doença no continente africano, depois do Egito já ter registado um caso no dia 14 de Fevereiro.
@@ -245,7 +245,7 @@ Nos Estados Unidos, o Centro de Controlo e Prevenção de Doenças (CDC) alertou
 Ela disse que as autoridades de saúde pública não têm ideia se a propagação da doença nos Estados Unidos seria leve ou grave, mas que os cidadãos devem estar prontos para uma perturbação significativa em suas vidas diárias.
 Os números oficiais mostram que existem 53 casos confirmados de Covid-19 nos EUA, dos quais 36 correspondem a passageiros do cruzeiro Diamond Princess, que foi ancorado no Japão e repatriado na semana passada.
 </doc>
-<doc id='voa_5335144' lang='por' type='mono' source_url='https://www.voaportugues.com/a/trump-assina-pacote-do-congresso-com-ajuda-ao-combate-ao-coronav%C3%ADrus/5335144.html' term='COVID'>
+<doc docid='voa_5335144' lang='por' type='mono' source_url='https://www.voaportugues.com/a/trump-assina-pacote-do-congresso-com-ajuda-ao-combate-ao-coronav%C3%ADrus/5335144.html' term='COVID'>
 Trump assina pacote do Congresso com ajuda ao combate ao coronavírus
 O Presidente americano, Donald Trump, assinou nesta quarta-feira, 18, um pacote de incentivos económicos para aliviar os prejuízos do novo coronavírus ao país, aprovado pelo Congresso.
 A medida inclui a disponibilização de mais testes para a Covid-19, licença de trabalho remunerada, assistência alimentar, benefícios para desempregados e recursos para o sistema de saúde.
@@ -257,7 +257,7 @@ Um dos motivos para a aplicação da lei é aumentar a produção de máscaras h
 Trump afirmou ainda que um navio hospital vai ser enviado para a costa do Estado de Nova Iorque para ajudar as pessoas afetadas pelo contágio.
 Uma segunda embarcação semelhante será empregada na costa ocidental do país.
 </doc>
-<doc id='voa_5319486' lang='por' type='mono' source_url='https://www.voaportugues.com/a/angola-medidas-de-preven%C3%A7%C3%A3o-contra-o-coronav%C3%ADrus-podem-agravar-a-instabilidade-da-economia/5319486.html' term='COVID'>
+<doc docid='voa_5319486' lang='por' type='mono' source_url='https://www.voaportugues.com/a/angola-medidas-de-preven%C3%A7%C3%A3o-contra-o-coronav%C3%ADrus-podem-agravar-a-instabilidade-da-economia/5319486.html' term='COVID'>
 Angola: Medidas de prevenção contra o coronavírus podem agravar a instabilidade da economia
 Angola ainda não regista casos do novo coronavírus, mas já é visível a preocupação das populações e das autoridades governamentais, que ensaiam várias medidas para evitar que a doença se propague em território nacional.
 A partir desta semana estão impedidos de entrar em território angolano, todas as pessoas provenientes de países afectados com a epidemia, como são os casos da República Popular da China, Coreia do Sul, Irão e Itália.
@@ -269,7 +269,7 @@ A Organização Mundial da Saúde alertou, recentemente, que Angola é um dos pa
 A infectologista Maria Mateta tem algumas dúvidas sobre a eficácia da medida do Ministério da Saúde. A especialista afirma, ainda assim, que Angola tem legitimidade para se defender.
 Acompanhe:
 </doc>
-<doc id='voa_5309694' lang='por' type='mono' source_url='https://www.voaportugues.com/a/angola-proibe-entrada-de-pessoas-de-pa%C3%ADses-com-casos-aut%C3%B3tones-do-coronav%C3%ADrus/5309694.html' term='COVID'>
+<doc docid='voa_5309694' lang='por' type='mono' source_url='https://www.voaportugues.com/a/angola-proibe-entrada-de-pessoas-de-pa%C3%ADses-com-casos-aut%C3%B3tones-do-coronav%C3%ADrus/5309694.html' term='COVID'>
 Angola proíbe entrada de pessoas de países com casos autótones do coronavírus
 O Governo angolano vai impedir, a partir do dia 3, terça feira, a entrada de todas as pessoas provenientes de países com casos autótones do novo coronavírus, nomeadamente China, Coreia do Sul, Irão, Itália, Nigéria, Egito e Argélia.
 A decisão foi tomada pela ministra da Saúde num decreto assinado na sexta-feira, 28, e é justificada pela “necessidade da prevenção da expansão da epidemia em Angola”.
@@ -277,7 +277,7 @@ Enquanto durar a epidemia do Covid-19, além da proibição da entrada de pessoa
 A decisão do Governo angolano surge depois da epidemia ter atingido vários países, nomeadamente Nigéria, que mantém um importante fluxo de passageiros com Luanda.
 O país não registou qualquer caso da doença e tem monitorado os passageiros que chegaram da China nas últimas semanas.
 </doc>
-<doc id='voa_5306348' lang='por' type='mono' source_url='https://www.voaportugues.com/a/coronav%C3%ADrus-cabo-verde-suspende-liga%C3%A7%C3%B5es-a%C3%A9reas-com-it%C3%A1lia/5306348.html' term='COVID'>
+<doc docid='voa_5306348' lang='por' type='mono' source_url='https://www.voaportugues.com/a/coronav%C3%ADrus-cabo-verde-suspende-liga%C3%A7%C3%B5es-a%C3%A9reas-com-it%C3%A1lia/5306348.html' term='COVID'>
 Coronavírus: Cabo Verde suspende ligações aéreas com Itália
 O Governo cabo-verdiano suspendeu por três semanas os voos entre o arquipélago e Itália, devido ao aumento dos casos e mortes devido ao novo coronavirus naquele país europeu.
 As autoridades da Praia já informaram o Executivo italiano.
@@ -287,7 +287,7 @@ Correia e Silva sublinhou que “a situação será avaliada para decisão sobre
 O primeiro-ministro reitera que o seu Executivo vem acompanhado, desde a primeira hora, a situação provocada pelo novo coronavirus “e tem tomado as medidas que se impõem em decorrência da situação de emergência sanitária internacional declarada pela OMS".
 Cabo Verde não registou qualquer caso de coronavirus, mas teve sob observação cerca de 30 pessoas que vieram da China.
 </doc>
-<doc id='voa_5335741' lang='por' type='mono' source_url='https://www.voaportugues.com/a/m%C3%A9dica-que-admitiu-caso-positivo-do-novo-coronav%C3%ADrus-detida-em-benguela/5335741.html' term='COVID'>
+<doc docid='voa_5335741' lang='por' type='mono' source_url='https://www.voaportugues.com/a/m%C3%A9dica-que-admitiu-caso-positivo-do-novo-coronav%C3%ADrus-detida-em-benguela/5335741.html' term='COVID'>
 Médica que admitiu caso positivo do novo coronavírus detida em Benguela
 Uma médica angolana está detida desde quarta-feira, 18, por ter divulgado, na rede social whatsapp, um áudio em que dá a conhecer um caso positivo de coronavírus, relativo ao cidadão chinês internado no Hospital Geral de Benguela, soube a VOA de fonte ligada à Investigação Criminal.
 Este suposto caso positivo, descartado já pelas autoridades sanitárias, terá sido analisado numa reunião, à porta fechada, que juntou chefes da maior unidade hospitalar da província, conforme o áudio divulgado pela própria médica, Manuela Adão.
@@ -300,7 +300,7 @@ O diretor do Gabinete Provincial de Saúde, Manuel Cabinda, diz que não reage a
 ‘’O sistema de vigilância epidemiológica notificou os casos suspeitos, e os resultados foram negativos, incluindo deste chinês. Portanto, não há covid-19 em Benguela’’, assegura Cabinda
 A VOA tentou ouvir a versão do Ministério do Interior sobre o crime em causa, mas sem sucesso.
 </doc>
-<doc id='voa_5331080' lang='por' type='mono' source_url='https://www.voaportugues.com/a/coronav%C3%ADrus-preocupa-religiosos-mo%C3%A7ambicanos/5331080.html' term='COVID'>
+<doc docid='voa_5331080' lang='por' type='mono' source_url='https://www.voaportugues.com/a/coronav%C3%ADrus-preocupa-religiosos-mo%C3%A7ambicanos/5331080.html' term='COVID'>
 Coronavírus preocupa religiosos moçambicanos
 Sem qualquer caso oficialmente confirmado, o governo moçambicano determinou uma série de medidas preventivas, em caso de eclosão do Covid-19.
 A medida que proíbe a concentração de mais de 300 pessoas no mesmo espaço não reúne consenso entre os religiosos.
@@ -312,7 +312,7 @@ Na próxima semana arranca mais uma sessão do parlamento.
 Para além dos 250 deputados, a zona das sessões plenárias poderá contar com convidados, assistentes parlamentares e jornalistas, levando a que possam estar mais de 300 pessoas e por isso, medidas extraordinárias serão adoptadas.
 O porta-voz do parlamento, Oriel Chemane, disse que foi criada uma comissão de trabalho que vai avaliar as formas de implementação das medidas sanitárias definidas contra o Covid-19.
 </doc>
-<doc id='voa_5298011' lang='por' type='mono' source_url='https://www.voaportugues.com/a/centenas-de-pessoas-em-quarentena-em-mo%C3%A7ambique-por-precau%C3%A7%C3%A3o-ao-coronav%C3%ADrus/5298011.html' term='COVID'>
+<doc docid='voa_5298011' lang='por' type='mono' source_url='https://www.voaportugues.com/a/centenas-de-pessoas-em-quarentena-em-mo%C3%A7ambique-por-precau%C3%A7%C3%A3o-ao-coronav%C3%ADrus/5298011.html' term='COVID'>
 Centenas de pessoas em quarentena em Moçambique por precaução ao coronavírus
 Pelo menos 800 cidadãos provenientes de países com casos confirmados do novo coronavírus, o Covid-19, incluindo asiáticos, estão em quarentena em várias províncias moçambicanas, informou nesta sexta-feira, 21, o ministro da Saúde.
 Armindo Tiago, que se encontra na província de Manica, acrescentou que, desde o dia 22, foram feitos 24 mil rastreios nos principais aeroportos de Moçambique, sem qualquer caso positivo.
@@ -320,7 +320,7 @@ Armindo Tiago, que se encontra na província de Manica, acrescentou que, desde o
 Entretanto, o Boletim Informativo sobre o Covid-19, publicado pelo Ministério de Saúde, indica que até 16 de Fevereiro 158 estavam quarentena em seis províncias.
 O ministro da Saúde garantiu que o Governo reforçou a vigilância e abriu centros de isolamento para os casos com sintomatologia moderada ou grave durante a avaliação inicial na entrada.
 </doc>
-<doc id='voa_5327787' lang='por' type='mono' source_url='https://www.voaportugues.com/a/jair-bolsonaro-diz-que-teste-ao-novo-coronav%C3%ADrus-resultou-negativo/5327787.html' term='COVID'>
+<doc docid='voa_5327787' lang='por' type='mono' source_url='https://www.voaportugues.com/a/jair-bolsonaro-diz-que-teste-ao-novo-coronav%C3%ADrus-resultou-negativo/5327787.html' term='COVID'>
 Jair Bolsonaro diz que teste ao novo coronavírus resultou negativo
 O Presidente brasileiro Jair Bolsonaro revelou que o teste a que se submeteu para detetar a presença do novo coronavírus deu negativo.
 “HFA/SABIN atestam negativo para o COVID-19 o Sr. Pres. da República Jair Bolsonaro”, escreveu no Twitter nesta sexta-feira, 13.
@@ -331,7 +331,7 @@ Por outro lado, a imprensa americana revela hoje que o Presidente Donald Trump m
 Wajngarten encontrou-se com Trump e o vice-presidente Mike Pence na Flórida, num jantar no sábado, 7, em que também esteve presente o Presidente Bolsonaro.
 Os membros da comitiva brasileira que deslocou-se Estados Unidos foram todos submetidos a testes depois do seu regresso ao Brasil.
 </doc>
-<doc id='voa_5303341' lang='por' type='mono' source_url='https://www.voaportugues.com/a/alerta-para-a-chegada-do-coronav%C3%ADrus-aos-estados-unidos/5303341.html' term='COVID'>
+<doc docid='voa_5303341' lang='por' type='mono' source_url='https://www.voaportugues.com/a/alerta-para-a-chegada-do-coronav%C3%ADrus-aos-estados-unidos/5303341.html' term='COVID'>
 Alerta para a chegada do coronavírus aos Estados Unidos
 O Centro de Controlo e Prevenção de Doenças (CDC) dos Estados Unidos alertou os cidadãos nesta terça-feira, 25, que se preparem para a chegada do novo coronavírus ao país.
 "Estamos a pedir para os americanos se prepararem para a expectativa de que pode ser ruim", disse a diretora do Centro Nacional de Imunização e Doenças Respiratórias daquele centro.
@@ -339,7 +339,7 @@ O Centro de Controlo e Prevenção de Doenças (CDC) dos Estados Unidos alertou 
 Ela disse que as autoridades de saúde pública não têm ideia se a propagação da doença nos Estados Unidos seria leve ou grave, mas que os cidadãos devem estar prontos para uma perturbação significativa em suas vidas diárias.
 Os números oficiais mostram que existem 53 casos confirmados de Covid-19 nos EUA, dos quais 36 correspondem a passageiros do cruzeiro Diamond Princess, que foi ancorado no Japão e repatriado na semana passada.
 </doc>
-<doc id='voa_5332016' lang='por' type='mono' source_url='https://www.voaportugues.com/a/vice-presidente-do-zimbabu%C3%A9-viaja-para-a-china-para-tratamento-m%C3%A9dico/5332016.html' term='COVID'>
+<doc docid='voa_5332016' lang='por' type='mono' source_url='https://www.voaportugues.com/a/vice-presidente-do-zimbabu%C3%A9-viaja-para-a-china-para-tratamento-m%C3%A9dico/5332016.html' term='COVID'>
 Vice-presidente do Zimbabué viaja para a China para tratamento médico
 O vice-presidente do Zimbabué, Constantino Chiwenga, foi levado no final de semana para a China para exames médicos, disse uma autoridade na terça-feira.
 O porta-voz presidencial George Charamba disse à AFP que Chiwenga, um ex-general do exército que liderou a ascensão do Presidente Emmerson Mnangagwa ao poder que resultou na remoção de Robert Mugabe em 2017, "voou de volta para a China para o seu exame médico".
@@ -353,7 +353,7 @@ Sistema de saúde em declínio
 O sistema de saúde do país está numa péssima situação, com escassez de máquinas e medicamentos críticos e, frequentemente, com poucos funcionários.
 Aqueles que podem pagar muitas vezes procuram tratamento médico no exterior, especialmente na vizinha África do Sul.
 </doc>
-<doc id='voa_5335394' lang='por' type='mono' source_url='https://www.voaportugues.com/a/jogos-ol%C3%ADmpicos-podem-ser-adiados-para-o-final-do-ano/5335394.html' term='COVID'>
+<doc docid='voa_5335394' lang='por' type='mono' source_url='https://www.voaportugues.com/a/jogos-ol%C3%ADmpicos-podem-ser-adiados-para-o-final-do-ano/5335394.html' term='COVID'>
 Jogos Olímpicos podem ser adiados para o final do ano
 O presidente mundial de atletismo, Sebastian Coe, admitiu nesta quinta-feira, 19 de março, que as Olimpíadas de Tóquio poderão ser transferidas para o final do ano devido surto de coronavírus, mas disse que era muito cedo para tomar uma decisão definitiva.
 Os responsáveis pelos Jogos Olímpicos reconheceram na quarta-feira que não havia solução "ideal", pois um número crescente de atletas manifestou preocupação.
@@ -362,7 +362,7 @@ O presidente do Comité Olímpico Internacional Thomas Bach disse no início des
 Mas Sebastian Coe, que é membro da Comissão de Coordenação dos Jogos Olímpicos de Tóquio, admitiu em entrevista à BBC que era possível um atraso.
 AFP
 </doc>
-<doc id='voa_5299477' lang='por' type='mono' source_url='https://www.voaportugues.com/a/aumento-de-casos-de-coronav%C3%ADrus-no-ir%C3%A3o-pode-ser-o-pior-de-todos-os-tempos/5299477.html' term='COVID'>
+<doc docid='voa_5299477' lang='por' type='mono' source_url='https://www.voaportugues.com/a/aumento-de-casos-de-coronav%C3%ADrus-no-ir%C3%A3o-pode-ser-o-pior-de-todos-os-tempos/5299477.html' term='COVID'>
 Aumento de casos de coronavírus no Irão pode ser o pior de todos os tempos
 A janela de oportunidade para conter o surto de coronavírus ainda existe, mas está a estreitar
 A Organização Mundial de Saúde (OMS) diz temer que o aumento no número de casos de coronavírus no Irão possa ser um sinal de coisas piores.
@@ -381,7 +381,7 @@ O diretor-geral da OMS está em Addis Abeba, na Etiópia, participando de uma re
 A OMS está a trabalhar para tentar impedir o COVID-19 de ganhar uma posição nos países em desenvolvimento. A OMS está a focar os esforços no fortalecimento de sistemas de saúde frágeis no continente africano e em outras regiões vulneráveis.
 O Egito é o único país africano com um caso confirmado de coronavírus. A OMS relata casos suspeitos de COVID-19 em vários outros países africanos que foram testados e provaram ser negativos.
 </doc>
-<doc id='voa_5331102' lang='por' type='mono' source_url='https://www.voaportugues.com/a/aumentam-pedidos-para-fechar-fronteiras-da-guin%C3%A9-bissau/5331102.html' term='COVID'>
+<doc docid='voa_5331102' lang='por' type='mono' source_url='https://www.voaportugues.com/a/aumentam-pedidos-para-fechar-fronteiras-da-guin%C3%A9-bissau/5331102.html' term='COVID'>
 Covid19: Aumentam pedidos para fechar fronteiras da Guiné-Bissau
 O Governo da Guiné-Bissau liderado por Nuno Gomes Nabiam pondera a possibilidade de suspender aulas, em consequência do surto de coronavírus, ja confirmado nos países vizinhos do Senegal e Guiné-Conacri.
 O assunto vai ser analisado pela comissão técnica do Ministério da Educação e, depois, o Governo tomará a decisão, mas em Bissau a mobilização contra a doença é visivel.
@@ -391,7 +391,7 @@ Em entrevista à VOA, à margem do lançamento da campanha de sensibilização, 
 Sobre a falta de materiais sanitários, Fernandes afirmou que “é uma prioridade”
 No domingo, 15, o Governo de Nuno Gomes Nabian ordenou o encerramento de quiosques e discotecas e proibiu as atividades tradicionais com aglomeraçao das pessoas.
 </doc>
-<doc id='voa_5332185' lang='por' type='mono' source_url='https://www.voaportugues.com/a/coronav%C3%ADrus-cancela-dos-maiores-exerc%C3%ADcios-militares-em-%C3%A1frica/5332185.html' term='COVID'>
+<doc docid='voa_5332185' lang='por' type='mono' source_url='https://www.voaportugues.com/a/coronav%C3%ADrus-cancela-dos-maiores-exerc%C3%ADcios-militares-em-%C3%A1frica/5332185.html' term='COVID'>
 Coronavírus cancela um dos maiores exercícios militares em África
 O Comando para África dos EUA disse que a decisão de cancelar o enorme exercício chamado de “Leão Africano” liderado pelos EUA foi tomada "com muita cautela" e com base nas restrições de viagens internacionais associadas ao COVID-19 e no desejo de minimizar o risco de membros do serviço serem expostos ao coronavírus.
 Os enormes exercícios do Leão Africano liderados pelos EUA em Marrocos, Tunísia e Senegal deveriam envolver 9 mil e 300 soldados de oito países.
@@ -402,7 +402,7 @@ O exercício Leão Africano estava programado para ter lugar de 23 de Março a 4
 Enquanto isso, as autoridades dos EUA reduziram significativamente os esperados exercícios do “Defender 2020” na Europa. O porta-voz do Pentágono, Jonathan Hoffman, disse na segunda-feira que, embora o exercício principal possa ser restringido, o Pentágono espera continuar com alguns componentes individuais do exercício para obter o "maior benefício possível".
 O objectivo do "Defender 2020" é testar a capacidade do Exército de movimentar uma força entre 10 mil a 20 mil soldados para treino em 10 países europeus. Desde Janeiro cerca de 6 mil soldados já haviam sido enviados dos Estados Unidos para a Europa.
 </doc>
-<doc id='voa_5332778' lang='por' type='mono' source_url='https://www.voaportugues.com/a/s%C3%A3o-tom%C3%A9-e-pr%C3%ADncipe-assembleia-nacional-autoriza-estado-de-emerg%C3%AAncia-por-causa-do-coronav%C3%ADrus/5332778.html' term='COVID'>
+<doc docid='voa_5332778' lang='por' type='mono' source_url='https://www.voaportugues.com/a/s%C3%A3o-tom%C3%A9-e-pr%C3%ADncipe-assembleia-nacional-autoriza-estado-de-emerg%C3%AAncia-por-causa-do-coronav%C3%ADrus/5332778.html' term='COVID'>
 São Tomé e Príncipe: Assembleia Nacional autoriza Estado de Emergência por causa do coronavírus
 A Assembleia Nacional de São Tomé e Príncipe deu autorização ao Presidente da República para decretar o estado de emergência em todo território nacional face aos riscos de contaminação do Covid-19.
 A autorização do parlamento São-tomense, convertida em “Projeto de resolução” foi emitida esta terça-feira, 17, na sequência de um pedido para o efeito, formulado pelo Chefe de Estado, Evaristo Carvalho.
@@ -411,7 +411,7 @@ O partido Ação Democrática Independente (ADI), o maior da oposição de São 
 Na nota assinada por Patrice trovoada, o partido exige ao governo São-tomense medidas mais contundentes e eficazes para impedir a entrada da doença no país.
 De acordo com as autoridades sanitárias, até agora São Tomé e Príncipe não registou qualquer caso suspeito do coronavírus, mas algumas pessoas chegadas do estrangeiro encontram-se em quarentena.
 </doc>
-<doc id='voa_5335994' lang='por' type='mono' source_url='https://www.voaportugues.com/a/governo-angolano-suspende-aulas-por-duas-semanas/5335994.html' term='COVID'>
+<doc docid='voa_5335994' lang='por' type='mono' source_url='https://www.voaportugues.com/a/governo-angolano-suspende-aulas-por-duas-semanas/5335994.html' term='COVID'>
 Governo angolano suspende aulas por duas semanas
 A ministra da Saúde de Angola, Luísa Maria Alves Grilo, emitiu um decreto executivo nesta quinta-feira, 19, a suspender as aulas em todos os dias níveis de Ensino, a partir de 24 de março por 15 dias, prorrogável automaticamente, até decisão em contrário.
 Grilo justifica a medida com a necessidade de "evitar a eventual propagação da pandemia Covid-19 no seio das instituições de ensino, nos subsistemas de educação pré-escolar, ensino geral, ensino secundário técnico profissional, ensino secundário pedagógico e da educação de adultos".
@@ -420,7 +420,7 @@ Ontem, numa mensagem à nação, o Presidente João Loureçlo justificou o decre
 O Governo fechou as fronteiras, por via aérea, terrestre e marítima.
 O país não tem nenhum caso positivo, mas, Segundo disse hoje em Cabinda a ministra da Saúde, Sílvia Lutucuta, há sete suspeitos, cujos resultados devem ser conhecidos no fim de semana.
 </doc>
-<doc id='voa_5333840' lang='por' type='mono' source_url='https://www.voaportugues.com/a/um-dos-mais-pr%C3%B3ximos-colaboradores-de-jair-bolsonaro-tem-coronav%C3%ADrus/5333840.html' term='COVID'>
+<doc docid='voa_5333840' lang='por' type='mono' source_url='https://www.voaportugues.com/a/um-dos-mais-pr%C3%B3ximos-colaboradores-de-jair-bolsonaro-tem-coronav%C3%ADrus/5333840.html' term='COVID'>
 Um dos mais próximos colaboradores de Jair Bolsonaro tem coronavírus
 O ministro do Gabinete de Segurança Institucional (GSI) da Presidência brasileira, Augusto Heleno, informou nesta quarta-feira,18, que o teste feito ao novo coronavirus deu positivo e aguarda pela contra-análise.
 Heleno é um dos mais próximos colaboradores do Presidente Jair Bolsonaro e integrou a comitiva que se deslocou à Flórida para se encontrar com Donald Trump, aumentando para 16 os membros da delegação brasileira infetada com o coronavírus.
@@ -436,13 +436,13 @@ Nigéria: o impacto do coronavírus na vida quotidiana
 Veja Também
 Coronavírus "pode adiar" eleições autárquicas em Angola
 </doc>
-<doc id='voa_5325818' lang='por' type='mono' source_url='https://www.voaportugues.com/a/governo-de-mo%C3%A7ambique-colocar%C3%A1-em-quarentena-pessoas-provenientes-de-seis-pa%C3%ADses/5325818.html' term='COVID'>
+<doc docid='voa_5325818' lang='por' type='mono' source_url='https://www.voaportugues.com/a/governo-de-mo%C3%A7ambique-colocar%C3%A1-em-quarentena-pessoas-provenientes-de-seis-pa%C3%ADses/5325818.html' term='COVID'>
 Governo de Moçambique colocará em quarentena pessoas provenientes de seis países
 O Ministério da Saúde (Misau) de Moçambique anunciou hoje que vai colocar em quarentena cidadãos provenientes da China, Itália, Coreia do Sul, Irão, Alemanha e França.
 A medida afeta países que que têm mais de mil casos de Covid-19 e que registam mais de 100 infeções diárias.
 Entretanto, as pessoas terão de ficar em casa e não nas instalações de saúde, a não ser as que tiverem sintomas e necessitarem de tratamento.
 </doc>
-<doc id='voa_5330970' lang='por' type='mono' source_url='https://www.voaportugues.com/a/covid19-especialistas-angolanos-divididos-em-rela%C3%A7%C3%A3o-%C3%A0-resposta-do-governo/5330970.html' term='COVID'>
+<doc docid='voa_5330970' lang='por' type='mono' source_url='https://www.voaportugues.com/a/covid19-especialistas-angolanos-divididos-em-rela%C3%A7%C3%A3o-%C3%A0-resposta-do-governo/5330970.html' term='COVID'>
 Covid19: Especialistas angolanos divididos em relação à resposta do Governo
 A forma como o Governo angolano está a lidar com o novo coronavírus, ou Covid 19, divide especialistas em saúde em Luanda.
 Enquanto uns mostram-se apreensivos caso o país venha a registar um caso positivo, outros tranquilizam os cidadãos e recomendam seguir as orientações das autoridades sanitárias.
@@ -457,7 +457,7 @@ Por seu lado, o psicólogo clínico Carlinhos Zassala recomenda ao Executivo par
 "O pânico, às vezes, pode trazer mais estragos que a própria realidade e há muitos aspetos psicológicos a ter em conta neste processo e a comissão criada para o Covid19 deve incluir psicólogos que podem lidar com as pessoas nestes casos”, defende Zassala.
 Angola tem tomado medidas para evitar a entrada do vírus no país, com a proibição da entrada de pessoas de países com grande número de casos e quarentena a pessoas suspeitas.
 </doc>
-<doc id='voa_5335820' lang='por' type='mono' source_url='https://www.voaportugues.com/a/autoridades-da-hu%C3%ADla-refor%C3%A7am-vigil%C3%A2ncia-devido-a-casos-de-coronav%C3%ADrus-na-nam%C3%ADbia/5335820.html' term='COVID'>
+<doc docid='voa_5335820' lang='por' type='mono' source_url='https://www.voaportugues.com/a/autoridades-da-hu%C3%ADla-refor%C3%A7am-vigil%C3%A2ncia-devido-a-casos-de-coronav%C3%ADrus-na-nam%C3%ADbia/5335820.html' term='COVID'>
 Autoridades da Huíla reforçam vigilância devido a casos de coronavírus na Namíbia
 A propagação do novo coronavírus em África está a fazer com que as autoridades sanitárias da província da Huíla reforcem os apelos e às medidas de prevenção contra a doença.
 O anúncio de casos na vizinha Namíbia, que está a 24 horas de viagem por carro do Lubango, faz aumentar as preocupações das autoridades sanitárias locais.
@@ -466,14 +466,14 @@ Na ocasião, o governador Luís Nunes fez um apelo particular às instituições
 “Os melhores atores para conseguirmos atingir as diversas franjas da sociedade levando conhecimento são efetivamente as igrejas, os partidos politicos, as escolas e os órgãos de comunicação social, pois desempenham um papel forte de educador da sociedade. Outra questão que se levanta tem que ver com a realização de atividades que reúnam acima de 50 pessoas, pois a propagação do vírus é tão célere que poderá tão facilmente se propagar, pelo que, devemos ser cautelosos na realização de atividades do género”, afirmou.
 Em 11 pontos de entrada e saída de passageiros na capital da província, Lubano, estão destacadas equipas de técnicos de saúde para detetar eventuais casos, enquanto um espaço próximo do hospital central local está a ser preparado para receber possíveis doentes com o novo coronavírus.
 </doc>
-<doc id='voa_5327411' lang='por' type='mono' source_url='https://www.voaportugues.com/a/covid-19-presidente-angolano-suspende-viagens-de-membros-do-governo-e-da-administra%C3%A7%C3%A3o-ao-exterior/5327411.html' term='COVID'>
+<doc docid='voa_5327411' lang='por' type='mono' source_url='https://www.voaportugues.com/a/covid-19-presidente-angolano-suspende-viagens-de-membros-do-governo-e-da-administra%C3%A7%C3%A3o-ao-exterior/5327411.html' term='COVID'>
 COVID-19: Presidente angolano suspende viagens de membros do Governo e da Administração ao exterior
 O Presidente angolano suspendeu as viagens dos membros do Governo e da Administração Central e Local do Estado com forma de evitar a importação de casos e salvaguardar a saúde da população em geral.
 A decisão foi revelada num comunicado da Casa Civil da Presidência da República, que justifica a medida com a alta taxa de mortalidade e o impacto social e económico negativo em todo o mundo.
 A nota esclarece que o Presidente da República autorizará “excepcionalmente a saída dos membros da função Executiva, quando os interesses do Estado assim o justificarem”.
 Angola não registou nenhum caso de coronavírus e tem preparado dois centros para o acolhimento de eventuais suspeitos ou doentes.
 </doc>
-<doc id='voa_5328180' lang='por' type='mono' source_url='https://www.voaportugues.com/a/trump-declara-emerg%C3%AAncia-nacional-devido-a-pandemia-de-coronav%C3%ADrus/5328180.html' term='COVID'>
+<doc docid='voa_5328180' lang='por' type='mono' source_url='https://www.voaportugues.com/a/trump-declara-emerg%C3%AAncia-nacional-devido-a-pandemia-de-coronav%C3%ADrus/5328180.html' term='COVID'>
 Trump declara Emergência Nacional devido a pandemia de coronavírus
 O presidente dos EUA, Donald Trump, disse que declara uma emergência nacional, invocando a Lei Stafford para permitir que mais ajuda federal flua para os estados e cidades combaterem a pandemia de coronavírus.
 "Iremos superar a ameaça do vírus", disse o presidente na tarde de sexta-feira, numa conferência de imprensa, na Casa Branca.
@@ -486,7 +486,7 @@ Apenas cerca de um por cento dos 136.000 casos da doença COVID-19 estão nos Es
 Alguns especialistas dizem que o número de casos pode realmente ser muito maior por causa dos testes limitados realizados, até agora, para a infecção por coronavírus.
 Casos de coronavírus foram agora reportados em 47 dos 50 estados americanos. Com 31 mortes, o Estado de Washington é o que até agora é o mais afectado.
 </doc>
-<doc id='voa_5337882' lang='por' type='mono' source_url='https://www.voaportugues.com/a/it%C3%A1lia-j%C3%A1-morreram-mais-padres-do-que-m%C3%A9dicos-v%C3%ADtimas-do-coronav%C3%ADrus/5337882.html' term='COVID'>
+<doc docid='voa_5337882' lang='por' type='mono' source_url='https://www.voaportugues.com/a/it%C3%A1lia-j%C3%A1-morreram-mais-padres-do-que-m%C3%A9dicos-v%C3%ADtimas-do-coronav%C3%ADrus/5337882.html' term='COVID'>
 Itália: Já morreram mais padres do que médicos, vítimas do coronavírus
 Eles vêm para abençoar aqueles que mais sofrem com o novo coronavírus. E então, cada vez mais, os padres da Itália morrem.
 A diocese de Bergamo, nordeste de Milão, parece ter sido a mais devastada pelo "assassino furtivo", coronavírus.
@@ -516,7 +516,7 @@ Como todas as outras vítimas, os clérigos são enterrados sem cerimônia.
 Funerais, juntamente com casamentos, foram proibidos por mais de uma semana para conter o contágio. E poderá continuar assim por mais semanas ou meses.
 AFP
 </doc>
-<doc id='voa_5294709' lang='por' type='mono' source_url='https://www.voaportugues.com/a/autoridades-da-hu%C3%ADla-refor%C3%A7am-controlo-contra-coronav%C3%ADrus/5294709.html' term='COVID'>
+<doc docid='voa_5294709' lang='por' type='mono' source_url='https://www.voaportugues.com/a/autoridades-da-hu%C3%ADla-refor%C3%A7am-controlo-contra-coronav%C3%ADrus/5294709.html' term='COVID'>
 Autoridades da Huíla reforçam controlo contra coronavírus
 As autoridades sanitárias da província angolana da Huíla estão em alerta máximo face ao alastramento do novo coronavírus pelo mundo e começou a implementar um conjunto de medidas de prevenção e contenção.
 Nos principais pontos de entrada e saída da capital Lubango foram colocados um total de 10 equipas multissectoriais de vigilância munidas de meios para detetar possíveis casos suspeitos da doença.
@@ -530,7 +530,7 @@ Diretor-geral da OMS diz que "todos os cenários estão sobre a mesa" devido ao 
 A mais recente actualização do Covid-19, nome científico da doença, aponta para 2.004 mortes pela infeção na China em mais de 77 mil casos e quatro óbitos fora do gigante asiático.
 O primeiro caso do novo coronavírus em África foi detetado no Egipto.
 </doc>
-<doc id='voa_5338419' lang='por' type='mono' source_url='https://www.voaportugues.com/a/s%C3%A3o-tom%C3%A9-e-pr%C3%ADncipe-operadores-tur%C3%ADsticos-advertem-que-empresas-podem-entrar-em-fal%C3%AAncia-/5338419.html' term='COVID'>
+<doc docid='voa_5338419' lang='por' type='mono' source_url='https://www.voaportugues.com/a/s%C3%A3o-tom%C3%A9-e-pr%C3%ADncipe-operadores-tur%C3%ADsticos-advertem-que-empresas-podem-entrar-em-fal%C3%AAncia-/5338419.html' term='COVID'>
 São Tomé e Príncipe: Operadores turísticos advertem que empresas podem entrar em falência
 As empresas do turismo de São Tomé e Príncipe podem cair na falência por causa da pandemia do COVID-19, dizem os proprietários.
 “A ameaça do coronavírus parou tudo”, lamenta João Carlos Silva, proprietário da Roça São João, no sul de São Tomé e presidente da CACAU, Casa das Artes, Criação, Ambiente e Utopias.
@@ -544,13 +544,13 @@ Para Silva, o Governo deve pensar num “plano de emergência para as pequenas e
 Ontem, o Governo são-tomense e os operadores económicos aconselharam a população a manter a calma e evitar o açambarcamento de produtos de primeira necessidade.
 Na terça-feira, 17, o Presidente da República, Evaristo de Carvalho, declarou o estado de emergência para fazer frente à pandemia do novo coronavirus.
 </doc>
-<doc id='voa_5337886' lang='por' type='mono' source_url='https://www.voaportugues.com/a/parque-nacional-de-virunga-fecha-ao-p%C3%BAblico-para-proteger-gorilas/5337886.html' term='COVID'>
+<doc docid='voa_5337886' lang='por' type='mono' source_url='https://www.voaportugues.com/a/parque-nacional-de-virunga-fecha-ao-p%C3%BAblico-para-proteger-gorilas/5337886.html' term='COVID'>
 Parque Nacional de Virunga fecha ao público para proteger gorilas
 As autoridades da República Democrática do Congo fecharam um popular parque nacional que abriga espécies de gorilas ameaçadas de extinção, temendo que o surto de coronavírus possa afetar os animais.
 O Parque Nacional de Virunga fechou ao público depois de receber conselhos de especialistas que disseram que os gorilas das montanhas e outros primatas "provavelmente eram suscetíveis a complicações decorrentes do vírus."
 O parque também disse que fechou para evitar grandes ajuntamentos junto das exposições uma vez que o surto do COVID-19 ainda não foi contido. As autoridades esperam que o encerramento seja temporário, mas não prevêem que as pessoas possam visitar as atrações antes do próximo 1 de junho.
 </doc>
-<doc id='voa_5326354' lang='por' type='mono' source_url='https://www.voaportugues.com/a/coronav%C3%ADrus-na-rdc-causa-alarme-no-u%C3%ADge/5326354.html' term='COVID'>
+<doc docid='voa_5326354' lang='por' type='mono' source_url='https://www.voaportugues.com/a/coronav%C3%ADrus-na-rdc-causa-alarme-no-u%C3%ADge/5326354.html' term='COVID'>
 Coronavírus na RDC causa alarme no Uíge
 O primeiro caso de Coronavírus na República Democrática do Congo está a causar preocupação na província do Uíge que tem longas fronteiras com esse país.
 As autoridades dizem no entanto que estão a acompanhar de perto a situação no país vizinho não havendo de momento qualquer indicio de propagação do virus que é um caso “importado”.
@@ -561,7 +561,7 @@ Em resposta o Secretário do Estado para a Saúde Franco Muvinda, que falava a R
 “O Ministério da saúde está a acompanhar com muita atenção o primeiro caso do Covid-19 na RDC. Em todo caso estamos a trabalhar nas medidas de precaução ao longo das fronteiras”, disse
 “O caso em referência é um caso importado e não temos circulação a nivel da comunidade que nos podia levar a reforçar as medidas que estamos a implementar ao longo da fronteira”, acrescentou em referência ao facto do caso registado ser de um cidadão vindo da Europa.
 </doc>
-<doc id='voa_5280548' lang='por' type='mono' source_url='https://www.voaportugues.com/a/china-coronav%C3%ADrus-mata-mais-de-800-pessoas-e-complica-planos-de-retorno-ao-trabalho/5280548.html' term='SARS'>
+<doc docid='voa_5280548' lang='por' type='mono' source_url='https://www.voaportugues.com/a/china-coronav%C3%ADrus-mata-mais-de-800-pessoas-e-complica-planos-de-retorno-ao-trabalho/5280548.html' term='SARS'>
 China: Coronavírus mata mais de 800 pessoas e complica planos de retorno ao trabalho
 A China diz que subiu, neste domingo, 9, para 811 o número de mortes causadas pelo surto do coronavírus, ultrapassando o de fatalidades globais causadas pela Síndrome respiratória aguda grave (SARS).
 A SARS matou 774 entre 2002/2003.
@@ -578,7 +578,7 @@ Corona, o vírus que cancelou o Ano Novo Chinês
 Em entrevista à BBC, o embaixador da China na Grã-Bretanha descreveuo coronavírus como "inimigo da humanidade", mas acrescentou que "é controlável, é evitável, é curável".
 "Neste momento, é muito difícil prever quando teremos um ponto de inflexão", disse Liu Xiaoming. "Certamente esperamos que chegue em breve, mas as medidas de isolamento e quarentena foram muito eficazes."
 </doc>
-<doc id='voa_1254360' lang='por' type='mono' source_url='https://www.voaportugues.com/a/a-38-2006-01-03-voa4-92230584/1254360.html' term='SARS'>
+<doc docid='voa_1254360' lang='por' type='mono' source_url='https://www.voaportugues.com/a/a-38-2006-01-03-voa4-92230584/1254360.html' term='SARS'>
 O epicentro de erupções da gripe das aves
 A Ásia continuou a ser em 2005 o epicentro de erupções da gripe das aves, com a Organização Mundial de Saúde (OMS) a advertir ser muito provável que uma pandemia de gripe humana ter inicio naquele continente.
 O vírus H5N1 infectou mais de 130 pessoas na Ásia nos últimos dois anos, matando mais de metade delas.
@@ -602,7 +602,7 @@ Joseph Domenech, veterinário - chefe da FAO, em Roma, disse que a China respond
 Contudo, a OMS diz ainda que a China tem sido lenta em partilhar amostras de tecidos de aves infectadas.
 O Banco de Desenvolvimento Asiático afirmou que uma pandemia de gripe humana teria um sério impacto na economia da região. O banco, com sede em Manila, Filipinas, disse que uma pandemia poderia reduzir para quase zero o índice crescimento da Ásia e a 14 por cento o comercio global de bens e serviços.
 </doc>
-<doc id='voa_1253736' lang='por' type='mono' source_url='https://www.voaportugues.com/a/a-38-2005-10-25-voa1-92225304/1253736.html' term='SARS'>
+<doc docid='voa_1253736' lang='por' type='mono' source_url='https://www.voaportugues.com/a/a-38-2005-10-25-voa1-92225304/1253736.html' term='SARS'>
 A possibilidade de uma epidemia global da febre das aves
 Numa altura em que os governos, a nível mundial, se preocupam com a possibilidade de uma epidemia global da febre das aves, um dos principais intervenientes é a China – onde se registaram, na ultima semana, mais dois novos surtos. Embora as organizações internacionais refiram que o tratamento dado pela China à gripe aviaria, se tenha tornado mais transparente, os cientistas queixam-se das restrições impostas aos seus estudos.
 Realizar pesquisa sobre a gripe aviaria na China não é fácil. Poucas pessoas conhecem isto melhor do que o doutor Guan Yi, director do Centro de Pesquisa Conjunta da Influenza, um projecto entre a Universidade de Hong Kong e a Universidade de Shantou, na província chinesa de Guangdong.
@@ -626,7 +626,7 @@ Joseph Domenech, o veterinário chefe da FAO, em Roma, acrescenta que a colabora
 Embora o sistema de vigilância da China seja uma preocupação, as organizações internacionais como a FAO adiantam que as autoridades responderam com rapidez sempre que tem surgido um surto de gripe aviaria.
 Dão como exemplo a China ter destruído, a semana passada, mais de 90 mil aves, e imposto medidas de quarentena para suster um surto de gripe das aves na Mongólia Interior.
 </doc>
-<doc id='voa_5305057' lang='por' type='mono' source_url='https://www.voaportugues.com/a/primeiro-caso-de-coronav%C3%ADrus-confirmado-no-brasil/5305057.html' term='SARS'>
+<doc docid='voa_5305057' lang='por' type='mono' source_url='https://www.voaportugues.com/a/primeiro-caso-de-coronav%C3%ADrus-confirmado-no-brasil/5305057.html' term='SARS'>
 Primeiro caso de coronavírus confirmado no Brasil
 Um segundo teste realizado pelas autoridades sanitárias brasileiras confirmou o primeiro caso do novo coronavírus no Brasil e na América Latina, disse nesta quarta-feira, 26, uma fonte citada pela agência Reuters.
 O teste foi feito depois de o Hospital Albert Einstein ter informado a possível infeção, em São Paulo, de um homem de 61 anos que esteve na Itália.
@@ -641,15 +641,15 @@ Donald Trump quer fundos do Congresso para combater coronavírus
 O Ministério da Saúde adiantou que o hospital "adotou todas as medidas preventivas para transmissão por gotículas, coletou amostras e realizou testes para vírus respiratórios comuns e o exame específico para SARS-CoV2 (RT-PCR, pelo protocolo Charité), conforme definido pela Organização Mundial de Saúde".
 Refira-se que Argélia e Canárias, ilhas de Espanha no norte de África, registaram também um caso de coronavírus de pessoas que estiveram na Itália.
 </doc>
-<doc id='voa_1253531' lang='por' type='mono' source_url='https://www.voaportugues.com/a/a-38-a-2004-12-21-2-1-92223474/1253531.html' term='SARS'>
+<doc docid='voa_1253531' lang='por' type='mono' source_url='https://www.voaportugues.com/a/a-38-a-2004-12-21-2-1-92223474/1253531.html' term='SARS'>
 Primeira visita a Macau  - 2004-12-21
 Na sua primeira visita a Macau como presidente da China, Hu Jintao, elogiou o registo do território nos cinco anos desde o seu regresso à soberania chinesa.  Macau, que foi administrado por Portugal durante mais de 400 anos, desfruta de um desenvolvimento económico sem precedentes, gerado por investimentos estrangeiros na sua recentemente liberalizada industria do jogo.  Hu Jintao disse que o tempo tem provado que a fórmula “um país, dois sistemas”, nas suas palavras, “inteiramente correcta”.  O falecido líder chinês, Deng Xiao Ping, delineou o conceito de “um pais, dois sistemas” para lidar com a então iminente devolução de Macau e da colónia britânica de Hong Kong nos finais dos anos 90. A política concedia um elevado grau de autonomia política para os dois territórios e preservava os seus sistemas capitalistas, apesar do sistema comunista da China.  O modelo foi também concebido para seduzir Taiwan, que tem sido autogovernado desde 1949, a regressar ao controlo de Pequim.  Mas enquanto Macau tem experimentado estabilidade e crescimento, Hong Kong tem sido assediado pró-problemas económicos e políticos desde que a Grã-Bretanha devolveu o território à China em 1997. A erupção do Síndroma Agudo Respiratório Severo (SARS) no ano passado e exigências por uma maior democracia tem sido alguns dos muitos desafios com que a administração local tem enfrentado.  Pequim recusou autorizar o sufrágio universal em Hong Kong em 2007 e 2008, altura em que se realizam as eleições legislativas e executivas, causando manifestações de protesto no principio do ano.  No Domingo, o governo de Hong Kong sofreu um outro embaraço, quando um tribunal o forçou a anular uma operação de privatização dos bens comerciais das habitações de renda económica no valor de três mil milhões de dólares.  Nas celebrações hoje em Macau, o presidente Hu Jintao criticou os dirigentes de Hong Kong, incluindo o chefe do território Tung Chee Hwa, que se encontrava presente e mostrava desconforto quando Hu falava.  Hu disse aos funcionários para reflectirem para o que Hong Kong tem feito desde que regressou a China, examinarem os seus problemas e melhorarem as suas capacidades.  O presidente Hu Jintao ainda não visitou Hong Kong desde que se tornou presidente da China e líder do partido comunista no ano passado.
 </doc>
-<doc id='voa_2503159' lang='por' type='mono' source_url='https://www.voaportugues.com/a/china-envia-unidade-militar-de-elite-para-ajudar-a-combater-ebola-na-liberia/2503159.html' term='SARS'>
+<doc docid='voa_2503159' lang='por' type='mono' source_url='https://www.voaportugues.com/a/china-envia-unidade-militar-de-elite-para-ajudar-a-combater-ebola-na-liberia/2503159.html' term='SARS'>
 China envia unidade militar de elite para ajudar a combater o Ébola na Libéria
 O Governo da China enviará uma unidade de elite do Exército Popular de Libertação para ajudar a Libéria a combater o Ébola, anunciou o Ministério das Relações Exteriores chinês nesta Sexta-feira, 31, em resposta a um apelo da ONU por um maior esforço global contra o vírus na África Ocidental. O esquadrão do Exército, que tem experiência no enfrentamento a doenças devido a uma epidemia da Síndrome Respiratória Aguda Grave (Sars) em 2002, vai construir um centro de tratamento de cem leitos na Libéria, disse Lin Songtian, director-geral do Departamento de Assuntos Africanos do ministério. Os Estados Unidos têm liderado a resposta internacional para tentar impedir a propagação da doença, que já matou cerca de 5.000 pessoas, ao enviar três mil soldados e destinar cerca de mil milhões de dólares.
 </doc>
-<doc id='voa_1254090' lang='por' type='mono' source_url='https://www.voaportugues.com/a/a-38-2005-10-06-voa2-92228134/1254090.html' term='SARS'>
+<doc docid='voa_1254090' lang='por' type='mono' source_url='https://www.voaportugues.com/a/a-38-2005-10-06-voa2-92228134/1254090.html' term='SARS'>
 A vigilância de doenças infecciosas
 A vigilância de doenças infecciosas constitui a principal tarefa da Organização Mundial de Saúde, ou OMS, que fiscaliza os surtos que podem tornar-se agressivos e espalharem-se para outros países.
 Algumas vezes, as populações são afectadas por epidemias locais ou regionais que irrompem subitamente, como a cólera, a pólio e o Ebola. Outras vezes, adoecem com enfermidades de que ninguém ouviu falar, como no caso do Síndroma Respiratório Agudo, ou na sigla inglesa SARS, que ameaça transformar-se numa pandemia global.
@@ -670,7 +670,7 @@ Boris Pavlin do CDC refere que teve a seu cargo as informações do campo.
 Pavlin sublinha que possuía um visto para entrar no Congo para investigar quaisquer indicações de surtos, mas que o pessoal foi capaz de conter a doença dentro de Angola.
 Registaram-se pelo menos 323 casos de febre hemorrágica de Marburg em Angola num surto que se encontra praticamente terminado. Mas, e como no caso de centenas de doenças infecciosas detectadas diariamente, torna-se necessária uma vigilância global altamente motivada e uma resposta eficaz para as manter controladas.
 </doc>
-<doc id='voa_1253699' lang='por' type='mono' source_url='https://www.voaportugues.com/a/a-38-a-2004-12-27-3-1-92224484/1253699.html' term='SARS'>
+<doc docid='voa_1253699' lang='por' type='mono' source_url='https://www.voaportugues.com/a/a-38-a-2004-12-27-3-1-92224484/1253699.html' term='SARS'>
 Desastroso impacto do terramoto sobre as economias
 Com todos os esforços focados na recolha das vitimas e no tratamento dos feridos, os governos ainda não tiveram tempo para aferir o desastroso impacto do terramoto de Domingo sobre as economias.
 No Banco de Desenvolvimento Asiático, uma instituição financeira não lucrativa em Manila, a capital da Filipinas, um porta-voz afirmou segunda-feira que levará alguns dias até que sejam feitas as avaliações económicas. Em vez disso, afirmou Ian Gill, é ajudar na recuperação.
@@ -686,11 +686,11 @@ O terramoto de Domingo poderá parar temporáriamente a recente explosão que o 
 Vários índices de bolsas asiáticas perderam valor na segunda-feira em resposta ao desastre. As acções das industrias de viagens foram as que mais se desvalorizaram – algumas linhas aéreas e empresas hoteleiras em Singapura e na Tailândia viram as suas acções caírem um por cento, ou mais.
 O efeito total do desastre não será entanto sentido nas bolsas asiáticas senão na terça-feira, porque os três maiores mercados de valores – Singapura, Hong Kong e Austrália – estiveram hoje fechados devido a um feriado.
 </doc>
-<doc id='voa_1261920' lang='por' type='mono' source_url='https://www.voaportugues.com/a/article-01-03-2012-birdflu-voanews-136602308/1261920.html' term='SARS'>
+<doc docid='voa_1261920' lang='por' type='mono' source_url='https://www.voaportugues.com/a/article-01-03-2012-birdflu-voanews-136602308/1261920.html' term='SARS'>
 Caso de gripe das aves causa apreensão
 As autoridades chinesas confirmaram que um homem de 39 anos morreu de gripe das aves na cidade chinesa Shenzen, depois de ter sido internado num hospital no dia do natal. As autoridades afirmam, no entanto que é mínimo o perigo de infecções deste tipo de gripe. Contudo há crescente preocupação no vizinho territrio de Hong Kong.A morte do condutor de autocarros Chen Fayu este fim-de-semana representa a primeira fatalidade nos últimos 18 meses na China causada por esse tipo de gripe .Apesar de se estar no ponto alto da época de gripes, o Dr. Lo Wing-lok, um perito em doenças infecciosas e antigo legislador em Hong Kong, permanece optimista que o caso registado em Shenzen poderá ser um caso isolado.“Apesar de se falar em mutação (do vírus) a verdade é que a situação permanece na mesma,” disse ele. “A doença continua a ser transmitida de ave para ave; ocasionalmente há um caso de transmissão de ave para seres humanos, mas está-se muito longe de isto ser uma doença transmitida entre seres humanos,” acrescentou.Lo mostrou-se contudo duvidoso das declarações das autoriaddes de Shenzen de que a gripe das aves não é prevalecente nos aviários e que Chen poderá ter contraído o virus H5N1 de pàssaros selvagens.Lo afirmou que se trata de um vírus de aves de aviàrio e que devido a essa declaração as pessoas poderão não tomar as precauções que devem ser tomadas.Residentes em Hong Kong e na adjacente província chinesa de Guangdong manifestam contudo nervosismo com as notícias da morte de Chen.Em zonas de alta densidade populacional, populações vivem lado a lado com animais usados como fontes de alimentos. Essas condições tornaram a região numa zona de forte incidência de doenças transmitidas de animais para seres humanos.Em 1996 registaram-se várias mortes causadas pela transmissao de gripe das aves de aves para seres humanos.Em 2003 a epidemia de SARS, síndroma severo respiratório agudo, teve o seu incio nos mercados de animais em Guangdon. Cerca de 40% dos casos totais de SARS no mundo ocorreram em Hong Kong.O centro de controlo de doenças de Shenzen disse que a morte de Chen foi causada uma estirpe do vírus H5N1 que é intransmissível entre seres humanos. A agência de notícias oficial chinesa Xinhua, apelou à população para não entrar em pânico.Entidades oficiais estão a trabalhar para acalmar e comunicar com o público sobre a doença algo que é uma mudança do que ocorreu há alguns anos atrás, conforme notou Thomas Abrham director do Projecto Informàtico de Saúde Pública em Hong Kong.“Há uma enorme mudança desde o fim de 2002 quando o governo chinês escondeu o que se passava em Guangdong o que levou a que o mundo só se apercebesse do que se passava quando se registaram casos em Hong Kong em Fevereiro de 2003,” disse ele. “Há agora uma norme mudança em termos daquilo que é noticiado,” acrescentou.Em Hong Kong as autoridades adoptaram medidas para impedir a propagação da gripe das aves, e abateram 19.000 galinhas em mercados locais e proíbiram a importação de aves de partes da província de Shenzen.O centro de protecção de saúde em Hong Kong confirmou que a estirpe de vírus que matou Chen é semelhante á estirpe detectada em aves mortas em Hong Kong no mês passado.Abraham afirma no entanto que o virus H5N1 é agora endémico pelo que os casos agora registados não são extraordinários, prevendo que casos continuarão ocorrer ocasionalmente.
 </doc>
-<doc id='voa_1254382' lang='por' type='mono' source_url='https://www.voaportugues.com/a/a-38-2006-08-09-voa3-92230754/1254382.html' term='SARS'>
+<doc docid='voa_1254382' lang='por' type='mono' source_url='https://www.voaportugues.com/a/a-38-2006-08-09-voa3-92230754/1254382.html' term='SARS'>
 Um Problema De Comunicação Interna
 O ministério chinês da Saúde confirmou que exames médicos indicaram que um soldado de 24 anos hospitalizado em Novembro de 2003 foi o primeiro caso humano conhecido de gripe aviaria.
 O soldado sofria de sintomas parecidos com uma pneumonia e era suspeito de ter contraído a doença respiratória SARS, mas testes deram um resultado negativo. Morreu poucos dias mais tarde num hospital militar.
@@ -705,13 +705,13 @@ O porta-voz da OMS na China afirmou ser possível que outros casos de infecçõe
 A confirmação faz elevar para 20 o numero total de casos confirmados de gripe aviaria em humanos na China, onde mais de metade deles foram fatais.
 A doença afecta primeiramente as aves, mas mais de 200 pessoas contraíram a doença em todo o mundo – quase todos por contacto com aves doentes. Cientistas receiam que o vírus possa sofrer uma mutação e espalhar-se facilmente entre os humanos, podendo causar milhões de mortos. Peritos em gripe aviaria afirmaram ser essencial identificar todos os casos humanos para ajudar a seguir a doença e possíveis mudanças do vírus.
 </doc>
-<doc id='voa_2827351' lang='por' type='mono' source_url='https://www.voaportugues.com/a/oms-nega-declarar-mers-emergencia-sanitaria-mundial/2827351.html' term='MERS'>
+<doc docid='voa_2827351' lang='por' type='mono' source_url='https://www.voaportugues.com/a/oms-nega-declarar-mers-emergencia-sanitaria-mundial/2827351.html' term='MERS'>
 OMS não declara a Síndrome Respiratória do Médio Oriente uma emergência sanitária mundial
 O comité de emergência da Organização Mundial de Saúde (OMS), responsável por avaliar a perigosidade da Síndrome Respiratória do Médio Oriente (MERS), decidiu que por enquanto esta não constitui razão para alarme mundial.
 Os especialistas reuniram-se pela nonagésima vez desde que o surto começou, em 2012, e as suas conclusões foram dadas a conhecer pela OMS.
 Como mais relevante sobressai o facto de os peritos entenderem que, de momento, não se justifica declarar-se a MERS uma emergência sanitária mundial, porque nem sequer existe comprovação de haver uma transmissão sustentada do vírus na comunidade internacional.
 </doc>
-<doc id='voa_4110131' lang='por' type='mono' source_url='https://www.voaportugues.com/a/mohammed-bin-salman-centro-geodesico-arabia-saudita/4110131.html' term='MERS'>
+<doc docid='voa_4110131' lang='por' type='mono' source_url='https://www.voaportugues.com/a/mohammed-bin-salman-centro-geodesico-arabia-saudita/4110131.html' term='MERS'>
 Mohammed bin Salman, o centro geodésico da Arábia Saudita
 Se recuarmos a 2015, veremos o Príncipe Mohammad bin Salman (mbS) ser nomeado Ministro da Defesa e, em Junho deste ano, com o afastamento e destituição do até então Príncipe Herdeiro Mohammed bin Nayef, também Ministro do Interior, vemos MbS tornar-se Senhor de toda a Segurança Interna Saudita.
 Com a demissão/detenção agora anunciada, do Príncipe Mitaab bin Abdullah, Chefe da Guarda Nacional, pode-se dizer que aquele, que em Junho deste ano, foi entronizado como Príncipe Herdeiro (Mohammad bin Salman), tem agora poder de fogo suficiente para garantir as reformas que quer implementar no Reino, na sua Visão 2030, de um Mundo pós-petróleo.
@@ -730,7 +730,7 @@ MbS está-nos a deixar confuso, apenas porque está a ser consequente com as esp
 http://www.bragapiresraul.pt
 Politólogo/Arabista/Colaborador VOA/Radar Magrebe
 </doc>
-<doc id='voa_2536771' lang='por' type='mono' source_url='https://www.voaportugues.com/a/vacina-experimental-contra-o-ebola-tem-resultados-promissores-nos-eua/2536771.html' term='ebola'>
+<doc docid='voa_2536771' lang='por' type='mono' source_url='https://www.voaportugues.com/a/vacina-experimental-contra-o-ebola-tem-resultados-promissores-nos-eua/2536771.html' term='ebola'>
 Vacina experimental contra o ébola tem resultados promissores nos EUA
 Cientistas disseram estar mais perto do desenvolvimento de uma vacina viável contra o ébola, após resultados promissores de um teste de fase 1, mas advertiram que ainda serão precisos meses antes do seu uso em campo.
 O New England Journal of Medicin revela que na primeira fase de testes, 20 adultos saudáveis tomaram injecções, divididas em doses maiores e menores da vacina, e todos desenvolveram os anti-corpos necessários para combater o ébola. A revista cita cientistas do Instituto Nacional de Saúde dos Estados Unidos (NIH, na sigla em inglês), que conduziram o estudo.
@@ -738,19 +738,19 @@ As vacinas em desenvolvimento "podem agir para por um fim a esta epidemia e, sem
 "Com base nestes resultados positivos obtidos no primeiro teste com humanos desta candidata a vacina, aceleramos nossos planos para a realização de testes mais amplos a fim de determinar se a vacina é eficaz na prevenção da infecção por ébola", concluiu Fauci. Entretanto, a vacina do NIAID/GSK ainda está longe de ser testada em campo.
 O que sabe sobre o ébola?
 </doc>
-<doc id='voa_2471189' lang='por' type='mono' source_url='https://www.voaportugues.com/a/reporter-de-imagem-da-nbc-infectado-com-ebola-na-liberia/2471189.html' term='ebola'>
+<doc docid='voa_2471189' lang='por' type='mono' source_url='https://www.voaportugues.com/a/reporter-de-imagem-da-nbc-infectado-com-ebola-na-liberia/2471189.html' term='ebola'>
 Repórter de imagem da NBC infectado com Ébola na Libéria
 Um repórter de imagem "freelancer" que trabalhava na Libéria para a NBC News foi infectado com o vírus Ébola e será enviado para os Estados Unidos, informou a cadeia televisiva americana. "O freelancer ficou doente com sintomas nesta Quarta-feira, sentindo-se cansado e com dores no corpo", além de apresentar febre, acrescentou a emissora na sua página na Internet.
 "Imediatamente, ele mesmo se pôs em quarentena e procurou orientação médica". O nome do profissional, de 33 anos, não foi divulgado, mas a NBC disse que "esteve a trabalhar na Libéria em vários projectos nos últimos três anos". Os colegas do repórter de imagem estão a ser monitorizados.
 Este é o quarto americano a contrair ébola na Libéria. Os outros três eram missionários que foram infectados em centros médicos.
 </doc>
-<doc id='voa_2413042' lang='por' type='mono' source_url='https://www.voaportugues.com/a/angola-em-alerta-maximo-para-travar-ebola/2413042.html' term='ebola'>
+<doc docid='voa_2413042' lang='por' type='mono' source_url='https://www.voaportugues.com/a/angola-em-alerta-maximo-para-travar-ebola/2413042.html' term='ebola'>
 Angola em alerta máximo para travar ébola
 As autoridades de Angola estão em alerta máximo para evitar a entrada do ébola no país. Adelaide de Carvalho, porta-voz da Comissão Nacional de Protecção Civil, disse depois de uma reunião daquele órgão que os pontos de fronteira estão a controlar todos que entram pra determinar de onde provêm e se passaram por algum dos países afectos.
 Carvalho afirmou que o Plano Nacional de Contingência para o Controlo do Ébola foi criado como medida de prevenção ou redução do risco de entrada do vírus no país. O mesmo inclui a prevenção, preparação, resposta e recuperação.
 A porta-voz reiterou que não foi registado nenhum caso de suspeita da doenças.
 </doc>
-<doc id='voa_2474146' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-embaixadora-americana-na-praia/2474146.html' term='ebola'>
+<doc docid='voa_2474146' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-embaixadora-americana-na-praia/2474146.html' term='ebola'>
 Ébola: Embaixadora americana na Praia diz que compreende decisão de Cabo Verde
 Em entrevista à Voz da América, a embaixadora dos Estados Unidos em Cabo Verde considera normal a decisão tomada pelo governo cabo-verdiano de incluir a América na lista de países cujos cidadãos estão interditados de entrar no arquipélago nos próximos 30 dias, devido à epidemia de Ébola.
 Adrienne 0’Neal disse lamentar o aparecimento do primeiro caso nos Estados Unidos, mas afirmou que seria injusto deixar os Estados Unidos fora da lista, depois de se ter incluído o Senegal que também detectara um caso de um doente infectado pelo vírus do Ébola.
@@ -762,7 +762,7 @@ O delegado de saúde Praia avançou à nossa reportagem que o arquipélago já r
 Refira-se que o governo cabo-verdiano decidiu incluir os Estados Unidos na lista de países cujos cidadãos estão proibidos de entrar no arquipélago, depois da inclusão da Libéria, Serra Leoa, Guiné Conacri, Nigéria e Senegal, países que registaram casos da doença do Ébola.
 Mais sobre o Ébola
 </doc>
-<doc id='voa_2460872' lang='por' type='mono' source_url='https://www.voaportugues.com/a/cancro-violento-do-extremismo-tem-que-terminar-barack-obama/2460872.html' term='ebola'>
+<doc docid='voa_2460872' lang='por' type='mono' source_url='https://www.voaportugues.com/a/cancro-violento-do-extremismo-tem-que-terminar-barack-obama/2460872.html' term='ebola'>
 "Cancro violento do extremismo tem que terminar" - Barack Obama
 O Presidente americano Barack Obama apelou aos dirigentes mundiais a juntarem-se-lhe nos esforços para “reduzir e destruir” o Estado Islâmico.
 Discursando há pouco, perante a Assembleia-Geral das Nações Unidas, em Nova Iorque, Obama disse que o grupo tem aterrorizado inocentes no Iraque e na Síria com decapitações, matando crianças a tiro, lançando os mortos em valas comuns e colocando à fome minorias religiosas.
@@ -775,7 +775,7 @@ Os americanos vão continuar a “trabalhar para responder aos nossos problemas�
 Discurso do Presidente americano na Assembleia Geral da ONU, em Nova Iorque, esta manhã
 renderExternalContent("https://www.youtube.com/embed/UK7JEYqIfw4?&&&fs=1&enablejsapi=1")
 </doc>
-<doc id='voa_2534006' lang='por' type='mono' source_url='https://www.voaportugues.com/a/kuangana-diz-que-governo-tem-que-acabar-com-exclusao-e-asimetrias-regionais/2534006.html' term='ebola'>
+<doc docid='voa_2534006' lang='por' type='mono' source_url='https://www.voaportugues.com/a/kuangana-diz-que-governo-tem-que-acabar-com-exclusao-e-asimetrias-regionais/2534006.html' term='ebola'>
 Kuangana: Governo tem que acabar com exclusão e asimetrias regionais
 O presidente do Partido de Renovação Social Eduardo Kuangana voltou a reafirmar que o federalismo essencial para o desenvolvimento socio-económico e político de Angola.
 “Pedimos ao povo angolano para trabalhar para que este projeto seja alcançado, embora alguns tendam a temer este projeto, mas ele é uma das formas viáveis de alcançar o desenvolvimento desejado em Angola”, afirmou Kuangana.
@@ -786,7 +786,7 @@ Por isso, lançou o desafio à população angolana para manter o controlo das a
 “A riqueza do país deve ser distribuída para todas as regiões, sem assimetrias a níveis regionais, não podem existir uns que engordam e outros emagrecem”, disse.
 O presidente do PRS manifestou-se preocupado com as medidas de seguranças das fronteiras, notando que o território angolano faz fronteira com vários países onde se constatam surtos de varias endemias que assolam o continente, com realce para o ébola.
 </doc>
-<doc id='voa_2442806' lang='por' type='mono' source_url='https://www.voaportugues.com/a/obama-vai-enviar-medicamentos-pessoal-e-tropas-para-combater-o-ebola/2442806.html' term='ebola'>
+<doc docid='voa_2442806' lang='por' type='mono' source_url='https://www.voaportugues.com/a/obama-vai-enviar-medicamentos-pessoal-e-tropas-para-combater-o-ebola/2442806.html' term='ebola'>
 Obama vai enviar medicamentos, pessoal e tropas para combater o ébola
 O presidente americano Barack Obama afirmou ontem, 7, que as forças armadas americanas poderão ajudar na luta contra a epidemia de ébola na África Ocidental que já matou mais de duas mil pessoas.
 A administração Obama já solicitou 88 milhões de dólares para o combate à doença que, segundo o presidente, deve ser combatida já, antes da mutação do vírus ou que se espalhe a outras partes do mundo.
@@ -798,7 +798,7 @@ O Governo americano pediu ao Congresso 88 milhões de dólares para cobrir os cu
 O último pedido foi feito na passada sexta-feira, 5, no valor de 30 milhões de dólares para cobrir o funcionamento dos Centros de Controle e Prevenção de Doenças. Anteriormente, tinham sido solicitados 58 milhões para pesquisas, testes e fabrico de duas vacinas.
 Até agora, há cerca de 100 americanos nos países da África Ocidental afectados pelo ébola, entre epidemiologistas e oficiais de inteligência de rastreamento da doença. Esse número deverá crescer para pelo menos 150 nas próximas semanas.
 </doc>
-<doc id='voa_4411861' lang='por' type='mono' source_url='https://www.voaportugues.com/a/mais-uma-v%C3%ADtima-mortal-do-%C3%A9bola-na-rep-dem-do-congo/4411861.html' term='ebola'>
+<doc docid='voa_4411861' lang='por' type='mono' source_url='https://www.voaportugues.com/a/mais-uma-v%C3%ADtima-mortal-do-%C3%A9bola-na-rep-dem-do-congo/4411861.html' term='ebola'>
 Mais uma vítima mortal do ébola na Rep. Dem. do Congo
 O ministério da Saúde confirmou a morte de mais uma pessoa, devido ao ébola na República Democrática do Congo, aumentando para 12 o número de vítimas mortais.
 O caso ocorreu em Iboko, uma área rural da província de Équateur, onde o ministério da Saúde diz haver quatro novos casos suspeitos da doença.
@@ -817,7 +817,7 @@ Faça o Download
 268p | 5,8MB
 320p | 8,6MB
 </doc>
-<doc id='voa_2436189' lang='por' type='mono' source_url='https://www.voaportugues.com/a/obama-para-esta-doenca-ebola-nao-sera-facil-mas-sabemos-como-faze-lo-/2436189.html' term='ebola'>
+<doc docid='voa_2436189' lang='por' type='mono' source_url='https://www.voaportugues.com/a/obama-para-esta-doenca-ebola-nao-sera-facil-mas-sabemos-como-faze-lo-/2436189.html' term='ebola'>
 Obama: “Parar esta doença (Ébola) não será fácil, mas sabemos como fazê-lo.”
 Num vídeo publicado pela Casa Branca, o presidente Obama apela aos povos da Africa Ocidental, nos países actualmente afectados pelo Ébola, para aprenderem sobre as realidades e os mitos sobre o Ébola.
 Obama recorda ser impossível contrair a doença através do ar, por contacto casual e que a forma mais comum é quando se tocam os fluidos corporais de alguém doente ou que faleceu com a doença (através do suor, da saliva e do sangue) ou algo contaminado (uma agulha por exemplo). E pede aos que estiverem doentes (por exemplo se tiverem febre alta) para irem de imediato a um centro médico.
@@ -825,7 +825,7 @@ Obama recorda ser impossível contrair a doença através do ar, por contacto ca
 Obama adverte os africanos a não tocarem nos corpos de pessoas infectadas com o Ébola, referindo-se à pratica tradicional de tocar e beijar o corpo antes do funeral.
 “Podemos salvar vidas e os nossos países podem trabalhar em conjunto para melhorar a saúde publica para quês surtos deste tipo não voltem a verificar-se” disse Obama.
 </doc>
-<doc id='voa_2474392' lang='por' type='mono' source_url='https://www.voaportugues.com/a/jornalista-americano-que-contraiu-ebola-ja-esta-nos-eua/2474392.html' term='ebola'>
+<doc docid='voa_2474392' lang='por' type='mono' source_url='https://www.voaportugues.com/a/jornalista-americano-que-contraiu-ebola-ja-esta-nos-eua/2474392.html' term='ebola'>
 Jornalista americano que contraiu Ébola já está nos EUA
 Ashoka Mukpo, fotojornalista freelance que contraiu vírus do Ébola já está nos Estados Unidos em tratamento.
 Mukpo, o quinto Americano diagnosticado com o vírus, encontrava-se a trabalhar na Libéria para a cadeia de televisão NBC quando, na semana passada, testou positivo para o Ébola e foi enviado para os Estados Unidos em avião especialmente equipado.
@@ -833,7 +833,7 @@ O jornalista está agora em tratamento numa unidade de isolamento especializada 
 Um outro americano que também contraiu Ébola, na Libéria, Dr. Rick Sacra, foi o primeiro paciente com o vírus a ser tratado neste centro no mês passado, de onde teve depois alta.
 Em Dallas, Texas, Thomas Eric Duncan, que viajou da Libéria para os Estados Unidos encontra-se em estado critico devido ao Ébola. Duncan está hospitalizado desde 28 de Setembro.
 </doc>
-<doc id='voa_1973040' lang='por' type='mono' source_url='https://www.voaportugues.com/a/autoridades-de-sao-tome-e-principe-reforcam-fronteira-para-evitar-entrada-do-ebola/1973040.html' term='ebola'>
+<doc docid='voa_1973040' lang='por' type='mono' source_url='https://www.voaportugues.com/a/autoridades-de-sao-tome-e-principe-reforcam-fronteira-para-evitar-entrada-do-ebola/1973040.html' term='ebola'>
 Autoridades de São Tomé e Príncipe reforçam fronteira para evitar entrada do ébola
 Em São Tomé e Príncipe, as autoridades tomaram também medidas para evitar a entrada no país de qualquer pessoa com ébola.
 Apesar de ser um arquipélago, o primeiro-ministro Gabriel Costa diz que todas as precauções são poucas:
@@ -841,44 +841,44 @@ Segundo Gabriel Costa, as medidas foram tomadas em concertação com a Organiza�
 Cooperação com OMS - 0:14
 0:00:14
 </doc>
-<doc id='voa_2728535' lang='por' type='mono' source_url='https://www.voaportugues.com/a/the-new-york-times-vence-tres-premios-pulitzer/2728535.html' term='ebola'>
+<doc docid='voa_2728535' lang='por' type='mono' source_url='https://www.voaportugues.com/a/the-new-york-times-vence-tres-premios-pulitzer/2728535.html' term='ebola'>
 The New York Times vence três prémios Pulitzer
 O jornal norte-americano The New York Times venceu três prémios Pulitzer, dois dos quais pela cobertura sobre a propagação do vírus do ébola em África, segundo anúncio ontem, 20.
 O New York Times conquistou o Pulitzer de melhor cobertura internacional com o seu trabalho sobre o vírus Ébola e o de melhor reportagem fotográfica para o repórter Daniel Berehulak, precisamente sobre o mesmo assunto, com o seu trabalho Braving Ebola. O de "melhor reportagem de investigação" foi para o jornalista Eric Lipton, do mesmo jornal, sobre a influência de grupos de pressão junto de decisores políticos e judiciais.
 Além de Eric Lipton, o Pulitzer de melhor reportagem de investigação foi atribuído também ao jornal The Wall Street Journal, pelo trabalho Medicare Unmasked, que revelou práticas e condutas das seguradoras de saúde norte-americanas. O Pulitzer de serviço público foi atribuído ao jornal The Post and Courier, de Charleston, na Carolina do Sul, pela sua série dedicada à violência doméstica, chamada Till Death Do Us Part (Até que a morte nos separe).
 A equipa de fotojornalistas do jornal St Louis Dispatch recebeu o Pulitzer dedicado a notícias de última hora, pela cobertura dos eventos que se seguiram à morte de um homem afro-americano, por disparos de um polícia, em Ferguson, no verão passado. As fotografias que venceram o prémio estão disponíveis no site do jornal.
 </doc>
-<doc id='voa_2668663' lang='por' type='mono' source_url='https://www.voaportugues.com/a/serra-leoa-guine-conacri-liberia-plano-marshal-recuperar-economia/2668663.html' term='ebola'>
+<doc docid='voa_2668663' lang='por' type='mono' source_url='https://www.voaportugues.com/a/serra-leoa-guine-conacri-liberia-plano-marshal-recuperar-economia/2668663.html' term='ebola'>
 Serra Leoa, Guiné-Conacri e Libéria querem Plano Marshall para recuperar a economia
 Os presidentes dos países da África Ocidental mais afectados pelo vírus do ébola exortam a comunidade internacional a apoiar um "Plano Marshall" de modo a ajudar a reconstruir as suas economias devastadas pela epidemia.
 A Presidente da Libéria, Ellen Johnson Sirleaf, afirmou que os seus homólogos da Serra Leoa, Ernest Bai Koroma, e da Guiné Conacri, Alpha Conde, defendem uma conferência internacional, a ter lugar em Bruxelas, para discutir a questão da recuperação das economias da região.
 "O impacto do ébola sobre as nossas economias é muito devastador, e a mais importante resposta a ser dada ao surto requer estratégias de recuperação económica", defendeu Johnson Sirleaf. Mais de 9.700 pessoas morreram na África Ocidental e outras 24.000 foram infectadas pela doença, de acordo com a Organização Mundial da Saúde (OMS).
 </doc>
-<doc id='voa_2424406' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-dificil-diagnosticar-desenvolve-se-em-4-fases/2424406.html' term='ebola'>
+<doc docid='voa_2424406' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-dificil-diagnosticar-desenvolve-se-em-4-fases/2424406.html' term='ebola'>
 Ébola: Difícil diagnosticar, desenvolve-se em 4 fases
 Diagnosticar o ébola é difícil porque os primeiros sintomas, como olhos avermelhados e erupções cutâneas, são comuns.
 Infecções por Ebola só podem ser diagnosticadas definitivamente em laboratório, após a realização de cinco diferentes testes.
 O ébola desenvolve-se em quatro estágios, num período não superior a 21dias
 Fonte: CDC e Médicos Sem Fronteiras
 </doc>
-<doc id='voa_2668675' lang='por' type='mono' source_url='https://www.voaportugues.com/a/fmi-anteve-crescimento-economico-cabo-verde/2668675.html' term='ebola'>
+<doc docid='voa_2668675' lang='por' type='mono' source_url='https://www.voaportugues.com/a/fmi-anteve-crescimento-economico-cabo-verde/2668675.html' term='ebola'>
 FMI antevê crescimento económico em Cabo Verde
 O Fundo Monetário Internacional (FMI) considerou que as perspectivas de crescimento económico de Cabo Verde para 2015 são positivas. O chefe da equipa do FMI, Ulrich Jacoby, afirmou na Praia que a política económica adoptada pelo Governo, nomeadamente a utilização do financiamento concessional para infra-estruturar o país, do ponto de vista físico e institucional, foi importante.
 Apesar da validação da política económica adoptada pelo Governo, o FMI coloca novos desafios em relação à dívida e ao défice em Cabo Verde.
 O chefe da missão do FMI disse que apesar de alguns factores que contribuíram negativamente para o crescimento económico em Cabo Verde, entre eles a diminuição do fluxo turístico devido ao ébola, a seca, a erupção vulcânica, e a não retoma da economia europeia, prevê-se «alguma recuperação» da economia cabo-verdiana.
 </doc>
-<doc id='voa_1968700' lang='por' type='mono' source_url='https://www.voaportugues.com/a/corpo-da-paz-dos-eua-abandona-africa-ocidental-devido-ao-ebola/1968700.html' term='ebola'>
+<doc docid='voa_1968700' lang='por' type='mono' source_url='https://www.voaportugues.com/a/corpo-da-paz-dos-eua-abandona-africa-ocidental-devido-ao-ebola/1968700.html' term='ebola'>
 Corpo da Paz dos EUA abandona África Ocidental devido ao ébola
 O Corpo da Paz dos Estados Unidos anunciou a retirada de centenas de voluntários da Guiné-Conakri, Libéria e Serra Leoa devido à crescente preocupação com a epidemia de Ébola na África ocidental. Uma porta-voz da organização informou que dois voluntários contraíram o ébola após entrar em contacto com uma vítima fatal do vírus, mas esclareceu que não apresentam os sintomas da doença e estão sob observação médica no isolamento.
 A agência de voluntários do Governo dos Estados Unidos destacou que "vigia de perto" a epidemia por intermédio de especialistas do Centro para o Controlo e Prevenção de Enfermidades dos Estados Unidos e que analisará a situação antes de regressar aos três países.
 </doc>
-<doc id='voa_2517025' lang='por' type='mono' source_url='https://www.voaportugues.com/a/morre-enfermeira-do-mali-que-contraiu-ebola/2517025.html' term='ebola'>
+<doc docid='voa_2517025' lang='por' type='mono' source_url='https://www.voaportugues.com/a/morre-enfermeira-do-mali-que-contraiu-ebola/2517025.html' term='ebola'>
 Morre enfermeira do Mali que contraiu Ébola
 Uma enfermeira de 25 anos que contraiu Ébola no Mali morreu, disse o Governo em comunicado hoje, 12. O Governo revelou ainda que foram tomados todos os passos necessários para identificar pessoas que entraram em contato com a enfermeira, o segundo caso de Ébola confirmado no país.
 O caso envolvendo a enfermeira numa clínica médica particular na capital Bamako não tem relação com a primeira vítima de Ébola, uma menina de dois anos da Guiné-Conacri que morreu no mês passado.
 Mais sobre o Ébola
 </doc>
-<doc id='voa_1893015' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ministros-afircanos-da-saude-reunidos-em-luanda/1893015.html' term='ebola'>
+<doc docid='voa_1893015' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ministros-afircanos-da-saude-reunidos-em-luanda/1893015.html' term='ebola'>
 Ministros africanos da saúde reunidos em Luanda
 Peritos de 46 países africanos iniciaram hoje, 14, em Luanda, a reunião de ministros da Saúde dos países africanos destinada a definir estratégias de combate às grandes endemias no continente, com destaque para a febre hemorrágica do Ébola que já matou 116 pessoas.
 Até ao dia 23 deste mês, os ministros africanos da saúde vão analisar com profundidade outras doenças como a malária, tuberculose e HIV-SIDA.
@@ -887,13 +887,13 @@ O director regional da OMS, o angolano Luís Gomes Sambo disse que o encontro pr
 A esta primeira reunião de peritos e parceiros internacionais do desenvolvimento da saúde foram convidados 300 delegados a que se vão juntar ministros da Saúde do continente.
 A iniciativa da realização deste evento em Angola resultou de uma coordenação e concertação de esforços entre a OMS, União Africana e o Governo de Angola, perante a necessidade de se encontrarem respostas para as novas ameaças que se colocam à saúde das populações africanas e aos desafios do desenvolvimento, rumo à implementação dos Objectivos do Milénio.
 </doc>
-<doc id='voa_2696636' lang='por' type='mono' source_url='https://www.voaportugues.com/a/vacinas-experimentais-ebola-liberia/2696636.html' term='ebola'>
+<doc docid='voa_2696636' lang='por' type='mono' source_url='https://www.voaportugues.com/a/vacinas-experimentais-ebola-liberia/2696636.html' term='ebola'>
 Duas vacinas experimentais contra o ébola testadas na Libéria não mostram riscos
 Duas vacinas experimentais contra o vírus do ébola aparentam não representar riscos, depois de testadas na Libéria. Segundo o Instituto Americano de Alergias e Doenças Infecciosas (NIAID), os resultados confirmam outros dois ensaios clínicos, com 20 pessoas cada um, realizados anteriormente nos Estados Unidos.
 As duas vacinas são VSV-EBOV, desenvolvida pelo laboratório britânico GlaxoSmithKline com o NIAID, e VSV-ZEBOV, desenvolvida pela Agência de Saúde Pública do Canadá, ainda que produzida pelos laboratórios NewLink Genetics e Merck.
 Os testes continuam a aumentar o número de participantes, que devem chegar aos 1.500, com o objectivo de verificar a eficácia das vacinas.
 </doc>
-<doc id='voa_3007289' lang='por' type='mono' source_url='https://www.voaportugues.com/a/sobreviventes-de-ebora-podem-ser-portadores-do-virus-por-mais-tempo/3007289.html' term='ebola'>
+<doc docid='voa_3007289' lang='por' type='mono' source_url='https://www.voaportugues.com/a/sobreviventes-de-ebora-podem-ser-portadores-do-virus-por-mais-tempo/3007289.html' term='ebola'>
 Sobreviventes do Ébola podem ser portadores do vírus por mais tempo, dizem cientistas
 O vírus da Ébola pode ser encontrado no sêmen de sobreviventes da doença por, pelo menos, nove meses após a manifestação da infecção inicial, muito mais tempo do que se pensava previamente, disseram cientistas esta semana.
 Em resultados preliminares que levantaram dúvidas sobre como e quando a epidemia da doença na África Ocidental pode ser declarada encerrada, os pesquisadores disseram que não tinham conhecimento anterior se os vestígios do vírus que foram descobertos possuíam vida ou eram potencialmente infecciosos.
@@ -901,7 +901,7 @@ Em resultados preliminares que levantaram dúvidas sobre como e quando a epidemi
 Aylward disse que os sobreviventes, dos quais 17.000 estão na África Ocidental, precisam de "apoio contínuo e substancial nos próximos seis a 12 meses para que se atenda a esses desafios e se garanta que os seus parceiros não sejam expostos ao vírus".
 Ébola contaminou 28.000 pessoas e matou mais de 11.300 pessoas numa epidemia que se espalhou sobretudo por Guiné, Serra Leoa e Libéria.
 </doc>
-<doc id='voa_2429900' lang='por' type='mono' source_url='https://www.voaportugues.com/a/uige-lanca-campanha-de-prevencao-contra-o-ebola/2429900.html' term='ebola'>
+<doc docid='voa_2429900' lang='por' type='mono' source_url='https://www.voaportugues.com/a/uige-lanca-campanha-de-prevencao-contra-o-ebola/2429900.html' term='ebola'>
 Uíge lança campanha de prevenção contra o ébola
 As autoridades sanitárias na província do Uíge estão a reforçar as medidas de prevenção contra o ébola através da realização de pelestras e campanhas de mobilização das populações alertando-as sobre as medidas de prevenção, controle e contágio da endemia.
 O chefe do Departamento de Saúde Pública Manuel Bunga disse que os técnicos do sector vão promover neste fim-de-semana palestras e campanhas de mobilização nas várias igrejas sedeadas na província e apelou à calma.
@@ -909,7 +909,7 @@ Bunga recordou que Uíge já passou por uma epidemia semelhante quando foi assol
 “A população que não entre em pânico, a doença é já conhecida, é só mantermos em estado de alerta, toda situação que esteja acompanhada de febre e sinal de hemorragia”, disse.
 Aquele responsável alertou ainda a população para ter cuidados com os estrageiros provenientes dos países afectados e evitar o consumo de carne de animais encontrados mortos.
 </doc>
-<doc id='voa_2492199' lang='por' type='mono' source_url='https://www.voaportugues.com/a/cientistas-defendem-controlo-de-passageiros-apenas-nos-paises-com-ebola/2492199.html' term='ebola'>
+<doc docid='voa_2492199' lang='por' type='mono' source_url='https://www.voaportugues.com/a/cientistas-defendem-controlo-de-passageiros-apenas-nos-paises-com-ebola/2492199.html' term='ebola'>
 Cientistas defendem controlo de passageiros apenas nos países com ébola
 Os controles implementados há meses nos aeroportos de três países particularmente afectados pela epidemia do ébola, Guiné-Conacri, Libéria e Serra Leoa, têm evitado, em média, a cada mês, que viajem para o exterior três pessoas infectadas pelo vírus responsável pela doença, que já fez mais de 4.500 mortos na África Ocidental.
 Num artigo da revista médica semanal "The Lancet”, lê-se o médico Kamra Kahn (St. Michaels Hospital, Toronto, Canadá) e os seus colegas calcularam o número de casos que seriam exportados a partir dos três países na ausência de tais controles. Eles basearam-se nos voos previstos à escala mundial em 2014 e nos itinerários de voos que os passagens fizeram em 2013 para determinar os fluxos de passageiros que deixam a Guiné-Conacri, Libéria e Serra Leoa.
@@ -918,7 +918,7 @@ No estudo, os médicos ressaltam que é bem mais eficaz e prático efectuar o co
 França e Estados Unidos, por exemplo, realizam um controlo médico em todas os passageiros provenientes dos três países infectados.
 "Os decisores devem pesar com precaução os danos decorrentes da imposição de restrições de viagens provenientes dos países onde o vírus está activo em relação ao potencial redução do risco de importação do vírus ébola. O controlo dos passageiros à saída dos aeroportos da Guiné-Conaci, Libéria e Serra Leoa seriam a melhor fronteira para avaliar o estado de saúde dos viajantes que apresentem um risco de terem estado expostos ao vírus ébola. No entanto, essa intervenção pode necessitar de um apoio internacional para ser implementada eficazmente", concluem os autores do estudo.
 </doc>
-<doc id='voa_2476753' lang='por' type='mono' source_url='https://www.voaportugues.com/a/morreu-paciente-com-ebola-nos-eua/2476753.html' term='ebola'>
+<doc docid='voa_2476753' lang='por' type='mono' source_url='https://www.voaportugues.com/a/morreu-paciente-com-ebola-nos-eua/2476753.html' term='ebola'>
 Morreu paciente com Ébola nos EUA
 Thomas Eric Duncan, a primeira pessoa diagnosticada com ébola nos Estados Unidos, faleceu esta quarta-feira, 8, em Dallas, Texas, onde estava internado desde o dia 28.
 A informação foi avançada pelo Hospital Presbiteriano de Texas, sem avançar mais detalhes.
@@ -926,7 +926,7 @@ Duncan é um cidadão liberiano e que veio aos Estados Unidos visitar a família
 Cerca de 100 pessoas, que poderão ter entrado em contacto com Duncan, têm sido acompanhadas pelas autoridades de saúde.
 O que sabemos sobre o Ébola?
 </doc>
-<doc id='voa_2508312' lang='por' type='mono' source_url='https://www.voaportugues.com/a/lideres-africanos-perpetuam-se-no-poder-com-manobras-constitucionais/2508312.html' term='ebola'>
+<doc docid='voa_2508312' lang='por' type='mono' source_url='https://www.voaportugues.com/a/lideres-africanos-perpetuam-se-no-poder-com-manobras-constitucionais/2508312.html' term='ebola'>
 Líderes africanos perpetuam-se no poder com manobras constitucionais
 Os presidentes dos países africanos juram defender a Constituição dos respectivos países mas a situação, em alguns Estados, tende a mudar com o tempo. Agora, constitucionalistas verificam duas tendências: uma de líderes que tentam mudar a Constituição para se manterem no poder e outra de uma nova onda de protestos populares contra essas manobras. O caso mais recente de Burquina Faso é sintomático, assim como a primavera árabe que afectou alguns países africanos.
 Na última década, pelo menos uma dúzia de líderes africanos - entre eles, os governantes da Argélia, Camarões, Chade, Djibuti, Uganda e Zimbábue – alteraram as respectivas constituições para ficarem mais tempo no poder.
@@ -943,7 +943,7 @@ A tendência de alterar os mandatos por emendas constitucionais parece não abra
 O ministro da Informação da República Democrática do Congo Lambert Mende disse há dias que, como nação democrática, o país está a realizar um debate intelectual e político sobre se muda ou não a Constituição. "Ninguém ouviu o Presidente Kabila a dizer que vai mudar a Constituição, mas estamos a realizar este debate”, adiantou.
 De acordo com a Constituição, o presidente Kabila não pode concorrer a um novo mandato em 2016.
 </doc>
-<doc id='voa_2476814' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-prevencao-formas-de-transmissao-e-intervencao/2476814.html' term='ebola'>
+<doc docid='voa_2476814' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-prevencao-formas-de-transmissao-e-intervencao/2476814.html' term='ebola'>
 Ebola - prevenção, transmissão e intervenção
 O presidente Barack Obama anunciou que a sua administração está a ponderar novas medidas para impedir a disseminação do vírus nos Estados Unidos – entre elas mais rastreios para os passageiros de linhas aéreas na Africa Ocidental e Estados Unidos. Medidas tomadas em resposta ao que foi o primeiro caso confirmado de Ébola em solo americano. Thomas Eric Duncan, que viajara da Libéria para o Texas (Estados Unidos) e que acabou por falecer esta quarta-feira, depois de ter iniciado o tratamento com um medicamento experimental, no hospital de Dallas onde tinha dado entrada a 28 de Setembro.
 Até agora o vírus matou cerca de três mil e 500 pessoas. Os países mais afectados são a Guine-Conacri, Libéria e Serra Leoa.
@@ -951,7 +951,7 @@ O dr. Mateusz Plucinsk é um epidemiologista do Centro de Controlo de Doenças, 
 Nós conversamos com o Dr. Plucinski sobre métodos de prevenção do Ébola, modos de transmissão e a intervenção que está a ser levada a cabo.
 Ébola - o que define o vírus?
 </doc>
-<doc id='voa_2789878' lang='por' type='mono' source_url='https://www.voaportugues.com/a/dia-africa-ban-ki-moon-celebrar-conquistas-reflectir-desafios/2789878.html' term='ebola'>
+<doc docid='voa_2789878' lang='por' type='mono' source_url='https://www.voaportugues.com/a/dia-africa-ban-ki-moon-celebrar-conquistas-reflectir-desafios/2789878.html' term='ebola'>
 Dia de África: celebrar conquistas e reflectir sobre desafios
 A cada ano, o Dia de África é uma oportunidade de celebrar as conquistas do continente e refletir sobre seus desafios.
 A avaliação está na mensagem do Secretário-geral da ONU, Ban Ki-moon, sobre a data, que destaca a coragem e determinação necessárias para combater o surto de ébola, realça a importância de empoderar as mulheres, apela à melhor distribuição da riqueza e oportunidades no continente e traça o objectivo de até 2063 África ser um continente pacífico e próspero.
@@ -974,7 +974,7 @@ Segundo Ban, "conflitos surgem onde pessoas sofrem de má governação, violaç�
 O chefe da ONU elogiou a visão africana de criar, até 2063, um continente pacífico e próspero onde haja democracia, direitos humanos e Estado de direito.
 Ban reafirmou o compromisso da ONU "em trabalhar com a União Africana, as comunidades económicas regionais e os países do continente e seus cidadãos para fazer desta visão uma realidade".
 </doc>
-<doc id='voa_4884407' lang='por' type='mono' source_url='https://www.voaportugues.com/a/rebeldes-voltam-a-atacar-centro-de-tratamento-de-%C3%A9bola-no-congo-/4884407.html' term='ebola'>
+<doc docid='voa_4884407' lang='por' type='mono' source_url='https://www.voaportugues.com/a/rebeldes-voltam-a-atacar-centro-de-tratamento-de-%C3%A9bola-no-congo-/4884407.html' term='ebola'>
 Rebeldes voltam a atacar centro de tratamento de Ébola no Congo
 Rebeldes armados atacaram um centro de tratamento para Ébola, neste sábado, 20, perto da cidade congolesa de Butembo, apenas algumas horas após outro ataque ter causado a morte do epidemiologista camaronês Richard Mouzoko, disse a polícia.
 Um membro da milícia foi morto no ataque ao hospital de Katwa, onde médicos tentam conter um surto de Ébola na parte leste da República Democrática do Congo, segundo o chefe de polícia, Paul Ngoma.
@@ -982,7 +982,7 @@ Ele acrescentou que outros quatro rebeldes foram capturados.
 O vice-presidente do município, Patrick Kambale Tsiko, disse que os atacantes tentaram incendiar o centro durante a noite.
 Actos violentos complicam os esforços para conter o segundo surto de vírus Ebola mais mortal da história, uma vez que o número de novos casos aumenta cada vez que o tratamento e o trabalho de prevenção são interrompidos.
 </doc>
-<doc id='voa_2437121' lang='por' type='mono' source_url='https://www.voaportugues.com/a/huila-toma-precaues-contra-o-ebola/2437121.html' term='ebola'>
+<doc docid='voa_2437121' lang='por' type='mono' source_url='https://www.voaportugues.com/a/huila-toma-precaues-contra-o-ebola/2437121.html' term='ebola'>
 Huíla reforça precauções contra o Ébola
 As autoridades sanitárias da Huíla estão em alerta para detectar qualquer sinal relacionado ao vírus do ébola que já provocou várias mortes na vizinha República Democrática do Congo(RDC) depois de ter eclodido na África Ocidental.
 Técnicos de saúde entre médicos, enfermeiros, serviços de bombeiros e outros têm estado a beneficiar de formações por via de palestras sob iniciativa do departamento de saúde pública sobre os sintomas, formas de contágio e os termos de prevenção contra a doença.
@@ -991,7 +991,7 @@ No maior hospital regional sul, Dr. António Agostinho Neto, o director clínico
 “Podemos não ter tudo que pode ser necessário, mas condições básicas estão reunidas”, garantiu o director clínico.
 A existência de casos na vizinha RDC deixa em estado de alerta também as Forças Armadas Angolanas que falam da necessidade de redobrar as medidas de prevenção, segundo disse o comandante das tropas da região militar sul, tenente-general, Fabiano Hihepa.
 </doc>
-<doc id='voa_4392879' lang='por' type='mono' source_url='https://www.voaportugues.com/a/%C3%A9bola-mata-19-pessoas-na-rep%C3%BAblica-democr%C3%A1tica-do-congo/4392879.html' term='ebola'>
+<doc docid='voa_4392879' lang='por' type='mono' source_url='https://www.voaportugues.com/a/%C3%A9bola-mata-19-pessoas-na-rep%C3%BAblica-democr%C3%A1tica-do-congo/4392879.html' term='ebola'>
 Ébola mata 19 pessoas na República Democrática do Congo
 Um surto de Ébola na República Democrática do Congo matou 19 pessoas, diz a Organização Mundial de Saúde (OMS).
 Trinta e nove casos foram registados na província de Equateur, no noroeste do país, informou, hoje, 14,a OMS. Entre os infectados três são profissionais de saúde.
@@ -1000,19 +1000,19 @@ A OMS diz que a vacina, chamada rVSV-ZEBOV, foi testada em milhares de voluntár
 O vírus, que causa uma febre hemorrágica, é transmitido por contato directo com os fluidos corporais de uma pessoa ou animal infectado.
 Ontem, 13, uma delegação da OMS, incluindo o seu director-geral, Dr. Tedros Adhanom Gehbreyesus, visitou a cidade de Bikoro, epicentro do actual surto.
 </doc>
-<doc id='voa_2522909' lang='por' type='mono' source_url='https://www.voaportugues.com/a/pesqueiros-chineses-liberados-segunda-feira/2522909.html' term='ebola'>
+<doc docid='voa_2522909' lang='por' type='mono' source_url='https://www.voaportugues.com/a/pesqueiros-chineses-liberados-segunda-feira/2522909.html' term='ebola'>
 Pesqueiros chineses liberados Segunda-feira
 Os dez pesqueiros chineses, provenientes da Serra Leoa e que foram colocados em quarentena por causa do Ébola a 50 milhas de São Vicente, devem ser autorizados a entrar no Porto Grande esta Segunda-feira, 17.
 O período de quarentena terminou Sábado, 15, e as autoridades sanitárias afirmam que não detectaram sintoma da doença em nenhum dos 109 tripulantes.
 Os barcos de pesca chineses, provenientes da Serra Leoa, foram colocados em quarentena perto da desabitada ilha de Santa Luzia, antes de serem autorizados a entrar no porto da ilha de São Vicente para reparações nos Estaleiros Navais de Cabo Verde (CABNAVE).
 </doc>
-<doc id='voa_2452583' lang='por' type='mono' source_url='https://www.voaportugues.com/a/pacientes-sem-reaccoes-adversas-ao-primeiro-teste-clinico-de-vacina-contra-o-ebola-nos-eua/2452583.html' term='ebola'>
+<doc docid='voa_2452583' lang='por' type='mono' source_url='https://www.voaportugues.com/a/pacientes-sem-reaccoes-adversas-ao-primeiro-teste-clinico-de-vacina-contra-o-ebola-nos-eua/2452583.html' term='ebola'>
 Pacientes sem reacções adversas ao primeiro teste clínico de vacina contra o ébola nos EUA
 O primeiro teste clínico de uma vacina contra o ébola começou nos Estados Unidos no início de Setembro com um pequeno número de voluntários, que não apresentaram reacções adversas até ao momento, revelou o director do Instituto Nacional de Alergias e Doenças Infecciosas dos EUA, Anthony Fauci.
 A vacina, desenvolvida pelo laboratório GlaxoSmithKline há vários anos com o Instituto Americano de Saúde (NIH, por sua sigla em inglês), e que deu bons resultados em macacos, é objecto de um estudo clínico com dez pessoas desde o dia 2 de Setembro.
 Outros dez voluntários serão vacinados nos próximos dias, acrescentou Fauci. No total, 20 pessoas com idades entre 20 e 50 anos e em bom estado de saúde participam do teste clínico no NIH, perto da capital, Washington. Os resultados completos deste estudo estarão disponíveis no fim deste ano.
 </doc>
-<doc id='voa_2429870' lang='por' type='mono' source_url='https://www.voaportugues.com/a/pode-um-telemovel-ajudar-a-parar-o-ebola/2429870.html' term='ebola'>
+<doc docid='voa_2429870' lang='por' type='mono' source_url='https://www.voaportugues.com/a/pode-um-telemovel-ajudar-a-parar-o-ebola/2429870.html' term='ebola'>
 Pode um telemóvel ajudar a parar o Ébola?
 Os telemóveis têm sido essenciais na divulgação de informação importante sobre o recente surto do vírus Ébola, que tem sido letal na Guiné Conacri, Libéria e Serra Leoa, com alguns casos a registar na Nigéria e República Democrática do Congo, por exemplo, mas eles podem fazer muito mais. Pelo menos é assim que ventures-africa.com encara o potencial destes dispositivos.
 Para evitar equívocos, é preciso entender que os telemóveis ou quaisquer outros electrónicos do género não representam a cura.
@@ -1052,7 +1052,7 @@ A rápida detecção do vírus pode representar a real diferença entre morrer e
 Ethel é uma Mandela Washington Fellowship e empreendedora em tecnologia, que já trabalhou para fundações como a Bill & Melinda Gates e Ford Foundation. Ela dirige uma associação tecnológica de mulheres no Gana e está a trabalhar actualmente com grupos de mulheres que têm o objectivo de criar uma aliança Africana de tecnologia.
 Autoritarismo e tradição são obstáculos na luta contra o Ébola
 </doc>
-<doc id='voa_2414501' lang='por' type='mono' source_url='https://www.voaportugues.com/a/arranca-campanha-de-doacao-de-sangue-para-prevencao-do-ebola-em-bissau/2414501.html' term='ebola'>
+<doc docid='voa_2414501' lang='por' type='mono' source_url='https://www.voaportugues.com/a/arranca-campanha-de-doacao-de-sangue-para-prevencao-do-ebola-em-bissau/2414501.html' term='ebola'>
 Arranca campanha de doação de sangue para prevenção do ébola em Bissau
 O primeiro-ministro da Guiné-Bissau deu início à campanha de recolha de sangue no âmbito do programa de contingência contra o ébola, doando sangue no Hospital Simão Mendes, na capital guineense.
 Em declarações aos jornalistas, o primeiro-ministro disse justificou o início da campanha de recolha de sangue como "parte do programa de contingência contra o ébola em virtude de ser necessário reforçar o banco de sangue no país para qualquer eventualidade".
@@ -1061,7 +1061,7 @@ Questionado se não tem havido problemas com o encerramento das fronteiras com a
 Além da recolha de sangue, encerramento das fronteiras com a Guiné-Conacri, equipamento dos centros de saúde, formação de pessoal e a campanha de informação em curso, as autoridades de Bissau vão organizar um encontro com países parceiros e organizações internacionais para uma discussão e possíveis ajudas na mobilização de equipas especializadas em atendimento, sobretudo através da criação de kits de protecção pessoal e de recolha de amostra e de diagnósticos no país.
 Por outro lado, e em cumprimento da recente decisão dos Chefes de Estado e do Governo da CEDEAO, o executivo guineense deu início à recolha de contribuições individuais, através de urnas, a serem instaladas em todo o país, para um fundo que depois será canalizado para ajudar os países fustigados pelo ébola.
 </doc>
-<doc id='voa_2427322' lang='por' type='mono' source_url='https://www.voaportugues.com/a/autoridades-angolanas-garantem-estar-preparadas-para-enfrentar-o-ebola/2427322.html' term='ebola'>
+<doc docid='voa_2427322' lang='por' type='mono' source_url='https://www.voaportugues.com/a/autoridades-angolanas-garantem-estar-preparadas-para-enfrentar-o-ebola/2427322.html' term='ebola'>
 Autoridades angolanas garantem estar preparadas para enfrentar o ébola
 Angola está a elevar o seu estado de alerta depois de terem sido anunciados alguns casos de ébola na vizinha República Democrática do Congo.
 Embora os casos tenham sido detectados na província do Equador, que não faz fronteira com Angola, fontes do Minisitério da Saúde disseram que o país passa integrar a lista de nações com risco "moderado a alto de infecção" da doença mortal que não tem vacina ou cura.
@@ -1076,7 +1076,7 @@ Em Luanda foram criadas condições em três unidades sanitárias nas zonas fron
 “A comissão está a trabalhar, para que nestas unidades não faltem os meios de Bio Segurança necessários", acrescentou Bessa.
 Em caso de haver algum registo de ébola as amostram devem ser enviadas para África do Sul porque, segundo as autoridades sanitárias, o país ainda não possui laboratório capacitado para diagnosticar a doença.
 </doc>
-<doc id='voa_2411121' lang='por' type='mono' source_url='https://www.voaportugues.com/a/guine-bissau-encerra-fronteiras/2411121.html' term='ebola'>
+<doc docid='voa_2411121' lang='por' type='mono' source_url='https://www.voaportugues.com/a/guine-bissau-encerra-fronteiras/2411121.html' term='ebola'>
 Guiné-Bissau encerra fronteiras com Guiné-Conacri por causa do vírus Ébola
 No quadro da prevenção e luta contra a Ébola, que afecta a Africa Ocidental, o governo da Guiné-Bissau adoptou m programa que comtempla o encerramento imediato das fronteiras terrestres e marítimas do sul do país com a Guiné-Conacri, país atingido por um surto daquele vírus.
 A decisão foi anunciada pelo chefe do governo, Domingos Simões Pereira, durante uma conferência de imprensa em Bissau. Para a efectivação da tal medida, o Ministério da Administração interna e o da Defesa já receberam instruções claras para proceder ao enceramento imediato das fronteiras, tanto assim que deverão reforçar as medidas de acompanhamento junto das outras linhas divisórias.
@@ -1086,7 +1086,7 @@ Segundo ainda Domingos Simões Pereira, o governo irá pedir ao presidente da re
 Em consequência do cenário em presença, partir de agora, o governo guineense interdita ainda qualquer cerimónia tradicional ou eventos que impliquem a aglomeração das pessoas. Pormenor que será fiscalizado pelos Ministérios da Administração Interna e o da Saúde. Este último que já tem nas fronteiras equipas de resposta rápida.
 A inquietação das autoridades guineenses assenta no facto do fluxo das pessoas e bens entre a Guine-Conacri ser muito constante e massivo.
 </doc>
-<doc id='voa_3249166' lang='por' type='mono' source_url='https://www.voaportugues.com/a/liberia-eboa-forca-encerramento-da-fronteira-com-guine/3249166.html' term='ebola'>
+<doc docid='voa_3249166' lang='por' type='mono' source_url='https://www.voaportugues.com/a/liberia-eboa-forca-encerramento-da-fronteira-com-guine/3249166.html' term='ebola'>
 Libéria: Ébola força encerramento da fronteira com a Guiné
 As autoridades liberianas mandaram encerrar a fronteira com a vizinha Guiné por receio de uma epidemia do Ébola.
 O ministro da informação da Libéria, Lenn Eugene Nagbe disse à Reuters que o encerramento era uma medida de precaução para evitar a propagação da doença.
@@ -1094,12 +1094,12 @@ Nagbe disse que a fronteira estará encerrada até a situação na Guiné melhor
 A Guiné fora declarada livre do Ébola em Dezembro de 2015 pela Organização Mundial da Saúde.
 Mas no dia 17 deste mês a mesma organização confirmou dois novos casos na vila de Koropora, e 817 pessoas que terão sido expostas ao vírus estão em quarentena.
 </doc>
-<doc id='voa_2477844' lang='por' type='mono' source_url='https://www.voaportugues.com/a/primeiro-ministro-e-lider-da-oposicao-em-cabo-verde-reunem-se-hoje/2477844.html' term='ebola'>
+<doc docid='voa_2477844' lang='por' type='mono' source_url='https://www.voaportugues.com/a/primeiro-ministro-e-lider-da-oposicao-em-cabo-verde-reunem-se-hoje/2477844.html' term='ebola'>
 Primeiro-ministro e líder da oposição em Cabo Verde reúnem-se hoje
 O primeiro-ministro de Cabo Verde, José Maria Neves, reúne-se esta Quinta-feira, 9, com o presidente do MpD, principal partido da oposição Ulisses Correia e Silva, para discutirem questões de política interna e externa, com realce para a questão da instalação dos órgãos externos à Assembleia Nacional, especialmente o Tribunal Constitucional, que se arrastam há mais de uma década. Neves e Correia e Silva devem discutir a nomeação do novo governador do Banco de Cabo Verde, sobre a qual têm posições totalmente opostas, com a oposição a considerar ilegal a indigitação do ex-ministro Humberto Brito.
 O ébola, que se propaga nalguns países vizinhos, é também outra matéria que deve constar da agenda da reunião dos líderes dos dois maiores partidos cabo-verdianos.
 </doc>
-<doc id='voa_5012269' lang='por' type='mono' source_url='https://www.voaportugues.com/a/lunda-norte-toma-medidas-de-preven%C3%A7ao-contra-o-%C3%A9bola/5012269.html' term='ebola'>
+<doc docid='voa_5012269' lang='por' type='mono' source_url='https://www.voaportugues.com/a/lunda-norte-toma-medidas-de-preven%C3%A7ao-contra-o-%C3%A9bola/5012269.html' term='ebola'>
 Lunda Norte toma medidas de prevenção contra o Ébola
 As autoridades sanitárias da Lunda Norte intensificaram as medidas de precaução nas zonas fronteiriças com a Republica Democrática do Congo para tentar evitar a propagação do ébola que já vitimou mais de 1.700 pessoas neste país.
 Equipas sanitárias “de intervenção e vigilância epidemiológica”foram enviadas para quatro postos fronteiriços.
@@ -1107,12 +1107,12 @@ No município do Cuango estão já outras 15 equipas.
 Uma das preocupações é a circulação dos refugiados do campo do Lóvua sem controlo das autoridades sanitárias estando previsto um encontro entre as autoridades locais e organizações que operam no campo para se analisar a situação
 Por outro lado, a policia esta também a reforçar a sua acção nas zonas fronteiriças para verificar quem entra e sai do país.
 </doc>
-<doc id='voa_2427041' lang='por' type='mono' source_url='https://www.voaportugues.com/a/rdc-com-dois-casos-de-ebola/2427041.html' term='ebola'>
+<doc docid='voa_2427041' lang='por' type='mono' source_url='https://www.voaportugues.com/a/rdc-com-dois-casos-de-ebola/2427041.html' term='ebola'>
 RDC com dois casos de ébola
 O ministro da Saúde da República Democrática do Congo (RDC) confirmou dois casos de ébola na província do Equador, a mais de 600 quilómetros da capital, Kinshasa. Félix Kabange Numbi confirmou os casos depois de amostras retiradas a um caçador e a sua esposa terem dado positivo.
 A RDC é o quinto país de África afectado pela febre hemorrágica ébola depois da Libéria, Serra Leoa, Guiné-Conacri e Nigéria. Recorde-se que a doença foi descoberta pela primeira vez há 40 anos na RDC e é a sétima vez que o vírus volta ao país.
 </doc>
-<doc id='voa_3132009' lang='por' type='mono' source_url='https://www.voaportugues.com/a/autoridades-da-guine-bissau-reforcam-vigilancia-contra-o-ebola/3132009.html' term='ebola'>
+<doc docid='voa_3132009' lang='por' type='mono' source_url='https://www.voaportugues.com/a/autoridades-da-guine-bissau-reforcam-vigilancia-contra-o-ebola/3132009.html' term='ebola'>
 Autoridades da Guiné-Bissau reforçam vigilância contra o ébola
 O director do Instituto da Saúde Pública da Guiné-Bissau (Inasa) anunciou que o país vai continuar vigilante frente a qualquer caso de ébola, apesar de a vizinha Guiné-Conacri ter sido declarada pela OMS livre da epidemia que afecta a região desde 2013.
 Plácido Cardoso revelou que amanhã, quarta-feira, inicia-se uma reciclagem à Equipa da Resposta Rápida ao vírus ébola da região de Tombali, no sul do país, sobre o protocolo de vigilância a doença.
@@ -1121,13 +1121,13 @@ Plácido Cardoso frisou a importância de manter a vigilância e citou o caso da
 No caso da Guiné-Bissau, o responsável entende ser necessário reforçar e manter as medidas de vigilância nos postos fronteiriços do país com os vizinhos Senegal e Guiné-Conacri.
 Dados da OMS apontam que a Guiné-Conacri registou 3.804 casos de casos ébola, dos quais resultaram 2.536 mortos.
 </doc>
-<doc id='voa_2469892' lang='por' type='mono' source_url='https://www.voaportugues.com/a/serra-leoa-regista-cinco-novos-casos-de-ebola-a-cada-hora/2469892.html' term='ebola'>
+<doc docid='voa_2469892' lang='por' type='mono' source_url='https://www.voaportugues.com/a/serra-leoa-regista-cinco-novos-casos-de-ebola-a-cada-hora/2469892.html' term='ebola'>
 Serra Leoa regista cinco novos casos de Ébola a cada hora
 Cinco novos casos de Ébola são diagnosticados a cada hora na Serra Leoa e não há leitos suficientes para os doentes no país, alertou a organização não governamental Save the Children. Segundo a organização, existem apenas 327 leitos hospitalares no país, mas 765 novos casos do vírus foram notificados na semana passada.
 A Save the Children alerta ue o número de novos casos de Ébola dobra a cada três semanas, uma "taxa assustadora" segundo aquela ong. O número de casos e de mortes é muito mais elevado porque, segundo a Save the Children, "um número incontável de crianças morre anonimamente em casa ou nas ruas".
 A Save the Children diz que se a comunidade internacional não assumir sua responsabilidade as pessoas vão continuar a morrer em casa, possivelmente contaminando suas famílias e comunidade.
 </doc>
-<doc id='voa_4391193' lang='por' type='mono' source_url='https://www.voaportugues.com/a/%C3%A9bola-leva-director-geral-oms-rep%C3%BAblica-democr%C3%A1tica-congo/4391193.html' term='ebola'>
+<doc docid='voa_4391193' lang='por' type='mono' source_url='https://www.voaportugues.com/a/%C3%A9bola-leva-director-geral-oms-rep%C3%BAblica-democr%C3%A1tica-congo/4391193.html' term='ebola'>
 Ébola leva director-geral da OMS à República Democrática do Congo
 O director-geral da Organização Mundial de Saúde (OMS) desloca-se hoje à República Democrática do Congo (RDC) para apoiar a resposta à epidemia de ébola.
 A OMS, que já alertou que se "prepara para o pior dos cenários", diz que Tedros Adhanom Ghebreyesus vai ao Congo fazer um balanço da situação, em "apoio das autoridades nacionais”.
@@ -1136,7 +1136,7 @@ Segundo a OMS, até 11 de maio foi registada a ocorrência de 34 casos de ébola
 A OMS disse, em Genebra, na sexta-feira, que o risco de propagação da epidemia de ébola é "elevado" na RDC e anunciou que se prepara para "o pior dos cenários".
 Esta é a nona epidemia de ébola na RDC. A última foi em 2017 e foi rapidamente controlada, após causar quatro mortes.
 </doc>
-<doc id='voa_3350967' lang='por' type='mono' source_url='https://www.voaportugues.com/a/africa-ocidental-esta-preparada-surtos-ebola-diz-chefe-regional-oms/3350967.html' term='ebola'>
+<doc docid='voa_3350967' lang='por' type='mono' source_url='https://www.voaportugues.com/a/africa-ocidental-esta-preparada-surtos-ebola-diz-chefe-regional-oms/3350967.html' term='ebola'>
 África Ocidental está preparada para surtos de Ébola, diz chefe regional da OMS
 A directora regional da Organização Mundial da Saúde (OMS) para África diz que a África Ocidental está melhor preparada para enfrentar futuros surtos de Ébola.
 Em entrevista exclusiva à VOA, Matshidiso Moeti afirma que a Libéria, Serra Leoa e Guiné são agora capazes de responder mais rapidamente a situações de emergência, graças à melhoria da sua capacidade de vigilância, diagnóstico e sistemas de saúde.
@@ -1147,7 +1147,7 @@ Nessa altura, a OMS apelou os países para se manterem vigilantes quanto á eclo
 Moeti conta que chegar a zero infecção não é fácil e “não estamos lá ainda (…) embora a Libéria, Serra Leoa e Guiné tenham melhorado significativamente a sua capacidade de resposta, e provaram isso na sua gestão eficiente dos surtos ocasionais de doença”.
 Mas, adverte Moeti, “para que que todas as melhorias feitas na infraestrutura, sistemas de resposta, e habilidades, sejam mantidas é necessário o apoio contínuo da comunidade internacional”.
 </doc>
-<doc id='voa_2427323' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-chega-ao-congo/2427323.html' term='ebola'>
+<doc docid='voa_2427323' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-chega-ao-congo/2427323.html' term='ebola'>
 Ébola chega ao Congo
 Segundo a OMS o actual surto de Ébola na África Ocidental já matou 127 pessoas, acrescentando que existem neste momento 2615 casos confirmados da doença na Guiné-Conacri, Libéria, Serra Leoa e Nigéria.
 Entretanto o ministro da Saúde da República democrática do Congo anunciou que se registaram duas mortes no seu país causadas pelo Ébola. De referir que o vírus identificado no Congo parece ser de uma estirpe diferente daquele que tem vindo a afectar a África Ocidental.
@@ -1163,13 +1163,13 @@ Recordamos que dois funcionários sanitários americanos infectados pelo vírus 
 O vírus Ébola é transmitido por contacto directo com os fluidos de pessoas infectadas.
 A doença causa febre, vómitos, diarreia e hemorragias incontroláveis. Surtos anteriores da doença tiveram taxas de mortalidade de até 90%. Contudo o actual surto tem vindo a vitimar cerca de metade das pessoas infectadas.
 </doc>
-<doc id='voa_1895662' lang='por' type='mono' source_url='https://www.voaportugues.com/a/angola-e-rdc-definem-vigil%C3%A2ncia-epidemiol%C3%B3gica-da-febre-hemorr%C3%A1gica-nas-fronteiras/1895662.html' term='ebola'>
+<doc docid='voa_1895662' lang='por' type='mono' source_url='https://www.voaportugues.com/a/angola-e-rdc-definem-vigil%C3%A2ncia-epidemiol%C3%B3gica-da-febre-hemorr%C3%A1gica-nas-fronteiras/1895662.html' term='ebola'>
 Angola e RDC definem vigilância epidemiológica da febre hemorrágica nas fronteiras
 As autoridades da República Democrática do Congo garantem que está assegurada a vigilância epidemiológica da febre hemorrágica da Ébola, nas fronteiras com a Lunda-Norte. Todas as forças estão em estado de alerta máximo para a tomada de medidas preventivas na fronteira entre Angola e a RDC, segundo garantiu o deputado da assembleia nacional da RDC Muatchimulo Jorge durante a sua visita à Lunda-Norte, no âmbito da cooperação bilateral entre os dois governos.
 “Ao nível dos postos fronteiriços já estamos a exercer um controlo para detectarmos alguns casos e aumentarmos a vigilância”, assegurou.
 Da parte angolana, o Chefe do Posto da polícia de guarda fronteiras de Itanda, falou das medidas de controlo e vigilância nos postos fronteiriços.
 </doc>
-<doc id='voa_2520128' lang='por' type='mono' source_url='https://www.voaportugues.com/a/fmi-quer-reduzir-divida-de-paises-afectados-pelo-ebola/2520128.html' term='ebola'>
+<doc docid='voa_2520128' lang='por' type='mono' source_url='https://www.voaportugues.com/a/fmi-quer-reduzir-divida-de-paises-afectados-pelo-ebola/2520128.html' term='ebola'>
 FMI quer reduzir dívida de países afectados pelo Ébola
 O FMI estuda reduzir a dívida dos países afectados pelo Ébola, como sugeriram os Estados Unidos, e mostrou-se mais alarmado sobre o impacto económico da epidemia em África.
 "Actualmente, está em discussão", disse o porta-voz do Fundo Monetário Internacional (FMI), William Murray, interrogado sobre um possível corte da dívida dos países afectados.
@@ -1178,7 +1178,7 @@ Ele disse, ainda, que o FMI revisará as previsões de crescimento destes três 
 Já morreram 5160 pessoas e mais de 14 mil foram infectadas.
 Mais sobre o Ébola
 </doc>
-<doc id='voa_2535257' lang='por' type='mono' source_url='https://www.voaportugues.com/a/conselho-de-seguranca-extende-mandato-da-onu-na-guuine-bissau/2535257.html' term='ebola'>
+<doc docid='voa_2535257' lang='por' type='mono' source_url='https://www.voaportugues.com/a/conselho-de-seguranca-extende-mandato-da-onu-na-guuine-bissau/2535257.html' term='ebola'>
 Conselho de Segurança extende mandato da ONU na Guiné-Bissau
 O Conselho de Segurança prolongou, até ao fins de Fevereiro, o mandato do Escritório Integrado das Nações Unidas para a Consolidação da Paz na Guiné-Bissau (Uniogbis).
 O representante do secretário-geral na Guiné-Bissau, Miguel Trovoada justificou a extensão pelo período em declarações à Rádio ONU, em Nova Iorque. Antes da sessão que aprovou o documento, o também chefe da Uniogbis avançou que o país conhece um período de grande estabilidade.
@@ -1187,19 +1187,19 @@ O representante do secretário-geral na Guiné-Bissau, Miguel Trovoada justifico
 Ao intervir na semana passada na ONU, o primeiro-ministro guineense Domingos Simões Pereira pediu a extensão do mandato da Uniobgis e considerou como prioridades do seu executivo a prevenção do ébola, a possível escassez alimentar como efeito das mudanças climáticas e a estabilização.
 Domingos Simões Pereira frisou que o desafio permanente é a estabilidade política, tendo pedido aos países que apoiem o reforço das instituições da soberania do país para melhorar a qualidade do diálogo interno.
 </doc>
-<doc id='voa_1881167' lang='por' type='mono' source_url='https://www.voaportugues.com/a/v%C3%ADrus-%C3%A9bola-chega-%C3%A0-capital-da-guin%C3%A9-conacri-ap%C3%B3s-causar-dezenas-de-mortes-no-sul/1881167.html' term='ebola'>
+<doc docid='voa_1881167' lang='por' type='mono' source_url='https://www.voaportugues.com/a/v%C3%ADrus-%C3%A9bola-chega-%C3%A0-capital-da-guin%C3%A9-conacri-ap%C3%B3s-causar-dezenas-de-mortes-no-sul/1881167.html' term='ebola'>
 Vírus Ébola chega à capital da Guiné-Conacri após causar dezenas de mortes no sul
 Quatro casos do vírus ébola foram confirmados em Conacri, os primeiros da capital da Guiné, onde a epidemia estava restringida ao sul do país, afirmam fontes médicas. Os doentes foram imediatamente internados em centros de isolamento para evitar a propagação do vírus, contagioso e altamente letal.
 Esses novos casos são diferentes dos três de febre hemorrágica detectados em Conacri no último domingo, entre eles dois fatais. Depois de uma análise feita no Instituto Pasteur de Dacar, comprovou-se que nenhum dos três tinha sido causado pelo vírus do ébola.
 Um comunicado divulgado na tarde desta quinta-feira pelo ministério guineense da Saúde revelou que desde Janeiro foram contabilizados "103 casos suspeitos de febre hemorrágica viral, dos quais 66 afectados morreram", sobretudo no sul do país. O balanço anterior mencionava 88 casos.
 </doc>
-<doc id='voa_2424416' lang='por' type='mono' source_url='https://www.voaportugues.com/a/senegal-encerrou-fronteiras-com-guine-devido-ao-virus/2424416.html' term='ebola'>
+<doc docid='voa_2424416' lang='por' type='mono' source_url='https://www.voaportugues.com/a/senegal-encerrou-fronteiras-com-guine-devido-ao-virus/2424416.html' term='ebola'>
 Senegal encerrou fronteiras com Guiné devido ao vírus
 O Governo do Senegal encerrou hoje, 22, as fronteiras com a Guiné-Conacri devido à epidemia de ébola, anunciou o Ministério do Interior em nota enviada à imprensa. A decisão foi tomada três meses depois de ter fechado as fronteiras em Abril passado.
 Segundo comunicado, "devido à evolução da epidemia de febre hemorrágica, que constitui um problema de saúde pública de importância global, o Senegal decidiu voltar a fechar as fronteiras terrestres com a República da Guiné".
 Saiba mais sobre o Ébola
 </doc>
-<doc id='voa_2506476' lang='por' type='mono' source_url='https://www.voaportugues.com/a/americanos-votam-hoje-em-eleicoes-legislativas/2506476.html' term='ebola'>
+<doc docid='voa_2506476' lang='por' type='mono' source_url='https://www.voaportugues.com/a/americanos-votam-hoje-em-eleicoes-legislativas/2506476.html' term='ebola'>
 Americanos votam hoje em eleições legislativas
 Nos Estados Unidos, os eleitores estão a votar hoje, 4, em eleições legislativas que irão determinar os últimos dois anos do segundo mandato do presidente Barack Obama.
 Os republicanos são favoritos para ganhar mais lugares no Senado e na Câmara dos Representantes em eleições marcadas por um pessimismo à escala nacional e preocupações sobre questões de segurança no pais e no estrangeiro.
@@ -1221,13 +1221,13 @@ Norman Ornstein, analista politico no Instituto American Enterprise, um centro d
 “O melhor meio de ultrapassar isso - numa altura em que as pessoas estão descontentes, acreditando que as coisas estão fora de controlo e que o Governo não está a funcionar e que o presidente não é competente - é transformar as eleições numa questão nacional”, acrescentou o especialista.
 Refira-se que estas eleições legislativas são as mais caras de sempre na historia de eleições legislativas. Um centro de estudos, o Center for Responsivle Politics estima que foram gastos na campanha quatro mil milhões de dólares.
 </doc>
-<doc id='voa_2618182' lang='por' type='mono' source_url='https://www.voaportugues.com/a/onu-epidemia-ebola-nao-esta-erradicada/2618182.html' term='ebola'>
+<doc docid='voa_2618182' lang='por' type='mono' source_url='https://www.voaportugues.com/a/onu-epidemia-ebola-nao-esta-erradicada/2618182.html' term='ebola'>
 ONU avisa que epidemia do Ébola não foi erradicada
 A epidemia do ébola não foi erradicada, advertiu hoje, 20, em Adis Abeba o coordenador especial da ONU para a luta contra a febre hemorrágica, o britânico David Nabarro.
 "A quantidade de casos cai semana após semana e tende a zero, mas a doença ainda está presente em um terço das zonas dos três países afectados", disse Nabarro, presente na reunião da cimeira da União Africana que vai abordar o tema.
 "Ainda temos focos ocasionais e surpresas com os novos casos", explicou Nabarro, que adiantou estar preocupado com a chegada da temporada de chuvas e pediu a instalação de uma rede de "actores locais" antes que as precipitações dificultem o acesso a certas regiões.
 </doc>
-<doc id='voa_4423424' lang='por' type='mono' source_url='https://www.voaportugues.com/a/autoridades-angolanas-encerram-fronteira-entre-malanje-e-rep%C3%BAblica-democr%C3%A1tica-do-congo/4423424.html' term='ebola'>
+<doc docid='voa_4423424' lang='por' type='mono' source_url='https://www.voaportugues.com/a/autoridades-angolanas-encerram-fronteira-entre-malanje-e-rep%C3%BAblica-democr%C3%A1tica-do-congo/4423424.html' term='ebola'>
 Autoridades angolanas encerram fronteira entre Malanje e República Democrática do Congo
 A circulação de pessoas e bens na fronteira entre a província de Malanje e a República Democrática do Congo (RDC) foi encerrada nos últimos dias para prevenir a entrada do vírus ébola no território angolano.
 A decisão consta do Plano de Acção do Governo Provincial local que tem jurisdição sobre os municípios de Marimba e Massango, por onde diariamente cidadãos angolanos entram e saem em direcção à RDC para estudar e procurar cuidados de saúde.
@@ -1235,7 +1235,7 @@ Os postos de guarda-fronteira de Quicuto, Ngola Paz, Tembo Aluma, Muheto e Banan
 Cada posto de fronteira comporta 12 efectivos da Polícia de Guarda Fronteira, igual número do Serviço de Migração e Estrangeiros e quatro técnicos de saúde e dos Serviços de Protecção Civil e Bombeiros.
 O controlo de produtos de origem animal e das águas territoriais é feito por quatro técnicos do Instituto de Desenvolvimento Florestal e dois veterinários, com os respectivos meios de biossegurança para o atendimento de casos suspeitos de ébola.
 </doc>
-<doc id='voa_1257046' lang='por' type='mono' source_url='https://www.voaportugues.com/a/a-38-2009-01-12-voa2-92253019/1257046.html' term='ebola'>
+<doc docid='voa_1257046' lang='por' type='mono' source_url='https://www.voaportugues.com/a/a-38-2009-01-12-voa2-92253019/1257046.html' term='ebola'>
 Ebola Não Ultrapassa Fronteiras de Angola
 A Organização Mundial de Saúde, OMS disse que o surto de
 Ebola registado na Republica Democrática do Congo, ainda não se alastrou a
@@ -1256,7 +1256,7 @@ vírus, não sobrevive a doença.
 A doença e transmitida através do contagio pelo sangue e
 fluxos corporais tem por sintomas hemorragias intensas, nos olhos e noutras parte do corpo.
 </doc>
-<doc id='voa_2710131' lang='por' type='mono' source_url='https://www.voaportugues.com/a/liberia-esforco-luta-ebola/2710131.html' term='ebola'>
+<doc docid='voa_2710131' lang='por' type='mono' source_url='https://www.voaportugues.com/a/liberia-esforco-luta-ebola/2710131.html' term='ebola'>
 Libéria intensifica esforços para manter-se livre do Ébola
 No início deste ano, a Libéria reabriu as suas fronteiras, numa decisão que muitas pessoas pensaram ser prematura, pois o ébola ainda continua a fazer vítimas em Serra Leoa e na Guiné-Conacri. A fronteira entre esses países é uma área tumultuada e difícil de ser controlada, mesmo em momentos de tranquilidade. Agora, os cidadãos lutam para que a doença não regresse ao país.
 Existem muitos caminhos e acessos para se atravessar de forma ilegal a fronteira entre a Libéria e a Guiné-Conacri. Apenas numa floresta no norte da Libéria, chegam a existir cerca de 50 caminhos ilegais, dizem os moradores locais.
@@ -1276,7 +1276,7 @@ Jovens liberianos de dentro e fora de Wipah informam os residentes sobre o ébol
 Ao que tudo indica está a funcionar. Algumas semanas atrás, uma mulher que sofria de cancro procurou ajuda de um curandeiro tradicional na Guiné-Conacri. Ela morreu poucos dias depois de regressar da fronteira. Os cidadãos de Wipah ficaram alarmados e chamaram as autoridades, com medo de que ela tivesse contraído o ébola.
 É com esta atenta vigilância que os liberianos contam para manter o vírus mortal fora da sua cidade até o ébola deixar de ser uma ameaça.
 </doc>
-<doc id='voa_5303447' lang='por' type='mono' source_url='https://www.voaportugues.com/a/donald-trump-quer-fundos-do-congresso-para-combater-coronav%C3%ADrus/5303447.html' term='ebola'>
+<doc docid='voa_5303447' lang='por' type='mono' source_url='https://www.voaportugues.com/a/donald-trump-quer-fundos-do-congresso-para-combater-coronav%C3%ADrus/5303447.html' term='ebola'>
 Donald Trump quer fundos do Congresso para combater coronavírus
 Democratas do Congresso dizem que o governo Trump falhou em responder rapidamente à propagação do vírus, incluindo a divulgação pessoal de informações falsas quando Trump disse que o coronavírus iria parar em abril, quando a temperatura subisse.
 A crise global da saúde é mais uma batalha na guerra entre Trump e o Congresso, depois que os democratas não conseguiram destituir o Presidente num julgamento de impugnação no Senado no início deste ano.
@@ -1299,12 +1299,12 @@ Cassidy observou que, se a atual solicitação de financiamento de emergência d
 O senador democrata Dick Durbin disse que, embora a solicitação de orçamento do governo para 2021 fosse "completamente atrasada" em termos de corte de financiamento para as principais agências de saúde dos EUA, era difícil dizer se a solicitação de financiamento de emergência seria suficiente para enfrentar a ameaça.
 "Não sei se é o suficiente", disse Durbin a repórteres na terça-feira. "Não sei se alguém sabe se é o suficiente. Mas falar de 2 mil milhões de dólares de início não é uma quantia irracional".
 </doc>
-<doc id='voa_2409396' lang='por' type='mono' source_url='https://www.voaportugues.com/a/costa-do-marfim-suspende-voos-de-paises-afectados-com-o-ebola/2409396.html' term='ebola'>
+<doc docid='voa_2409396' lang='por' type='mono' source_url='https://www.voaportugues.com/a/costa-do-marfim-suspende-voos-de-paises-afectados-com-o-ebola/2409396.html' term='ebola'>
 Costa do Marfim suspende voos de países afectados com o ébola
 A Costa do Marfim anunciou a suspensão de todos os voos de sua companhia nacional para e a partir dos países afectados pelo vírus ebola. Além disso, o Governo proibiu que as companhias transportem passageiros dos países envolvidos para o território da Costa do Marfim.
 As autoridades costa-marfinenses também decidiram reforçar a segurança no aeroporto de Abidjan, onde todos os passageiros serão examinados após o desembarque. Até o momento nenhum caso suspeito de ebola foi registrado garante os responsáveis aeroportuários.
 </doc>
-<doc id='voa_2456651' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-governo-da-serra-leoa/2456651.html' term='ebola'>
+<doc docid='voa_2456651' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-governo-da-serra-leoa/2456651.html' term='ebola'>
 Ébola: Governo da Serra Leoa decreta 3 dias de recolher
 Na Serra Leoa, as ruas da capital, Freetown, encontravam-se hoje praticamente desertas no momento em que o país inicia o segundo de três dias de recolher para tentar detectar casos de Ébola e impedir o alastramento da epidemia.
 Dezenas de milhares de agentes sanitários estão a deslocar-se de porta em porta informando os residentes acerca dos modos de evitarem ser contaminados pelo Ébola e pedindo às pessoas supostamente infectadas que se dirijam a centros de tratamento.
@@ -1313,7 +1313,7 @@ As Nações Unidas instalaram entretanto no Gana a sede da Missão das Nações 
 Segundo o secretário-geral da ONU, Ban Ki-moon, a UNMEER proporcionará a estrutura operacional para tratar os infectados, garantir os serviços essenciais, preservar a estabilidade e impedir o alastramento da epidemia para outros países.
 A epidemia de Ébola já matou desde o principio do ano mais de 2 mil e 600 pessoas através da África Ocidental incluindo mais de 560 pessoas só na Serra Leoa.
 </doc>
-<doc id='voa_2807280' lang='por' type='mono' source_url='https://www.voaportugues.com/a/africa-reduz-a-fome-e-subnutricao-revela-relatorio-das-nacoes-unidas/2807280.html' term='ebola'>
+<doc docid='voa_2807280' lang='por' type='mono' source_url='https://www.voaportugues.com/a/africa-reduz-a-fome-e-subnutricao-revela-relatorio-das-nacoes-unidas/2807280.html' term='ebola'>
 Africa reduz fome e subnutrição, revela relatório das Nações Unidas
 Angola e São Tomé Príncipe constam da lista de países africanos que atingiram as metas globais de redução da subnutrição e fome nos últimos anos, indica um novo relatório da Organização das Nações Unidas para Alimentação e Agricultura(FAO) sobre a situação da segurança alimentar no continente.
 O documento diz que da lista figuram também Djibouti, Camarões, Gabão, Gana e Mali.
@@ -1325,7 +1325,7 @@ Na África Oriental e Austral foi registado algum progresso, mas na parte centra
 O director-geral assistente da FAO, Bukar Tijani, associou a melhoria da situação ao compromisso dos chefes de Estados africanos manifestado em encontros e declarações. Num dos encontros, os países africanos comprometeram-se a investir 10 por cento dos orçamentos na agricultura.
 Tijani apontou também alguns aspectos que afectam a segurança alimentar, que incluem os efeitos das mudanças climáticas, conflitos armados e epidemias como a ébola.
 </doc>
-<doc id='voa_2509630' lang='por' type='mono' source_url='https://www.voaportugues.com/a/malanje-recebe-equipamento-para-luta-contra-o-ebola/2509630.html' term='ebola'>
+<doc docid='voa_2509630' lang='por' type='mono' source_url='https://www.voaportugues.com/a/malanje-recebe-equipamento-para-luta-contra-o-ebola/2509630.html' term='ebola'>
 Malanje recebe equipamento para luta contra o Ébola
 As autoridades sanitárias de Malanje apresentaram ontem,4, à imprensa local os equipamentos de biossegurança de alto risco para contrapor a qualquer evidência da pandemia do ébola na região.
 A directora provincial da Saúde Lazina Vera Cruz afirmou que os técnicos estão capacitados e que chegarm “fatos-macacos, kits de material de protecção individual, máscaras e luvas”.
@@ -1336,14 +1336,14 @@ Eduardo admitiu que a formação dos membros do Comando Provincial da instituiç
 O centro de quarentena para o atendimento de casos suspeitos e confirmados do ébola no município de Malanje foi implantado no bairro da Cahala, a 50 metros da estrada em direcção ao sector de Quibinda.
 O local estará equipado para atender doentes de baixo risco, com a realização de exames de diagnóstico diferencial e para pacientes de risco moderado e de alto risco que depois de isolados serão submetidos a testes de diagnóstico diferencial.
 </doc>
-<doc id='voa_2410573' lang='por' type='mono' source_url='https://www.voaportugues.com/a/oms-aprova-uso-de-tratamentos-experimentais-contra-o-ebola/2410573.html' term='ebola'>
+<doc docid='voa_2410573' lang='por' type='mono' source_url='https://www.voaportugues.com/a/oms-aprova-uso-de-tratamentos-experimentais-contra-o-ebola/2410573.html' term='ebola'>
 OMS aprova uso de tratamentos experimentais contra o ébola
 O Comité de Ética da Organização Mundial da Saúde (OMS) aprovou em reunião o uso de tratamentos experimentais na luta contra a febre hemorrágica do Ébola. "Diante das circunstâncias da epidemia e sob certas condições, o comité concluiu que é ético oferecer tratamentos - cuja eficácia ainda não foi demonstrada, assim como os efeitos colaterais - como potencial tratamento ou de carácter preventivo", afirma o comunicado da OMS.
 Até ao momento não existe nenhum tratamento de cura ou vacina contra o ébola, epidemia que levou a OMS a decretar uma emergência de saúde pública mundial.
 Entretanto, o uso do medicamento experimental ZMapp em dois americanos e um padre espanhol - que faleceu esta terça-feira em Madrid - infectados com o vírus quando trabalhavam na África provocou um intenso debate ético.
 O medicamento, do qual existe pouca quantidade, parece apresentar resultados promissores nos dois americanos, mas o religioso espanhol morreu esta terça-feira num hospital de Madrid.
 </doc>
-<doc id='voa_2494101' lang='por' type='mono' source_url='https://www.voaportugues.com/a/autoridades-da-guine-bissau-tentam-superar-vulnerabilidades-na-prevencao-ao-ebola/2494101.html' term='ebola'>
+<doc docid='voa_2494101' lang='por' type='mono' source_url='https://www.voaportugues.com/a/autoridades-da-guine-bissau-tentam-superar-vulnerabilidades-na-prevencao-ao-ebola/2494101.html' term='ebola'>
 Autoridades da Guiné-Bissau tentam superar vulnerabilidades na prevenção ao ébola
 BISSAU —
 Numa altura em que foi detectado um caso de ébola em Boké, na Guiné-Conacri a região mais próxima da Guiné-Bissau, na zona leste do país, cresce o receio dos guineenses de Bissau sobre a propagação da epidemia no território nacional.
@@ -1359,7 +1359,7 @@ Em princípio, segundo fontes governamentais, está prevista a instalação de d
 Nas demais regiões, há já um dispositivo móvel na posse de Médicos Sem Fronteira, referem ainda autoridades guineenses.
 Entretanto, e segundo observbadores, o cenário aponta para uma clara vulnerabilidade da Guiné-Bissau em lidar com eventuais casos de ébola. Isto é, desde a falta do rigor no fecho das fronteiras com a Guiné Conakry, até à inexistência de meios materiais e unidades de contenção.
 </doc>
-<doc id='voa_3339044' lang='por' type='mono' source_url='https://www.voaportugues.com/a/oms-confirma-virus-zica-cabo-verde-mesmo-brasil/3339044.html' term='ebola'>
+<doc docid='voa_3339044' lang='por' type='mono' source_url='https://www.voaportugues.com/a/oms-confirma-virus-zica-cabo-verde-mesmo-brasil/3339044.html' term='ebola'>
 OMS confirma que vírus zika em Cabo Verde é o mesmo da epidemia no Brasil
 A Organização Mundial da Saúde (OMS) confirmou nesta sexta-feira, 20, que o vírus do zika detectado em Cabo Verde é do mesmo tipo que causou a epidemia no Brasil e no restante da América Latina.
 Esta é a primeira vez que a presença dessa cepa do vírus é confirmada em África.
@@ -1372,7 +1372,7 @@ Os responsáveis da OMS acreditam ainda que a resposta vai aproveitar a experiê
 As autoridades cabo-verdianas informaram que até o passado dia 8 de Maio, o país registou 7.557 casos suspeitos de zika e três casos de microcefalia, embora apenas um tenha sido confirmado pelo Centro de Controlo e Prevenção de Doenças dos Estados Unidos.
 Até agora, não foi registado nenhum caso de síndrome de Guillain-Barre.
 </doc>
-<doc id='voa_2434887' lang='por' type='mono' source_url='https://www.voaportugues.com/a/dez-pessoas-que-escalaram-paises-afectados-pelo-ebora-rastreadas-em-pemba/2434887.html' term='ebola'>
+<doc docid='voa_2434887' lang='por' type='mono' source_url='https://www.voaportugues.com/a/dez-pessoas-que-escalaram-paises-afectados-pelo-ebora-rastreadas-em-pemba/2434887.html' term='ebola'>
 Dez pessoas que escalaram países afectados pelo ébola rastreadas em Pemba
 Em Moçambique, 10 pessoas que fizeram escala na Serra Leoa e no Senegal, dois países com casos de ébola, foram devidamente identificadas e rastreadas pelas autoridades sanitárias de Pembra, na província de Cabo Delgado.
 Não se confirmou nenhum caso de ébola e as pessoas regressaram às suas actividades.
@@ -1381,7 +1381,7 @@ O Director do Hospital Provincial de Pemba Felisberto Mendes confirmou à VOA ho
 Entre esses passageiros estavam quatro filipinos que foram trabalhar nas minhas de Cabo Delgado.
 Aquele responsável garante que as medidas de segurança para evitar a entrada do ébola na província estão a ser aplicadas.
 </doc>
-<doc id='voa_3870583' lang='por' type='mono' source_url='https://www.voaportugues.com/a/autoridades-angolanas-alertam-ameaca-ebola-rdc/3870583.html' term='ebola'>
+<doc docid='voa_3870583' lang='por' type='mono' source_url='https://www.voaportugues.com/a/autoridades-angolanas-alertam-ameaca-ebola-rdc/3870583.html' term='ebola'>
 Autoridades angolanas alertam para ameaça do ébola a partir da RDC
 Autoridades sanitárias de Angola alertam para a necessidade de vigilância nos principais pontos de entrada no país devido ao novo surto de vírus de ébola na vizinha República Democrática do Congo (RDC).
 Numa circular distribuída em Luanda, o Ministério da Saúde recomenda as províncias de Cabinda, Luanda, Benguela, Uíge, Zaire, Lundas Norte e Sul, Malanje e Moxico a reforçarem a vigilância nos pontos de entrada, sejam eles fluviais ou marítimos, aeroportos e pontos fronteiriços terrestres.
@@ -1392,7 +1392,7 @@ Entretanto, a partir de Cabinda, o responsável Associação para o Desenvolvime
 O Ministério da Saúde alerta para a necessidade do reforço da vigilância epidemiológica através da investigação de eventuais rumores que devem imediatamente ser reportados às diferentes repartições de saúde.
 Aquele organismo orienta ainda que devem ser criadas unidades de saúde de referência para o internamento de casos suspeitos bem como a manutenção das medidas de protecção individual e de biossegurança.
 </doc>
-<doc id='voa_2552096' lang='por' type='mono' source_url='https://www.voaportugues.com/a/guine-bissau-decide-reabrir-fonteiras-com-a-guine-conacri/2552096.html' term='ebola'>
+<doc docid='voa_2552096' lang='por' type='mono' source_url='https://www.voaportugues.com/a/guine-bissau-decide-reabrir-fonteiras-com-a-guine-conacri/2552096.html' term='ebola'>
 Guiné-Bissau reabre fronteira com Guiné-Conacri
 Depois de quatro meses, o Governo da Guiné-Bissau reabriu as suas fronteiras com a vizinha Guiné-Conacri, um dos países afectados pelo vírus do ébola.
 A decisão das autoridades guineenses é o cumprimento de uma das resoluções da recente cimeira da Cedeao, segundo a qual todas as fronteiras com os países atingidos pela epidemia devem ser reabertas como sinal de solidariedade.
@@ -1402,30 +1402,30 @@ Atento à decisão do Governo e mediante os riscos que tal decisão pode acarret
 O argumento de Barai para área da Saúde, assenta no facto da conivência e interactividade comercial entre as populações ou as comunidades de Bissau e Conacri nas fronteiras comum serem muito afectivas.
 Carlitos Barai desvaloriza, por outro lado, a alegada incidência negativa do encerramento da fronteira, durante quatro meses, por parte das autoridades guineenses, na escassez de produtos da primeira necessidade no mercado nacional.
 </doc>
-<doc id='voa_2413035' lang='por' type='mono' source_url='https://www.voaportugues.com/a/autoridades-cabo-verdianas-colocam-navio-proveniente-da-serra-leoa-em-quarenta/2413035.html' term='ebola'>
+<doc docid='voa_2413035' lang='por' type='mono' source_url='https://www.voaportugues.com/a/autoridades-cabo-verdianas-colocam-navio-proveniente-da-serra-leoa-em-quarenta/2413035.html' term='ebola'>
 Autoridades cabo-verdianas colocam navio proveniente da Serra Leoa em quarentena
 Um navio proveniente de Serra Leoa, um dos países afectados pelo vírus do ébola que já matou mais de mil pessoas em África, está de quarentena perto do ilhéu dos Pássaros, em São Vicente. A medida foi decretada pelas autoridades sanitárias do país como forma de prevenção à entrada desse mortífero vírus.
 A informação é do jornal A Nação que não diz ser a medida uma das muitas previstas no plano de contingência adoptado pelo Governo de Cabo Verde para evitar a entrada de ébola no país.
 </doc>
-<doc id='voa_2468530' lang='por' type='mono' source_url='https://www.voaportugues.com/a/eua-enviam-mais-de-1400-soldados-para-liberia/2468530.html' term='ebola'>
+<doc docid='voa_2468530' lang='por' type='mono' source_url='https://www.voaportugues.com/a/eua-enviam-mais-de-1400-soldados-para-liberia/2468530.html' term='ebola'>
 EUA enviam mais 1400 soldados para a Libéria
 Os EUA vão enviar 1.400 soldados para a Libéria para ajudar a conter o vírus do Ébola, disse o Pentágono nas últimas horas.
 O anúncio do envio destes militares nas próximas semanas coincidiu com o registo do primeiro caso de um paciente, de regresso da Libéria, foi diagnosticado em solo norte-americano. Cerca de 700 soldados da 101.ª Divisão Aerotransportada e outros tantos engenheiros militares devem ser deslocados para a capital da Libéria, Monrovia, próximo do fim de outubro, declarou à imprensa o porta-voz do Pentágono, o contra-almirante John Kirby.
 Estes soldados vão juntar-se a cerca de outros 200 que já estão no terreno e integram um contingente total de três mil homens que o governo dos EUA anunciou pretender enviar para ajudar a formar trabalhadores sanitários e instalar hospitais e infraestruturas.
 </doc>
-<doc id='voa_3176388' lang='por' type='mono' source_url='https://www.voaportugues.com/a/serra-leoa-liberta-da-quarentena-individuos-suspeitos-de-ebola/3176388.html' term='ebola'>
+<doc docid='voa_3176388' lang='por' type='mono' source_url='https://www.voaportugues.com/a/serra-leoa-liberta-da-quarentena-individuos-suspeitos-de-ebola/3176388.html' term='ebola'>
 Serra Leoa liberta da quarentena indivíduos suspeitos de Ébola
 As autoridades de saúde da Serra Leoa libertaram, ontem, 55 pessoas da quarentena depois de certificar que não tinha Ébola.
 Os referidos indivíduos estavam em quarentena desde Janeiro, após a confirmação de dois casos de Ébola naquele país.
 Sidi Yahya Tunis, porta-voz dos serviços de emergência de saúde, disse que o fim da quarentena seguiu as recomendações da Organização Mundial da Saúde.
 </doc>
-<doc id='voa_2427031' lang='por' type='mono' source_url='https://www.voaportugues.com/a/navio-que-estava-de-quarentena-foi-libertado-pelas-autoridades-cabo-verdianas/2427031.html' term='ebola'>
+<doc docid='voa_2427031' lang='por' type='mono' source_url='https://www.voaportugues.com/a/navio-que-estava-de-quarentena-foi-libertado-pelas-autoridades-cabo-verdianas/2427031.html' term='ebola'>
 Navio que estava de quarentena foi libertado pelas autoridades cabo-verdianas
 Um navio chinês proveniente da Serra Leoa, que estava há 21 dias de quarentena em Cabo Verde, já foi libertado pelas autoridades do arquipélago depois de não se ter registado nenhum caso suspeito de ébola entre os cerca de 15 tripulantes.
 A embarcação chinesa poderá agora retomar a actividade no país, não havendo o risco de transportar a doença contagiosa para o interior do arquipélago.
 O navio oriundo da Serra Leoa, um dos países afectados pelo vírus do ébola, esteve 21 dias de quarentena ao largo da ilha de São Vicente.
 </doc>
-<doc id='voa_2461931' lang='por' type='mono' source_url='https://www.voaportugues.com/a/combater-o-ebola-de-porta-em-porta/2461931.html' term='ebola'>
+<doc docid='voa_2461931' lang='por' type='mono' source_url='https://www.voaportugues.com/a/combater-o-ebola-de-porta-em-porta/2461931.html' term='ebola'>
 Combater o Ébola de porta em porta
 O Governo da Guiné Conacri colocou dois mil jovens em campanha de porta-a-porta para educar as famílias sobre o Ébola. A iniciativa surgiu depois do assassínio brutal de oito pessoas envolvidas na campanha de informação sobre o vírus, como parte de um programa do Governo.
 O governo guineense diz que o que aconteceu na vila de Wome na semana passada não pode voltar a acontecer.
@@ -1441,7 +1441,7 @@ O seu anúncio chega dias depois da Serra Leoa ter concluído uma campanha simil
 Mas Naite diz que ao contrário da Serra Leoa, a Guiné Conacri não está a obrigar as pessoas a confinar-se às suas casas.
 O Ébola já matou mais de 600 pessoas na Guiné e mais de duas mil e 800 por toda a região.
 </doc>
-<doc id='voa_3208177' lang='por' type='mono' source_url='https://www.voaportugues.com/a/serra-leoa-turmas-especiais-meninas-gravidas/3208177.html' term='ebola'>
+<doc docid='voa_3208177' lang='por' type='mono' source_url='https://www.voaportugues.com/a/serra-leoa-turmas-especiais-meninas-gravidas/3208177.html' term='ebola'>
 Serra Leoa: Turmas especiais permitem que as meninas grávidas continuem a estudar
 As autoridades de educação da Serra Leoa criaram, em Outubro do ano passado, as primeiras turmas para as meninas grávidas, uma tentativa de lidar com a subida da violência sexual e gravidezes na adolescência.
 Antes, as meninas grávidas eram totalmente impedidas de estudar.
@@ -1459,7 +1459,7 @@ Ela acrescenta que o governo está a estudar formas de reduzir gravidezes entre 
 De momento, a única opção é ter turmas alternativas, diz Musa.
 E Elizabeth Issa, que quer trabalhar na área bancária e acha que está a estudar bem, admite que algumas das suas colegas gostariam de estar em turmas normas, mesmo estando grávidas.
 </doc>
-<doc id='voa_2563114' lang='por' type='mono' source_url='https://www.voaportugues.com/a/fluxos-ilicitos-perdas-acima-6-trilioes-dolares/2563114.html' term='ebola'>
+<doc docid='voa_2563114' lang='por' type='mono' source_url='https://www.voaportugues.com/a/fluxos-ilicitos-perdas-acima-6-trilioes-dolares/2563114.html' term='ebola'>
 Fluxos ilícitos causam perdas acima dos 6 triliões de dólares
 Segundo a organização sem fins lucrativos Global Financial Integrity, GFI, os países em desenvolvimento perderam 6,6 triliões de dólares entre 2003 e 2012. De acordo com Eric LeCompte da Jubilee USA Network, trata-se e um problema que está a crescer a um ritmo de 9,5% ao ano.
 “Os fluxos financeiros ilícitos dizem respeito aos montantes que saem dos países sem serem submetidos a impostos. Regra geral esse dinheiro corresponde a evasão fiscal ou a práticas de corrupção”, afirma LeCompte.
@@ -1474,7 +1474,7 @@ A Jubilee USA e os seus parceiros vão continuar a defender a criação de mecan
 Defenderão também a ideia de inclui-los nos Objectivos de Desenvolvimento Sustentáveis que sucedem aos Objectivos de Desenvolvimento do Milénio.
 Se as medidas tiverem sucesso, dizem, os países em desenvolvimento teriam milhares de milhões de dólares adicionais todo os anos para investir na saúde, infraestruturas e educação.
 </doc>
-<doc id='voa_2430955' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ons-anuncia-24-casos-de-ebola-na-republica-democratica-do-congo/2430955.html' term='ebola'>
+<doc docid='voa_2430955' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ons-anuncia-24-casos-de-ebola-na-republica-democratica-do-congo/2430955.html' term='ebola'>
 OMS anuncia 24 casos de ébola na República Democrática do Congo
 A República Democrática do Congo regista 24 casos de contaminação pelo vírus ébola, incluindo 13 mortes, disse hoje, 27, a Organização Mundial da Saúde(OMS), mas acredita não haver relação entre esses casos, registrados na província congolesa de Equador e os da Libéria, Nigéria, Guiné e de Serra Leoa.
 Segundo informações da OMS, tudo indica que o primeiro caso de contaminação foi de uma mulher grávida, que preparou um animal caçado pelo marido. Ela ficou doente, com os sintomas do vírus ébola, e no dia 11 de Agosto morreu, ainda sem o diagnóstico da doença.
@@ -1484,14 +1484,14 @@ Este é o sétimo surto de ébola na República Democrática do Congo, onde o v�
 A OMS ressalta que não recomenda restrições de viagem, excepto nos casos em que a pessoa tenha a doença confirmada ou se trate de suspeitos de infecção com o vírus ou tiveram contacto com doentes.
 O ministro da Saúde do Congo, Félix Kabange, disse que, infelizmente, os resultados das análises de oito amostras de pessoas contaminadas são positivos, e trata-se de outra cepa do vírus.
 </doc>
-<doc id='voa_3173018' lang='por' type='mono' source_url='https://www.voaportugues.com/a/oms-zika-africa-asia/3173018.html' term='ebola'>
+<doc docid='voa_3173018' lang='por' type='mono' source_url='https://www.voaportugues.com/a/oms-zika-africa-asia/3173018.html' term='ebola'>
 Zika pode chegar a África e Ásia
 O vírus zika que está correlacionado com o surto de microcefalia na América Latina pode expandir-se a África e Ásia, continentes com as mais altas taxas natalidade no mundo, alerta a Organização Mundial de Saúde (OMS), que lançou agora uma unidade de resposta global para lidar com esta emergência.
 A OMS declarou, na Segunda-feira, 1, estado de emergência internacional, devido à ligação do zika a milhares de bebés nascidos com problemas no Brasil.
 "Temos agora uma unidade de resposta global que coloca toda a gente da OMS em contacto, nas sedes, nas regiões, para lidar de forma responsável usando todas as lições que aprendemos com a crise do ébola", disse Anthony Costello, director da OMS para a saúde materna, e infanto-juvenil.
 "A razão para que seja uma preocupação global é que receamos que (o zika) possa espalhar-se para outras áreas do mundo, onde a população pode não ser imune", disse Costello em conferência de imprensa, esta Terça-feira, 2, em Genebra.
 </doc>
-<doc id='voa_2666215' lang='por' type='mono' source_url='https://www.voaportugues.com/a/relatorio-averte-para-prevencoes-de-epidemias/2666215.html' term='ebola'>
+<doc docid='voa_2666215' lang='por' type='mono' source_url='https://www.voaportugues.com/a/relatorio-averte-para-prevencoes-de-epidemias/2666215.html' term='ebola'>
 Relatório adverte para prevenções de epidemias
 A Fundação Save the Children publicou um novo relatório segundo o qual 30 países encontram-se altamente vulneráveis a uma epidemia parecida com a da ébola. O documento indica que tais países têm um sistema de saúde pior do que os de países como Guiné-Conacri, Libéria e Serra Leão antes da epidemia da doença.
 O relatório intitula-se “Grito de alerta: Lições da Ébola para os Sistemas de Saúde do Mundo”.
@@ -1508,7 +1508,7 @@ A Organização Mundial da Saúde estima que custaria 90 dólares por pessoa anu
 O relatório da Fundação Save the Children recomenda que países aumentem a sua arrecadação tributária para que possam destinar pelo menos 15 por cento do seu orçamento para a saúde pública.
 O documento também defende que os líderes mundiais se comprometam a acabar com as mortes maternas, de recém-nascidos e de crianças que podem ser prevenidas até 2030.
 </doc>
-<doc id='voa_2476874' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-o-que-define-o-virus/2476874.html' term='ebola'>
+<doc docid='voa_2476874' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-o-que-define-o-virus/2476874.html' term='ebola'>
 Ébola – O que define o vírus
 As Nações Unidas abriram em Acra uma representação com a missão de combater o vírus Ébola, juntando uma equipa no Gana que vai coordenar a resposta internacional.
 Foi a primeira vez que as Nações Unidas lançaram uma missão de emergência de saúde.
@@ -1518,13 +1518,13 @@ Dados da Organização Mundial de Saúde (OMS) apontam para que o Ébola matou a
 O dr. Mateusz Plucinski é um epidemiologista do Centro de Controlo de Doenças, e que se encontra há um ano a trabalhar em Moçambique. Ele foi um dos primeiros peritos médicos a trabalhar na Guine-Conacri quando se começou a perceber a dimensão da epidemia do Ébola.
 O Dr. Plucinski em conversa com a VOA/Portugues falou sobre o que define o vírus Ébola, os seus sintomas, e como os doentes são tratados. Para além de falarmos sobre outra presença do vírus Ébola, mas noutra área de Africa.
 </doc>
-<doc id='voa_3145384' lang='por' type='mono' source_url='https://www.voaportugues.com/a/liberia-livre-do-ebola/3145384.html' term='ebola'>
+<doc docid='voa_3145384' lang='por' type='mono' source_url='https://www.voaportugues.com/a/liberia-livre-do-ebola/3145384.html' term='ebola'>
 Libéria livre do Ébola
 A Organização Mundial da Saúde (OMS) anunciou, hoje, o fim do mais recente surto do vírus Ébola na Libéria. É a primeira vez desde o início da epidemia, em 2013, em que não há nenhum caso conhecido da doença na África Ocidental.
 “Todas as correntes de transmissão foram interrompidas na África Ocidental”, disse a OMS em comunicado.
 No entanto, a organização adverte que pequenos surtos são esperados, uma vez que o vírus pode perdurar em sobreviventes por até um ano, e ser transmitido através do sexo e outras.
 </doc>
-<doc id='voa_2505871' lang='por' type='mono' source_url='https://www.voaportugues.com/a/missionaria-internada-josina-machel-mas-autoridades-afastam-hipotese-de-ebola/2505871.html' term='ebola'>
+<doc docid='voa_2505871' lang='por' type='mono' source_url='https://www.voaportugues.com/a/missionaria-internada-josina-machel-mas-autoridades-afastam-hipotese-de-ebola/2505871.html' term='ebola'>
 Missionária está internada no Josina Machel, mas autoridades afastam hipótese de Ébola
 Após ter sido submetida a testes no Hospital Militar, a freira que chegou a Luanda na Sexta-feira, 31 de Outubro, com sintomas do vírus do Ébola, foi transferida para o Hospital Josina Machel e está a ser tratada contra a malária.
 Os testes que fez foram enviados para a África do Sul e as autoridades continuam a investigar o caso, aguardando a "confirmação laboratorial das análises". Até provar-se o contrário, a freira continuará sob observação.
@@ -1534,7 +1534,7 @@ Para Adelaide Carvalho, "não há probabilidades, nem altas nem baixas", apenas 
 A OMS afirma que em Angola todos os dias surgem alertas de casos suspeitos, mas que até ao momento nenhum foi confirmado.
 Segundo a Organização Mundial de Saúde, até ao momento o Ébola já causou a morte a 4.951 pessoas e foram registados 13.703 casos, maioritariamente em países da África Ocidental como Serra Leoa, Libéria e Guiné-Conacri.
 </doc>
-<doc id='voa_4722452' lang='por' type='mono' source_url='https://www.voaportugues.com/a/congoleses-aguardam-resultados-das-elei%C3%A7%C3%B5es/4722452.html' term='ebola'>
+<doc docid='voa_4722452' lang='por' type='mono' source_url='https://www.voaportugues.com/a/congoleses-aguardam-resultados-das-elei%C3%A7%C3%B5es/4722452.html' term='ebola'>
 Congoleses aguardam resultados das eleições
 Cerca de 40 milhões de eleitores na República Democrática do Congo (RDC), de um total de 81 milhões de habitantes, aguardam pela contagem dos votos, depois de um dia de eleições relativamente calmo, apesar de duas pessoas terem morrido e outras duas ficarem feridas.
 Os resultados oficiais parciais deverão ser anunciados apenas a 6 de Janeiro.
@@ -1556,7 +1556,7 @@ A oposição criticou a decisão por ser uma região considerada seu bastião..
 A RDC é um dos países mais ricos do mundo em recursos naturais e está no topo da lista quando falamos dos países com maior pobreza no mundo.
 Joseph Kabila chegou a renunciar para concorrer a um terceiro mandato proibido pela Constituição.
 </doc>
-<doc id='voa_1900385' lang='por' type='mono' source_url='https://www.voaportugues.com/a/cabinda-e-congo-discutemperigo-da-%C3%A9bola/1900385.html' term='ebola'>
+<doc docid='voa_1900385' lang='por' type='mono' source_url='https://www.voaportugues.com/a/cabinda-e-congo-discutemperigo-da-%C3%A9bola/1900385.html' term='ebola'>
 Cabinda e Congo discutem perigo da ébola
 As autoridades sanitárias de Cabinda e do Congo Brazaville, reuniram-se esta Quinta-feira, 24, na fronteira de Massabi para estudarem formas de controlo da propagação do vírus da ébola no enclave de Cabinda.
 Esta reunião de acordo com a chefe da delegação angolana Carlota Tati, faz parte do pacote de medidas elaboradas pelas autoridades angolanas para impedir a propagação da doença em Angola.
@@ -1564,20 +1564,20 @@ Carlota Tati não disse contudo que medidas de vigilância epidemidemiológica s
 Apesar da epidemia constituir preocupação das autoridades angolanas a população espera ver medidas concretas no controlo dos estrangeiros que entram para a província à partir dos congos dada a extensão fronteiriça existente entre o enclave com a RDC e o congo Brazaville.
 Encontros similares foram realizadas recentemente com as autoridades sanitárias da RDC, por aquele país vizinho constituir maior preocupação dado o fluxo migratório existente entre os dois vizinhos.
 </doc>
-<doc id='voa_2472806' lang='por' type='mono' source_url='https://www.voaportugues.com/a/autoridades-americanas-interrogam-100-pessoas-para-despistar-ebola/2472806.html' term='ebola'>
+<doc docid='voa_2472806' lang='por' type='mono' source_url='https://www.voaportugues.com/a/autoridades-americanas-interrogam-100-pessoas-para-despistar-ebola/2472806.html' term='ebola'>
 Autoridades americanas interrogam 100 pessoas para despistar ébola
 Autoridades de saúde norte-americanas interrogaram cerca de 100 pessoas identificar potenciais casos de ébola desde que o primeiro paciente com o vírus letal foi detectado no país, mas não identificou novas infecções, disse hoje, 4, Thomas Frieden, director do Centro de Controle de Doencas (CDC, em inglês).
 Friden reconhecer que notícia sobre o paciente com ébola em Dallas levantou alerta em hospitais de todo o país para verificar pacientes de alto risco, particularmente aqueles que recentemente viajaram aos países afectados pela epidemia na África Ocidental.
 O CDC identificou nove pessoas que tiveram contacto com o paciente de Dallas e, portanto, podem ter sido expostos ao vírus, e outras 40 estão sendo monitoradas por potenciais contactos. Nenhum deles apresentou sintomas.
 Recorde-se que uma pessoa com sintomas parecidos aos do ébola encontra-se em observação do Howard University Hospital, em Washington.
 </doc>
-<doc id='voa_2842814' lang='por' type='mono' source_url='https://www.voaportugues.com/a/liberia-anuncia-morte-de-ebola/2842814.html' term='ebola'>
+<doc docid='voa_2842814' lang='por' type='mono' source_url='https://www.voaportugues.com/a/liberia-anuncia-morte-de-ebola/2842814.html' term='ebola'>
 Libéria anuncia morte por ébola
 O Governo da Libéria anunciou nesta Terça-feira, 30, uma morte por ébola na capital, o que marca o regresso da doença depois de, há seis semanas, o país ter sido declarado livre da doença.
 A notícia foi avançada pelo ministro-adjunto da Saúde, Tolbert Nyensuah, quem adiantou ainda que todos os que estiveram em contacto com a vítima estão em quarentena.
 Os vizinhos da Libéria, Serra Leoa e Guiné-Conacri, continuam a combater a epidemia que já matou mais de 11.000 pessoas desde o início de 2014, mas o condado de Margibi está mais perto da capital Monrovia do que de qualquer das fronteiras.
 </doc>
-<doc id='voa_3038345' lang='por' type='mono' source_url='https://www.voaportugues.com/a/liberia-recebe-257-milhoes-de-dolares-do-millenium-challenge-para-a-recuperacao-pos-ebola/3038345.html' term='ebola'>
+<doc docid='voa_3038345' lang='por' type='mono' source_url='https://www.voaportugues.com/a/liberia-recebe-257-milhoes-de-dolares-do-millenium-challenge-para-a-recuperacao-pos-ebola/3038345.html' term='ebola'>
 Libéria recebe 257 milhões de dólares do Millenium Challenge Account para a recuperação pós-ébola
 A Libéria e os Estados Unidos assinaram esta semana, em Washington, um acordo para a implementação do compacto do Millenium Challenge Corporation, que investirá 257 milhões de dólares para a recuperação pós-ébola.
 O investimento, que reafirma o compromisso dos Estados Unidos ao crescimento da Libéria, terá como foco a produção de energia e reformas no sector de estradas.
@@ -1587,21 +1587,21 @@ O vice-presidente da Libéria, Joseph Boakai, disse que a Libéria tem 168 anos 
 Boakai, disse que apesar de o dinheiro do compacto ser destinado a áreas específicas, é importante notar que o compacto é sobre a boa governação e realça o esforço do país nesse sentido.
 O governo da Presidente Sirleaf procura acabar com a corrupção, disse Boakai: “Sabemos que há pessoas cuja conduta põe em risco a economia”, mas a justiça está a tomar conta disso.
 </doc>
-<doc id='voa_2526099' lang='por' type='mono' source_url='https://www.voaportugues.com/a/onu-felicita-congoleses-por-acabar-com-a-epidemia-de-ebola/2526099.html' term='ebola'>
+<doc docid='voa_2526099' lang='por' type='mono' source_url='https://www.voaportugues.com/a/onu-felicita-congoleses-por-acabar-com-a-epidemia-de-ebola/2526099.html' term='ebola'>
 ONU felicita congoleses por acabar com epidemia de Ébola
 O coordenador humanitário da Organização das Nações Unidas (ONU) Moustapha Soumaré saudou o fim da epidemia de Ébola na República Democrática do Congo (RDC).
 Soumaré felicitou autoridades da RDC pela sua resposta rápida e coordenada, apesar dos desafios logísticos enormes, e enalteceu a "bravura das equipas de socorros, em particular dos oito agentes de saúde falecidos nos primeiros dias da epidemia".
 Segundo a Organização Mundial da Saúde (OMS), 66 casos do vírus de Ébola foram registados na RDC. A OMS sublinha que houve, no total, 49 mortos antes de as autoridades deste país da África Central terem declarado o fim da patologia, que, segundo esta instituição, não tem a ver com a epidemia de ébola que impera na África Ocidental.
 Tudo sobre o Ébola
 </doc>
-<doc id='voa_4398098' lang='por' type='mono' source_url='https://www.voaportugues.com/a/caso-de-%C3%A9bola-em-centro-urbano-na-rep%C3%BAblica-democr%C3%A1tica-do-congo/4398098.html' term='ebola'>
+<doc docid='voa_4398098' lang='por' type='mono' source_url='https://www.voaportugues.com/a/caso-de-%C3%A9bola-em-centro-urbano-na-rep%C3%BAblica-democr%C3%A1tica-do-congo/4398098.html' term='ebola'>
 Caso de ébola em centro urbano na República Democrática do Congo
 A Organização Mundial de Saúde (OMS) anunciou nesta quinta-feira, 17, a descoberta de um primeiro caso de Ébola num zona urbana na República Democrática do Congo (RDC).
 O novo caso foi confirmado em Wangata, em Mbandaka, uma cidade da província do Equador, onde todos os casos registados até agora, no entanto, estavam apenas nas zonas rurais.
 Já foram contabilizados 44 casos de ébola, dos quais três foram confirmados em laboratório, 20 figuram como prováveis e 21 suspeitos, ainda de acordo com a OMS.
 Ontem, as autoridades da RDC receberam cerca de 5.400 doses de uma vacina contra o Ébola que começará a ser aplicada no fim-de-semana.
 </doc>
-<doc id='voa_5066564' lang='por' type='mono' source_url='https://www.voaportugues.com/a/angola-prepara-centro-de-quarentena-para-o-ebola/5066564.html' term='ebola'>
+<doc docid='voa_5066564' lang='por' type='mono' source_url='https://www.voaportugues.com/a/angola-prepara-centro-de-quarentena-para-o-ebola/5066564.html' term='ebola'>
 Angola prepara centro de quarentena para o ébola
 Uma área para implantação de um centro de quarentena para pessoas suspeitas de casos do ébola foi identificada na comuna de Mangando, localidade fronteiriça do município de Marimba em Malanje com a República Democrática do Congo.
 As medidas profiláticas orientadas pela Organização Mundial da Saúde (OMS) e pelos Centros de Controlo e Prevenção de Doenças foram reforçadas no posto fronteiriço de Tembo-A-Luma apesar de a província não registar qualquer contaminação.
@@ -1611,7 +1611,7 @@ A RDC e Angola em Malanje compartilham uma fronteira comum fluvial de 147 quiló
 Yolanda Mote chefe do departamento provincial de Saúde Pública do Gabinete Provincial da Saúde disse que estãocriadas as condições para triagem.
 "Foi feita uma avaliação em diversas localidades, foi avaliada a situação para colocar o espaço para quarentena, fomos ver como podemos fazer a triagem do pessoal que entra e o nível de preparação dos equipamentos", disse.
 </doc>
-<doc id='voa_3330428' lang='por' type='mono' source_url='https://www.voaportugues.com/a/angola-febre-amarela-oms-washington/3330428.html' term='ebola'>
+<doc docid='voa_3330428' lang='por' type='mono' source_url='https://www.voaportugues.com/a/angola-febre-amarela-oms-washington/3330428.html' term='ebola'>
 Angola: Investigadores americanos apelam a OMS um comité de emergência para febre amarela
 Dois professores do Centro de Medicina da Universidade de Georgetown, em Washington DC, apelaram à Organização Mundial de Saúde (OMS) que convoque um comité de emergência para coordenar uma resposta internacional para "o pior surto de febre amarela recente da história".
 Segundo o Angola News Network (ANN), baseado nos Estados Unidos, o surto causado por picada de mosquito é o pior desde 1986.
@@ -1623,7 +1623,7 @@ No documento de Lucey e Gostin eles escrevem que "especialistas internacionais a
 Os professores da Universidade de Georgetown também recomendaram à OMS que se reúnam com os fabricantes da vacina para uma expansão da investigação e desenvolvimento de vacinas não baseada em ovos e solicitaram um vector estratégico para a febre amarela, adicionalmente ao vírus zika.
 Os mesmos professores reconhecem que a OMS agiu mais rapidamente em relação à febre amarela do que às epidemias do ébola e do zika, mas acreditam que a OMS deveria ter "um comité de emergência para reunir regularmente para aconselhar a directora-geral a declarar ou não estado de emergência e a tomar os passos necessários para evitar uma crise, ou ambos".
 </doc>
-<doc id='voa_1253735' lang='por' type='mono' source_url='https://www.voaportugues.com/a/a-38-a-2005-03-24-4-1-92225299/1253735.html' term='ebola'>
+<doc docid='voa_1253735' lang='por' type='mono' source_url='https://www.voaportugues.com/a/a-38-a-2005-03-24-4-1-92225299/1253735.html' term='ebola'>
 Marburg similar ao Ebola
 A Organização Mundial de Saúde indicou que as amostras da doença que tinham sido enviadas para um laboratório em Dacar, no Senegal e para o Centro de Controle de Doenças, nos Estados Unidos, confirmaram que a doença era Marburg, uma doença similar ao Ebola.
 A OMS precisou que o número de casos mensais tem aumentado progressivamente desde o inicio do surto, mas que tal poderá ser resultado da intensificação do controle do vírus.
@@ -1635,28 +1635,28 @@ Chaib acrescenta que a doença provoca dores abdominais, febre alta, náusea e v
 A Organização Mundial de Saúde indica que o vírus Marburg regista-se com muita raridade e parece geograficamente restrito a um pequeno numero de países na parte sul do continente africano.
 Quando se registam casos, a doença pode assumir a proporção de epidemia, por se espalhar facilmente de pessoa para pessoa, através de secreções humanas como o muco, saliva e sangue.
 </doc>
-<doc id='voa_2455315' lang='por' type='mono' source_url='https://www.voaportugues.com/a/china-financia-combate-ao-ebola-com-mais-de-25-milhoes-de-euros/2455315.html' term='ebola'>
+<doc docid='voa_2455315' lang='por' type='mono' source_url='https://www.voaportugues.com/a/china-financia-combate-ao-ebola-com-mais-de-25-milhoes-de-euros/2455315.html' term='ebola'>
 China financia combate ao ébola com mais de 25 milhões de euros
 As autoridades chinesas anunciaram uma ajuda de quase 30 milhões de dólares para o combate à epidemia do ébola. O anúncio foi feito pelo presidente chinês, Xi Jinping, que está de visita a Nova Deli, Índia.
 O pacote, composto por um valor monetário, recursos alimentares e equipamentos, destina-se aos países da África Ocidental mais afectados pelo vírus do ébola, nomeadamente a Libéria, a Guiné-Conacri, Serra Leoa e Nigéria.
 </doc>
-<doc id='voa_2507320' lang='por' type='mono' source_url='https://www.voaportugues.com/a/china-coloca-em-quarentena-medicos-que-trabalharam-ebola-africa/2507320.html' term='ebola'>
+<doc docid='voa_2507320' lang='por' type='mono' source_url='https://www.voaportugues.com/a/china-coloca-em-quarentena-medicos-que-trabalharam-ebola-africa/2507320.html' term='ebola'>
 China coloca em quarentena médicos que trabalharam com Ébola em África
 O Governo da China colocará em quarentena de 21 dias o pessoal médico que voltar ao país após tratar de doentes com Ébola na África Ocidental.
 Segundo He Qinghua, vice-director do gabinete de Controlo e Prevenção de Doenças do Ministério da Saúde, os profissionais serão "postos em quarentena para serem supervisionados pelos centros de serviços da comunidade local", mas não adiantou se ficarão em unidades de isolamento ou se poderão permanecer em casa.
 </doc>
-<doc id='voa_3071432' lang='por' type='mono' source_url='https://www.voaportugues.com/a/liberia-jovem-morre-de-ebola/3071432.html' term='ebola'>
+<doc docid='voa_3071432' lang='por' type='mono' source_url='https://www.voaportugues.com/a/liberia-jovem-morre-de-ebola/3071432.html' term='ebola'>
 Libéria: Ébola volta a matar
 Um jovem de 15 anos morreu de Ebola na Libéria, na primeira fatalidade em meses no país que foi declarado livre da doença em setembro, escreve a Reuters, citando o médico Francis Kateh.
 Segundo a fonte, Nathan Gbotoe testou positivo ao vírus da Ébola na semana passada e morreu na segunda-feira num hospital de Paynesville, perto da capital, onde seu pai e seu irmão também recebem tratamento de Ébola.
 </doc>
-<doc id='voa_3147157' lang='por' type='mono' source_url='https://www.voaportugues.com/a/serra-leoa-eboa-detectado-num-corpo-apos-declaraco-do-fim-da-epidemia/3147157.html' term='ebola'>
+<doc docid='voa_3147157' lang='por' type='mono' source_url='https://www.voaportugues.com/a/serra-leoa-eboa-detectado-num-corpo-apos-declaraco-do-fim-da-epidemia/3147157.html' term='ebola'>
 Serra Leoa: Ébola detectado num corpo após declaração do fim da epidemia
 Funcionários de saúde detectaram o vírus da Ébola num cadáver, na Serra Leoa, um dia após a Organização Mundial da Saúde (IMS) ter declarado o fim da epidemia na África ocidental.
 Em comunicado, a OMS diz que o caso do vírus, encontrado no corpo de uma mulher que morreu no início deste mês, mostra que o país deverá continuar vigilante.
 Ao anunciar o fim da epidemia, ontem, a OMS alertou que havia o risco de surgirem pequenos surtos da doença, daí a importância de manter sistemas de controlo para evitar o alastramento.
 </doc>
-<doc id='voa_2439966' lang='por' type='mono' source_url='https://www.voaportugues.com/a/governo-de-cabo-verde-desmente-noticia-de-ebola-no-pais/2439966.html' term='ebola'>
+<doc docid='voa_2439966' lang='por' type='mono' source_url='https://www.voaportugues.com/a/governo-de-cabo-verde-desmente-noticia-de-ebola-no-pais/2439966.html' term='ebola'>
 Governo de Cabo Verde desmente notícia sobre ébola no país
 Notícias postas a circular ontem pela imprensa portuguesa e que teve repercussão junto de países emissores de turistas para Cabo Verde bem como nas redes sociais indicavam a existência de 27 casos de doentes com ébola no país e, alguns meios de comunicação se referiam a 27 pessoas em quarentena.
 As reacções de muita preocupação e temor não se fizeram esperar, nomeadamente na Europa, principal origem de mais de meio milhão de turistas que visitam anualmente Cabo Verde.
@@ -1665,7 +1665,7 @@ Em declarações à VOA esta sexta-feira, 5, a ministra-Adjunta e da Saúde Cris
 A ministra assegura também que as autoridades sanitárias mantêm um controlo apertado em todas as fronteiras do país e que continuam a fazer de tudo para evitar a chegada da doença ao arquipélago.
 Cristina Fontes Lima adverte que, além de um intenso plano de comunicação e de encontros com o corpo diplomático acreditado na Praia, o Governo exige responsabilidades de quem divulgou a notícia, "que deve repor a situação com a mesma extensão, profundidade e intensidade".
 </doc>
-<doc id='voa_2459738' lang='por' type='mono' source_url='https://www.voaportugues.com/a/nao-ha-ebola-em-cabinda-governadora/2459738.html' term='ebola'>
+<doc docid='voa_2459738' lang='por' type='mono' source_url='https://www.voaportugues.com/a/nao-ha-ebola-em-cabinda-governadora/2459738.html' term='ebola'>
 Não há Ébola em Cabinda, afirma governadora
 A governadora da província desmentiu nesta cidade o registo de casos de epidemia da Ébola em Cabinda.
 Aldina Matilde da Lomba desdramatiza as notícias tornadas públicas por algumas redes sociais de que haviam sido diagnosticados três casos de cidadãos com o vírus.
@@ -1673,13 +1673,13 @@ A governadora anunciou por outro lado que as autoridades locais tomaram medidas 
 Segundo a governadora, foram criadas medidas adicionais no aeroporto e nas zonas fronteiriças para a realização de exames em cidadãos que entram para a província de Cabinda.
 Para o combate à epidemia, vários encontros foram realizados entre os responsáveis da saúde dos dois países e foram discutidos planos e medidas conjuntas para o controlo dos cidadãos das três regiões a nível fronteiriço .
 </doc>
-<doc id='voa_2656464' lang='por' type='mono' source_url='https://www.voaportugues.com/a/banco-mundial-alerta-para-excessiva-cobertura-mediatica-orfaos-ebola/2656464.html' term='ebola'>
+<doc docid='voa_2656464' lang='por' type='mono' source_url='https://www.voaportugues.com/a/banco-mundial-alerta-para-excessiva-cobertura-mediatica-orfaos-ebola/2656464.html' term='ebola'>
 Banco Mundial alerta para excessiva cobertura mediática sobre órfãos do Ébola
 O Banco Mundial alertou hoje, 24, para o perigo de concentração da cobertura mediática sobre os órfãos do ébola em detrimento de outras crianças desprotegidas que são a maioria no continente africano.
 Num artigo publicado na página do Banco Mundial, o economista sénior do Banco Mundial para África David Evans e a pesquisadora Anna Popova chamam a atenção para o facto de grande parte da cobertura mediática sobre as crianças ter sido focada em órfãos.
 "Apesar da atenção necessária às crianças órfãs, não vamos esquecer os outros 8,8 milhões de crianças com menos de 15 anos na Guiné-Conacri, Libéria e Serra Leoa, onde se registaram casos graves da doença, desde que o vírus foi identificado na África central em 1976. Aqueles especialistas do Banco Mundial lembraram, no entanto, que 16.600 crianças menores de 18 anos perderam um progenitor ou um protector principal.
 </doc>
-<doc id='voa_1972262' lang='por' type='mono' source_url='https://www.voaportugues.com/a/mocambique-prepara-se-contra-o-ebola/1972262.html' term='ebola'>
+<doc docid='voa_1972262' lang='por' type='mono' source_url='https://www.voaportugues.com/a/mocambique-prepara-se-contra-o-ebola/1972262.html' term='ebola'>
 Moçambique prepara-se contra o ébola
 A epidemia de ébola na África Ocidental já provocou a morte de cerca de 900 pessoas na Guiné-Conacri, Serra Leoa, Libéria e Nigéria.
 Esta é a mais mortal epidemia de sempre da doença que, até agora não tem cura. Entretanto, uma boa notícia está a animar os especialistas quanto a uma eventual cura para a doença, o uso de um medicamento nunca testado em humanos
@@ -1694,17 +1694,17 @@ Entretanto, a Voz da América tem vindo a acompanhar as medidas que os países a
 Benigna Matsine, do Ministério da Saúde de Moçambique, explica as medidas tomadas pelas autoridades.
 "Tudo começa no aeroporto com uma entrevista a todos que vêm ou passaram pelos países afectados e de acordo as informações prestadas são acompahados pelas autoridades sanitárias por pelo menos 21 duas", explicou aquela responsável do Ministério da Saúde.
 </doc>
-<doc id='voa_2836616' lang='por' type='mono' source_url='https://www.voaportugues.com/a/capital-serra-leoa-volta-a-registar-casos-ebola/2836616.html' term='ebola'>
+<doc docid='voa_2836616' lang='por' type='mono' source_url='https://www.voaportugues.com/a/capital-serra-leoa-volta-a-registar-casos-ebola/2836616.html' term='ebola'>
 Capital da Serra Leoa volta a registar casos de ébola
 As autoridades da Serra Leoa anunciaram o registo de três novos casos de ébola na capital do país, Freetown. O Centro Nacional de Resposta ao ébola (NERC, na sigla em inglês) revelou que os casos aconteceram no bairro de lata de Magazine Wharf no leste de Freetown, três semanas depois das últimas infecções conhecidas, segundo a AFP.
 Seis pessoas estão sob observação desde que o primeiro dos novos casos deu positivo, a 17 de Junho, temendo as autoridades que a situação possa evoluir para um mini-surto.Dos três países da África Ocidental mais afectados pela epidemia do ébola, apenas a Libéria foi declarada livre do vírus a 9 de Maio. Na Serra Leoa e Guiné-Conacri o número semanal de infecções tem rondado as 25.
 </doc>
-<doc id='voa_4720052' lang='por' type='mono' source_url='https://www.voaportugues.com/a/africa-ocidental-eleicoes-congo-democratico/4720052.html' term='ebola'>
+<doc docid='voa_4720052' lang='por' type='mono' source_url='https://www.voaportugues.com/a/africa-ocidental-eleicoes-congo-democratico/4720052.html' term='ebola'>
 2Rs, a África Ocidental - Eleições no Congo Democrático
 Este domingo, 30 de Dezembro, as há muito adiadas eleições na Republica Democrática do Congo vão ter lugar. Joseph Kabila diz que não há qualquer motivo para que não se realizem. São presidenciais, legislativas e municipais. Mas são, sem dúvida, as presidenciais que mais atenção atraem, porque significa o fim da era Joseph Kabila. Pelo menos por agora. Mas a decisão da Comissão Nacional Eleitoral, CENI, de adiar a votação em três localidades, pro-oposicao, invocando insegurança e o surto Ébola gerou protestos violentos e uma resposta violenta das forças de segurança. Na rubrica “2Rs, a África Ocidental” vamos voltar ao Congo Democrático, ao Congo-Kinshasa numa conversa que a Ana Guedes manteve com os politólogos Rui Neumann e Raul Braga Pires.
 Para escutar carregue no link abaixo.
 </doc>
-<doc id='voa_2466443' lang='por' type='mono' source_url='https://www.voaportugues.com/a/simoes-pereira-apresenta-plano-de-estabilizacao-da-guine-bissau-na-onu/2466443.html' term='ebola'>
+<doc docid='voa_2466443' lang='por' type='mono' source_url='https://www.voaportugues.com/a/simoes-pereira-apresenta-plano-de-estabilizacao-da-guine-bissau-na-onu/2466443.html' term='ebola'>
 Simões Pereira apresenta plano de estabilização da Guiné-Bissau na ONU
 A assistência internacional é chamada a exercer um papel estabilizador na Guiné-Bissau, um Estado institucionalmente fraco, disse hoje, 29, o primeiro-ministro Domingos Simões Pereira ao discursar na Assembleia Geral das Nações Unidas. O vice-presidente de Angola usou também da palavra para defender a reforma do Conselho de Segurança das Nações Unidas, enquanto o primeiro-ministro de São Tomé e Príncipe destacou a importância da segurança no Golfo da Guiné como parte importante da luta contra a pirataria.
 Gabriel Costa enfatizou na sua intervenção a defesa de um clima de paz no mundo em África, porque, segundo disse, é a única forma de continuar a garantir a estabilidade para o crescimento de África.
@@ -1718,13 +1718,13 @@ Simões Pereira apresentou à comunidade internacional os três pilares para a e
 O chefe de Goveno da Guiné-Bissau anunciou ainda a realização de uma Conferência Interanacional de Doadores ainda sem data marcada.
 A Assembleia Geral das Nações de 2014 termina na próxima terça-feira, dia em que Cabo Verde será o último país de língua portuguesa a intervir.
 </doc>
-<doc id='voa_2503740' lang='por' type='mono' source_url='https://www.voaportugues.com/a/angola-regista-primeiro-caso-suspeito-de-ebola/2503740.html' term='ebola'>
+<doc docid='voa_2503740' lang='por' type='mono' source_url='https://www.voaportugues.com/a/angola-regista-primeiro-caso-suspeito-de-ebola/2503740.html' term='ebola'>
 Angola regista primeiro caso suspeito de Ébola
 Segundo, o programa Ecos e Factos da TPA, uma freira de nacionalidade angolana terá apresentado sintomas do vírus e está internada no Hospital Militar de Luanda, sob observação.
 A freira vinha de Paris, passou por Brazzaville, Kinshasa e Cabinda, antes de chegar a Luanda.
 Suspeita-se que a freira poderá ter contraído o vírus numa travessia de barco em Brazzaville.
 </doc>
-<doc id='voa_2561466' lang='por' type='mono' source_url='https://www.voaportugues.com/a/guine-bissau-garante-nao-ter-nenhum-caso-de-ebola/2561466.html' term='ebola'>
+<doc docid='voa_2561466' lang='por' type='mono' source_url='https://www.voaportugues.com/a/guine-bissau-garante-nao-ter-nenhum-caso-de-ebola/2561466.html' term='ebola'>
 Guiné-Bissau garante não ter nenhum caso de ébola
 O cidadão da Guiné-Conacri que na passada quarta-feira entrou na Guiné-Bissau com febre de 39 graus terá alta ainda hoje, descartando-se assim qualquer caso de ébola no país.
 A informação foi avançada à Voz da América pelo Director Geral de Prevenção e Promoção da Saúde Nicolau d´Almeida, que garantiu estarem a ser tomadas todas as medidas para evitar a entrada da doença na Guiné-Bissau.
@@ -1734,7 +1734,7 @@ Nicolau d´Almeida acredita que as autoridades sanitárias, com ajuda da Guarda 
 Além de controlar a temperatura, os técnicos de saúde retiram amostras de sangue que são enviadas para Dakar por avião ou por via terrestre, neste caso em 12 horas.
 Almeida garante haver dois centros preparados para manter pessoas em quarentena perto da fronteira e que o Aeroporto Internacional Osvalo Vieira, em Bissau, também está a fazer um controlo rigoroso das entradas.
 </doc>
-<doc id='voa_2432002' lang='por' type='mono' source_url='https://www.voaportugues.com/a/governo-sao-tomense-fecha-fronteiras-a-pessoas-de-paises-afectados-pelo-ebola/2432002.html' term='ebola'>
+<doc docid='voa_2432002' lang='por' type='mono' source_url='https://www.voaportugues.com/a/governo-sao-tomense-fecha-fronteiras-a-pessoas-de-paises-afectados-pelo-ebola/2432002.html' term='ebola'>
 Governo são-tomense fecha fronteiras a pessoas de países afectados pelo ébola
 O Governo de São Tomé e Príncipe proibiu a entrada e saída de pessoas e bens, incluindo cidadãos estrangeiros de países afectados por casos de Ébola.
 Segundo o comunicado do Governo a decisão foi tomada pelo Conselho de Ministros ontem, 28, e é uma medida "preventiva face à propagação do vírus do ébola em vários países do continente".
@@ -1742,7 +1742,7 @@ O Executivo de Gabriel Costa aprovou também um plano de contingência contra o 
 Uma das medidas define que as embaixadas são-tomenses nesses países ou que fazem ligação com esses países devem “proceder de conformidade, quando solicitados vistos para São Tomé e Príncipe".
 O plano vai ainda aumentar as restrições nos aeroportos e limitar algumas importações do continente, como roupas e carnes e promover uma intensa campanha de informação através da imprensa.
 </doc>
-<doc id='voa_5034186' lang='por' type='mono' source_url='https://www.voaportugues.com/a/autoridades-de-malanje-em-alerta-na-fronteira-com-a-rdc-devdo-ao-%C3%A9bola/5034186.html' term='ebola'>
+<doc docid='voa_5034186' lang='por' type='mono' source_url='https://www.voaportugues.com/a/autoridades-de-malanje-em-alerta-na-fronteira-com-a-rdc-devdo-ao-%C3%A9bola/5034186.html' term='ebola'>
 Autoridades de Malanje em alerta na fronteira com a RDC devdo ao ébola
 O vice-governador para o Sector Político, Social e Económico da província angolana de Malanje, Domingos Manuel Eduardo, encabeça uma delegação que se encontra nesta quinta-feira, 8, no município de Massango, a avaliar formas de prevenir que a epidemia de ébola na República Democrática do Congo (RDC) chegue à província.
 O director do Gabinete Provincial de Saúde, Avantino Sebastião, admitiu ter informações que confirmam o envio para aquela cidade, que dista 325 quilómetros da cidade de Malanje, de "kits de biossegurança e outros equipamentos necessários" para combater eventuais casos da doença.
@@ -1751,7 +1751,7 @@ Naqueles dois municípios, centenas de crianças atravessam o rio e estudam no p
 A Organização Mundial da Saúde (OMS) que declarou o estado de emergência internacional, confirma o registo diário de 12 novos de casos de ébola na RDC e a morte de mais de 1.500 mortes desde o início da epidemia.
 A OMS já alertou Angola para tomar medidas no sentido de evitar a entrada da doença no país.
 </doc>
-<doc id='voa_2439751' lang='por' type='mono' source_url='https://www.voaportugues.com/a/angola-cria-comissao-nacional-para-fazer-face-ao-ebola/2439751.html' term='ebola'>
+<doc docid='voa_2439751' lang='por' type='mono' source_url='https://www.voaportugues.com/a/angola-cria-comissao-nacional-para-fazer-face-ao-ebola/2439751.html' term='ebola'>
 Angola cria comissão nacional para fazer face ao Ébola
 O governo angolano criou uma comissão nacional de contingência para fazer face á ameaça da Ébola, o que reflecte a crescente preocupação sobre a possibilidade da epidemia se alastrar da Republica Democrática do Congo para território angolano.
 E apesar de medidas de prevenção a serem tomadas em várias províncias fronteiriças entre o público cresce a opinião que a fronteira devia ser encerrada.
@@ -1760,7 +1760,7 @@ A directora provincial de saúde Rosa Bessa garantiu que nos principais hospitai
 Bessa disse que em Angola não se registou ainda nenhum caso.
 Ouça a reportagem com declarações de Rosa Bessa e outros membros do governo, incluindo o ministro da saúde José Van Dunem.
 </doc>
-<doc id='voa_4583631' lang='por' type='mono' source_url='https://www.voaportugues.com/a/congo-democr%C3%A1tico-ataque-atribu%C3%ADdo-aos-rebeldes-da-adf-deixa-16-mortos-em-beni/4583631.html' term='ebola'>
+<doc docid='voa_4583631' lang='por' type='mono' source_url='https://www.voaportugues.com/a/congo-democr%C3%A1tico-ataque-atribu%C3%ADdo-aos-rebeldes-da-adf-deixa-16-mortos-em-beni/4583631.html' term='ebola'>
 Congo Democrático: ataque atribuído aos rebeldes da ADF deixa 16 mortos em Beni
 Pelo menos 16 pessoas morreram no Sábado dia 22, na cidade de Beni, leste da República Democrática do Congo, num ataque atribuído ao grupo armado Forças Democráticas Aliadas (ADF) - informaram à agência de notícias AFP várias testemunhas neste Domingo.
 Um médico do hospital geral disse à AFP que viu "16 mortos, entre eles 12 civis e quatro militares, ou rebeldes", acrescentando que "havia oito feridos, incluindo cinco civis".
@@ -1768,44 +1768,44 @@ Desde o início de Agosto, trabalhadores humanitários estrangeiros encontram-se
 "O ataque surpresa aconteceu nas ruas da cidade de Beni", afirmou o médico.
 Segundo várias testemunhas, o ataque começou ao anoitecer de sábado, quando se começou a ouvir disparos de armas pesadas e leves. Os tiros seguiram até depois da meia-noite em bairros perto do centro dessa cidade comercial com milhares de habitantes.
 </doc>
-<doc id='voa_2485657' lang='por' type='mono' source_url='https://www.voaportugues.com/a/franca-inicia-triagem-de-passageiros-provenientes-de-paises-afectados-pelo-ebola/2485657.html' term='ebola'>
+<doc docid='voa_2485657' lang='por' type='mono' source_url='https://www.voaportugues.com/a/franca-inicia-triagem-de-passageiros-provenientes-de-paises-afectados-pelo-ebola/2485657.html' term='ebola'>
 França inicia triagem de passageiros provenientes de países afectados pelo Ébola
 As autoridades francesas vão iniciar a triagem de passageiros provenientes de países afectados pela epidemia do Ébola, que viajem por via aérea. De acordo com o gabinete da Presidência da República de França, Paris vai adoptar novas medidas de prevenção contra o ébola, que já foram comunicadas por François Hollande a outros países da União Europeia e aos EUA.
 Entre as novas disposições destaca-se a triagem de passageiros de voos provenientes dos países afectados pelo vírus, através da monitorização de sintomas da doença, e o estabelecimento de novos centros de apoio na República da Guiné, um dos polos da epidemia.
 Mais sobre o Ébola
 </doc>
-<doc id='voa_4384891' lang='por' type='mono' source_url='https://www.voaportugues.com/a/rdc-regista-duas-mortes-e-mais-10-casos-suspeitos-de-%C3%A9bola/4384891.html' term='ebola'>
+<doc docid='voa_4384891' lang='por' type='mono' source_url='https://www.voaportugues.com/a/rdc-regista-duas-mortes-e-mais-10-casos-suspeitos-de-%C3%A9bola/4384891.html' term='ebola'>
 RDC regista duas mortes e mais 10 casos suspeitos de ébola
 O Governo da República Democrática do Congo confirmou nesta terça-feira, 8, o registo de dois casos de ébola e de pelo menos mais 10 casos suspeitos na cidade de Bikoro, no noroeste do país.
 O director do Instituto Nacional de Pesquisa Biológica, Jean Jack Muyembe, disse que o Governo dará mais detalhes depois.
 Esta é a nona vez que se registam casos de ébola na República Democrática do Congo, cujo rio Ébola, deu nome ao vírus depois de ter sido descoberto na década de 1970.
 A última incidência da doença no país ocorre menos de um ano após o surto em que oito pessoas foram infectadas e das quais quatro morreram.
 </doc>
-<doc id='voa_2692185' lang='por' type='mono' source_url='https://www.voaportugues.com/a/serra-leoa-sem-novos-casos-ebola-ultima-semana/2692185.html' term='ebola'>
+<doc docid='voa_2692185' lang='por' type='mono' source_url='https://www.voaportugues.com/a/serra-leoa-sem-novos-casos-ebola-ultima-semana/2692185.html' term='ebola'>
 Serra Leoa sem novos casos de ébola na última semana
 A Serra Leoa não registou no fim-de-semana nenhuma infecção do vírus do ébola, o que acontece pela primeira vez desde o surto da doença no país em Maio de 2014. Entretanto, o Presidente Ernest Bai Koroma anunciou no sábado o isolamento nacional de três dias a partir da próxima Sexta-feira, 27 de Março, para evitar qualquer tipo de infecção
 As novas medidas compreendem a interdição de viagem para todos os cidadãos durante o isolamento de três dias, excepto os trabalhadores essenciais.
 </doc>
-<doc id='voa_2490702' lang='por' type='mono' source_url='https://www.voaportugues.com/a/mais-de-70-pessoas-de-paises-com-ebola-estao-em-parte-incerta-em-mocambique/2490702.html' term='ebola'>
+<doc docid='voa_2490702' lang='por' type='mono' source_url='https://www.voaportugues.com/a/mais-de-70-pessoas-de-paises-com-ebola-estao-em-parte-incerta-em-mocambique/2490702.html' term='ebola'>
 Mais de 70 pessoas de países com Ébola estão em parte incerta em Moçambique
 Setenta e sete pessoas provenientes de países afectados pela ébola entraram em Moçambique com contactos falsos e não se sabe onde estão. Contudo, o Ministério da Saúde assegura que ainda não foi detectado nenhum caso da doença.
 No princípio do mês passado o Ministério da Saúde anunciou que as pessoas com suspeita de ébola seriam impedidas de entrara no país.
 Entretanto, apesar das precauções, o país registou a entrada de 238 pessoas provenientes de países afectados pelo ébola, das quais 77 não estão a ser monitoradas porque forneceram dados falsos. O director nacional de Saúde Pública Francisco Mbofana afirmou que “é precioso criar capacidades para se fazer a monitoria dos contactos, porque é ai onde o problema surge. Porque se nós não conseguirmos seguir todos os indivíduos que estiverem em contacto com um caso suspeito ou confirmado, significa que o risco da propagação da doença é muito alto”.
 </doc>
-<doc id='voa_2487518' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-um-poema-para-os-vivos/2487518.html' term='ebola'>
+<doc docid='voa_2487518' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-um-poema-para-os-vivos/2487518.html' term='ebola'>
 Ebola: Um poema para os vivos
 A United Methodist Communications juntou-se aos esforços para a prevenção do ébola e financiou parcialmente um filme de animação, produzido e realizado pela Chocolate Moose Media e a iHeed e a ser usado na África Ocidental como forma de desmistificar alguns dos mitos em torno da doença que circulam pelos países atingidos pela epidemia.
 O filme "Ebola: A Poem for the Living" (em português Ébola: Um Poema para os Vivos) foi realizado por Firdaus Kharas e co-escrito por ele e Brent Quinn, tendo Gaurav Malhotra como chefe da equipa de animação e Andrew Huggett na música e conta a história de um menino que contraiu o vírus.
 É uma co-produção internacional envolvendo 10 países: Canadá, Guiné-Conacri, Índia, Costa do Marfim, Libéria, Nigéria, África do Sul, Serra Leoa, Suíça e Estados Unidos. Destina-se a ser distribuída nos países da África Ocidental em versões em inglês e francês e outras línguas da região com narração a cargo de vozes dos próprios países.
 O vídeo educativo está a partir de agora também disponível em português com a dobragem da Voz da América.
 </doc>
-<doc id='voa_2418205' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-provoca-84-mortes-em-tres-dias/2418205.html' term='ebola'>
+<doc docid='voa_2418205' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-provoca-84-mortes-em-tres-dias/2418205.html' term='ebola'>
 Ébola provoca 84 mortes em três dias
 O vírus ébola provocou a morte de 84 pessoas em três dias, entre 14 e 16 de Agosto, anunciou hoje, 19, a Organização Mundial da Saúde (OMS). Durante os três dias, 113 novos casos de ébola foram confirmados por exames de laboratório.
 Desde o início da epidemia em Março, a OMS registou 2.240 casos de Ébola, com 1.229 mortes. A Libéria foi o país com o maior número de mortos entre 14 e 16 de Agosto, com 53 vítimas fatais e outros 48 casos.
 Na Guiné-Conacri, onde teve início a epidemia, 14 pessoas morreram e mais 24 casos foram registados.Na Serra Leoa a doença provocou 17 mortes nos três dias, além de 38 novos casos. A Nigéria registou três novos casos de Ébola, mas nenhuma vítima fatal neste período.
 </doc>
-<doc id='voa_1253719' lang='por' type='mono' source_url='https://www.voaportugues.com/a/a-38-2005-05-18-voa6-92225189/1253719.html' term='ebola'>
+<doc docid='voa_1253719' lang='por' type='mono' source_url='https://www.voaportugues.com/a/a-38-2005-05-18-voa6-92225189/1253719.html' term='ebola'>
 Novas infecções de Marburg
 A doutora Fatumata Diallo disse que o numero de novas infecções de Marburg na província do Uíge reduziu-se gradualmente de dezenas por dia para apenas três novos casos reportados no dia 17 de Maio.
 Mas mesmo assim, a representante em Angola da Organização Mundial de Saúde afirmou ser impossível estimar quando se poderá declarar a erupção totalmente sob controlo. A doutora Diallo disse que isso apenas será possível quando não houver novas infecções durante pelo menos três semanas entre pessoas conhecidas por terem tido contacto com um indivíduo infectado.
@@ -1815,11 +1815,11 @@ Hoje, a OMS informou que a Ebola voltou a Republica do Congo matando nove pessoa
 Angola estava mal preparada para a erupção da febre de Marburg, com inadequados sistemas de isolamento e de barreiras. Mas a doutora Diallo afirmou que o governo e os serviços de saúde tem cooperado bem com equipas de emergência enviadas pela OMS e que os trabalhadores sanitários angolanos ganharam novos conhecimentos e capacidades ao trabalharem com os seus colegas internacionais.
 Alguns trabalhadores sul-africanos que regressaram ao seu país depois de terem trabalhado no Uíge disseram aos orgãos de informação locais como é que algumas vezes as praticas e crenças das populações prejudicaram a capacidade de convencer os angolanos a observarem as barreiras para evitar o alastramento da doença.
 </doc>
-<doc id='voa_1944474' lang='por' type='mono' source_url='https://www.voaportugues.com/a/m%C3%A9dicos-sem-fronteiras-diz-que-%C3%A9bola-est%C3%A1-sem-controlo/1944474.html' term='ebola'>
+<doc docid='voa_1944474' lang='por' type='mono' source_url='https://www.voaportugues.com/a/m%C3%A9dicos-sem-fronteiras-diz-que-%C3%A9bola-est%C3%A1-sem-controlo/1944474.html' term='ebola'>
 Médicos Sem Fronteiras diz que ébola está sem controlo
 Guiné Conakry, Libéria e a Serra Leoa têm "60 focos activos" de febre hemorrágica devido em parte ao vírus Ébola, que está "fora de controlo" e ameaça propagar-se a outras áreas, anunciou a organização não-governamental Médicos Sem Fronteiras (MSF).Esta epidemia, segundo MSF "é de uma extensão sem precedentes pela sua distribuição geográfica, pelo número de casos e de vítimas", anunciou a MSF num comunicado divulgado em Dakar.
 </doc>
-<doc id='voa_2431293' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-pode-ter-impacto-no-turismo-mas-operadores-nao-vem-sinais-de-reducao-do-fluxo/2431293.html' term='ebola'>
+<doc docid='voa_2431293' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-pode-ter-impacto-no-turismo-mas-operadores-nao-vem-sinais-de-reducao-do-fluxo/2431293.html' term='ebola'>
 Operadores não vêm sinais de redução do fluxo turístico em Cabo Verde devido ao ébola
 O Governo de Cabo Verde, devido ao vírus do ébola que tem afectado alguns países africanos, decidiu suspender a entrada no país de pessoas provenientes da Guiné-Conacri, Libéria, Serra Leoa e Nigéria, países que se debatem com surtos daquela doença.
 Para além da questão do ponto de vista da saúde pública, o ébola começa a provocar problemas no domínio económico, porquanto alguns países africanos com vocação turística já começam a sentir as consequências, tendo em conta a suspensão de voos de algumas campainhas aéreas, situação que leva à redução do fluxo turístico.
@@ -1828,20 +1828,20 @@ Para o empresário hoteleiro Patone Lobo, o perigo é real, mas de momento não 
 Já o presidente da Câmara do Turismo Gualberto do Rosário diz que apesar do arquipélago estar inserido na África Ocidental, tem a particularidade da sua fronteira ser marítima, situação que lhe dá alguma protecção no que se refere a contágios, desde que forem tomadas as devidas medidas preventivas.
 Segundo Gualberto do Rosário, os riscos de Cabo Verde "são idênticos aos dos países emissores dos turistas, cujas autoridades têm adoptado medidas e planos de prevenção contra o vírus ébola".
 </doc>
-<doc id='voa_1900154' lang='por' type='mono' source_url='https://www.voaportugues.com/a/msf-diz-que-epidemia-de-%C3%A9bola-est%C3%A1-sem-controlo/1900154.html' term='ebola'>
+<doc docid='voa_1900154' lang='por' type='mono' source_url='https://www.voaportugues.com/a/msf-diz-que-epidemia-de-%C3%A9bola-est%C3%A1-sem-controlo/1900154.html' term='ebola'>
 MSF diz que epidemia de ébola está sem controlo
 O vice-director de operações da ONG Médicos Sem Fronteiras (MSF) afirmou que um mês após a confirmação da mais recente epidemia de ébola “o vírus não está controlado e uma variação inédita pode ter surgido em África”.
 Mariano Lugli, que participou em quase todas as campanhas de combate aos surtos recentes de ébola em África e coordena a acção dos Médicos Sem Fronteiras na Guiné Conacri, comparou o actual aos anteriores surtos e concluiu tratar-se de um caso “muito particular”.
 Neste surto, afirmou, verificam-se, pelo menos, três grandes particularidades. A primeira é a especificidade geográfica. A segunda particularidade, referiu, é a questão fronteiriça: “A epidemia começou nas redondezas de Guéckédou, perto da fronteira com a Serra Leoa e com a Libéria, onde há confirmação de mortes pelo mais recente surto de ébola”.
 A terceira particularidade, afirmou, é possibilidade de uma variação inédita do vírus: “no início, dissemos que se tratava do subgrupo ‘Zaire’, mas há a possibilidade de existir um novo. Não é nada oficial ainda, advertiu, mas é possível que no fim desta epidemia revelemos a existência de um novo subgrupo”, conclui o vice-presidente da organização Médicos Sem Fronteiras.
 </doc>
-<doc id='voa_2532201' lang='por' type='mono' source_url='https://www.voaportugues.com/a/secretario-de-defesa-dos-eua-renuncia/2532201.html' term='ebola'>
+<doc docid='voa_2532201' lang='por' type='mono' source_url='https://www.voaportugues.com/a/secretario-de-defesa-dos-eua-renuncia/2532201.html' term='ebola'>
 Secretário de Defesa dos EUA renuncia
 O presidente Barack Obama vai anunciar no final da manhã de hoje a saída do secretário da Defesa Chuck Hagel. Segundo o jornal americano New York Times, Hagel apresentou a sua renúncia ao presidente no momento em que enfrenta a pressão de crises globais, como a epidemia de ébola e a ameaça jihadista no Oriente Médio.
 Fontes citadas pela imprensa americana dizem que Obama pediu a Hagel que renunciasse, o que é visto pelas mesmas fontes como um reconhecimento de que a luta contra os extremistas do Estado Islâmico requer outra estratégia.
 Os dois chegaram à conclusão de que a renúncia era a melhor opção após conversas. Hagel vai permanecer como chefe do Pentágono até a nomeação de um sucessor.
 </doc>
-<doc id='voa_2434882' lang='por' type='mono' source_url='https://www.voaportugues.com/a/cabo-verde-interdita-entrada-de-estrangeiros-nao-residentes-provenientes-do-senegal/2434882.html' term='ebola'>
+<doc docid='voa_2434882' lang='por' type='mono' source_url='https://www.voaportugues.com/a/cabo-verde-interdita-entrada-de-estrangeiros-nao-residentes-provenientes-do-senegal/2434882.html' term='ebola'>
 Cabo Verde interdita entrada de estrangeiros não-residentes provenientes do Senegal
 O Governo de Cabo Verde proibiu hoje, 1, a entrada de estrangeiros não residentes no país que tenham estado no Senegal nos últimos 30 dias, como forma de evitar a entrada do vírus do ébola no país, depois de um primeiro caso da doença registado naquele país.
 O anúncio foi feito aos jornalistas esta manhã na cidade da Praia pela ministra-adjunta e da Saúde Cristina Fontes Lima.
@@ -1849,14 +1849,14 @@ As restrições anteriormente aplicadas contra cidadãos provenientes da Libéri
 Quanto à manutenção dos voos quase diários entre Cabo Verde e o Senegal, a ministra diz que cabe à companhia nacional, a TACV, tomar as decisões adequadas, mas o Director Nacional da Saúde António Pedro Delgado afirma não haver razões para a suspensão de voos.
 O Governo de Cabo Verde reitera no entanto o pedido para os seus cidadãos não viajarem para os países afectados pelo ébola.
 </doc>
-<doc id='voa_2475160' lang='por' type='mono' source_url='https://www.voaportugues.com/a/espanha-auxiliar-de-enfermagem-infectada-com-ebola-e-marido-em-isolamento/2475160.html' term='ebola'>
+<doc docid='voa_2475160' lang='por' type='mono' source_url='https://www.voaportugues.com/a/espanha-auxiliar-de-enfermagem-infectada-com-ebola-e-marido-em-isolamento/2475160.html' term='ebola'>
 Espanha: Auxiliar de enfermagem infectada com ébola e marido em isolamento
 A auxiliar da enfermaria espanhola infectada com o Ébola em Madrid está desde a madrugada de hoje isolada no hospital Carlos III, onde contraiu o vírus.Também o marido foi isolado e está sob vigilância, por precaução. Fontes médicas confirmaram que a enfermeira está com febre, mas "estável", na ala do hospital onde atendeu as duas vítimas mortais espanholas de ébola, dois missionários transferidos de África.
 A auxiliar foi transferida do Hospital de Alcorcon - onde duas análises realizadas na segunda-feira confirmaram o contágio - para o Carlos III, um centro especializado em doenças infeciosas. Na transferência entre os hospitais a mulher foi transportada numa ambulância escoltada por vários carros da Polícia Nacional e da Guarda Civil.
 Espanha tinha já registado dois casos mortais e cerca de duas dezenas de casos suspeitos cujas análises deram resultados negativos.
 Mais sobre o Ébola
 </doc>
-<doc id='voa_2817436' lang='por' type='mono' source_url='https://www.voaportugues.com/a/trabalhadores-funerarios-com-dificuldades-para-encontrar-emprego-depos-da-ebola/2817436.html' term='ebola'>
+<doc docid='voa_2817436' lang='por' type='mono' source_url='https://www.voaportugues.com/a/trabalhadores-funerarios-com-dificuldades-para-encontrar-emprego-depos-da-ebola/2817436.html' term='ebola'>
 Trabalhadores funerários com dificuldades para encontrar emprego depois da Ébola
 Em Maio, a Organização Mundial da Saúde declarou a Libéria livre da Ébola, mas os trabalhadores funerários enfrentam outro problema: O estigma social bloqueia oportunidades de emprego.
 “Não consigo encontrar trabalho, não posso voltar a cultivar. As pessoas tomaram a minha machamba, as pessoas têm medo, acham que poderei transmitir Ébola,” desabafa Emannuel Johnson, que largou a sua plantação de batata para enterrar as vítimas da Ébola, uma tarefa muito arriscada.
@@ -1868,7 +1868,7 @@ Não ter emprego é muito complicado na Libéria, país que antes da eclosão da
 Durante a crise, a Federação Internacional da Cruz Vermelha e do Crescente vermelho contratou cerca de 140 trabalhadores funerários. Ademola Alao, coordenador de programas, confirma que embora nenhum dos seus colaboradores tenha contraído Ébola, prevalece o estigma sobre eles.
 A Federação contratou alguns para trabalharem como motoristas ou agentes comunitários.
 </doc>
-<doc id='voa_2436071' lang='por' type='mono' source_url='https://www.voaportugues.com/a/criancas-de-malange-que-estudam-na-rdc-vao-ser-monitorizadas-devio-a-ebola/2436071.html' term='ebola'>
+<doc docid='voa_2436071' lang='por' type='mono' source_url='https://www.voaportugues.com/a/criancas-de-malange-que-estudam-na-rdc-vao-ser-monitorizadas-devio-a-ebola/2436071.html' term='ebola'>
 Crianças de Malanje que estudam na RDC vão ser monitorizadas
 A Comissão Provincial de Protecção Civil e Bombeiros de Malanje adoptou novas medidas que garantam a segurança e o controlo de cerca de 100 crianças do município de Massango que estudam em escolas da República Democrática do Congo (RDC), país onde já se registaram casos de ébola.
 Os petizes que habitam em aldeias da antiga Vila Forte República, a mais de 210 quilómetros a norte desta província, permanecem naquele território durante todo o ano lectivo, retornando a Angola nas férias trimestrais ou anuais.
@@ -1879,7 +1879,7 @@ Os professores e crianças serão os principais mensageiros da existência da ep
 O plano Operacional de Prevenção contra o Ébola prevê a criação em cada município de Malanje de locais para quarentena e outro para o isolamento de indivíduos possivelmente infectados pela doença do momento.
 Uma delegação da Comissão Provincial de Protecção Civil encabeçada pelo director da Educação, Ciência e Tecnologia Gabriel Alexandre Boaventura reuniu-se hoje com as entidades locais e tradicionais.
 </doc>
-<doc id='voa_2413568' lang='por' type='mono' source_url='https://www.voaportugues.com/a/casa-ce-acusa-autoridades-do-namibe-de-tentarem--sabotar-visita-de-chivukuvuku/2413568.html' term='ebola'>
+<doc docid='voa_2413568' lang='por' type='mono' source_url='https://www.voaportugues.com/a/casa-ce-acusa-autoridades-do-namibe-de-tentarem--sabotar-visita-de-chivukuvuku/2413568.html' term='ebola'>
 Casa-CE acusa autoridades do Namibe de tentarem sabotar visita de Chivukuvuku
 A Casa-CE acusou as autoridades na província do Namibe de tentarem sabotar a visita do seu presidente ao interior da província ordenando o encerramento de estações de gasolina. A acusação vai mais longe porque segundo o partido da oposição houve rumores indicam que o dirigente poderia estar infectado com ébola.
 O líder da Casa- CE Abel Chivukuvuku encontra-se de visita ao Namibe desde o passado dia 9 tendo já visitado a cidade do Namibe, Bibala Camucuio e Tombwa.
@@ -1889,7 +1889,7 @@ Segundo Mukanda, tudo tinha como objectivo "inviabilizar a nossa deslocação ao
 Ontem, quarta-feira, Chivukuvuku enfrentou o segundo obstáculo na sua jornada de campo, desta feita no município do Camucuio, onde o Administrador Municipal e primeiro secretário daquele município Manuel Sombo é acusado por jovens, professores, enfermeiros e vendedores do mercado informal de ter mandado desarticular tudo com o pretexto de que Chivukuvuku encontrasse ninguém no hospital, escolas ou mercado, como forma de evitar a contaminação do ébola
 “Incitaram as comunidades ileteradas e desarticularam o mercado informal dizendo que o presidente Chivukuvuku padecia de uma doença chamada ébola que veio do Congo e que quem o saudasse ficaria contaminado e morreria”, afirmou o dirigente provincial da Casa-CE.
 </doc>
-<doc id='voa_2430004' lang='por' type='mono' source_url='https://www.voaportugues.com/a/malanje-reforca-fronteiras-para-impedir-ebola/2430004.html' term='ebola'>
+<doc docid='voa_2430004' lang='por' type='mono' source_url='https://www.voaportugues.com/a/malanje-reforca-fronteiras-para-impedir-ebola/2430004.html' term='ebola'>
 Malanje reforça fronteiras para impedir a entrada do ébola
 Os membros da Comissão Provincial de Protecção Civil e Bombeiros de Malanje reuniram-se esta Quarta-feira, 27, em Malanje e reforçaram as medidas preventivas contra a epidemia hemorrágica do ébola que assola alguns países africanos.
 O redobrar da segurança nos aeroportos e postos fronteiriços, o aumento das campanhas de sensibilização e mobilização da população e o estado de prontidão das instituições intervenientes constam das medidas tomadas de imediato.
@@ -1900,7 +1900,7 @@ A Polícia Nacional é outra instituição chamada a garantir o controlo de pess
 As barreiras serão montadas no aeroporto de Malanje, nas localidades de Kikuto, Muheto, Mundondo, Tembo-A-Luma, Mangando, Marimba, Kinguengue, Massango, Cateco-Cangola (Calandula), Kizenga, Nhague-Ya-Pepe e aeroporto de Capanda (Cacuso), Milando, Kunda-Dia-Base, Xandel, Quela, Kitapa (Kambundi-Katembo), Sautar (Quirima), Dombo-Wa-zanga (Luquembo) e a ponte sobre o rio Kwanza em Cangandala.
 O que é o Ébola, prevenção, sintomas, tratamento
 </doc>
-<doc id='voa_2504438' lang='por' type='mono' source_url='https://www.voaportugues.com/a/analises-missionaria-angolana-suspeita-ebola-enviadas-africa-do-sul/2504438.html' term='ebola'>
+<doc docid='voa_2504438' lang='por' type='mono' source_url='https://www.voaportugues.com/a/analises-missionaria-angolana-suspeita-ebola-enviadas-africa-do-sul/2504438.html' term='ebola'>
 Análises de missionária angolana suspeita de ter Ébola enviadas para a África do Sul
 As análises da missionária suspeita de Ébola, que deu entrada ontem, 31 de Outubro, no Hospital Militar de Luanda, foram encaminhadas para a África do Sul.
 Apesar dos testes em Angola não terem revelado Ébola, mas sim paludismo (malária), a as análises foram transferidas para aquele país, segundo informação dada a conhecer aos jornalistas numa conferência de imprensa no hospital.
@@ -1908,18 +1908,18 @@ O Ébola já matou 4.951 pessoas, registando cerca de 14 mil casos de infecçõe
 Veja também
 Primeiro caso suspeito de Ébola em Luanda
 </doc>
-<doc id='voa_2510465' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-china-vai-enviar-480-medicos-para-a-liberia/2510465.html' term='ebola'>
+<doc docid='voa_2510465' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-china-vai-enviar-480-medicos-para-a-liberia/2510465.html' term='ebola'>
 Ébola: China vai enviar 480 médicos para a Libéria
 A China vai enviar 480 médicos para a Libéria para tratar doentes infetados com o vírus do é bola num centro de saúde que o Governo de Pequim está a construir naquele país, anunciou hoje um porta-voz do Ministério dos Negócios Estrangeiros chinês Hong Lei.
 Os primeiros 160 médicos chegarão à Libéria no próximo domingo, 9, e os outros 320 depois da conclusão do centro de saúde, com 100 camas.
 Mais sobre o Ébola
 </doc>
-<doc id='voa_2421860' lang='por' type='mono' source_url='https://www.voaportugues.com/a/cabo-verde-interdita-entrada-de-pessoas-provenientes-de-paises-afectados-pelo-ebola-/2421860.html' term='ebola'>
+<doc docid='voa_2421860' lang='por' type='mono' source_url='https://www.voaportugues.com/a/cabo-verde-interdita-entrada-de-pessoas-provenientes-de-paises-afectados-pelo-ebola-/2421860.html' term='ebola'>
 Cabo Verde interdita entrada de pessoas provenientes de países afectados pelo ébola
 O Governo de Cabo Verde interditou por um período provisório de três meses a entrada de qualquer pessoa proveniente dos países afectados pelo vírus ébola. A medida, anunciada pelo primeiro-ministro José Maria Neves, suspende também viagens oficiais a estes países e desaconselha a viagem dos nacionais e residentes em Cabo Verde a esta região.
 Ao mesmo tempo, Neves diz que o Governo endurece a fiscalização interna e intensifica as campanhas de sensibilização, mas garante que "o país tem neste momento dados precisos de todas as pessoas que entraram até agora em Cabo Verde a partir dos países afectados pela ébola".
 </doc>
-<doc id='voa_1968177' lang='por' type='mono' source_url='https://www.voaportugues.com/a/primeiro-ministro-guineense-congratula-se-com-apoios-recebidos-pelo-seu-pais/1968177.html' term='ebola'>
+<doc docid='voa_1968177' lang='por' type='mono' source_url='https://www.voaportugues.com/a/primeiro-ministro-guineense-congratula-se-com-apoios-recebidos-pelo-seu-pais/1968177.html' term='ebola'>
 Primeiro-ministro guineense congratula-se com apoios recebidos pelo seu país
 BISSAU —
 O primeiro-ministro guineense disse hoje em Bissau que a sua estada em Bruxelas foi marcada com várias negociações com os comissários europeus, nomeadamente os das pescas, assuntos políticos e desenvolvimento.
@@ -1929,13 +1929,13 @@ Em Díli, à margem da Cimeira da CPLP, e de responsáveis dos países da comuni
 Em Portugal, além de assistir à assinatura do acordo que permite a TAP voltar a voar par Bissau, o primeiro-ministro guineense recebeu a notícia de uma ajuda de emergência de Portugal no domínio da saúde, que vai ajudar a evitar a entrada do ébola no país.
 Nesta conferência de imprensa, o Domingos Simões Pereira falou também sobre a supressão de vistos de entrada de certas categorias de pessoas nos países que fazem parte da CPLP. À respeito lembrou que todos os países ratificaram este documento, excepto a Guiné-Bissau.
 </doc>
-<doc id='voa_2431125' lang='por' type='mono' source_url='https://www.voaportugues.com/a/quase-300-imigrantes-ilegais-detidos-apenas-este-mes-no-uige/2431125.html' term='ebola'>
+<doc docid='voa_2431125' lang='por' type='mono' source_url='https://www.voaportugues.com/a/quase-300-imigrantes-ilegais-detidos-apenas-este-mes-no-uige/2431125.html' term='ebola'>
 Quase 300 imigrantes ilegais detidos apenas este mês no Uíge
 A situação da entrada ilegal dos estrageiros em Angola atinge proporções alarmantes na província do Uíge numa altura em que as autoridades estão em estado de alerta devido à epidemia de ébola que atingiu vários países africanos, entre eles a República democrática do Congo que faz fronteira com aquela província angolana.
 Durante este mês de Agosto, a província do Uíge registou um total de 278 infracções migratórias, entre elas a de um cidadão da Serra Leoa, um dos países mais afectados pela epidemia.
 O director provincial dos Serviços de Migração e Fronteiras(SMF) Tomé Kuenga João disse que os cidadãos da RDC lideram a lista com um total de 245 cidadãos que pretendiam entrar ilegalmente no país.
 </doc>
-<doc id='voa_2409848' lang='por' type='mono' source_url='https://www.voaportugues.com/a/cabo-verde-regista-avancos-na-saude-mas-enfrente-limitacoes/2409848.html' term='ebola'>
+<doc docid='voa_2409848' lang='por' type='mono' source_url='https://www.voaportugues.com/a/cabo-verde-regista-avancos-na-saude-mas-enfrente-limitacoes/2409848.html' term='ebola'>
 Cabo Verde regista avanços na saúde, mas enfrenta muitas limitações
 A ministra da Saúde de Cabo Verde garantiu em entrevista exclusiva à Voz a América, que a situação sanitária no arquipélago é satisfatória.
 Cristina Fontes Lima afirma que o país tem conseguido ganhos assinaláveis no que se refere às doenças infecciosas com a redução da taxa de mortalidade no geral estando assim em boa posição para atingir os objectivos do milénio.
@@ -1948,7 +1948,7 @@ A governante explica que Cabo Verde assume os custos de funcionamento da estrutu
 A ministra da saúde não deixou escapar a oportunidade para exortar os cidadãos cabo-verdianos a evitarem viagens para países afectados pelo ébola, neste caso Guiné Conacri, Libéria, Serra Leoa e Nigéria.
 A governante disse que o Executivo cabo-verdiano já tomou medidas e adoptou mecanismos de prevenção, por isso Cristina Fontes Lima espera que os cidadãos com necessidade de viajar para os países afectados contactem as autoridades sanitárias antes e depois das viagens.
 </doc>
-<doc id='voa_2417492' lang='por' type='mono' source_url='https://www.voaportugues.com/a/mpla-e-casa-ce-continuam-a-guerra-de-palavras/2417492.html' term='ebola'>
+<doc docid='voa_2417492' lang='por' type='mono' source_url='https://www.voaportugues.com/a/mpla-e-casa-ce-continuam-a-guerra-de-palavras/2417492.html' term='ebola'>
 MPLA e Casa-CE continuam a guerra de palavras no Namibe
 O MPLA acusou o líder da Casa-CE Abel Chivukuvuku de se ter deslocado ao Namibe para uma campanha de insultos.
 O primeiro secretário do MPLA no Namibe João Guerra falava num comício no fim-de-semana em resposta à visita de Chivukuvuku à província.
@@ -1961,7 +1961,7 @@ O líder da Casa-CE deslocou-se ao Namibe para uma visita de sete dias durante a
 No Município do Namibe, diante de cerca de 16 mil cidadãos, maioritariamente jovens, Chivukuvuku disse em acto político de massas que não é aceitável que num pais rico em petróleo, diamantes e outros recursos mineráveis o povo continue entregue a indigência.
 "As pessoas têm de se sentirem livres, livres de trabalhar aonde puderem, livres de viverem onde quiserem, não podem mais correr com as pessoas das praças, isso acabou, agora é liberdade”, afirmou o líder da Casa-CE.
 </doc>
-<doc id='voa_3247248' lang='por' type='mono' source_url='https://www.voaportugues.com/a/cabo-verde-zika-epidemia-africa-ocidental/3247248.html' term='ebola'>
+<doc docid='voa_3247248' lang='por' type='mono' source_url='https://www.voaportugues.com/a/cabo-verde-zika-epidemia-africa-ocidental/3247248.html' term='ebola'>
 Epidemia de zika pode afectar África Ocidental, afirma especialista americano
 Um especialista americano em doenças infectocontagiosas lançou um alerta para a possibilidade de uma epidemia do vírus zika na África Ocidental, precisamente nos países que se debateram com um surto do vírus Ébola durante os últimos dois anos. Segundo ele é essencial encetar esforços para travar o zika e impedir uma nova e devastadora crise sanitária no continente.
 Na semana passada nasceu em Cabo Verde um bebé com microcefalia, um problema neurológico possivelmente associado ao zika e que se traduz por um crânio e cérebro de dimensões reduzidas.
@@ -1978,7 +1978,7 @@ A Organização Mundial da Saúde, a OMS, está a tomar em consideração métod
 “A ideia é a de que os mosquitos infectados com a wolbachia têm muito menos propensão a serem infectados pelo zika e portanto não serão capazes de transmitir o vírus aos seres humanos.”
 Entretanto aqui nos Estados Unidos, o Centro de Pesquisa da Atmosfera levou a cabo um estudo concluindo que o aquecimento do clima nos Estados Unidos poderá atrair mais mosquitos Aedes aegypti colocando 50 cidades americanas debaixo da ameaça do zika.
 </doc>
-<doc id='voa_2423694' lang='por' type='mono' source_url='https://www.voaportugues.com/a/prevencao-contra-o-ebola/2423694.html' term='ebola'>
+<doc docid='voa_2423694' lang='por' type='mono' source_url='https://www.voaportugues.com/a/prevencao-contra-o-ebola/2423694.html' term='ebola'>
 Prevenção contra o Ébola
 Nessa altura surgiram surtos simultâneos em Nzara, no Sudão, e em Yambuku, na República Democrática do Congo, numa região situada próximo do Rio Ebola, que dá nome à doença.
 Dê atenção às medidas de prevenção:
@@ -1991,7 +1991,7 @@ Dê atenção às medidas de prevenção:
 * Proteja-se com material adequado - caso tenha que tratar de alguém doente com Ébola use equipamente de protecção. Não partilhe escovas de dentes ou outros objectos com fluídos corporais: saliva, suor, sangue, sémen.
 * Passe a informação - informe os amigos, familiares, vizinhos. Quanto mais pessoas estiverem alerta menos hipóteses o vírus tem de se propagar
 </doc>
-<doc id='voa_2445277' lang='por' type='mono' source_url='https://www.voaportugues.com/a/malange-prepara-centro-de-quarentena-para-suspeitos-e-doentes-de-ebola/2445277.html' term='ebola'>
+<doc docid='voa_2445277' lang='por' type='mono' source_url='https://www.voaportugues.com/a/malange-prepara-centro-de-quarentena-para-suspeitos-e-doentes-de-ebola/2445277.html' term='ebola'>
 Malange prepara centro de quarentena para suspeitos e doentes de ébola
 O centro de quarentena para o atendimento de casos suspeitos e confirmados da ébola no município de Malanje estará localizado no bairro da Cahala, a 50 metros da estrada em direcção ao sector de Quibinda.
 A área estará preparada para atender doentes de baixo risco, com a realização de exames de diagnóstico diferencial e para pacientes de risco moderado e de alto risco que, depois de isolados, são submetidos aos exames de diagnóstico diferencial.
@@ -2002,13 +2002,13 @@ A Comissão Provincial de Protecção Civil visita nos próximos dias os municí
 O secretário de Estado da Saúde Carlos Alberto Masseca, que constatou nos últimos dois dias o grau de execução do projecto de revitalização física e financeira do Hospital Regional de Malanje, reafirmou que a luta contra a ébola é nacional, conhecendo os sinais fundamentais e sintomas para o cumprimento da directiva da Direcção Nacional de Saúde Pública.
 “O ministro fez uma carta circular, a directora nacional de Saúde Pública também o fez em que orientava que todas as unidades sanitárias do país devem ter condições mínimas para a recepção dos doentes”, disse o secretário de Estado, para quem “uma das coisas que devemos evitar em caso de existência de doente é a transportação dos doentes de um local para o outro”.
 </doc>
-<doc id='voa_2888101' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-vacina-e-promissora/2888101.html' term='ebola'>
+<doc docid='voa_2888101' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-vacina-e-promissora/2888101.html' term='ebola'>
 Ébola: Vacina é promissora
 Os resultados iniciais de um teste de vacina para Ebola na Guiné são "animadores" e "promissores, anunciou hoje a directora-geral da Organização Mundial da Saúde, Margaret Chan.
 Segundo ela, a vacina pode contribuir para o fim da epidemia na África ocidental."Caso tenha eficiência comprovada, isso mudará o jogo, e mudará a resposta ao actual surto de Ebola e futuros surtos."
 Mais detalhes sobre a vacina serão publicados hoje.
 </doc>
-<doc id='voa_4721821' lang='por' type='mono' source_url='https://www.voaportugues.com/a/rep%C3%BAblica-democr%C3%A1tica-do-congo-vota%C3%A7%C3%A3o-no-meio-da-chuva-maquinas-avariadas-e-atrasos/4721821.html' term='ebola'>
+<doc docid='voa_4721821' lang='por' type='mono' source_url='https://www.voaportugues.com/a/rep%C3%BAblica-democr%C3%A1tica-do-congo-vota%C3%A7%C3%A3o-no-meio-da-chuva-maquinas-avariadas-e-atrasos/4721821.html' term='ebola'>
 República Democrática do Congo: Votação no meio da chuva, maquinas avariadas e atrasos
 A muito aguardada eleição na República Democrática do Congo teve um começo difícil neste domingo, 29, devido à chuva torrencial na capital, longos atrasos nalgumas secções eleitorais e máquinas avariadas.
 Três bastiões da oposição não terão votações após as autoridades cancelarem a eleição nesses locais, citando riscos para a saúde, em meio a um surto de Ebola e violência étnica.
@@ -2031,7 +2031,7 @@ O acordo de Kabila para aderir às leis constitucionais do mandato deve represen
 Os críticos, no entanto, duvidam que a votação não será manchada por fraudes e creem que Kabila continuará a governar nos bastidores. Ele não descarta concorrer à Presidência novamente em 2023.
 Reuters.
 </doc>
-<doc id='voa_2835655' lang='por' type='mono' source_url='https://www.voaportugues.com/a/representante-da-onu-para-o-ebola-visita-bissau/2835655.html' term='ebola'>
+<doc docid='voa_2835655' lang='por' type='mono' source_url='https://www.voaportugues.com/a/representante-da-onu-para-o-ebola-visita-bissau/2835655.html' term='ebola'>
 Representante da ONU para o ébola alerta que Guiné-Bissau está na zona de risco
 O representante especial da ONU para a Missão de Resposta de Emergência contra o ébola, Peter Graaff, está em Bissau para avaliar a situação no país. Ele avisa que o país está numa zona de risco.
 Aquele responsável da ONU confirmou que o país não regista, por enquanto, nenhum caso de ébola, mas, na sua opinião, não deixa de ser preocupante o facto de ter fronteira com a Guiné Conakry, fortemente atingido pela doença.
@@ -2042,14 +2042,14 @@ Durante os dois dias, Peter Graaff vai fazer balanço dos esforços de prevenç�
 Em agenda, consta ainda que vai visitar o Centro de Isolamento e de Tratamento do Ébola no hospital central de Bissau “Simão Mendes”, assim como uma deslocação à localidade de Cuntabane, um dos postos avançados, situado na fronteira com a vizinha República da Guiné Conacri.
 Para as Nações Unidas, a Guiné-Bissau continua em alto risco, devido à sua proximidade geográfica com a sua vizinha da Guiné, onde, recentemente, se registaram casos na prefeitura de Boké, muito próximo com a zona sul do país.
 </doc>
-<doc id='voa_2522993' lang='por' type='mono' source_url='https://www.voaportugues.com/a/medico-da-serra-leoa-infectado-com-ebola-morre-nos-eua/2522993.html' term='ebola'>
+<doc docid='voa_2522993' lang='por' type='mono' source_url='https://www.voaportugues.com/a/medico-da-serra-leoa-infectado-com-ebola-morre-nos-eua/2522993.html' term='ebola'>
 Médico da Serra Leoa infectado com ébola morre nos EUA
 O médico de Serra Leoa infectado com o vírus do ébola e que foi transferido no sábado, 15, para os Estados Unidos morreu nesta segunda-feira, 17.
 Quando ele chegou, os médicos já consideravam que o cirurgião estava em "condições extremamente críticas", segundo nota do Nebraska Medical Center.
 Martin Salia, um residente dos Estados Unidos que trabalhava no hospital Connaught de Freetown, foi o primeiro cidadão de Serra Leoa com ébola a ser repatriado para os Estados Unidos, que já tratou nove pacientes.
 Salia foi internado no Nebraska Medical Center, um estabelecimento especialmente equipado para tratar pacientes infectados com o vírus. Ele foi o terceiro afectado por ébola a ser tratado neste local e o único que faleceu.
 </doc>
-<doc id='voa_2438736' lang='por' type='mono' source_url='https://www.voaportugues.com/a/autoridades-reforcam-medidas-de-prevencao-contra-o-ebola-no-uige/2438736.html' term='ebola'>
+<doc docid='voa_2438736' lang='por' type='mono' source_url='https://www.voaportugues.com/a/autoridades-reforcam-medidas-de-prevencao-contra-o-ebola-no-uige/2438736.html' term='ebola'>
 Autoridades reforçam medidas de prevenção contra o ébola no Uíge
 Continuam a decorrem em todos os municípios do interior da província do Uíge as campanhas de sensibilização e mobilização sobre as medidas de prevenção, controlo e contágio de ébola que continua a causar mortes com realce para a República Democrática do Congo (RDC), país que faz fronteira com a província do Uíge ao norte.
 Depois dos municípios de Damba, Maquela do Zombo, Milunga, Sanza Pombo e Puri, as autoridades sanitárias no Uíge estenderam a campanha ao município do Bungo, com a distribuição de folhetos, boletins informativos e palestras junto de autoridades tradicionais e a população em geral daquela localidade.
@@ -2058,7 +2058,7 @@ O chefe do departamento da saúde pública Manuel Bunga disse que a campanha é 
 Por sua vez, o director municipal da saúde no Bungo Paulo Samuel afirmou que os técnicos de saúde no Uíge estão devidamente preparados para responder a qualquer caso suspeito, por terem uma vasta experiência ganha com o tratamento de uma doença muito bem conhecida pelos técnicos do sector, a febre hemorrágica do vírus Marburg, que afectou a província em 2006.
 No município do Puri, o administrador municipal Beirão Monteiro pediu aos sobas a apelarem às populações no sentido de prevenirem–se e de informarem as autoridades sanitárias sobre qualquer caso suspeito.
 </doc>
-<doc id='voa_2418800' lang='por' type='mono' source_url='https://www.voaportugues.com/a/pemba-cria-condicoes-para-combater-o-ebola/2418800.html' term='ebola'>
+<doc docid='voa_2418800' lang='por' type='mono' source_url='https://www.voaportugues.com/a/pemba-cria-condicoes-para-combater-o-ebola/2418800.html' term='ebola'>
 Pemba cria condições para combater o ébola
 Em Moçambique, a província de Cabo Delgado montou uma estrutura para receber eventuais doentes de ébola ou pessoas com sintomas da doença que já vitimou quase 1300 vidas na África Ocidental.
 Felisberto Mendes, director do Hospital Provincial de Pemba, a principal unidade sanitária de Cabo Delgado, reconhece em entrevista à VOA que o ébola é uma ameaça mundial e que tudo deve ser feito para evitar a sua propagação. Por isso, tanto o hospital que dirige como as estruturas de saúde da província já tomaram medidas.
@@ -2066,7 +2066,7 @@ Felisberto Mendes, director do Hospital Provincial de Pemba, a principal unidade
 A situação sanitária na província é considerada estável por Felisberto Mendes. As doenças mais frequentes são a malária, que é endémica na região, as doenças respiratórias e diarreicas.
 O director do Hospital Provincial de Pemba diz que a unidade de saúde está em alerta devido a um surto de dengue registado no início do ano e que deixou um saldo de 50 casos, embora sem qualquer vítima fatal.
 </doc>
-<doc id='voa_4884335' lang='por' type='mono' source_url='https://www.voaportugues.com/a/mil%C3%ADcias-matam-m%C3%A9dico-que-tratava-%C3%A9bola-no-congo/4884335.html' term='ebola'>
+<doc docid='voa_4884335' lang='por' type='mono' source_url='https://www.voaportugues.com/a/mil%C3%ADcias-matam-m%C3%A9dico-que-tratava-%C3%A9bola-no-congo/4884335.html' term='ebola'>
 Milícias matam médico que tratava Ébola no Congo
 Um médico envolvido no combate ao surto de Ébola, na República Democrática do Congo, foi morto, ontem, 19, num ataque ao seu hospital, na região leste, informa a Organização Mundial de Saúde.
 Vários homens armados de uma milícia local atacaram o hospital na cidade de Butembo, um dos epicentros do surto de Ébola, matando Richard Mouzoko, epidemiologista camaronês.
@@ -2080,7 +2080,7 @@ O surto de Ébola nas províncias do Kivu Norte e Ituri, no leste do Congo, come
 O Ministério da Saúde do Congo diz que o surto matou 843 pessoas e centenas foram infectadas.
 A epidemia é a segunda mais mortal já registrada, depois da que atingiu a África Ocidental entre 2014-16, matando mais de 11 mil pessoas.
 </doc>
-<doc id='voa_2486190' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-estados-unidos/2486190.html' term='ebola'>
+<doc docid='voa_2486190' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-estados-unidos/2486190.html' term='ebola'>
 Ébola: Estados Unidos e União Europeia redobram esforços para conter epidemia
 A Organização Mundial de Saúde anunciou que vai enviar equipas ao Mali e à Costa do Marfim para avaliar as medidas preventivas contra o Ébola que aqueles países tomaram nas suas fronteiras comuns com a Guiné-Conacri, Libéria e Serra leoa.
 Segundo a OMS a chave para conter o alastramento da epidemia de Ébola reside no controlo do seu alastramento para além das fronteiras daqueles 3 países da África Ocidental, os mais atingidos pelo surto.
@@ -2095,14 +2095,14 @@ Ontem Vinson foi transportada de Dallas para um hospital de Atlanta na Geórgia 
 Vinson e outra enfermeira, Nina Pham, contraíram o vírus no hospital de Dallas onde esteve internada a primeira pessoa com Ébola nos Estados Unidos,o liberiano Thomas Duncan que entretanto faleceu.
 Segundo as últimas estatísticas da OMS a epidemia de Ébola já causou cerca de 9 mil casos matando 4 mil e 500 pessoas.
 </doc>
-<doc id='voa_2996736' lang='por' type='mono' source_url='https://www.voaportugues.com/a/pela-primeira-vez-nenhum-caso-de-ebola-e-registrado-numa-semana-na-africa-ocidental/2996736.html' term='ebola'>
+<doc docid='voa_2996736' lang='por' type='mono' source_url='https://www.voaportugues.com/a/pela-primeira-vez-nenhum-caso-de-ebola-e-registrado-numa-semana-na-africa-ocidental/2996736.html' term='ebola'>
 Pela primeira vez nenhum caso de ébola é registrado numa semana na África Ocidental
 A Organização Mundial da Saúde (OMS) anunciou que pela primeira vez numa semana não foram registrados casos de ébola na África Ocidental.
 Os dados, publicados no dia 4 de Outubro, foram o primeiro registro de zero casos de ébola desde Março de 2014.
 Serra Leoa não reporta casos pela terceira semana seguida. Mas, na Guiné Conacri, 500 pessoas continuam a ser monitoradas, pois há risco de transmissão.
 O surto de ébola já matou 11.297 pessoas e infetou outras 28.421 na Serra Leoa, na Libéria e na Guiné Conacri desde 2013. Não há transmissão na Libéria desde o início de Setembro.
 </doc>
-<doc id='voa_2673412' lang='por' type='mono' source_url='https://www.voaportugues.com/a/malaria-mundo-ganha-luta-doenca/2673412.html' term='ebola'>
+<doc docid='voa_2673412' lang='por' type='mono' source_url='https://www.voaportugues.com/a/malaria-mundo-ganha-luta-doenca/2673412.html' term='ebola'>
 Malária: Estará o mundo a ganhar a luta contra a doença?
 O mundo está a ganhar a Guerra contra o paludismo. Um enorme aumento no financiamento verificado nos últimos dez anos para programas de controlo e tratamento reduziu o número de mortes por paludismo (ou malária) em cerca de 50% em todo o mundo.
 A redução é ainda mais elevada na Africa subsaariana – segundo a Organização Mundial de Saúde. Os programas anti-palúdicos salvaram cerca de quatro milhões de vidas, na sua maior parte de bebés e jovens em África.
@@ -2118,7 +2118,7 @@ Moss diz que a resistência a este medicamento pode eventualmente estender-se a 
 "Caso não seja feito em conjunto, os sucessos e os ganhos num país podem ser minados pela importação do paludismo dos países vizinhos", explicou.
 William Moss diz que se pode conseguir uma maior redução do número de mortes por paludismo. Contudo, este é um objectivo que vai ser cada vez mais um desafio com o aumento da resistência aos insecticidas em Africa e ao medicamentos na Asia.
 </doc>
-<doc id='voa_1254045' lang='por' type='mono' source_url='https://www.voaportugues.com/a/a-38-2005-06-10-voa6-92227709/1254045.html' term='ebola'>
+<doc docid='voa_1254045' lang='por' type='mono' source_url='https://www.voaportugues.com/a/a-38-2005-06-10-voa6-92227709/1254045.html' term='ebola'>
 José Vandúnem à Voz da América: Luta contra o Marburg continua
 Os casos de Marburg poderão ficar reduzidos a zero, mas a luta contra esta epidemia só será declarada como concluída quando for identificado o ponto de partida, disse à Voz da América em Washington o vice-ministro angolano da Saúde, José Vandúnem.
 O governante angolano disse ser prematuro concluir que o macaco verde tenha sido o vector da doença, porque ao contrário do que aconteceu noutras paragens, não foram encontrados macacos mortos na floresta.
@@ -2143,21 +2143,21 @@ JV- Estes estudos dizem que os índices de sero-prevalência são muito mais bai
 VOA- No Uganda, Zâmbia e por ai abaixo onde à semelhança de muitos países africanos existe a poligamia, a conversa é a mudança de hábitos sexuais.. Se chegarmos a este ponto em Angola como é que se vai convencer o homem angolano nestas condições, a mudar de hábitos?
 JV- Os defensores da poligamia dizem que o que faz mal é a poligamia aberta.. a poligamia fechada não faz mal.. poligamia fechada é aquela em que um sujeito tem 3 mulheres, mas são as três mulheres dele que o têm como marido.. esta não cria problemas.. A poligamia aberta é que é complicada.. o sujeito tem “ene” parceiros.. e ai sim está exposto a factores de riscos.. Os hábitos culturais demoram tempo ser invertidos.. mas a factura que estamos a pagar com a diminuição da capacidade de produzir riqueza, o empobrecimento de agregados familiares, a diminuição de esperança de vida, a quantidade de órfãos, tudo isto vai levar a que nós pensemos e numa análise de custos - benefícios acabemos por mudar.. o nosso papel, e o da imprensa enquanto fazedora de opinião é contribuir para acelerar esta mudança de comportamento face aos benefícios resultantes para o país, para as comunidades.
 </doc>
-<doc id='voa_2578717' lang='por' type='mono' source_url='https://www.voaportugues.com/a/caso-ebola-confirmado-escocia/2578717.html' term='ebola'>
+<doc docid='voa_2578717' lang='por' type='mono' source_url='https://www.voaportugues.com/a/caso-ebola-confirmado-escocia/2578717.html' term='ebola'>
 Caso de ébola confirmado na Escócia
 As autoridades de saúde da Escócia, detectaram o primeiro caso do vírus do ébola numa profissional de saúde, na capital Glasgow. Ela regressou da Serra Leoa e já está sob cuidados médicos num hospital da cidade, disse o Governo da Escócia.
 A mulher será transferida para Londres, onde vai ficar numa unidade de isolamento do hospital Royal Free.
 De acordo com Nicola Sturgeon, o risco para a saúde pública é muito baixo e a paciente terá tido contacto com apenas uma pessoa desde que chegou à cidade, mas todos os passageiros dos voos que ela realizou vão ser despistados. A profissional, cuja função e nome não foram revelados, fez escala em Casablanca e em Londres antes de chegar a Glasgow.
 Mais sobre o ébola
 </doc>
-<doc id='voa_4389613' lang='por' type='mono' source_url='https://www.voaportugues.com/a/oms-prepara-se-para-pior-cen%C3%A9rio-na-rdc-devido-a-surto-de-%C3%A9bola/4389613.html' term='ebola'>
+<doc docid='voa_4389613' lang='por' type='mono' source_url='https://www.voaportugues.com/a/oms-prepara-se-para-pior-cen%C3%A9rio-na-rdc-devido-a-surto-de-%C3%A9bola/4389613.html' term='ebola'>
 OMS prepara-se para "pior cenério" na RDC devido a surto de ébola
 A Organização Mundial de Saúde revelou estar a preparar-se para o pior na República Democrática do Congo (RDC), na sequência de um surto de ébola registado numa área remota no noroeste do país.
 O vice-director-geral de Preparação e Resposta a Emergências da OMS, Peter Salama, disse nesta sexta-feira, 11, aguardar que o Governo de Kinshasa dê sinal verde em poucos dias para a implantação de uma vacina experimental, mas avisou que a droga "é complicada de usar e não é uma bala mágica".
 A OMS disse que entre 4 de Abril e 5 de Maio, 27 casos de febre com sinais hemorrágicos, incluindo 17 mortes, foram registados no distrito de Bikoro, e dois deles já foram confirmados como sendo devido à ébola.
 O Ministério da Saúde Pública da RDC solicitou o apoio da OMS na coordenação da resposta internacional a este novo surto um ano depois de outro que provocou a morte de nove pessoas.
 </doc>
-<doc id='voa_2789839' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-do-lado-de-la-da-fronteira/2789839.html' term='ebola'>
+<doc docid='voa_2789839' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-do-lado-de-la-da-fronteira/2789839.html' term='ebola'>
 Autoridades de Bissau garantem não haver nenhum caso de ébola no país
 A ministra da Saúde da Guiné-Bissau revelou nesta segunda-feira, 25, que os dois casos de ébola registados na semana passada na vizinha Guiné-Conacri, concretamente em Boké, não entraram no país. Valentina Mendes garante que a Guiné-Bissau está livre de qualquer contacto de pessoas suspeitas da doença.
 Não obstante esta "boa nova" para as autoridades sanitárias, por ser Boké uma zona muito próxima da Guiné-Bissau, a ministra da Saúde alerta que não se deve desarmar: "é importante que os cidadãos continuem a observar as medidas preventivas contra o ébola".
@@ -2166,7 +2166,7 @@ A decisão entrou em vigor nesta segunda-feira e visa reduzir de forma drástica
 Na ausência de dados mais recentes e segundo o relatório anual do Programa Nacional de Luta Contra o Paludismo do Instituto Nacional de Saúde (INASA), referente a 2013, foram identificados 125 mil e 224 casos de malária na Guiné-Bissau, tendo 396 resultados em óbito.
 As crianças menores de 5 anos constituem 37 por cento do total, ou seja, 46 mil e 209 casos, com uma taxa de letalidade de 0,4%, equivalente a 191 crianças.
 </doc>
-<doc id='voa_2448011' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-leva-medicos-cubanos-para-africa-ocidental/2448011.html' term='ebola'>
+<doc docid='voa_2448011' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-leva-medicos-cubanos-para-africa-ocidental/2448011.html' term='ebola'>
 Ébola leva médicos cubanos para a Africa Ocidental
 A responsável máxima da Organização Mundial de Saúde, Margaret Chan, afirmou que são necessários mais e melhores técnicos sanitários na África Ocidental para travar a crescente epidemia de Ébola.
 Chan acrescentou hoje em Genebra que o número de mortos já ultrapassou 2 mil e 400 e que o número de casos se elevava a 4 mil 784.
@@ -2176,13 +2176,13 @@ A OMS disse também que esta semana o Ébola vitimou cerca de 80 funcionários s
 Margaret Chan congratulou-se também com a notícia de que Cuba tinha decidido enviar 165 técnicos para a África Ocidental. Os cubanos deverão chegar à Serra Leoa no inicio de Outubro e permanecer no país durante 6 meses.
 Os Estados Unidos enviaram já técnicos para a região e o governo americano está à procura de mais profissionais qualificados para ajudar na luta contra o Ébola.
 </doc>
-<doc id='voa_1897596' lang='por' type='mono' source_url='https://www.voaportugues.com/a/uige-prepara-se-para-combater-o-%C3%A9bola/1897596.html' term='ebola'>
+<doc docid='voa_1897596' lang='por' type='mono' source_url='https://www.voaportugues.com/a/uige-prepara-se-para-combater-o-%C3%A9bola/1897596.html' term='ebola'>
 Uige prepara-se para combater o ébola
 O Governo Provincial do Uíge criou, no município de Quimbele, várias equipas divididas em comissões e subcomissões, para reforçarem as medidas de prevenção relativas ao vírus do ébola. As equipas, constituídas principalmente por profissionais de saúde e da Polícia Nacional, bem como autoridades tradicionais e religiosas e elementos de organizações não-governamentais, actuam em todos os pontos de entrada de estrangeiros.
 A decisão foi tomada na primeira sessão ordinária do Governo Provincial, realizada no Quimbele, durante a qual o governador pediu “mais rigor, coerência e responsabilidade” no cumprimento das acções agendadas para este ano.
 Paulo Pombolo afirmou que “o elevado número de dívidas contraídas no ano passado por algumas Administrações Municipais prejudicam o desenvolvimento da região". O plano de acção e o seu orçamento para este ano do programa de combate à pobreza, referiu, "está bem estruturado e não deixa dúvidas aos gestores municipais".
 </doc>
-<doc id='voa_5083681' lang='por' type='mono' source_url='https://www.voaportugues.com/a/antigo-ministro-da-sa%C3%BAde-da-rdc-detido-e-acusado-de-m%C3%A1-gest%C3%A3o/5083681.html' term='ebola'>
+<doc docid='voa_5083681' lang='por' type='mono' source_url='https://www.voaportugues.com/a/antigo-ministro-da-sa%C3%BAde-da-rdc-detido-e-acusado-de-m%C3%A1-gest%C3%A3o/5083681.html' term='ebola'>
 Antigo ministro da saúde da RDC detido e acusado de má gestão
 O antigo ministro da Saúde da República Democrática do Congo (RDC), Oly Ilunga (foto), foi detido nesta sábado, 14, por suposta má gestão de fundos durante a resposta dada à epidemia de ébola.
 "Infelizmente, a polícia recebeu informações sobre o seu desaparecimento com o objectivo de fugir para o Congo-Brazzaville", indicou em comunicado o porta-voz da polícia, coronel Pierrot-Rombaut Mwanamputu, adiantando que ele será entrege ao Ministério Público na segunda-feira, 16.
@@ -2191,7 +2191,7 @@ Na semana passada, os advogados de Ilunga revelaram que ele tinha sido interroga
 Doadores estrangeiros destinaram mais de 150 milhões de dólares para o combate à epidemia no ano passado, mas as Nações Unidas disseram que são necessárias ainda centenas de milhões de dólares.
 O ébola já matou mais de duas mil pessoas no último ano na RDC.
 </doc>
-<doc id='voa_4401212' lang='por' type='mono' source_url='https://www.voaportugues.com/a/mais-casos-de-%C3%A9bola-confirmados-na-rep%C3%BAblica-democr%C3%A1tica-do-congo/4401212.html' term='ebola'>
+<doc docid='voa_4401212' lang='por' type='mono' source_url='https://www.voaportugues.com/a/mais-casos-de-%C3%A9bola-confirmados-na-rep%C3%BAblica-democr%C3%A1tica-do-congo/4401212.html' term='ebola'>
 Mais casos de ébola confirmados na República Democrática do Congo
 Três novos casos do virus do ébola foram confirmados na República Democrática do Congo, de acordo com o ministro da Saúde do país.
 O ministro Oly Ilunga disse no final do dia de ontem, 18 de Maio, os casos deste virus letal foram confirmados na cidade Mbandaka. Estes não são os primeiros casos nesta cidade de 1 milhão e 200 mil pessoas, dias antes um outro caso já havia sido confirmado.
@@ -2206,13 +2206,13 @@ Não há tratamento específico para o vírus, que é letal e altamente contagio
 Este vírus é da mesma estirpe que se espalhou por três países da África ocidental durante dois anos, no início de 2013, criando pânico global.
 Quando o vírus foi finalmente controlado, tinha morto mais de 11 mil e 300 pessoas, tornando-o o surto de ébola mais mortal de sempre.
 </doc>
-<doc id='voa_2476472' lang='por' type='mono' source_url='https://www.voaportugues.com/a/espanha-ebola/2476472.html' term='ebola'>
+<doc docid='voa_2476472' lang='por' type='mono' source_url='https://www.voaportugues.com/a/espanha-ebola/2476472.html' term='ebola'>
 Espanha coloca seis em observação devido a suspeita de ébola
 Uma enfermeira do Hospital La Paz, que integra a unidade Carlos III, foi hoje isolada como medida de precaução perante um novo possível caso de contágio pelo vírus do ébola. Fontes hospitalares disseram que e enfermeira, que estava a trabalhar, sentiu febre e foi imediatamente isolado.
 Esta é a sexta pessoa a ser isolada na Espanha. Ontem, outra enfermeira que esteve em contacto com a auxiliar de enfermagem infectada pelo vírus foi admitida por precaução, com sintomas de febre muito ligeira, tendo ficado isolada.
 Entretanto, a enfermeira Teresa Romero, a primeira a contrarir ébola fora de ÁFrica, disse en entrevista ao jornl El Mundo não saber como foi infectada por er seguido todos os procedimentos recomendados.
 </doc>
-<doc id='voa_3122894' lang='por' type='mono' source_url='https://www.voaportugues.com/a/guine-livre-de-ebola/3122894.html' term='ebola'>
+<doc docid='voa_3122894' lang='por' type='mono' source_url='https://www.voaportugues.com/a/guine-livre-de-ebola/3122894.html' term='ebola'>
 Guiné-Conacri livre de ébola
 A Guiné-Conacri está livre de Ébola, declarou hoje a Organização Mundial da Saúde (OMS), após dois anos de luta contra a doença que matou milhares de pessoas.
 O anúncio é feito 42 dias depois do último caso confirmado de ébola no país, que deverá iniciar 90 dias de vigilância reforçada.
@@ -2223,7 +2223,7 @@ Mais de 28 mil pessoas foram infectadas, tendo 11,300 perdido a vida.
 A OMS não descarta futuros surtos de ébola na África Ccidental.
 A organização reconhece as falhas no pico da epidemia, mas diz que as equipas médicas estão agora melhor preparadas para responder a eventuais surtos.
 </doc>
-<doc id='voa_2468472' lang='por' type='mono' source_url='https://www.voaportugues.com/a/eua-com-primeiro-caso-de-ebola/2468472.html' term='ebola'>
+<doc docid='voa_2468472' lang='por' type='mono' source_url='https://www.voaportugues.com/a/eua-com-primeiro-caso-de-ebola/2468472.html' term='ebola'>
 EUA com primeiro caso de Ébola
 Os Estados Unidos registaram o primeiro caso de Ébola importado por uma pessoa que visitou a família na Libéria, segundo revelou o Centro de Prevenção e Controle de Doenças(CDC, na sigla em inglês). "Até onde sabemos, este é o primeiro paciente diagnosticado (com Ébola) fora de África", declarou a jornalistas o director do CDC, Tom Frieden.
 "Não tenho dúvidas de que iremos controlar essa importação, ou esse caso de Ébola, de forma a que não se dissemine amplamente neste país", acrescentou Frieden, que informou que o homem infectado se encontra criticamente doente.
@@ -2232,7 +2232,7 @@ O director do CDC advertiu que algumas pessoas, nomeadamente familiares, tiveram
 O homem, cuja nacionalidade não foi divulgada, começou a ter os sintomas a 24 de Setembro e procurou um médico dois dias depois. Ele foi internado no dia 28 em Dallas, sob isolamento. A infecção com Ébola foi confirmada por testes realizados por dois laboratórios.
 "Ele foi contaminado na Libéria", disse o porta-voz, acrescentando que não se trata de um funcionário da área de Saúde. A informação foi confirmada pelo Hospital Presbiteriano de Dallas, que anunciou ter colocado uma pessoa em situação de total isolamento com base em "sintomas e num histórico recente de viagens".
 </doc>
-<doc id='voa_2494811' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ouvinte-guineense-elogia-trabalho-de-prevencao-do-ebola/2494811.html' term='ebola'>
+<doc docid='voa_2494811' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ouvinte-guineense-elogia-trabalho-de-prevencao-do-ebola/2494811.html' term='ebola'>
 Ouvinte guineense elogia trabalho de prevenção do ébola
 Sabino Mertche, de 32 anos, é jornalista e ouve a Voz da América desde 2010.
 Mora com a esposa e o filho recém nascido em Bissau, capital da Guiné-Bissau, país que faz fronteira com a Guiné-Conacri, onde a epidemia de ébola começou no início do ano.
@@ -2240,7 +2240,7 @@ De acordo com a Organização Mundial de Saúde, 1540 pessoas já contraíram o 
 Mertche comentou sobre o trabalho que está a ser feito no país para prevenir o vírus mortal. Ele aprova as medidas que estão sendo tomadas pelo governo e diz que os guineenses estão fazendo a parte deles para não deixar que o ébola entre na Guiné Bissau.
 Oiça a entrevista:
 </doc>
-<doc id='voa_2427417' lang='por' type='mono' source_url='https://www.voaportugues.com/a/autoridades-de-malanje-tomam-medidas-contra-o-ebola/2427417.html' term='ebola'>
+<doc docid='voa_2427417' lang='por' type='mono' source_url='https://www.voaportugues.com/a/autoridades-de-malanje-tomam-medidas-contra-o-ebola/2427417.html' term='ebola'>
 Autoridades de Malanje tomam medidas contra o Ébola
 Em Malanje, o Governo local está a tomar as primeiras medidas para impedir a possível entrada do vírus do ébola na província, a doença mortal que começou agora a afectar a vizinha República Democrática do Congo.
 Técnicos de saúde e membros dos órgãos de defesa, segurança e ordem interna de Malanje foram informados sobre a nececessidade de se sensibilizar as comunidades locais sobre o perigo do ébola, doença que ameaça a saúde pública no mundo.
@@ -2248,7 +2248,7 @@ A chefe de departamento de saúde pública da Direcção Provincial de Saúde de
 À margem de um seminário sobre as formas de prevenção e contaminação pela doença foram indicadas duas localidades fronteiriças de Malanje como pontos focais de entrada de estrangeiros para esta região, para além dos municípios do Cunda-Dia-Base e do Quela.
 A prevenção contra o ébola é extensiva nos 14 municípios de Malanje.
 </doc>
-<doc id='voa_2484425' lang='por' type='mono' source_url='https://www.voaportugues.com/a/canada-testa-vacina-contra-o-ebola/2484425.html' term='ebola'>
+<doc docid='voa_2484425' lang='por' type='mono' source_url='https://www.voaportugues.com/a/canada-testa-vacina-contra-o-ebola/2484425.html' term='ebola'>
 Canadá testa vacina contra o ébola
 Uma vacina experimental contra o ébola, desenvolvida no Canadá, começa a ser testada em humanos, na expectativa de ser produzida em larga escala para conter a epidemia da febre hemorrágica que se alastra pelo mundo, informou a ministra canadiana da Saúde, Rona Ambrose.
 Na primeira fase de testes clínicos, a vacina vai ser administrada a 20 voluntários do Instituto de Pesquisas do Exército Walter Reed, nos Estados Unidos, para calibrar a dosagem, a eficácia e eventuais efeitos colaterais do imunizante.
@@ -2256,7 +2256,7 @@ Os resultados iniciais da vacina, denominada VSV-EBOV, e desenvolvida por pesqui
 Em Agosto passado, o Canadá forneceu quase mil doses da vacina para a Organização Mundial da Saúde, mas elas permaneceram em Winnipeg e a OMS não decidiu ainda se vai usá-las ou não.
 Mais sobre o Ébola
 </doc>
-<doc id='voa_4956270' lang='por' type='mono' source_url='https://www.voaportugues.com/a/%C3%A9bola-faz-primeira-v%C3%ADtima-mortal-no-uganda/4956270.html' term='ebola'>
+<doc docid='voa_4956270' lang='por' type='mono' source_url='https://www.voaportugues.com/a/%C3%A9bola-faz-primeira-v%C3%ADtima-mortal-no-uganda/4956270.html' term='ebola'>
 Ébola faz primeira vítima mortal no Uganda
 Uma criança morreu vítima de ébola no Uganda, no primeiro caso transfronteiriço do vírus desde que um surto da doença começou há um ano na República Democrática do Congo (RDC).
 O escritório da Organização Mundial da Saúde no Uganda confirmou a morte, citando a ministra da Saúde, Jane Ruth Aceng, que confirmou mais dois casos da doença no país.
@@ -2264,7 +2264,7 @@ A mesma fonte revelou que a criança foi levada para o hospital de Kagando, no o
 Frente a estes casos, o Comité de Emergência da OMS convocou para sexta-feira uma reunião de emergência.
 O vírus do ébola já matou cerca de 1.400 pessoas na RDC desde Agosto do ano passado
 </doc>
-<doc id='voa_3400424' lang='por' type='mono' source_url='https://www.voaportugues.com/a/guine-bissau-zika/3400424.html' term='ebola'>
+<doc docid='voa_3400424' lang='por' type='mono' source_url='https://www.voaportugues.com/a/guine-bissau-zika/3400424.html' term='ebola'>
 Zika deixa população da Guiné-Bissau em pânico
 O Governo da Guiné-Bissau declarou a existência do vírus do zika no arquipélago dos Bijagós.
 As autoridades disseram ter registado três casos e anunciaram a criação de uma Comissão Interministerial, chefiada pelo primeiro-ministro, Baciro Djá, com o objectivo de seguir a situação e definir estratégias de combate à doença.
@@ -2277,20 +2277,20 @@ O arquipélago dos Bijagós, onde o Governo confirma a existência de três caso
 Por telefone, um dos habitantes de Bubaque e membro da Associação dos Jovens para Promoção daquela Cidade, uma organização juvenil local, Énio Lima, disse à VOA haver muita preocupação na região.
 "Esta situação nos preocupa muito aqui nas ilhas. Todo o mundo fala agora do zika porque as ilhas não dispõem de postos sanitárias à altura. No passado, nós da associação fizemos várias campanhas de sensibilização sobre zika e ébola, mas agora estamos surpreendidos".
 </doc>
-<doc id='voa_3155771' lang='por' type='mono' source_url='https://www.voaportugues.com/a/serra-leoa-regista-mais-um-caso-de-ebola/3155771.html' term='ebola'>
+<doc docid='voa_3155771' lang='por' type='mono' source_url='https://www.voaportugues.com/a/serra-leoa-regista-mais-um-caso-de-ebola/3155771.html' term='ebola'>
 Serra Leoa regista mais um caso de Ébola
 A Organização Mundial da Saúde (OMS) anunciou, hoje, que um teste de ébola a uma segunda pessoa resultou positivo, na Serra Leoa, onde em Novembro foi declarado o fim da epidemia.
 O primeiro caso positivo foi reportado na semana passada no corpo de uma mulher que morreu a 12 de Janeiro.
 Taricl Jarasevic, porta-voz da OMS, disse que o novo teste positivo foi feito a uma tia da primeira, que estava em quarentena.
 A epidemia do ébola na África ocidental atingiu também a Libéria e Guiné-Conakry. Nos três países, 11 mil pessoas morreram e 28,500 foram infectadas.
 </doc>
-<doc id='voa_3855655' lang='por' type='mono' source_url='https://www.voaportugues.com/a/congo-surto-ebola-alto-risco-nacional-mas-nao-e-ameaca-global-oms/3855655.html' term='ebola'>
+<doc docid='voa_3855655' lang='por' type='mono' source_url='https://www.voaportugues.com/a/congo-surto-ebola-alto-risco-nacional-mas-nao-e-ameaca-global-oms/3855655.html' term='ebola'>
 Congo: Surto de Ébola é um alto risco nacional, mas não é ameaça global, diz a OMS
 Um surto de Ébola na República Democrática do Congo está numa área extremamente remota e poderá ser um alto risco a nível nacional, disse hoje, 18, a Organização Mundial de Saúde (OMS).
 A OMS diz, no entanto, que tal surto representa um risco baixo à escala global.
 Na última actualização do surto, a OMS reporta que houve dois casos confirmados e 18 suspeitos de infecção por Ébola. Três pessoas morreram entre os casos suspeitos e confirmados.
 </doc>
-<doc id='voa_2455693' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-tecnicos-de-saude-e-jornalistas-mortos-na-guine-conacri/2455693.html' term='ebola'>
+<doc docid='voa_2455693' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-tecnicos-de-saude-e-jornalistas-mortos-na-guine-conacri/2455693.html' term='ebola'>
 Ébola: Técnicos de saúde e jornalistas mortos na Guiné-Conacri
 O governo da Guiné-Conacri afirmou que decidiu parar com as actividades de informação sobre o vírus Ébola no sudeste do país depois do assassinato esta semana de sete funcionários sanitários e jornalistas. Outras duas pessoas continuam dadas como desaparecidas.
 Os corpos de quatro funcionários da campanha de informação e de três jornalistas que os acompanhavam foram ontem encontrados numa vala comum. Todos eles tinham desaparecido depois de terem sido atacados na terça-feira por residentes enfurecidos na localidade de Wome.
@@ -2303,13 +2303,13 @@ Trata-se do terceiro ataque do género no sudeste da Guiné-Conacri desde o inic
 Entretanto o ministro da comunicação guineense, Alucine Makanera, disse à VOA que as vítimas apresentavam ferimentos indicativos de que tinham sido atacas com catanas e pedras.
 Makanera afirmou que o procurador público já estava no local para investigar o ataque e que já tinha sido aberto um processo judicial. Acrescentou que muitos residentes de Wome fugiram na sequência do ataque e que as forças de segurança encontram-se agora na localidade. As autoridades detiveram entretanto pelo menos seis pessoas em ligação com os incidentes.
 </doc>
-<doc id='voa_2430779' lang='por' type='mono' source_url='https://www.voaportugues.com/a/nigeria-anuncia-sexta-morte-devido-ao-ebola-a-primeira-fora-de-lagos/2430779.html' term='ebola'>
+<doc docid='voa_2430779' lang='por' type='mono' source_url='https://www.voaportugues.com/a/nigeria-anuncia-sexta-morte-devido-ao-ebola-a-primeira-fora-de-lagos/2430779.html' term='ebola'>
 Nigéria anuncia sexta morte devido ao ébola, a primeira fora de Lagos
 A Nigéria anunciou hoje, 28, que um médico morreu devido ao vírus do ébola na cidade petrolífera de Port-Harcourt, no sudeste do país, sendo a sexta vítima mortal e o primeiro caso que ocorre fora da cidade de Lagos. De acordo com o ministro da Saúde nigeriano Onyebuchi Chukwu, o médico morreu na sexta-feira passada, depois de ter tratado um paciente que tivera contacto com o primeiro caso de ébola na Nigéria.
 Trata-se da sexta morte pelo vírus na Nigéria, num total de 15 casos confirmados, segundo o novo balanço do ministro da Saúde. A doença foi introduzida no país a 20 de Julho por um norte-americano-liberiano, que morreu em Lagos cinco dias depois da sua chegada.
 Ébola - prevenção, sintomas, tratamento
 </doc>
-<doc id='voa_2429764' lang='por' type='mono' source_url='https://www.voaportugues.com/a/2429764.html' term='ebola'>
+<doc docid='voa_2429764' lang='por' type='mono' source_url='https://www.voaportugues.com/a/2429764.html' term='ebola'>
 Autoritarismo e tradição são obstáculos na luta contra o Ébola
 Os países africanos afectados pela epidemia do vírus Ébola continuam a anunciar medidas cada vez mais rigorosas para tentar impedir o alastramento da doença incluindo penas de prisão para as pessoas acusadas de esconderem indivíduos infectados pelo vírus.
 No entanto peritos em saúde pública dizem que medidas desse tipo podem ter um efeito contrário alienando ainda mais as comunidades afectadas.
@@ -2326,12 +2326,12 @@ Segundo o antropólogo conter esta epidemia de Ébola vai ser muito dificil tend
 Visto que o vírus Ébola se transmite por contacto com os fluidos de pessoas infectadas, as mães não podem tocar nos filhos doentes e as famílias não podem enterrar os seus mortos como habitualmente.
 Trata-se segundo Niang do domínio do sagrado, do absoluto, dos laços familiares e das emoções que nos tornam humanos e para se conseguirem resultados positivos o diálogo e a informação têm que substituir a atitude autoritária e paternalista assumida até agora pelos governos dos países afectados pela epidemia de Ébola.
 </doc>
-<doc id='voa_2501942' lang='por' type='mono' source_url='https://www.voaportugues.com/a/casos-de-ebola-diminuem-na-liberia-mas-oms-disse-ser-cedo-para-celebrar/2501942.html' term='ebola'>
+<doc docid='voa_2501942' lang='por' type='mono' source_url='https://www.voaportugues.com/a/casos-de-ebola-diminuem-na-liberia-mas-oms-disse-ser-cedo-para-celebrar/2501942.html' term='ebola'>
 Casos de Ébola diminuem na Libéria, mas OMS disse ser cedo para celebrar
 O número de infectados com ébola parece estar a abrandar na Libéria, mas a crise está longe de acabar, alerta a Organização Mundial de Saúde (OMS). "Parece que a tendência é real na Libéria e pode muito bem haver um abrandamento da epidemia", disse o diretor-geral adjunto da OMS, Bruce Aylward.
 "Há crescentes sinais que estes países vão conseguir vencer isto", afirmou o número dois da organização.
 </doc>
-<doc id='voa_2440936' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-sao-tome-ordena-patrulhas-maritimas/2440936.html' term='ebola'>
+<doc docid='voa_2440936' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-sao-tome-ordena-patrulhas-maritimas/2440936.html' term='ebola'>
 Ébola: São Tomé ordena patrulhas marítimas
 As forças armadas de SãoTome e Príncipe vão começar a patrulhar a costa para impedir a entrada clandestina no pais de imigrantes ilegais da África Ocidental.
 Trata-se de uma medida de prevenção contra o Ébola que já causou a morte de 1.089 pessoas na Libéria, 517 na Guiné-Conacri e 491 na Serra Leoa. A Nigéria, declarou 22 casos e oito mortos.
@@ -2346,7 +2346,7 @@ A OMS disse que o sangue de sobreviventes da doença pode ser usado imediatament
 A OMS disse ainda que vai dar prioridade ao desenvolvimento clinico de duas promissoras vacinas que poderão estar disponíveis até ao fim do ano.
 A directora geral da OMS disse que os testes preliminares das vacinas deverão terminar em Novembro
 </doc>
-<doc id='voa_3356798' lang='por' type='mono' source_url='https://www.voaportugues.com/a/oms-declara-guine-livre-ebola/3356798.html' term='ebola'>
+<doc docid='voa_3356798' lang='por' type='mono' source_url='https://www.voaportugues.com/a/oms-declara-guine-livre-ebola/3356798.html' term='ebola'>
 OMS declara Guiné livre de transmissão activa do Ebola
 A Guiné conseguiu acabar com a transmissão activa do vírus Ébola, informou, hoje, a Organização Mundial de Saúde (OMS).
 É a segunda vez que a entidade declara o fim do surto da doença no país, que esteve no epicentro da epidemia.
@@ -2355,7 +2355,7 @@ A Guiné agora entra num período de 90 dias de aumento da vigilância para gara
 No surto mais recente, sete casos confirmados e três possíveis casos do vírus surgiram entre 17 de março e 6 de abril. Pelo menos cinco pessoas morreram.
 Outros três casos foram registrados na vizinha Libéria em uma mulher que viajou para Guiné com seus dois filhos.
 </doc>
-<doc id='voa_5041887' lang='por' type='mono' source_url='https://www.voaportugues.com/a/%C3%A9bola-continua-a-preocupar-angola/5041887.html' term='ebola'>
+<doc docid='voa_5041887' lang='por' type='mono' source_url='https://www.voaportugues.com/a/%C3%A9bola-continua-a-preocupar-angola/5041887.html' term='ebola'>
 Ébola continua a preocupar Angola
 As autoridades angolanas continuam a reforçar medidas de prevenção do Ébola junto à fronteira da provincia de Malanje com a República Democrática do Congo, mas há receios que a movimentação de pessoas não esteja a ser efectivamente controlada.
 O ex secretário-executivo da CASA-CE na localidade, Saldanha Zungue Pinto, disse existirem vários "caminhos fiotes" não controlados pelas autoridades e frequentemente utilizado por emigrantes ilegais para atingirem o território angolano.
@@ -2371,20 +2371,20 @@ Para além disso foi entregue outro equipamento “para utilizar quando nós tiv
 Na próxima quinta-feira, 15, a delegação multissectorial vai avaliar a prontidão da equipas criadas no município de Marimba que aguardam pelo apetrechamento com mais meios de biossegurança.
 As autoridades angolanas em Malanje controlam os postos fronteiriços de Kikuto, Muheto, Tembo-A-Luma, Mangando, Kinguengue, Ngombe-Atumba e Ngola Paz nos municípios de Marimba e Massango numa extensão fluvial de 147 quilómetros.
 </doc>
-<doc id='voa_3368689' lang='por' type='mono' source_url='https://www.voaportugues.com/a/liberia-novamente-livre-ebola/3368689.html' term='ebola'>
+<doc docid='voa_3368689' lang='por' type='mono' source_url='https://www.voaportugues.com/a/liberia-novamente-livre-ebola/3368689.html' term='ebola'>
 Libéria novamente livre da Ébola
 A Libéria está oficialmente livre do víus da Ébola, anunciou, hoje, a Organização Mundial da Saúde (OMS), após aquele país ter passado 42 dias sem nenhum caso da doença fatal.
 O representante da OMS na Libéria, Dr. Alex Gasasira, elogiou o governo do país por ter respondido com eficiência à epidemia.
 Gasasira disse que a OMS continuará a apoiar a Libéria na prevenção, detecção e tratamento de casos suspeitos.
 É a quarta vez que a OMS decreta o fim da epidemia na Libéria em dois anos. O último surto foi causado por uma mulher que havia se deslocado à Guiné.
 </doc>
-<doc id='voa_3853782' lang='por' type='mono' source_url='https://www.voaportugues.com/a/republica-democratica-congo-ebola/3853782.html' term='ebola'>
+<doc docid='voa_3853782' lang='por' type='mono' source_url='https://www.voaportugues.com/a/republica-democratica-congo-ebola/3853782.html' term='ebola'>
 República Democrática do Congo regista três mortes por ébola
 A República Democrática do Congo (RDC) registou três mortes e 19 casos suspeitos de ébola até esta segunda-feira, 15, revelou a Organização Mundial da Saúde (OMS).
 Os primeiros resultados positivos foram confirmados no dia 11 em duas de cinco amostras recolhidas nas áreas de Nambwa, Mouma e Ngay, regiões remotas onde estão a ser seguidas 125 pessoas que tiveram contactos próximos com pacientes de ébola.
 Os locais mais afectados são de difícil acesso e fazem fronteira com duas províncias da República do Congo e com a República Centro-Africana.
 </doc>
-<doc id='voa_2490055' lang='por' type='mono' source_url='https://www.voaportugues.com/a/guine-conacri-taxistas-acusados/2490055.html' term='ebola'>
+<doc docid='voa_2490055' lang='por' type='mono' source_url='https://www.voaportugues.com/a/guine-conacri-taxistas-acusados/2490055.html' term='ebola'>
 Guiné-Conacri: Taxistas acusados de disseminarem o Ébola
 Na Guiné-Conacri, as autoridades estão a acusar os taxistas de transportarem pessoas infectadas com o Ébola sem notificarem os serviços de saúde. O governo afirma que isso está parcialmente na origem da recente subida de casos da doença.
 A região de Coyah a apenas 50 Km de Conacri está a registar um aumento dos casos de Ébola.
@@ -2398,18 +2398,18 @@ As suspeitas recaem sobretudo nos motociclistas visto que é mais fácil para el
 Segundo Abubakar, os motociclistas transportam algumas pessoas para o hospital mas não atravessam a fronteira. Acrescenta que os taxistas da associação de motoqueiros pedem sempre aos seus passageiros que tomem precauções lavando-se com desinfectante para impedir a propagação da doença.
 Desde o inico do ano verificaram-se mais de 800 óbitos na Guiné-Conacri devido ao Ébola existindo neste momento mais de um milhar de casos, com três novas localidades na lista das zonas infectadas.
 </doc>
-<doc id='voa_2447902' lang='por' type='mono' source_url='https://www.voaportugues.com/a/imigrantes-em-cabo-verde-aprovam-impostas-para-impedir-entrada-do-ebola/2447902.html' term='ebola'>
+<doc docid='voa_2447902' lang='por' type='mono' source_url='https://www.voaportugues.com/a/imigrantes-em-cabo-verde-aprovam-impostas-para-impedir-entrada-do-ebola/2447902.html' term='ebola'>
 Imigrantes em Cabo Verde aprovam restrições impostas para impedir entrada do ébola
 O presidente da Plataforma das Comunidades Imigradas em Cabo Verde congratula-se com as medidas tomadas pelas autoridades cabo-verdianas, visando prevenir a entrada do vírus do ébola no arquipélago.
 Tony Parker disse à VOA que o Governo cabo-verdiano não podia ficar alheio à situação da doença que afecta alguns países da sub-região e, por isso, aprova as medidas preventivas anunciadas.
 Parker afirma revela ainda que que a plataforma que dirige tem desenvolvido campanhas de sensibilização junto dos seus associados, contribuindo dessa forma para prevenir a entrada do doença em Cabo Verde.
 </doc>
-<doc id='voa_2544012' lang='por' type='mono' source_url='https://www.voaportugues.com/a/guine-bissau-vai-reabrir-fronteira-com-conacri/2544012.html' term='ebola'>
+<doc docid='voa_2544012' lang='por' type='mono' source_url='https://www.voaportugues.com/a/guine-bissau-vai-reabrir-fronteira-com-conacri/2544012.html' term='ebola'>
 Guiné-Bissau vai reabrir fronteira com Conacri
 O primeiro-ministro da Guiné-Bissau anunciou que o país vai reabrir a fronteira com a Guiné-Conacri dentro de cinco dias. Segundo Simões Pereira, na cimeira da Comunidade Económica dos Estados da Africa Ocidental (Cedeao) realizada no dia 6 de Novembro, em Accra, os chefes de Estado decidiram reabrir as fronteiras com os países afectados, Guiné-Conacri, Libéria e Serra-Leoa, para evitar a estigmatização da população.
 Domingos Simões Pereira, que se encontrou hoje com o Presidente da República, disse a José Mário Vaz que existe um relatório técnico segundo o qual a Guiné-Bissau precisa de mais "quatro a cinco dias" para "reforçar as estruturas de vigilância sanitária" antes de reabrir a fronteira, encerrada pelo Governo a 12 de Agosto.
 </doc>
-<doc id='voa_3670740' lang='por' type='mono' source_url='https://www.voaportugues.com/a/africa-maior-risco-doencas-transmissiveis/3670740.html' term='ebola'>
+<doc docid='voa_3670740' lang='por' type='mono' source_url='https://www.voaportugues.com/a/africa-maior-risco-doencas-transmissiveis/3670740.html' term='ebola'>
 África com maior risco de doenças transmissíveis, diz a OMS
 A Organização Mundial de Saúde (OMS) procura identificar as principais causas da tendência de subida de mortes por doenças não transmissíveis em África.
 Até 2020, prevê-se a morte de milhões de pessoas no continente. E a subida é gradual na última década.
@@ -2431,23 +2431,23 @@ O consumo de álcool na região é geralmente baixo. Estima-se que dois terços 
 Entre os 32 países pesquisados, o tempo médio gasto em actividade física de intensidade moderada ou alta variou de 21 minutos, por dia, na Mauritânia, a 386 minutos por dia, em Moçambique, com uma mediana de 116 minutos num dia típico. Os homens passam mais tempo a fazer exercício do que as mulheres.
 E a OMS nota que muito pode ser alcançado através de mudanças de estilo de vida - parar de fumar, beber com moderação, aumentar a ingestão de frutas e vegetais e tornar-se mais fisicamente activo.
 </doc>
-<doc id='voa_2510457' lang='por' type='mono' source_url='https://www.voaportugues.com/a/medicamento-contra-o-ebola-tem-sucesso-na-alemanha/2510457.html' term='ebola'>
+<doc docid='voa_2510457' lang='por' type='mono' source_url='https://www.voaportugues.com/a/medicamento-contra-o-ebola-tem-sucesso-na-alemanha/2510457.html' term='ebola'>
 Medicamento contra o Ébola tem sucesso na Alemanha
 Um paciente ugandês que foi infectado com Ébola, na Serra Leoa, internado no Hospital da Universidade de Frankfurt já melhorou significativamente o estado clínico depois de ter sido tratado com recurso a um medicamento experimental, o «FX06», inicialmente criado para tratar problemas vasculares e ajudar doentes com ataques cardíacos.
 O «FX06» foi desenvolvido por cientistas Vienna General Hospital, na Áustria.
 </doc>
-<doc id='voa_2630059' lang='por' type='mono' source_url='https://www.voaportugues.com/a/casos-ebola-cresce-primeira-vez-2015/2630059.html' term='ebola'>
+<doc docid='voa_2630059' lang='por' type='mono' source_url='https://www.voaportugues.com/a/casos-ebola-cresce-primeira-vez-2015/2630059.html' term='ebola'>
 Número de casos de ébola cresce pela primeira vez em 2015
 O número de casos de ébola contabilizados na Guiné-Conacri, Libéria e Serra Leoa aumentou na última semana de Janeiro, o que representa a primeira alta desde o início do ano. "O relatório semanal indica um aumento nos três países, pela primeira vez este ano. Houve 124 novos casos notificados durante a semana", indica a Oorganiação Mundial da Saúde (OMS).
 Segundo as últimas estatísticas, 39 casos foram registrados na Guiné-Conacri, contra 30 na semana passada, cinco na Libéria, contra quatro uma semana antes, e 80 em Serra Leoa, contra 65 durante a semana que terminou em 25 de Janeiro.
 No total, 22.495 pessoas foram infectadas com o vírus em nove países
 </doc>
-<doc id='voa_2421885' lang='por' type='mono' source_url='https://www.voaportugues.com/a/presidente-da-liberia-decreta-recolher-obrigatorio/2421885.html' term='ebola'>
+<doc docid='voa_2421885' lang='por' type='mono' source_url='https://www.voaportugues.com/a/presidente-da-liberia-decreta-recolher-obrigatorio/2421885.html' term='ebola'>
 Presidente da Libéria decreta recolher obrigatório
 A Presidente da Libéria, Ellen Johnson Sirleaf, decretou um recolher obrigatório a partir de hoje, 20, e colocou dois bairros sob quarentena, incluindo um na capital, Monróvia, numa tentativa de conter o surto de Ébola.O recolher obrigatório vigora entre as 21 e as seis horas.
 A Libéria é o país onde a epidemia do vírus ébola já provocou o maior número de mortes – 466 num total de 1.229 registadas –, de acordo com o mais recente balanço da Organização Mundial de Saúde (OMS).
 </doc>
-<doc id='voa_4406795' lang='por' type='mono' source_url='https://www.voaportugues.com/a/malanje-toma-medidas-para-evitar-entrada-do-%C3%A9bola/4406795.html' term='ebola'>
+<doc docid='voa_4406795' lang='por' type='mono' source_url='https://www.voaportugues.com/a/malanje-toma-medidas-para-evitar-entrada-do-%C3%A9bola/4406795.html' term='ebola'>
 Malanje toma medidas para evitar entrada do ébola
 O vice-governador de Malanje para o sector político, económico e social, Domingos Manuel Eduardo, reuniu-se, em regime de urgência, na terça-feira, 22, como grupo multissectorial de prevenção às endemias e calamidades naturais para operacionalizar as medidas de contenção do vírus ébola, frente ao surto da doença na vizinha República Democrática do Congo (RDC).
 Nesta quarta-feira, as primeiras medidas começaram a ser implementadas.
@@ -2467,7 +2467,7 @@ px
 268p | 5,8MB
 320p | 8,6MB
 </doc>
-<doc id='voa_2558215' lang='por' type='mono' source_url='https://www.voaportugues.com/a/caso-suspeito-de-ebola-na-guine-bissau/2558215.html' term='ebola'>
+<doc docid='voa_2558215' lang='por' type='mono' source_url='https://www.voaportugues.com/a/caso-suspeito-de-ebola-na-guine-bissau/2558215.html' term='ebola'>
 Caso suspeito de ébola na Guiné-Bissau
 Um cidadão que entrou na Guiné-Bissau um dia depois da abertura da fronteira com a vizinha Guiné-Conacri está a ser tratado por suspeita de ébola.
 A agência de notícias AFP revelou que o homem, que estava com febre, foi colocado sob vigilância quando tentava atravessar a fronteira de Fulamori na quarta-feira passada, 10.
@@ -2477,7 +2477,7 @@ A mesma fonte indicou que mais oito passageiros foram colocados em quarentena.
 "Nós gostaríamos de ver um maior controlo das fronteiras, com mais agentes da Guarda Nacional a impedir que as pessoas recusem fazer o controlo sanitário”, disse Vieira.
 O Governo da Guiné-Bissau reabriu a fronteira de 300 quiómetros com a Guiné-Conacri no passado dia 9, depois de a ter encerrado a 12 de Agosto devido à epidemia de ébola que começou exactamente no país vizinho.
 </doc>
-<doc id='voa_3993834' lang='por' type='mono' source_url='https://www.voaportugues.com/a/aumenta-499-mortos-serra-leoa/3993834.html' term='ebola'>
+<doc docid='voa_3993834' lang='por' type='mono' source_url='https://www.voaportugues.com/a/aumenta-499-mortos-serra-leoa/3993834.html' term='ebola'>
 Aumenta para 499 número de vítimas do deslizamento de terras na Serra Leoa
 O número de corpos resgatados na Serra Leoa devido aos deslizamentos de terra do passado dia 14 subiu para 499, enquanto mais de 600 continuam desaparecidas.
 A informação foi avançada à Reuters pelo chefe da polícia de Freetown, Seneh Dumbuya, neste domingo, 20.
@@ -2486,14 +2486,14 @@ Na quinta-feira e sexta-feira, 461 corpos foram enterrados em covas comuns num c
 A Cruz Vermelha continua a estimar que mais de 600 pessoas ainda estão desaparecidas.
 As autoridade concentram-se no resgate dos corpos para evitar que os fluidos de cadáveres doentes contaminem o abastecimento de água e disseminem doenças.
 </doc>
-<doc id='voa_2431248' lang='por' type='mono' source_url='https://www.voaportugues.com/a/dezenas-de-imigrantes-ilgais-detidos-em-malanje/2431248.html' term='ebola'>
+<doc docid='voa_2431248' lang='por' type='mono' source_url='https://www.voaportugues.com/a/dezenas-de-imigrantes-ilgais-detidos-em-malanje/2431248.html' term='ebola'>
 Dezenas de imigrantes ilegais foram detidos pelas autoridades em Malanje
 Os efectivos da V Unidade da Polícia de Guarda Fronteiras em Malanje detiveram, durante o primeiro semestre deste ano, mais 80 cidadãos estrangeiros em situação migratória ilegal, anunciou o seu comandante José Chiunda Coragem.
 O responsável, que falava por ocasião das comemorações dos 36 anos da criação daquele ramo da Polícia Nacional, confirmou a notificação de 17 violações de fronteiras fluviais, “23 buscas e recolha dirigidas por permanência ilegal que resultaram na detenção de 88 cidadãos, dos quais 60 do sexo masculino e 28 do sexo feminino, todos da República da República Democrática do Congo”.
 De Janeiro a Junho de 2014 os policias que controlam parte dos 147 quilómetros de fronteira fluvial com a República Democrática do Congo, a norte desta província, recuperaram equipamentos utilizados na exploração ilegal de diamantes, pesca e caça furtiva.
 A província de Malanje, a julgar com o seu potencial mineral e a proximidade com a capital angolana, Luanda, é cobiçada por milhares de estrangeiros civis.
 </doc>
-<doc id='voa_2610558' lang='por' type='mono' source_url='https://www.voaportugues.com/a/serra-leoa-suspende-medidas-de-quarenta-contra-o-ebola/2610558.html' term='ebola'>
+<doc docid='voa_2610558' lang='por' type='mono' source_url='https://www.voaportugues.com/a/serra-leoa-suspende-medidas-de-quarenta-contra-o-ebola/2610558.html' term='ebola'>
 Serra Leoa suspende medidas de quarentena contra o ébola
 O presidente da Serra Leoa Ernest Bai Koroma anunciou o fim de todas as medidas de quarentena para combater o ébola devido ao retrocesso da epidemia no país, que tem o maior número de casos registados. "As restrições ao movimento da população serão reduzidas para fomentar a actividade económica. Já não haverá restrições deste tipo a nível local ou provincial", afirmou Koroma num discurso transmitido pela rádio e pela televisão.
 A epidemia do ébola na África Ocidental, que começou no final de 2013 e provocou cerca de nove mil mortos e mais de 20 mil doentes, iniciou a fase de retrocesso nos três países mais afectados, Libéria, Guiné e Serra Leoa, onde o número de novos casos caiu em Janeiro ao seu menor nível desde Agosto de 2014.
@@ -2501,7 +2501,7 @@ A Organização Mundial de Saúde revelou na quarta-feira, 21, que 145 novos cas
 Apenas oito desses casos vieram de Liberia, uma pequena fracção dos mais de 400 casos por semana verificados durante os meses de Agosto e Setembro.
 Na Serra Leoa, 117 novos casos foram confirmados em Serra Leoa, mas OMS considera que o número de novos pacientes está a diminuir rapidamente. O último número representa uma queda de mais de 50 por cento nas últimas duas semanas.
 </doc>
-<doc id='voa_2471678' lang='por' type='mono' source_url='https://www.voaportugues.com/a/confirmado-doente-com-sintomas-de-ebola-em-washington-dc/2471678.html' term='ebola'>
+<doc docid='voa_2471678' lang='por' type='mono' source_url='https://www.voaportugues.com/a/confirmado-doente-com-sintomas-de-ebola-em-washington-dc/2471678.html' term='ebola'>
 Confirmado doente com sintomas de Ébola em Washington D.C.
 O Howard University Hospital, na área de Washington, anunciou ter recebido um doente com sintomas que podem ser associados aos provocados pelo vírus ébola. O doente está em situação estável.
 Kerry-Ann Hamilton, porta-voz do hospital, anunciou hoje,3, que o paciente, cuja identidade não foi revelada, tinha viajado até à Nigéria.
@@ -2510,21 +2510,21 @@ Fonte hospitalar avançou que o estado do paciente é "estável".
 Uma equipa médica está a trabalhar com o CDC e outras autoridades para acompanhar a condição do paciente.
 O departamento de Saúde dos Estados Unidos emitiu uma declaração sobre o assunto, referindo não existirem casos confirmados de Ébola no Distrito da Columbia.
 </doc>
-<doc id='voa_2939074' lang='por' type='mono' source_url='https://www.voaportugues.com/a/eboal-teste-positivo-em-mulher-morta-na-serra-leoa-revela-sinais-de-retrocesso/2939074.html' term='ebola'>
+<doc docid='voa_2939074' lang='por' type='mono' source_url='https://www.voaportugues.com/a/eboal-teste-positivo-em-mulher-morta-na-serra-leoa-revela-sinais-de-retrocesso/2939074.html' term='ebola'>
 Ébola: Teste positivo em mulher morta na Serra Leoa revela sinais de retrocesso
 O corpo de uma mulher que morreu na Serra Leoa teve teste positivo de vírus da ébola, menos de uma semana depois o país ter celebrado a alta da última pessoa portadora da doença, revelaram profissionais da saúde à Reuters.
 A nova morte, se confirmada, é um revés na tentativa de por fim à epidemia na região, que em um ano e meio infectou 28 mil pessoas.
 A mulher, morta no sábado, tinha 67 anos e morava no distrito de Kambia, na junto à fronteira da Serra Leoa e Guiné.
 O médico-geral da Serra Leoa, Brima Kargbo, disse à Reuters que duas amostras testadas no distrito de Kambia deram positivo. No entanto, novos testes estavam em curso, em Makeni, a principal cidade da província do norte, e em Freetown, a capital.
 </doc>
-<doc id='voa_2573523' lang='por' type='mono' source_url='https://www.voaportugues.com/a/cdc-ebola-exposicao-laboratorio/2573523.html' term='ebola'>
+<doc docid='voa_2573523' lang='por' type='mono' source_url='https://www.voaportugues.com/a/cdc-ebola-exposicao-laboratorio/2573523.html' term='ebola'>
 Técnico de laboratório do CDC pode ter sido exposto ao vírus do Ébola
 O Centro de Controlo de Doenças dos Estados Unidos vulgo CDC - indicou que um técnico de laboratório pode ter sido acidentalmente exposto ao vírus do Ébola.
 A exposição ocorreu no inicio desta semana na sede daquela agencia em Atlanta, no estado da Geórgia, quando uma pequena amostra do vírus foi transferida de um laboratório para outro que não estava equipado para tal.
 O técnico está a ser acompanhado durante o período de 21 dias, período típico de incubação para aquela doença.
 O CDC está a avaliar da possibilidade de outros trabalhadores que entraram no laboratório tenham sido expostos ao vírus.
 </doc>
-<doc id='voa_2580483' lang='por' type='mono' source_url='https://www.voaportugues.com/a/morcegos-angolanos-ebola/2580483.html' term='ebola'>
+<doc docid='voa_2580483' lang='por' type='mono' source_url='https://www.voaportugues.com/a/morcegos-angolanos-ebola/2580483.html' term='ebola'>
 Morcegos angolanos podem ser origem do ébola
 Pesquisadores acreditam que os morcegos são a fonte do vírus que está na base da presente epidemia de ébola na África Ocidental, mas um novo estudo aponta para espécies diferentes do que os morcegos da fruta implicados em anteriores epidemias.
 O vírus do ébola habitualmente passa do animal hospedeiro para os humanos através da contaminação da carne dos animais selvagens. Os caçadores levam para casa um morcego da fruta infectada,um macaco ou um antílope que contraiu o vírus.
@@ -2539,7 +2539,7 @@ Existem cada vez mais dados – mas não existe prova concreta – de que os mor
 Um artigo publicado por Leendertz sustenta que os dados aumentam os reservatórios com a possibilidade do ébola.
 O ébola terá assim começado numa criança numa pequena aldeia guineense, espalhou-se por mais de meia dezena de nações, infectou mais de 20 mil pessoas e matou mais de 7.800.
 </doc>
-<doc id='voa_3910052' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ministerio-publico-investiga-denuncias-corrupcao-governo-domingos-simoes-pereira/3910052.html' term='ebola'>
+<doc docid='voa_3910052' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ministerio-publico-investiga-denuncias-corrupcao-governo-domingos-simoes-pereira/3910052.html' term='ebola'>
 Ministério Público investiga denúncias de corrupção do Governo de Domingos Simões Pereira
 O Ministério Público da Guiné-Bissau vai investigar algumas direções-gerais dos Ministérios das Finanças, das Pescas e dos Transportes que apresentam indícios de práticas de crime de corrupção durante o o primeiro Governo do PAIGC, liderado por Domingos Simões Pereira.
 Fonte da Procuradoria Geral da República revelou à VOA que o Ministério Público concluiu, na semana passada, as investigações relacionadas com os casos conhecidos como Resgate dos Bancos Comerciais, que envolve os Ministérios da Economia e das Finanças, assim como os processos ligados aos sectores das Pescas e dos Transportes.
@@ -2552,39 +2552,39 @@ Contactada pela VOA, uma fonte junto da defesa dos visados confirma a acusação
 Estes processos ganham força no momento em que o Inspetor Superior de Luta Contra Corrupção qualificou de “grave” o nível da corrupção no país e afirmou que o fenómeno está a desestruturar os órgãos de soberania tal como, “a doença do Ébola.
 Francisco Benante fez estas declarações à Agência de Notícias da Guiné depois das recentes denúncias feitas pela Policia Judiciária sobre a alegada existência de uma rede que lucrava com o desvio de cheques e de medicamentos no Hospital Nacional Simão Mendes, a maior unidade hospitalar do país.
 </doc>
-<doc id='voa_2493389' lang='por' type='mono' source_url='https://www.voaportugues.com/a/eua-segundo-teste-vacina-ebola/2493389.html' term='ebola'>
+<doc docid='voa_2493389' lang='por' type='mono' source_url='https://www.voaportugues.com/a/eua-segundo-teste-vacina-ebola/2493389.html' term='ebola'>
 Começa nos EUA segundo teste com vacina canadiana contra Ébola
 Um segundo teste clínico, em humanos, com uma vacina experimental canadiana contra o ébola começou a ser realizado nos Institutos Nacionais de Saúde (NIH, na sigla em inglês), informaram fontes oficiais. Conhecido como VSV-ZEBOV, o imunizante foi desenvolvido por cientistas da Agência de Saúde Pública do Laboratório Nacional de Microbiologia do Canada e licenciado para a americana NewLink Genetics Corp., sediada no estado americano de Iowa.
 O último teste consiste em aplicar duas doses, uma estratégia conhecida como dose inicial-reforço (ou "prime boost"), em 39 adultos saudáveis para verificar a resposta do sistema imunológico. No início deste mês, o Instituto Walter Reed de Pesquisas do Exército americano iniciou o seu teste próprio com a VSV-ZEBOV como uma vacina de dose única nas suas instalações, em Maryland, também nos EUA.
 A VSV-ZEBOV é uma das duas vacinas experimentais que a Organização Mundial da Saúde (OMS) disse ter apresentado resultados promissores quando testadas em macacos. A outra é fabricada pela farmacêutica britânica GlaxoSmithKline (GSK) e pelo Instituto Nacional de Alergia e Doenças Infecciosas dos Estados Unidos (NIAID).
 </doc>
-<doc id='voa_4408019' lang='por' type='mono' source_url='https://www.voaportugues.com/a/rdc-regista-30-casos-confirmados-de-%C3%A9bola/4408019.html' term='ebola'>
+<doc docid='voa_4408019' lang='por' type='mono' source_url='https://www.voaportugues.com/a/rdc-regista-30-casos-confirmados-de-%C3%A9bola/4408019.html' term='ebola'>
 RDC regista 30 casos confirmados de ébola
 O Governo da República Democrática do Congo (RDC) revelou nesta quinta-feira, 24, a existência de 30 casos confirmados com o vírus do ébola, e 22 mortes.
 O Ministério da Saúde indicou haver também 14 casos prováveis e 14 suspeitos de ébola.
 As autoridades e a Organização Mundial da Saúde iniciaram na segunda-feira, 21, uma campanha de vacinação que vai cobrir, nesta primeira fase, 600 pessoas.
 Por outro lado, o Governo congolês pediu às autoridades dos Estados Unidos para autorizar o uso de um tratamento experimental à base de anticorpos, desenvolvido pelo investigador Jean-Jacques Muyembe a partir de um sobrevivente de ébola em 1995 e que foi usado em macacos.
 </doc>
-<doc id='voa_2691081' lang='por' type='mono' source_url='https://www.voaportugues.com/a/medicos-sem-fronteiras-criticam-resposta-internacional-combate-ebola/2691081.html' term='ebola'>
+<doc docid='voa_2691081' lang='por' type='mono' source_url='https://www.voaportugues.com/a/medicos-sem-fronteiras-criticam-resposta-internacional-combate-ebola/2691081.html' term='ebola'>
 Médicos Sem Fronteiras criticam resposta internacional no combate ao ébola
 Os Médicos Sem Fronteiras(MSF) criticaram hoje, 23, a lenta resposta da comunidade internacional no combate ao ébola, num relatório que descreve os “horrores indescritíveis” que a agência humanitária presenciou durante o trabalho contra a doença.
 Um ano depois do início da epidemia de ébola, mais de 10.000 pessoas morreram e cerca de 25.000 foram infectadas pelo vírus, que foi identificado pela primeira vez na zona ocidental de África, principalmente na Guiné-Conacri, Libéria e Serra Leoa.
 Para os MSF, “meses e vidas perderam-se” porque a Organização Mundial de Saúde(OMS), que “é responsável por liderar emergências de saúde globais e que detém o conhecimento para controlar o surto”, falhou em responder de forma rápida e adequada. O relatório acusa a Rede Global de Alerta e Resposta da OMS (GOARN, na sigla em inglês) de ignorar os pedidos de ajuda desesperados dos técnicos em Junho.
 </doc>
-<doc id='voa_2942005' lang='por' type='mono' source_url='https://www.voaportugues.com/a/serra-leoa-50-pessoas-em-quarentena-ebola/2942005.html' term='ebola'>
+<doc docid='voa_2942005' lang='por' type='mono' source_url='https://www.voaportugues.com/a/serra-leoa-50-pessoas-em-quarentena-ebola/2942005.html' term='ebola'>
 Ébola: 50 pessoas em quarentena após novo caso na Serra Leoa
 Os serviços de saúde da Serra Leoa colocaram, esta semana, 50 pessoas em quarentena, após novo caso de morte, semana passada.
 As 50 pessoas em observação são da vila de Sella Kafta, no distrito nortenho de Kambia, onde ocorreu a morte por ébola, depois de o país ter celebrado a alta do considerado último doente.
 Especialistas de saúde procuram determinar a origem da contaminação.
 </doc>
-<doc id='voa_4810618' lang='por' type='mono' source_url='https://www.voaportugues.com/a/novo-presidente-da-rdc-promete-libertar-presos-politicos-e-autorizar-regresso-de-exilados/4810618.html' term='ebola'>
+<doc docid='voa_4810618' lang='por' type='mono' source_url='https://www.voaportugues.com/a/novo-presidente-da-rdc-promete-libertar-presos-politicos-e-autorizar-regresso-de-exilados/4810618.html' term='ebola'>
 Novo presidente da RDC promete libertar presos políticos e autorizar regresso de exilados
 O novo presidente da República Democrática do Congo, Félix Tshisekedi, prometeu hoje amnistiar dentro de dias presos condenados por motivos políticos e de trabalhar para um regresso rápido dos exilados políticos.
 Tshisekedi disse que estas medidas se destinam a aliviar as tensões no país e acrescentou que tenciona também libertar condicionalmente todas as pessoas detidas durante manifestações registadas antes das eleições do passado dia 30 de Dezembro.
 O presidente apelou aos congoleses para “mudarem de mentalidade nomeadamente no que diz respeito à vida humana, pelo direito e pela liberdade de todos”.
 Felix Tshisekedi deu a conhecer um programa governamental de emergência de 78 páginas em que promete reabilitar e construir estradas, escolas, hospitais e um centro de tratamento de ébola.
 </doc>
-<doc id='voa_2510863' lang='por' type='mono' source_url='https://www.voaportugues.com/a/cabo-verde-poe-em-quarentena-barcos-chineses-provenientes-da-serra-leoa/2510863.html' term='ebola'>
+<doc docid='voa_2510863' lang='por' type='mono' source_url='https://www.voaportugues.com/a/cabo-verde-poe-em-quarentena-barcos-chineses-provenientes-da-serra-leoa/2510863.html' term='ebola'>
 Cabo Verde põe em quarentena barcos chineses provenientes da Serra Leoa
 Em Cabo Verde as autoridades puseram hoje, 6, em quarentena 10 barcos de pesca chineses com um total de 109 tripulantes a bordo provenientes da Serra Leoa como forma de prevenção contra o vírus do ébola. O Governo de da Praia autorizou a ida dos barcos aos estaleiros navais da Cabnave, em S.Vicente, mas só poderão entrar depois do período de 21 dias de observação estipulado pela Organização Mundial da Saúde.
 O Governo de Cabo Verde proibiu a entrada de pessoas provenientes da Libéria, Serra Leoa e Guiné-Conacri, países que enfrentam uma epidemia de ébola. No entanto, como o primeiro-ministro José Maria Neves disse ter sido aberta uma excepção para receber os barcos porque "se encontravam ao largo da Serra Leoa, portanto sem contacto com pessoas eventualmente infectadas com ébola.
@@ -2592,19 +2592,19 @@ Neves garante, entretanto, que o caso está a ser seguido pelas autoridades.
 Apesar das medidas consideradas radicais tomadas pelo seu Governo ao impedir a entrada de qualquer pessoa proveniente dos países afectados pelo ébola, José Maria Neves diz que as actividades não param.
 Recorde-se que em Agosto as autoridades cabo-verdianos tinham colocado em quarentena os tripulantes de um barco chinês proveniente da Libéria.
 </doc>
-<doc id='voa_2411758' lang='por' type='mono' source_url='https://www.voaportugues.com/a/canada-vai-doar-a-oms-ate-mil-doses-da-vacina-experimental/2411758.html' term='ebola'>
+<doc docid='voa_2411758' lang='por' type='mono' source_url='https://www.voaportugues.com/a/canada-vai-doar-a-oms-ate-mil-doses-da-vacina-experimental/2411758.html' term='ebola'>
 Canadá vai doar à OMS até mil doses da vacina experimental
 O Canadá anunciou que vai doar à Organização Mundial de Saúde(OMS) até mil doses de um medicamento experimental contra o ébola para a sua utilização nos países africanos mais afectados pela epidemia. A ministra da Saúde do Canadá Rona Ambrose disse em comunicado estar "satisfeita por oferecer a vacina experimental desenvolvida por investigadores canadianos".
 Rona Ambrose afirmouque o Canadá vai doar entre 800 e 1.000 doses do medicamento, das cerca de 1.500 que detém.
 </doc>
-<doc id='voa_2484569' lang='por' type='mono' source_url='https://www.voaportugues.com/a/profissional-de-saude-infectado-com-ebola-em-dallas/2484569.html' term='ebola'>
+<doc docid='voa_2484569' lang='por' type='mono' source_url='https://www.voaportugues.com/a/profissional-de-saude-infectado-com-ebola-em-dallas/2484569.html' term='ebola'>
 Mais um profissional de saúde infectado com Ébola em Dallas
 Um segundo profissional da saúde do Estado americano do Texas, que tratou o primeiro paciente nos Estados Unidos a ser diagnosticado com Ébola, está infectado com o vírus, revelou hoje o departamento estadual de Serviços de Saúde.
 O funcionário do Texas Health Presbyterian Hospital, cujo nome não foi revelado e que cuidou do liberiano Thomas Eric Duncan, a primeira pessoa a morrer de Ébola nos EUA, foi imediatamente isolado depois de dizer que tinha febre ontem.
 "As autoridades de saúde entrevistaram o último paciente para identificar rapidamente quaisquer contactos ou exposições potenciais, e essas pessoas serão monitorados", disse o departamento.
 Mais sobre o Ébola
 </doc>
-<doc id='voa_2569608' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-ja-matou-7518-pessoas-na-africa-ocidental/2569608.html' term='ebola'>
+<doc docid='voa_2569608' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-ja-matou-7518-pessoas-na-africa-ocidental/2569608.html' term='ebola'>
 Ébola já matou 7.518 pessoas na África Ocidental
 A Organização Mundial de Saúde(ONS) revelou hoje, 22, que o vírus do ébola matou 7.518 pessoas, de um total de 19.340 infetados nos três países mais afetados.
 Na Serra Leoa, o ébola provocou a morte a 2.556 pessoas e a infeção a 8.939.
@@ -2613,7 +2613,7 @@ Além dos três países mais afetados, o balanço de vítimas mortais manteve-se
 No Senegal e em Espanha, países que registaram, respetivamente, apenas um caso e que foram declarados como livres do vírus do ébola, não foram verificadas vítimas mortais.
 A OMS indicou ainda que, ao longo da actual epidemia, os profissionais de saúde também foram afectados pela doença. Há registo de 649 profissionais de saúde infetados com o vírus, dos quais 365 morreram.
 </doc>
-<doc id='voa_2600941' lang='por' type='mono' source_url='https://www.voaportugues.com/a/can-arranca-sabado-17-janeiro/2600941.html' term='ebola'>
+<doc docid='voa_2600941' lang='por' type='mono' source_url='https://www.voaportugues.com/a/can-arranca-sabado-17-janeiro/2600941.html' term='ebola'>
 CAN arranca este Sábado, 17 de Janeiro
 O primeiro jogo entre a Guiné Equatorial e o Congo Brazzaville está marcado para as 11h00 (hora de Washington DC) e às 14h, Burquina Faso e o Gabão estarão em campo.
 A Guiné Equatorial vai ser anfitriã de umas das mais importantes competições do mundo do futebol durante um mês e pela segunda vez em três anos - Marrocos seria o palco do CAN 2015, mas desistiu devido à epidemia do Ébola.
@@ -2621,7 +2621,7 @@ Estão 16 selecções africanas em disputa, do título que foi conquistado pela 
 No grupo A estão a Guiné Equatorial, Burquina Faso, Gabão e Congo Brazzaville, enquanto no B, que jogará no Domingo, estão Cabo Verde, Zâmbia, República Democrática do Congo e Tunísia.
 O Gana, o Senegal, a África do Sul e a Argélia compõem o grupo C e no D encontramos as selecções dos Camarões, Guiné Conacri, Mali e Costa do Marfim.
 </doc>
-<doc id='voa_2621019' lang='por' type='mono' source_url='https://www.voaportugues.com/a/uniao-africana-combate-boko-haram/2621019.html' term='ebola'>
+<doc docid='voa_2621019' lang='por' type='mono' source_url='https://www.voaportugues.com/a/uniao-africana-combate-boko-haram/2621019.html' term='ebola'>
 UA cria força militar para combater Boko Haram
 A União Africana manifestou apoio esta sexta-feira, 30, aos planos de criação de uma força regional de 7.500 homens para combater o grupo militante Boko Haram.
 A notícia foi revelada na abertura da cimeira anual da organização que iniciou hoje na capital etíope, Addis Abeba.
@@ -2636,26 +2636,26 @@ Os dirigentes africanos têm encontrado nos seus países uma crescente resistên
 Na semana passada, opositores do presidente congolês Joseph Kabila forçaram alterações à nova lei eleitoral que, na sua forma inicial, teria permitido ao presidente permanecer no cargo durante a realização de um recenseamento populacional.
 Em Outubro, o presidente do Burkina Faso Blaise Compaore foi forçado a demitir-se após 27 anos devido a protestos contra a alteração constitucional do limite de mandatos.
 </doc>
-<doc id='voa_1256536' lang='por' type='mono' source_url='https://www.voaportugues.com/a/a-38-2009-01-09-voa2-92247934/1256536.html' term='ebola'>
+<doc docid='voa_1256536' lang='por' type='mono' source_url='https://www.voaportugues.com/a/a-38-2009-01-09-voa2-92247934/1256536.html' term='ebola'>
 Virus Ebola controlado no Congo
 No Congo
 Kinshasa o surto de Ébola verificado na zona fronteiriça com Angola parace agora estar sob controle. Contudo, o
 encerramento da fronteira comum continua a causar problemas às populações da região.
 </doc>
-<doc id='voa_1891650' lang='por' type='mono' source_url='https://www.voaportugues.com/a/autoridades-sanit%C3%A1rias-da-guin%C3%A9-bissau-avan%C3%A7am-com-plano-de-preven%C3%A7%C3%A3o-do-v%C3%ADrus-do-%C3%A9bola/1891650.html' term='ebola'>
+<doc docid='voa_1891650' lang='por' type='mono' source_url='https://www.voaportugues.com/a/autoridades-sanit%C3%A1rias-da-guin%C3%A9-bissau-avan%C3%A7am-com-plano-de-preven%C3%A7%C3%A3o-do-v%C3%ADrus-do-%C3%A9bola/1891650.html' term='ebola'>
 Autoridades sanitárias da Guiné-Bissau avançam com plano de prevenção do vírus do Ébola
 As autoridades sanitárias da Guiné-Bissau puseram em acção um plano de prevenção e resposta contra a doença provocada pelo vírus do Ébola, que já vitimou dezenas de pessoas na vizinha República da Guiné.
 Orçado em cerca de 170 mil dólares americanos, o plano inclui a activação de equipas de triagem sanitária no aeroporto e nos diferentes postos fronteiriços com a Guiné-Conakri, conforme disse à VOA Cristóvão Majuba, director de Serviços de Doenças Transmissíveis e não Transmissíveis do Ministério da Saúde Publica, em Bissau.
 Questionado sobre o facto de as fronteiras se manterem abertas, ao contrário de outros países vizinhos da República da Guiné, Cristóvão Majuba, que relega essa responsabilidade para o Governo, mas diz que as medidas tomadas controlam os movimentos perto das fronteiras.
 As autoridades guineenses dispõem já de alguns medicamentos sintomáticos para eventuais contágios e máscaras para o pessoal de saúde que venham a ser eventualmente afectados à luta contra o vírus da ébola.
 </doc>
-<doc id='voa_2479221' lang='por' type='mono' source_url='https://www.voaportugues.com/a/primeiro-suspeito-de-ebola-no-brasil-chega-ao-rio-de-janeiro/2479221.html' term='ebola'>
+<doc docid='voa_2479221' lang='por' type='mono' source_url='https://www.voaportugues.com/a/primeiro-suspeito-de-ebola-no-brasil-chega-ao-rio-de-janeiro/2479221.html' term='ebola'>
 Primeiro suspeito de Ébola no Brasil chega ao Rio de Janeiro
 O Ministério da Saúde confirmou, em comunicado, o primeiro caso de suspeita de infecção por ébola no Brasil. Trata-se de um missionário de 47 anos, que foi da Guiné-Concari para o Paraná no dia 17 de Setembro. O paciente foi isolado numa unidade de saúde em Cascavel (a 498 quilómetros de Curitiba). O local foi evacuado e os pacientes transferidos para outros hospitais.
 O missionário apresenta quadro de febre alta e hemorragia, segundo o comunicado da Secretaria Estadual de Saúde. O paciente foi transferido esta manhã para o Instituto Nacional de Infectologia Evandro Chagas (Fiocruz), no Rio de Janeiro.
 Por estar no vigésimo primeiro dia, limite máximo para o período de incubação da doença, foi considerado caso suspeito, seguindo os protocolos internacionais para a enfermidade.
 </doc>
-<doc id='voa_2607009' lang='por' type='mono' source_url='https://www.voaportugues.com/a/obama-diz-que-o-pais-saiu-da-sombra-da-crise/2607009.html' term='ebola'>
+<doc docid='voa_2607009' lang='por' type='mono' source_url='https://www.voaportugues.com/a/obama-diz-que-o-pais-saiu-da-sombra-da-crise/2607009.html' term='ebola'>
 Obama diz que o país saiu da "sombra da crise"
 O Presidente Barack Obama saudou os avanços económicos alcançados pelo seu Governo nos últimos anos e disse aos seus adversários republicanos para “virarem a página”, apoiando a sua agenda doméstica que, segundo disse, visa melhorar a situação da classe média americana.
 No que diz respeito à política externa, o Presidente disse que os Estados Unidos reservam-se o direito de actuar unilateralmente no combate contra aqueles que constituem uma ameaça ao país e aos seus aliados.
@@ -2690,7 +2690,7 @@ Ernst criticou, contudo, a nova lei de saúde aprovada pelo anterior Congresso, 
 Ernst disse que o Congresso dominado pelos Republicanos quer pôr o Congresso a trabalhar para resolver “de novo as preocupações” do eleitorado.
 “Estamos a começar a trabalhar para mudar a direcção que Washington tem dado ao nosso país”, concluiu a senadora republicana.
 </doc>
-<doc id='voa_2471455' lang='por' type='mono' source_url='https://www.voaportugues.com/a/cabo-verde-impede-entrada-de-cidadas-americanos-e-residentes-que-tenham-estado-nos-eua/2471455.html' term='ebola'>
+<doc docid='voa_2471455' lang='por' type='mono' source_url='https://www.voaportugues.com/a/cabo-verde-impede-entrada-de-cidadas-americanos-e-residentes-que-tenham-estado-nos-eua/2471455.html' term='ebola'>
 Cabo Verde proíbe entrada de cidadãos americanos no país
 O Governo de Cabo Verde proibiu a partir de hoje, 3, a entrada de cidadãos americanos e estrangeiros não residentes no arquipélago que tenham visitado os Estados Unidos nos últimos 30 dias, na sequência do primeiro caso de ébola registado no país. Os Estados Unidos passam, assim, a integrar a lista negra do Governo cabo-verdiano, juntamente com a Guiné-Conacri, Serra Leoa, Libéria, Senegal e Nigéria.
 A decisão, tomada ontem pelo Conselho de Ministros, foi anunciada hoje pela ministra–adjunta e da Saúde Cristina Fontes Lima. Apesar de não haver qualquer suspensão de voos a partir dos Estados Unidos, para onde a companhia cabo-verdiana TACV viaja duas vezes por semana, apenas poderão entrar os nacionais e estrangeiros residentes no arquipélago, mas há excepções, nomeadamente de índole humanitário e de interesse público.
@@ -2701,21 +2701,21 @@ A responsável pela pasta da Saúde reconheceu que essa decisão tem afectado a 
 "Há que fazer um equilíbrio e temos conseguido isso", garantiu.
 Um liberiano foi internado no domingo, 28 de Setembro, em Dallas, com ébola, depois de ter visitado o seu país de origem. Thomas Eric Duncan encontra-se em estado crítico mas estável.
 </doc>
-<doc id='voa_2544001' lang='por' type='mono' source_url='https://www.voaportugues.com/a/oms-eleva-para-6070-o-numero-de-mortos-devido-a-epidemia-de-ebola/2544001.html' term='ebola'>
+<doc docid='voa_2544001' lang='por' type='mono' source_url='https://www.voaportugues.com/a/oms-eleva-para-6070-o-numero-de-mortos-devido-a-epidemia-de-ebola/2544001.html' term='ebola'>
 OMS eleva para 6.070 número de mortos devido à epidemia de ébola
 O número de mortos na epidemia da febre hemorrágica do vírus do ébola nos três países mais afectados pela doença África Ocidental chegou a 6.070 de um total de 17.145 pessoas infectadas, segundo o novo boletim da Organização Mundial da Saúde (OMS).
 Na véspera, a OMS tinha anunciado, em Genebra, ter cometido um erro no registo de vítimas na Libéria, o que fez a organização rever de 7.000 para 6.000 o número de óbitos.
 Entretanto o Governo da Serra Leoa colocou em quarentena o distrito de Tonkolili (centro), onde a população é estimada em cerca de 400.000 habitantes, para conter a propagação da doença.A medida tem a duração de duas semanas. Tonkolili junta-se, assim, a outros cinco distritos serra-leoneses mantidos em quarentena por tempo indeterminado.
 Mais sobre o ébola
 </doc>
-<doc id='voa_2943495' lang='por' type='mono' source_url='https://www.voaportugues.com/a/liberia-novamente-livre-da-ebola/2943495.html' term='ebola'>
+<doc docid='voa_2943495' lang='por' type='mono' source_url='https://www.voaportugues.com/a/liberia-novamente-livre-da-ebola/2943495.html' term='ebola'>
 Libéria novamente livre da Ébola
 A Organização Mundial da Saúde (OMS) declarou, pela segunda vez, a Libéria livre da Ébola, 42 dias depois não ter sido confirmado nenhum caso em laboratório.
 Ao fazer o anuncio hoje, a OMS sublinhou que a Libéria deverá observar 90 dias de vigilância para verificar se não há novos casos do vírus.
 A Libéria havia sido declarada livre da Ébola a 9 de Maio, mas a meio de período de vigilância uma jovem de 17 anos foi diagnosticada e morreu.
 De seguida, foram registados, pelo menos, mais cinco casos, tendo dois perdido a vida.
 </doc>
-<doc id='voa_2462549' lang='por' type='mono' source_url='https://www.voaportugues.com/a/obama-apela-a-esforco-mundial-para-combater-o-ebola/2462549.html' term='ebola'>
+<doc docid='voa_2462549' lang='por' type='mono' source_url='https://www.voaportugues.com/a/obama-apela-a-esforco-mundial-para-combater-o-ebola/2462549.html' term='ebola'>
 Obama apela a esforço mundial para combater o ébola
 O presidente dos Estados Unidos Barack Obama diz interessado em trabalhar com qualquer país que esteja disposto a combater a epidemia do vírus do ébola. Ao falar hoje, 25, numa sessão especial sobre o ébola nas Nações Unidas, em Nova Iorque, Obama lembrou que muitas pessoas irão morrer devido ao vírus e pediu uma acção mundial para parar esta que, para ele, é mais do que uma crise de saúde.
 Apesar da situação existente nos países afectados e dos casos que não param de aumentar, Barack Obama disse acreditar que os esforços internacionais poderão impedir o avanço da epidemia e tratar os doentes.
@@ -2727,7 +2727,7 @@ Entretanto, ele insistiu que organizações e empresas internacionais devem agir
 Na mesma sessão especial nas Nações Unidas, a directora-geral da Organização Mundial da Saúde Margaret Chan alertou que a epidemia está na sua fase de alerta máximo e lembrou que a situação vai piorar ainda mais, antes de começar a melhorar.
 Chan apelou a um envolvimento maior dos líderes mundiais.
 </doc>
-<doc id='voa_2482456' lang='por' type='mono' source_url='https://www.voaportugues.com/a/serra-leoa-ebola/2482456.html' term='ebola'>
+<doc docid='voa_2482456' lang='por' type='mono' source_url='https://www.voaportugues.com/a/serra-leoa-ebola/2482456.html' term='ebola'>
 Serra Leoa: Ébola destrói vidas e tradições
 Na África Ocidental as tradições estão a sofrer com o Ébola. Os rituais que acompanham os enterros já não são possíveis. Desde Junho, que o governo da Serra Leoa decretou que todos os óbitos sejam considerados suspeitos e que devem ser processados por equipas treinadas em Ébola. O repórter da VOA, Adam Bailes, deslocou-se a Kailahun onde foi criada a primeira equipa de gestão de cadáveres da Serra Leoa.
 Quando chegámos ao distrito de Kailahun, a Serra Leoa estava a entrar no terceiro dia do recolher ordenado pelo governo. Todo o país devia ficar em casa para permitir a identificação de casos de Ébola e a disseminação de informação.
@@ -2740,13 +2740,13 @@ Os mais velhos finalmente e com relutância deixaram o enterro prosseguir. Os vi
 Philips leva a equipa até à casa. Desinfectam tudo quanto possa estar contaminado. Philip Brima acha tudo isso muito estranho: “ O saco onde estão a metê-la é bastante estranho para nós assim como a maneira como estão vestidos e como fazem as coisas pulverizando tudo, nós não podemos fazer assim”
 Philip segue a equipa dos coveiros liderando muitos residentes desta aldeia de 800 pessoas. Nenhuma mulher foi ao enterro. O medo foi mais forte.
 </doc>
-<doc id='voa_2490735' lang='por' type='mono' source_url='https://www.voaportugues.com/a/governo-de-marrocos-pede-fatwa-para-eviatr-propagacao-do-ebola/2490735.html' term='ebola'>
+<doc docid='voa_2490735' lang='por' type='mono' source_url='https://www.voaportugues.com/a/governo-de-marrocos-pede-fatwa-para-eviatr-propagacao-do-ebola/2490735.html' term='ebola'>
 Governo de Marrocos pede "fatwa" para evitar propagação do Ébola
 O governo de Marrocos pediu hoje, 21, ao Conselho de Ulemas um 'fatwa' (decreto religioso) que permita contornar a tradição de lavar os cadáveres no caso de vítimas do vírus Ébola. Segundo a imprensa marroquina, o Ministério de Saúde fez o pedido ao organismo oficial encarregue da emissão de fatwas como medida preventiva contra o possível contágio.
 Os rituais fúnebres muçulmanos exigem que os cadáveres sejam lavados e envoltos numa mortalha antes de serem enterrados, mas o Ministério da Saúde marroquino justificou o pedido l com o facto de o contacto com cadáveres contaminados com ébola ser uma das principais formas de transmissão do vírus.
 Até ao momento não foi registado qualquer caso de infecção com ébola em Marrocos, mas as autoridades de saúde admitem que existe algum risco e que já estão a aplicar medidas de prevenção como sensores de temperatura, disponibilização de ambulâncias com equipamento específico e a presença de pessoal e unidades especializadas em aeroportos, portos e fronteiras terrestres.
 </doc>
-<doc id='voa_1253713' lang='por' type='mono' source_url='https://www.voaportugues.com/a/a-38-2005-05-27-voa4-92225114/1253713.html' term='ebola'>
+<doc docid='voa_1253713' lang='por' type='mono' source_url='https://www.voaportugues.com/a/a-38-2005-05-27-voa4-92225114/1253713.html' term='ebola'>
 Ajudar na protecção contra a propagação de doenças à escala mundial
 O Director-geral da Organização Mundial de Saúde, Lee Jong-wook, classificou as novas normas como constituindo um passo importante para a saúde à escala internacional:
 ”...os novos regulamentos vão ajudar na protecção contra a propagação de doenças à escala mundial, ajudando ainda a estimular respostas da comunidade internacional ao surto de epidemias e outras emergências de saúde publica no século 21....”
@@ -2757,7 +2757,7 @@ O coordenador dos novos regulamentos da Organização Mundial de Saúde, Max Har
 ”...por isso existem razões práticas para os países serem mais transparentes e abertos com a Organização Mundial de Saúde, partilhando a informação. Além disso, no âmbito dos regulamentos que acabam de ser aprovados, as nações assumem obrigações de informarem a OMS para que esta tome medidas necessárias de protecção da saúde publica à escala mundial...”
 O coordenador da OMS sublinha que na idade da alta tecnologia de comunicação entre as nações, as epidemias se espalham muito rapidamente a todos lados do globo. Sublinha que o objectivo principal dos novos regulamentos é garantir tanto quanto possível a protecção da saúde das pessoas contra a contaminação à escala mundial, minimizando dessa forma o impacto e as interferências dos cruzamentos das pessoas e do comercio internacionais. Mas quando for necessário, a OMS diz que poderá impor quarentenas e restrições de viagens entre as nações.
 </doc>
-<doc id='voa_2432425' lang='por' type='mono' source_url='https://www.voaportugues.com/a/nigerianos-suspeitam-de-centros-de-tratamento-do-ebola/2432425.html' term='ebola'>
+<doc docid='voa_2432425' lang='por' type='mono' source_url='https://www.voaportugues.com/a/nigerianos-suspeitam-de-centros-de-tratamento-do-ebola/2432425.html' term='ebola'>
 Nigerianos suspeitam de centros de tratamento do ébola
 No momento em que o vírus do ébola alastra-se pela África Ocidental, alguns nigerianos estão a resistir à ideia de construir unidades de isolamento dos doentes na sua vizinhança.
 Em muitas partes da Nigéria, os residentes dizem que têm mais medo do ébola do que do Boko Haram, o grupo extremista islâmica que já matou vários milhares de pessoas só este ano.
@@ -2769,12 +2769,12 @@ Chukwu afirma que os residentes de Kaduna e de outras localidades que se oopuser
 Entretanto, os manifestantes não temem apenas ser infectados. Os nigerianos estão a assistir pela televisão às terríveis imagens provenientes de Monróvia, na Libéria, onde a quarentena forçada de bairros inteiros causou confrontos entre soldados e os residentes.
 Em Kaduna, onde milhares de pessoas morreram em confrontos nas duas últimas décadas, os comícios e manifestações públicas estão proibidos. Mesmo assim muitos residentes desceram à rua por causa dos planos para a criação de centros de tratamento do ébola e dizem que os mesmos desencadeariam mais manifestações e violência.
 </doc>
-<doc id='voa_2427028' lang='por' type='mono' source_url='https://www.voaportugues.com/a/japao-oferece-medicamento-experimental-contra-o-ebola/2427028.html' term='ebola'>
+<doc docid='voa_2427028' lang='por' type='mono' source_url='https://www.voaportugues.com/a/japao-oferece-medicamento-experimental-contra-o-ebola/2427028.html' term='ebola'>
 Japão oferece medicamento experimental contra o ébola
 O Governo japonês diz estar pronto a oferecer um medicamento experimental desenvolvido no país para travar o surto de ébola. Segundo o porta-voz governamental Yoshihide Suga, caso a Organização Mundial de Saúde o requeira, o Japão pode "fornecer o medicamento que está pronto para ser aprovado e num trabalho de cooperação com o produtor».
 A Organização Mundial de Saúde (OMS) tem analisado a utilização de medicamentos ainda não aprovados como uma forma de combater a epidemia ébola em África que já fez 1.427 vítimas mortais em 2.615 casos identificados.
 </doc>
-<doc id='voa_4399607' lang='por' type='mono' source_url='https://www.voaportugues.com/a/mo%C3%A7ambique-refor%C3%A7a-fronteira-devido-a-%C3%A9bola/4399607.html' term='ebola'>
+<doc docid='voa_4399607' lang='por' type='mono' source_url='https://www.voaportugues.com/a/mo%C3%A7ambique-refor%C3%A7a-fronteira-devido-a-%C3%A9bola/4399607.html' term='ebola'>
 Moçambique em alerta devido a ébola
 O Governo de Moçambique anunciou ter reforçado a partir desta sexta-feira, 18, a vigilância epidemiológica nas fronteiras do país, devido ao surto de ébola que afecta a República Democrática do Congo (RDC).
 Apesar de não existir qualquer sinal ou foco da doença no país, o Ministério da Saúde decidiu reforçar a vigilância devido ao fluxo de entrada de emigrantes provenientes de países afectados ou com algum grau de risco da doença.
@@ -2782,13 +2782,13 @@ De acordo com Lídia Congo, porta-voz do Ministério da Saúde, a posição de M
 "É que apesar de não existir qualquer sinal ou foco da ébola, o país conta actualmente com um elevado fluxo de entrada de emigrantes provenientes de países afectados ou com algum grau de risco da doença, o que exige uma prontidão para responder a qualquer eventualidade", justifica.
 As brigadas de saúde estarão posicionadas nas zonas de fronteira e aeroportos, de modo a detectar eventuais casos suspeitos da doença, permitindo assim o seu seguimento e tratamento atempados.
 </doc>
-<doc id='voa_2471246' lang='por' type='mono' source_url='https://www.voaportugues.com/a/familiares-de-doente-de-ebola-presos-em-casa-nos-eua/2471246.html' term='ebola'>
+<doc docid='voa_2471246' lang='por' type='mono' source_url='https://www.voaportugues.com/a/familiares-de-doente-de-ebola-presos-em-casa-nos-eua/2471246.html' term='ebola'>
 Familiares de doente de ébola presos em casa nos EUA
 Quatro familiares do cidadão liberiado infectado com o vírus do ébola foram obrigados a ficar em casa de quarentena como precaução, adiantaram as autoridades de saúde.
 Até agora, as autoridades de saúde estão a monitorar cerca de 100 pessoas que poderão ter tido contacto com Thomas Duncan enquanto a companhia aérea que o trouxe da Libéria via Europa tenta contactar todos os passeiros que fizeram o mesmo trajecto que o doente.
 Dunca está em estado crítico, mas estável.
 </doc>
-<doc id='voa_4718475' lang='por' type='mono' source_url='https://www.voaportugues.com/a/viol%C3%AAncia-continua-a-marcar-elei%C3%A7%C3%B5es-da-rep%C3%BAblica-democr%C3%A1tica-do-congo/4718475.html' term='ebola'>
+<doc docid='voa_4718475' lang='por' type='mono' source_url='https://www.voaportugues.com/a/viol%C3%AAncia-continua-a-marcar-elei%C3%A7%C3%B5es-da-rep%C3%BAblica-democr%C3%A1tica-do-congo/4718475.html' term='ebola'>
 Violência continua a marcar eleições da República Democrática do Congo
 Na República Democrática do Congo (RDC) a polícia disparou tiros e usou gás lacrimogéneo para dispersar nesta quinta-feira, 27, dezenas de manifestantes que protestavam na cidade de Beni, pelo facto de as eleições, que se realizam em todo o país no próximo domingo, terem sido adiadas para Março.
 Os manifestantes queimaram pneus e ergueram barricadas.
@@ -2800,7 +2800,7 @@ Uma delegação da Comunidade de Desenvolvimento da África Austral e da Confer�
 Veja Também
 2Rs, a África Ocidental - Eleições no Congo Democrático
 </doc>
-<doc id='voa_2428680' lang='por' type='mono' source_url='https://www.voaportugues.com/a/nigeria-governo-tenta-impedir/2428680.html' term='ebola'>
+<doc docid='voa_2428680' lang='por' type='mono' source_url='https://www.voaportugues.com/a/nigeria-governo-tenta-impedir/2428680.html' term='ebola'>
 Nigéria: Governo tenta impedir caça em Kaduna para travar vírus Ébola
 O governo nigeriano está a promover uma campanha para impedir a caça ou a captura de animais selvagens temendo uma maior propagação do vírus Ébola.
 Contudo no momento em que a época da caça está prestes a começar no final da época das chuvas alguns caçadores dizem que apesar do risco vão voltar ao trabalho.
@@ -2813,19 +2813,19 @@ No fim-de-semana a República Democrática do Congo tornou-se no quinto país a 
 Um porta-voz do estado de Kaduna, Ahmed Maiyakim, disse-nos que as forças de segurança estão a fazer cumprir a proibição de caça de modo a tentar para com a venda de carne de animais bravios nos mercados locais: “Nós temos a responsabilidade de salvaguardar as vidas do nosso povo. Estamos portanto a pedir a toda a gente que cumpra com a lei e se abstenham de fazerem coisas que podem ser perigosos para a saúde pública e causar mortes.”
 Resta agora saber se a campanha terá sucesso ou se a necessidade de alimentos poderá suplantar o medo do vírus Ébola.
 </doc>
-<doc id='voa_1882983' lang='por' type='mono' source_url='https://www.voaportugues.com/a/novos-casos-de-%C3%A9bola-na-guin%C3%A9-conacri/1882983.html' term='ebola'>
+<doc docid='voa_1882983' lang='por' type='mono' source_url='https://www.voaportugues.com/a/novos-casos-de-%C3%A9bola-na-guin%C3%A9-conacri/1882983.html' term='ebola'>
 Novos casos de Ébola na Guiné Conacri
 Novos casos de pessoas afectadas pelo vírus ébola foram confirmados na Guiné-Conacri, onde equipas médicas locais e internacionais actuam para tentar impedir a propagação da epidemia de febre hemorrágica que provocou 78 mortes desde Janeiro.
 "No total, 122 casos suspeitos de pessoas afectadas por febre hemorrágica viral, incluindo 78 fatais, foram registados até sábado na Guiné, o que significa uma taxa de mortalidade de 63 por cento", afirma um boletim do Ministério da Saúde. De 22 mostras positivas para ébola, metade dos casos correspondem à capital Conacri e o restante a cidades do sul, Gueckedou (seis casos) e Macenta (cinco casos), epicentro da epidemia.
 Em Conacri, o medo de contaminação provocou medidas desesperadas: vários moradores estão refugiados em casa ou limitam os deslocamentos. Um show do cantor senegalês Yussou N'dour, previsto para sábado, foi anulado "por solidariedade com as vítimas e para evitar a exposição dos espectadores a uma possível contaminação".
 </doc>
-<doc id='voa_2423104' lang='por' type='mono' source_url='https://www.voaportugues.com/a/hospital-na-ilha-cabo-verdiana-do-sal-prepara-quarto-para-eventuais-casos-de-ebola/2423104.html' term='ebola'>
+<doc docid='voa_2423104' lang='por' type='mono' source_url='https://www.voaportugues.com/a/hospital-na-ilha-cabo-verdiana-do-sal-prepara-quarto-para-eventuais-casos-de-ebola/2423104.html' term='ebola'>
 Hospital na ilha cabo-verdiana do Sal prepara quarto para eventuais casos de ébola
 A delegada da Saúde, no Sal afirmou que a ilha já tem o seu plano de contingência do vírus ébola e que o hospital regional tem preparado um quarto isolado para acolher eventuais casos.
 Há duas semanas na preparação deste plano, Ana Paula Santos disse à Inforpress, que os técnicos da saúde local assistiram através de vídeo-conferência com o Hospital Agostinho Neto (HAN), o Ministério da Saúde, uma primeira abordagem da parte técnica sobre esta questão.
 A responsável da saúde sublinhou que os serviços hospitalares na ilha estão de alerta, tendo já leitos isolados para receber casos suspeitos de pessoas vindas dos países africanos que enfrentam epidemia da doença - Guiné, Serra Leoa, Libéria e Nigéria.
 </doc>
-<doc id='voa_4402052' lang='por' type='mono' source_url='https://www.voaportugues.com/a/confirmada-mais-uma-morte-por-%C3%A9bola-rep%C3%BAblica-democr%C3%A1tica-do-congo/4402052.html' term='ebola'>
+<doc docid='voa_4402052' lang='por' type='mono' source_url='https://www.voaportugues.com/a/confirmada-mais-uma-morte-por-%C3%A9bola-rep%C3%BAblica-democr%C3%A1tica-do-congo/4402052.html' term='ebola'>
 Confirmada mais uma morte por Ébola na República Democrática do Congo
 O Ministério da Saúde da República Democrática do Congo (RDC) anunciou uma nova morte do Ebola, neste domingo, elevando para 26 o número de vítimas do surto mortal na província de Equateur, no noroeste do país
 Quatro novos casos do vírus Ebola foram confirmados na República Democrática do Congo, de acordo com a declaração mais recente do Ministério da Saúde do país.
@@ -2839,13 +2839,13 @@ Uma nova vacina experimental deve ser administrada a partir do início da próxi
 Quatro mil doses já estão no Congo e mais remessas estão a caminho. Agentes de saúde congoleses deverão manter a vacina fria, num país com deficientes infraestruturas.
 Este é o nono surto de ébola no Congo em mais de 40 anos. Os primeiros foram limitados a áreas rurais. Houve dois surtos na capital de Kinshasa, que tem uma população de 10 milhões de pessoas, mas foram rapidamente travados.
 </doc>
-<doc id='voa_2424426' lang='por' type='mono' source_url='https://www.voaportugues.com/a/febre-hemorragica-de-origem-indeterminada-causa-13-mortes-na-rdc/2424426.html' term='ebola'>
+<doc docid='voa_2424426' lang='por' type='mono' source_url='https://www.voaportugues.com/a/febre-hemorragica-de-origem-indeterminada-causa-13-mortes-na-rdc/2424426.html' term='ebola'>
 Febre hemorrágica de origem indeterminada causa 13 mortes na RDC
 Treze pessoas morreram vítimas de uma febre hemorrágica "de origem indeterminada" desde o dia 11 de Agosto no noroeste da República Democrática do Congo (RDC), país onde foi descoberto o vírus ébola anos atrás.
 "As vítimas tiveram febre, diarreia, vômitos e, na fase terminal, vômitos de material escuro", revelou o médico Félix Kabange Numbi. Neste momento "cerca de 80 pessoas que mantiveram contacto" com as vítimas estão a ser atendidas em casa em quatro áreas delimitadas, situadas no território de Boende, província do Equador, disse a mesma fonte.
 As autoridades criaram comissões encarregadas de acompanhar os pacientes, incluindo higiene, saneamento e sepultamento em segurança.Foram também extraídas amostras que serão analisadas no Instituto Nacional de Pesquisa Biomédica (INRB) e no laboratório gabonês de Franceville para determinar a origem exacta da doença e os "resultados devem sair em sete dias", revelou Numbi.
 </doc>
-<doc id='voa_2432287' lang='por' type='mono' source_url='https://www.voaportugues.com/a/senegal-regista-primeiro-caso-de-ebola/2432287.html' term='ebola'>
+<doc docid='voa_2432287' lang='por' type='mono' source_url='https://www.voaportugues.com/a/senegal-regista-primeiro-caso-de-ebola/2432287.html' term='ebola'>
 Senegal regista primeiro caso de ébola
 A ministra da Saúde do Senegal Awa Marie Coll Seck confirmou hoje, 29, o primeiro caso de ébola no país, o que aumenta os temores de que a epidemia chegue a outras países da região, como Guiné-Bissau, que faz fronteira com o país, e Cabo Verde para onde há voos diários.
 O paciente é um estudante guineense da Universidade de Conacry, de 21 anos. Ele está em quarentena no Hospital Fann, em Dakar, onde chegou com sinais de hemorragia na última quarta-feira, 27.
@@ -2855,7 +2855,7 @@ De acordo com a Organização Mundial de Saúde (OMS), o vírus já fez 1.552 v�
 A notícia deve elevar o alerta nos países da região e de várias partes do mundo, considerando que a capital Dakar é uma plataforma de voos internacionais.
 O alerta também deverá ser dado pelos governos da Guiné-Bissau e Cabo Verde. O Senegal tem uma vasta fronteira com a Guiné-Bissau, enquanto Dakar e Praia, a capital de Cabo Verde, tem voos diários entre si.
 </doc>
-<doc id='voa_4736894' lang='por' type='mono' source_url='https://www.voaportugues.com/a/felix-tshisekedi-tshilombo-eleito-presidente-da-rdc/4736894.html' term='ebola'>
+<doc docid='voa_4736894' lang='por' type='mono' source_url='https://www.voaportugues.com/a/felix-tshisekedi-tshilombo-eleito-presidente-da-rdc/4736894.html' term='ebola'>
 Felix Tshisekedi Tshilombo eleito Presidente da RDC
 Felix Tshisekedi Tshilombo é o novo Presidente da República Democrática do Congo (RDC) ao obter 38,57 dos votos de acordo com o presidente da Comissão Nacional Eleitoral.
 "Tendo obtido 7.051.013 votos válidos, ou 38,57%, é proclamado provisoriamente Presidente da República Democrática do Congo, Sr. Tshisekedi Tshilombo Félix", disse Corneille Nangaa no fim da noite de quarta-feira, 9.
@@ -2870,7 +2870,7 @@ Diplomatas citados pela Associated Press, sob anonimato, confirmam que os dados 
 "Em 2006, a vitória de Jean-Pierre Bemba foi roubada. Em 2011, a vitória de Etienne Tshisekedi foi roubada. Em 2018, a vitória não será roubada a Martin Fayulu", garantiu o líder da coligação opositora.
 As eleições de 30 de Dezembro, com 21 candidatos presidenciais, não se realizaram em todo o território, uma vez que a Comissão Eleitoral decidiu adiar para 19 de Março o cto eleitoral nas cidades de Beni, Butembo e Yumbi, devido à epidemia do Ébola e aos conflitos dos grupos armados.
 </doc>
-<doc id='voa_2518687' lang='por' type='mono' source_url='https://www.voaportugues.com/a/metade-dos-paises-do-g20-fracassou-na-resposta-mundial-ao-surto-de-ebola/2518687.html' term='ebola'>
+<doc docid='voa_2518687' lang='por' type='mono' source_url='https://www.voaportugues.com/a/metade-dos-paises-do-g20-fracassou-na-resposta-mundial-ao-surto-de-ebola/2518687.html' term='ebola'>
 Metade dos países do G20 fracassou na resposta mundial ao surto de ébola
 Nove das 20 maiores economias do mundo não conseguiram fornecer apoio adequado à luta global contra a epidemia do ébola, que já matou mais de 5.000 pessoas na África Ocidental, afirmou a organização social Oxfam, com sede em Londres.
 Apesar dos apelos urgentes para a assistência, Argentina, Indonésia, Arábia Saudita e Turquia não fizeram nenhuma contribuição enquanto que Brasil, Índia, México, Rússia e França deveriam ter feito muito mais, segundo a organização.
@@ -2878,7 +2878,7 @@ Do G20, Estados Unidos, Grã-Bretanha e União Europeia têm assumido maior resp
 No entanto, o primeiro-ministro australiano, Tony Abbott, que será o anfitrião da cimeira sugeriu que a questão em torno do combate ao ébola não deveria estar na agenda do G20 porque a crise não é de natureza econômica.
 Mais sobre o Ébola
 </doc>
-<doc id='voa_2423605' lang='por' type='mono' source_url='https://www.voaportugues.com/a/o-que-e-o-ebola-e-quais-os-sintomas/2423605.html' term='ebola'>
+<doc docid='voa_2423605' lang='por' type='mono' source_url='https://www.voaportugues.com/a/o-que-e-o-ebola-e-quais-os-sintomas/2423605.html' term='ebola'>
 Ébola, o que é e quais os sintomas?
 É uma febre hemorrágica
 Actua fazendo as vítimas sangrar de quase todo o corpo. Normalmente as vítimas sangram até à morte.
@@ -2891,7 +2891,7 @@ Ainda Não tem cura
 O ébola não tem tratamento ou vacinas específicos
 O tratamento padrão para a doença limita-se à terapia de apoio, que consiste em hidratar o paciente, manter seus níveis de oxigênio e pressão sanguínea e tratar quaisquer infecções. Apesar das dificuldades para diagnosticar o Ebola nos estágios iniciais da doença, aqueles que apresentam os sintomas devem ser isolados e os profissionais de saúde pública notificados. A terapia de apoio pode continuar, desde que sejam utilizadas as vestimentas de proteção apropriadas até que amostras do paciente sejam testadas para confirmar a infecção.
 </doc>
-<doc id='voa_1258225' lang='por' type='mono' source_url='https://www.voaportugues.com/a/a-38-2005-06-08-voa4-92517034/1258225.html' term='ebola'>
+<doc docid='voa_1258225' lang='por' type='mono' source_url='https://www.voaportugues.com/a/a-38-2005-06-08-voa4-92517034/1258225.html' term='ebola'>
 Testadas com exito duas novas vacinas
 Num estudo publicado na ultima edição da revista Nature Medicine, os cientistas revelam ter testado com êxito duas novas vacinas em macacos.
 O doutor Thomas Geisbert, um dos autores do estudo e especialista em virologia do Instituto de Doenças Infecciosas do Centro de Pesquisa do Exercito dos Estados unidos, localizado em Fort Detrick, no estado de Maryland, referiu que os existo obtidos nos testes com macacos constitui um indicador promissor do uso potencial das vacinas na protecção de seres humanos contra os vírus do Ebola e de Marburg.
@@ -2906,7 +2906,7 @@ O doutor Jones acrescenta pensar que a vacina apresenta boas perspectivas de em 
 “Um dos factores deste vírus reside no facto de existir um caso numa família, com frequência transmite-se aos entes queridos que os tratam. Transmitindo-se de um membro da família para outro, quando existe um caso destes pode-se vacinar os que têm contacto com a pessoa e tentar assim suster o ciclo de transmissão.”
 Os pesquisadores canadianos e americanos iniciaram em 2001 a trabalhar intensivamente nas vacinas, e acrescentam que vai demorar ainda alguns anos ate que possam ser efectuados testes em seres humanos, e talvez mesmo seis anos antes de as vacinas poderem vir a ser autorizadas para utilização.
 </doc>
-<doc id='voa_2423765' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-esta-na-cidade/2423765.html' term='ebola'>
+<doc docid='voa_2423765' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-esta-na-cidade/2423765.html' term='ebola'>
 Ébola está na cidade
 Será que uma música pode mudar as mentalidades das pessoas no que toca ao ébola?
 Em Maio deste ano três cantores liberianos concluíram que as pessoas não estavam a levar a sério o surto do ébola. As pessoas pensavam que era uma forma do Governo roubar o seu dinheiro.
@@ -2929,7 +2929,7 @@ renderExternalContent("https://www.youtube.com/embed/1_WOR22-SnY?&&&fs=1&enablej
 Ebola - Black Diamond
 renderExternalContent("https://www.youtube.com/embed/SLan7OZnT_w?&&&fs=1&enablejsapi=1")
 </doc>
-<doc id='voa_1261739' lang='por' type='mono' source_url='https://www.voaportugues.com/a/article-12-06-2011-ebola-vaccine-135108683/1261739.html' term='ebola'>
+<doc docid='voa_1261739' lang='por' type='mono' source_url='https://www.voaportugues.com/a/article-12-06-2011-ebola-vaccine-135108683/1261739.html' term='ebola'>
 Nova vacina contra o Ebola
 Um grupo de cientistas desenvolveu uma vacina que protege os ratos contra o vírus mortal do Ebola.
 Inicialmente identificado em 1976, o Ebola mata mais de 90 por cento das pessoas que infecta.
@@ -2941,13 +2941,13 @@ Todas as vacinas anteriores têm dependido da injecção de partículas do víru
 A nova vacina contem uma proteína sintética, que estimula o sistema imunitário a reconhecer mais facilmente o vírus da Ebola, sendo mais estável mesmo quando armazenada a longo prazo.
 A próxima etapa vai ser experimentar a vacina numa estirpe do Ebola que seja mais próximo daquele que infecta os seres humanos.
 </doc>
-<doc id='voa_1949115' lang='por' type='mono' source_url='https://www.voaportugues.com/a/oms-e-11-paises-debatem-hoje-epidemia-no-gana/1949115.html' term='ebola'>
+<doc docid='voa_1949115' lang='por' type='mono' source_url='https://www.voaportugues.com/a/oms-e-11-paises-debatem-hoje-epidemia-no-gana/1949115.html' term='ebola'>
 OMS e 11 países debatem hoje a epidemia no Gana
 A capital do Gana acolhe hoje uma reunião de emergência convocada pela Organização Mundial da Saúde (OMS) entre a OMS e 11 países africanos com o objectivo de preparar uma nova ofensiva ao surto de Ébola, que tem vindo a agravar-se.Até agora, contabilizam-se 763 pessoas infectadas com o vírus, entre os quais 468 perderam a vida. A maioria dos casos foram na Guiné, onde o surto teve início.
 Desde então, espalhou-se pela Libéria e Serra Leoa e é hoje considerado o maior e mais mortal surto de Ébola de sempre.
 Além dos países afectados, participam na reunião responsáveis da Costa do Marfim, República Democrática do Congo, Gâmbia, Gana, Guiné Bissau, Mali, Senegal e Uganda foram convidadas a integrar esta reunião.
 </doc>
-<doc id='voa_3849745' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-provoca-morto-republica-democratica-congo/3849745.html' term='ebola'>
+<doc docid='voa_3849745' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-provoca-morto-republica-democratica-congo/3849745.html' term='ebola'>
 Ébola provoca um morto na República Democrática do Congo
 Uma pessoa foi diagnosticada com o vírus do ébola na República Democrática do Congo (RDC), informou o Ministério da Saúde em comunicado divulgado nesta sexta-feira, 12.
 O paciente morreu.
@@ -2955,14 +2955,14 @@ O caso foi confirmado após testes em nove pessoas que tiveram febre hemorrágic
 A Organização Mundial da Saúde (OMS) afirmou noTwitter ter sido notificada do caso pelo Governo da RDC ontem.
 Um porta-voz da OMS disse que a agência está a levar a situação "muito seriamente".
 </doc>
-<doc id='voa_2479654' lang='por' type='mono' source_url='https://www.voaportugues.com/a/autoridades-brasileiras-investigam-caso-supeito-de-ebola/2479654.html' term='ebola'>
+<doc docid='voa_2479654' lang='por' type='mono' source_url='https://www.voaportugues.com/a/autoridades-brasileiras-investigam-caso-supeito-de-ebola/2479654.html' term='ebola'>
 Autoridades brasileiras investigam caso suspeito de ébola
 As autoridades brasileiras investigam o primeiro caso de suspeita de ébola no país. Um cidadão da Guiné-Conacri, um dos países africanos afectados pela epidemia, está isolado no Rio de Janeiro, enquanto são realizados exames que devem confirmar ou não a doença
 De acordo com o Governo brasileiro, a situação está sob controlo e, desde que foi dado o alerta vermelho para um possível caso de ébola no Brasil, todas as providências foram tomadas dentro dos prazos e dos padrões estabelecidos mundialmente.
 O cidadão da Guiné-Conacri, Souleymane Bah, de 47 anos, desembarcou no Brasil em Guarulhos, São Paulo, no último dia 19. Depois, ele seguiu para Cascavel, no Paraná. Nesta quinta-feira, ele procurou uma unidade de atendimento depois de apresentar sintomas de febre. Assim que a Secretaria de Estado da Saúde do Paraná identificou a suspeita, foi feita a notificação ao Ministério da Saúde brasileiro. Souleymane foi, então, transferido do Estado do Sul do Brasil para o Rio de Janeiro, onde está hospitalizado num hospital de referência.
 Em conferência de imprensa hoje, 10, o ministro da Saúde Arthur Chioro informou que o primeiro resultado dos exames sai em 24 horas. De acordo com Chioro, de todo jeito, será necessário um segundo exame. O ministro brasileiro afirmou que mais de 60 pessoas são monitoradas, em grau maior ou menor, por terem tido algum tido de contato com o paciente com suspeita de ébola.
 </doc>
-<doc id='voa_2930408' lang='por' type='mono' source_url='https://www.voaportugues.com/a/diplomata-americano-diz-que-guine-bissau/2930408.html' term='ebola'>
+<doc docid='voa_2930408' lang='por' type='mono' source_url='https://www.voaportugues.com/a/diplomata-americano-diz-que-guine-bissau/2930408.html' term='ebola'>
 Diplomata americano diz que Guiné-Bissau precisa de estabilidade para consolidar democracia
 A Guiné-Bissau precisa de estabilidade, a longo prazo, para poder consolidar e fortalecer as suas instituições democráticas.
 A afirmação é de Gregory Garland, encarregado pelos assuntos da Guiné-Bissau na Embaixada dos Estados Unidos em Dakar, Senegal.
@@ -2973,7 +2973,7 @@ Garland disse que as forças armadas guineenses têm tido um bom desempanho no p
 Bissau tem conseguido importantes apoios de Washington em diferentes sectores, com destaque para a saúde.
 Nesse contexto, nos últimos oito meses, médicos do Centro de Controlo de Doenças e Prevenção dos Estados Unidos ajuda as autoridades na plaificação do combate à Ébola e outras doenças infeciosas.
 </doc>
-<doc id='voa_2516132' lang='por' type='mono' source_url='https://www.voaportugues.com/a/especialistas-da-oms-analisam-combate-ao-ebola-na-guine-bissau/2516132.html' term='ebola'>
+<doc docid='voa_2516132' lang='por' type='mono' source_url='https://www.voaportugues.com/a/especialistas-da-oms-analisam-combate-ao-ebola-na-guine-bissau/2516132.html' term='ebola'>
 Especialistas da OMS analisam combate ao ébola na Guiné-Bissau
 Encontra-se desde ontem, 10, na Guiné-Bissau uma equipa internacional de especialistas da Organização Mundial da Saúde para avaliar o nível de preparação do país para lidar com eventuais casos de ébola. Vizinho da Guiné-Conacri, onde começou a actual epidemia de ébola, o país está numa das áreas consideradas em risco pelo OMS.
 As autoridades guineenses elaboraram uma estratégia para impedir a entrada do ébola no país, mas enfrentam muitas dificuldades técnicas e materiais.
@@ -2984,25 +2984,25 @@ Ungerer disse que mais países lusófonos deverão ser visitadaos, sem no entant
 O grupo de médicos deve abordar também a questão das práticas seguras de enterro para ajudar a controlar o ébola.
 A deslocação dos médicos da OMS deve culminar com a elaboração de um plano de actuação para os próximos seis meses.
 </doc>
-<doc id='voa_2494870' lang='por' type='mono' source_url='https://www.voaportugues.com/a/nova-iorque-confirma-primeiro-caso-de-ebola/2494870.html' term='ebola'>
+<doc docid='voa_2494870' lang='por' type='mono' source_url='https://www.voaportugues.com/a/nova-iorque-confirma-primeiro-caso-de-ebola/2494870.html' term='ebola'>
 Nova Iorque confirma primeiro caso de Ébola
 Um médico americano que regressou recentemente a Nova Iorque depois de tratar doentes com Ébola na África Ocidental foi declarado doente ontem, 23. O médico foi colocado em isolamento, naquele que é o primeiro caso de Ébola diagnosticado em Nova Iorque e o quarto nos Estados Unidos.
 Craig Spencer, de 33 anos, trabalhou na África Ocidental ao serviço da organização Médicos Sem Fronteiras. O "mayor" Bill de Blasio e o governador de Nova Iorque, Andrew Cuomo, procuraram tranquilizar os oito milhões de habitantes, ao afirmarem que o contágio do Ébola era extremamente difícil de ocorrer.
 As autoridades informaram que o doente concluiu o seu trabalho na Guiné-Conacri a 12 de Outubro e deixou o país dois dias depois, via Europa.
 </doc>
-<doc id='voa_2492024' lang='por' type='mono' source_url='https://www.voaportugues.com/a/enfermeira-infectada-com-ebola-em-espanha-livre-da-doenca/2492024.html' term='ebola'>
+<doc docid='voa_2492024' lang='por' type='mono' source_url='https://www.voaportugues.com/a/enfermeira-infectada-com-ebola-em-espanha-livre-da-doenca/2492024.html' term='ebola'>
 Enfermeira infectada com o Ébola em Espanha está livre da doença
 enfermeira espanhola infectada com o Ébola em Madrid enquanto tratava de um padre que morreu vítima do vírus está livre da doença, depois de os testes terem dado negativo. "Consideramos que ela está curada do vírus Ébola segundo os critérios da Organização Mundial da Saúde", disse José Ramon Arribas, médico no hospital Carlos 3º, em Madrid, onde a enfermeira recebeu tratamento.
 Teresa Romero, de 44 anos, foi diagnosticada com o Ébola há duas semanas, tornando-se a primeira pessoa a contrair a doença fora da África Ocidental no actual surto, em que milhares de pessoas já morreram na Libéria, Serra Leoa e Guiné Conacri.
 Entretanto, ela não receberá alta do hospital até que esteja plenamente recuperada.
 </doc>
-<doc id='voa_2483129' lang='por' type='mono' source_url='https://www.voaportugues.com/a/medico-onu-com-ebola-morreu-na-alemanha/2483129.html' term='ebola'>
+<doc docid='voa_2483129' lang='por' type='mono' source_url='https://www.voaportugues.com/a/medico-onu-com-ebola-morreu-na-alemanha/2483129.html' term='ebola'>
 Médico da ONU com ébola morreu na Alemanha
 Um médico da ONU contaminado com o vírus do ébola enquanto trabalhava na Libéria morreu numa clínica em Leipzig, na Alemanha, onde estava sendo tratado, informou a instituição nesta Terça-feira, 14. " Apesar do intenso tratamento médico e o máximo esforço da equipa médica, o funcionário da ONU, de 56 anos, sucumbiu à grave doença infecciosa", disse o hospital.
 O médico, que não foi identificado, foi levado para a Alemanha na semana passada e era o terceiro paciente com ébola a ser tratado no país.
 Mais notícias sobre o Ébola
 </doc>
-<doc id='voa_2617094' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-domina-cimeira-da-uniao-africana/2617094.html' term='ebola'>
+<doc docid='voa_2617094' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ebola-domina-cimeira-da-uniao-africana/2617094.html' term='ebola'>
 Ébola domina Cimeira da União Africana
 A epidemia de ébola na África Ocidental ocupa este ano lugar de destaque na cimeira da União Africana, que decorre em Adis Abeba.
 Basta entrar no edifício da União Africana na capital etíope para perceber que o espectro do ébola está presente.
@@ -3014,20 +3014,20 @@ Apesar dos países africanos terem prometido milhões de dólares para ajudar no
 Ao falar à margem da cimeira, o director daquela organização Sipho Moyo fez um apelo para que os países africanos acelerem a sua assistência: "Continua a haver um grande fosso entre o dinheiro que foi prometido e aquele que foi disponibilizado. Até agora poucos países cumpriram as suas promessas”, acusou.
 Moyo especificou que vários países, incluindo a Costa do Marfim, o Quénia, a Namibia e a Nigéria, prometeram dinheiro, mas até agora não materializaram as suas promessas.
 </doc>
-<doc id='voa_2526144' lang='por' type='mono' source_url='https://www.voaportugues.com/a/uniao-africana-anuncia-26-milhoes-de-euros-para-o-combate-ao-ebola/2526144.html' term='ebola'>
+<doc docid='voa_2526144' lang='por' type='mono' source_url='https://www.voaportugues.com/a/uniao-africana-anuncia-26-milhoes-de-euros-para-o-combate-ao-ebola/2526144.html' term='ebola'>
 União Africana anuncia 26 milhões de euros para o combate ao ébola
 A União Africana conseguiu, em 10 dias, reunir 26 milhões de euros em doações do sector privado do continente africano destinados ao fundo para a luta contra o vírus do Ébola.
 A presidente da Comissão da União Africana, Nkosazana Dlamini Zuma, divulgou as doações anunciadas e comunicadas aos organizadores do fundo por quinze empresas e instituições africanas e disse que as doações será entregues até 1 de Dezembro.
 Zuma anunciou também que "antes do Natal" a organização vai enviar cerca de mil profissionais de saúde para os principais países afectados pela epidemia e disse sentir-se "esperançada" pela resposta do sector privado. Ela aproveitou para instar as associações comerciais africanas a potenciar as doações das empresas de cada país.
 Tudo sobre o Ébola
 </doc>
-<doc id='voa_2452612' lang='por' type='mono' source_url='https://www.voaportugues.com/a/sindicato-de-professores-da-nigeria-boicota-aulas-por-medo-do-ebola/2452612.html' term='ebola'>
+<doc docid='voa_2452612' lang='por' type='mono' source_url='https://www.voaportugues.com/a/sindicato-de-professores-da-nigeria-boicota-aulas-por-medo-do-ebola/2452612.html' term='ebola'>
 Sindicato de professores da Nigéria boicota aulas por medo do ébola
 O Sindicato dos Professores Nigerianos (NUT) apelou aos seus membros para boicotarem as aulas no dia da reabertura das escolas, que está agendada para 22 de Setembro, em protesto contra a inadequada preparação contra o ébola.
 O governo federal da Nigéria anunciou que todas as escolas primárias e secundárias públicas, que permaneceram encerradas por receio da ébola devem reabrir na próxima semana.
 O presidente da NUT Michael Olukoya disse a jornalistas em Abuja, a capital do país, que as escolas vão permanecer encerradas até que sejam criadas as condições apropriadas para a protecção dos seus membros e estudantes contra a doença. Olukoya disse que enquanto os governos dos Estados não darem formação aos professores sobre como lidar com o ébola e fornecerem os necessários termómetros infravermelhos às escolas, incluindo outras facilidades, tais como água da torneira e detergentes para as mãos, os professores não deverão retomar as aulas.
 </doc>
-<doc id='voa_2451333' lang='por' type='mono' source_url='https://www.voaportugues.com/a/estados-unidos-intensificam-combate-ao-ebola/2451333.html' term='ebola'>
+<doc docid='voa_2451333' lang='por' type='mono' source_url='https://www.voaportugues.com/a/estados-unidos-intensificam-combate-ao-ebola/2451333.html' term='ebola'>
 Estados Unidos intensificam combate ao Ébola
 O Presidente Barack Obama anuncia hoje, 16, em Atlanta uma expansão da ajuda dos Estados Unidos no combate ao Ébola na África ocidental.
 Barack Obama está esta tarde no Centro de Controlo de Doenças, conhecido pela sigla CDC, onde o seu director o, Tom Frieden, disse que a epidemia está a ficar fora de controlo.
@@ -3047,7 +3047,7 @@ Numa recente entrevista ao programa da cadeia da televisão NBC, "Meet the Press
 “Se não fizermos este esforço agora e isto se alastrar não só através de África mas a outras partes do mundo, há possibilidade do vírus entrar em mutação. Nesse caso pode tornar-se de mais fácil transmissão e então isso poderá ser um perigo grave para os Estados Unidos” disse o Presidente.
 Nessa entrevista, o Presidente Obama disse que as forças militares americanas irão ajudar na instalação de unidade de isolamento e irão também fornecer segurança a trabalhadores de organizações humanitárias internacionais a combaterem a epidemia.
 </doc>
-<doc id='voa_4821448' lang='por' type='mono' source_url='https://www.voaportugues.com/a/rdc-mil%C3%ADcia-mai-mai-ataca-centro-de-tratamento-de-%C3%A9bola/4821448.html' term='ebola'>
+<doc docid='voa_4821448' lang='por' type='mono' source_url='https://www.voaportugues.com/a/rdc-mil%C3%ADcia-mai-mai-ataca-centro-de-tratamento-de-%C3%A9bola/4821448.html' term='ebola'>
 RDC: Milícia Mai Mai ataca centro de tratamento de Ébola
 Milicianos armados Mai Mai atacaram um centro de tratamento de Ébola, no leste da República Democrática do Congo, neste sábado, 9, matando um polícia.
 As autoridades municipais de Butembo, província do Kivu norte, disseram que as forças de segurança repeliram as milícias, reporta a Reuters.
@@ -3057,12 +3057,12 @@ Os trabalhadores humanitários enfrentam uma profunda desconfiança da populaç�
 O esforço para conter o vírus é também prejudicado por uma infinidade de grupos armados que operam no leste do país.
 Os Mai Mai são descritos como milicianos que inicialmente se reuniram para defender o seu território de ataques de outros grupos armados, na década de 1990.
 </doc>
-<doc id='voa_2409414' lang='por' type='mono' source_url='https://www.voaportugues.com/a/zambia-proibe-entrada-de-estrangeiros-proveniente-dos-paises-afectados-pelo-ebola/2409414.html' term='ebola'>
+<doc docid='voa_2409414' lang='por' type='mono' source_url='https://www.voaportugues.com/a/zambia-proibe-entrada-de-estrangeiros-proveniente-dos-paises-afectados-pelo-ebola/2409414.html' term='ebola'>
 Zâmbia proíbe entrada de estrangeiros provenientes dos países afectados pelo ébola
 O Governo da Zâmbia decidiu banir a entrada de todos os cidadãos dos países infectados com o vírus do Ébola, anunciou o Ministério da Saúde. A decisão é extensiva aos delegados de conferências internacionais organizadas na Zâmbia, refere o comunicado de imprensa assinado pelo ministro zambiano da saúde, Joseph Kasonde.
 Por outro lado, os cidadãos zambianos de regresso dos países infectados com o ébola serão submetidos a uma inspecção e colocados sob quarentena, caso sejam considerados como um risco potencial para a transmissão do vírus.
 </doc>
-<doc id='voa_4721086' lang='por' type='mono' source_url='https://www.voaportugues.com/a/rdc-vota-neste-domingo-numa-elei%C3%A7%C3%A3o-presidencial-com-21-candidatos/4721086.html' term='ebola'>
+<doc docid='voa_4721086' lang='por' type='mono' source_url='https://www.voaportugues.com/a/rdc-vota-neste-domingo-numa-elei%C3%A7%C3%A3o-presidencial-com-21-candidatos/4721086.html' term='ebola'>
 RDC vota neste domingo, numa eleição presidencial com 21 candidatos
 Milhões de eleitores na República Democrática do Congo votam no domingo, 30 de dezembro, para escolher o sucessor do presidente de longa data Joseph Kabila.
 O presidente Kabila prometeu deixar o poder depois de 18 anos. Ele escolheu o candidato a seu sucessor, Emmanuel Ramazani Shadary, que é um dos 21 candidatos no boletim que os congoleses vão preencher no dia 30.
@@ -3075,7 +3075,7 @@ A República Democrática do Congo é um dos países mais ricos do mundo em recu
 Veja Também
 2Rs, a África Ocidental - Eleições no Congo Democrático
 </doc>
-<doc id='voa_2459550' lang='por' type='mono' source_url='https://www.voaportugues.com/a/impacto-do-ebola-nas-mulheres-e-na-economia-da-africa-ocidental/2459550.html' term='ebola'>
+<doc docid='voa_2459550' lang='por' type='mono' source_url='https://www.voaportugues.com/a/impacto-do-ebola-nas-mulheres-e-na-economia-da-africa-ocidental/2459550.html' term='ebola'>
 Impacto do Ébola nas Mulheres e na Economia da África Ocidental
 Mais de metade dos casos de Ébola na África ocidental correspondem a mulheres e as organizações humanitárias dizem que as mulheres são igualmente as mais afectadas economicamente devido às restrições nas fronteiras e nas viagens.
 Segundo um relatório da Organização Mundial de Saúde, conhecido esta Terça-feira, 23, seis meses depois do maior surto da doença, os dados apontam para o aumento de casos, o que poderá ser catastrófico.
@@ -3095,12 +3095,12 @@ Acrescentando que as mulheres também precisam de ter acesso a equipamento de pr
 Passados seis meses a Organização Mundial de Saúde registou mais de 5.800 casos, mais de 2.800 mortes, números que podem quadruplicar até ao final de Outubro, reporta o relatório da OMS publicado esta Terça-feira, que indica que 70 por cento dos doentes de Ébola morrem.
 As boas notícias, segundo o relatório, é que doentes que tenham assistência médica imediata têm maior probabilidade de sobreviver, que indica também que Senegal e Nigéria não registaram quaisquer casos nos últimos 21 dias, diz o relatório.
 </doc>
-<doc id='voa_2765991' lang='por' type='mono' source_url='https://www.voaportugues.com/a/enfermeiro-italiano-serra-leoa-ebola/2765991.html' term='ebola'>
+<doc docid='voa_2765991' lang='por' type='mono' source_url='https://www.voaportugues.com/a/enfermeiro-italiano-serra-leoa-ebola/2765991.html' term='ebola'>
 Enfermeiro italiano vindo da Serra Leoa está com Ébola
 Um enfermeiro que regressou há dias da Serra Leoa foi diagnosticado com ébola, avançou o Ministério da Saúde de Itália. O enfermeiro sentiu-se mal e foi transportado para um hospital da Sardenha, a 8 de Maio, tendo realizado os testes de diagnóstico. A amostra de sangue foi enviada para Roma, onde foi confirmado que se trata de ébola.
 De acordo com o Ministério da Saúde, o doente será transportado em breve para o principal hospital do país destinado a tratar doenças infecciosas, situado em Roma.
 </doc>
-<doc id='voa_1969006' lang='por' type='mono' source_url='https://www.voaportugues.com/a/guine-bissau-reforca-medidas-contra-o-ebola/1969006.html' term='ebola'>
+<doc docid='voa_1969006' lang='por' type='mono' source_url='https://www.voaportugues.com/a/guine-bissau-reforca-medidas-contra-o-ebola/1969006.html' term='ebola'>
 Guiné-Bissau reforça medidas contra o ébola
 O ébola transformou-se numa epidemia incontrolável que se alastra pela África Ocidental e que ameaça outras regiões do continente e do mundo.
 Países afectados reforçam medidas sanitárias e de segurança, companhias aéreas suspendem voos para os países que enfrentam a doença e o mundo está em alerta.
@@ -3110,14 +3110,14 @@ Por isso, o Conselho de Ministros aprovou uma série de medidas, segundo o Direc
 Apesar dessas medidas, que incluem ainda muito material informativo, tanto impresso como programas de rádio, os técnicos de saúde enfrentam algum desconhecimento do ébola, em virtude de ser a primeira vez que essa doença ameaça a Guiné-Bissau, como explica Nicolau D´Almeida.
 As autoridades guineenses não fecharam as fronteiras por isso contam com a participação da população para ajudar a identificar eventuais suspeitos.
 </doc>
-<doc id='voa_2484527' lang='por' type='mono' source_url='https://www.voaportugues.com/a/colombia-nega-entrada-de-pessoas-que-visitaram-paises-africanos-com-surto-de-ebola/2484527.html' term='ebola'>
+<doc docid='voa_2484527' lang='por' type='mono' source_url='https://www.voaportugues.com/a/colombia-nega-entrada-de-pessoas-que-visitaram-paises-africanos-com-surto-de-ebola/2484527.html' term='ebola'>
 Colômbia nega entrada de pessoas que visitaram países africanos com surto de ébola
 A Colômbia proibiu a entrada de pessoas que visitaram recentemente os países da África Ocidental afectados pelo vírus do ébola. A medida entrou em vigor na Terça-feira,14, aplica-se a pessoas que estiveram em Serra Leoa, Libéria, Guiné-Conacri e Nigéria, e foi adoptada em resposta a uma recomendação do Instituto Nacional de Saúde para evitar a propagação do vírus, segundo disseram à Reuters fontes do Ministério das Relações Exteriores.
 Guardas de fronteira da Colômbia vão negar entrada a qualquer pessoa cujo passaporte mostre uma recente viagem aos países com surto, e os consulados vão vetar os pedidos de visto para qualquer pessoa que tenha visitado essas nações nas quatro semanas anteriores, de acordo com um documento do Ministério do Exterior visto pela Reuters.
 A epidemia de ébola na África Ocidental é o pior já registrado, com pelo menos 4.447 mortos.
 Mais sobre o Ébola
 </doc>
-<doc id='voa_1880698' lang='por' type='mono' source_url='https://www.voaportugues.com/a/guin%C3%A9-bissau-implementa-plano-de-preven%C3%A7%C3%A3o-contra-a-%C3%A9bola/1880698.html' term='ebola'>
+<doc docid='voa_1880698' lang='por' type='mono' source_url='https://www.voaportugues.com/a/guin%C3%A9-bissau-implementa-plano-de-preven%C3%A7%C3%A3o-contra-a-%C3%A9bola/1880698.html' term='ebola'>
 Guiné-Bissau implementa plano de prevenção contra a ébola
 A febre hemorrágica ébola continua a ceifar vidas humanas na República da Guiné-Conakry e as autoridades da Guiné-Bissau começaram a mobilizar acções de prevenção para impedir que a doença afecte o seu território.
 Os últimos dias têm sido marcados pelas concertações entre os actores nacionais e internacionais ligados ao sector da saúde, emigração e fronteiras, protecção civil, assistência humanitária, assim como meios de comunicação social.
@@ -3127,7 +3127,7 @@ Como disse à Voz da América Nicolau Almeida, director de promoção e prevenç
 A zona mais vulnerável e que desperta uma maior preocupação das autoridades da Guiné-Bissau é o Sul do país, que aliás, foi a zona onde também a cólera mais ataca e reside, através da Guine-Conakry.
 O plano de prevenção terá início amanhã, 28, e visa essencialmente educar a população sobre a ébola, doença que já provocou 59 mortos na Guiné-Conakry.
 </doc>
-<doc id='voa_2413698' lang='por' type='mono' source_url='https://www.voaportugues.com/a/navio-em-quarentena-no-mar-de-cabo-verde-mas-sem-caso-suspeito-de-ebola/2413698.html' term='ebola'>
+<doc docid='voa_2413698' lang='por' type='mono' source_url='https://www.voaportugues.com/a/navio-em-quarentena-no-mar-de-cabo-verde-mas-sem-caso-suspeito-de-ebola/2413698.html' term='ebola'>
 Navio em quarentena no mar de Cabo Verde mas sem caso suspeito de ébola
 O Governo cabo-verdiano confirmou hoje, 14, que um navio chinês proveniente da Serra Leoa está de quarentena ao largo de São Vicente, como medida de prevenção por causa do vírus do ébola.
 Em entrevista à VOA o director-geral de Saúde António Pedro Delgado garante não haver nenhum caso suspeito de ébola e diz que o navio aguarda os 21 dias de prevenção para entrar nos estaleiros navais de São Vicente para reparação.
@@ -3137,13 +3137,13 @@ Questionado se o país tem condições para tratar eventuais casos de ébola, De
 Hoje a ministra da Saúde Cristina Fontes Lima descartou o encerramento das fronteiras devido à ameaça regional do ébola.
 O director-geral da Saúde António Pedro Delgado lembrou que Cabo Verde é um país de emigrantes e depende em grande parte do turismo, por isso em vez de fechar fronteiras, "a opção é apostar na prevenção e na informação tanto da população como dos estrangeiros que pretendem viajar para o arquipélago".
 </doc>
-<doc id='voa_2550158' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ue-disponobiliza-60-milhoes-de-euros-para-combater-o-ebola/2550158.html' term='ebola'>
+<doc docid='voa_2550158' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ue-disponobiliza-60-milhoes-de-euros-para-combater-o-ebola/2550158.html' term='ebola'>
 UE disponibiliza 60 milhões de euros para combater o ébola
 A Comissão Europeia anunciou hoje, 8, um novo financiamento de 60,5 milhões de euros para combater o surto do vírus ébola em África Ocidental, incluindo a Guiné-Bissau. O anúncio foi feito pelo comissário europeu para a Cooperação Internacional, Neven Mimica, durante uma visita à Guiné-Conacri, um dos países cujo Governo via receber directamente apoio - tal como o da Libéria - para ajudar a lidar com o impacto económico do surto de ébola.
 A Guiné-Conacri vai receber uma ajuda no valor de 11 milhões de euros e a Libéria 14 milhões, neste âmbito. O envelope financeiro inclui ainda outros 20 milhões para apoiar o plano de saúde lançado em 2013 para fazer face à epidemia na Guiné-Conacri.
 A Guiné-Bissau partilha com o Mali, o Burkina Faso, o Togo, a Costa do Marfim e a Mauritânia uma verba de 11 milhões de euros para investimento na prevenção da febre hemorrágica. Um total de 4,5 milhões de euros destina-se a custear a prevenção de violência e a reduzir tensões que possam surgir em zonas fronteiriças dos países afetados.
 </doc>
-<doc id='voa_2599416' lang='por' type='mono' source_url='https://www.voaportugues.com/a/dois-opositores-detidos-guine-equatorial-can-2015/2599416.html' term='ebola'>
+<doc docid='voa_2599416' lang='por' type='mono' source_url='https://www.voaportugues.com/a/dois-opositores-detidos-guine-equatorial-can-2015/2599416.html' term='ebola'>
 Dois opositores detidos na Guiné-Equatorial nas vésperas do CAN 2015
 Dois opositores políticos foram detidos onte, 14, em Bata, capital económica da Guiné-Equatorial, após terem apelado ao boicote do Campeonato Africano de Nações, CAN 2015, que começa no sábado.
 "Celestino Nvo Okenve foi detido em Bata pela polícia porque distribuía cartazes e 't-shirts' apelando à população para que não fosse aos estádios como pediu o Presidente", declarou à agência France Presse Fulgencio Ondo, assessor de comunicação do partido da oposição União Popular (UP).
@@ -3151,7 +3151,7 @@ Okenve, um engenheiro de telecomunicações que vivia em Madrid há mais de 30 a
 A UP pediu a "libertação imediata" de Okenve.
 O outro detido é Santiago Martin, militante do principal partido da oposição Convergência para a Democracia Social (CPDS).
 </doc>
-<doc id='voa_2924287' lang='por' type='mono' source_url='https://www.voaportugues.com/a/mundo-homenageia-milhares-de-trabalhadores-humanitarios/2924287.html' term='ebola'>
+<doc docid='voa_2924287' lang='por' type='mono' source_url='https://www.voaportugues.com/a/mundo-homenageia-milhares-de-trabalhadores-humanitarios/2924287.html' term='ebola'>
 19 de Agosto: Mundo homenageia milhares de trabalhadores humanitários
 Em comemoração do Dia da Acção Humanitária, agências internacionais prestam homenagem aos milhares de trabalhadores humanitários que perderam as suas vidas ou sofreram ferimentos em serviço.
 Em Dezembro de 2008, a Assembleia Geral das Nações Unidas decidiu que 19 de Agosto passaria a ser Dia da Acção Humanitária, para recordar as vítimas do ataque terrorista aos escritórios das Nações Unidas, em Bagdad, no Iraque, em 2003. Vinte e dois funcionários das Nações Unidas morreram nesse ataque, incluindo o brasileiro Sérgio Vieira de Mello, chefe de missão.
@@ -3166,7 +3166,7 @@ Segundo Coninx, “recentemente, no Iémen 30 hospitais foram atacados, 14 traba
 Mas a vida dos trabalhadores de saúde não está apenas em risco nas zonas em conflito. A OMS sublinha que na África ocidental, mais de metade dos 875 trabalhadores de saúde infectados com a Ébola morreram. Alguns trabalhadores de saúde foram mortos por aldeões quando tentavam passar informação sobre a mortífera doença na Guiné.
 O número de casos de pólio no mundo foi reduzido em 99 por cento. Mas esta conquista teve um grande custo. Segundo a OMS, mais de 100 trabalhadores de saúde foram atacados tentando erradicar a doença. Trinta e dois deles foram mortos no Paquistão tentando vacinar crianças contra a incapacitante doença.
 </doc>
-<doc id='voa_2663728' lang='por' type='mono' source_url='https://www.voaportugues.com/a/sao-tome-principe-luta-contra-ebola-nova-iorque-onu/2663728.html' term='ebola'>
+<doc docid='voa_2663728' lang='por' type='mono' source_url='https://www.voaportugues.com/a/sao-tome-principe-luta-contra-ebola-nova-iorque-onu/2663728.html' term='ebola'>
 São Tomé organiza concerto contra o ébola em Nova Iorque
 O auditório da Assembleia das Nações Unidas acolhe hoje o espectáculo musical "Parar o Ébola e Construir para o Futuro", organizado pelos governos de São Tomé e Príncipe e Serra Leoa e várias entidades humanitárias.
 As estrelas Chiek Diabaté, do Mali, e a cantora britânica da música R&B e hip-hop Estelle estão entre os que vão desfilar no palco do evento que deve angariar apoios para as vítimas da epidemia que afectou severamente a África Ocidental.
@@ -3174,18 +3174,18 @@ O embaixador são-tomense junto às Nações Unidas, Carlos Agostinho das Neves,
 “Como país africano e próximo daquela região mais afectada pelo ébola deveríamos fazer qualquer coisa para ajudar a Libéria, a Serra Leoa e a Guiné Conacri", afirmou Agostinho à Rádio ONU.
 O secretário-geral da ONU, Ban Ki-moon, e o presidente da Assembleia-Geral, Sam Kutesa, participam no evento que deve “ajudar a alertar consciências”, de acordo com Carlos Agostinho das Neves.
 </doc>
-<doc id='voa_2651588' lang='por' type='mono' source_url='https://www.voaportugues.com/a/oms-aprova-teste-detectecao-ebola-15-minutos/2651588.html' term='ebola'>
+<doc docid='voa_2651588' lang='por' type='mono' source_url='https://www.voaportugues.com/a/oms-aprova-teste-detectecao-ebola-15-minutos/2651588.html' term='ebola'>
 Organização Mundial de Saúde aprova teste que detecta ébola em 15 minutos
 A Organização Mundial de Saúde (OMS) aprovou hoje, 20, o primeiro teste rápido para o ébola, um avanço importante para terminar com a epidemia que já matou quase 10 mil pessoas na África Ocidental. O teste, desenvolvido pela americana Corgenix Medical Corp, é menos preciso do que o exame actualmente em uso para detectar o vírus, que passa por procurar no sangue o material genético do ébola, mas é mais fácil de executar, não precisa de electricidade e apresenta resultados em aproximadamente 15 minutos, disse o porta-voz da OMS, Tarik Jasarevic.
 Segundo Jasarevic, os 'kits' necessários para efectuar o teste rápido só serão distribuídos dentro de uma ou duas semanas, já que a empresa está ainda a calcular os custos e a terminar os procedimentos administrativos exigidos pela U.S. Food and Drug Administration, o organismo responsável por aprovar medicamentos nos Estados Unidos da América.
 </doc>
-<doc id='voa_2527511' lang='por' type='mono' source_url='https://www.voaportugues.com/a/cabo-verde-proibe-animais-e-carnes-paises-afectados-com-ebola/2527511.html' term='ebola'>
+<doc docid='voa_2527511' lang='por' type='mono' source_url='https://www.voaportugues.com/a/cabo-verde-proibe-animais-e-carnes-paises-afectados-com-ebola/2527511.html' term='ebola'>
 Cabo Verde proíbe entrada de animais e carnes de países afectados com Ébola
 O Governo de Cabo Verde proibiu a entrada no país de animais selvagens e de caça, carnes e derivados de qualquer espécie animal provenientes de países afectados pelo Ébola. A portaria do Executivo de José Maria Neves diz que o vírus do ébola é transmitido para as pessoas através dos animais selvagens e seus produtos derivados.
 E a doença se propaga na população humana a partir de contactos entre pessoas, provocando surtos de febre hemorrágica viral grave cuja taxa de mortalidade ronda os 90%.
 Com esta norma fica interdita a entrada no território de nacional de chimpanzés, gorilas, morcegos, macacos, antílopes de florestas e porcos-espinhos. Os infractores serão responsabilizados criminalmente.
 </doc>
-<doc id='voa_2432478' lang='por' type='mono' source_url='https://www.voaportugues.com/a/eua-iniciam-testes-em-humanos-de-vacina-contra-o-ebola/2432478.html' term='ebola'>
+<doc docid='voa_2432478' lang='por' type='mono' source_url='https://www.voaportugues.com/a/eua-iniciam-testes-em-humanos-de-vacina-contra-o-ebola/2432478.html' term='ebola'>
 EUA iniciam testes de vacina contra o ébola em humanos
 As autoridades de saúde dos Estados Unidos anunciaram ontem, 28, o início do primeiro teste em humanos da vacina que visa prevenir a doença do ébola.
 A vacina em teste foi desenvolvida pelo Instituto Nacional de Doenças Alérgicas e Infecciosas dos Estados Unidos e a empresa farmacêutica britânica GSK (GlaxoSmithKline).
@@ -3198,12 +3198,12 @@ A vacina será administrada através de uma injecção no braço. O teste está 
 Em Outubro, um segundo estudo será realizado nos EUA, Grã-Bretanha, Mali e na Gâmbia para testar uma vacina que contém material genético de apenas uma das estirpes do ébola.
 Apesar da esperança numa vacina, o director do Instituto Nacional de Alergia e Doenças Infecciosas dos Estados Unidos Anthony Fauci diz que a precaução e a prevenção são ainda a melhor defesa contra o ébola.
 </doc>
-<doc id='voa_1968687' lang='por' type='mono' source_url='https://www.voaportugues.com/a/companhia-aerea-asky-cancela-voos-para-liberia-e-serra-leoa/1968687.html' term='ebola'>
+<doc docid='voa_1968687' lang='por' type='mono' source_url='https://www.voaportugues.com/a/companhia-aerea-asky-cancela-voos-para-liberia-e-serra-leoa/1968687.html' term='ebola'>
 Companhia aérea Asky cancela voos para Libéria e Serra Leoa
 A maior companhia aérea da África Ocidental Asky anunciou a suspensão de viagens para Libéria e Serra Leoa, unindo-se à companhia nigeriana Arik Air. A companhia informou ainda que deixou de fornecer alimentos para Conacri. A medida visa manter "os seus passageiros e funcionários seguros durante esse momento inquietante" e chega na sequência da morte de um liberiano na Nigéria.
 O consultor do Ministério de Finanças da Libéria, Patrick Sawyer, seguia para Lagos num voo da Asky e morreu depois de entrar em colapso num hospital da capital nigeriana. Este é o primeiro caso registado na Nigéria.
 </doc>
-<doc id='voa_2523549' lang='por' type='mono' source_url='https://www.voaportugues.com/a/saude-mocambique-espalhe-a-palavra/2523549.html' term='ebola'>
+<doc docid='voa_2523549' lang='por' type='mono' source_url='https://www.voaportugues.com/a/saude-mocambique-espalhe-a-palavra/2523549.html' term='ebola'>
 Pela Saúde de Moçambique: espalhe a palavra
 GILLIAN PARKER EM MAPUTO —
 Com mais de metade da população analfabeta e o seu povo a falar mais de 40 línguas locais, Moçambique faz face a desafios colossais para disseminar informação sobre saúde entre a população, mas o país está a lançar novas campanhas nacionais de saúde, e os especialistas em comunicação estão a tornar-se mais entendidos na forma de fazer chegar informação aos moçambicanos.
@@ -3226,12 +3226,12 @@ A iniciativa envolve desinfestar com insecticida as paredes do interior das casa
 Os estranhos fatos dão credibilidade às equipas de informação, escolhidas dentro das comunidades para disseminar informação sobre efeitos do uso do insecticida, e familiarizando as pessoas para as equipas de técnicos que vão aparecer para fazer o trabalho.
 Apesar de ser árduo e levar imenso tempo, muitos projectos de saúde estão a descobrir que dar informação de porta-em-porta assegura que aqueles a quem a media tradicional não chega, recebem informação que lhes pode salvar a vida.
 </doc>
-<doc id='voa_2477865' lang='por' type='mono' source_url='https://www.voaportugues.com/a/reino-unido-envia-750-militares-para-africa-para-combater-o-ebola/2477865.html' term='ebola'>
+<doc docid='voa_2477865' lang='por' type='mono' source_url='https://www.voaportugues.com/a/reino-unido-envia-750-militares-para-africa-para-combater-o-ebola/2477865.html' term='ebola'>
 Reino Unido envia 750 militares para África para combater o ébola
 O Governo britânico vai enviar para os países afectados pelo ébola na África Ocidental um grupo militar com 750 elementos. A missão do contingente britânico será estabelecer postos de tratamento da doença e criar centros de formação sobre a epidemia.
 O Reino Unido vai ainda disponibilizar meios logísticos, nomeadamente navios e helicópteros que farão o transporte de médicos e auxiliares.
 </doc>
-<doc id='voa_4399868' lang='por' type='mono' source_url='https://www.voaportugues.com/a/oms-diz-que-risco-de-%C3%A9bola-se-espalhar-a-outros-pa%C3%ADses-%C3%A9-elevado/4399868.html' term='ebola'>
+<doc docid='voa_4399868' lang='por' type='mono' source_url='https://www.voaportugues.com/a/oms-diz-que-risco-de-%C3%A9bola-se-espalhar-a-outros-pa%C3%ADses-%C3%A9-elevado/4399868.html' term='ebola'>
 OMS diz que risco de ébola se espalhar a outros países é elevado
 A Organização Mundial da Saúde alertou para o risco de o surto de ébola que se regista na República Democrática do Congo (RDC) alastrar-se a outros países da África Central.
 Depois de a OMS ter revelado nesta sexta-feira, 18, que o número de mortes de ébola ascendeu a 25, num total de 45 casos suspeitos, a organização alertou que o risco de transmissão para países da região passou agora de "moderado" a "elevado"
@@ -3244,7 +3244,7 @@ A epidemia eclodiu no início do mês numa zona rural, antes de atingir Mbandaka
 A OMS enviou 30 técnicos e quatro mil doses de vacina que começarão a ser aplicadas neste fim de semana.
 Esta é a nona eclosão do ébola na República Democrática do Congodesde que se descobriu o vírus em 1976 neste país.
 </doc>
-<doc id='voa_2414327' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ouvinte-da-guine-bissau-diz-que-a-populacao-tem-medo-da-epidemia-de-ebola/2414327.html' term='ebola'>
+<doc docid='voa_2414327' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ouvinte-da-guine-bissau-diz-que-a-populacao-tem-medo-da-epidemia-de-ebola/2414327.html' term='ebola'>
 Ouvinte da Guiné-Bissau diz que a população está com medo da epidemia de ébola
 Diamantino Maria da Silva, de 30 anos, é professor de português em Quinhamel, uma vila a aproximadamente 40 quilómetros da capital Bissau e lecciona o 11º e 12º ano.
 A Guiné-Bissau faz fronteira com a Guiné-Conacri, onde começou a epidemia do vírus ébola. Ele conta que as pessoas estão com muito medo no país. “Eu mesmo estou com muito medo”, acrescenta.
@@ -3254,7 +3254,7 @@ A esperança de Diamantino Maria da Silva é que a epidemia não chegue ao país
 Silva é ouvinte da Voz da América desde 2007. Ele ficou muito feliz pelo presidente da Guiné-Bissau José Mário Vaz ser convidado para participar da cimeira Estados Unidos-África, evento que reuniu autoridades, organizações e empresários dos Estados Unidos e da África em Washington-DC. “É um bom começo. Acho que o mundo está a abrir as portas ao nosso país”.
 Em Quinhamel, Silva relata que a população sofre com a falta de electricidade a maior parte do ano. Explica ainda que poucas pessoas podem comprar um gerador, e que um frigorífico é um artigo de luxo para estes moradores.
 </doc>
-<doc id='voa_4960389' lang='por' type='mono' source_url='https://www.voaportugues.com/a/oms-decide-n%C3%A3o-declarar-emerg%C3%AAncia-internacional-de-ebola/4960389.html' term='ebola'>
+<doc docid='voa_4960389' lang='por' type='mono' source_url='https://www.voaportugues.com/a/oms-decide-n%C3%A3o-declarar-emerg%C3%AAncia-internacional-de-ebola/4960389.html' term='ebola'>
 OMS decide não declarar emergência internacional devido ao ébola
 Um painel da Organização Mundial de Saúde (OMS) decidiu na sexta-feira, 14 de Junho, não declarar emergência internacional pelo surto de ébola no Congo, apesar de ele ter se espalhado para o Uganda esta semana, concluindo que uma declaração dessa natureza pode causar danos económicos.
 A epidemia no Congo é a segunda pior da história, com 2.108 casos de ébola e 1.411 mortes desde Agosto passado. Na semana que passou chegou ao Uganda, onde três casos foram registados, todos em pessoas que chegaram do Congo. Duas delas morreram.
@@ -3264,12 +3264,12 @@ Num comunicado, o painel com 13 especialistas médicos independentes do Comité 
 Segundo o médico Preben Aavitsland, presidente interino do painel, esta “não é uma emergência global, é uma emergência na República Democrática do Congo, uma grave emergência que pode afetar países vizinhos”.
 Apenas quatro emergências foram declaradas na última década, incluindo o pior surto de ébola na África Ocidental entre 2014 e 2016. Os outros foram nos casos de influenza, em 2009, pólio, em 2014, e vírus zika, em 2016.
 </doc>
-<doc id='voa_2638649' lang='por' type='mono' source_url='https://www.voaportugues.com/a/estados-unidos-vao-retirar-tropas-africa-ocidental/2638649.html' term='ebola'>
+<doc docid='voa_2638649' lang='por' type='mono' source_url='https://www.voaportugues.com/a/estados-unidos-vao-retirar-tropas-africa-ocidental/2638649.html' term='ebola'>
 Estados Unidos vão retirar tropas da África Ocidental
 Os Estados Unidos vão retirar a maioria das tropas que enviou para os países da África Ocidental afectados pelo ébola para ajudar no combate à epidemia, principalmente na construção dos centros de saúde. O anúncio foi feito ontem, 10, pelo porta-voz do Pentágono John Kirby num comunicado.
 As forças norte-americanas chegaram a enviar 2.800 militares, mas depois reduziu o contingente para 1.300. Agora, todos deverão regressar até o dia 30 de Abril, de acordo com Kirby.
 </doc>
-<doc id='voa_2434975' lang='por' type='mono' source_url='https://www.voaportugues.com/a/unita-reuniu-em-malanje/2434975.html' term='ebola'>
+<doc docid='voa_2434975' lang='por' type='mono' source_url='https://www.voaportugues.com/a/unita-reuniu-em-malanje/2434975.html' term='ebola'>
 Unita apela ao reforço do combate ao ébola
 O secretário da Unita na província de Malanje Januário Alfredo Mussambo disse no que o chefe de Estado angolano está a tentar ultrapassar a voz do povo na Assembleia Nacional para atribuir nacionalidade angolana a um cidadão estrangeiro.
 O político referiu-se ao facto no final de semana durante a quinta reunião ordinária do comité provincial da organização que analisou o comportamento dos militantes e das acções do Governo local.
@@ -3278,7 +3278,7 @@ Apesar do discurso musculado, o secretário provincial do galo negro diz apoiaa 
 O secretário da maior formação política da oposição em Angola solicitou melhorias no “saneamento básico e que haja materiais de biossegurança suficientes para que as equipas de trabalho envolventes não estejam num elevado risco”.
 Os membros dos secretariados provincial e municipais e coordenadores dos comités de acção passaram em revista os relatórios das actividades partidárias, quotização, administração e das políticas de relançamento da Unita e da aplicação do fundo solidário.
 </doc>
-<doc id='voa_2519401' lang='por' type='mono' source_url='https://www.voaportugues.com/a/g20-sem-africa-na-agenda/2519401.html' term='ebola'>
+<doc docid='voa_2519401' lang='por' type='mono' source_url='https://www.voaportugues.com/a/g20-sem-africa-na-agenda/2519401.html' term='ebola'>
 G20 sem África na agenda
 Líderes das nações do G20 – grupo das 20 economias mais ricas e emergentes do mundo - reúnem-se a 15 e 16 em Brisbane, Austrália, para discutir o crescimento económico global e desenvolvimento. Especialistas questionam se a África vai beneficiar das deliberações do grupo, onde o único país do continente presente é a África do Sul.
 O G20 irá realizar o seu encontro anual no meio de um decepcionante crescimento do comércio internacional e uma falhada estratégia de criação de empregos.
@@ -3293,7 +3293,7 @@ Segundo ela a África perde bilhões de dólares em impostos não pagos, e a mai
 "Temos cerca de 100 mil milhões de dólares estimados de receita perdida devido a fluxos ilícitos dos países em desenvolvimento. Na região da África Subsaariana, há cerca de 72 mil milhões de dólares em fluxos ilícitos apurados entre 2008 e 2010", revela aquela especialista.
 Alguns analistas sugerem que, apesar de os organismos mundiais, como o G-20, serem importantes, eles não são necessariamente a solução para os países africanos.
 </doc>
-<doc id='voa_4524354' lang='por' type='mono' source_url='https://www.voaportugues.com/a/congo-tem-quatro-novos-casos-de-ebola-m%C3%A9dicos-preparam-tratamento-experimental/4524354.html' term='ebola'>
+<doc docid='voa_4524354' lang='por' type='mono' source_url='https://www.voaportugues.com/a/congo-tem-quatro-novos-casos-de-ebola-m%C3%A9dicos-preparam-tratamento-experimental/4524354.html' term='ebola'>
 Congo tem quatro novos casos de ébola, médicos preparam tratamento experimental
 Quatro novos casos de ébola foram confirmados na República Democrática do Congo, afirmou o Ministério da Saúde, acrescentando que autoridades médicas preparam a utilização de um tratamento experimental da doença.
 O ministério acredita que a febre hemorrágica já tenha morto 38 pessoas, embora vários casos não tenham sido confirmados.
@@ -3303,7 +3303,7 @@ O tratamento foi desenvolvido nos Estados Unidos usando anticorpos de um sobrevi
 Steve Ahuka disse que outros tratamentos experimentais também poderão ser usados.
 O ébola, que causa febre, vómitos e diarreia, alastra por contacto directo com fluidos corporais. O vírus matou mais de 11 mil pessoas na África ocidental entre 2013 e 2016.
 </doc>
-<doc id='voa_1255699' lang='por' type='mono' source_url='https://www.voaportugues.com/a/a-38-2008-12-25-voa4-92241409/1255699.html' term='ebola'>
+<doc docid='voa_1255699' lang='por' type='mono' source_url='https://www.voaportugues.com/a/a-38-2008-12-25-voa4-92241409/1255699.html' term='ebola'>
 As Últimas de Washington
 O Papa Bento lançou um apelo à paz no Médio
 Oriente e em África por ocasião da sua homilia de Natal, no Vaticano.
@@ -3424,7 +3424,7 @@ Toussie foi condenado por fraude de
 correspondências e falsas declarações feitas perante o Departamento de
 Habitação e Desenvolvimento Urbano.
 </doc>
-<doc id='voa_2445381' lang='por' type='mono' source_url='https://www.voaportugues.com/a/moambique-aumentar-restricoes-para-evitar-o-ebola/2445381.html' term='ebola'>
+<doc docid='voa_2445381' lang='por' type='mono' source_url='https://www.voaportugues.com/a/moambique-aumentar-restricoes-para-evitar-o-ebola/2445381.html' term='ebola'>
 Moçambique aumenta restrições para evitar o ébola
 O Governo de Moçambique vai aumentar as restrições de pessoas que cheguem ao seu território provenientes dos países afectados pelo ébola, assim como os demais membros da Comunidade de Desenvolvimento da África Austral(SADC).
 Este reforço acontece quando Moçambique, que monitora cerca de 60 pessoas que viajaram dos países afectados, aparece numa lista de 22 Estados considerados em risco de eclosão do ébola.
@@ -3438,19 +3438,19 @@ Ainda sobre o ébola, o jovem da Guiné-Conacri que introduziu no Senegal o úni
 Segundo a agência de notícias France Press, doente entrou em contacto com 67 pessoas, que têm sido alvo de monitorizações em Dakar, de acordo com o ministério.
 Dois casos suspeitos tiveram resultados negativos, revelou ainda o Ministério da Saúde do Senegal.
 </doc>
-<doc id='voa_2545550' lang='por' type='mono' source_url='https://www.voaportugues.com/a/espanha-esta-livre-da-epidemia-do-ebola/2545550.html' term='ebola'>
+<doc docid='voa_2545550' lang='por' type='mono' source_url='https://www.voaportugues.com/a/espanha-esta-livre-da-epidemia-do-ebola/2545550.html' term='ebola'>
 Espanha está livre da epidemia do ébola
 A Organização Mundial da Saúde(OMS) declarou hoje, 4, oficialmente a Espanha zona livre da epidemia de ébola antes da atribuição de um prémio especial a este país por ter terminado com a transmissão do vírus.
 A 6 de Outubro último, um laboratório nacional de referência confirmou a primeira transmissão inter-humana do vírus do ébola fora de África num técnico de saúde, membro duma equipa médica no hospital La Paz-Carlos III, em Espanha, que fornecia cuidados médicos a uma repatriada, a 22 de Setembro, da Serra Leoa, e que tinha contraído o vírus.
 A 21 de Outubro de 2014, o teste feito ao técnico deu negativo pela segunda vez antes de ser declarado curado. De acordo com o comunicado, as autoridades espanholas identificaram e colocaram sob vigilância cerca de 87 pessoas que estiveram em conctacto com o profissional de saúde.
 </doc>
-<doc id='voa_2497614' lang='por' type='mono' source_url='https://www.voaportugues.com/a/australia-suspende-vistos-para-paises-afectado-pelo-ebola-na-africa-ocidental/2497614.html' term='ebola'>
+<doc docid='voa_2497614' lang='por' type='mono' source_url='https://www.voaportugues.com/a/australia-suspende-vistos-para-paises-afectado-pelo-ebola-na-africa-ocidental/2497614.html' term='ebola'>
 Austrália suspende vistos para países afectados pelo Ébola na África Ocidental
 As autoridades australianas anunciaram hoje a suspensão dos movimentos migratórios de países afectados pelo vírus do Ébola na África Ocidental de forma a prevenir a chegada da doença ao seu território.
 A decisão, anunciada pelo ministro da Imigração, Scott Morrison, traduz-se na paragem da emissão de vistos para pessoas oriundas dos países afectados pela doença, depois de uma jovem de 16 anos oriunda da Guiné-Conacri ter estado isolada por receio de ser portadora de Ébola.
 O governante acrescentou, contudo, que as pessoas a quem já foi garantido o visto vão poder viajar para a Austrália, muito embora o plano de contingência vá obrigá-las a vários exames e cuidados adicionais com vista a evitar o vírus.
 </doc>
-<doc id='voa_3519310' lang='por' type='mono' source_url='https://www.voaportugues.com/a/mugabe-pede-fim-sancoes-economicas-impostas-zimbabwe/3519310.html' term='ebola'>
+<doc docid='voa_3519310' lang='por' type='mono' source_url='https://www.voaportugues.com/a/mugabe-pede-fim-sancoes-economicas-impostas-zimbabwe/3519310.html' term='ebola'>
 Mugabe pede fim das sanções económicas impostas ao Zimbabwe
 O Presidente do Zimbabwe, Robert Mugabe, pediu, hoje, 21, o levantamento das sanções económicas impostas por potenciais ocidentais ao seu país, em resposta à sua má governação.
 Discursando na 71a Sessão da Assembleia Geral das Nações Unidas, em Nova Iorque, Mugabe disse que “as sanções impostas pelos neo-imperialistas punem o povo do Zimbabwe, por ser independente”.
@@ -3466,7 +3466,7 @@ Esse comentário e desqualificado por activistas zimbabweanos dos direitos human
 Mugabe elogiou o trabalho do Secretário-geral cessante das Nações Unidas Ban Ki-moon, em particular por ter apoiado a agenda africana na organização e ajudado a ultrapassar crises como a da Ébola, matou milhares no continente.
 “Muitos de nós teremos saudades, especialmente em África”, de si (Ban Ki-moon), disse Mugabe a terminar a sua intervenção.
 </doc>
-<doc id='voa_1254195' lang='por' type='mono' source_url='https://www.voaportugues.com/a/a-38-2005-03-24-voa4-92229319/1254195.html' term='ebola'>
+<doc docid='voa_1254195' lang='por' type='mono' source_url='https://www.voaportugues.com/a/a-38-2005-03-24-voa4-92229319/1254195.html' term='ebola'>
 Febre hemorrágica de Marburg
 Os primeiros casos de febre hemorrágica de Marburg foram registados pela primeira vez em Marburg na Alemanha e em Belgrado em 1967.
 Na Alemanha foram registados 37 casos , 4 dos quais viriam a resultar em falecimentos. As 37 vítimas trabalhavam num laboratório de investigação de Marburg na Alemanha que tinha importado o macaco verde do Uganda para estudar a vacina contra a pólio.
@@ -3479,22 +3479,22 @@ O CDC diz ainda que embora seja uma doença rara, a febre de Marburg não só é
 Extrema comichão, náuseas, dores no peito e na garganta, e diarreias começam a manifestar-se no quinto dia. As coisas agravam-se podendo resultar na inflamação do pâncreas, perda de peso, disfunção de vários órgãos incluindo o fígado e uma hemorragia massiva.
 O macaco verde também tem sido associado à Ebola . A Sida, sindroma de imunodeficiência adquirida também foi associada ao macaco verde, muito comum no Congo Democrático e no Uganda.
 </doc>
-<doc id='voa_1261847' lang='por' type='mono' source_url='https://www.voaportugues.com/a/article-12-22-2011-ebolacase-voanews-136081313/1261847.html' term='ebola'>
+<doc docid='voa_1261847' lang='por' type='mono' source_url='https://www.voaportugues.com/a/article-12-22-2011-ebolacase-voanews-136081313/1261847.html' term='ebola'>
 Suspeita de Ébola causa apreensão em Nairobi
 Suspeita de Ébola causa apreensão
 Um suspeito caso de Ébola no Quénia está a levantar algum alarme na capital. Médicos estao a tomar todas as precauções possíveis enquanto tentam confirmar a causa exacta da morte. A mulher de 29 anos de idade identificada como sendo Gladys Muthoni morreu no taxi quando era transportada de emergência para o Hospital Nacional Kenyata em Nairobi.O Doutor Masika Wafule disse que a mulher estava a sangrar da boca, nariz e ouvidos, os sintomas característicos do vírus Ébola ou febre hemorrágica.“Estamos a falar de uma pessoa que trabalha num hotel e estava perfeitamente bem até mais ou menos esta manhã quando súbitamente começou a sangrar de várias partes do corpo," disse o médico . “Sangrou muito e nós acreditamos ter sido essa a causa da sua morte,”acrescentouEquipas médicas levaram várias horas a retirar a mulher do taxi devido a receios de poderem expôr mais pessoas à doença altamente contagiosa e mortal.Três pessoas que acompanhavam a mulher, incluindo o condutor do táxi, foram postos de quarentena no hospital.O Doutor Wafule não pôde confirmar se a mulher tinha contraído Ébola mas disse que o hospital encarava o caso como um de grande risco para a saúde publica.“Essa é a razão porque estamos tomar estas precauções. Essa é a razão porque isolámos as pessoas que acompanhavam a paciente que morreu,” diss ele acrescentado que as autoridades médicas estão “a tomar precauções, a fazer todas as anàlises para estabelecer a causa da hemorragia”.A última epidemia de Ébola na África oriental ocorreu no Uganda em Maio deste ano quando uma rapariga de 12 anos foi infectada no distrito de Luwero no centro do país.O Quénia impôs então estritas medidas médicas ao longo da fronteira com o Uganda.A Organização Mundial de Saéde diz que o Ébola, e a doença semelhante do vírus de Marburg, alastra-se através de contacto com sangue infectado. Pode ser também transmitdo através de contacto com animais mortos.
 </doc>
-<doc id='voa_2489400' lang='por' type='mono' source_url='https://www.voaportugues.com/a/oms-declara-fim-ebola-nigeria/2489400.html' term='ebola'>
+<doc docid='voa_2489400' lang='por' type='mono' source_url='https://www.voaportugues.com/a/oms-declara-fim-ebola-nigeria/2489400.html' term='ebola'>
 OMS declara o fim da epidemia de Ébola na Nigéria
 A Organização Mundial da Saúde (OMS) declarou nesta segunda-feira, 20, oficialmente que a Nigéria está livre de ébola, depois de ter passado os 42 dias necessários - dois períodos de incubação - sem nenhum novo caso de contágio confirmado."A epidemia na Nigéria foi derrotada. É um êxito espectacular que mostra ao mundo que o ébola pode ser contido", disse o representante da OMS em Abuja, Rui Gama Vaz.
 Na sexta-feira, 17, OMS anunciou que o Senegal também tinha ultrapassado o mesmo período sem nenhum novo caso de contágio e que era o primeiro país a sair a lista negra.
 </doc>
-<doc id='voa_2559184' lang='por' type='mono' source_url='https://www.voaportugues.com/a/governo-serra-leao-proibe-festas-natal-ano-novo/2559184.html' term='ebola'>
+<doc docid='voa_2559184' lang='por' type='mono' source_url='https://www.voaportugues.com/a/governo-serra-leao-proibe-festas-natal-ano-novo/2559184.html' term='ebola'>
 Governo da Serra Leoa proíbe festas de Natal e Ano Novo
 As celebrações públicas de Natal e de Ano Novo estão proibidas este ano na Serra Leoa devido ao ébola, anunciou o chefe do Centro Nacional de Luta contra o Ébola (NERC) Palo Conteh. Em declarações aos jornalistas, Conteh adiantou que serão destacados soldados para patrulharem as ruas e impedirem as festividades.
 Embora o islão seja a religião dominante na Serra Leoa, mais de um quarto da população é cristã e as concentrações públicas e festas são comuns durante o período festivo. Conteh não referiu datas exactas para a proibição ou eventuais excepções.
 </doc>
-<doc id='voa_2474002' lang='por' type='mono' source_url='https://www.voaportugues.com/a/o-que-sabemos-sobre-a-transmissao-do-ebola-entre-humanos/2474002.html' term='ebola'>
+<doc docid='voa_2474002' lang='por' type='mono' source_url='https://www.voaportugues.com/a/o-que-sabemos-sobre-a-transmissao-do-ebola-entre-humanos/2474002.html' term='ebola'>
 O que sabemos sobre a transmissão do Ébola entre humanos?
 O vírus do Ébola é transmitido entre humanos através do contacto directo com fluídos corporais contaminados, sendo o sangue o mais infeccioso, fezes e vómitos.
 Este vírus também foi detectado no leite materno, urina e sémen. Em pessoas do sexo masculino, o vírus pode persistir no sémen até pelo menos 70 dias, havendo um estudo que sugere que persista mais de 90 dias.
@@ -3515,7 +3515,7 @@ A especulação de que o Ébola poderá sofrer uma mutação que provocará uma 
 Este tipo de especulação é infundada mas compreensível, à medida que as autoridades tentam controlar a rapidez com que o surto se propaga.
 Para parar com este surto é preciso implementar mais medidas - numa escala muito maior - medidas de protecção e prevenção. Várias evidências já demonstraram a eficácia do vírus.
 </doc>
-<doc id='voa_2508254' lang='por' type='mono' source_url='https://www.voaportugues.com/a/luis-sambo-director-geral-da-oms-africa-cessa-funcoes-sob-fortes-criticas/2508254.html' term='ebola'>
+<doc docid='voa_2508254' lang='por' type='mono' source_url='https://www.voaportugues.com/a/luis-sambo-director-geral-da-oms-africa-cessa-funcoes-sob-fortes-criticas/2508254.html' term='ebola'>
 Luís Sambo director-geral da OMS África cessa funções sob fortes críticas
 O que para muitos críticos é uma decisão que já devia ter sido tomada, reforça a ideia da OMS África, liderada pelo angolano Luís Sambo, como a "mais fraca das agências de saúde das Nações Unidas".
 Num relatório interno, obtido pela Associated Press, a OMS acusa a direcção regional de África de não ter feito o que devia na resposta ao Ébola, descrevendo os funcionários regionais como "politicamente motivados por uma agenda", além das numerosas queixas contra alguns funcionários na África ocidental.
@@ -3535,7 +3535,7 @@ Existem cinco candidatos a director geral da OMS África, entre os quais quatro 
 Cerca de 5 mil pessoas morreram devido ao vírus do Ébola e mais de 13 mil foram infectadas. Libéria, Guiné-Conacri e Serra Leoa foram os países mais afectados.
 Mais sobre o Ébola
 </doc>
-<doc id='voa_2467693' lang='por' type='mono' source_url='https://www.voaportugues.com/a/liberia-recebe-tres-mil-militares-americanos-para-combater-o-ebola/2467693.html' term='ebola'>
+<doc docid='voa_2467693' lang='por' type='mono' source_url='https://www.voaportugues.com/a/liberia-recebe-tres-mil-militares-americanos-para-combater-o-ebola/2467693.html' term='ebola'>
 Libéria recebe três mil militares americanos para combater o Ébola
 Trata-se da maior operação militar americana em África desde a retiradas das forças que se encontravam na Somália em 1993.
 O oficial Holsinger é um dos militares encarregados da construção de um hospital de campanha com 25 camas destinadas a agentes sanitários que foram infectados com o vírus.
@@ -3548,13 +3548,13 @@ Johnson afirma que a Libéria e a América estão ligadas não apenas por uma lo
 “Temos um óptimo relacionamento com o gerente do aeroporto local. À medida que vamos trabalhando vamos ultrapassando os desafios”, disse.
 A epidemia de Ébola já matou desde o início do ano mais de 2800 pessoas infectando pelo menos outras 5.600, e de acordo com a Organização Mundial de Saúde o número de pessoas infectadas pelo vírus poderá aumentar a um ritmo explosivo excedendo 20 mil pessoas em Novembro se não forem rapidamente tomadas medidas para controlar o surto.
 </doc>
-<doc id='voa_2407167' lang='por' type='mono' source_url='https://www.voaportugues.com/a/oms-declara-epidemia-de-ebola-uma-emergencia-internacional/2407167.html' term='ebola'>
+<doc docid='voa_2407167' lang='por' type='mono' source_url='https://www.voaportugues.com/a/oms-declara-epidemia-de-ebola-uma-emergencia-internacional/2407167.html' term='ebola'>
 OMS declara epidemia de Ebola uma emergência internacional
 A epidemia de ébola na África Ocidental é um "evento excepcional" e agora constitui um risco internacional à saúde, informou a Organização Mundial da Saúde (OMS) nesta sexta-feira, 8.
 A agência de saúde da Organização das Nações Unidas disse que as possíveis consequências de uma disseminação internacional maior do vírus, que já matou quase 1.000 pessoas em quatro países da África Ocidental, são "particularmente sérias" diante da virulência do vírus.
 "Uma resposta internacional coordenada é considerada essencial para parar e reverter a disseminação internacional de ébola", disse a OMS em comunicado após reunião de dois dias do Comité de Emergência da organização sobre o ébola.
 </doc>
-<doc id='voa_2512224' lang='por' type='mono' source_url='https://www.voaportugues.com/a/missionaria-angolana-internada-em-luanda-nao-tem-ebola/2512224.html' term='ebola'>
+<doc docid='voa_2512224' lang='por' type='mono' source_url='https://www.voaportugues.com/a/missionaria-angolana-internada-em-luanda-nao-tem-ebola/2512224.html' term='ebola'>
 Missionária angolana internada em Luanda não tem ébola
 O teste à missionária angolana que deu entrada no Hospital Josina Machel no dia 31 de Outubro sob suspeita de ébola foi negativo, segundo disse uma alto funcionário do Ministério da Saúde ao Jornal de Angola.
 “Os resultados laboratoriais revelaram que tinha malária e está a recuperar positivamente”, adiantou a mesma fonte.
@@ -3562,7 +3562,7 @@ As amostras de sangue da paciente foram enviadas à África do Sul “por uma qu
 A missionária angolana vive na França há sete anos e na viagem para Angola fez escala em Brazzaville, Kinshasa e Cabinda, antes de chegar a Luanda. Segundo a médica Maria Lina Antunes, a missionária terá tido contacto com uma doente com febre na República Democrática do Congo, cujas autoridades suspeitavam estar com o vírus do ébola.
 Depois de sentir-se mal, a religiosa procurou o hospital que decidiu por mandar fazer os testes que agora confirmaram ter malária e não ébola.
 </doc>
-<doc id='voa_2436190' lang='por' type='mono' source_url='https://www.voaportugues.com/a/angola-repatriamentoo-de-refugiados-da-rdc-sem-sobressaltos/2436190.html' term='ebola'>
+<doc docid='voa_2436190' lang='por' type='mono' source_url='https://www.voaportugues.com/a/angola-repatriamentoo-de-refugiados-da-rdc-sem-sobressaltos/2436190.html' term='ebola'>
 Angola: Repatriamento de refugiados da RDC "sem sobressaltos"
 Por Moniz Francisco
 O repatriamento de refugiados angolanos vindos da Republica Democrática do Congo continua "sem sobressaltos" mas as autoridades angolanas no Uíge estão a tomar precauções para detectar qualquer possível caso de Ébola.
@@ -3577,29 +3577,29 @@ A governante assegurou ainda que estão criadas as condições sobre as medidas 
 Maria Fernandes da Silva e Silva acrescentou ainda que segundo o acordado entre os governos de Angola e da RDC, deverão entrar a partir da fronteira de Kimbata na provincia do Uíge 1.000 compatriotas por semana e que o processo decorre em conjunto com o reassentamento das famílias nas suas zonas de origem.
 A província do Uíge aguarda por um total de 29.000 angolanos refugiados na RDC.
 </doc>
-<doc id='voa_2499001' lang='por' type='mono' source_url='https://www.voaportugues.com/a/eua-colocam-soldados-em-quarentena/2499001.html' term='ebola'>
+<doc docid='voa_2499001' lang='por' type='mono' source_url='https://www.voaportugues.com/a/eua-colocam-soldados-em-quarentena/2499001.html' term='ebola'>
 EUA colocam soldados em quarentena
 Uma dezena de soldados americanos está isolada numa base militar em Vicenza, na Itália, incluindo o major-general Darryl Williams, que supervisionou a reação inicial das Forças Armadas ao surto de ébola, embora nenhum deles exiba sintomas do vírus que matou quase 5 mil pessoas na Libéria, em Serra Leoa e na Guiné.
 Dezenas de outros soldados serão isolados nos próximos dias à medida que forem substituídos nos países afectados pelo ébola, onde os militares dos EUA vêm montando uma infraestrutura para ajudar as autoridades de saúde a tratarem das vítimas da doença. O coronel Steve Warren, porta-voz do Pentágono, descreveu as precauções como “monitoramento intensificado”.
 </doc>
-<doc id='voa_2409412' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ruanda-coloca-estudante-alemao-suspeito-de-ebola-em-quarentena/2409412.html' term='ebola'>
+<doc docid='voa_2409412' lang='por' type='mono' source_url='https://www.voaportugues.com/a/ruanda-coloca-estudante-alemao-suspeito-de-ebola-em-quarentena/2409412.html' term='ebola'>
 Ruanda coloca estudante alemão suspeito de ébola em quarentena
 O Governo de Ruanda anunciou ter colocado em quarentena um estudante alemão, internado em Kigali, que apresenta os sintomas do vírus ébola. O paciente foi submetido a exames e os resultados devem ser conhecidos em 48 horas.
 Além de Libéria e Guiné, Serra Leoa Nigéria também são afectados pela epidemia que já provocou 960 mortes em 1.800 casos confirmados, prováveis ou suspeitos desde o início do ano.
 </doc>
-<doc id='voa_2475241' lang='por' type='mono' source_url='https://www.voaportugues.com/a/obama-anuncia-controlos-mais-apertados-nos-aeroportos/2475241.html' term='ebola'>
+<doc docid='voa_2475241' lang='por' type='mono' source_url='https://www.voaportugues.com/a/obama-anuncia-controlos-mais-apertados-nos-aeroportos/2475241.html' term='ebola'>
 Obama anuncia controlos mais apertados nos aeroportos
 O Presidente dos EUA disse que o seu Governo irá proceder a controlos de segurança mais rigorosos em todos os aeroportos, dentro e fora do EUA, para prevenir novos casos de ébola.
 "Vamos fazer mais controlos de segurança aos passageiros, tanto nos países de origem do ébola, como aqui nos Estados Unidos", disse Barack Obama durante uma reunião com os membros do seu gabinete e uma equipa de segurança nacional que está agora centrada nesta crise.
 Mais sobre o Ébola
 </doc>
-<doc id='voa_2494849' lang='por' type='mono' source_url='https://www.voaportugues.com/a/mali-regista-o-primeiro-caso-de-ebola/2494849.html' term='ebola'>
+<doc docid='voa_2494849' lang='por' type='mono' source_url='https://www.voaportugues.com/a/mali-regista-o-primeiro-caso-de-ebola/2494849.html' term='ebola'>
 Mali regista primeiro caso de Ébola
 O Mali registou o primeiro caso confirmado de Ébola. A doente é uma menina de 10 anos proveniente da Guiné-Conacri que foi imediatamente colocada em quarentena na localidade de Kayes, anunciou o Ministério da Saúde daquele país. O comunicado diz que todas as pessoas que estiveram em contacto com a criança foram tratadas segundo as normas previstas e colocadas também em quarentena.
 O porta-voz do Ministério da Saúde, Markatchè Daou, contactado pela agência de notícias France Press, acrescentou que a menina chegou da Guiné-Conacri com a avó e que o caminho que percorreram estava identificado.
 Em Abril, o Mali já tinha conhecido alguns casos suspeitos de ébola, mas as análises não os confirmaram.
 </doc>
-<doc id='voa_1881379' lang='por' type='mono' source_url='https://www.voaportugues.com/a/%C3%A9bola-sucesso-do-tratamento-pode-estar-nos-anti-corpos/1881379.html' term='ebola'>
+<doc docid='voa_1881379' lang='por' type='mono' source_url='https://www.voaportugues.com/a/%C3%A9bola-sucesso-do-tratamento-pode-estar-nos-anti-corpos/1881379.html' term='ebola'>
 Ébola, sucesso do tratamento pode estar nos anti-corpos
 Quatro casos do vírus Ébola foram confirmados em Conacri, os primeiros da capital da Guiné, onde a epidemia estava restringida ao sul do país, afirmam fontes médicas. Os doentes foram imediatamente internados em centros de isolamento para evitar a propagação do vírus, contagioso e altamente letal.
 Vinte laboratórios e sites de pesquisa pelo mundo, incluindo Canadá, Japão, Israel, Uganda e os Estados Unidos da América, estão a trabalhar em simultâneo para desenvolver anti-corpos humanos contra o vírus do Ébola.
@@ -3621,7 +3621,7 @@ No estágio inicial, o Ébola pode ser difícil de distinguir de uma outra doen�
 Leia também
 Guiné-Bissau implementa plano de prevenção contra o Ébola
 </doc>
-<doc id='voa_2520136' lang='por' type='mono' source_url='https://www.voaportugues.com/a/mali-regista-mais-uma-morte-por-ebola/2520136.html' term='ebola'>
+<doc docid='voa_2520136' lang='por' type='mono' source_url='https://www.voaportugues.com/a/mali-regista-mais-uma-morte-por-ebola/2520136.html' term='ebola'>
 Mali regista mais uma morte por Ébola
 O Mali está a desdobrar-se para prevenir uma grande epidemia de Ébola na sequência da morte de um clérigo islâmico e de uma enfermeira, enquanto o número de mortos pela doença ultrapassa agora os cinco mil segundo a OMS na África Ocidental.
 As duas vítimas no Mali deitaram por terra o optimismo de que o país estava livre do altamente contagioso vírus e causaram alarme na capital, Bamako, onde o imã foi acompanhado por milhares de pessoas depois da sua morte.

@@ -1,4 +1,4 @@
-<doc id='bbc_geral-51920871' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51920871' term='COVID'>
+<doc docid='bbc_geral-51920871' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51920871' term='COVID'>
 Coronavírus: Argentina inicia operação para expulsar estrangeiros que não cumprem quarentena
 Na tentativa de evitar a propagação do novo coronavírus no país, o governo argentino iniciou uma operação policial especial, batendo à porta dos hotéis no território nacional, para expulsar os turistas estrangeiros que não estejam cumprindo a quarentena de 14 dias depois de chegarem da Europa, dos Estados Unidos, da China e de outros lugares com altos índices de contaminação.
 Na tentativa de evitar a propagação do novo coronavírus no país, o governo argentino iniciou uma operação policial especial, batendo à porta dos hotéis no território nacional, para expulsar os turistas estrangeiros que não estejam cumprindo a quarentena de 14 dias depois de chegarem da Europa, dos Estados Unidos, da China e de outros lugares com altos índices de contaminação.
@@ -30,7 +30,7 @@ Ao mesmo tempo, as prateleiras de alguns supermercados apresentavam a falta de d
 Procurados pela BBC News Brasil, o Itamaraty não tinha respondido email perguntado sobre o caso de possíveis brasileiros que tenham sido impedidos de embarcar para a Argentina, após o anúncio do fechamento das fronteiras. Os hotéis Sheraton e Hilton também não responderam sobre os passageiros que teriam sido expulsos de suas instalações por não cumprimento da quarentena.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-51938005' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51938005' term='COVID'>
+<doc docid='bbc_brasil-51938005' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51938005' term='COVID'>
 'Fiquem em casa': o desabafo de médica que tratou 1º paciente morto pelo novo coronavírus no Brasil
 A infectologista Carla Guerra faz um apelo. "Estamos muito preocupados. Reforcem as medidas de proteção e se cuidem", diz em tom de desabafo, durante entrevista à BBC News Brasil, no início da tarde desta terça-feira (17/03).
 A infectologista Carla Guerra faz um apelo. "Estamos muito preocupados. Reforcem as medidas de proteção e se cuidem", diz em tom de desabafo, durante entrevista à BBC News Brasil, no início da tarde desta terça-feira (17/03).
@@ -57,7 +57,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51877262' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51877262' term='COVID'>
+<doc docid='bbc_internacional-51877262' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51877262' term='COVID'>
 Coronavírus: o que está por trás do sucesso da Coreia do Sul para salvar vidas em meio à pandemia
 O coronavírus se tornou oficialmente uma pandemia na quarta-feira (11/3), após um anúncio da Organização Mundial da Saúde (OMS).
 O coronavírus se tornou oficialmente uma pandemia na quarta-feira (11/3), após um anúncio da Organização Mundial da Saúde (OMS).
@@ -90,7 +90,7 @@ O principal motivo foi a detecção de um foco de infecção em um call center l
 "As infecções conhecidas neste call center podem ser o início de uma nova onda que leva a um surto regional e à propagação da epidemia", disse Park, em comunicado.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51966435' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51966435' term='COVID'>
+<doc docid='bbc_internacional-51966435' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51966435' term='COVID'>
 Construção de hospitais, corridas às compras e quarentena: como a Argentina está enfrentando o coronavírus
 Mergulhada em uma crise econômica que vem se arrastando há quase dois anos, a Argentina agora corre para enfrentar a pandemia do novo coronavírus.
 Mergulhada em uma crise econômica que vem se arrastando há quase dois anos, a Argentina agora corre para enfrentar a pandemia do novo coronavírus.
@@ -130,7 +130,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51970243' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51970243' term='COVID'>
+<doc docid='bbc_internacional-51970243' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51970243' term='COVID'>
 Enfermeiro fotografa impacto do coronavírus nos hospitais da Itália
 "Todo mundo está nos chamando de heróis, mas eu não me sinto como um."
 "Todo mundo está nos chamando de heróis, mas eu não me sinto como um."
@@ -172,7 +172,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51910399' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51910399' term='COVID'>
+<doc docid='bbc_internacional-51910399' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51910399' term='COVID'>
 'Se você está em autoisolamento, eu posso ajudar': as provas de solidariedade em meio à pandemia do coronavírus
 Em meio à pandemia causada pelo novo coronavírus, o recado nas redes sociais é "ninguém segura mais a mão de ninguém". Mas, de longe, muita gente ainda se ajuda.
 Em meio à pandemia causada pelo novo coronavírus, o recado nas redes sociais é "ninguém segura mais a mão de ninguém". Mas, de longe, muita gente ainda se ajuda.
@@ -228,7 +228,7 @@ Eles entregaram os kits na casa das pessoas que precisaram ou deixaram os kits d
 *Colaborou Clarissa Neher, de Berlim
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51622518' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51622518' term='COVID'>
+<doc docid='bbc_internacional-51622518' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51622518' term='COVID'>
 Coronavírus 'No início era uma piada, mas agora há sensação de medo' - o clima em Veneza após alta de infecções
 As pessoas estão usando máscaras, o Carnaval terminou mais cedo e toda a atividade cultural da cidade paralisada.
 As pessoas estão usando máscaras, o Carnaval terminou mais cedo e toda a atividade cultural da cidade paralisada.
@@ -257,7 +257,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51864814' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51864814' term='COVID'>
+<doc docid='bbc_internacional-51864814' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51864814' term='COVID'>
 Coronavírus: Médicos podem ter de fazer 'escolha de Sofia' por quem vai viver na Itália
 Em questão de dias, a Itália tornou-se o segundo país mais afetado pela pandemia do novo coronavírus — e a situação continua a se agravar. O total de casos confirmados ultrapassou 15 mil, e já foram registradas mais de mil mortes.
 Em questão de dias, a Itália tornou-se o segundo país mais afetado pela pandemia do novo coronavírus — e a situação continua a se agravar. O total de casos confirmados ultrapassou 15 mil, e já foram registradas mais de mil mortes.
@@ -292,7 +292,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51914511' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51914511' term='COVID'>
+<doc docid='bbc_internacional-51914511' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51914511' term='COVID'>
 Coronavírus: as medidas mais recentes tomadas por governos no Brasil e no mundo contra a pandemia
 Governos ao redor do mundo vêm anunciando diariamente novas medidas para conter a disseminação do novo coronavírus. A covid-19, doença causada pelo vírus, já matou mais de 6.500 pessoas — mais de 167 mil casos foram reportados até esta segunda-feira (16/03).
 Governos ao redor do mundo vêm anunciando diariamente novas medidas para conter a disseminação do novo coronavírus. A covid-19, doença causada pelo vírus, já matou mais de 6.500 pessoas — mais de 167 mil casos foram reportados até esta segunda-feira (16/03).
@@ -338,7 +338,7 @@ O presidente ordenou o fechamento da fronteira com a Venezuela no dia 14 de mar�
 Outras restrições anteriormente tomadas são o desembarque de cruzeiros e o cancelamento ou adiamento de todos os eventos com mais de 500 pessoas, incluindo o festival de música Estéreo Picnic, o campeonato de futebol profissional e a Feira do Livro de Bogotá.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51969288' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51969288' term='COVID'>
+<doc docid='bbc_internacional-51969288' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51969288' term='COVID'>
 Curva de contágio do coronavírus no Brasil repete a de países europeus, alertam especialistas da Itália
 A velocidade de propagação do novo coronavírus no Brasil repete o padrão dos países que mais sofrem com o avanço da covid-19, demonstram gráficos produzidos pela BBC News Brasil com os dados da Organização Mundial da Saúde (OMS). O crescimento de casos confirmados segue um ritmo parecido com o de países como Alemanha, França e Reino Unido.
 A velocidade de propagação do novo coronavírus no Brasil repete o padrão dos países que mais sofrem com o avanço da covid-19, demonstram gráficos produzidos pela BBC News Brasil com os dados da Organização Mundial da Saúde (OMS). O crescimento de casos confirmados segue um ritmo parecido com o de países como Alemanha, França e Reino Unido.
@@ -368,7 +368,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51746841' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51746841' term='COVID'>
+<doc docid='bbc_internacional-51746841' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51746841' term='COVID'>
 A ameaça do coronavírus nos EUA, onde milhões não têm licença médica nem saúde pública
 Nos últimos dias, diante do avanço do novo coronavírus nos Estados Unidos, o CDC (Centros de Controle e Prevenção de Doenças - agência de pesquisa em saúde pública ligada ao Departamento de Saúde) divulgou uma série de recomendações aos americanos para se proteger e evitar que o vírus se espalhe, entre elas a de ficar em casa se estiverem doentes e procurar um médico.
 Nos últimos dias, diante do avanço do novo coronavírus nos Estados Unidos, o CDC (Centros de Controle e Prevenção de Doenças - agência de pesquisa em saúde pública ligada ao Departamento de Saúde) divulgou uma série de recomendações aos americanos para se proteger e evitar que o vírus se espalhe, entre elas a de ficar em casa se estiverem doentes e procurar um médico.
@@ -406,7 +406,7 @@ Os sintomas da doença podem levar até duas semanas para se manifestar. "Alguma
 "Talvez nem saibam que têm o vírus. E, nesse caso, especialmente sem licença médica e sem plano de saúde, irão espalhar a doença."
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51531871' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51531871' term='COVID'>
+<doc docid='bbc_internacional-51531871' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51531871' term='COVID'>
 'Peguei coronavírus, mas me curei': estudante conta por que decidiu ficar na China após doença
 Quando Kem Senou Pavel Daryl, estudante camaronês de 21 anos que vive na cidade chinesa de Jingzhou, contraiu o novo coronavírus, ele não queria de jeito nenhum levar a doença para seu continente natal.
 Quando Kem Senou Pavel Daryl, estudante camaronês de 21 anos que vive na cidade chinesa de Jingzhou, contraiu o novo coronavírus, ele não queria de jeito nenhum levar a doença para seu continente natal.
@@ -452,7 +452,7 @@ Alguns cobram uma operação de resgate que envolva diversos países do continen
 "A decisão de retirar seus cidadãos não é uma questão de 'solidariedade' com a China, ou a falta dela. É responsabilidade de cada país, em última instância, cuidar da saúde de seus cidadãos onde quer que eles estejam, incluindo a China", afirmou Hannah Ryder, da Development Reimagined, uma entidade internacional de consultoria em desenvolvimento com base em Pequim.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-51968584' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51968584' term='COVID'>
+<doc docid='bbc_brasil-51968584' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51968584' term='COVID'>
 Quais as principais orientações do Ministério da Saúde sobre o coronavírus
 O coronavírus está se espalhando pelo Brasil. Por causa disso, o Ministério da Saúde tem feito recomendações sobre os procedimentos ideais da população para se proteger e para combater a pandemia.
 O coronavírus está se espalhando pelo Brasil. Por causa disso, o Ministério da Saúde tem feito recomendações sobre os procedimentos ideais da população para se proteger e para combater a pandemia.
@@ -491,7 +491,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_brasil-51968590' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51968590' term='COVID'>
+<doc docid='bbc_brasil-51968590' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51968590' term='COVID'>
 'Me preparando para a terceira quarentena': o relato de brasileiro resgatado de Wuhan
 Na pequena cidade mineira de São Pedro dos Ferros, de cerca de 7,7 mil habitantes, o estudante Alefy Rodrigues, de 26 anos, se tornou símbolo do novo coronavírus.
 Na pequena cidade mineira de São Pedro dos Ferros, de cerca de 7,7 mil habitantes, o estudante Alefy Rodrigues, de 26 anos, se tornou símbolo do novo coronavírus.
@@ -538,7 +538,7 @@ As aulas presenciais na universidade dele devem retornar no fim de abril. "Mas a
 "Claro que me incomoda a possibilidade de ficar mais uma vez trancado. Mas sei que é uma situação fundamental para enfrentar o vírus. Além do mais, é importante estarmos com nossos pais e familiares neste momento. É importante conscientizá-los sobre a importância de não sair de casa e ter os cuidados necessários com a higiene", declara.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51518165' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51518165' term='COVID'>
+<doc docid='bbc_internacional-51518165' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51518165' term='COVID'>
 Coronavírus: por que não houve casos confirmados na América Latina?
 O coronavírus covid-19 passou em poucas semanas de uma emergência local na China para uma epidemia que ameaça o planeta.
 O coronavírus covid-19 passou em poucas semanas de uma emergência local na China para uma epidemia que ameaça o planeta.
@@ -576,7 +576,7 @@ Apesar dos esforços dos países da região frente ao surto, a OPAS recomenda a 
 "As principais recomendações para os habitantes se protegerem e outros de ficarem doentes são pelo menos três", diz a especialista.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-51933033' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51933033' term='COVID'>
+<doc docid='bbc_brasil-51933033' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51933033' term='COVID'>
 Coronavírus: de Bolsonaro a Merkel, como os brasileiros avaliam nas redes as respostas dos líderes à pandemia
 Enquanto as respostas de líderes europeus como Emmanuel Macron e Angela Merkel à pandemia do novo coronavírus têm sido altamente elogiadas por brasileiros nas redes sociais, as atitudes tomadas por Donald Trump e Jair Bolsonaro têm gerado polarização, com grupos se dividindo entre elogios e fortes críticas.
 Enquanto as respostas de líderes europeus como Emmanuel Macron e Angela Merkel à pandemia do novo coronavírus têm sido altamente elogiadas por brasileiros nas redes sociais, as atitudes tomadas por Donald Trump e Jair Bolsonaro têm gerado polarização, com grupos se dividindo entre elogios e fortes críticas.
@@ -618,7 +618,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51682790' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51682790' term='COVID'>
+<doc docid='bbc_internacional-51682790' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51682790' term='COVID'>
 Como epidemia de coronavírus pode ter efeito positivo no meio ambiente
 O alívio provavelmente será momentâneo, e sua causa é uma má notícia. Mas uma das consequências inesperadas do surto do novo coronavírus foi o ar mais limpo e a redução das emissões de gases que contribuem para as mudanças climáticas.
 O alívio provavelmente será momentâneo, e sua causa é uma má notícia. Mas uma das consequências inesperadas do surto do novo coronavírus foi o ar mais limpo e a redução das emissões de gases que contribuem para as mudanças climáticas.
@@ -644,7 +644,7 @@ Se isso não acontecer, no entanto, a redução de emissões de CO₂ devido ao 
 Porém, se a crise se espalhar ou acabar paralisando setores importantes de outros países, a redução de emissões pode acabar sendo realmente significativa para os volumes anuais.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51739648' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51739648' term='COVID'>
+<doc docid='bbc_internacional-51739648' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51739648' term='COVID'>
 Sem aulas para alunos e possível folga aos pais: as medidas da Itália para conter o coronavírus
 O governo italiano anunciou o fechamento de todas as escolas e universidades a partir desta quinta-feira (05/03) até o dia 15 de março, dentro do esforço para tentar conter o surto de coronavírus no país, onde o número de mortos aumentou consideravelmente nas últimas 24 horas.
 O governo italiano anunciou o fechamento de todas as escolas e universidades a partir desta quinta-feira (05/03) até o dia 15 de março, dentro do esforço para tentar conter o surto de coronavírus no país, onde o número de mortos aumentou consideravelmente nas últimas 24 horas.
@@ -659,7 +659,7 @@ Um rascunho de decreto oficial obtido pela agência Reuters indicava que as auto
 Até 3 de março, segundo a Organização Mundial da Saúde (OMS), havia 90,8 mil casos do coronavírus registrados em todo o mundo, sendo mais de 80 mil na China e cerca de 10,5 mil nos demais países. A China totalizava até terça 2,9 mil mortes pela doença, e há mais cerca de 200 mortes no restante do mundo.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-51939292' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51939292' term='COVID'>
+<doc docid='bbc_brasil-51939292' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51939292' term='COVID'>
 Coronavírus: impedido de atracar, cruzeiro com 50 brasileiros roda o mundo em busca de 'porto seguro'
 A incerteza crescente para se viajar, depois que uma série de países decidiu bloquear suas fronteiras como prevenção contra o novo coronavírus, preocupa especialmente um grupo de passageiros que está em um cruzeiro que saiu dia 28 de fevereiro de Sidney, na Austrália, com destino a Pabeete, na Polinésia Francesa, mas foi impedido de ancorar, em pelo menos dois portos, devido aos temores com a doença.
 A incerteza crescente para se viajar, depois que uma série de países decidiu bloquear suas fronteiras como prevenção contra o novo coronavírus, preocupa especialmente um grupo de passageiros que está em um cruzeiro que saiu dia 28 de fevereiro de Sidney, na Austrália, com destino a Pabeete, na Polinésia Francesa, mas foi impedido de ancorar, em pelo menos dois portos, devido aos temores com a doença.
@@ -688,7 +688,7 @@ Nesta terça-feira, passageiros de um cruzeiro que vinha do Brasil e foi impedid
 Os quase três mil passageiros, segundo informação do Ministério da Saúde, só foram liberados após a confirmação de que nenhum deles tinha o novo vírus. O Brasil passou a ser considerado, na Argentina, país de risco para o Covid-19, assim como o Chile, a China, os Estados Unidos e a Europa.
 Na prática, de acordo como Ministério do Interior, os que chegam do Brasil devem fazer a quarentena de 14 dias para evitar a propagação do vírus. Como outros países, a Argentina também fechou suas fronteiras na tentativa de evitar a expansão da doença.
 </doc>
-<doc id='bbc_brasil-51946693' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51946693' term='COVID'>
+<doc docid='bbc_brasil-51946693' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51946693' term='COVID'>
 Coronavírus: como diferenciar sintomas da covid-19 de uma gripe, um resfriado ou uma rinite?
 Com a disseminação do novo coronavírus no Brasil se intensificando às vésperas do outono, aumentaram as dúvidas sobre os sintomas da doença covid-19, que, na maioria dos casos, são semelhantes aos de uma gripe comum.
 Com a disseminação do novo coronavírus no Brasil se intensificando às vésperas do outono, aumentaram as dúvidas sobre os sintomas da doença covid-19, que, na maioria dos casos, são semelhantes aos de uma gripe comum.
@@ -719,7 +719,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_brasil-51777889' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51777889' term='COVID'>
+<doc docid='bbc_brasil-51777889' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51777889' term='COVID'>
 'Não há motivo para pânico', diz Bolsonaro em pronunciamento sobre coronavírus
 O presidente Jair Bolsonaro fez um pronunciamento, transmitido em rede nacional nesta sexta-feira (6), sobre a situação do novo coronavírus no Brasil e no mundo.
 O presidente Jair Bolsonaro fez um pronunciamento, transmitido em rede nacional nesta sexta-feira (6), sobre a situação do novo coronavírus no Brasil e no mundo.
@@ -740,7 +740,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51937888' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51937888' term='COVID'>
+<doc docid='bbc_internacional-51937888' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51937888' term='COVID'>
 Coronavírus: 5 estratégias de países que estão conseguindo conter o contágio
 O novo coronavírus está se espalhando por todo o mundo, gerando pânico generalizado diante dos milhares de novos casos e centenas de mortes registradas a cada dia, com cidades e países inteiros sendo fechados e vôos, eventos e festivais cancelados.
 O novo coronavírus está se espalhando por todo o mundo, gerando pânico generalizado diante dos milhares de novos casos e centenas de mortes registradas a cada dia, com cidades e países inteiros sendo fechados e vôos, eventos e festivais cancelados.
@@ -790,7 +790,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_geral-51920136' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51920136' term='COVID'>
+<doc docid='bbc_geral-51920136' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51920136' term='COVID'>
 Coronavírus: ‘Tive de abrir igreja do cemitério para abrigar a grande quantidade de corpos’, diz prefeito italiano
 "Chegamos ao limite". É assim que Giorgio Gori, o prefeito de Bergamo, resume as últimas semanas na cidade de 122 mil habitantes no norte da Itália, a cerca de 60 km de Milão.
 "Chegamos ao limite". É assim que Giorgio Gori, o prefeito de Bergamo, resume as últimas semanas na cidade de 122 mil habitantes no norte da Itália, a cerca de 60 km de Milão.
@@ -841,7 +841,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_brasil-51865304' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51865304' term='COVID'>
+<doc docid='bbc_brasil-51865304' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51865304' term='COVID'>
 Coronavírus: qual o tratamento para sintomas leves e graves da covid-19
 Os sintomas da covid-19, a doença causada pelo novo coronavírus, já são conhecidos. A Organização Mundial da Saúde (OMS) recomenda que procure ajuda médica quem apresentar tosse, febre e dificuldade para respirar. Mas como proceder se os sintomas surgirem? E que tratamento é recomendado a quem buscar atendimento por suspeita de ter sido infectado com o novo coronavírus?
 Final de YouTube post  de BBC News Brasil
@@ -887,7 +887,7 @@ Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 Final de YouTube post 4 de BBC News Brasil
 </doc>
-<doc id='bbc_brasil-51983859' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51983859' term='COVID'>
+<doc docid='bbc_brasil-51983859' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51983859' term='COVID'>
 Coronavírus: Bolsonaro e Mandetta criticam governadores e veem risco de colapso na saúde em abril
 O presidente Jair Bolsonaro e o ministro da Saúde, Luiz Henrique Mandetta, criticaram nesta sexta-feira (20/03) ações individuais adotadas nos Estados para conter o avanço do novo coronavírus, como o fechamento de estradas e aeroportos implementado pelo governador do Rio de Janeiro, Wilson Witzel.
 O presidente Jair Bolsonaro e o ministro da Saúde, Luiz Henrique Mandetta, criticaram nesta sexta-feira (20/03) ações individuais adotadas nos Estados para conter o avanço do novo coronavírus, como o fechamento de estradas e aeroportos implementado pelo governador do Rio de Janeiro, Wilson Witzel.
@@ -921,7 +921,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_brasil-51641867' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51641867' term='COVID'>
+<doc docid='bbc_brasil-51641867' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51641867' term='COVID'>
 Coronavírus: o que se sabe sobre o primeiro paciente diagnosticado com doença no Brasil
 Autoridades de saúde do Brasil anunciaram que um homem de 61 anos de São Paulo, que retornou de viagem à região norte da Itália, recebeu um diagnóstico de infecção pelo novo coronavírus.
 Autoridades de saúde do Brasil anunciaram que um homem de 61 anos de São Paulo, que retornou de viagem à região norte da Itália, recebeu um diagnóstico de infecção pelo novo coronavírus.
@@ -956,7 +956,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_geral-51937884' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51937884' term='COVID'>
+<doc docid='bbc_geral-51937884' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51937884' term='COVID'>
 Coronavírus: Quanto tempo o Sars-Cov-2 consegue sobreviver em diferentes superfícies
 Conforme a covid-19 se espalha, também aumenta o receio de tocar em superfícies.
 Conforme a covid-19 se espalha, também aumenta o receio de tocar em superfícies.
@@ -991,7 +991,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_geral-51959967' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51959967' term='COVID'>
+<doc docid='bbc_geral-51959967' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51959967' term='COVID'>
 Coronavírus: 6 dicas da OMS para controlar o estresse e a ansiedade
 A crise do coronavírus está gerando estresse na população. A constatação é da Organização Mundial da Saúde (OMS), e não é difícil constatar isso na nossa vida.
 A crise do coronavírus está gerando estresse na população. A constatação é da Organização Mundial da Saúde (OMS), e não é difícil constatar isso na nossa vida.
@@ -1021,7 +1021,7 @@ Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 Final de YouTube post 4 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51752012' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51752012' term='COVID'>
+<doc docid='bbc_internacional-51752012' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51752012' term='COVID'>
 Coronavírus: como são tratados os pacientes diagnosticados com covid-19
 Vários países vêm testando possíveis tratamentos para a doença covid-19, provocada pelo novo coronavírus surgido na China no fim do ano passado.
 Vários países vêm testando possíveis tratamentos para a doença covid-19, provocada pelo novo coronavírus surgido na China no fim do ano passado.
@@ -1049,7 +1049,7 @@ Apesar de todos os testes e de alguns resultados animadores, a Organização Pan
 Segundo ele, o único método de ação oficial que existe atualmente é o isolamento dos casos confirmados e a administração de respiração artificial para os casos mais graves.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-51920922' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51920922' term='COVID'>
+<doc docid='bbc_brasil-51920922' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51920922' term='COVID'>
 Coronavírus: chefe de pesquisa de vacina no Brasil está em isolamento
 No dia 13 de março, o médico Jorge Kalil se dedicava profundamente aos estudos sobre a pandemia do novo coronavírus, no laboratório de imunologia do Instituto do Coração (Incor), do qual é diretor. Ele trabalhava em sua mais recente tarefa: a busca por uma vacina contra o Sars-cov-2, como o vírus é chamado oficialmente. Foi o último dia em que atuou presencialmente na pesquisa.
 No dia 13 de março, o médico Jorge Kalil se dedicava profundamente aos estudos sobre a pandemia do novo coronavírus, no laboratório de imunologia do Instituto do Coração (Incor), do qual é diretor. Ele trabalhava em sua mais recente tarefa: a busca por uma vacina contra o Sars-cov-2, como o vírus é chamado oficialmente. Foi o último dia em que atuou presencialmente na pesquisa.
@@ -1081,7 +1081,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_geral-51736012' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51736012' term='COVID'>
+<doc docid='bbc_geral-51736012' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51736012' term='COVID'>
 10 boas notícias sobre o coronavírus em meio a "pandemia de medo"
 Classificando o novo coronavírus como uma pandemia ou não, o problema é grave. Não dá para minimizar a importância. Em menos de dois meses, ele se espalhou por vários continentes.
 Classificando o novo coronavírus como uma pandemia ou não, o problema é grave. Não dá para minimizar a importância. Em menos de dois meses, ele se espalhou por vários continentes.
@@ -1128,7 +1128,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51961349' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51961349' term='COVID'>
+<doc docid='bbc_internacional-51961349' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51961349' term='COVID'>
 Estudo preliminar na China busca relação entre tipo sanguíneo e risco de coronavírus
 Pessoas com sangue tipo A podem ser mais vulneráveis a serem infectadas com coronavírus em comparação com outros tipos sanguíneos, diz um estudo preliminar realizado na China.
 Pessoas com sangue tipo A podem ser mais vulneráveis a serem infectadas com coronavírus em comparação com outros tipos sanguíneos, diz um estudo preliminar realizado na China.
@@ -1150,7 +1150,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51824167' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51824167' term='COVID'>
+<doc docid='bbc_internacional-51824167' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51824167' term='COVID'>
 Coronavírus: o que podemos aprender com a gripe espanhola, pandemia que matou milhões há 100 anos
 Há 100 anos, o mundo ainda se recuperava de uma guerra que havia matado cerca de 20 milhões de pessoas quando teve de enfrentar algo ainda mais mortal: uma pandemia de gripe.
 Há 100 anos, o mundo ainda se recuperava de uma guerra que havia matado cerca de 20 milhões de pessoas quando teve de enfrentar algo ainda mais mortal: uma pandemia de gripe.
@@ -1181,7 +1181,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51877259' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51877259' term='COVID'>
+<doc docid='bbc_internacional-51877259' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51877259' term='COVID'>
 Coronavírus: como atuam os 'detetives de doenças' na luta contra a covid-19 nos EUA
 Quando os primeiros casos de covid-19 (a doença causada pelo novo coronavírus) começaram a surgir em Nova York, no início deste mês, as autoridades anunciaram imediatamente que "detetives de doenças" estavam investigando os contatos das pessoas infectadas para tentar retardar a propagação do vírus.
 Quando os primeiros casos de covid-19 (a doença causada pelo novo coronavírus) começaram a surgir em Nova York, no início deste mês, as autoridades anunciaram imediatamente que "detetives de doenças" estavam investigando os contatos das pessoas infectadas para tentar retardar a propagação do vírus.
@@ -1227,7 +1227,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51919755' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51919755' term='COVID'>
+<doc docid='bbc_internacional-51919755' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51919755' term='COVID'>
 Perfil de mortos por coronavírus na Itália é o mesmo da China, mas taxa de mortalidade é três vezes maior
 O perfil da maior parte dos mortos relacionados ao novo coronavírus na Itália, o segundo país mais afetado até agora pela pandemia, se assemelha aos da China, epicentro do novo vírus: os efeitos são particularmente fortes nos idosos do sexo masculino que já conviviam com alguma doença.
 O perfil da maior parte dos mortos relacionados ao novo coronavírus na Itália, o segundo país mais afetado até agora pela pandemia, se assemelha aos da China, epicentro do novo vírus: os efeitos são particularmente fortes nos idosos do sexo masculino que já conviviam com alguma doença.
@@ -1253,7 +1253,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_brasil-51822927' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51822927' term='COVID'>
+<doc docid='bbc_brasil-51822927' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51822927' term='COVID'>
 Coronavírus: 'Foco da imprensa em número de mortes e falta de proteção amplia medo geral', diz especialista em percepção de risco
 A preocupação global com a pandemia do novo coronavírus está gerando impactos nos mercados internacionais e uma onda de tomadas de decisões drásticas por governos em diferentes partes do mundo nos últimos dias.
 A preocupação global com a pandemia do novo coronavírus está gerando impactos nos mercados internacionais e uma onda de tomadas de decisões drásticas por governos em diferentes partes do mundo nos últimos dias.
@@ -1316,7 +1316,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51850382' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51850382' term='COVID'>
+<doc docid='bbc_internacional-51850382' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51850382' term='COVID'>
 Coronavírus: por que é fundamental 'achatar a curva' da transmissão no Brasil
 À medida que o coronavírus se espalha cada vez mais pelo mundo, autoridades de saúde têm tentado evitar o aumento acelerado do número de casos. "Achatar a curva", como se diz, é uma medida crucial para evitar a sobrecarga dos serviços de saúde e limitar o número de mortes.
 À medida que o coronavírus se espalha cada vez mais pelo mundo, autoridades de saúde têm tentado evitar o aumento acelerado do número de casos. "Achatar a curva", como se diz, é uma medida crucial para evitar a sobrecarga dos serviços de saúde e limitar o número de mortes.
@@ -1370,7 +1370,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51954858' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51954858' term='COVID'>
+<doc docid='bbc_internacional-51954858' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51954858' term='COVID'>
 Coronavirus: dos EUA à China, os países prontos para testar vacinas
 A corrida para desenvolver uma vacina contra o novo coronavírus, causador da doença covid-19, avança rapidamente.
 A corrida para desenvolver uma vacina contra o novo coronavírus, causador da doença covid-19, avança rapidamente.
@@ -1409,7 +1409,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51865313' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51865313' term='COVID'>
+<doc docid='bbc_internacional-51865313' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51865313' term='COVID'>
 O que explica a mudança de tom de Trump sobre o coronavírus
 Depois de semanas minimizando a gravidade do novo coronavírus, o presidente americano, Donald Trump, mudou de tom na noite de quarta-feira, em um pronunciamento à nação em que anunciou a suspensão de viagens da Europa para os Estados Unidos por 30 dias a partir desta sexta-feira, com exceção feita às partidas do Reino Unido.
 Depois de semanas minimizando a gravidade do novo coronavírus, o presidente americano, Donald Trump, mudou de tom na noite de quarta-feira, em um pronunciamento à nação em que anunciou a suspensão de viagens da Europa para os Estados Unidos por 30 dias a partir desta sexta-feira, com exceção feita às partidas do Reino Unido.
@@ -1456,7 +1456,7 @@ Mas Hanson e Wawro ressaltam que ainda é muito cedo para saber que impacto o co
 "Mas estamos em território desconhecido. Um declínio econômico rápido, contínuo declínio nas bolsas de valores, podem ter impacto dramático", observa. "Se o coronavírus não for contido, se a taxa de contaminação permanecer alta, se ocorrer algo como o que está ocorrendo na Itália, com altas taxas de mortalidade, isso será a questão a que (os eleitores) estarão prestando atenção (e não a economia)."
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-51746662' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51746662' term='COVID'>
+<doc docid='bbc_brasil-51746662' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51746662' term='COVID'>
 Coronavírus: por que todos os casos no Brasil foram registrados em São Paulo?
 Há pelo menos uma característica comum entre os quatro primeiros casos do novo coronavírus confirmados no Brasil até a manhã desta quinta-feira (5): todos foram registrados em São Paulo (SP).
 Há pelo menos uma característica comum entre os quatro primeiros casos do novo coronavírus confirmados no Brasil até a manhã desta quinta-feira (5): todos foram registrados em São Paulo (SP).
@@ -1488,7 +1488,7 @@ A OMS estima que 3,4% dos pacientes morrem por causa da covid-19 — as mortes o
 "Ainda não há transmissão local no Brasil neste momento, mas isso vai acabar acontecendo com a chegada de tantos casos e com tantos voos vindos de países com muitos casos, como a Itália. Mas é importante dizer que a covid-19 é uma gripe, que precisa de mais cuidados principalmente quando são pacientes idosos ou indivíduos imunodeprimidos, que são grupos que também são mais afetados pela gripe comum", declara Boulos.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_geral-51363153' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51363153' term='COVID'>
+<doc docid='bbc_geral-51363153' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51363153' term='COVID'>
 O que é pandemia e o que muda com declaração da OMS sobre o novo coronavírus
 A Organização Mundial da Saúde (OMS) declarou nesta quarta-feira (11/03) que está em curso uma pandemia do novo coronavírus.
 A Organização Mundial da Saúde (OMS) declarou nesta quarta-feira (11/03) que está em curso uma pandemia do novo coronavírus.
@@ -1526,7 +1526,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_brasil-51865307' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51865307' term='COVID'>
+<doc docid='bbc_brasil-51865307' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51865307' term='COVID'>
 Após polêmicas e divisões na direita, coronavírus faz manifestações pró-Bolsonaro serem adiadas
 O presidente Jair Bolsonaro recomendou nesta quinta-feira (12) que os atos convocados em seu apoio para este domingo fossem "repensados" devido ao avanço do coronavírus no país. Ele próprio é suspeito de ter contraído a doença durante viagem que fez aos Estados Unidos — o resultado do exame deve sair nesta sexta.
 O presidente Jair Bolsonaro recomendou nesta quinta-feira (12) que os atos convocados em seu apoio para este domingo fossem "repensados" devido ao avanço do coronavírus no país. Ele próprio é suspeito de ter contraído a doença durante viagem que fez aos Estados Unidos — o resultado do exame deve sair nesta sexta.
@@ -1576,7 +1576,7 @@ Heloisa Ravagnani Muniz é a presidente da seção local da Sociedade Brasileira
 "Agora, claro que as pessoas que tem mais de 60 anos, com alguma comorbidade, com alguma doença crônica, devem evitar aglomeração. Tanto pelo corona quanto por causa de outros vírus que possam estar circulando pelo local", diz a especialista.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-51850380' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51850380' term='COVID'>
+<doc docid='bbc_brasil-51850380' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51850380' term='COVID'>
 Coronavírus: Distrito Federal veta aulas, eventos públicos e mesas próximas em bares
 Com o avanço do surto de coronavírus no Brasil, o governo do Distrito Federal decidiu suspender por ao menos cinco dias todas as aulas e atividades em escolas e universidades públicas e privadas, a realização de eventos públicos com mais de cem pessoas.
 Com o avanço do surto de coronavírus no Brasil, o governo do Distrito Federal decidiu suspender por ao menos cinco dias todas as aulas e atividades em escolas e universidades públicas e privadas, a realização de eventos públicos com mais de cem pessoas.
@@ -1603,7 +1603,7 @@ Essa lavagem das mãos deve durar pelo menos 20 segundos e o sabão deve cobrir 
 O CDC diz para usar desinfetante para as mãos — como o álcool em gel — "quando água e sabão não estiverem disponíveis." E acrescenta que lavar as mãos com água e sabão é a melhor maneira de se livrar de germes na maioria das situações, não apenas no caso da epidemia de novo coronavírus.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-51546235' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51546235' term='COVID'>
+<doc docid='bbc_brasil-51546235' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51546235' term='COVID'>
 Casos pontuais ou surto generalizado: os possíveis cenários para o coronavírus no Brasil
 O primeiro caso de coronavírus no Brasil foi confirmado nesta quarta-feira (26). Um homem de 61 anos, que passou duas semanas na Itália, apresentou os sintomas e agora está em isolamento domiciliar em São Paulo.
 O primeiro caso de coronavírus no Brasil foi confirmado nesta quarta-feira (26). Um homem de 61 anos, que passou duas semanas na Itália, apresentou os sintomas e agora está em isolamento domiciliar em São Paulo.
@@ -1653,7 +1653,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_brasil-51980200' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51980200' term='COVID'>
+<doc docid='bbc_brasil-51980200' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51980200' term='COVID'>
 Coronavírus: políticos pedem adiamento das eleições municipais e TSE avalia possibilidade
 No dia 4 de outubro, os brasileiros deverão ir às urnas para eleger 5.570 prefeitos e quase 57 mil vereadores nas cidades do país.
 No dia 4 de outubro, os brasileiros deverão ir às urnas para eleger 5.570 prefeitos e quase 57 mil vereadores nas cidades do país.
@@ -1705,7 +1705,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_brasil-51828831' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51828831' term='COVID'>
+<doc docid='bbc_brasil-51828831' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51828831' term='COVID'>
 Coronavírus: a empresária que decidiu impor quarentena a si mesma em São Paulo
 Pelas próximas duas semanas, a designer e empresária Marina Chevrand, de 38 anos, planeja ficar em quarentena em um apartamento em São Paulo, junto com a esposa. A decisão foi tomada pela própria brasileira, que retornou da Itália, na manhã de segunda-feira (09/03). "Acreditamos que seja uma medida importante para este momento", diz, por telefone, à BBC News Brasil.
 Pelas próximas duas semanas, a designer e empresária Marina Chevrand, de 38 anos, planeja ficar em quarentena em um apartamento em São Paulo, junto com a esposa. A decisão foi tomada pela própria brasileira, que retornou da Itália, na manhã de segunda-feira (09/03). "Acreditamos que seja uma medida importante para este momento", diz, por telefone, à BBC News Brasil.
@@ -1744,7 +1744,7 @@ As duas somente sairão de casa para ir a lugares abertos, como parques ou ruas.
 O casal queria fazer os exames para o coronavírus no Brasil. "Mas descobrimos que somente as pessoas que vieram de outro país e estão com sintomas podem fazer esses exames. Quem sabe a gente consiga algo na rede privada, nos próximos dias", comenta Marina.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_geral-51762093' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51762093' term='COVID'>
+<doc docid='bbc_geral-51762093' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51762093' term='COVID'>
 Trocando de vagão a cada espirro: como coronavírus mudou a vida de um 'neurótico por doença'
 Como muitos brasileiros, o designer Guilherme Abo Arrage vive momentos de ansiedade e incerteza em meio à propagação do novo coronavírus pelo mundo.
 Como muitos brasileiros, o designer Guilherme Abo Arrage vive momentos de ansiedade e incerteza em meio à propagação do novo coronavírus pelo mundo.
@@ -1774,7 +1774,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_brasil-51953663' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51953663' term='COVID'>
+<doc docid='bbc_brasil-51953663' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51953663' term='COVID'>
 Coronavírus: SP confirma novas mortes e número de óbitos sobe para 18 no Brasil
 Ao menos 18 pessoas morreram no Brasil em decorrência do novo coronavírus desde a segunda-feira (16/03). Quinze casos foram confirmados em São Paulo e três no Rio de Janeiro.
 O texto foi atualizado às 13h30 de 21 de março de 2020.
@@ -1800,7 +1800,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51453567' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51453567' term='COVID'>
+<doc docid='bbc_internacional-51453567' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51453567' term='COVID'>
 Por que os morcegos, considerados possível fonte do coronavírus, transmitem tantas doenças
 Embora ainda não se saiba ao certo qual animal é o vetor do surto de coronavírus que surgiu na cidade chinesa de Wuhan e já infectou mais de 25 mil pessoas em todo o mundo, todos os olhos estão voltados para o morcego. Mais recentemente, o pangolin, animal semelhante ao tatu, também chegou a ser apontado como vetor inicial do surto, mas, por serem notoriamente portadores de vários tipos de doenças, os morcegos continuam listados entre as grandes possibilidades.
 Embora ainda não se saiba ao certo qual animal é o vetor do surto de coronavírus que surgiu na cidade chinesa de Wuhan e já infectou mais de 25 mil pessoas em todo o mundo, todos os olhos estão voltados para o morcego. Mais recentemente, o pangolin, animal semelhante ao tatu, também chegou a ser apontado como vetor inicial do surto, mas, por serem notoriamente portadores de vários tipos de doenças, os morcegos continuam listados entre as grandes possibilidades.
@@ -1839,7 +1839,7 @@ Apesar disso, muitos cientistas lembram que os morcegos desempenham um papel imp
 Eles são essenciais para a polinização de muitas frutas, como bananas, abacates e mangas, e também comem toneladas de insetos vetores de doenças.
 Nesse sentido, Peter Daszak, presidente da EcoHealth Alliance, enfatizou que uma das medidas mais importantes que podem ser tomadas para evitar zoonoses é proibir o comércio de animais selvagens, como a China está fazendo temporariamente.
 </doc>
-<doc id='bbc_brasil-51966442' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51966442' term='COVID'>
+<doc docid='bbc_brasil-51966442' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51966442' term='COVID'>
 Coronavírus: hospital de SP confirma quinta morte e tem mais 12 idosos na UTI com covid-19
 A operadora de saúde Prevent Senior registrou a quinta morte pelo novo coronavírus, também no Hospital Sancta Maggiore do bairro do Paraíso, em São Paulo (SP) — onde ocorreram os outros quatro óbitos registrados no Estado.
 A operadora de saúde Prevent Senior registrou a quinta morte pelo novo coronavírus, também no Hospital Sancta Maggiore do bairro do Paraíso, em São Paulo (SP) — onde ocorreram os outros quatro óbitos registrados no Estado.
@@ -1859,7 +1859,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51661091' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51661091' term='COVID'>
+<doc docid='bbc_internacional-51661091' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51661091' term='COVID'>
 Coronavírus: como a Itália tomou lugar da China como principal foco de preocupação sobre a covid-19
 Na manhã desta quinta-feira (27/02), o governador da região da Lombardia, a mais rica da Itália, decidiu entrar em quarentena autoimposta por duas semanas depois que um auxiliar dele foi diagnosticado com o novo coronavírus.
 Na manhã desta quinta-feira (27/02), o governador da região da Lombardia, a mais rica da Itália, decidiu entrar em quarentena autoimposta por duas semanas depois que um auxiliar dele foi diagnosticado com o novo coronavírus.
@@ -1896,7 +1896,7 @@ Há uma tendência de queda no número de novos casos no país há mais de duas 
 Autoridades chinesas afirmam, inclusive, que a previsão de é conter as transmissões até abril.
 Atualmente, os cinco países com mais casos são: China (78.497), Coreia do Sul (1.595), Itália (453), Japão (189) e Irã (139).
 </doc>
-<doc id='bbc_internacional-51714432' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51714432' term='COVID'>
+<doc docid='bbc_internacional-51714432' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51714432' term='COVID'>
 Coronavírus: por que a OMS diz que mundo está em 'território desconhecido' com nova doença
 O mundo está em "território desconhecido" com o surto de novo coronavírus, afirmou nesta segunda-feira (02/03) a Organização Mundial da Saúde (OMS).
 O mundo está em "território desconhecido" com o surto de novo coronavírus, afirmou nesta segunda-feira (02/03) a Organização Mundial da Saúde (OMS).
@@ -1940,12 +1940,12 @@ Em comparação, a gripe sazonal tem uma taxa de mortalidade média de cerca de 
 Outras cepas de coronavírus, como os causadores da Síndrome Respiratória Aguda Grave (Sars) e da Síndrome Respiratória no Oriente Médio (Mers), têm taxas de mortalidade muito mais altas que o surto atual, pelos dados disponíveis até o momento.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_geral-51593466' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51593466' term='COVID'>
+<doc docid='bbc_geral-51593466' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51593466' term='COVID'>
 Vice-ministro iraniano é diagnosticado com coronavírus após aparecer suando em entrevista
 O vice-ministro de Saúde do Irã foi diagnosticado com covid-19 em meio ao surto que já matou 15 pessoas no país.
 
 </doc>
-<doc id='bbc_internacional-51496270' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51496270' term='COVID'>
+<doc docid='bbc_internacional-51496270' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51496270' term='COVID'>
 Coronavírus: especialista recomenda evitar 'abraços e beijos'
 Um dos principais virologistas britânicos recomendou que as pessoas parem de se abraçar e se beijar para evitar o contágio pelo novo coronavírus.
 Um dos principais virologistas britânicos recomendou que as pessoas parem de se abraçar e se beijar para evitar o contágio pelo novo coronavírus.
@@ -1983,7 +1983,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_brasil-51982465' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51982465' term='COVID'>
+<doc docid='bbc_brasil-51982465' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51982465' term='COVID'>
 Ministério Público do Trabalho analisa morte de doméstica no RJ após patroa ter coronavírus
 Por duas décadas, uma empregada doméstica trabalhou na casa de uma família no Leblon, no Rio de Janeiro.
 Por duas décadas, uma empregada doméstica trabalhou na casa de uma família no Leblon, no Rio de Janeiro.
@@ -2030,7 +2030,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_brasil-51920006' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51920006' term='COVID'>
+<doc docid='bbc_brasil-51920006' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51920006' term='COVID'>
 Coronavírus: escolas sem banheiro dificultam proteção de crianças no Brasil, diz Unicef
 O Fundo das Nações Unidas para a Infância (Unicef) divulgou nesta segunda-feira um guia sobre como proteger crianças e escolas contra a transmissão do coronavírus. O documento traz orientações de como o tema deve ser abordado com crianças por pais e professores para reduzir o contágio e evitar o estresse entre os menores.
 O Fundo das Nações Unidas para a Infância (Unicef) divulgou nesta segunda-feira um guia sobre como proteger crianças e escolas contra a transmissão do coronavírus. O documento traz orientações de como o tema deve ser abordado com crianças por pais e professores para reduzir o contágio e evitar o estresse entre os menores.
@@ -2057,7 +2057,7 @@ O documento destaca ainda a importância de manter as crianças informadas, mas 
 "Explique de maneira tranquila quais podem ser as consequências. Por exemplo, se a criança estiver doente em casa ou no hospital, você pode dizer: 'Você precisa ficar em casa/no hospital porque é mais seguro para você e para seus amigos. Eu sei que é difícil (por vezes é assustador ou é chato), mas nós precisamos seguir as regras para que nós e as outras pessoas fiquem seguras. Logo as coisas voltarão ao normal'", sugere o guia.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-51713943' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51713943' term='COVID'>
+<doc docid='bbc_brasil-51713943' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51713943' term='COVID'>
 Coronavírus: Ministério da Saúde confirma 904 casos no Brasil
 O Ministério da Saúde divulgou, nesta sexta-feira (18/03), que há 904 casos confirmados do novo coronavírus no Brasil.
 O Ministério da Saúde divulgou, nesta sexta-feira (18/03), que há 904 casos confirmados do novo coronavírus no Brasil.
@@ -2098,7 +2098,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_geral-51974926' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51974926' term='COVID'>
+<doc docid='bbc_geral-51974926' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51974926' term='COVID'>
 Coronavírus: Por que a pandemia atual pode durar meses ou anos
 O mundo está fechando as portas. Lugares que antes ficavam cheios de gente tornaram-se cidades fantasmas, com enormes restrições impostas a nossas vidas: quarentenas, fechamentos de escolas, restrições de viagens e proibições de reuniões.
 O mundo está fechando as portas. Lugares que antes ficavam cheios de gente tornaram-se cidades fantasmas, com enormes restrições impostas a nossas vidas: quarentenas, fechamentos de escolas, restrições de viagens e proibições de reuniões.
@@ -2142,7 +2142,7 @@ Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 Final de YouTube post 4 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51968491' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51968491' term='COVID'>
+<doc docid='bbc_internacional-51968491' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51968491' term='COVID'>
 'Em colapso': a dramática situação dos hospitais da Itália na crise do coronavírus
 Todos os dias, centenas de pacientes afetados por covid-19, a doença causada pelo novo coronavírus, lotam os hospitais da Itália.
 Todos os dias, centenas de pacientes afetados por covid-19, a doença causada pelo novo coronavírus, lotam os hospitais da Itália.
@@ -2193,7 +2193,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51938703' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51938703' term='COVID'>
+<doc docid='bbc_internacional-51938703' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51938703' term='COVID'>
 Coronavírus: lentidão inicial em diagnósticos facilitou disseminação de vírus na China, diz estudo
 Um novo estudo sobre o início do surto do novo coronavírus na China aponta que a maioria absoluta das infecções não foi detectada naquele momento, o que não só fez os casos de multiplicarem, mas espalhou o vírus pelo país.
 Um novo estudo sobre o início do surto do novo coronavírus na China aponta que a maioria absoluta das infecções não foi detectada naquele momento, o que não só fez os casos de multiplicarem, mas espalhou o vírus pelo país.
@@ -2220,7 +2220,7 @@ O próprio governo federal tem dito que faltam insumos para ampliar essa testage
 "Isso demonstra mais uma vez que a questão do isolamento social é fundamental, porque não conseguimos mapear todos os casos", afirma Spilki.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-51948541' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51948541' term='COVID'>
+<doc docid='bbc_brasil-51948541' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51948541' term='COVID'>
 General Heleno é mais um da comitiva de Bolsonaro a EUA com coronavírus
 O ministro-chefe do Gabinete da Segurança Institucional (GSI) da Presidência da República, general da reserva Augusto Heleno, anunciou nesta quarta-feira em sua conta pessoal no Twitter que foi diagnosticado com o novo coronavírus. Ele ainda aguarda contraprova. Se confirmada, Heleno será a 16ª pessoa que integrou ou teve contato com a comitiva do presidente Jair Bolsonaro em visita recente aos Estados Unidos a receber resultado positivo para o vírus.
 O ministro-chefe do Gabinete da Segurança Institucional (GSI) da Presidência da República, general da reserva Augusto Heleno, anunciou nesta quarta-feira em sua conta pessoal no Twitter que foi diagnosticado com o novo coronavírus. Ele ainda aguarda contraprova. Se confirmada, Heleno será a 16ª pessoa que integrou ou teve contato com a comitiva do presidente Jair Bolsonaro em visita recente aos Estados Unidos a receber resultado positivo para o vírus.
@@ -2249,7 +2249,7 @@ Karina Kufa, advogada de Jair Bolsonaro
 Quatro integrantes da equipe de apoio da comitiva
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51987873' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51987873' term='COVID'>
+<doc docid='bbc_internacional-51987873' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51987873' term='COVID'>
 Coronavírus: os sites em tempo real que mostram dados de mortes, curvas de contágio e mutações
 A pandemia do novo coronavírus tem sido marcada por diversas características, como a transmissão do vírus por pessoas sem sintomas, o gigantesco impacto econômico, as quarentenas de milhões de pessoas e o acompanhamento em tempo real do avanço da doença pelo mundo.
 A pandemia do novo coronavírus tem sido marcada por diversas características, como a transmissão do vírus por pessoas sem sintomas, o gigantesco impacto econômico, as quarentenas de milhões de pessoas e o acompanhamento em tempo real do avanço da doença pelo mundo.
@@ -2282,12 +2282,12 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51620964' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51620964' term='COVID'>
+<doc docid='bbc_internacional-51620964' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51620964' term='COVID'>
 Coronavírus: drone mostra fila enorme por máscaras na Coreia do Sul
 Um drone capturou imagens de centenas de sul-coreanos fazendo fila para adquirir máscaras em Daegu, um dos epicentros do surto de coronavírus no país.
 
 </doc>
-<doc id='bbc_internacional-51924935' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51924935' term='COVID'>
+<doc docid='bbc_internacional-51924935' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51924935' term='COVID'>
 Coronavírus: fechar fronteiras ajuda a evitar propagação?
 Com o rápido aumento do número de casos da covid-19, a doença causada pelo novo coronavírus que já infectou mais de 180 mil pessoas e causou mais de 7 mil mortes ao redor do mundo, diversos países anunciaram o fechamento de fronteiras e outras restrições a viagens e ao movimento de pessoas, em uma tentativa de conter a propagação do vírus.
 Com o rápido aumento do número de casos da covid-19, a doença causada pelo novo coronavírus que já infectou mais de 180 mil pessoas e causou mais de 7 mil mortes ao redor do mundo, diversos países anunciaram o fechamento de fronteiras e outras restrições a viagens e ao movimento de pessoas, em uma tentativa de conter a propagação do vírus.
@@ -2321,7 +2321,7 @@ Muitos países ao redor do mundo também estão adotando medidas para que a popu
 Nos Estados Unidos, as duas maiores cidades do país, Nova York e Los Angeles, determinaram o fechamento de bares e restaurantes para tentar conter o avanço do vírus. Antes do anúncio do fechamento, já havia a recomendação de que as pessoas evitassem locais com muita gente, mas durante o fim de semana vários bares nessas cidades estavam lotados.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51641785' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51641785' term='COVID'>
+<doc docid='bbc_internacional-51641785' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51641785' term='COVID'>
 Coronavírus: quais os sintomas e os riscos da doença covid-19
 O novo coronavírus, causador de uma doença pulmonar grave — a covid-19 —, já se espalhou para mais de 150 países.
 O novo coronavírus, causador de uma doença pulmonar grave — a covid-19 —, já se espalhou para mais de 150 países.
@@ -2361,7 +2361,7 @@ A síndrome respiratória aguda grave (Sars), que também é causada por um coro
 O surto de Sars, que teve início na China em 2002, matou 774 das 8.098 pessoas infectadas.
 O vírus atual — um dos sete tipos de coronavírus — não parece ter sofrido mutação até o momento. Mas, embora pareça estabilizado, isso é algo que os cientistas estão observando de perto.
 </doc>
-<doc id='bbc_geral-51803415' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51803415' term='COVID'>
+<doc docid='bbc_geral-51803415' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51803415' term='COVID'>
 Coronavírus: Sintomas aparecem em média 5 dias após infecção e fase contagiosa pode durar 2 semanas, mostra estudo
 Demora em média cinco dias para as pessoas começarem a mostrar sintomas do novo coronavírus, segundo cientistas.
 Demora em média cinco dias para as pessoas começarem a mostrar sintomas do novo coronavírus, segundo cientistas.
@@ -2381,7 +2381,7 @@ E ele diz, ainda: "Há pouca evidência de que as pessoas podem rotineiramente t
 A melhor maneira de proteger-se e prevenir infecções é:
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-51745333' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51745333' term='COVID'>
+<doc docid='bbc_brasil-51745333' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51745333' term='COVID'>
 Por quanto tempo posso ficar afastado do trabalho? Os direitos trabalhistas em meio à pandemia do coronavírus
 A chegada do novo coronavírus ao Brasil pode alterar o cotidiano em escritórios, fábricas e outros ambientes de trabalho, já que o vírus é transmissível de pessoa para pessoa.
 A chegada do novo coronavírus ao Brasil pode alterar o cotidiano em escritórios, fábricas e outros ambientes de trabalho, já que o vírus é transmissível de pessoa para pessoa.
@@ -2431,7 +2431,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51881797' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51881797' term='COVID'>
+<doc docid='bbc_internacional-51881797' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51881797' term='COVID'>
 O que significa Trump declarar emergência nacional por avanço do coronavírus nos EUA
 Com mais de 1,8 mil casos confirmados de coronavírus, metade deles nas últimas 72 horas, o governo dos Estados Unidos declarou nesta sexta-feira (13/03) estado de emergência nacional para tentar conter a epidemia.
 Com mais de 1,8 mil casos confirmados de coronavírus, metade deles nas últimas 72 horas, o governo dos Estados Unidos declarou nesta sexta-feira (13/03) estado de emergência nacional para tentar conter a epidemia.
@@ -2465,7 +2465,7 @@ Sem garantias de que receberão seus salários e não poderão ser demitidos por
 Em termos econômicos, Trump afirmou que cortaria juros sobre empréstimos estudantis e que sua administração pretende comprar a maior quantidade possível de petróleo para aproveitar que o preço do barril caiu em 30% de seu valor.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-51859307' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51859307' term='COVID'>
+<doc docid='bbc_brasil-51859307' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51859307' term='COVID'>
 Coronavírus: como a queda da bolsa afeta a 'economia real'?
 Esta quinta-feira (12/03) marcou mais um dia de caos no mercado financeiro.
 *Matéria atualizada às 22h56 de 12/03/20
@@ -2516,7 +2516,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51820820' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51820820' term='COVID'>
+<doc docid='bbc_internacional-51820820' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51820820' term='COVID'>
 Coronavírus: 'Estão todos em pânico, passamos de um extremo ao outro', diz médica brasileira na Itália
 A médica brasileira Mariana Dacorégio faz parte do imenso mutirão de profissionais de saúde na linha de frente do combate ao coronavírus na Itália, o segundo país mais afetado pelo surto, depois da China.
 A médica brasileira Mariana Dacorégio faz parte do imenso mutirão de profissionais de saúde na linha de frente do combate ao coronavírus na Itália, o segundo país mais afetado pelo surto, depois da China.
@@ -2553,7 +2553,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51727015' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51727015' term='COVID'>
+<doc docid='bbc_internacional-51727015' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51727015' term='COVID'>
 Coronavírus: sob críticas por condução da crise, Irã liberta 54 mil presos contra proliferação da doença
 O Irã, que tem sido questionado sobre a forma como está conduzindo e divulgando a propagação do novo coronavírus em seu território, libertou temporariamente mais de 54 mil presos em um esforço para conter a proliferação em prisões lotadas.
 O Irã, que tem sido questionado sobre a forma como está conduzindo e divulgando a propagação do novo coronavírus em seu território, libertou temporariamente mais de 54 mil presos em um esforço para conter a proliferação em prisões lotadas.
@@ -2596,7 +2596,7 @@ Gholamhossein Esmaili, o porta-voz do Judiciário do país, afirmou que Zaghari-
 Um porta-voz do Ministério das Relações Exteriores britânico pediu que o governo iraniano permita imediatamente que "profissionais de saúde avaliem a situação de saúde dos cidadãos que têm dupla cidadania, britânica e iraniana".
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51777795' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51777795' term='COVID'>
+<doc docid='bbc_internacional-51777795' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51777795' term='COVID'>
 Coronavírus: o impacto sem precedentes da doença sobre as companhias aéreas - e os preços das passagens
 A economia global tem sido gravemente afetada pela disseminação do novo coronavírus e um dos setores mais atingidos é a indústria da aviação.
 A economia global tem sido gravemente afetada pela disseminação do novo coronavírus e um dos setores mais atingidos é a indústria da aviação.
@@ -2632,7 +2632,7 @@ Essa crise de saúde já causou uma perda estimada de US$ 50 bilhões na economi
 E o crescimento econômico pode cair pela metade se o problema se prolongar e piorar, de acordo com as projeções da Organização para Cooperação e Desenvolvimento Econômico (OCDE).
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-51844550' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51844550' term='COVID'>
+<doc docid='bbc_brasil-51844550' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51844550' term='COVID'>
 O que o Brasil está fazendo para combater a pandemia do coronavírus
 O ministro da Saúde, Luiz Henrique Mandetta, apresentou nesta quarta-feira (11/03) em sessão na Câmara dos Deputados um resumo das principais medidas e do diagnóstico do governo sobre como combater o avanço do novo coronavírus no Brasil.
 O ministro da Saúde, Luiz Henrique Mandetta, apresentou nesta quarta-feira (11/03) em sessão na Câmara dos Deputados um resumo das principais medidas e do diagnóstico do governo sobre como combater o avanço do novo coronavírus no Brasil.
@@ -2669,7 +2669,7 @@ Pelas novas regras, só terão livre acesso às duas Casas legislativas pessoas 
 Além disso, foram suspensas viagens ao exterior de servidores e congressistas e eventos dentro do Congresso sem relação direta com as atividades legislativas dos plenários e comissões. Maia e Alcolumbre também estabeleceram regras de afastamento para quarentena em casos de possível contato com a doença.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-51652924' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51652924' term='COVID'>
+<doc docid='bbc_brasil-51652924' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51652924' term='COVID'>
 Por que brasileiro com coronavírus passará quarentena em casa?
 O primeiro paciente diagnosticado no Brasil com o novo coronavírus não ficou internado em um hospital após a confirmação do caso. O homem, de 61 anos, foi para quarentena em sua casa, em São Paulo.
 O primeiro paciente diagnosticado no Brasil com o novo coronavírus não ficou internado em um hospital após a confirmação do caso. O homem, de 61 anos, foi para quarentena em sua casa, em São Paulo.
@@ -2704,7 +2704,7 @@ Para a pneumologista Patrícia Canto, o fator climático é um ponto positivo pa
 "Principalmente se a pessoa saiu do país recentemente ou se teve contato com alguém que tenha saído", pontua a médica.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-51954958' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51954958' term='COVID'>
+<doc docid='bbc_brasil-51954958' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51954958' term='COVID'>
 Favelas serão as grandes vítimas do coronavírus no Brasil, diz líder de Paraisópolis
 Com pouca informação, vivendo em ambientes superlotados e sem condições de seguir recomendações como comprar álcool em gel, estocar comida ou trabalhar de casa, os moradores das favelas serão as principais vítimas do novo coronavírus no Brasil.
 Com pouca informação, vivendo em ambientes superlotados e sem condições de seguir recomendações como comprar álcool em gel, estocar comida ou trabalhar de casa, os moradores das favelas serão as principais vítimas do novo coronavírus no Brasil.
@@ -2765,7 +2765,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51901743' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51901743' term='COVID'>
+<doc docid='bbc_internacional-51901743' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51901743' term='COVID'>
 Coronavírus: Trump se diz 'muito feliz' após EUA baixar juros e lançar enorme programa de estímulo econômico
 Os Estados Unidos baixaram para quase zero suas taxas de juros e lançaram neste domingo (15) um programa de US$ 700 bilhões, em uma tentativa de proteger a economia dos impactos do coronavírus.
 Os Estados Unidos baixaram para quase zero suas taxas de juros e lançaram neste domingo (15) um programa de US$ 700 bilhões, em uma tentativa de proteger a economia dos impactos do coronavírus.
@@ -2794,7 +2794,7 @@ A Conferência das Nações Unidas sobre Comércio e Desenvolvimento (UNCTAD) al
 E que a duração e a profundidade da crise dependerão de três fatores: até que ponto e com que rapidez o vírus se espalhará, quanto tempo levará para que uma vacina seja encontrada e qual será a eficácia dos governos na mitigação dos danos.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51889721' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51889721' term='COVID'>
+<doc docid='bbc_internacional-51889721' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51889721' term='COVID'>
 Como o Japão está conseguindo frear avanço do coronavírus
 Da China, o coronavírus logo se instalou no Japão. Porém, o número de infectados divulgado pelo governo japonês indica que a disseminação ocorre em ritmo mais lento em comparação ao verificado em muitos dos 117 países e territórios onde a Organização Mundial de Saúde (OMS) já registrou infectados.
 Da China, o coronavírus logo se instalou no Japão. Porém, o número de infectados divulgado pelo governo japonês indica que a disseminação ocorre em ritmo mais lento em comparação ao verificado em muitos dos 117 países e territórios onde a Organização Mundial de Saúde (OMS) já registrou infectados.
@@ -2833,7 +2833,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51944800' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51944800' term='COVID'>
+<doc docid='bbc_internacional-51944800' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51944800' term='COVID'>
 Coronavírus: o que diz modelo matemático que levou Reino Unido a mudar radicalmente combate à covid-19
 A estratégia do governo britânico contra o coronavírus baseava-se na "mitigação" da pandemia e na "imunização de rebanho", ou infecção de grande parte da população, que na teoria desenvolveria imunidade coletiva com o objetivo de proteger todos os cidadãos.
 A estratégia do governo britânico contra o coronavírus baseava-se na "mitigação" da pandemia e na "imunização de rebanho", ou infecção de grande parte da população, que na teoria desenvolveria imunidade coletiva com o objetivo de proteger todos os cidadãos.
@@ -2866,7 +2866,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51674894' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51674894' term='COVID'>
+<doc docid='bbc_internacional-51674894' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51674894' term='COVID'>
 Coronavírus: por que há mais homens que mulheres infectados
 No início de fevereiro, quando as autoridades chinesas já estavam combatendo o surto de coronavírus há um mês, o Centro de Controle e Prevenção de Doenças da China (CCDC) realizou seu primeiro estudo com base em dados de pacientes.
 No início de fevereiro, quando as autoridades chinesas já estavam combatendo o surto de coronavírus há um mês, o Centro de Controle e Prevenção de Doenças da China (CCDC) realizou seu primeiro estudo com base em dados de pacientes.
@@ -2901,7 +2901,7 @@ A pesquisa do CCDC diz que cerca de 80,9% das novas infecções por coronavírus
 No entanto, também há um inconveniente em ter um sistema imunológico mais forte.
 "Embora a melhor resposta imune das mulheres contribua para uma eliminação mais rápida dos micróbios, essas respostas robustas também podem contribuir para uma maior suscetibilidade a doenças inflamatórias e autoimunes entre as mulheres", diz Janine Austin Clayton à BBC News Mundo.
 </doc>
-<doc id='bbc_internacional-51718755' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51718755' term='COVID'>
+<doc docid='bbc_internacional-51718755' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51718755' term='COVID'>
 Coronavírus: o mapa que mostra o alcance mundial da doença
 O novo coronavírus, que surgiu em dezembro na província de Hubei, no centro da China, já chegou a mais de 150 países e territórios em cinco continentes.
 O novo coronavírus, que surgiu em dezembro na província de Hubei, no centro da China, já chegou a mais de 150 países e territórios em cinco continentes.
@@ -2918,7 +2918,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_brasil-51889723' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51889723' term='COVID'>
+<doc docid='bbc_brasil-51889723' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51889723' term='COVID'>
 Quais são as principais medidas do governo brasileiro contra o Coronavírus até agora?
 O governo federal prepara uma série de medidas para combater o alastramento do Sars-Cov-2, coronavírus responsável pela atual pandemia declarada pela Organização Mundial da Saúde (OMS).
 O governo federal prepara uma série de medidas para combater o alastramento do Sars-Cov-2, coronavírus responsável pela atual pandemia declarada pela Organização Mundial da Saúde (OMS).
@@ -2970,7 +2970,7 @@ Agora, a ideia é que pelo menos mais 5,2 mil postos funcionem em horário ampli
 Segundo a pasta, até 90% dos casos de coronavírus poderão ser tratados nestes postos de saúde — a pessoa pode buscar o serviço quando tiver sintomas da coivd-19, como febre, tosse e dispneia.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51966296' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51966296' term='COVID'>
+<doc docid='bbc_internacional-51966296' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51966296' term='COVID'>
 Coronavírus: como a covid-19 acirrou guerra política entre EUA e China
 O novo coronavírus virou o último campo de batalha entre os Estados Unidos e a China.
 O novo coronavírus virou o último campo de batalha entre os Estados Unidos e a China.
@@ -3029,7 +3029,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51564593' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51564593' term='COVID'>
+<doc docid='bbc_internacional-51564593' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51564593' term='COVID'>
 Coronavírus: por que é difícil encontrar o paciente zero da epidemia
 Em meio à persistência da epidemia do novo coronavírus, autoridades chinesas e especialistas ainda não entraram em acordo quanto à origem da doença, que até esta sexta-feira (21/2) acumulava 76,7 mil casos no mundo (75,5 mil deles na China), 2.239 mortes em território chinês e oito no restante do mundo, segundo o boletim mais recente da Organização Mundial da Saúde (OMS).
 Em meio à persistência da epidemia do novo coronavírus, autoridades chinesas e especialistas ainda não entraram em acordo quanto à origem da doença, que até esta sexta-feira (21/2) acumulava 76,7 mil casos no mundo (75,5 mil deles na China), 2.239 mortes em território chinês e oito no restante do mundo, segundo o boletim mais recente da Organização Mundial da Saúde (OMS).
@@ -3070,7 +3070,7 @@ Outros pesquisadores erroneamente interpretaram a letra "o" como se fosse o núm
 Na época, o professor Oliver Pybus, da Universidade de Oxford, comentou o estudo dizendo: "O paciente zero se tornou um assunto a respeito das origens da aids. No entanto, não importando o quão atrativa essa narrativa possa ser, ela não tem base científica e é muito triste que essa pessoa tenha sido identificada".
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_geral-51983987' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51983987' term='COVID'>
+<doc docid='bbc_geral-51983987' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51983987' term='COVID'>
 Coronavírus: profissionais de saúde relatam hostilidade no transporte público de SP
 A técnica de enfermagem Celícia de Vasconcelos Pereira Neres, 37, conta ter tido um dia de trabalho traumatizante na última quinta-feira (19). Trabalhando em turnos extras para dar conta do movimento de pacientes preocupados com o coronavírus no hospital em que trabalha, na região da Liberdade, na cidade de São Paulo, ela relata momentos de medo ao ser hostilizada e até agredida tanto na ida quanto na volta do trabalho.
 A técnica de enfermagem Celícia de Vasconcelos Pereira Neres, 37, conta ter tido um dia de trabalho traumatizante na última quinta-feira (19). Trabalhando em turnos extras para dar conta do movimento de pacientes preocupados com o coronavírus no hospital em que trabalha, na região da Liberdade, na cidade de São Paulo, ela relata momentos de medo ao ser hostilizada e até agredida tanto na ida quanto na volta do trabalho.
@@ -3113,7 +3113,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51627407' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51627407' term='COVID'>
+<doc docid='bbc_internacional-51627407' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51627407' term='COVID'>
 Coronavírus: como a taxa de mortalidade do covid-19 se compara com outras doenças infecciosas
 Desde que a Covid-19, originada pelo novo coronavírus, começou a se espalhar, em dezembro do ano passado, uma das principais questões que mantém especialistas e autoridades de saúde ocupados é o quão mortal é esta nova doença.
 Desde que a Covid-19, originada pelo novo coronavírus, começou a se espalhar, em dezembro do ano passado, uma das principais questões que mantém especialistas e autoridades de saúde ocupados é o quão mortal é esta nova doença.
@@ -3150,7 +3150,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51703189' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51703189' term='COVID'>
+<doc docid='bbc_internacional-51703189' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51703189' term='COVID'>
 Coronavírus: Quais as chances de morrer por causa da covid-19
 Cientistas estimam hoje que a cada mil casos do novo coronavírus, entre cinco e 40 resultarão em morte — ou mais precisamente, nove em mil ou cerca de 1%.
 Cientistas estimam hoje que a cada mil casos do novo coronavírus, entre cinco e 40 resultarão em morte — ou mais precisamente, nove em mil ou cerca de 1%.
@@ -3189,7 +3189,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51901822' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51901822' term='COVID'>
+<doc docid='bbc_internacional-51901822' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51901822' term='COVID'>
 O que é 'imunidade de grupo', a polêmica estratégia do Reino Unido para combater o coronavírus
 A estratégia do governo do Reino Unido para lidar com a pandemia de coronavírus é radicalmente diferente da de outros países.
 A estratégia do governo do Reino Unido para lidar com a pandemia de coronavírus é radicalmente diferente da de outros países.
@@ -3234,7 +3234,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_geral-51683203' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51683203' term='COVID'>
+<doc docid='bbc_geral-51683203' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51683203' term='COVID'>
 Se coronavírus é menos fatal que outras epidemias, por que assusta tanto o mercado?
 O fato de os mercados em todo o mundo reagirem com extremo mau humor a cada notícia que indique o avanço do coronavírus não significa, necessariamente, que um desfecho catastrófico esteja no radar dos investidores.
 O fato de os mercados em todo o mundo reagirem com extremo mau humor a cada notícia que indique o avanço do coronavírus não significa, necessariamente, que um desfecho catastrófico esteja no radar dos investidores.
@@ -3274,7 +3274,7 @@ Do pouco que se pode prever sobre o futuro em meio aos desfechos relacionados ao
 Sales, da Guide Investimentos, diz que nas próximas semanas a tendência é o mercado continuar a acompanhar e a reagir aos dados da Organização Mundial da Saúde e aos anúncios das empresas, em busca de evidências sobre os efeitos do vírus. "Vão acompanhar novos casos, mortes, recuperação e sinais de paralisação", diz.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51955095' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51955095' term='COVID'>
+<doc docid='bbc_internacional-51955095' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51955095' term='COVID'>
 Demissões, isolamento e melancolia: a capital dos EUA em quarentena pelo coronavírus
 Apelidada pelo escritor americano Henry James de "a cidade da conversa", por congregar na mesma mesa de bar políticos rivais, lobistas e ativistas, Washington D.C. talvez possa ser descrita hoje como a cidade do silêncio.
 Apelidada pelo escritor americano Henry James de "a cidade da conversa", por congregar na mesma mesa de bar políticos rivais, lobistas e ativistas, Washington D.C. talvez possa ser descrita hoje como a cidade do silêncio.
@@ -3324,7 +3324,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51580625' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51580625' term='COVID'>
+<doc docid='bbc_internacional-51580625' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51580625' term='COVID'>
 A seita apontada como ‘viveiro’ do coronavírus na Coreia do Sul
 Um grupo religioso na Coreia do Sul foi identificado como um viveiro de coronavírus, segundo autoridades, em meio a um aumento acentuado de casos confirmados no país.
 Um grupo religioso na Coreia do Sul foi identificado como um viveiro de coronavírus, segundo autoridades, em meio a um aumento acentuado de casos confirmados no país.
@@ -3351,7 +3351,7 @@ Na quarta-feira, o governo de Hong Kong disse que um homem de 70 anos com doenç
 O Japão tem três mortes atribuídas ao vírus, enquanto França, Filipinas e Taiwan registraram uma morte cada.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-51933098' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51933098' term='COVID'>
+<doc docid='bbc_brasil-51933098' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51933098' term='COVID'>
 Coronavírus: Porto Alegre confirma 1º caso de transmissão entre Estados
 O Hospital de Clínicas de Porto Alegre confirmou nesta terça-feira (17/03) o primeiro caso de infecção entre Estados do novo coronavírus no Brasil.
 O Hospital de Clínicas de Porto Alegre confirmou nesta terça-feira (17/03) o primeiro caso de infecção entre Estados do novo coronavírus no Brasil.
@@ -3390,7 +3390,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_brasil-51673933' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51673933' term='COVID'>
+<doc docid='bbc_brasil-51673933' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51673933' term='COVID'>
 Coronavírus: 29 perguntas e respostas para entender tudo que importa sobre a doença
 O novo coronavírus infectou mais de 170 mil pessoas em mais de 140 países e territórios em cinco continentes desde o surgimento da doença, em dezembro passado. Ao menos 5.746 morreram.
 O texto foi atualizado às 4h03 de 16 de março de 2020.
@@ -3529,7 +3529,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_brasil-51714002' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51714002' term='COVID'>
+<doc docid='bbc_brasil-51714002' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51714002' term='COVID'>
 PIB: Por que 2019 frustrou mais uma vez as expectativas de crescimento da economia?
 O crescimento da economia brasileira frustrou as expectativas pelo segundo ano consecutivo em 2019.
 O crescimento da economia brasileira frustrou as expectativas pelo segundo ano consecutivo em 2019.
@@ -3599,7 +3599,7 @@ Com essas premissas, a instituição manteve inalterada a estimativa que tinha p
 A OCDE alerta, entretanto, que se o surto for mais intenso e disseminado do que o esperado, o PIB global poderia cair à metade do esperado antes da revisão, para 1,5%, levando países como o Japão e a Zona do Euro à recessão.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-51742913' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51742913' term='COVID'>
+<doc docid='bbc_brasil-51742913' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51742913' term='COVID'>
 Coronavírus: Brasil não adota novo critério da OMS que amplia busca por casos suspeitos
 O ministro da Saúde, Luiz Henrique Mandetta, já disse diversas vezes que o Brasil está sempre um passo à frente de outros países na resposta à epidemia do novo coronavírus, mas em um aspecto importante o país está um passo atrás.
 Atualização: O Ministério da Saúde anunciou na tarde desta segunda-feira (9/3) que passará a testar pacientes para o novo coronavírus, independentemente de histórico de viagem, em cidades que já têm um caso confirmado de Covid-19, quando a pessoa tiver uma síndrome gripal e outros exames não apontarem a causa da doença, ou uma síndrome respiratória aguda grave, em todos os casos.
@@ -3642,7 +3642,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_brasil-51742907' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51742907' term='COVID'>
+<doc docid='bbc_brasil-51742907' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51742907' term='COVID'>
 Coronavírus: o que se sabe sobre os casos sem sintomas, como o da adolescente de SP que foi infectada
 O Ministério da Saúde informou nesta quinta-feira (5/3) que uma adolescente de 13 anos de São Paulo está entre os oito casos confirmados de infecção pelo Sars-Cov-2 no Brasil. O que diferencia essa paciente dos outros até agora é o fato de ela ter sido diagnosticada sem apresentar sintomas da Covid-19, a doença provocada pelo novo coronavírus.
 O Ministério da Saúde informou nesta quinta-feira (5/3) que uma adolescente de 13 anos de São Paulo está entre os oito casos confirmados de infecção pelo Sars-Cov-2 no Brasil. O que diferencia essa paciente dos outros até agora é o fato de ela ter sido diagnosticada sem apresentar sintomas da Covid-19, a doença provocada pelo novo coronavírus.
@@ -3682,7 +3682,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_geral-51810488' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51810488' term='COVID'>
+<doc docid='bbc_geral-51810488' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51810488' term='COVID'>
 Coronavírus: estudo revela fatores de risco e sintomas em pacientes mortos em hospital na China
 Um paciente com idade avançada que chega ao hospital com covid-19, doenças crônicas como hipertensão e diabetes, além de sinais de sepse (inflamação sistêmica do organismo contra uma infecção) deve acender um alerta pois, segundo um estudo publicado nesta segunda-feira (9), estes são traços de um perfil mais vulnerável à morte pela nova doença.
 Um paciente com idade avançada que chega ao hospital com covid-19, doenças crônicas como hipertensão e diabetes, além de sinais de sepse (inflamação sistêmica do organismo contra uma infecção) deve acender um alerta pois, segundo um estudo publicado nesta segunda-feira (9), estes são traços de um perfil mais vulnerável à morte pela nova doença.
@@ -3722,7 +3722,7 @@ Além disso, não há um controle sobre o que aconteceu com os pacientes estudad
 Rafael Jácomo aponta também que a amostra de 191 pacientes é relativamente pequena, assim como o recorte temporal. O médico destaca ainda que fatores culturais e hábitos alimentares, além da própria estrutura de saúde de um país, podem mudar a relação entre comorbidades e infecção viral.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_geral-51970220' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51970220' term='COVID'>
+<doc docid='bbc_geral-51970220' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51970220' term='COVID'>
 Coronavírus: 'Ansiosos para ajudar', médicos cubanos ainda aguardam convocação
 Médicos cubanos que permaneceram no país após o término de sua participação no programa Mais Médicos estão "ansiosos" para voltar ao trabalho e ajudar na contenção do coronavírus, disse à BBC News Brasil Niurka Valdes Perez, representante desses profissionais. Embora o governo de Jair Bolsonaro já tenha anunciado que vai convocá-los, ela diz que o chamado ainda não ocorreu.
 Médicos cubanos que permaneceram no país após o término de sua participação no programa Mais Médicos estão "ansiosos" para voltar ao trabalho e ajudar na contenção do coronavírus, disse à BBC News Brasil Niurka Valdes Perez, representante desses profissionais. Embora o governo de Jair Bolsonaro já tenha anunciado que vai convocá-los, ela diz que o chamado ainda não ocorreu.
@@ -3746,7 +3746,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51931935' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51931935' term='COVID'>
+<doc docid='bbc_internacional-51931935' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51931935' term='COVID'>
 Trump aposta em vacina contra coronavírus, mas imunização não poderá conter atual pandemia
 "Hoje começamos a primeira fase de testes da vacina contra o coronavírus", anunciou o presidente americano, Donald Trump, na tarde desta segunda-feira (16/03), para uma plateia esvaziada de jornalistas, que acompanhavam a coletiva de imprensa na Casa Branca.
 "Hoje começamos a primeira fase de testes da vacina contra o coronavírus", anunciou o presidente americano, Donald Trump, na tarde desta segunda-feira (16/03), para uma plateia esvaziada de jornalistas, que acompanhavam a coletiva de imprensa na Casa Branca.
@@ -3787,7 +3787,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51476205' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51476205' term='COVID'>
+<doc docid='bbc_internacional-51476205' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51476205' term='COVID'>
 Coronavírus: França confirma primeira morte pela doença fora da Ásia
 Um turista chinês morreu na França após contrair o novo coronavírus. Esta é a morte em decorrência da doença fora da Ásia.
 Um turista chinês morreu na França após contrair o novo coronavírus. Esta é a morte em decorrência da doença fora da Ásia.
@@ -3808,7 +3808,7 @@ Já o Ministério da Saúde do Egito confirmou na sexta-feira o primeiro caso de
 Seis trabalhadores da saúde tiveram mortes confirmadas na China. As autoridades locais têm tido dificuldade para fornecer equipamentos de proteção, como máscaras respiratórias, óculos e roupas de proteção, em quantidade suficiente aos hospitais em Hubei.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_geral-51823914' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51823914' term='COVID'>
+<doc docid='bbc_geral-51823914' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51823914' term='COVID'>
 Por que a Bolsa teve forte alta após a queda histórica de segunda-feira
 Um dia depois do pânico generalizado nos mercados financeiros de todo o mundo, um ajuste por parte dos investidores nesta terça-feira (10/03), mesmo sem grandes alterações no cenário global, colocou para cima o preço de moedas emergentes, dos mercados de ações e das matérias-primas em todo o mundo.
 Um dia depois do pânico generalizado nos mercados financeiros de todo o mundo, um ajuste por parte dos investidores nesta terça-feira (10/03), mesmo sem grandes alterações no cenário global, colocou para cima o preço de moedas emergentes, dos mercados de ações e das matérias-primas em todo o mundo.
@@ -3841,7 +3841,7 @@ Ontem, abalada pelos preços do petróleo, a Petrobras perdeu R$ 91 bilhões em 
 Nesta terça, os preços do petróleo fecharam em forte alta, recuperando parte das perdas da véspera, quando o preço do barril da commodity tombou quase 25%.  Os contratos futuros do petroleo do tipo Brent para maio encerraram o dia em alta de 10,42%, aos US$ 37,94, na bolsa ICE, em Londres. Já os contratos do tipo WTI fecharam o dia com valorização de 12,05%, aos US$ 34,88.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51810050' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51810050' term='COVID'>
+<doc docid='bbc_internacional-51810050' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51810050' term='COVID'>
 Coronavírus: 'Estamos lidando com epidemias da forma errada', diz especialista que 'previu' surto de covid-19
 Como ecologista de doenças, Peter Daszak se dedica a estudar como surgem vírus que, de repente, se tornam um problema de saúde pública no mundo. E ele está convencido de que há algo errado na forma como lidamos com epidemias como a do novo coronavírus.
 Como ecologista de doenças, Peter Daszak se dedica a estudar como surgem vírus que, de repente, se tornam um problema de saúde pública no mundo. E ele está convencido de que há algo errado na forma como lidamos com epidemias como a do novo coronavírus.
@@ -3880,7 +3880,7 @@ Daszak - Estou cautelosamente otimista. É bom ver uma resposta global nesta esc
 Temos uma cooperação mundial em torno da OMS, em que os países trabalham juntos para superar uma pandemia. Isso é muito encorajador. Mas estamos no meio de uma epidemia. Daqui a dois anos, poderemos dizer que algo de fato mudou? Esse é o problema.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-51774865' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51774865' term='COVID'>
+<doc docid='bbc_brasil-51774865' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51774865' term='COVID'>
 Coronavírus: Por que é tão difícil parar de tocar o nosso rosto
 De todos os nossos hábitos diários que passam despercebidos no dia a dia, um pode ser particularmente preocupante em tempos de surto de doenças.
 De todos os nossos hábitos diários que passam despercebidos no dia a dia, um pode ser particularmente preocupante em tempos de surto de doenças.
@@ -3931,7 +3931,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_brasil-51931934' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51931934' term='COVID'>
+<doc docid='bbc_brasil-51931934' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51931934' term='COVID'>
 São Paulo registra primeira morte por coronavírus e investiga outras quatro
 A Secretaria de Saúde do Estado de São Paulo confirmou, na manhã desta terça-feira (17/03), a primeira morte relacionada ao novo coronavírus no Brasil. O paciente era homem morador de São Paulo, de 62 anos, que estava internado em um hospital privado.
 Reportagem atualizada às 14h10 do dia 17/03/2020
@@ -3960,7 +3960,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51937414' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51937414' term='COVID'>
+<doc docid='bbc_internacional-51937414' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51937414' term='COVID'>
 Coronavírus: Jovens não estão livres de desenvolver sintomas mais graves, diz especialista
 Apesar de o risco de morte por covid-19 ser extremamente raro em adultos abaixo de 50 anos, eles não estão "imunes" a apresentar sintomas graves da doença causada pelo novo coronavírus - ainda que, de fato, a probabilidade disso acontecer nessa faixa etária seja menor do que a dos idosos.
 Apesar de o risco de morte por covid-19 ser extremamente raro em adultos abaixo de 50 anos, eles não estão "imunes" a apresentar sintomas graves da doença causada pelo novo coronavírus - ainda que, de fato, a probabilidade disso acontecer nessa faixa etária seja menor do que a dos idosos.
@@ -3982,7 +3982,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_geral-51939380' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51939380' term='COVID'>
+<doc docid='bbc_geral-51939380' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51939380' term='COVID'>
 Coronavírus: da prata coloidal a água com vinagre, o perigo das falsas curas compartilhadas na internet
 Médicos, profissionais de saúde, cientistas e gestores públicos alertam que, em meio à pandemia do coronavírus, a disseminação de informações sobre falsas curas para a covid-19 pode agravar a situação.
 Médicos, profissionais de saúde, cientistas e gestores públicos alertam que, em meio à pandemia do coronavírus, a disseminação de informações sobre falsas curas para a covid-19 pode agravar a situação.
@@ -4049,7 +4049,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_brasil-51963247' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51963247' term='COVID'>
+<doc docid='bbc_brasil-51963247' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51963247' term='COVID'>
 Coronavírus: 4 momentos que marcaram a reação de Bolsonaro à pandemia
 As diferentes reações do presidente Jair Bolsonaro à ameaça do novo coronavírus têm sido alvo de uma série de críticas.
 As diferentes reações do presidente Jair Bolsonaro à ameaça do novo coronavírus têm sido alvo de uma série de críticas.
@@ -4091,7 +4091,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_geral-51842518' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51842518' term='COVID'>
+<doc docid='bbc_geral-51842518' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51842518' term='COVID'>
 Coronavírus: OMS declara pandemia
 A Organização Mundial de Saúde (OMS) declarou pandemia de covid-19.
 A Organização Mundial de Saúde (OMS) declarou pandemia de covid-19.
@@ -4123,7 +4123,7 @@ Mas uma pandemia não se caracteriza pela gravidade da doença que ela causa.
 Pandemias são mais prováveis com novos vírus. Como não temos defesas naturais contra eles ou medicamentos e vacinas para nos proteger, eles conseguem infectar muitas pessoas e se espalhar facilmente e de forma sustentada.
 O novo coronavírus preenche todos estes requisitos, na opinião do ministro da Saúde, Luiz Henrique Mandetta, em declarações dadas antes da declaração de pandemia da OMS.
 </doc>
-<doc id='bbc_geral-51823910' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51823910' term='COVID'>
+<doc docid='bbc_geral-51823910' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51823910' term='COVID'>
 Coronavírus: as dicas da Organização Mundial da Saúde para não 'pirar' de preocupação com a epidemia
 À medida que as autoridades em todo o mundo anunciam imposição de quarentena, outras restrições e dão orientações para tentar conter o avanço do novo coronavírus, é normal que mais pessoas se sintam assustadas ou estressadas diante de tantas notícias.
 À medida que as autoridades em todo o mundo anunciam imposição de quarentena, outras restrições e dão orientações para tentar conter o avanço do novo coronavírus, é normal que mais pessoas se sintam assustadas ou estressadas diante de tantas notícias.
@@ -4150,7 +4150,7 @@ Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 Final de YouTube post 4 de BBC News Brasil
 </doc>
-<doc id='bbc_geral-51564585' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51564585' term='COVID'>
+<doc docid='bbc_geral-51564585' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51564585' term='COVID'>
 Coronavírus: estudantes brasileiros na China ficam no 'limbo' em meio ao surto
 Ao retornar ao alojamento estudantil do Instituto Politécnico de Macau (IPM) no dia 31 de janeiro, depois de passar o feriado do Ano Novo chinês em Hong Kong, a brasileira Bruna Sebastiany, de 24 anos, de Cruzeiro do Sul (RS), foi avisada de que não poderia entrar no local em razão da epidemia do novo coronavírus.
 Ao retornar ao alojamento estudantil do Instituto Politécnico de Macau (IPM) no dia 31 de janeiro, depois de passar o feriado do Ano Novo chinês em Hong Kong, a brasileira Bruna Sebastiany, de 24 anos, de Cruzeiro do Sul (RS), foi avisada de que não poderia entrar no local em razão da epidemia do novo coronavírus.
@@ -4175,7 +4175,7 @@ Ela embarcou em Pequim no dia 29 de janeiro e chegou a São Paulo no dia seguint
 A perspectiva de aulas online preocupa Stéfani. "Estou esperando uma posição da universidade. Se isso se confirmar, terei aulas de madrugada. Tenho saudade da rotina na China", afirma.
 Na pequena Roca Sales, de 12 mil habitantes, o retorno da estudante não passou despercebido. "Fiquei sabendo que alguns ligaram para a Secretaria Municipal de Saúde perguntando como permitiam a vinda de alguém que estava na China. Mesmo alguns parentes evitaram ter contato comigo", conta.
 </doc>
-<doc id='bbc_internacional-51892686' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51892686' term='COVID'>
+<doc docid='bbc_internacional-51892686' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51892686' term='COVID'>
 Como cada país da América Latina está combatendo o coronavírus
 O novo coronavírus está se expandindo na América Latina e as medidas dos governos para tentar contê-lo, também.
 O novo coronavírus está se expandindo na América Latina e as medidas dos governos para tentar contê-lo, também.
@@ -4267,7 +4267,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_brasil-51882495' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51882495' term='COVID'>
+<doc docid='bbc_brasil-51882495' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51882495' term='COVID'>
 ‘Achei que tinha sido infectada ao atender paciente’: a rotina de profissionais de saúde que cuidam de casos de coronavírus no Brasil
 No dia 4 de março, a infectologista Fernanda* dava plantão no Instituto de Infectologia Emílio Ribas, em São Paulo (SP), quando atendeu um paciente com suspeita de coronavírus. O homem, que tem por volta de 40 anos, tinha febre e tosse intensa. Ele era considerado caso suspeito, pois havia mantido contato com o empresário paulista de 61 anos, primeiro caso diagnosticado no Brasil com a covid-19, a doença causada pelo novo coronavírus.
 No dia 4 de março, a infectologista Fernanda* dava plantão no Instituto de Infectologia Emílio Ribas, em São Paulo (SP), quando atendeu um paciente com suspeita de coronavírus. O homem, que tem por volta de 40 anos, tinha febre e tosse intensa. Ele era considerado caso suspeito, pois havia mantido contato com o empresário paulista de 61 anos, primeiro caso diagnosticado no Brasil com a covid-19, a doença causada pelo novo coronavírus.
@@ -4319,7 +4319,7 @@ A reportagem tentou contato com representantes do Emílio Ribas. Porém, a asses
 *Nome alterado a pedido da entrevistada.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51641776' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51641776' term='COVID'>
+<doc docid='bbc_internacional-51641776' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51641776' term='COVID'>
 Coronavírus: a corrida para encontrar animal que foi origem do surto
 
 Em algum lugar da China, um morcego voa deixando para trás um rastro de coronavírus em seus excrementos, que caem em meio à vegetação de uma floresta.
@@ -4366,7 +4366,7 @@ A China suspendeu mais uma vez a compra e venda de produtos oriundos de animais 
 Embora seja possível que nunca saibamos exatamente como ou onde o novo coronavírus foi transmitido para os seres humanos, a professora Diana Bell, da University of East Anglia, no Reino Unido, diz que podemos evitar outra "tempestade perfeita".
 "Estamos reunindo animais de diferentes países, habitats distintos, estilos de vida diversos, em matéria de animais aquáticos, animais arbóreos, etc., e estamos misturamos eles em uma espécie de caldeirão, e temos que parar de fazer isso", conclui.
 </doc>
-<doc id='bbc_internacional-51852110' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51852110' term='COVID'>
+<doc docid='bbc_internacional-51852110' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51852110' term='COVID'>
 Coronavírus: quais medidas estão sendo tomadas por diferentes países para conter a pandemia
 O surto do novo coronavírus levou países a tomarem diferentes medidas para tentar impedir a propagação.
 O surto do novo coronavírus levou países a tomarem diferentes medidas para tentar impedir a propagação.
@@ -4426,7 +4426,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51667565' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51667565' term='COVID'>
+<doc docid='bbc_internacional-51667565' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51667565' term='COVID'>
 Coronavírus: brasileira na Itália relata medo e isolamento com surto da doença
 "Todo mundo tem medo de todo mundo".
 "Todo mundo tem medo de todo mundo".
@@ -4447,7 +4447,7 @@ O medo da jovem, agora, é perder o ano letivo e não poder tentar uma vaga na u
 "Nunca imaginei passar por isso aqui. Estou com muito medo", conta Rosemere, que chegou ao país onde formou família há 24 anos.
 O avanço da doença na Itália também já começa a afetar outros países. Casos na Áustria, Croácia, Grécia, Suíça, Argélia, França, Espanha, Alemanha e Brasil foram ligados a pessoas que estiveram no norte italiano.
 </doc>
-<doc id='bbc_brasil-51683620' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51683620' term='COVID'>
+<doc docid='bbc_brasil-51683620' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51683620' term='COVID'>
 Coronavírus: Entenda como corpo se defende de ameaças como covid-19
 O coronavírus identificado na China em dezembro já chegou a mais de 100 países — e esse número vem crescendo dia a dia, assim como o total de pessoas infectadas.
 O coronavírus identificado na China em dezembro já chegou a mais de 100 países — e esse número vem crescendo dia a dia, assim como o total de pessoas infectadas.
@@ -4505,7 +4505,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51472729' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51472729' term='COVID'>
+<doc docid='bbc_internacional-51472729' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51472729' term='COVID'>
 Coronavírus: quem são os superdisseminadores da doença e por que eles são tão importantes?
 A chamada superdisseminação — que é quando pacientes transmitem infecções para um grande número de pessoas — ocorre em quase todos os surtos.
 A chamada superdisseminação — que é quando pacientes transmitem infecções para um grande número de pessoas — ocorre em quase todos os surtos.
@@ -4541,7 +4541,7 @@ Mas, na realidade, isso não foi culpa dela.
 Para Michael Ryan, da Organização Mundial da Saúde, é lamentável e contraproducente culpar pessoas durante a disseminação do novo coronavírus. "As pessoas não são culpadas. Elas nunca têm culpa nesse tipo de situação. Então, vamos ser extremamente cuidadosos aqui, é muito, muito importante que não estimagtizemos ninguém."
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-51920196' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51920196' term='COVID'>
+<doc docid='bbc_brasil-51920196' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51920196' term='COVID'>
 De cultos online a 'não leia notícias sobre pandemia': como as religiões estão lidando com o coronavírus no Brasil
 A preocupação com o novo coronavírus também chegou aos templos religiosos do Brasil. No fim de semana, algumas denominações, como igrejas evangélicas e mesquitas, suspenderam cultos e celebrações por tempo indeterminado para evitar a aglomeração e uma possível transmissão em massa do vírus entre os fiéis.
 A preocupação com o novo coronavírus também chegou aos templos religiosos do Brasil. No fim de semana, algumas denominações, como igrejas evangélicas e mesquitas, suspenderam cultos e celebrações por tempo indeterminado para evitar a aglomeração e uma possível transmissão em massa do vírus entre os fiéis.
@@ -4585,7 +4585,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51808368' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51808368' term='COVID'>
+<doc docid='bbc_internacional-51808368' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51808368' term='COVID'>
 Coronavírus: 6 mitos e conselhos falsos que você deve ignorar sobre a covid-19
 Casos de contágio pelo novo coronavírus aparecem em cada vez mais países e não há cura conhecida para combater a doença causada por ele, a covid-19.
 Casos de contágio pelo novo coronavírus aparecem em cada vez mais países e não há cura conhecida para combater a doença causada por ele, a covid-19.
@@ -4635,7 +4635,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_geral-51954966' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51954966' term='COVID'>
+<doc docid='bbc_geral-51954966' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51954966' term='COVID'>
 Coronavírus pode infectar a mesma pessoa duas vezes? A pergunta que intriga cientistas
 Depois de ser diagnosticado com covid-19 em fevereiro, passar dias internado em um hospital de Tóquio e se recuperar, um homem japonês de cerca de 70 anos finalmente retornou à vida normal — usando transporte público, por exemplo.
 Depois de ser diagnosticado com covid-19 em fevereiro, passar dias internado em um hospital de Tóquio e se recuperar, um homem japonês de cerca de 70 anos finalmente retornou à vida normal — usando transporte público, por exemplo.
@@ -4668,7 +4668,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51500752' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51500752' term='COVID'>
+<doc docid='bbc_internacional-51500752' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51500752' term='COVID'>
 Coronavírus: exame para detectar nova doença é falho?
 Há uma onda crescente de ceticismo e preocupação em relação a testes de laboratório que estão dizendo incorretamente às pessoas que elas estão livres do novo coronavírus (Covid-19).
 Há uma onda crescente de ceticismo e preocupação em relação a testes de laboratório que estão dizendo incorretamente às pessoas que elas estão livres do novo coronavírus (Covid-19).
@@ -4707,7 +4707,7 @@ Mas se a semelhança entre o trecho escolhido e o vírus encontrado no paciente 
 No estágio atual, é impossível dizer exatamente o que está acontecendo. "De todo modo, os alertas estão aí para você continuar fazendo exames nas pessoas enquanto elas continuarem a ter sintomas", defende MacDermott.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-51968714' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51968714' term='COVID'>
+<doc docid='bbc_brasil-51968714' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51968714' term='COVID'>
 Coronavírus: como diabetes, hipertensão e outras doenças crônicas agravam quadro de covid-19
 As seis pessoas que morreram até agora por causa no novo coronavírus no Brasil tinham em comum outro aspecto além do fato de serem idosos. Todas tinham doenças prévias que contribuíram para agravar sua situação.
 As seis pessoas que morreram até agora por causa no novo coronavírus no Brasil tinham em comum outro aspecto além do fato de serem idosos. Todas tinham doenças prévias que contribuíram para agravar sua situação.
@@ -4741,7 +4741,7 @@ As recomendações para impedir a infecção pelo novo coronavírus em idosos e 
 "O melhor é não sair à rua, e as pessoas que trabalham para alguém idoso ou com outras doenças não devem ir até suas casas se tiverem qualquer sinal de resfriado", diz Grinbaum.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51925166' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51925166' term='COVID'>
+<doc docid='bbc_internacional-51925166' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51925166' term='COVID'>
 Coronavírus: cientistas descobrem como o corpo combate a covid-19
 Cientistas australianos disseram ter identificado pela primeira vez como o sistema imunológico combate a infecção pelo novo coronavírus, causador da doença covid-19.
 Cientistas australianos disseram ter identificado pela primeira vez como o sistema imunológico combate a infecção pelo novo coronavírus, causador da doença covid-19.
@@ -4770,7 +4770,7 @@ Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51766452' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51766452' term='COVID'>
+<doc docid='bbc_internacional-51766452' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51766452' term='COVID'>
 Coronavírus: Oito gráficos que mostram o impacto da covid-19 sobre a economia mundial
 O surto do novo coronavírus, que surgiu em dezembro na China, infectou milhares de pessoas ao redor do mundo. O impacto da doença se refletiu também na atividade econômica, que vem sofrendo perdas significativas.
 O surto do novo coronavírus, que surgiu em dezembro na China, infectou milhares de pessoas ao redor do mundo. O impacto da doença se refletiu também na atividade econômica, que vem sofrendo perdas significativas.
@@ -4812,7 +4812,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51835956' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51835956' term='COVID'>
+<doc docid='bbc_internacional-51835956' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51835956' term='COVID'>
 Coronavírus avança sobre classe política, acirra ânimos e amplia debate sobre fechamento de Congressos
 Nadine Dorries, deputada conservadora e secretária do Ministério da Saúde britânico, se tornou o mais recente caso de político diagnosticado com o novo coronavírus.
 Nadine Dorries, deputada conservadora e secretária do Ministério da Saúde britânico, se tornou o mais recente caso de político diagnosticado com o novo coronavírus.
@@ -4852,7 +4852,7 @@ O agravamento dessa situação tem gerado debate sobre um eventual fechamento do
 Até o momento, os EUA registraram 1.039 casos e 29 mortes.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-51963251' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51963251' term='COVID'>
+<doc docid='bbc_brasil-51963251' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51963251' term='COVID'>
 'Vírus chinês': como Brasil se inseriu em disputa geopolítica entre EUA e China sobre pandemia
 O tuíte em que o deputado federal Eduardo Bolsonaro (PSL-SP) criticou a China por sua postura diante da eclosão do novo coronavírus renovou as tensões entre o governo Jair Bolsonaro os chineses, e inseriu o Brasil em uma disputa que opõe Pequim ao governo Donald Trump.
 O tuíte em que o deputado federal Eduardo Bolsonaro (PSL-SP) criticou a China por sua postura diante da eclosão do novo coronavírus renovou as tensões entre o governo Jair Bolsonaro os chineses, e inseriu o Brasil em uma disputa que opõe Pequim ao governo Donald Trump.
@@ -4919,12 +4919,12 @@ Para o influenciador bolsonarista Leandro Ruschel, Eduardo Bolsonaro "disse duas
 "Mais liberdade significa o fim da ditadura. Por isso ficaram incomodados", ele escreveu no Twitter.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_geral-51633275' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51633275' term='COVID'>
+<doc docid='bbc_geral-51633275' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51633275' term='COVID'>
 O que é uma pandemia e por que o atual surto de coronavírus ainda não é uma
 
 
 </doc>
-<doc id='bbc_internacional-51721178' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51721178' term='COVID'>
+<doc docid='bbc_internacional-51721178' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51721178' term='COVID'>
 Coronavírus: 'O que senti e como me recuperei da covid-19'
 O novo coronavírus já infectou milhares de pessoas em todo o mundo, inclusive no Brasil.
 O novo coronavírus já infectou milhares de pessoas em todo o mundo, inclusive no Brasil.
@@ -4971,7 +4971,7 @@ Kim agora está em uma quarentena de 14 dias. Ele está dentro do quarto e não 
 "Lidar com o vírus foi como um pesadelo", acrescentou ele. "Mas, olhando para trás, percebo que fui um dos felizardos por ter recebido tratamento adequado."
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51974992' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51974992' term='COVID'>
+<doc docid='bbc_internacional-51974992' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51974992' term='COVID'>
 Coronavírus: o drama dos brasileiros que vivem ilegalmente na Itália, esquecidos na pandemia
 Ao confinar a todos em uma quarentena forçada — que acaba de ser prorrogada até maio — e de praticamente fechar a economia do país, a Itália acabou deixando de fora pessoas que não têm como contar com o apoio do Estado neste momento.
 Ao confinar a todos em uma quarentena forçada — que acaba de ser prorrogada até maio — e de praticamente fechar a economia do país, a Itália acabou deixando de fora pessoas que não têm como contar com o apoio do Estado neste momento.
@@ -5027,7 +5027,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51542671' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51542671' term='COVID'>
+<doc docid='bbc_internacional-51542671' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51542671' term='COVID'>
 Coronavírus: Maior estudo feito sobre doença aponta que menos de 5% dos casos são graves
 Autoridades de saúde da China publicaram as primeiras informações mais detalhadas sobre mais de 70 mil casos confirmados e suspeitos do novo coronavírus (Covid-19), no maior estudo já feito sobre a doença desde o início do surto, em dezembro.
 Autoridades de saúde da China publicaram as primeiras informações mais detalhadas sobre mais de 70 mil casos confirmados e suspeitos do novo coronavírus (Covid-19), no maior estudo já feito sobre a doença desde o início do surto, em dezembro.
@@ -5058,7 +5058,7 @@ A corrida agora é para encontrar todos os passageiros e monitorá-los para even
 Muitos países já afirmaram que não permitirão a entrada de estrangeiros que estiveram nesse navio, onde ainda estão 255 passageiros e 747 tripulantes. Mais de 400 pessoas aguardam liberação médica em um hotel da capital, Phnom Penh.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-51966428' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51966428' term='COVID'>
+<doc docid='bbc_brasil-51966428' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51966428' term='COVID'>
 Coronavírus: Brasil fecha quase toda a fronteira terrestre, mas mantém entrada por aeroportos
 O governo brasileiro determinou nesta quinta-feira (19/3) o fechamento de quase toda a fronteira terrestre do país, em mais uma medida para tentar conter a expansão do coronavírus no país. O trânsito por terra continua, por enquanto, liberado apenas com o Uruguai, país com o qual o Brasil ainda negocia os termos do fechamento.
 Texto atualizado às 13h53 de 19 de março de 2020.
@@ -5085,7 +5085,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51611695' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51611695' term='COVID'>
+<doc docid='bbc_internacional-51611695' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51611695' term='COVID'>
 Coronavírus: Itália cancela futebol e Carnaval e isola cidades após 7 mortes
 A fim de tentar conter o avanço do surto do novo coronavírus do país, autoridades italianas decidiram encerrar dois dias mais cedo o carnaval de Veneza e adiar jogos de futebol da divisão principal na região de Milão.
 A fim de tentar conter o avanço do surto do novo coronavírus do país, autoridades italianas decidiram encerrar dois dias mais cedo o carnaval de Veneza e adiar jogos de futebol da divisão principal na região de Milão.
@@ -5125,7 +5125,7 @@ Até agora, 97% dos casos foram registrados na China, ou 77.150 dos 79.360. Ao m
 Quase 100 mil pessoas que tiveram contato com pacientes infectados estão sob monitoramento das equipes de saúde do país.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-51539981' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51539981' term='COVID'>
+<doc docid='bbc_brasil-51539981' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51539981' term='COVID'>
 'Tem mais assassinatos no Brasil por mês do que mortes por coronavírus no mundo', diz brasileiro que decidiu ficar na China
 Há vários dias, Rodrigo Duarte não tem contato com mais ninguém além de sua namorada, com quem está confinado no apartamento onde moram em Wuhan, na China, por causa do surto do novo coronavírus.
 Há vários dias, Rodrigo Duarte não tem contato com mais ninguém além de sua namorada, com quem está confinado no apartamento onde moram em Wuhan, na China, por causa do surto do novo coronavírus.
@@ -5155,7 +5155,7 @@ Ele diz estar confiante de que as medidas tomadas pelo governo chinês surtirão
 "Com certeza, vai ser diferente daqui em diante, mas vamos superar. A história mostra que, sempre que os chineses passam por uma crise, eles ficam mais fortes. O mesmo vai acontecer em Wuhan."
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-51666967' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51666967' term='COVID'>
+<doc docid='bbc_brasil-51666967' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51666967' term='COVID'>
 O que se sabe sobre o segundo paciente diagnosticado com o novo coronavírus no Brasil
 O Ministério da Saúde anunciou neste sábado (29/2) que foi confirmado o segundo caso do novo coronavírus no Brasil. O paciente, que mora em São Paulo, viajou recentemente à Itália — país onde o primeiro paciente diagnosticado também esteve recentemente.
 O Ministério da Saúde anunciou neste sábado (29/2) que foi confirmado o segundo caso do novo coronavírus no Brasil. O paciente, que mora em São Paulo, viajou recentemente à Itália — país onde o primeiro paciente diagnosticado também esteve recentemente.
@@ -5185,7 +5185,7 @@ Em Veneza, que não está sob quarentena, mas está localizada em uma região (V
 Para o diretor-geral da Organização Mundial da Saúde (OMS), Tedros Adhanom Ghebreyesus, episódios como o surto na Itália reforçam a visão de que o novo coronavírus tem "potencial pandêmico", porém ele não acredita que haja, ao menos por ora, uma propagação descontrolada da doença ao redor do mundo.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_geral-51816926' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51816926' term='COVID'>
+<doc docid='bbc_geral-51816926' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51816926' term='COVID'>
 Coronavírus: quais os riscos de viajar de avião ou em transporte público
 À medida que o coronavírus se espalha, as pessoas procuram tomar precauções em relação a viagens de avião e ao uso de transporte público.
 À medida que o coronavírus se espalha, as pessoas procuram tomar precauções em relação a viagens de avião e ao uso de transporte público.
@@ -5224,7 +5224,7 @@ O surto de Sars em 2003 envolveu partículas de 120 nanômetros de diâmetro que
 Chen acredita que os navios de cruzeiro podem reduzir os riscos usando o ar externo e não o circulando novamente.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51869644' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51869644' term='COVID'>
+<doc docid='bbc_internacional-51869644' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51869644' term='COVID'>
 Coronavírus: por que os EUA estão 'fracassando' no combate à covid-19
 Um homem que voltou aos Estados Unidos após uma viagem à China, em fevereiro, sentiu-se resfriado. Foi a uma sala de emergências em Miami, temendo ter sido contagiado pelo novo coronavírus durante sua viagem.
 Um homem que voltou aos Estados Unidos após uma viagem à China, em fevereiro, sentiu-se resfriado. Foi a uma sala de emergências em Miami, temendo ter sido contagiado pelo novo coronavírus durante sua viagem.
@@ -5300,7 +5300,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51891465' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51891465' term='COVID'>
+<doc docid='bbc_internacional-51891465' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51891465' term='COVID'>
 Coronavírus: O que a covid-19 faz com o seu corpo
 Com mais de 200 mil infectados e mais de 8 mil mortos, o coronavírus se espalhou para mais de 110 países do mundo.
 Com mais de 200 mil infectados e mais de 8 mil mortos, o coronavírus se espalhou para mais de 110 países do mundo.
@@ -5354,7 +5354,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51486221' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51486221' term='COVID'>
+<doc docid='bbc_internacional-51486221' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51486221' term='COVID'>
 Coronavírus: com nova metodologia, número de mortes chega a 242 em um dia e registro de casos triplica
 Ao menos 242 pessoas morreram em decorrência do novo coronavírus na província chinesa de Hubei, epicentro do surto. Foi o maior número de mortes já registrado em um só dia.
 Ao menos 242 pessoas morreram em decorrência do novo coronavírus na província chinesa de Hubei, epicentro do surto. Foi o maior número de mortes já registrado em um só dia.
@@ -5380,7 +5380,7 @@ Hong Kong e Cingapura adiaram eventos relacionados ao rúgbi. E o Centro de Cont
 Sem casos registrados até agora, o Brasil repatriou 34 cidadãos que estavam em Wuhan. Eles estão sob quarentena na base de Anápolis (GO), e não apresentaram sintomas ligados à doença, como febre, tosse e falta de ar.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_geral-51729472' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51729472' term='COVID'>
+<doc docid='bbc_geral-51729472' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51729472' term='COVID'>
 Coronavírus: os países da América Latina aos quais a doença chegou e o que estão fazendo para contê-la
 A presença do novo coronavírus já foi confirmada em nove países da América Latina: Brasil, Equador, México, República Dominicana, Argentina, Chile, Colômbia, Costa Rica e Peru. Já houve uma morte, de um homem de 64 anos, na Argentina.
 O texto foi atualizado às 17h34 de 8 de março de 2020.
@@ -5446,7 +5446,7 @@ O presidente, Martín Vizcarra, acompanhado pela ministra da Saúde, Elizabeth H
 O presidente acrescentou que um plano de preparação e resposta à doença foi estabelecido e que protocolos nos aeroportos e terminais marítimos foram ativados.
 "Todas essas medidas contam com o apoio do Conselho Nacional de Saúde. É uma situação que devemos tratar com muita serenidade, (...) vemos calma, confiamos em nosso sistema de saúde", afirmou.
 </doc>
-<doc id='bbc_geral-51858296' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51858296' term='COVID'>
+<doc docid='bbc_geral-51858296' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51858296' term='COVID'>
 Coronavírus: o encontro religioso que acelerou as contaminações na França
 Um evento evangélico no leste da França, que durou uma semana no mês fevereiro, contribuiu para disseminar o coronavírus em todo o país, segundo autoridades sanitárias.
 Um evento evangélico no leste da França, que durou uma semana no mês fevereiro, contribuiu para disseminar o coronavírus em todo o país, segundo autoridades sanitárias.
@@ -5474,7 +5474,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51633230' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51633230' term='COVID'>
+<doc docid='bbc_internacional-51633230' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51633230' term='COVID'>
 Vice-ministro iraniano é diagnosticado com coronavírus após aparecer suando em entrevista
 O vice-ministro de Saúde do Irã foi diagnosticado com covid-19 em meio ao surto que já matou 15 pessoas no país.
 O vice-ministro de Saúde do Irã foi diagnosticado com covid-19 em meio ao surto que já matou 15 pessoas no país.
@@ -5507,7 +5507,7 @@ Um parte dos profissionais de saúde foi infectada, portanto há ainda um temor 
 A maioria dos iranianos está extremamente preocupada.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-51890192' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51890192' term='COVID'>
+<doc docid='bbc_brasil-51890192' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51890192' term='COVID'>
 Países precisam 'se mexer', diz médico que monitora emergência do coronavírus na Itália
 Um dos rostos mais vistos pelos italianos na TV na primeira semana da emergência do coronavírus, que resultou num inédito confinamento nacional, foi o do médico Giovanni Rezza, diretor do departamento de doenças infectivas do Instituto Superior de Saúde, órgão subordinado ao Ministério da Saúde e principal centro de pesquisa, controle e consultoria técnico-científica da Itália.
 Um dos rostos mais vistos pelos italianos na TV na primeira semana da emergência do coronavírus, que resultou num inédito confinamento nacional, foi o do médico Giovanni Rezza, diretor do departamento de doenças infectivas do Instituto Superior de Saúde, órgão subordinado ao Ministério da Saúde e principal centro de pesquisa, controle e consultoria técnico-científica da Itália.
@@ -5550,7 +5550,7 @@ BBC News Brasil: É eficaz usar máscaras?
 Rezza: As máscaras são uteis para a proteção dos outros. Elas bloqueiam a saliva. Se alguém tosse, ou tem um resfriado, elas diminuem o risco de infecção. Nesse ponto de vista, o uso pode ser positivo. Mas é inútil caminhar pela rua usando a máscara. Não serve para nada.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-51844880' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51844880' term='COVID'>
+<doc docid='bbc_brasil-51844880' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51844880' term='COVID'>
 Coronavírus: eventos devem ser adiados e aulas devem ser suspensas no Brasil? O que dizem os especialistas
 Em meio ao avanço dos casos do novo coronavírus, classificado pela Organização Mundial de Saúde (OMS) como uma pandemia, diversos países adotaram medidas extremas para lidar com a situação, entre elas o cancelamento de grandes eventos, aulas em escolas e universidades e a orientação para que as pessoas evitem aglomerações ou até mesmo proximidade entre si. Na quarta-feira (11/03), o presidente dos Estados Unidos, Donald Trump, anunciou a suspensão de todos os voos vindos da Europa. A única exceção foi feita aos voos que partem do Reino Unido. Também na quarta, a NBA, a associação americana de basquete, anunciou a suspensão de todas as partidas, interrompendo o campeonato deste ano.
 Em meio ao avanço dos casos do novo coronavírus, classificado pela Organização Mundial de Saúde (OMS) como uma pandemia, diversos países adotaram medidas extremas para lidar com a situação, entre elas o cancelamento de grandes eventos, aulas em escolas e universidades e a orientação para que as pessoas evitem aglomerações ou até mesmo proximidade entre si. Na quarta-feira (11/03), o presidente dos Estados Unidos, Donald Trump, anunciou a suspensão de todos os voos vindos da Europa. A única exceção foi feita aos voos que partem do Reino Unido. Também na quarta, a NBA, a associação americana de basquete, anunciou a suspensão de todas as partidas, interrompendo o campeonato deste ano.
@@ -5584,7 +5584,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_geral-51720724' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51720724' term='COVID'>
+<doc docid='bbc_geral-51720724' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51720724' term='COVID'>
 Coronavírus: como falar com as crianças sobre o surto
 Todos os dias há novos relatos sobre o surto de coronavírus, que se espalha rapidamente por todo o mundo, e a doença covid-19, causada por ele.
 Todos os dias há novos relatos sobre o surto de coronavírus, que se espalha rapidamente por todo o mundo, e a doença covid-19, causada por ele.
@@ -5617,7 +5617,7 @@ Os pais podem controlar como agem perto dos filhos, mas o que acontece na escola
 No entanto, diz Woolfson, existe uma coisa que se aplica à relação com qualquer criança. "Independentemente da faixa etária, é preciso criar uma atmosfera em que a criança possa dizer o que quer".
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-51883267' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51883267' term='COVID'>
+<doc docid='bbc_brasil-51883267' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51883267' term='COVID'>
 Cruzeiros suspensos, aulas paralisadas e eventos cancelados: as propostas do governo para conter o coronavírus
 O Ministério da Saúde apresentou nesta sexta-feira (13), em coletiva de imprensa, novas medidas para conter o avanço da covid-19, a doença provocada pelo novo coronavírus.
 O Ministério da Saúde apresentou nesta sexta-feira (13), em coletiva de imprensa, novas medidas para conter o avanço da covid-19, a doença provocada pelo novo coronavírus.
@@ -5646,7 +5646,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51881511' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51881511' term='COVID'>
+<doc docid='bbc_internacional-51881511' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51881511' term='COVID'>
 O 'jeitinho italiano' para driblar quarentena e bloqueios contra o coronavírus
 A quarentena na Itália tem gente na rua e comerciante driblando as restrições cada vez mais severas impostas pelo governo nos últimos dias para conter o avanço do novo coronavírus.
 A quarentena na Itália tem gente na rua e comerciante driblando as restrições cada vez mais severas impostas pelo governo nos últimos dias para conter o avanço do novo coronavírus.
@@ -5677,7 +5677,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_brasil-51881505' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51881505' term='COVID'>
+<doc docid='bbc_brasil-51881505' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51881505' term='COVID'>
 De 'superdimensionado' a risco dentro do Planalto, como Bolsonaro teve que mudar postura sobre coronavírus
 Poucos dias depois de ter dito que a questão do coronavírus "não é isso tudo que a grande mídia propaga" na última terça-feira (10), o presidente Jair Bolsonaro teve que mudar sua postura diante do avanço da doença no Brasil e da adoção de medidas radicais por outros países, com os Estados Unidos, que suspendeu milhares de voos com a Europa.
 Poucos dias depois de ter dito que a questão do coronavírus "não é isso tudo que a grande mídia propaga" na última terça-feira (10), o presidente Jair Bolsonaro teve que mudar sua postura diante do avanço da doença no Brasil e da adoção de medidas radicais por outros países, com os Estados Unidos, que suspendeu milhares de voos com a Europa.
@@ -5701,7 +5701,7 @@ A organização estima que 3,4% dos pacientes morrem por causa da Covid-19, a do
 O risco é maior para idosos e pessoas que já tenham um quadro de saúde debilitado. A preocupação de autoridades em diversos países é retardar a transmissão da doença para evitar que faltem vagas no sistema de saúde para tratar os casos mais graves, que exijam internação hospitalar.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51469829' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51469829' term='COVID'>
+<doc docid='bbc_internacional-51469829' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51469829' term='COVID'>
 Por que o coronavírus agora se chama covid-19 e como esses nomes são criados?
 A Organização Mundial da Saúde (OMS) anunciou que o nome oficial da doença causada pelo novo coronavírus passará a ser Covid-19.
 A Organização Mundial da Saúde (OMS) anunciou que o nome oficial da doença causada pelo novo coronavírus passará a ser Covid-19.
@@ -5743,7 +5743,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_geral-51800944' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51800944' term='COVID'>
+<doc docid='bbc_geral-51800944' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51800944' term='COVID'>
 Coronavírus: o efeito psicológico da quarentena forçada para tentar conter a covid-19
 Enquanto luta para conter a disseminação do novo coronavírus, a Itália colocou cerca de 16 milhões de pessoas em quarentena neste domingo, (8), em meio ao aumento do número de mortos e de pessoas infectadas.
 Enquanto luta para conter a disseminação do novo coronavírus, a Itália colocou cerca de 16 milhões de pessoas em quarentena neste domingo, (8), em meio ao aumento do número de mortos e de pessoas infectadas.
@@ -5770,7 +5770,7 @@ Apesar dos efeitos psicológicos negativos, os cientistas acreditam que a quaren
 O Centro de Controle e Prevenção de Doenças (CDC, na sigla em inglês) aponta que a quarentena pode "ter um impacto econômico e social nas pessoas e nas comunidades, mas estudos mostram que a adoção gradual dessas intervenções pode reduzir a transmissão".
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51898081' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51898081' term='COVID'>
+<doc docid='bbc_internacional-51898081' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51898081' term='COVID'>
 Reino Unido vai decretar isolamento de idosos na luta contra coronavírus
 Todo britânico com mais de 70 anos será instruído "nas próximas semanas" a ficar em casa por um longo período para proteger-se do coronavírus, disse o secretário de Saúde Matt Hancock.
 Todo britânico com mais de 70 anos será instruído "nas próximas semanas" a ficar em casa por um longo período para proteger-se do coronavírus, disse o secretário de Saúde Matt Hancock.
@@ -5810,7 +5810,7 @@ O líder opositor Jeremy Corbyn, do Partido Trabalhista, pediu uma "vista urgent
 Seu partido já pediu ao governo que publique a modelagem científica e os dados que está usando para basear sua estratégia de combate contra o coronavírus.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-51883270' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51883270' term='COVID'>
+<doc docid='bbc_brasil-51883270' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51883270' term='COVID'>
 Coronavírus: por que ainda não há quarentena no Brasil; entenda o que é e como pode ocorrer
 Desde que foram confirmados os primeiros casos de transmissão comunitária do novo coronavírus no Brasil, alguns Estados e o Distrito Federal anunciaram medidas para conter sua disseminação, como suspensão das aulas, fechamento de cinemas, teatros e restaurantes e cancelamento de grandes eventos.
 Desde que foram confirmados os primeiros casos de transmissão comunitária do novo coronavírus no Brasil, alguns Estados e o Distrito Federal anunciaram medidas para conter sua disseminação, como suspensão das aulas, fechamento de cinemas, teatros e restaurantes e cancelamento de grandes eventos.
@@ -5854,7 +5854,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_brasil-51933029' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51933029' term='COVID'>
+<doc docid='bbc_brasil-51933029' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51933029' term='COVID'>
 Coronavírus: o que se sabe sobre o uso do ibuprofeno para tratar sintomas da doença
 Muitas dúvidas e questionamentos sobre o uso do medicamento ibuprofeno surgiram após o ministro da Saúde da França levantar preocupação com o uso do remédio no combate aos sintomas do novo coronavírus em sua conta no Twitter.
 Muitas dúvidas e questionamentos sobre o uso do medicamento ibuprofeno surgiram após o ministro da Saúde da França levantar preocupação com o uso do remédio no combate aos sintomas do novo coronavírus em sua conta no Twitter.
@@ -5891,7 +5891,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_brasil-51863636' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51863636' term='COVID'>
+<doc docid='bbc_brasil-51863636' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51863636' term='COVID'>
 Bolsonaro anuncia que seu exame para novo coronavírus deu negativo
 O presidente Jair Bolsonaro anunciou nesta sexta-feira (13/03) que seu exame realizado no laboratório HFA/Sabin, em Brasília, deu resultado negativo para presença do novo coronavírus, causador da doença covid-19.
 O presidente Jair Bolsonaro anunciou nesta sexta-feira (13/03) que seu exame realizado no laboratório HFA/Sabin, em Brasília, deu resultado negativo para presença do novo coronavírus, causador da doença covid-19.
@@ -5906,7 +5906,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51806253' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51806253' term='COVID'>
+<doc docid='bbc_internacional-51806253' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51806253' term='COVID'>
 Os cinco fatores que levaram a Bolsa brasileira à pior queda do século
 O surto global do novo coronavírus levou o mercado financeiro mundial a mergulhar em seu pior momento desde a crise econômica de 2008.
 O surto global do novo coronavírus levou o mercado financeiro mundial a mergulhar em seu pior momento desde a crise econômica de 2008.
@@ -5961,7 +5961,7 @@ Nesta segunda-feira, a economista-chefe do Fundo Monetário Internacional (FMI),
 Para ele, tanto o surto de coronavírus quanto o choque do petróleo serão resolvidos — no segundo caso, ele aposta na disposição da Rússia de negociar. "É preciso, porém, ver quanto tempo isso vai demorar."
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51666948' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51666948' term='COVID'>
+<doc docid='bbc_internacional-51666948' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51666948' term='COVID'>
 Epidemia ou 'infodemia'? A guerra de versões sobre o coronavírus na Europa
 A França precisa se preparar para uma epidemia do novo coronavírus, disse o presidente do país, Emmanuel Macron — mas a Itália, o país mais afetado da Europa, diz que informações falsas estão criando uma "infodemia".
 A França precisa se preparar para uma epidemia do novo coronavírus, disse o presidente do país, Emmanuel Macron — mas a Itália, o país mais afetado da Europa, diz que informações falsas estão criando uma "infodemia".
@@ -5998,7 +5998,7 @@ Quatro casos de coronavírus foram confirmados na Suíça, que tem uma extensa f
 Dez laboratórios foram preparados para analisar até mil possíveis casos por dia. Uma campanha nacional com o slogan "isso afeta a todos nós!" começará na sexta-feira.
 Os seguintes países também registraram casos de coronavírus na Europa: Áustria, Croácia, Dinamarca, Estônia, Geórgia, Grécia, Noruega e Macedônia. Muitos dos infectados viajaram à Itália recentemente.
 </doc>
-<doc id='bbc_brasil-51948538' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51948538' term='COVID'>
+<doc docid='bbc_brasil-51948538' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51948538' term='COVID'>
 Presidente do Senado e dois ministros de Bolsonaro testam positivo para o novo coronavírus
 O presidente do Senado, Davi Alcolumbre, e dois ministros do governo Jair Bolsonaro testaram positivo para o novo coronavírus.
 O presidente do Senado, Davi Alcolumbre, e dois ministros do governo Jair Bolsonaro testaram positivo para o novo coronavírus.
@@ -6034,7 +6034,7 @@ Karina Kufa, advogada de Jair Bolsonaro
 Quatro integrantes da equipe de apoio da comitiva
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-51539984' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51539984' term='COVID'>
+<doc docid='bbc_brasil-51539984' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51539984' term='COVID'>
 O que acontece agora que Brasil tem 1º caso confirmado de coronavírus
 O Ministério da Saúde anunciou nesta quarta-feira (26/02) ter confirmado o primeiro caso do novo coronavírus no Brasil.
 O Ministério da Saúde anunciou nesta quarta-feira (26/02) ter confirmado o primeiro caso do novo coronavírus no Brasil.
@@ -6076,7 +6076,7 @@ Estima-se que o paciente de São Paulo tenha entrado em contato com 50 a 60 pess
 "Mesmo que o número de pessoas com quem ele teve contato seja alto, estudos apontam que outros pacientes contaminaram de duas a três pessoas apesar de ter entrado em contato com 20, 30 ou 40 pessoas. Isso significa que o contato precisa ser mais íntimo para que haja transmissão", disse Gabbardo.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-51685638' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51685638' term='SARS'>
+<doc docid='bbc_brasil-51685638' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51685638' term='SARS'>
 Os bastidores e resultados da corrida de cientistas brasileiros para sequenciar coronavírus em tempo recorde
 Na terça-feira de carnaval, enquanto foliões pulavam pelas ruas e músicos esquentavam a percussão por todo o país, um grupo de cientistas brasileiros se apressou para um outro tipo de agito.
 Na terça-feira de carnaval, enquanto foliões pulavam pelas ruas e músicos esquentavam a percussão por todo o país, um grupo de cientistas brasileiros se apressou para um outro tipo de agito.
@@ -6103,7 +6103,7 @@ Jaqueline Goes de Jesus diz que, tecnicamente, a sequência obtida já tem 96% d
 A pesquisadora faz parte de um projeto que tem justamente o objetivo de monitorar e responder em tempo real a epidemias, o Brazil-UK Centre for Arbovirus Discovery, Diagnosis, Genomics and Epidemiology (CADDE), que conta com recursos da Fapesp e do Medical Research Council (MRC). Nascido há um ano, o centro de pesquisas pretende trabalhar não só com coronavírus como o atual como também com arbovírus como dengue e chicungunha.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_100302_aguanalua_ba' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/ciencia/2010/03/100302_aguanalua_ba' term='SARS'>
+<doc docid='bbc_100302_aguanalua_ba' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/ciencia/2010/03/100302_aguanalua_ba' term='SARS'>
 Sonda descobre depósitos de gelo no polo norte da Lua
 A sonda lunar indiana Chadrayaan-1, equipada com um radar americano, identificou depósitos de gelo em mais de 40 crateras no polo norte da lua, informou a Nasa durante uma conferência de ciência planetária no Texas, Estados Unidos.
 A sonda lunar indiana Chadrayaan-1, equipada com um radar americano, identificou depósitos de gelo em mais de 40 crateras no polo norte da lua, informou a Nasa durante uma conferência de ciência planetária no Texas, Estados Unidos.
@@ -6127,7 +6127,7 @@ A missão da LCROSS ainda identificou a presença, no solo lunar, de hidrocarbon
 Segundo o cientista chefe da missão, Anthony Colaprete, do Centro de Pesquisas Ames, da Nasa, os hidrocarbonetos podem ter chegado à superfície lunar trazido por cometas e asteroides – outra fonte vital de água lunar.
 Mas, ele acrescentou, algumas dessas formações poderiam ter surgido através de reações químicas entre grãos de poeira inter-estelar acumulados na Lua.
 </doc>
-<doc id='bbc_internacional-51157487' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51157487' term='SARS'>
+<doc docid='bbc_internacional-51157487' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51157487' term='SARS'>
 Coronavírus na China: o que se sabe sobre a misteriosa doença após confirmação de transmissão entre humanos
 Um misterioso vírus que causa problemas respiratórios tem colocado a China e o mundo em estado de alerta: o coronavírus já se espalhou de seu ponto inicial, a cidade de Wuhan (centro-leste chinês), para outras grandes metrópoles como Pequim e teve mais de 200 casos oficialmente registrados, com três mortes confirmadas.
 Um misterioso vírus que causa problemas respiratórios tem colocado a China e o mundo em estado de alerta: o coronavírus já se espalhou de seu ponto inicial, a cidade de Wuhan (centro-leste chinês), para outras grandes metrópoles como Pequim e teve mais de 200 casos oficialmente registrados, com três mortes confirmadas.
@@ -6158,7 +6158,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51369300' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51369300' term='SARS'>
+<doc docid='bbc_internacional-51369300' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51369300' term='SARS'>
 Coronavírus: O médico chinês que tentou alertar colegas sobre surto, mas acabou enquadrado pela polícia e infectado pela doença
 No início de janeiro, autoridades da cidade chinesa de Wuhan tentavam manter sob controle informações sobre o avanço do novo coronavírus. Quando um médico tentou fazer alertas a colegas sobre o surto, a polícia foi até sua casa e lhe ordenou a parar. Um mês depois, ele se tornou um herói local ao publicar sua história da cama do hospital.
 No início de janeiro, autoridades da cidade chinesa de Wuhan tentavam manter sob controle informações sobre o avanço do novo coronavírus. Quando um médico tentou fazer alertas a colegas sobre o surto, a polícia foi até sua casa e lhe ordenou a parar. Um mês depois, ele se tornou um herói local ao publicar sua história da cama do hospital.
@@ -6188,7 +6188,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_090717_gripesuinatopic' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2009/07/090717_gripesuinatopic' term='SARS'>
+<doc docid='bbc_090717_gripesuinatopic' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2009/07/090717_gripesuinatopic' term='SARS'>
 Gripe suína pode impedir recuperação econômica em 2010, diz consultoria
 A gripe suína pode levar por água abaixo as esperanças de uma recuperação da economia mundial até o ano que vem e provocar uma queda de 3,9% do PIB do planeta em 2010, alertou nesta sexta-feira uma consultoria britânica em um estudo.
 A gripe suína pode levar por água abaixo as esperanças de uma recuperação da economia mundial até o ano que vem e provocar uma queda de 3,9% do PIB do planeta em 2010, alertou nesta sexta-feira uma consultoria britânica em um estudo.
@@ -6212,7 +6212,7 @@ Em seu estudo, a consultoria prevê dois cenários, a partir de 2011, quando a e
 No primeiro caso, semelhante ao que ocorreu após a Sars, os consumidores retomariam em um curto espaço de tempo seu nível normal de gastos. "Mas sabemos que as coisas não voltarão ao normal tão rapidamente quanto na ocasião da SARS, porque a economia sairá de um ponto de partida mais baixo", opinou Marie Diron.
 "Um segundo cenário é que, por conta desse ponto de partida baixo, muitas empresas são empurradas para a falência pela gripe suína que ocorre em paralelo a vários outros fatores. Nesse caso o desemprego sobe muito mais do que podemos imaginar e, nesse caso, a economia mundial entra em deflação. Não acho que seria o caso do Brasil, mas veríamos deflação no mundo."
 </doc>
-<doc id='bbc_internacional-51296088' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51296088' term='SARS'>
+<doc docid='bbc_internacional-51296088' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51296088' term='SARS'>
 Sars, Mers, Ebola, coronavírus – por que há cada vez mais surtos de vírus mortais pelo mundo?
 Nos últimos 30 anos, os surtos de vírus aumentaram, e doenças que se espalham rapidamente — como o coronavírus, na China, agora — se tornaram mais comuns. Mas por quê?
 Nos últimos 30 anos, os surtos de vírus aumentaram, e doenças que se espalham rapidamente — como o coronavírus, na China, agora — se tornaram mais comuns. Mas por quê?
@@ -6256,7 +6256,7 @@ Embora o sistema de resposta global não seja de forma alguma perfeito, estamos 
 Um país como a China é capaz de construir um hospital com 1.000 leitos em uma semana, algo que seria inimaginável em 1918.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51298516' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51298516' term='SARS'>
+<doc docid='bbc_internacional-51298516' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51298516' term='SARS'>
 Coronavírus: como está a corrida dos cientistas em busca de uma vacina para a doença
 Um novo vírus mortal que já deixou milhares de pessoas infectadas e para qual ainda não há cura ou vacina.
 Um novo vírus mortal que já deixou milhares de pessoas infectadas e para qual ainda não há cura ou vacina.
@@ -6290,7 +6290,7 @@ Ana Maria Henao-Restrepo, do programa de Emergências em Saúde da OMS, disse: "
 "Compreender a doença, seus reservatórios, sua transmissão, sua gravidade clínica e o desenvolvimento de medidas eficazes é fundamental para o controle do surto".
 A OMS deve decidir qual vacina será testada em humanos primeiro nos próximos dias.
 </doc>
-<doc id='bbc_brasil-40784488' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-40784488' term='SARS'>
+<doc docid='bbc_brasil-40784488' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-40784488' term='SARS'>
 Raios luminosos e moradores apavorados: a maior operação militar brasileira para investigar discos voadores
 Naquele 5 de dezembro de 1977, o capitão da Aeronáutica Uyrangê de Hollanda Lima estava ansioso. Afinal, ele tinha mais uma reunião com o brigadeiro Protásio Lopes de Oliveira, comandante do 1º Comando Aéreo Regional (Comar 1), de Belém. Pela primeira vez desde que começara a investigar a suposta aparição de discos voadores na região do Pará, o capitão Hollanda teria o que relatar aos seus superiores.
 Naquele 5 de dezembro de 1977, o capitão da Aeronáutica Uyrangê de Hollanda Lima estava ansioso. Afinal, ele tinha mais uma reunião com o brigadeiro Protásio Lopes de Oliveira, comandante do 1º Comando Aéreo Regional (Comar 1), de Belém. Pela primeira vez desde que começara a investigar a suposta aparição de discos voadores na região do Pará, o capitão Hollanda teria o que relatar aos seus superiores.
@@ -6328,7 +6328,7 @@ Segundo Gevaerd, a filha do brigadeiro Protásio, uma pedagoga aposentada, é um
 Outra cena impressionante, aponta Edison, é a que revela um ovni submergindo nas águas do rio Tapajós em plena luz do dia. A filmagem, segundo o ufólogo, teria sido feita pelo sargento João Flávio Costa, o braço-direito do capitão Hollanda.
 "A única certeza que tenho é que estamos diante de um dos maiores enigmas da ufologia. E mais: os avistamentos não acabaram", diz Edison, alegando que "40 anos depois, discos voadores continuam aparecendo naquela região".
 </doc>
-<doc id='bbc_brasil-51245038' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51245038' term='SARS'>
+<doc docid='bbc_brasil-51245038' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51245038' term='SARS'>
 'Nenhum país está protegido de receber alguém com coronavírus', diz brasileiro diretor de agência da ONU
 Descoberto em dezembro na China, um novo tipo de coronavírus já infectou milhares de pessoas e provocou dezenas de mortes no país, além de ter chegado a mais de uma dezena de outros países, o que colocou autoridades de todo o mundo em estado de alerta.
 Descoberto em dezembro na China, um novo tipo de coronavírus já infectou milhares de pessoas e provocou dezenas de mortes no país, além de ter chegado a mais de uma dezena de outros países, o que colocou autoridades de todo o mundo em estado de alerta.
@@ -6381,7 +6381,7 @@ BBC News Brasil - Estamos preparados para combatê-las?
 Barbosa - Creio que o mundo está muito melhor preparado do que no passado. Aprendemos muito com os surtos anteriores, mudamos o regulamento sanitário internacional, os países fortaleceram suas capacidades de vigilância epidemiológica e de diagnóstico laboratorial. Mas é preciso nos manter alerta e fazer revisões dos planos nacionais de emergências de saúde pública para que, quando ocorra uma emergência real, tudo esteja pronto para ser colocado em prática de forma eficiente.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_090717_gripesuina_economia_pu' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2009/07/090717_gripesuina_economia_pu' term='SARS'>
+<doc docid='bbc_090717_gripesuina_economia_pu' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2009/07/090717_gripesuina_economia_pu' term='SARS'>
 Gripe suína pode impedir recuperação econômica em 2010, diz consultoria
 A gripe suína pode levar por água abaixo as esperanças de uma recuperação da economia mundial até o ano que vem e provocar uma queda de 3,9% do PIB do planeta em 2010, alertou nesta sexta-feira uma consultoria britânica em um estudo.
 A gripe suína pode levar por água abaixo as esperanças de uma recuperação da economia mundial até o ano que vem e provocar uma queda de 3,9% do PIB do planeta em 2010, alertou nesta sexta-feira uma consultoria britânica em um estudo.
@@ -6405,7 +6405,7 @@ Em seu estudo, a consultoria prevê dois cenários, a partir de 2011, quando a e
 No primeiro caso, semelhante ao que ocorreu após a Sars, os consumidores retomariam em um curto espaço de tempo seu nível normal de gastos. "Mas sabemos que as coisas não voltarão ao normal tão rapidamente quanto na ocasião da SARS, porque a economia sairá de um ponto de partida mais baixo", opinou Marie Diron.
 "Um segundo cenário é que, por conta desse ponto de partida baixo, muitas empresas são empurradas para a falência pela gripe suína que ocorre em paralelo a vários outros fatores. Nesse caso o desemprego sobe muito mais do que podemos imaginar e, nesse caso, a economia mundial entra em deflação. Não acho que seria o caso do Brasil, mas veríamos deflação no mundo."
 </doc>
-<doc id='bbc_internacional-51354870' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51354870' term='SARS'>
+<doc docid='bbc_internacional-51354870' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51354870' term='SARS'>
 Coronavírus: em imagens, a construção de hospital na China em 10 dias
 .
 A cidade chinesa de Wuhan, epicentro do surto de coronavírus, construiu um hospital em 10 dias para tratar pacientes com suspeita de terem contraído a doença respiratória.
@@ -6429,7 +6429,7 @@ De acordo com Huang, engenheiros de todo o país foram recrutados para concluir 
 .
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51406377' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51406377' term='SARS'>
+<doc docid='bbc_internacional-51406377' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51406377' term='SARS'>
 China volta a confirmar morte de médico que alertou sobre coronavírus
 O médico chinês que alertou colegas sobre o surto de coronavírus morreu, segundo o Hospital Central de Wuhan, onde ele trabalhava e estava internado.
 O médico chinês que alertou colegas sobre o surto de coronavírus morreu, segundo o Hospital Central de Wuhan, onde ele trabalhava e estava internado.
@@ -6467,7 +6467,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51315756' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51315756' term='SARS'>
+<doc docid='bbc_internacional-51315756' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51315756' term='SARS'>
 Por que é difícil comparar o surto de coronavírus com outras epidemias do passado
 Há um século, um vírus se alastrou pelo planeta, infectando cerca de 500 milhões de pessoas, o equivalente a um terço da população mundial.
 Há um século, um vírus se alastrou pelo planeta, infectando cerca de 500 milhões de pessoas, o equivalente a um terço da população mundial.
@@ -6513,7 +6513,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 Final de YouTube post 4 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51457066' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51457066' term='SARS'>
+<doc docid='bbc_internacional-51457066' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51457066' term='SARS'>
 'Sair da China por causa de surto seria desistir de sonho': o brasileiro que decidiu ficar em Wuhan apesar de coronavírus
 Deixar a cidade de Wuhan, capital da província de Hubei na China — epicentro do surto do novo coronavírus — se tornou uma emergência para os brasileiros e outros milhares de estrangeiros imersos em uma crise de saúde global que ainda está longe do fim. Mas para o estudante Miguel Manacero, de 18 anos, embarcar no avião da Força Aérea Brasileira que levou de volta ao Brasil 34 brasileiros significava abandonar "o sonho chinês" alimentado desde a infância.
 Deixar a cidade de Wuhan, capital da província de Hubei na China — epicentro do surto do novo coronavírus — se tornou uma emergência para os brasileiros e outros milhares de estrangeiros imersos em uma crise de saúde global que ainda está longe do fim. Mas para o estudante Miguel Manacero, de 18 anos, embarcar no avião da Força Aérea Brasileira que levou de volta ao Brasil 34 brasileiros significava abandonar "o sonho chinês" alimentado desde a infância.
@@ -6547,7 +6547,7 @@ No sábado, a Organização Mundial de Saúde (OMS) disse que ainda é cedo para
 O estudante brasileiro espera retomar o curso de mandarim a partir do dia 17. As aulas, antes presenciais, serão substituídas por vídeoaulas. Mancero ainda não sabe quando retornará ao Brasil.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51252755' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51252755' term='SARS'>
+<doc docid='bbc_internacional-51252755' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51252755' term='SARS'>
 Coronavírus: o avanço da doença que já afeta 4 continentes impactará a economia mundial?
 A China está lutando contra um novo vírus que matou ao menos 80 pessoas até este domingo (26/1). O surto do coronavírus é uma questão de saúde tão séria que a Organização Mundial de Saúde já declarou situação de emergência no país asiático — ainda que tenha descartado, por ora, uma situação crítica global.
 A China está lutando contra um novo vírus que matou ao menos 80 pessoas até este domingo (26/1). O surto do coronavírus é uma questão de saúde tão séria que a Organização Mundial de Saúde já declarou situação de emergência no país asiático — ainda que tenha descartado, por ora, uma situação crítica global.
@@ -6585,7 +6585,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_140422_sp_mers_camelos_mascara_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/05/140422_sp_mers_camelos_mascara_hb' term='SARS'>
+<doc docid='bbc_140422_sp_mers_camelos_mascara_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/05/140422_sp_mers_camelos_mascara_hb' term='SARS'>
 Arábia Saudita pede uso de máscaras perto de camelos para conter vírus mortal
 A Arábia Saudita pediu que seus cidadãos usem máscaras e luvas ao lidar com camelos para evitar a propagação do vírus mortal Mers.
 A Arábia Saudita pediu que seus cidadãos usem máscaras e luvas ao lidar com camelos para evitar a propagação do vírus mortal Mers.
@@ -6600,7 +6600,7 @@ A declaração do ministério ocorre após pesquisa de especialistas em saúde t
 O camelo é uma parte central da vida tradicional saudita e apenas recentemente autoridades ligaram o surto da doença aos animais.
 Mas alguns agricultores zombaram das advertências oficiais: um deles postou um vídeo de si mesmo na Internet abraçando e beijando seus camelos, pedindo que um espirrasse em seu rosto.
 </doc>
-<doc id='bbc_090715_gripesuina_pu' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2009/07/090715_gripesuina_pu' term='SARS'>
+<doc docid='bbc_090715_gripesuina_pu' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2009/07/090715_gripesuina_pu' term='SARS'>
 Mortalidade da gripe suína é 'impossível de prever', diz estudo britânico
 Cientistas do Imperial College, em Londres, alertaram nesta quarta-feira para a precariedade das estatísticas sobre os casos e fatalidades da gripe suína nos diferentes países do mundo, e afirmaram que só com dados precisos será possível planejar adequadamente o combate à doença.
 Cientistas do Imperial College, em Londres, alertaram nesta quarta-feira para a precariedade das estatísticas sobre os casos e fatalidades da gripe suína nos diferentes países do mundo, e afirmaram que só com dados precisos será possível planejar adequadamente o combate à doença.
@@ -6633,7 +6633,7 @@ Isto explicaria por que as taxas são mais baixas na Grã-Bretanha, onde as taxa
 Para resolver o problema estatístico, eles sugerem maneiras de tentar padronizar a identificação dos casos de gripe suína e pedem um acompanhamento mais detalhado da pandemia.
 "Estimar com precisão a gripe suína é um trabalho capcioso, e nossa pesquisa mostra que isto só pode ser realizado com dados colhidos de acordo com protocolos bem desenhados, e analisados de forma mais sofisticada que a prática atual."
 </doc>
-<doc id='bbc_internacional-51386074' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51386074' term='SARS'>
+<doc docid='bbc_internacional-51386074' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51386074' term='SARS'>
 Como o coronavírus vai ganhar um novo nome e por que isso é importante
 Ele já infectou milhares de pessoas, fechou fronteiras e colocou partes da China em confinamento. Mas o vírus que causa o surto de doença ainda não tem um nome próprio.
 Ele já infectou milhares de pessoas, fechou fronteiras e colocou partes da China em confinamento. Mas o vírus que causa o surto de doença ainda não tem um nome próprio.
@@ -6663,7 +6663,7 @@ Além de ajudar o público a entender o vírus, a ICTV espera permitir que os pe
 "Descobriremos no futuro se acertamos", diz Neuman.
 "Para alguém como eu, ajudar a nomear um vírus importante pode acabar sendo mais duradouro e mais útil do que o valor de uma carreira profissional. É uma grande responsabilidade", completa.
 </doc>
-<doc id='bbc_120701_eurocopa_selecao_rc' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2012/07/120701_eurocopa_selecao_rc' term='SARS'>
+<doc docid='bbc_120701_eurocopa_selecao_rc' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2012/07/120701_eurocopa_selecao_rc' term='SARS'>
 Veja curiosidades da ‘seleção’ da Eurocopa
 A Espanha conquistou a Eurocopa 2012 ao vencer a Itália neste domingo por 4x0 em Kiev, na maior goleada em uma final do torneio europeu de seleções e a primeira vitória espanhola sobre a Itália em uma competição importante desde 1920.
 A Espanha conquistou a Eurocopa 2012 ao vencer a Itália neste domingo por 4x0 em Kiev, na maior goleada em uma final do torneio europeu de seleções e a primeira vitória espanhola sobre a Itália em uma competição importante desde 1920.
@@ -6695,7 +6695,7 @@ Apenas David Silva esteve envolvido em mais gols na Eurocopa 2012 (três gols e 
 Atacante - Mario Balotelli
 Apenas Cristiano Ronaldo (37) chutou mais vezes que Balotelli na competição. O jogador do Manchester City se tornou o primeiro italiano a marcar três gols em um torneio europeu.
 </doc>
-<doc id='bbc_brasil-51452527' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51452527' term='SARS'>
+<doc docid='bbc_brasil-51452527' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51452527' term='SARS'>
 Da indústria de celulares à soja, os impactos do coronavírus na economia brasileira
 Até meados de fevereiro, o surto de coronavírus já tinha matado mais de 1,1 mil pessoas na China e infectado outras 40 mil.
 Até meados de fevereiro, o surto de coronavírus já tinha matado mais de 1,1 mil pessoas na China e infectado outras 40 mil.
@@ -6743,7 +6743,7 @@ A BBC News Brasil também procurou o Instituto Brasileiro de Mineração (Ibram)
 A entidade informou, entretanto, que "não realizou estudos sobre este tema".
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_geral-51163263' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51163263' term='SARS'>
+<doc docid='bbc_geral-51163263' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51163263' term='SARS'>
 Misterioso vírus identificado na China pode ter infectado centenas de pessoas, dizem cientistas
 O número de pessoas já infectadas por um misterioso vírus identificado na China é muito maior do que as estatísticas oficiais sugerem, dizem cientistas à BBC.
 O número de pessoas já infectadas por um misterioso vírus identificado na China é muito maior do que as estatísticas oficiais sugerem, dizem cientistas à BBC.
@@ -6781,7 +6781,7 @@ Jeremy Farrar, diretor da instituição de pesquisa médica Wellcome, diz: "Há 
 Jonathan Ball, professor de Virologia Molecular da Universidade de Nottingham, ressalva: "Até que haja testes laboratoriais em larga escala, é muito difícil determinar um número de casos existentes".
 "Mas esse é um número que devemos levar a sério até que saibamos o contrário", conclui.
 </doc>
-<doc id='bbc_brasil-51275039' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51275039' term='SARS'>
+<doc docid='bbc_brasil-51275039' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51275039' term='SARS'>
 O que acontece após Brasil anunciar casos suspeitos de coronavírus e elevar risco para 'iminente'?
 O Ministério da Saúde anunciou que há nove casos suspeitos do novo coronavírus no país. A informação foi dada em coletiva de imprensa na tarde desta quarta-feira (29/1).
 Reportagem atualizada às 17h20 de 29/01/20
@@ -6822,7 +6822,7 @@ Mandetta disse que o país está preparado para detectar o vírus e que o govern
 "A pessoa tem que ficar onde ela está. Não é orientado remoção mesmo porque você não tem um tratamento específico definido para esse vírus", afirmou Mandetta.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_150604_exercito_medicos_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/06/150604_exercito_medicos_rb' term='SARS'>
+<doc docid='bbc_150604_exercito_medicos_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/06/150604_exercito_medicos_rb' term='SARS'>
 Contra epidemias, países ricos lançam plano para 'exército global' de médicos
 Um plano para se criar uma força-tarefa global de 10 mil médicos e cientistas contra epidemias será apresentado na próxima reunião do G7, grupo formado por representantes das maiores economias de países desenvolvidos - Canadá, França, Alemanha, Itália, Japão, Reino Unido e Estados Unidos - no próximo domingo, na Alemanha, segundo apurou a BBC.
 Um plano para se criar uma força-tarefa global de 10 mil médicos e cientistas contra epidemias será apresentado na próxima reunião do G7, grupo formado por representantes das maiores economias de países desenvolvidos - Canadá, França, Alemanha, Itália, Japão, Reino Unido e Estados Unidos - no próximo domingo, na Alemanha, segundo apurou a BBC.
@@ -6840,7 +6840,7 @@ Leia mais: Ibuprofeno ou paracetamol? Saiba quando tomar um ou outro.
 Jonathan Ball, professor de virologia da Universidade de Nottingham, no Reino Unido, avalia que a resposta ao surto de ebola foi lenta e que isso levou a um aumento exponencial dos casos de contágio no fim do ano passado. "O monitoramento e diagnóstico são cruciais para identificar epidemias assim que elas começam e podem ter um grande impacto em seu controle."
 "Isso teria impedido que o ebola se espalhasse tanto na África", complementa Ball. "É difícil prever quando e onde ocorrerá um novo surto, mas, se a comunidade global estiver preparada para reagir de forma ágil, poderemos contê-lo antes que se alastre demais. Por isso, medidas como essas são muito importantes."
 </doc>
-<doc id='bbc_internacional-51435450' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51435450' term='SARS'>
+<doc docid='bbc_internacional-51435450' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51435450' term='SARS'>
 40 horas da ‘apreensão ao alívio’: diplomata relata volta ao Brasil do epicentro do coronavírus
 A "apreensão" deu lugar ao "alívio" ao fim das cerca de 40 horas da jornada de Wuhan, na China, epicentro do surto de coronavírus, rumo ao Brasil, segundo um dos diplomatas responsáveis pela operação de retirada dos brasileiros.
 A "apreensão" deu lugar ao "alívio" ao fim das cerca de 40 horas da jornada de Wuhan, na China, epicentro do surto de coronavírus, rumo ao Brasil, segundo um dos diplomatas responsáveis pela operação de retirada dos brasileiros.
@@ -6878,7 +6878,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_geral-51380641' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51380641' term='SARS'>
+<doc docid='bbc_geral-51380641' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51380641' term='SARS'>
 Coronavírus: 'Contágio', o filme de quase uma década atrás que a crise transformou em hit
 Um filme dirigido por Steven Soderbergh e lançado há nove anos parece ter despertado o interesse do público novamente.
 Atenção: esse artigo tem spoilers sobre o filme
@@ -6919,7 +6919,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_geral-42424519' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/geral-42424519' term='SARS'>
+<doc docid='bbc_geral-42424519' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/geral-42424519' term='SARS'>
 Por que o governo dos EUA decidiu liberar experimentos com vírus mortais
 O governo dos EUA decidiu suspender uma regra em vigor havia três anos que proibia experimentos em laboratório com vírus mortais.
 O governo dos EUA decidiu suspender uma regra em vigor havia três anos que proibia experimentos em laboratório com vírus mortais.
@@ -6943,7 +6943,7 @@ No entanto, há quem discorde.
 Marc Lipsitch, epidemiologista da Universidade Harvard, disse à publicação científica Nature que esse tipo de experimento "não fez quase nada no sentido de melhorar a nossa preparação para pandemias, mas cria o risco de uma pandemia acidental".
 Ele saudou, porém, o nível extra de controle agora necessário para os casos a serem autorizados.
 </doc>
-<doc id='bbc_090508_hongknoggripehotelfn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2009/05/090508_hongknoggripehotelfn' term='SARS'>
+<doc docid='bbc_090508_hongknoggripehotelfn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2009/05/090508_hongknoggripehotelfn' term='SARS'>
 Hong Kong libera 300 pessoas de quarentena em hotel
 Cerca de 300 hóspedes e funcionários de um hotel em Hong Kong foram liberados depois de passar uma semana em quarentena devido ao temor de um surto de gripe suína.
 Cerca de 300 hóspedes e funcionários de um hotel em Hong Kong foram liberados depois de passar uma semana em quarentena devido ao temor de um surto de gripe suína.
@@ -6962,7 +6962,7 @@ De acordo com a organização quase metade de todos os casos ocorreram no Méxic
 A OMS não recomendou restrições de viagens relacionadas aos casos da doença.
 Falando em Bangcoc, Tailândia, a diretora da OMS Margaret Chan afirmou que o "mundo está mais preparado do que em qualquer outro momento da história para uma pandemia de gripe".
 </doc>
-<doc id='bbc_geral-51258799' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51258799' term='SARS'>
+<doc docid='bbc_geral-51258799' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51258799' term='SARS'>
 Com casos confirmados em 13 países, coronavírus é transmissível antes dos sintomas aparecerem
 O novo coronavírus, que já infectou mais de 4 mil pessoas em surto na China e atingiu outros 12 países, é transmissível em seu período de incubação, ou seja, antes dos sintomas aparecerem, segundo autoridades chinesas.
 O texto foi atualizado às 23h46 de 27 de janeiro de 2020.
@@ -7007,7 +7007,7 @@ Ambos os infectologistas concordam que, diante desta situação, não é necess�
 Mas recomendam que sejam tomadas algumas medidas nestes locais para orientar os passageiros, por meio de cartazes nos terminais e avisos sonoros nos aviões, para que busquem um posto de saúde caso tenham sintomas como febre e problemas respiratórios.
 "Se virar uma emergência global, vai ser necessário ter um controle muito mais rígido das fronteiras", alerta Fonseca.
 </doc>
-<doc id='bbc_brasil-51938661' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51938661' term='SARS'>
+<doc docid='bbc_brasil-51938661' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51938661' term='SARS'>
 Coronavírus: governo federal pede que Congresso reconheça calamidade pública
 O governo federal anunciou em nota, na noite desta terça-feira (17), que pedirá ao Congresso o reconhecimento do estado de calamidade pública diante da atual pandemia causada pelo vírus Sars-Cov-2.
 O governo federal anunciou em nota, na noite desta terça-feira (17), que pedirá ao Congresso o reconhecimento do estado de calamidade pública diante da atual pandemia causada pelo vírus Sars-Cov-2.
@@ -7027,7 +7027,7 @@ Na semana passada, o governo já havia editado uma Medida Provisória remanejand
 O ministro anunciou nesta segunda-feira mais R$ 4,5 bilhões para a pasta comandada pelo ministro Luiz Mandetta. O recurso virá do saldo do DPVAT, seguro obrigatório cobrado de donos de veículos que tem finalidade de amparar vítimas de acidentes de trânsito.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-51951358' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51951358' term='SARS'>
+<doc docid='bbc_brasil-51951358' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51951358' term='SARS'>
 Coronavírus: Bolsonaro volta a atacar imprensa e a negar que tenha convocado protestos
 O presidente Jair Bolsonaro voltou a dizer na tarde desta quarta-feira (18/03) que não foi o responsável por convocar seus apoiadores a participar dos protestos do domingo — segundo o presidente, as pessoas saíram às ruas "espontaneamente".
 O presidente Jair Bolsonaro voltou a dizer na tarde desta quarta-feira (18/03) que não foi o responsável por convocar seus apoiadores a participar dos protestos do domingo — segundo o presidente, as pessoas saíram às ruas "espontaneamente".
@@ -7064,12 +7064,12 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51823309' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51823309' term='SARS'>
+<doc docid='bbc_internacional-51823309' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51823309' term='SARS'>
 Coronavírus: o cenário desolador na Itália, um país inteiro em quarentena
 A Itália ampliou suas medidas de restrição de movimentação na tentativa de conter o surto do novo coronavírus no país.
 
 </doc>
-<doc id='bbc_130502_sars_arabia_saudita_fn_rn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/ultimas_noticias/2013/05/130502_sars_arabia_saudita_fn_rn' term='SARS'>
+<doc docid='bbc_130502_sars_arabia_saudita_fn_rn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/ultimas_noticias/2013/05/130502_sars_arabia_saudita_fn_rn' term='SARS'>
 Vírus parecido com SARS mata cinco na Arábia Saudita
 Cinco pessoas morreram na Arábia Saudita devido a um vírus parecido com o da SARS (sigla em inglês para síndrome respiratória grave e aguda).
 Cinco pessoas morreram na Arábia Saudita devido a um vírus parecido com o da SARS (sigla em inglês para síndrome respiratória grave e aguda).
@@ -7077,7 +7077,7 @@ Outras duas estão em estado grave. Os sete casos ocorreram na região de al-Ahs
 A nova variedade do coronavírus, chamada de NCoV, causa pneumonia e, em alguns casos, problemas graves nos rins.
 Este vírus é da mesma família que causou uma epidemia global que começou na Ásia e matou centenas de pessoas em 2003.
 </doc>
-<doc id='bbc_internacional-51285083' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51285083' term='SARS'>
+<doc docid='bbc_internacional-51285083' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51285083' term='SARS'>
 O relato de uma brasileira confinada em Wuhan, epicentro do coronavírus: 'É como uma prisão domiciliar'
 A paraense Reisi Liao mudou-se de Novo Progresso para a cidade chinesa de Wuhan no dia 8 de novembro.
 A paraense Reisi Liao mudou-se de Novo Progresso para a cidade chinesa de Wuhan no dia 8 de novembro.
@@ -7118,7 +7118,7 @@ Enquanto isso, a brasileira tenta acalmar a família no Pará e fala diariamente
 Ela e o marido têm esperança de que, passado o inverno rigoroso que os recepcionou em Wuhan, a situação "dê uma amenizada".
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51198297' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51198297' term='SARS'>
+<doc docid='bbc_internacional-51198297' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51198297' term='SARS'>
 Coronavírus: o que significa a OMS declarar emergência global de saúde pública
 A Organização Mundial da Saúde (OMS) anunciou nesta quinta-feira (30/1) que, diante do avanço do coronavírus, passa a classificar a epidemia atual como emergência de saúde pública de interesse internacional.
 *Reportagem atualizada às 16h30 de 31 de janeiro, com informações dos casos sendo monitorados no Brasil
@@ -7151,7 +7151,7 @@ Nos desdobramentos mais recentes, os EUA confirmaram nesta quinta-feira (30/1) s
 Também nesta quinta, os 6 mil passageiros de um navio de cruzeiro foram impedidos de descer na cidade italiana de Civitavecchia porque uma das pessoas a bordo, de Macau, apresentou sintomas de gripe. Mais tarde, testes confirmaram que ela não estava infectada com o coronavírus.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_130508_coronavirus_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2013/05/130508_coronavirus_pai' term='SARS'>
+<doc docid='bbc_130508_coronavirus_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2013/05/130508_coronavirus_pai' term='SARS'>
 Variação de vírus que causa pneumonia pode ser transmitida entre humanos
 É provável que uma nova variação do coronavírus (NCoV), que provoca pneumonia, seja transmitida pelo contato próximo entre humanos, informou neste domingo a Organização Mundial da Saúde (OMS).
 É provável que uma nova variação do coronavírus (NCoV), que provoca pneumonia, seja transmitida pelo contato próximo entre humanos, informou neste domingo a Organização Mundial da Saúde (OMS).
@@ -7169,7 +7169,7 @@ Na Grã-Bretanha, um paciente morreu em fevereiro depois que três membros de su
 O novo coronavírus é da mesma família de vírus que causou uma epidemia de síndrome respitarória aguda grave (SARS) a partir da Ásia em 2003. Ainda assim, são vírus diferentes, ressalta a OMS.
 O coronavírus causa infecções respiratórias em humanos e animais, mas ainda não se sabe se a nova versão é uma mutação ou se a infecção foi transmitida de animais para humanos.
 </doc>
-<doc id='bbc_141014_ebola_testes_especialista_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141014_ebola_testes_especialista_fn' term='SARS'>
+<doc docid='bbc_141014_ebola_testes_especialista_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141014_ebola_testes_especialista_fn' term='SARS'>
 Examinar passageiros de avião para evitar ebola é inútil, diz especialista
 Um dos primeiros cientistas que ajudaram a identificar o ebola, Peter Piot, afirmou que examinar passageiros de aviões para evitar o contágio da doença é inútil.
 Um dos primeiros cientistas que ajudaram a identificar o ebola, Peter Piot, afirmou que examinar passageiros de aviões para evitar o contágio da doença é inútil.
@@ -7189,7 +7189,7 @@ Zuckerberg disse que o dinheiro será usado pelo Centros para o Controle e a Pre
 A doação visa garantir que o vírus não se transforme em uma crise de saúde global no longo prazo.
 O secretário de Estado americano, John Kerry, afirmou que a doação de Zuckerberg é uma excelente demonstração de liderança.
 </doc>
-<doc id='bbc_geral-51060492' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51060492' term='SARS'>
+<doc docid='bbc_geral-51060492' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51060492' term='SARS'>
 Coronavírus na China: perguntas e respostas sobre doença pulmonar que matou 81 pessoas e chegou a 13 países
 Um vírus desconhecido pela ciência até há pouco vem causando uma doença pulmonar grave em centenas de pessoas na China, e já foi detectado em mais 12 países — Cingapura, Coreia do Sul, Estados Unidos, França, Canadá, Austrália, Malásia, Japão, Nepal, Tailândia, Taiwan e Vietnã. Não há registro de casos confirmados no Brasil.
 Atualizado às 05h19 de 27 de janeiro de 2020.
@@ -7256,7 +7256,7 @@ Jake Dunning, chefe de zoonoses e infecções do serviço de saúde inglês, dis
 "As pessoas mantêm mais o foco na higiene das mãos quanto estão preocupadas."
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-40068146' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/internacional-40068146' term='SARS'>
+<doc docid='bbc_internacional-40068146' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/internacional-40068146' term='SARS'>
 A vida oculta do alfaiate que morreu na prisão após polícia saudita descobrir sua transexualidade
 Mohammad Amin era, como costumavam dizer, um homem de família: tinha esposa, quatro filhos e cinco filhas.
 Mohammad Amin era, como costumavam dizer, um homem de família: tinha esposa, quatro filhos e cinco filhas.
@@ -7317,7 +7317,7 @@ Mas poucos esperavam algo positivo vindo daí. Os dois países têm uma "relaç�
 As reais causas da morte de Meeno podem nunca ser completamente conhecidas.
 Mas o que é fato é que ela passou sua vida dividida entre a necessidade de ser Mohammad Amin, o marido e pai, e um desejo permanente de ser seu outro eu.
 </doc>
-<doc id='bbc_brasil-51215319' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51215319' term='SARS'>
+<doc docid='bbc_brasil-51215319' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51215319' term='SARS'>
 Coronavírus: Brasil corre risco de ser atingido por surto originado na China?
 Casos do novo tipo de coronavírus identificado em dezembro na cidade de Wuhan, na China, já foram confirmados em outros 12 países.
 *Matéria atualizada às 05h15 de 27 de janeiro de 2020
@@ -7357,7 +7357,7 @@ Mas recomendam que sejam tomadas algumas medidas nestes locais para orientar os 
 "Se virar uma emergência global, vai ser necessário ter um controle muito mais rígido das fronteiras", alerta Fonseca.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_150603_virus_mers_mdb' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2015/06/150603_virus_mers_mdb' term='SARS'>
+<doc docid='bbc_150603_virus_mers_mdb' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2015/06/150603_virus_mers_mdb' term='SARS'>
 O vírus que tem causado mortes e pânico na Coreia do Sul
 O surto de uma nova doença respiratória está causando mortes e pânico na Coreia do Sul, onde nove pessoas morreram e ao menos cem foram infectadas.
 O surto de uma nova doença respiratória está causando mortes e pânico na Coreia do Sul, onde nove pessoas morreram e ao menos cem foram infectadas.
@@ -7397,7 +7397,7 @@ A Sars pode ter infectado mais de 8 mil pessoas, a maioria na China e no Sudeste
 Especialistas descobriram que a Sars poderia se espalhar pelo contato próximo de pessoa para pessoa.
 De acordo com a OMS, 774 pessoas morreram da infecção. Desde 2004, porém, não houve nenhum outro caso conhecido de Sars registrado em qualquer parte do mundo.
 </doc>
-<doc id='bbc_internacional-51341831' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51341831' term='SARS'>
+<doc docid='bbc_internacional-51341831' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51341831' term='SARS'>
 Coronavírus: quantas vezes e por quais doenças a OMS já declarou uma 'emergência de saúde global'
 O coronavírus de Wuhan foi declarado uma emergência de saúde global.
 O coronavírus de Wuhan foi declarado uma emergência de saúde global.
@@ -7439,7 +7439,7 @@ Uma segunda emergência global foi anunciada em outubro de 2019 e ainda está em
 De acordo com dados da OMS no final de dezembro, o país está lidando com a segunda maior epidemia de Ebola, com mais de 2,2 mil mortes e 3,3 mil infecções confirmadas desde que o surto foi declarado em 1º de agosto de 2018.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51341825' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51341825' term='SARS'>
+<doc docid='bbc_internacional-51341825' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51341825' term='SARS'>
 Países fecham fronteiras para viajantes que passaram pela China; Brasil ainda não tomou decisão
 Países ao redor do mundo fecharam suas fronteiras para viajantes que passaram pela China, enquanto autoridades trabalham para controlar a rápida disseminação do coronavírus.
 Países ao redor do mundo fecharam suas fronteiras para viajantes que passaram pela China, enquanto autoridades trabalham para controlar a rápida disseminação do coronavírus.
@@ -7477,7 +7477,7 @@ A Rússia disse que dois cidadãos chineses foram isolados depois de terem testa
 Alemanha, Itália e Suécia confirmaram mais casos na Europa
 Cingapura fechou suas fronteiras para todos os viajantes da China
 </doc>
-<doc id='bbc_geral-43149411' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-43149411' term='SARS'>
+<doc docid='bbc_geral-43149411' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-43149411' term='SARS'>
 Quais os celulares que mais emitem radiação - e o que você pode fazer?
 As dúvidas sobre os possíveis efeitos cancerígenos causados pelas ondas de radiofrequência emitidas por celulares geram debate, e o tema muitas vezes levanta mais perguntas do que respostas.
 As dúvidas sobre os possíveis efeitos cancerígenos causados pelas ondas de radiofrequência emitidas por celulares geram debate, e o tema muitas vezes levanta mais perguntas do que respostas.
@@ -7508,7 +7508,7 @@ A ACS sugere algumas ações para limitar a exposição a ondas de radiofrequên
 -Limitar o uso do celular.
 -Usar um celular com um nível baixo de SAR.
 </doc>
-<doc id='bbc_150612_mers_atualiza_pai' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2015/06/150612_mers_atualiza_pai' term='SARS'>
+<doc docid='bbc_150612_mers_atualiza_pai' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2015/06/150612_mers_atualiza_pai' term='SARS'>
 Mers causa três novas mortes na Coreia do Sul; afinal, que vírus é esse?
 A Coreia do Sul contabilizou, nesta sexta-feira, três novas mortes em decorrência da doença respiratória que causou pânico no país. Mas autoridades afirmam que o pior parece ter passado: o número de novos casos tem decaído, e a população foi orientada a retomar sua rotina.
 A Coreia do Sul contabilizou, nesta sexta-feira, três novas mortes em decorrência da doença respiratória que causou pânico no país. Mas autoridades afirmam que o pior parece ter passado: o número de novos casos tem decaído, e a população foi orientada a retomar sua rotina.
@@ -7549,7 +7549,7 @@ A Sars pode ter infectado mais de 8 mil pessoas, a maioria na China e no Sudeste
 Especialistas descobriram que a Sars poderia se espalhar pelo contato próximo de pessoa para pessoa.
 De acordo com a OMS, 774 pessoas morreram da infecção. Desde 2004, porém, não houve nenhum outro caso conhecido de Sars registrado em qualquer parte do mundo.
 </doc>
-<doc id='bbc_brasil-51428232' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51428232' term='SARS'>
+<doc docid='bbc_brasil-51428232' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51428232' term='SARS'>
 Coronavírus: 'Altíssima qualidade', diz brasileiro vindo de epicentro da doença sobre condições da quarentena
 Os dois aviões da Força Aérea Brasileira trazendo brasileiros que estavam em Wuhan, na China, epicentro dos casos do novo coronavírus, pousaram na manhã deste domingo (9) em Anápolis (Goiás). Agora, os 34 repatriados ficarão em quarentena por 18 dias na cidade, a 55 km de Goiânia.
 Os dois aviões da Força Aérea Brasileira trazendo brasileiros que estavam em Wuhan, na China, epicentro dos casos do novo coronavírus, pousaram na manhã deste domingo (9) em Anápolis (Goiás). Agora, os 34 repatriados ficarão em quarentena por 18 dias na cidade, a 55 km de Goiânia.
@@ -7584,7 +7584,7 @@ Neste sábado, o diretor-geral da OMS, Tedros Adhanom Ghebreyesus, afirmou que o
 Segundo ele, porém, ainda é cedo para dizer se o vírus se estabilizou, já que epidemias podem, com frequência, desacelerar antes de voltarem e crescer.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51351780' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51351780' term='SARS'>
+<doc docid='bbc_internacional-51351780' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51351780' term='SARS'>
 Coronavírus: como a quarentena foi usada para combater doenças ao longo da história
 Na província chinesa de Hubei, mais de uma dúzia de cidades estão isoladas do mundo, na esperança de prevenir novos casos de coronavírus. E países ocidentais também estão colocando as pessoas que retornam de Wuhan, a cidade no centro do surto, em isolamento forçado por até duas semanas.
 Na província chinesa de Hubei, mais de uma dúzia de cidades estão isoladas do mundo, na esperança de prevenir novos casos de coronavírus. E países ocidentais também estão colocando as pessoas que retornam de Wuhan, a cidade no centro do surto, em isolamento forçado por até duas semanas.
@@ -7617,7 +7617,7 @@ No domingo, uma aeronave A380 com 258 passageiros a bordo vindos de Wuhan, entre
 Nenhum dos passageiros deste voo mostrou sinais de ter sido afetado pela doença, segundo o secretário de Estado da Saúde, Adrian Taquet.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51245045' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51245045' term='SARS'>
+<doc docid='bbc_internacional-51245045' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51245045' term='SARS'>
 O que significa a OMS declarar como de 'alto risco global' o surto de coronavírus
 A Organização Mundial da Saúde (OMS) admitiu nesta segunda-feira (27/01) um erro na divulgação do risco global do novo coronavírus descoberto na China em dezembro.
 A Organização Mundial da Saúde (OMS) admitiu nesta segunda-feira (27/01) um erro na divulgação do risco global do novo coronavírus descoberto na China em dezembro.
@@ -7648,7 +7648,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-37458294' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-37458294' term='SARS'>
+<doc docid='bbc_internacional-37458294' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-37458294' term='SARS'>
 As doenças que atingem mais de 1 bilhão de pessoas e são ‘esquecidas’ pela indústria
 Enquanto a epidemia do virus zika se espalha para outras partes do mundo, centenas de milhões de pessoas em países em desenvolvimento sofrem de "doenças tropicais negligenciadas", ou DTNs.
 Enquanto a epidemia do virus zika se espalha para outras partes do mundo, centenas de milhões de pessoas em países em desenvolvimento sofrem de "doenças tropicais negligenciadas", ou DTNs.
@@ -7678,7 +7678,7 @@ Uma causa importante desse aumento é o movimento de pessoas de áreas rurais pa
 "É um desafio real", diz o professor. "Em Cingapura a saúde pública é fantástica, mas os casos de dengue são recorrentes. Se isso ocorre em uma cidade com um bom sistema de saúde, com punições para quem mantém ambientes de reprodução do mosquito, como é possível controlar a doença em outros lugares, mesmo com todos nossos esforços?", questiona.
 Mas ainda há esperança, depositada geralmente em vacinas. Em julho, foi liberada no Brasil a comercialização da vacina contra a dengue Dengvaxia, do laboratório Sanofi Pasteur, com preços entre R$ 132,76 e R$ 138,53 para hospitais e clínicas, segundo a Agência Brasil.
 </doc>
-<doc id='bbc_internacional-51457356' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51457356' term='SARS'>
+<doc docid='bbc_internacional-51457356' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51457356' term='SARS'>
 Coronavírus: China troca autoridades no epicentro do surto em meio a crescente indignação popular
 Sob crescente pressão popular, a China decidiu trocar diversas autoridades por falhas no combate ao avanço do surto de coronavírus, que matou mais de 1.000 pessoas desde dezembro passado.
 Sob crescente pressão popular, a China decidiu trocar diversas autoridades por falhas no combate ao avanço do surto de coronavírus, que matou mais de 1.000 pessoas desde dezembro passado.
@@ -7719,7 +7719,7 @@ Ainda assim, à medida que o tempo passa, o número de casos tem aumentado muito
 "Numa situação como essa, na qual há tantas variáveis desconhecidas, é quase impossível prever com algum grau de precisão quando o número de casos chegará ao seu auge", afirmou Robin Thompson, especialista em epidemiologia matemática da Universidade Oxford, no Reino Unido.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_090430_turismobaumbarten_ac' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2009/04/090430_turismobaumbarten_ac' term='SARS'>
+<doc docid='bbc_090430_turismobaumbarten_ac' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2009/04/090430_turismobaumbarten_ac' term='SARS'>
 Turismo atravessa período mais difícil desde 2001, diz indústria
 O setor de turismo atravessa seu período mais difícil desde setembro de 2001 e essa situação pode se agravar ainda mais no caso de uma pandemia de gripe suína, disse em entrevista à BBC Brasil o presidente do Conselho Mundial de Viagens e Turismo (WTTC, na sigla em inglês), Jean-Claude Baumgarten.
 O setor de turismo atravessa seu período mais difícil desde setembro de 2001 e essa situação pode se agravar ainda mais no caso de uma pandemia de gripe suína, disse em entrevista à BBC Brasil o presidente do Conselho Mundial de Viagens e Turismo (WTTC, na sigla em inglês), Jean-Claude Baumgarten.
@@ -7739,7 +7739,7 @@ Nesse cenário de crise, o turismo doméstico ganha especial importância e o Br
 Neste ano, a 9ª conferência do WTTC será realizada pela primeira vez na América Latina, nos dias 15 e 16 de maio, em Florianópolis (SC).
 Durante os dois dias do evento, os líderes da indústria, entre eles os presidentes das cem maiores empresas de viagens e turismo no mundo, vão discutir os desafios do setor diante do cenário de crise.
 </doc>
-<doc id='bbc_internacional-51216386' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51216386' term='SARS'>
+<doc docid='bbc_internacional-51216386' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51216386' term='SARS'>
 Coronavírus: como é Wuhan, a cidade chinesa onde surgiu surto de coronavírus e que foi isolada
 Ela pode não ser uma megalópole tão conhecida, como Pequim ou Xangai, mas é a sétima maior cidade da China e a número 42 do mundo. Mas agora, Wuhan ganhou fama: é a origem de um novo tipo de coronavírus, que já infectou mais de 830 pessoas no país e matou pelo menos 25.
 *Atualizada às 23h09 de 23/01
@@ -7795,7 +7795,7 @@ Mas, embora o vírus possa continuar a se espalhar rapidamente, as autoridades c
 "Agora, pelo menos, já há uma infraestrutura para enfrentar o problema e esta parece estar agindo rapidamente — tanto na identificação da infecção, na confirmação dos casos e no controle de acesso à cidade", acrescenta.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51390691' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51390691' term='SARS'>
+<doc docid='bbc_internacional-51390691' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51390691' term='SARS'>
 Coronavírus: Bebê recém-nascido infectado em Wuhan indica possível transmissão no útero
 Médicos da cidade chinesa de Wuhan anunciaram que uma mulher infectada com o novo coronavírus deu à luz um bebê que também contraiu a doença.
 Médicos da cidade chinesa de Wuhan anunciaram que uma mulher infectada com o novo coronavírus deu à luz um bebê que também contraiu a doença.
@@ -7813,7 +7813,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post  de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51925174' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51925174' term='SARS'>
+<doc docid='bbc_internacional-51925174' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51925174' term='SARS'>
 Apesar de isolado por apoio a protestos, Bolsonaro não deverá enfrentar reação política imediata, segundo líderes de partidos
 
 Ao saudar participantes de atos pró-governo no último domingo (15), o presidente Jair Bolsonaro (sem partido) dinamitou o que restava de boa vontade para com o Palácio do Planalto no Congresso. A avaliação é de líderes partidários e políticos influentes ouvidos pela BBC News Brasil no próprio domingo e nesta segunda-feira (16).
@@ -7854,7 +7854,7 @@ O presidente da Câmara também disse em entrevista ao jornal Valor Econômico q
 A posição de Maia não é nova — pelo menos desde o começo de março, ele tem dito a aliados que não está disposto a aceitar um pedido de impeachment de Jair Bolsonaro.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-51742910' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51742910' term='SARS'>
+<doc docid='bbc_brasil-51742910' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-51742910' term='SARS'>
 Coronavírus: Brasil tem primeiros casos de transmissão local - o que acontece agora?
 O Ministério da Saúde informou na última quinta-feira (5/3) que foram registrados no país os primeiros casos de transmissão local do novo coronavírus.
 O Ministério da Saúde informou na última quinta-feira (5/3) que foram registrados no país os primeiros casos de transmissão local do novo coronavírus.
@@ -7887,7 +7887,7 @@ Por sua vez, Sprinz considera que neste momento, diante de um número pequeno de
 No entanto, na avaliação de Ribeiro, a inclusão de testes para o novo coronavírus na rede sentinela não representaria um custo extra significativo. "Não é para começar a investigar todo mundo, mas usar uma estrutura de coleta de amostras que já está montada e introduzir um novo teste."
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51326668' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51326668' term='SARS'>
+<doc docid='bbc_internacional-51326668' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51326668' term='SARS'>
 Reino Unido confirma dois casos de coronavírus
 Duas pessoas da mesma família testaram positivo para o coronavírus no Reino Unido, informou o chefe médico do Departamento de Saúde do país.
 *Reportagem atualizada às 16h30 de 31 de janeiro, com o número de casos monitorados no Brasil
@@ -7909,7 +7909,7 @@ Mas essa taxa pode subir se mais pessoas hospitalizadas morrerem ou se for desco
 Segundo James Gallagher, especialista em Ciência e Saúde da BBC, a descoberta dos casos dará início agora a um verdadeiro "trabalho de detetive" para descobrir se os dois pacientes acabaram contagiando outras pessoas.
 Médicos alemães confirmaram a tese de que é possível passar o vírus adiante ainda que a pessoa infectada não tenha desenvolvido sintomas. Esse rastreamento é uma das maneiras pelas quais o vírus pode ser contido no início do contágio em um determinado local.
 </doc>
-<doc id='bbc_090430_economia_gripe_analise_cq' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2009/05/090430_economia_gripe_analise_cq' term='SARS'>
+<doc docid='bbc_090430_economia_gripe_analise_cq' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2009/05/090430_economia_gripe_analise_cq' term='SARS'>
 Análise: Crise financeira pode atenuar impacto econômico da gripe
 Muitas pessoas no mercado e em outros lugares estão tentando estimar quais serão os eventuais custos para a economia global do surto de gripe suína. Com certeza, nenhuma dessas pessoas tem ainda alguma noção do tamanho que podem ter estas perdas.
 Muitas pessoas no mercado e em outros lugares estão tentando estimar quais serão os eventuais custos para a economia global do surto de gripe suína. Com certeza, nenhuma dessas pessoas tem ainda alguma noção do tamanho que podem ter estas perdas.
@@ -7925,7 +7925,7 @@ Se analisarmos os dados sobre as vendas no varejo da China na época, ela provoc
 Otimismo desinformado não é melhor que pessimismo desinformado. Mas, se estivermos observando agora uma epidemia na escala da Sars, minha aposta é que o mesmo vai ocorrer. Os custos serão menores do que muitos temem.
 De qualquer forma, com a economia global fraca como está, seria muito melhor que não tivéssemos que enfrentar uma ameaça como esta.
 </doc>
-<doc id='bbc_internacional-51708766' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51708766' term='SARS'>
+<doc docid='bbc_internacional-51708766' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51708766' term='SARS'>
 Drive-thru de exames e contêiner de atendimento: o 'plano de batalha' dos ingleses contra o coronavírus
 O mundo já enfrentou graves surtos de gripes infecciosas desde o início século passado — da gripe espanhola (1918-19), que matou entre 20 e 50 milhões de pessoas, a variações como a Sars (2002), na China, e a Mers (2012), no Oriente Médio, que deixaram centenas mortos.
 O mundo já enfrentou graves surtos de gripes infecciosas desde o início século passado — da gripe espanhola (1918-19), que matou entre 20 e 50 milhões de pessoas, a variações como a Sars (2002), na China, e a Mers (2012), no Oriente Médio, que deixaram centenas mortos.
@@ -7982,7 +7982,7 @@ Segundo ele, o governo fez bem ao optar por não esconder que as coisas poderão
 Por outro lado, segundo o especialista, o plano traz poucos detalhes sobre como os novos poderes dados a médicos e agentes de saúde podem ser usados na prática e também não detalha como o sistema de saúde vai conseguir leitos e funcionários suficientes para lidar com novos pacientes.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51390441' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51390441' term='SARS'>
+<doc docid='bbc_internacional-51390441' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51390441' term='SARS'>
 Coronavírus: chineses improvisam com garrafas plásticas em meio a escassez de máscaras
 Em 2003, no auge do surto da Sars (Síndrome Respiratória Aguda Grave), autoridades usaram sprays com água sanitária para desinfetar o transporte público. Era um esforço para combater a misteriosa doença e também para mostrar à população que algo estava sendo feito. Os resultados da iniciativa foram visíveis. Sem saber da medida, usuários do transporte se levantavam dos assentos com suas calças clareadas pela mistura desinfetante.
 Em 2003, no auge do surto da Sars (Síndrome Respiratória Aguda Grave), autoridades usaram sprays com água sanitária para desinfetar o transporte público. Era um esforço para combater a misteriosa doença e também para mostrar à população que algo estava sendo feito. Os resultados da iniciativa foram visíveis. Sem saber da medida, usuários do transporte se levantavam dos assentos com suas calças clareadas pela mistura desinfetante.
@@ -7996,7 +7996,7 @@ Entre outras medidas criativas, está o uso de palitos de dente dentro de elevad
 Como parte das medidas impostas pela quarentena, está a permissão para que apenas uma pessoa de cada domicílio possa sair para comprar, por exemplo, comida.
 Restaurantes e supermercados, por sua vez, já criaram serviços de entrega em que encomenda é deixada em locais determinados para evitar o contato entre o entregador e o cliente.
 </doc>
-<doc id='bbc_internacional-51358563' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51358563' term='SARS'>
+<doc docid='bbc_internacional-51358563' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51358563' term='SARS'>
 Coronavírus: como o avanço da doença já impacta economia do Brasil e do mundo
 O surto do novo coronavírus tem provocado imagens incomuns na China, país de 1,3 bilhão de habitantes acostumado a ruas abarrotadas, lojas cheias e atividade econômica intensa.
 O surto do novo coronavírus tem provocado imagens incomuns na China, país de 1,3 bilhão de habitantes acostumado a ruas abarrotadas, lojas cheias e atividade econômica intensa.
@@ -8048,7 +8048,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51350315' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51350315' term='SARS'>
+<doc docid='bbc_internacional-51350315' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51350315' term='SARS'>
 Coronavírus: Brasileiro descreve vida sob quarentena e faz apelo a Bolsonaro
 "O confinamento gera uma certa ansiedade. De repente, o mundo está voltado para a cidade onde você mora, todas as notícias estão voltadas para você", diz o paulista Calebe Guerra, 28. Ele concede entrevista à BBC News Brasil de dentro do apartamento onde mora em Wuhan, na província de Hubei, na China, e de onde quase não sai mais.
 "O confinamento gera uma certa ansiedade. De repente, o mundo está voltado para a cidade onde você mora, todas as notícias estão voltadas para você", diz o paulista Calebe Guerra, 28. Ele concede entrevista à BBC News Brasil de dentro do apartamento onde mora em Wuhan, na província de Hubei, na China, e de onde quase não sai mais.
@@ -8080,7 +8080,7 @@ Neste domingo, 2, a primeira morte fora da China foi confirmada: um homem de 44 
 No Brasil, segundo dados do Ministério da Saúde, existem 16 casos suspeitos. Nenhum foi confirmado.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_brasil-50845591' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-50845591' term='SARS'>
+<doc docid='bbc_brasil-50845591' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-50845591' term='SARS'>
 Como hipótese sobre manchas de clorofila impacta investigação sobre óleo nas praias do Nordeste
 Em depoimento no Congresso na terça-feira (17/12), Pedro Alberto Bignelli, coordenador-geral do Centro Nacional de Monitoramento e Informações Ambientais (Cenima), órgão ligado ao Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama), rejeitou a hipótese de que o óleo derramado no litoral brasileiro tenha saído do navio grego Bouboulina, da empresa Delta Tankers.
 Em depoimento no Congresso na terça-feira (17/12), Pedro Alberto Bignelli, coordenador-geral do Centro Nacional de Monitoramento e Informações Ambientais (Cenima), órgão ligado ao Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama), rejeitou a hipótese de que o óleo derramado no litoral brasileiro tenha saído do navio grego Bouboulina, da empresa Delta Tankers.
@@ -8111,7 +8111,7 @@ Em entrevista à BBC News Brasil, o professor de Oceanografia da Universidade de
 Segundo ele, essas cianobactérias têm alta concentração de gordura em suas células e, do alto, também podem lembrar manchas de petróleo.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_geral-43420470' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/geral-43420470' term='SARS'>
+<doc docid='bbc_geral-43420470' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/geral-43420470' term='SARS'>
 As 10 doenças e uma hipótese que são um risco global de saúde, segundo a OMS
 A Organização Mundial da Saúde (OMS) revisou sua lista de doenças prioritárias, como faz periodicamente desde 2015.  São doenças que, pela falta de remédios e vacinas para combatê-las, têm potencial de se tornarem epidemias e que serão focadas pelos esforços de pesquisas da organização.
 A Organização Mundial da Saúde (OMS) revisou sua lista de doenças prioritárias, como faz periodicamente desde 2015.  São doenças que, pela falta de remédios e vacinas para combatê-las, têm potencial de se tornarem epidemias e que serão focadas pelos esforços de pesquisas da organização.
@@ -8154,7 +8154,7 @@ A OMS decidiu incluir a "doença X", como uma espécie de alerta para "a consci�
 A doença X é apenas uma hipótese, e sua inclusão na lista decorre da história de imprevistos e surpresas na medicina.
 "A experiência nos ensinou que seremos atingidos por algo que não previmos", diz o médico Anthony Fauci, diretor do Instituto Nacional de Alergias e Doenças Infecciosas dos Estados Unidos, recordando que esse foi o caso com os vírus da zika e do ebola.
 </doc>
-<doc id='bbc_131118_morcegos_perigo_mm' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2013/11/131118_morcegos_perigo_mm' term='SARS'>
+<doc docid='bbc_131118_morcegos_perigo_mm' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2013/11/131118_morcegos_perigo_mm' term='SARS'>
 Morcegos são mais perigosos do que se pensava
 Cientistas britânicos descobriram que morcegos africanos carregam mais vírus que representam perigo ao ser humano do que se imaginava.
 Cientistas britânicos descobriram que morcegos africanos carregam mais vírus que representam perigo ao ser humano do que se imaginava.
@@ -8172,7 +8172,7 @@ Já um terço deles hospedavam vírus do tipo Lagos. Segundo o professor Wood, n
 A equipe de pesquisadores sugere que é importante aumentar a vigilância. Caçar os morcegos, no entanto, não é a medida mais efetiva, até porque eles fazem parte do ecossistema, dizem.
 "Assegurar que os animais vivam em uma zona protegida é provavelmente a forma mais segura de direcionar os riscos, mais do que intervir e tentar fazer os morcegos" deixarem algum determinado local, diz o professor Wood.
 </doc>
-<doc id='bbc_internacional-51373320' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51373320' term='SARS'>
+<doc docid='bbc_internacional-51373320' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51373320' term='SARS'>
 Coronavírus não deve tirar foco de doenças que já circulam no Brasil, alertam especialistas
 O surto do coronavírus oriundo da China vem causando preocupação entre os brasileiros, mas não deve tirar o foco de outras doenças infecciosas, às vezes até mais contagiosas e letais, que circulam no Brasil, alertaram infectologistas ouvidos pela BBC News Brasil.
 O surto do coronavírus oriundo da China vem causando preocupação entre os brasileiros, mas não deve tirar o foco de outras doenças infecciosas, às vezes até mais contagiosas e letais, que circulam no Brasil, alertaram infectologistas ouvidos pela BBC News Brasil.
@@ -8216,7 +8216,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51369350' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51369350' term='SARS'>
+<doc docid='bbc_internacional-51369350' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51369350' term='SARS'>
 Coronavírus: adolescente com deficiência morre sozinho em casa após pai ser colocado em quarentena
 Um adolescente com paralisia cerebral morreu sozinho em casa depois que seu pai — e único cuidador — foi colocado em quarentena por suspeita de coronavírus na China.
 Um adolescente com paralisia cerebral morreu sozinho em casa depois que seu pai — e único cuidador — foi colocado em quarentena por suspeita de coronavírus na China.
@@ -8233,7 +8233,7 @@ O número de casos registrados em todo o mundo superou o da epidemia da síndrom
 A Organização Mundial da Saúde (OMS) alertou que é provável que o número de casos aumente ainda mais, e as autoridades chinesas estão introduzindo uma série de medidas para tentar impedir a propagação do vírus.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51394578' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51394578' term='SARS'>
+<doc docid='bbc_internacional-51394578' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51394578' term='SARS'>
 Coronavírus: 5 coisas que você precisa saber
 Em meio ao surto do novo coronavírus, que já infectou mais de 80 mil pessoas em 26 quase 40 países, incluindo o Brasil, diversos mitos e informações falsas estão sendo propagados junto com ele.
 Em meio ao surto do novo coronavírus, que já infectou mais de 80 mil pessoas em 26 quase 40 países, incluindo o Brasil, diversos mitos e informações falsas estão sendo propagados junto com ele.
@@ -8259,7 +8259,7 @@ Não é necessário evitar comida chinesa ou parar de comprar produtos do país.
 Texto publicado originalmente em 06/02/2020 e atualizado no dia 26/02/2020, após a confirmação do primeiro caso no Brasil.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_geral-51305487' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51305487' term='SARS'>
+<doc docid='bbc_geral-51305487' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51305487' term='SARS'>
 Coronavírus: como o surto está espalhando antigos preconceitos sobre a China e seus hábitos culturais
 Na cidade chinesa de Xangai, para onde se mudou a trabalho, o arquiteto Gabriel Kyoshima está cauteloso diante do novo tipo de coronavírus que teve origem no país. Mas há outra coisa o preocupando, e ela vem do Brasil diretamente para seu celular.
 Na cidade chinesa de Xangai, para onde se mudou a trabalho, o arquiteto Gabriel Kyoshima está cauteloso diante do novo tipo de coronavírus que teve origem no país. Mas há outra coisa o preocupando, e ela vem do Brasil diretamente para seu celular.
@@ -8311,7 +8311,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_geral-51318710' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51318710' term='SARS'>
+<doc docid='bbc_geral-51318710' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51318710' term='SARS'>
 Coronavírus: com chegada da doença ao Brasil, o que realmente funciona para se proteger?
 Com a rápida disseminação do novo coronavírus, as pessoas têm cada vez mais se perguntado como se proteger.
 Com a rápida disseminação do novo coronavírus, as pessoas têm cada vez mais se perguntado como se proteger.
@@ -8351,7 +8351,7 @@ Pra manter a imunidade, não há muito segredo: dormir a quantidade de horas cer
 Texto publicado originalmente em 31/01/2020 e atualizado após a confirmação do primeiro teste positivo para coronavírus no Brasil, em 26/02/2020.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51293105' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51293105' term='SARS'>
+<doc docid='bbc_internacional-51293105' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51293105' term='SARS'>
 Coronavírus: 5 aspectos do vírus surgido na China que mais preocupam os cientistas
 O novo coronavírus que surgiu na cidade chinesa de Wuhan e causa uma doença pulmonar grave já foi detectado em vários países, onde infectou milhares de pessoas e provocou mais de 130 mortes.
 O novo coronavírus que surgiu na cidade chinesa de Wuhan e causa uma doença pulmonar grave já foi detectado em vários países, onde infectou milhares de pessoas e provocou mais de 130 mortes.
@@ -8402,7 +8402,7 @@ Isso é algo que os cientistas estão observando atentamente.
 "Não queremos dar ao vírus essa oportunidade", completa.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51347383' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51347383' term='SARS'>
+<doc docid='bbc_internacional-51347383' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51347383' term='SARS'>
 Brasileiros em Wuhan gravam apelo a Bolsonaro por retirada da China
 Um grupo de brasileiros na China fez um apelo ao governo de Jair Bolsonaro para a retirada de cidadãos do país afetado pelo surto do coronavírus.
 Um grupo de brasileiros na China fez um apelo ao governo de Jair Bolsonaro para a retirada de cidadãos do país afetado pelo surto do coronavírus.
@@ -8424,7 +8424,7 @@ Neste domingo, 2, a primeira morte fora da China foi confirmada: um homem de 44 
 No Brasil, segundo dados do Ministério da Saúde, existem 16 casos suspeitos. Nenhum foi confirmado.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_090426_gripesuinamundofn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2009/04/090426_gripesuinamundofn' term='SARS'>
+<doc docid='bbc_090426_gripesuinamundofn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2009/04/090426_gripesuinamundofn' term='SARS'>
 Mundo está 'bem preparado' para gripe suína, diz OMS
 A Organização Mundial de Saúde (OMS) afirmou que a comunidade internacional está mais bem preparada do que nunca para enfrentar um novo tipo de vírus de gripe, segundo o diretor assistente da organização Keiji Fukuda.
 A Organização Mundial de Saúde (OMS) afirmou que a comunidade internacional está mais bem preparada do que nunca para enfrentar um novo tipo de vírus de gripe, segundo o diretor assistente da organização Keiji Fukuda.
@@ -8465,7 +8465,7 @@ O presidente mexicano Felipe Calderon anunciou medidas de emergência para lidar
 O ministro da Saúde mexicano, José Córdova, afirmou que um total de 1.324 pessoas foram internadas com sintomas da doença desde 13 de abril.
 O Banco Mundial vai enviar ao México mais de US$ 200 milhões em empréstimos para lidar com a doença.
 </doc>
-<doc id='bbc_internacional-51325467' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51325467' term='SARS'>
+<doc docid='bbc_internacional-51325467' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51325467' term='SARS'>
 Coronavírus: por que os humanos estão pegando mais doenças transmitidas por animais?
 O mundo está lutando contra uma nova emergência de saúde global, um novo tipo de coronavírus, que se espalhou da China para pelo menos 20 outros países, incluindo o Reino Unido. Até a publicação desta reportagem, o coronovírus já tinha infectado cerca de 10 mil pessoas e o número de mortos chegava a 213 pessoas, todas na China,
 O mundo está lutando contra uma nova emergência de saúde global, um novo tipo de coronavírus, que se espalhou da China para pelo menos 20 outros países, incluindo o Reino Unido. Até a publicação desta reportagem, o coronovírus já tinha infectado cerca de 10 mil pessoas e o número de mortos chegava a 213 pessoas, todas na China,
@@ -8515,7 +8515,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51315759' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51315759' term='SARS'>
+<doc docid='bbc_internacional-51315759' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51315759' term='SARS'>
 Coronavírus: como epidemias chegam ao fim?
 Um novo vírus que já infectou quase 18 mil pessoas em 25 países em 4 continentes é aparentemente menos letal do que aqueles por trás de outros surtos recentes.
 Um novo vírus que já infectou quase 18 mil pessoas em 25 países em 4 continentes é aparentemente menos letal do que aqueles por trás de outros surtos recentes.
@@ -8550,7 +8550,7 @@ O melhor a fazer no momento é ter ações coordenadas de vigilância epidemiol�
 "Isso é fundamental, porque, com o tempo, surgem tratamentos mais eficazes, eliminando o vírus. No longo prazo, se necessário, podemos recorrer à vacinação, mas infelizmente temos que ser pessimistas quanto a essa possibilidade no momento."
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51411980' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51411980' term='SARS'>
+<doc docid='bbc_internacional-51411980' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51411980' term='SARS'>
 Coronavírus: morte de médico que havia tentado avisar sobre vírus causa revolta e protestos na China
 A morte do médico chinês que tentou alertar sobre o surto de coronavírus provocou uma onda sem precedentes de revolta e indignação popular na China.
 A morte do médico chinês que tentou alertar sobre o surto de coronavírus provocou uma onda sem precedentes de revolta e indignação popular na China.
@@ -8595,7 +8595,7 @@ Pequim proibiu, por exemplo, refeições em grupo para eventos como aniversário
 Há casos confirmados da infecção em cerca de 25 países. Até agora, houve apenas duas mortes fora da China continental — uma em Hong Kong e outra nas Filipinas.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51662532' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51662532' term='SARS'>
+<doc docid='bbc_internacional-51662532' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51662532' term='SARS'>
 Coronavírus: como estão as pesquisas por uma vacina e quando ela poderá estar disponível
 À medida que os casos de coronavírus se espalham pelo mundo, a ciência prioriza cada vez mais o desenvolvimento de uma vacina para a doença.
 À medida que os casos de coronavírus se espalham pelo mundo, a ciência prioriza cada vez mais o desenvolvimento de uma vacina para a doença.
@@ -8629,7 +8629,7 @@ Como elas ainda não são uma opção, a melhor maneira de fazer isso é por mei
 Os efeitos da doença para a maioria das pessoas não são pesados. Existem alguns medicamentos antivirais sendo usados em testes clínicos, mas ainda não se pode afirmar com certeza que nenhum deles seja efetivo contra o novo coronavírus.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_geral-51013748' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51013748' term='SARS'>
+<doc docid='bbc_geral-51013748' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51013748' term='SARS'>
 A misteriosa pneumonia que preocupa a China
 Autoridades internacionais estão monitorando e investigando a situação de dezenas de pacientes infectados com uma pneumonia de origem viral e misteriosa na China.
 Autoridades internacionais estão monitorando e investigando a situação de dezenas de pacientes infectados com uma pneumonia de origem viral e misteriosa na China.
@@ -8645,7 +8645,7 @@ A Organização Mundial da Saúde (OMS) diz que está ciente do surto e mantém 
 "Existem muitas causas potenciais para uma pneumonia viral, muitas das quais são mais comuns do que o coronavírus da Síndrome Respiratória Aguda Grave", afirmou um porta-voz da organização internacional na semana passada. "A OMS está monitorando de perto esta situação e compartilhará mais detalhes conforme os tiver."
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51460607' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51460607' term='SARS'>
+<doc docid='bbc_internacional-51460607' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51460607' term='SARS'>
 Coronavírus: o que pode estar por trás da baixa incidência em crianças?
 A notícia sobre o diagnóstico do novo coronavírus em um recém-nascido no dia 5 de fevereiro, 30 horas após o nascimento, correu o mundo.
 A notícia sobre o diagnóstico do novo coronavírus em um recém-nascido no dia 5 de fevereiro, 30 horas após o nascimento, correu o mundo.
@@ -8680,7 +8680,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51443019' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51443019' term='SARS'>
+<doc docid='bbc_internacional-51443019' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51443019' term='SARS'>
 Coronavírus tem recorde de mortes em um dia, mas registro de novos casos se estabiliza
 O número de pessoas mortas pelo novo coronavírus aumentou em 97 neste domingo (09/02), o maior número de mortes já registrado em um dia desde o início do surto, em dezembro, na cidade chinesa de Wuhan, capital da Província de Hubei.
 O número de pessoas mortas pelo novo coronavírus aumentou em 97 neste domingo (09/02), o maior número de mortes já registrado em um dia desde o início do surto, em dezembro, na cidade chinesa de Wuhan, capital da Província de Hubei.
@@ -8709,12 +8709,12 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_131122_aprenda_estacionamento_bicicletas' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2013/11/131122_aprenda_estacionamento_bicicletas' term='SARS'>
+<doc docid='bbc_131122_aprenda_estacionamento_bicicletas' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2013/11/131122_aprenda_estacionamento_bicicletas' term='SARS'>
 Tóquio tem estacionamento subterrâneo automatizado para bicicletas
 
 
 </doc>
-<doc id='bbc_curiosidades-37981911' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/curiosidades-37981911' term='SARS'>
+<doc docid='bbc_curiosidades-37981911' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/curiosidades-37981911' term='SARS'>
 Quão perigosa é a radiação de celulares e como você pode se proteger
 Nós acordamos com ele, nos comunicamos por meio dele e trabalhamos com ele. Às vezes, acordamos no meio da noite para consultá-lo. E se o perdemos ficamos sem saber o que fazer.
 Nós acordamos com ele, nos comunicamos por meio dele e trabalhamos com ele. Às vezes, acordamos no meio da noite para consultá-lo. E se o perdemos ficamos sem saber o que fazer.
@@ -8755,7 +8755,7 @@ A Sociedade Americana do Câncer recomenda enviar mais mensagens do que ligar e 
 Mas nem todas as prevenções são bem-vindas pela ciência.
 "O uso de protetores de celular para absorver a energia de radiofrequência não se justifica e a eficácia de muitos dispositivos comercializados para reduzir a exposição não foi comprovada", diz Van Deventer.
 </doc>
-<doc id='bbc_geral-50695248' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-50695248' term='SARS'>
+<doc docid='bbc_geral-50695248' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-50695248' term='SARS'>
 Relatório denuncia perseguição a acadêmicos e universidades no mundo, com destaque inédito ao Brasil
 Com cinco edições publicadas, o relatório anual Free to Think, que monitora a perseguição a acadêmicos e a universidades em todo o mundo, já teve estampadas em sua capa fotos do Irã, da Turquia, do Paquistão e Egito. Na edição de 2019, quem ocupa a primeira página do relatório é o Brasil.
 Com cinco edições publicadas, o relatório anual Free to Think, que monitora a perseguição a acadêmicos e a universidades em todo o mundo, já teve estampadas em sua capa fotos do Irã, da Turquia, do Paquistão e Egito. Na edição de 2019, quem ocupa a primeira página do relatório é o Brasil.
@@ -8809,7 +8809,7 @@ Quinn atribui esta globalização dos riscos a uma combinação de fatores — a
 "A ironia é que, ao meu ver, isso faz das comunidades acadêmicas mais importantes do que nunca. A sociedade civil precisa da contribuição de uma expertise responsável e com interesse público para orientar o acesso à informação. Então, trata-se de um momento verdadeiramente único, mas não sem riscos."
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51289748' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51289748' term='SARS'>
+<doc docid='bbc_internacional-51289748' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51289748' term='SARS'>
 Coronavírus: 'Queremos sair do perigo antes que seja tarde', desabafa doutoranda brasileira em Wuhan
 A brasileira Indira Mara Santos, de 34 anos, tentou sair imediatamente de Wuhan, epicentro do surto do coronavírus na China, quando soube que a cidade seria fechada para conter a expansão da doença para outras partes do território chinês e do mundo.
 A brasileira Indira Mara Santos, de 34 anos, tentou sair imediatamente de Wuhan, epicentro do surto do coronavírus na China, quando soube que a cidade seria fechada para conter a expansão da doença para outras partes do território chinês e do mundo.
@@ -8847,12 +8847,12 @@ Indira admite ter medo e espera ir ao Brasil o quanto antes.
 Até esta quarta de manhã, foram confirmados 5.974 casos de pessoas infectadas e 132 mortes.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_geral-51508577' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51508577' term='SARS'>
+<doc docid='bbc_geral-51508577' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51508577' term='SARS'>
 Coronavírus: o impacto econômico, do celular à soja
 Enquanto médicos e cientistas correm contra o tempo para entender melhor o vírus e buscar meios para controlar sua disseminação, economistas tentam mensurar o impacto da doença no comércio global.
 
 </doc>
-<doc id='bbc_internacional-51347379' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51347379' term='SARS'>
+<doc docid='bbc_internacional-51347379' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51347379' term='SARS'>
 Coronavírus: O que se sabe sobre a primeira morte fora da China
 Um homem morreu nas Filipinas após ser infectado pelo coronavírus. Foi a primeira morte registrada fora da China.
 Um homem morreu nas Filipinas após ser infectado pelo coronavírus. Foi a primeira morte registrada fora da China.
@@ -8886,7 +8886,7 @@ A OMS recomenda a introdução de triagens em fronteiras. A organização alerto
 A China criticou as restrições a viagens, acusando governos estrangeiros de ignorar o conselho oficial.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-51614703' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51614703' term='SARS'>
+<doc docid='bbc_internacional-51614703' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51614703' term='SARS'>
 Os mapas que mostram o avanço do coronavírus pelo mundo
 O surto do novo coronavírus, que já infectou mais de 82 mil pessoas e matou 2,7 mil, chegou a uma nova etapa.
 O texto foi atualizado às 14h de 28 de fevereiro de 2020.
@@ -8947,7 +8947,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_internacional-51297005' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51297005' term='SARS'>
+<doc docid='bbc_internacional-51297005' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-51297005' term='SARS'>
 Coronavírus: 'A situação é grave? E minhas encomendas da China?', 15 perguntas sobre o surto
 O avanço do surto de coronavírus, que já matou mais de cem pessoas e chegou a 17 países, tem despertado uma série de dúvidas — desde o que se sabe sobre a real gravidade da situação até o que fazer com a compra pela internet de produtos oriundos da China.
 O avanço do surto de coronavírus, que já matou mais de cem pessoas e chegou a 17 países, tem despertado uma série de dúvidas — desde o que se sabe sobre a real gravidade da situação até o que fazer com a compra pela internet de produtos oriundos da China.
@@ -9030,7 +9030,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_brasil-49608186' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-49608186' term='MERS'>
+<doc docid='bbc_brasil-49608186' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-49608186' term='MERS'>
 Assassinatos de mulheres na França geram alerta sobre violência doméstica na Europa
 Em 1º de setembro, um morador de Cagnes-sur-Mer, no sul da França, notou um pé saindo de uma pilha de lixo, galhos e tecidos velhos.
 Em 1º de setembro, um morador de Cagnes-sur-Mer, no sul da França, notou um pé saindo de uma pilha de lixo, galhos e tecidos velhos.
@@ -9080,7 +9080,7 @@ Kairyte diz que, por isso, os adolescentes não entendem o peso das palavras: "E
 Ambas as mulheres usaram as mesmas palavras: "É realmente importante que os adolescentes entendam como funciona  um relacionamento saudável".
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_vert-tra-46127529' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/vert-tra-46127529' term='MERS'>
+<doc docid='bbc_vert-tra-46127529' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/vert-tra-46127529' term='MERS'>
 A cidade francesa que envelhece vinho no fundo do mar
 As marés mais altas da Europa surpreendem os turistas de St-Malo, na França, e batem contra as muralhas medievais de granito e as calçadas. Mas os malouins, como são chamados os locais, tratam o mar agitado com uma graciosa afinidade.
 As marés mais altas da Europa surpreendem os turistas de St-Malo, na França, e batem contra as muralhas medievais de granito e as calçadas. Mas os malouins, como são chamados os locais, tratam o mar agitado com uma graciosa afinidade.
@@ -9109,7 +9109,7 @@ No coração, L'Imersion é muito mais do que uma degustação de vinhos. É uma
 "Isso é o que nos embalou desde a nossa infância e, ao final, não podemos ficar sem isso", disse Heude. "Seja nas artes ou na comida, ele está em tudo: está presente nas degustações de vinho, nos camarões, nas vieiras, nos peixes que pescamos, nos legumes da primavera, nas batatas novas. Nós temos tudo aqui. Nós realmente temos tudo".
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-41878113' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/internacional-41878113' term='MERS'>
+<doc docid='bbc_internacional-41878113' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/internacional-41878113' term='MERS'>
 Quem é o príncipe multimilionário que já trocou farpas com Donald Trump e foi preso por corrupção na Arábia Saudita
 O herdeiro do trono da Arábia Saudita, Mohammed bin Salman, de 32 anos, transformou-se numa ameaça não apenas para setores mais conservadores como também para a elite política e empresarial do reino comandado por Salman desde 2015.
 O herdeiro do trono da Arábia Saudita, Mohammed bin Salman, de 32 anos, transformou-se numa ameaça não apenas para setores mais conservadores como também para a elite política e empresarial do reino comandado por Salman desde 2015.
@@ -9140,7 +9140,7 @@ No sábado, além das prisões, o rei saudita Salman bin Abdulaziz Al Saud tamb�
 O ministro responsável pela guarda nacional, príncipe Miteb bin Abdullah, e o almirante Abdullah bin Sultan bin Mohammed Al-Sultan foram substituídos sem nenhuma explicação oficial.
 O príncipe Miteb é filho do falecido rei Abdulla e já tinha sido cotado como um possível sucessor do trono saudita.
 </doc>
-<doc id='bbc_110404_artistapalestino_gf_rc' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2011/04/110404_artistapalestino_gf_rc' term='MERS'>
+<doc docid='bbc_110404_artistapalestino_gf_rc' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2011/04/110404_artistapalestino_gf_rc' term='MERS'>
 Ator que fazia campanha por igualdade entre árabes e judeus é morto em Jenin
 Um ator que era filho de mãe judia e pai árabe e que representou, em sua existência pessoal, a possibilidade de paz entre israelenses e palestinos foi assassinado a tiros nesta segunda-feira na cidade de Jenin, na Cisjordânia.
 Um ator que era filho de mãe judia e pai árabe e que representou, em sua existência pessoal, a possibilidade de paz entre israelenses e palestinos foi assassinado a tiros nesta segunda-feira na cidade de Jenin, na Cisjordânia.
@@ -9159,7 +9159,7 @@ O teatro acolheu vários palestinos do Fatah, que, após a Intifada resolveram a
 O mais conhecido deles é Zakaria Zbeide, um dos funcionários do Teatro da Liberdade e ex-comandante das Brigadas dos Mártires de Al-Aqsa em Jenin.
 Juliano Mer-Khamis também trabalhou em papeis importantes nos maiores grupos de teatro de Israel e em filmes internacionais.
 </doc>
-<doc id='bbc_130808_dromedarios_virus_transmissao_lgb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2013/08/130808_dromedarios_virus_transmissao_lgb' term='MERS'>
+<doc docid='bbc_130808_dromedarios_virus_transmissao_lgb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2013/08/130808_dromedarios_virus_transmissao_lgb' term='MERS'>
 Dromedários podem ser transmissores de vírus mortal, diz pesquisa
 Dromedários podem ser os responsáveis por transmitir aos humanos um vírus mortal que surgiu no ano passado, aponta uma nova pesquisa.
 Dromedários podem ser os responsáveis por transmitir aos humanos um vírus mortal que surgiu no ano passado, aponta uma nova pesquisa.
@@ -9181,7 +9181,7 @@ Mas ele disse à BBC que "a prova definitiva só se dará a partir do isolamento
 Autoridades de saúde dizem que a confirmação de onde o vírus surgiu é uma prioridade.
 Estatísticas indicam que o vírus não é contagioso o bastante para representar uma ameaça global e ainda se encontra em um patamar em que sua transmissão pode ser interrompida.
 </doc>
-<doc id='bbc_131230_medical_stories_2013_mv' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2013/12/131230_medical_stories_2013_mv' term='MERS'>
+<doc docid='bbc_131230_medical_stories_2013_mv' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2013/12/131230_medical_stories_2013_mv' term='MERS'>
 A mastectomia de Angelina e outras notícias médicas de 2013
 Do bebê que, aparentemente, foi livrado do vírus HIV a avanços na busca por um tratamento para a demência, acontecimentos no campo da medicina fizeram muitas manchetes em 2013.
 Do bebê que, aparentemente, foi livrado do vírus HIV a avanços na busca por um tratamento para a demência, acontecimentos no campo da medicina fizeram muitas manchetes em 2013.
@@ -9238,7 +9238,7 @@ Entretanto, a maior parte dessas mortes ocorreu no início do ano, logo após o 
 O outro novo vírus, causador da Síndrome Respiratória do Oriente Médio (Mers, na sigla em inglês), emergiu na Arábia Saudita. Ainda não se sabe onde o vírus estaria se originando, embora muitos suspeitem de que os camelos sejam a fonte.
 Uma doença antiga que voltou a ameaçar o mundo em 2013 foi a poliomelite. Na Síria, fragmentada por uma guerra que não parece ter fim, novos casos foram diagnosticados. Há 14 anos não se viam casos novos de polio no país.
 </doc>
-<doc id='bbc_geral-39140741' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/geral-39140741' term='MERS'>
+<doc docid='bbc_geral-39140741' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/geral-39140741' term='MERS'>
 Cientistas encontram fósseis de 4 bilhões de anos e se aproximam de origem da vida
 Cientistas descobriram o que acreditam ser os fósseis de alguns dos primeiros organismos vivos da Terra.
 Cientistas descobriram o que acreditam ser os fósseis de alguns dos primeiros organismos vivos da Terra.
@@ -9279,7 +9279,7 @@ Se esse for o caso, segundo Papineau, as recentes missões espaciais da Nasa à 
 Segundo ele, as missões Veículos Exploradores de Marte (MER, na sigla em inglês), Spirit e Opportunity, e mais recentemente a sonda espacial Curiosity, negligenciaram áreas que poderiam ter tido pedras originadas por fontes hidrotermais.
 "Na superfície de Marte, tivemos oportunidades perdidas. O MER-B (Opportunity) em 2003 descobriu formações promissoras, mas não havia análise. E o Spirit passou ao largo de outra perto da região de Comance na cratera de Gusev", assinala.
 </doc>
-<doc id='bbc_internacional-49504990' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-49504990' term='MERS'>
+<doc docid='bbc_internacional-49504990' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-49504990' term='MERS'>
 Como a França preserva e explora seu pedaço da Amazônia na Guiana Francesa
 Do outro lado do Atlântico, falando desde a cidade de Biarritz sobre a necessidade de conter incêndios e desmatamentos na maior floresta tropical do mundo, o presidente francês, Emmanuel Macron, lembrou: "Somos da Amazônia".
 Do outro lado do Atlântico, falando desde a cidade de Biarritz sobre a necessidade de conter incêndios e desmatamentos na maior floresta tropical do mundo, o presidente francês, Emmanuel Macron, lembrou: "Somos da Amazônia".
@@ -9345,7 +9345,7 @@ Ao longo destes séculos, houve experiências de exploração madeireira e plant
 (Fonte: "Em torno das origens da Guiana Francesa: dos primórdios ao século XIX", artigo do historiador Iuri Cavlak)
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_internacional-43305455' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-43305455' term='MERS'>
+<doc docid='bbc_internacional-43305455' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-43305455' term='MERS'>
 Febre de Lassa, a doença mortal que se espalha pela África e para a qual não há cura
 Desde o início do ano, a Nigéria tem sido afetada por um surto mortal: a febre de Lassa, uma entre as diversas doenças capazes de causar epidemias perigosas, mas para as quais ainda não há vacinas.
 Desde o início do ano, a Nigéria tem sido afetada por um surto mortal: a febre de Lassa, uma entre as diversas doenças capazes de causar epidemias perigosas, mas para as quais ainda não há vacinas.
@@ -9384,7 +9384,7 @@ Mas a pesquisa por si só não é suficiente. São necessários sistemas de saú
 Também é preciso trabalhar com as comunidades para entender como identificar surtos em um estágio inicial e prevenir sua propagação.
 *O médico Charlie Weller é chefe de vacinas da ONG Wellcome Trust, especializada em saúde
 </doc>
-<doc id='bbc_140527_hidrofobia_mv' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/05/140527_hidrofobia_mv' term='MERS'>
+<doc docid='bbc_140527_hidrofobia_mv' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/05/140527_hidrofobia_mv' term='MERS'>
 Falta de dinheiro para vacinar cães causa 'milhares de mortes' por raiva
 A falta de recursos para a vacinação de cachorros está provocando a morte, anualmente, de milhares de crianças em vários países do mundo.
 A falta de recursos para a vacinação de cachorros está provocando a morte, anualmente, de milhares de crianças em vários países do mundo.
@@ -9405,12 +9405,12 @@ Outra razão para preocupação é o fato de que algumas das vacinas usadas atua
 "Há vacinas bem baratas para a raiva, são vacinas atenuadas (em que o vírus encontra-se vivo porém, sem capacidade de produzir a doença)", explicou Vallat. "Se não forem controladas, você pode acabar infectando os animais com o vírus".
 "Nosso padrão é usar vacinas inativas, (com as quais) o animal cria anticorpos com base em um vírus que não está vivo".
 </doc>
-<doc id='bbc_geral-41055922' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/geral-41055922' term='MERS'>
+<doc docid='bbc_geral-41055922' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/geral-41055922' term='MERS'>
 A obra de arte mais reproduzida do mundo
 
 
 </doc>
-<doc id='bbc_100408_franca_casas_df_ir' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2010/04/100408_franca_casas_df_ir' term='MERS'>
+<doc docid='bbc_100408_franca_casas_df_ir' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2010/04/100408_franca_casas_df_ir' term='MERS'>
 França remove mais de mil famílias de área de risco após enchente
 O governo francês anunciou que irá demolir de cerca de 1,4 mil casas em áreas sujeitas a inundações no oeste do país após a catástrofe causada, no final de fevereiro, pela tempestade Xynthia, que matou 53 pessoas.
 O governo francês anunciou que irá demolir de cerca de 1,4 mil casas em áreas sujeitas a inundações no oeste do país após a catástrofe causada, no final de fevereiro, pela tempestade Xynthia, que matou 53 pessoas.
@@ -9436,7 +9436,7 @@ O governo francês realizou uma cartografia de zonas declaradas inabitáveis, on
 A medida foi tomada após a polêmica sobre a urbanização intensiva para desenvolver as atividades turísticas dessas regiões litorâneas.
 Estudos realizados em 2001 pelas autoridades regionais da Vendée já apontavam riscos de inundações em determinadas áreas. Segundo a imprensa francesa, os prefeitos foram alertados, mas não tomaram medidas.
 </doc>
-<doc id='bbc_100331_franca_silicone_df_np' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2010/03/100331_franca_silicone_df_np' term='MERS'>
+<doc docid='bbc_100331_franca_silicone_df_np' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2010/03/100331_franca_silicone_df_np' term='MERS'>
 França proíbe próteses de silicone exportadas para o Brasil
 A Agência Francesa de Segurança Sanitária dos Produtos de Saúde (Afssaps) proibiu a venda, a exportação e a utilização de próteses mamárias de silicone de uma empresa do sul da França, a Poly Implant Prothèse (PIP), por suposta fraude na fabricação do produto.
 A Agência Francesa de Segurança Sanitária dos Produtos de Saúde (Afssaps) proibiu a venda, a exportação e a utilização de próteses mamárias de silicone de uma empresa do sul da França, a Poly Implant Prothèse (PIP), por suposta fraude na fabricação do produto.
@@ -9464,7 +9464,7 @@ Segundo a imprensa local, a companhia, que acumula dívidas de 9 milhões de eur
 Contatada pela BBC Brasil, a Anvisa (Agência Nacional de Vigilância Sanitária) disse que está entrando em contato com as autoridades francesas e com os distribuidores da prótese no Brasil e só depois de conhecer mais detalhes sobre o caso irá se pronunciar sobre o assunto.
 A agência disse que, até o momento, não recebeu qualquer notificação de problemas envolvendo a prótese no Brasil.
 </doc>
-<doc id='bbc_vert-cap-46215965' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/vert-cap-46215965' term='MERS'>
+<doc docid='bbc_vert-cap-46215965' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/vert-cap-46215965' term='MERS'>
 Os jovens que escolhem viver modestamente para se aposentar aos 40 (ou antes)
 Os pais de Barney Whiter compraram sua casa própria quando ele começou o Ensino Médio no Reino Unido, em 1981.
 Os pais de Barney Whiter compraram sua casa própria quando ele começou o Ensino Médio no Reino Unido, em 1981.
@@ -9518,7 +9518,7 @@ Embora a parte "RE" do movimento FIRE seja se aposentar cedo, o objetivo de Merz
 Pelo contrário, eles acreditam que esse estilo de vida lhes dá flexibilidade para fazer o que querem.
 "Você tem que viver para entender o quão poderoso é", diz Whiter.
 </doc>
-<doc id='bbc_130904_animais_virus_gm' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2013/09/130904_animais_virus_gm' term='MERS'>
+<doc docid='bbc_130904_animais_virus_gm' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2013/09/130904_animais_virus_gm' term='MERS'>
 Mamíferos carregam 320 mil vírus desconhecidos, diz estudo
 Um estudo americano sugere que pelo menos 320 mil vírus ainda não conhecidos podem estar circulando entre animais mamíferos.
 Um estudo americano sugere que pelo menos 320 mil vírus ainda não conhecidos podem estar circulando entre animais mamíferos.
@@ -9547,7 +9547,7 @@ Comentando o estudo americano, o professor Jonathan Ball, da Unviersidade de Not
 "Ainda que outros mamíferos carreguem ou não um grupo similar de vírus, é importante fazermos a pergunta para a qual, sem dúvida, os pesquisadores se atentam: será que estudos de grande escala como estes realmente nos ajudaram a prever ou controlar melhor futuras contaminações por vírus?".
 Ele ainda ressalta o tamanho do desafio: "o número de depositários de vírus é gigantesco - existem mais de mil espécies apenas de morcegos - e o rastreamento adequado desses e de outros animais impõe um grande desafio, para dizer o mínimo".
 </doc>
-<doc id='bbc_150612_tartaruga_poluicao_rm' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2015/06/150612_tartaruga_poluicao_rm' term='MERS'>
+<doc docid='bbc_150612_tartaruga_poluicao_rm' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2015/06/150612_tartaruga_poluicao_rm' term='MERS'>
 A triste história da tartaruga deformada pela poluição
 O bichinho ainda não tinha nome. Naquela época, era uma tartaruga comum que vivia em Missouri (EUA) e, como animal semiaquático, passeava pela margem de um rio.
 O bichinho ainda não tinha nome. Naquela época, era uma tartaruga comum que vivia em Missouri (EUA) e, como animal semiaquático, passeava pela margem de um rio.
@@ -9573,7 +9573,7 @@ Leia mais: Irlandesa encontra 2ª 'gêmea' desconhecida nas redes sociais
 "Os animais normalmente não conseguem diferenciar lixo de comida, então eles comem essas coisas e se asfixiam ou terminam com o estômago cheio de plástico e morrem de fome."
 Para que isso não aconteça, o departamento recomenda jogar lixo sempre no lixo, manter as ruas e os rios limpos e, no caso dos plásticos que carregam latinhas, o melhor a fazer é cortar os anéis para evitar que qualquer animal fique preso neles.
 </doc>
-<doc id='bbc_151230_assassinato_idosos_demencia_jp' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2015/12/151230_assassinato_idosos_demencia_jp' term='MERS'>
+<doc docid='bbc_151230_assassinato_idosos_demencia_jp' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2015/12/151230_assassinato_idosos_demencia_jp' term='MERS'>
 'Ela já havia sofrido muito': O caso do homem de 86 anos acusado de matar a mulher
 Um assassinato ocorrido na noite de 28 de dezembro na localidade de Walton-on-the-Naze, no Reino Unido, tem causado comoção e polêmica na Grã-Bretanha. Aos 86 anos, Ronald King está sendo acusado de matar a mulher, Rita King, de 81 anos, que sofria de demência, durante uma visita ao asilo em que ela vivia.
 Um assassinato ocorrido na noite de 28 de dezembro na localidade de Walton-on-the-Naze, no Reino Unido, tem causado comoção e polêmica na Grã-Bretanha. Aos 86 anos, Ronald King está sendo acusado de matar a mulher, Rita King, de 81 anos, que sofria de demência, durante uma visita ao asilo em que ela vivia.
@@ -9594,7 +9594,7 @@ Já se sabe que a arma que matou Rita é um revólver Enfield de 1934, arma util
 Stella Bone, outra vizinha do casal, disse que a demência é algo muito difícil de lidar.
 "Eu trabalhei em um asilo por dez anos e sei que a demência é algo muito complicado. Qualquer pessoa que não tenha empatia com alguém que tenha que lidar com os efeitos imediatos da demência é porque nunca teve que passar por isso", disse ao jornal The Guardian.
 </doc>
-<doc id='bbc_141215_salasocial_sequestro_sydney_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/12/141215_salasocial_sequestro_sydney_rb' term='MERS'>
+<doc docid='bbc_141215_salasocial_sequestro_sydney_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/12/141215_salasocial_sequestro_sydney_rb' term='MERS'>
 #SalaSocial: Selfies em sequestro de Sydney revoltam internautas
 Enquanto um homem mantém um grupo de reféns presos em um café em Sydney, na Austrália, algumas transeuntes do lado de fora não resistiram à tentação de tirar "selfies" com o local do sequestro ao fundo, causando revolta entre os usuários do Twitter.
 Enquanto um homem mantém um grupo de reféns presos em um café em Sydney, na Austrália, algumas transeuntes do lado de fora não resistiram à tentação de tirar "selfies" com o local do sequestro ao fundo, causando revolta entre os usuários do Twitter.
@@ -9629,7 +9629,7 @@ Agora, foi a vez das "selfies" feitas no sequestro em Sydney causarem espanto.
 "Todos que tirarem uma 'selfie' hoje no sequestro em Sydney têm que fazer um curso obrigatório como aquele que é feito quando você é pego dirigindo bêbado", afirmou outro usuário.
 O sequestro ainda causou comoção no Instagram, onde diversas pessoas compartilharam imagens acompanhadas das hashtags #PrayForSydney (Reze por Sydney, em inglês) e #SydneySiege (Cerco em Sydney, em inglês).
 </doc>
-<doc id='bbc_090606_diadebc' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2009/06/090606_diadebc' term='MERS'>
+<doc docid='bbc_090606_diadebc' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2009/06/090606_diadebc' term='MERS'>
 Obama marca Dia D com líderes europeus
 O presidente dos Estados Unidos, Barack Obama, marcou neste sábado o 65º aniversário do Dia D – considerado decisivo para o fim da Segunda Guerra Mundial – com uma homenagem a veteranos de guerra europeus, canadenses e americanos na região da Normandia, na França.
 O presidente dos Estados Unidos, Barack Obama, marcou neste sábado o 65º aniversário do Dia D – considerado decisivo para o fim da Segunda Guerra Mundial – com uma homenagem a veteranos de guerra europeus, canadenses e americanos na região da Normandia, na França.
@@ -9646,7 +9646,7 @@ Já o presidente Obama chegou a Paris na noite de sexta-feira, depois de uma rá
 Pela manhã. Obama chegou em Caen ao lado da mulher, Michelle, e de Sarkozy e foi recebido como um ídolo por uma multidão.
 Depois, ele seguiu para o cemitério militar americano em Colleville-sur-Mer, próximo à praia de Omaha Beach, onde discursou.
 </doc>
-<doc id='bbc_110905_ivanlessa_ra' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2011/09/110905_ivanlessa_ra' term='MERS'>
+<doc docid='bbc_110905_ivanlessa_ra' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2011/09/110905_ivanlessa_ra' term='MERS'>
 Ivan Lessa: Mobo Bobo
 Aloysio de Oliveira, que fez de tudo em e para nossa MPB, de certa feita, em papo comigo, disse uma frase que nunca me saiu da cabeça: "Música popular de qualidade existem apenas 3 no mundo, a brasileira, a cubana e a americana".
 Aloysio de Oliveira, que fez de tudo em e para nossa MPB, de certa feita, em papo comigo, disse uma frase que nunca me saiu da cabeça: "Música popular de qualidade existem apenas 3 no mundo, a brasileira, a cubana e a americana".
@@ -9671,7 +9671,7 @@ Nem sabem o que é negro, preto ou criolo. Coroando a festa toda, uma homenagem 
 Enfim, são brancos que se entendam e bom proveito quando gastarem os miúdos que tirarem da garotada.
 "Mobo bobo", titulei eu este texto, brincando e apelando para a composição de Carlinhos Lyra e Ronaldo Bôscoli que, almas do mais puro breu brasileiro, rindo muito, gostavam de contar como "interpolaram" o tema dos shorts de O Gordo e O Magro (A Canção do Cuco) para compor um dos sucessos que lançou a carreira de João Gilberto. É. Claro. Lobo Bobo. Fiau!
 </doc>
-<doc id='bbc_141009_ebola_cao_espanha_polemica_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141009_ebola_cao_espanha_polemica_fn' term='ebola'>
+<doc docid='bbc_141009_ebola_cao_espanha_polemica_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141009_ebola_cao_espanha_polemica_fn' term='ebola'>
 Sacrifício de cão de enfermeira infectada com ebola gera protesto e polêmica
 O sacrifício do cão Excalibur, que pertencia à enfermeira espanhola infectada com o ebola em Madri Teresa Romero, gerou protestos na capital espanhola e polêmica entre pesquisadores. Uma grande campanha online foi feita, mas a mobilização não foi suficiente para evitar a morte do cachorro.
 O sacrifício do cão Excalibur, que pertencia à enfermeira espanhola infectada com o ebola em Madri Teresa Romero, gerou protestos na capital espanhola e polêmica entre pesquisadores. Uma grande campanha online foi feita, mas a mobilização não foi suficiente para evitar a morte do cachorro.
@@ -9698,7 +9698,7 @@ Em uma entrevista ao jornal espanhol El País, o fundador do primeiro laboratór
 Para o especialista, a Espanha não estava pronta para este episódio.
 "Curar este animal, com este vírus, seria o melhor da minha vida, mas, se não existem os meios, não se pode arriscar", acrescentou.
 </doc>
-<doc id='bbc_141126_ebola_rua_fd' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/11/141126_ebola_rua_fd' term='ebola'>
+<doc docid='bbc_141126_ebola_rua_fd' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/11/141126_ebola_rua_fd' term='ebola'>
 Coveiros cruzam os braços em cidade assolada pelo ebola
 Uma disputa trabalhista em Kenema, cidade de Serra Leoa, criou uma situação de risco numa área afetada pelo vírus ebola.
 Uma disputa trabalhista em Kenema, cidade de Serra Leoa, criou uma situação de risco numa área afetada pelo vírus ebola.
@@ -9713,7 +9713,7 @@ O incidente em Kenema ocorreu duas semanas depois de outra greve em Serra Leoa: 
 De acordo com as recomendações médicas, os corpos de mortos pelo ebola devem ser enterrados o mais rápido possível para diminuir os riscos de contágio. O vírus pode ser contraído através de contato com fluidos corporais, incluindo indiretamente - por roupas, lençóis e superfícies infectadas, por exemplo.
 Segundo balanço da Organização Mundial da Saúde, há até o momento 15,9 mil casos oficiais de ebola na atual epidemia, com 5,6 mil mortes contabilizadas.
 </doc>
-<doc id='bbc_141009_dados_ebola_lk' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141009_dados_ebola_lk' term='ebola'>
+<doc docid='bbc_141009_dados_ebola_lk' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141009_dados_ebola_lk' term='ebola'>
 Número de mortos pelo ebola supera 4 mil
 O número de mortes atribuídas à epidemia de ebola aumentou para mais de 4 mil, segundo a Organização Mundial da Saúde (OMS).
 O número de mortes atribuídas à epidemia de ebola aumentou para mais de 4 mil, segundo a Organização Mundial da Saúde (OMS).
@@ -9738,7 +9738,7 @@ Na sexta-feira a MSF informou sobre um acentuado aumento dos casos na capital da
 Enquanto isso no Mali, um soro experimental está sendo testado em trabalhadores da saúde.
 A experiência será feita em diversos países e os resultados serão enviados a especialistas para determinar se ele pode oferecer proteção contra o ebola.
 </doc>
-<doc id='bbc_140828_ebola_vacina_teste_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140828_ebola_vacina_teste_hb' term='ebola'>
+<doc docid='bbc_140828_ebola_vacina_teste_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140828_ebola_vacina_teste_hb' term='ebola'>
 Vacina contra o ebola deverá ser testada em voluntários na Grã-Bretanha
 Uma vacina contra o ebola poderá ser testada em voluntários na Grã-Bretanha em setembro, com vistas a estar disponível para uso generalizado no início de 2015, segundo um consórcio internacional público-privado de saúde.
 Uma vacina contra o ebola poderá ser testada em voluntários na Grã-Bretanha em setembro, com vistas a estar disponível para uso generalizado no início de 2015, segundo um consórcio internacional público-privado de saúde.
@@ -9754,7 +9754,7 @@ O porta-voz da GlaxoSmithKline, Moncef Slaoui, disse que o processo é complexo,
 "Mas estamos animados com o progresso até agora e faremos o melhor que pudermos, junto com a OMS e nossos parceiros, para acelerar o seu desenvolvimento e explorar maneiras como a vacina pode contribuir com o controle deste e de surtos futuros do ebola."
 O projeto tem um custo de cerca de 2,8 milhões de libras (R$ 10,4 milhões), bancados pela fundação Wellcome, o Departamento de Desenvolvimento Internacional britânico e o Conselho de Pesquisa Médica.
 </doc>
-<doc id='bbc_120730_ebola_uganda_lk_rn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/ultimas_noticias/2012/07/120730_ebola_uganda_lk_rn' term='ebola'>
+<doc docid='bbc_120730_ebola_uganda_lk_rn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/ultimas_noticias/2012/07/120730_ebola_uganda_lk_rn' term='ebola'>
 Surto de Ebola atinge a capital de Uganda
 Um surto do vírus Ebola em Uganda atingiu a capital Kampala. Ao menos 14 pessoas já morreream desde que o primeiro caso foi registrado há três semanas no oeste do país.
 Um surto do vírus Ebola em Uganda atingiu a capital Kampala. Ao menos 14 pessoas já morreream desde que o primeiro caso foi registrado há três semanas no oeste do país.
@@ -9764,7 +9764,7 @@ Museveni afirmou que o governo se esforça para rastrear todos os que tiveram co
 Não existe tratamento ou vacina para o vírus Ebola, cujos sintomas incluem febre, vômitos e diarréia.
 Um surto anterior em Uganda há doze anos matou mais de 200 pessoas.
 </doc>
-<doc id='bbc_141008_enfermeira_ebola_mdb_fc' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141008_enfermeira_ebola_mdb_fc' term='ebola'>
+<doc docid='bbc_141008_enfermeira_ebola_mdb_fc' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141008_enfermeira_ebola_mdb_fc' term='ebola'>
 Erros, pânico e revolta em Madri: O caso da enfermeira com ebola
 Ninguém. A sala de espera da ala de emergências do Hospital Universitário de Alcorcón, no subúrbio de Madri, está vazia.
 Ninguém. A sala de espera da ala de emergências do Hospital Universitário de Alcorcón, no subúrbio de Madri, está vazia.
@@ -9790,7 +9790,7 @@ Em Alcorcón, o medo continua. A sala de espera da ala de Emergências continua 
 Os três levam máscara e luvas de borracha, que jogam no lixo antes de abrir a porta do furgão estacionado na vaga reservada para ambulâncias.
 Quando perguntado pela reportagem da BBC Brasil se estava finalizado o trabalho de limpeza e desinfecção da área onde a auxiliar de enfermagem foi atendida, um dele olha com cara de surpresa e, com um sorriso incrédulo responde: "Nem de perto!".
 </doc>
-<doc id='bbc_140821_ebola_congo_lk' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140821_ebola_congo_lk' term='ebola'>
+<doc docid='bbc_140821_ebola_congo_lk' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140821_ebola_congo_lk' term='ebola'>
 República Democrática do Congo confirma casos de ebola
 Autoridades da RDC (República Democrática do Congo) afirmaram que duas pessoas morreram de ebola no noroeste do país.
 Autoridades da RDC (República Democrática do Congo) afirmaram que duas pessoas morreram de ebola no noroeste do país.
@@ -9814,7 +9814,7 @@ O Gabão, o Senegal, Camarões e a África do Sul tomaram medidas similares.
 A Organização Mundial da Saúde afirmou que a proibição de viagens não funciona para evitar que a doença se espalhe. A entidade pediu porém o envio de mais médicos e laboratórios móveis para tratar dos infectados.
 O ebola é transmitido entre humanos por meio de contato direto ou por fluídos do corpo.
 </doc>
-<doc id='bbc_141225_papa_mensagem_natal_bg' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/12/141225_papa_mensagem_natal_bg' term='ebola'>
+<doc docid='bbc_141225_papa_mensagem_natal_bg' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/12/141225_papa_mensagem_natal_bg' term='ebola'>
 Papa fala de violência contra crianças em 'Natal com muitas lágrimas'
 Em sua tradicional mensagem de Natal, o papa Francisco lembrou as mortes infantis em conflitos mundiais e citou as mais de 132 crianças mortas no Paquistão em um atentado realizado na semana passada, realizado pela milícia islâmica extremista Talebã.
 Em sua tradicional mensagem de Natal, o papa Francisco lembrou as mortes infantis em conflitos mundiais e citou as mais de 132 crianças mortas no Paquistão em um atentado realizado na semana passada, realizado pela milícia islâmica extremista Talebã.
@@ -9829,7 +9829,7 @@ Em seu pronunciamento, ele também agradeceu as vítimas da epidemia de ebola no
 "Que ele (Deus) esteja próximo de todos os que sofrem doenças, especialmente as vítimas de epidemia de ebola, sobretudo na Libéria, em Serra Leoa e na Guiné. Eu agradeço todos os que corajosamente se dedicam a ajudar os doentes e seus familiares. Mais uma vez reitero meu apelo urgente para que a assistência necessária seja dada e que o tratamento seja providenciado."
 Foi o segundo Natal do papa desde que ascendeu ao papado no ano passado.
 </doc>
-<doc id='bbc_141027_ebola_caixoes_liberia_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141027_ebola_caixoes_liberia_pai' term='ebola'>
+<doc docid='bbc_141027_ebola_caixoes_liberia_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141027_ebola_caixoes_liberia_pai' term='ebola'>
 Ebola quebra tradição na Libéria e faz vendas de caixão despencarem
 Em meio à epidemia de ebola, a indústria de caixões da Libéria vive uma crise de vendas.
 Em meio à epidemia de ebola, a indústria de caixões da Libéria vive uma crise de vendas.
@@ -9857,7 +9857,7 @@ De volta à loja de caixões, Mulbah fica de olho na estrada, à espera de clien
 Ele se apega à esperança, comum na Libéria, de que a chegada da estação seca, em breve, vai de alguma forma conter a epidemia (já que as fortes chuvas bloqueiam estradas e prejuicam os esfoços contra a doença, em um país com pouca infraestrutura).
 "Queremos que o ebola se vá, para que possamos retomar os negócios", diz.
 </doc>
-<doc id='bbc_140729_guine_ebola_ru' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140729_guine_ebola_ru' term='ebola'>
+<doc docid='bbc_140729_guine_ebola_ru' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140729_guine_ebola_ru' term='ebola'>
 Guiné fecha fronteiras para conter Ebola
 A Guiné anunciou neste sábado o fechamento de suas fronteiras com a Serra Leoa e a Libéria numa tentativa de conter a propagação do vírus Ebola, que já matou 959 pessoas nos três países.
 A Guiné anunciou neste sábado o fechamento de suas fronteiras com a Serra Leoa e a Libéria numa tentativa de conter a propagação do vírus Ebola, que já matou 959 pessoas nos três países.
@@ -9874,12 +9874,12 @@ Dados dos dias 5 e 6 deste mês, registram a ocorrência de pelo menos 68 novos 
 A região de onde vem o maior número de vítimas é justamente a fronteira desses três países.
 A OMS disse que essa área deve ser isolada e tratada como uma "zona unificada" - embora não esteja claro como isso deve afetar a estratégia de contenção do vírus.
 </doc>
-<doc id='bbc_141010_ebola_animacao_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2014/10/141010_ebola_animacao_lab' term='ebola'>
+<doc docid='bbc_141010_ebola_animacao_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2014/10/141010_ebola_animacao_lab' term='ebola'>
 Como o vírus do ebola age no corpo humano
 
 
 </doc>
-<doc id='bbc_vert-fut-44143874' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/vert-fut-44143874' term='ebola'>
+<doc docid='bbc_vert-fut-44143874' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/vert-fut-44143874' term='ebola'>
 Como o uso de dados de funcionários pelas empresas está mudando o mercado de trabalho
 Se você trabalhasse na fábrica da Ford em 1914, em algum momento de sua carreira um detetive particular seria contratado para segui-lo até em casa.
 Se você trabalhasse na fábrica da Ford em 1914, em algum momento de sua carreira um detetive particular seria contratado para segui-lo até em casa.
@@ -9923,7 +9923,7 @@ Isso deve manter a maioria das tentações cínicas à distância por ora, mas c
 Parte da resposta parece depender de padrões éticos. Em um artigo, Awunja propõe algumas práticas, como informar empregados sobre os riscos em potencial de discriminação com base em dados, não penalizar o que não quiserem participar desses programas e determinar uma data de validade aos dados coletados.
 É uma conversa importante para se ter, mesmo que você não tenha nada a esconder. Aparentemente, abrir mão de seus dados fará parte do futuro do trabalho, ao menos no mundo corporativo.
 </doc>
-<doc id='bbc_brasil-46247632' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-46247632' term='ebola'>
+<doc docid='bbc_brasil-46247632' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-46247632' term='ebola'>
 Mais Médicos: o prejuízo bilionário da saída dos médicos cubanos para a 'medicina de exportação' de Cuba
 A saída de Cuba do programa Mais Médicos, recém-anunciada pelo governo cubano em resposta a críticas feitas pelo presidente eleito Jair Bolsonaro, vai representar um importante baque nas exportações de serviços de saúde da ilha socialista - sua principal fonte de renda internacional.
 A saída de Cuba do programa Mais Médicos, recém-anunciada pelo governo cubano em resposta a críticas feitas pelo presidente eleito Jair Bolsonaro, vai representar um importante baque nas exportações de serviços de saúde da ilha socialista - sua principal fonte de renda internacional.
@@ -9961,7 +9961,7 @@ Em 1985, Cuba foi o primeiro país a desenvolver uma vacina efetiva contra a men
 Em 2015, se tornou a primeira nação do mundo a eliminar a transmissão materno-infantil de HIV e sífilis.
 Hoje, 8.332 dos 16 mil médicos que atuam no Mais Médicos são cubanos. Enquanto o Brasil organiza uma força-tarefa para recrutar profissionais dispostos a substituí-los em regiões pobres e remotas do país e manter a qualidade do atendimento (aprovado por 95% dos pacientes, segundo pesquisa feita pela UFMG), Cuba se esforça para enfrentar mais um importante revés econômico em sua história recente - e encontrar outras fontes de renda para compensar o prejuízo do fim da lua de mel com o governo brasileiro.
 </doc>
-<doc id='bbc_140427_ebola_sobrevivente_cc' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/04/140427_ebola_sobrevivente_cc' term='ebola'>
+<doc docid='bbc_140427_ebola_sobrevivente_cc' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/04/140427_ebola_sobrevivente_cc' term='ebola'>
 Sobrevivente de ebola descreve luta contra vírus que mata 90% de vítimas
 Mais de cem pessoas já morreram vítimas do vírus ebola na Guiné, país considerado o epicentro do atual surto da doença na África. Apesar de nem todos os casos terem sido confirmados por exames, segundo a Organização Mundial da Saúde (OMS), 208 pessoas contraíram o vírus e 136 pessoas morreram no país. O primeiro caso foi confirmado em março.
 Mais de cem pessoas já morreram vítimas do vírus ebola na Guiné, país considerado o epicentro do atual surto da doença na África. Apesar de nem todos os casos terem sido confirmados por exames, segundo a Organização Mundial da Saúde (OMS), 208 pessoas contraíram o vírus e 136 pessoas morreram no país. O primeiro caso foi confirmado em março.
@@ -9986,7 +9986,7 @@ Ficamos muito abalados com as mortes na nossa família, mas também aliviados. T
 Foi uma lição também no nível espiritual e mudou a forma como eu exergo a vida.
 O pouco tempo que passamos no hospital realmente nos transformou. Eu me sinto sortudo e feliz de estar vivo."
 </doc>
-<doc id='bbc_141008_ebola_morte_eua_rm' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141008_ebola_morte_eua_rm' term='ebola'>
+<doc docid='bbc_141008_ebola_morte_eua_rm' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141008_ebola_morte_eua_rm' term='ebola'>
 Morre primeira pessoa diagnosticada com ebola nos EUA
 O primeiro paciente a ser diagnosticado com o vírus do ebola nos Estados Unidos morreu na manhã desta quarta-feira. A morte de Thomas Eric Duncan foi confirmada pelo Hospital Presbiteriano do Texas, em Dallas, onde ele estava internado há uma semana.
 O primeiro paciente a ser diagnosticado com o vírus do ebola nos Estados Unidos morreu na manhã desta quarta-feira. A morte de Thomas Eric Duncan foi confirmada pelo Hospital Presbiteriano do Texas, em Dallas, onde ele estava internado há uma semana.
@@ -10008,7 +10008,7 @@ Além dos militares, que ajudarão a construir centros de tratamento, o país de
 Trezentos soldados americanos já chegaram à vizinha Libéria para erguer hospitais provisórios.
 Nos próximos dias, aproximadamente 3 mil outros militares americanos devem chegar ao país também para ajudar nos esforços contra o ebola.
 </doc>
-<doc id='bbc_141024_medicos_cubanos_ebola_elogios_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141024_medicos_cubanos_ebola_elogios_fn' term='ebola'>
+<doc docid='bbc_141024_medicos_cubanos_ebola_elogios_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141024_medicos_cubanos_ebola_elogios_fn' term='ebola'>
 Protagonismo de Cuba em ajuda médica contra ebola gera elogios dos EUA
 Nos últimos 50 anos Cuba consolidou sua imagem como uma potência médica.
 Nos últimos 50 anos Cuba consolidou sua imagem como uma potência médica.
@@ -10042,7 +10042,7 @@ Sosa afirma que os americanos têm mais recursos tecnológicos, mas a atenção 
 Quanto ao papel de Cuba nos esforços internacionais de ajuda para quem precisa mundo afora, o representante da Opas é só elogios.
 "Fazem isso há mais de 50 anos, em momentos de necessidade, em emergências como nos furacões George e Mitch, na América Central. Fizeram isso após o terremoto do Paquistão , enviando quase 2 mil trabalhadores de saúde. Foram os primeiros a chegar e os últimos a sair", disse Di Fanbio à BBC Mundo.
 </doc>
-<doc id='bbc_141015_cuba_ajuda_ebola_mdb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141015_cuba_ajuda_ebola_mdb' term='ebola'>
+<doc docid='bbc_141015_cuba_ajuda_ebola_mdb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141015_cuba_ajuda_ebola_mdb' term='ebola'>
 Fidel oferece ajuda aos Estados Unidos para combater o ebola
 O ex-presidente cubano Fidel Castro ofereceu ajuda aos Estados Unidos para combater o ebola e evitar que a doença se propague pela a América Latina.
 O ex-presidente cubano Fidel Castro ofereceu ajuda aos Estados Unidos para combater o ebola e evitar que a doença se propague pela a América Latina.
@@ -10061,7 +10061,7 @@ Em seu artigo, Fidel disse que a decisão de enviar os médicos e enfermeiros n�
 Na segunda-feira, os noves países que compõem a Alba (Aliança Bolivariana para os Povos da América), que inclui Cuba, Bolívia e Equador, vão se reunir em Havana para definir uma estratégia conjunta de prevenção e combate ao ebola.
 Leia mais: Jogadores de Serra Leoa sofrem preconceito por causa do ebola
 </doc>
-<doc id='bbc_140916_ebola_africa_onu_lgb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140916_ebola_africa_onu_lgb' term='ebola'>
+<doc docid='bbc_140916_ebola_africa_onu_lgb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140916_ebola_africa_onu_lgb' term='ebola'>
 ONU estima que US$ 1 bilhão são necessários para conter ebola
 As Nações Unidas estimaram nesta terça-feira em US$ 1 bilhão (cerca de R$ 2,3 bilhões) o valor necessário para combater a epidemia de ebola no oeste da África, considerada pela organização uma crise na saúde "sem precedentes nos tempos modernos".
 As Nações Unidas estimaram nesta terça-feira em US$ 1 bilhão (cerca de R$ 2,3 bilhões) o valor necessário para combater a epidemia de ebola no oeste da África, considerada pela organização uma crise na saúde "sem precedentes nos tempos modernos".
@@ -10084,7 +10084,7 @@ Segundo Liu, indivíduos infectados com o vírus na capital da Libéria, Monróv
 Na manhã desta terça-feira, a OMS elogiou a promessa da China de montar um laboratório móvel em Serra Leoa, com epidemiologistas, clínicos e enfermeiras.
 "A necessidade mais urgente para conter o vírus ebola é um aumento no número de profissionais de saúde", afirmou a diretora-geral da OMS, Margaret Chan, por meio de um comunicado.
 </doc>
-<doc id='bbc_141103_eua_eleicoes_candidatos_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/11/141103_eua_eleicoes_candidatos_hb' term='ebola'>
+<doc docid='bbc_141103_eua_eleicoes_candidatos_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/11/141103_eua_eleicoes_candidatos_hb' term='ebola'>
 Candidatos americanos recorrem a propagandas políticas 'bizarras'
 A campanha para as eleições legislativas americanas desta terça-feira inclui uma boa dose de personagens, propostas e, principalmente, anúncios inusitados.
 A campanha para as eleições legislativas americanas desta terça-feira inclui uma boa dose de personagens, propostas e, principalmente, anúncios inusitados.
@@ -10112,7 +10112,7 @@ Segundo as pesquisas, Land está 15 pontos atrás de Peters.
 No Estado de Virginia Ocidental, a candidata ao Senado pelo Partido Democrata, Natalie Tennant, foi além na estratégia do silêncio.
 Em um dos anúncios de sua campanha, de quase dois minutos, o vídeo mostra imagens de Tennant e sua família, sem nenhum diálogo, legenda ou narração.
 </doc>
-<doc id='bbc_141012_ebola_eua_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141012_ebola_eua_lab' term='ebola'>
+<doc docid='bbc_141012_ebola_eua_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141012_ebola_eua_lab' term='ebola'>
 Teste preliminar de profissional de saúde tem resultado positivo para ebola nos EUA
 Um teste preliminar realizado em uma das profissionais de saúde que atendeu uma vítima de ebola nos Estados Unidos teve resultado positivo.
 Um teste preliminar realizado em uma das profissionais de saúde que atendeu uma vítima de ebola nos Estados Unidos teve resultado positivo.
@@ -10133,7 +10133,7 @@ Depois, foi colocado em isolamento em um hospital em Dallas, no Texas. Ele morre
 Na Espanha, uma enfermeira que tratou de um padre infectado por ebola na África também contraiu a doença. Foi o primeiro caso de transmissão registrado fora do continente.
 A atual epidemia de ebola, concentrada na Libéria, Guiné e Serra Leoa, já teve mais de 8.300 casos confirmados ou suspeitos e pelo menos 4.033 mortes.
 </doc>
-<doc id='bbc_141028_eleicao_eua_ale_fd' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141028_eleicao_eua_ale_fd' term='ebola'>
+<doc docid='bbc_141028_eleicao_eua_ale_fd' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141028_eleicao_eua_ale_fd' term='ebola'>
 Três Estados e capital dos EUA votam sobre liberação da maconha
 Num país em que o voto é facultativo, as eleições legislativas dos EUA nem sempre empolgam os eleitores, já que não está em jogo a Presidência.
 Num país em que o voto é facultativo, as eleições legislativas dos EUA nem sempre empolgam os eleitores, já que não está em jogo a Presidência.
@@ -10168,7 +10168,7 @@ Alasca, Arkansas, Nebraska e Dakota do Sul votam propostas de aumento do salári
 No Oregon e no Colorado, empresas do setor alimentício e ambientalistas medem forças num referendo sobre a obrigatoriedade de rótulos identificando alimentos que contenham ingredientes geneticamente modificados.
 Um dos pontos mais controversos é em relação ao porte de armas no Estado de Washington, onde estão em votação duas medidas opostas. Enquanto uma exige mais rigor na checagem de antecedentes para compradores de todos os tipos de armas, a outra proíbe controles mais rígidos.
 </doc>
-<doc id='bbc_140930_ebola_eua_ac' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140930_ebola_eua_ac' term='ebola'>
+<doc docid='bbc_140930_ebola_eua_ac' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140930_ebola_eua_ac' term='ebola'>
 Após diagnóstico de primeiro caso, EUA prometem impedir avanço de ebola no país
 Os Estados Unidos confirmaram nesta terça-feira o primeiro caso de ebola
 diagnosticado no país.
@@ -10190,7 +10190,7 @@ O atual surto já matou mais de 3 mil pessoas na África Ocidental, segundo dado
 Mais de 6,5 mil pessoas já foram infectadas. Os países mais afetados são Libéria, Serra Leoa e Guiné. Também já foram registrados casos na Nigéria e no Senegal.
 Leia também: Entenda o que é o ebola e como a doença mortal se espalha
 </doc>
-<doc id='bbc_brasil-44250907' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/brasil-44250907' term='ebola'>
+<doc docid='bbc_brasil-44250907' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/brasil-44250907' term='ebola'>
 “Agora a sociedade está vendo o valor do caminhoneiro”, dizem manifestantes no Rio
 Mesmo depois de o governo anunciar um acordo com representantes de caminhoneiros em Brasília para suspender a greve da categoria por 15 dias, motoristas reunidos desde segunda-feira em frente à Refinaria Duque de Caxias (Reduc), na região metropolitana do Rio, continuavam decididos a fincar o pé no local "até que seja publicado um decreto" cristalizando os termos do acordo.
 Mesmo depois de o governo anunciar um acordo com representantes de caminhoneiros em Brasília para suspender a greve da categoria por 15 dias, motoristas reunidos desde segunda-feira em frente à Refinaria Duque de Caxias (Reduc), na região metropolitana do Rio, continuavam decididos a fincar o pé no local "até que seja publicado um decreto" cristalizando os termos do acordo.
@@ -10223,7 +10223,7 @@ Perguntado sobre os transtornos causados pela paralisação, Sandro Gonçalves, 
 "Quando o (preço do) combustível está muito alto, isso se reflete dentro das nossas casas, no nosso arroz, feijão e em todo o resto. Pedimos que toda a população esteja conosco", disse.
 Gonçalves afirmou que os manifestantes passariam o tempo que fosse necessário na rua, e se preparava para virar mais uma noite. "Ficar uma semana sem dormir não vai fazer falta", afirmou. "O problema é quando a gente fica sem dormir porque não tem dinheiro para pagar as contas."
 </doc>
-<doc id='bbc_internacional-49221680' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-49221680' term='ebola'>
+<doc docid='bbc_internacional-49221680' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-49221680' term='ebola'>
 Os médicos e enfermeiros que sofrem ameaças de morte enquanto combatem o ebola na África
 "Minha equipe foi atacada por fazer seu trabalho", diz o médico Pascal Vahwere, que combate o ebola na República Democrática do Congo (RDC).
 "Minha equipe foi atacada por fazer seu trabalho", diz o médico Pascal Vahwere, que combate o ebola na República Democrática do Congo (RDC).
@@ -10268,7 +10268,7 @@ Depois de passar seis dias no hospital, ele recebeu alta. Agora, após alguns me
 "Devo continuar lutando até que a epidemia termine. Não posso deixar meus amigos, meus irmãos e irmãs, morrerem da doença quando eu tenho o conhecimento para freá-la."
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_geral-47209447' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-47209447' term='ebola'>
+<doc docid='bbc_geral-47209447' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-47209447' term='ebola'>
 Aplicativos de saúde: como um smartphone salvou a vida da minha mãe
 À medida que caem de preço e oferecem mais recursos, os smartphones estão se tornando uma ferramenta poderosa no diagnóstico de um número cada vez maior de doenças.
 À medida que caem de preço e oferecem mais recursos, os smartphones estão se tornando uma ferramenta poderosa no diagnóstico de um número cada vez maior de doenças.
@@ -10304,7 +10304,7 @@ Enquanto isso, as equipes de pesquisa estão desenvolvendo sensores plug-in que 
 Mas se o diagnóstico barato, portátil e preciso de doenças tratáveis salvar vidas como prometido, o smartphone pode se tornar a invenção mais importante dos últimos 20 anos.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_geral-47410826' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-47410826' term='ebola'>
+<doc docid='bbc_geral-47410826' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-47410826' term='ebola'>
 Sarampo no Brasil tem avanço preocupante, alerta Unicef
 O mundo está vivendo um surto preocupante de sarampo, e o Brasil faz parte do grupo dos 10 países que são os maiores responsáveis por essa guinada de 2017 para 2018.
 O mundo está vivendo um surto preocupante de sarampo, e o Brasil faz parte do grupo dos 10 países que são os maiores responsáveis por essa guinada de 2017 para 2018.
@@ -10333,7 +10333,7 @@ A tríplice viral está disponível na rede pública e pode ser aplicada durante
 Todas as pessoas com idade entre 12 meses e 49 anos devem ser vacinadas - com exceção de gestantes e aqueles com imunidade afetada. Confira nesta matéria da BBC News Brasil respostas para outras dúvidas sobre a doença.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_141201_ebola_primeiro_paciente_epidemia_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/12/141201_ebola_primeiro_paciente_epidemia_rb' term='ebola'>
+<doc docid='bbc_141201_ebola_primeiro_paciente_epidemia_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/12/141201_ebola_primeiro_paciente_epidemia_rb' term='ebola'>
 Pior epidemia de ebola da história começou com a morte de um menino
 Emile Ouamouno tinha só dois anos de idade e vivia em um remoto vilarejo no sul da Guiné, na África Ocidental, quando começou a ter febres, dores de cabeça e diarreia.
 Emile Ouamouno tinha só dois anos de idade e vivia em um remoto vilarejo no sul da Guiné, na África Ocidental, quando começou a ter febres, dores de cabeça e diarreia.
@@ -10391,7 +10391,7 @@ Profissionais de saúde admitem que nas últimas semanas a doença entrou em uma
 Mas a batalha está longe do fim, como reconhece o médico Christopher Dye, da OMS.
 "Mesmo se pudéssemos dizer que a fase exponencial acabou, nosso objetivo é a completa eliminação (do vírus) na população humana, e, claramente, ainda temos um longo caminho até lá."
 </doc>
-<doc id='bbc_141003_ebola_serra_leoa_cubanos_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141003_ebola_serra_leoa_cubanos_fn' term='ebola'>
+<doc docid='bbc_141003_ebola_serra_leoa_cubanos_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141003_ebola_serra_leoa_cubanos_fn' term='ebola'>
 País com 622 mortos por ebola e apenas 136 médicos 'importa' cubanos
 Serra Leoa, um dos países africanos mais afetados pela epidemia de ebola, recebeu 165 médicos e enfermeiros cubanos para tentar conter o avanço da doença.
 Serra Leoa, um dos países africanos mais afetados pela epidemia de ebola, recebeu 165 médicos e enfermeiros cubanos para tentar conter o avanço da doença.
@@ -10418,7 +10418,7 @@ O vírus do ebola se espalhou a partir da Guiné, que faz fronteira com Serra Le
 Libéria e Serra Leoa foram mais prejudicadas pela epidemia. Os dois países ainda estavam se recuperando de guerras civis brutais ocorridas na década de 1990 e que devastaram a infraestrutura do país.
 Outro país afetado pela doença foi a Nigéria, um dos mais ricos da África, que conseguiu conter o vírus trazido ao país por um funcionário público da Libéria que viajou em um voo comercial.
 </doc>
-<doc id='bbc_151009_escocia_ebola_enfermeira_fd' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2015/10/151009_escocia_ebola_enfermeira_fd' term='ebola'>
+<doc docid='bbc_151009_escocia_ebola_enfermeira_fd' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2015/10/151009_escocia_ebola_enfermeira_fd' term='ebola'>
 Enfermeira curada de ebola volta ao hospital na Grã-Bretanha
 Uma enfermeira escocesa que contraiu o vírus ebola em Serra Leoa, no ano passado, teve que ser hospitalizada novamente na madrugada desta sexta-feira em um hospital de Londres devido ao que médicos descreveram como "complicações retardadas incomuns".
 Uma enfermeira escocesa que contraiu o vírus ebola em Serra Leoa, no ano passado, teve que ser hospitalizada novamente na madrugada desta sexta-feira em um hospital de Londres devido ao que médicos descreveram como "complicações retardadas incomuns".
@@ -10438,7 +10438,7 @@ A enfermeira contraiu o vírus enquanto trabalhava como voluntária em Serra Leo
 No entanto, a Organização Mundial de Saúde (OMS) admite que não se sabe muito sobre os efeitos a longo prazo em pacientes com ebola.
 O mais recente surto da doença matou mais de 11 mil pessoas na África. E a semana passada foi a primeira desde março de 2014 em que não houve novos casos.
 </doc>
-<doc id='bbc_140721_descobridor_ebola_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/07/140721_descobridor_ebola_lab' term='ebola'>
+<doc docid='bbc_140721_descobridor_ebola_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/07/140721_descobridor_ebola_lab' term='ebola'>
 Ebola: Vírus que mata 90% dos doentes chegou à Europa em garrafa térmica em 1976
 Há cerca de 40 anos, um jovem cientista belga viajou para um parte remota da floresta do Congo com a tarefa de descobrir por que tantas pessoas estavam morrendo de uma doença misteriosa e aterrorizante.
 Há cerca de 40 anos, um jovem cientista belga viajou para um parte remota da floresta do Congo com a tarefa de descobrir por que tantas pessoas estavam morrendo de uma doença misteriosa e aterrorizante.
@@ -10481,7 +10481,7 @@ Por isso, informação, comunicação e envolvimento de líderes comunitários s
 O ebola mudou a vida de Piot: após a descoberta do vírus, ele passou a pesquisar a epidemia de Aids na África e se tornou diretor-executivo fundador da organização Unaids.
 "O ebola me levou a fazer coisas que eu pensava que só aconteciam nos livros. Isso me deu uma missão na vida para trabalhar nos países em desenvolvimento", diz. "Não foi só a descoberta de um vírus, mas também de mim mesmo."
 </doc>
-<doc id='bbc_internacional-41668730' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/internacional-41668730' term='ebola'>
+<doc docid='bbc_internacional-41668730' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/internacional-41668730' term='ebola'>
 'Abalou minha fé na humanidade': foto de rinoceronte morto para roubo de chifre vence concurso
 .
 Uma imagem chocante de um crime ambiental foi a vencedora da competição de Fotógrafo de Vida Selvagem do Ano, conferido anualmente pelo Museu de História Natural de Londres.
@@ -10531,17 +10531,17 @@ O WPY (Wildlife Photographer of the Year, ou Fotógrafo de Vida Selvagem do Ano)
 Ele foi criado em 1964 pelo que então virou a BBC Wildlife Magazine, aumentou em escala e este ano aceitou 48 mil envios de 92 países. A competição atual é organizada pelo Museu de História Natural de Londres.
 .
 </doc>
-<doc id='bbc_141107_ebola_rp' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2014/11/141107_ebola_rp' term='ebola'>
+<doc docid='bbc_141107_ebola_rp' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2014/11/141107_ebola_rp' term='ebola'>
 Voluntário tenta convencer paciente com ebola a voltar a tratamento
 
 
 </doc>
-<doc id='bbc_141218_aprenda_massai_novissimo' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2014/12/141218_aprenda_massai_novissimo' term='ebola'>
+<doc docid='bbc_141218_aprenda_massai_novissimo' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2014/12/141218_aprenda_massai_novissimo' term='ebola'>
 Caçadores de medalhas, não leões
 
 
 </doc>
-<doc id='bbc_141010_descobridor_ebola_atualiza_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141010_descobridor_ebola_atualiza_lab' term='ebola'>
+<doc docid='bbc_141010_descobridor_ebola_atualiza_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141010_descobridor_ebola_atualiza_lab' term='ebola'>
 Vírus do ebola chegou à Europa em garrafa térmica em 1976
 Há cerca de 40 anos, um jovem cientista belga viajou para um parte remota da floresta do Congo com a tarefa de descobrir por que tantas pessoas estavam morrendo de uma doença misteriosa e aterrorizante.
 Há cerca de 40 anos, um jovem cientista belga viajou para um parte remota da floresta do Congo com a tarefa de descobrir por que tantas pessoas estavam morrendo de uma doença misteriosa e aterrorizante.
@@ -10584,7 +10584,7 @@ Por isso, informação, comunicação e envolvimento de líderes comunitários s
 O ebola mudou a vida de Piot: após a descoberta do vírus, ele passou a pesquisar a epidemia de Aids na África e se tornou diretor-executivo fundador da organização Unaids.
 "O ebola me levou a fazer coisas que eu pensava que só aconteciam nos livros. Isso me deu uma missão na vida para trabalhar nos países em desenvolvimento", diz. "Não foi só a descoberta de um vírus, mas também de mim mesmo."
 </doc>
-<doc id='bbc_141015_ebola_eua_enfermeira_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141015_ebola_eua_enfermeira_pai' term='ebola'>
+<doc docid='bbc_141015_ebola_eua_enfermeira_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141015_ebola_eua_enfermeira_pai' term='ebola'>
 Ebola: EUA procuram 132 que pegaram avião com enfermeira
 Autoridades americanas estão em busca das 132 pessoas que viajaram de avião com uma enfermeira do Texas um dia antes de ela ter apresentado sintomas do ebola.
 Autoridades americanas estão em busca das 132 pessoas que viajaram de avião com uma enfermeira do Texas um dia antes de ela ter apresentado sintomas do ebola.
@@ -10604,7 +10604,7 @@ O presidente dos EUA, Barack Obama, e líderes europeus concordaram, também nes
 A Casa Branca disse que Obama cobrou, em uma videoconferência com líderes da Grã-Bretanha, França, Alemanha e Itália, mais compromisso contra o ebola.
 Leia mais: Examinar passageiros de avião para evitar ebola é inútil, diz especialista
 </doc>
-<doc id='bbc_140918_ebola_cinco_medidas_mv' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140918_ebola_cinco_medidas_mv' term='ebola'>
+<doc docid='bbc_140918_ebola_cinco_medidas_mv' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140918_ebola_cinco_medidas_mv' term='ebola'>
 Cinco medidas que podem controlar a epidemia de ebola
 A pior epidemia de ebola da história está colocando em evidência ineficiências nos sistemas de saúde na África Ocidental - especialmente nos países devastados por guerras civis. A crise também revela inadequações nas respostas da comunidade internacional e da Organização Mundial de Saúde (OMS) para o problema.
 A pior epidemia de ebola da história está colocando em evidência ineficiências nos sistemas de saúde na África Ocidental - especialmente nos países devastados por guerras civis. A crise também revela inadequações nas respostas da comunidade internacional e da Organização Mundial de Saúde (OMS) para o problema.
@@ -10650,7 +10650,7 @@ No entanto, pode levar vários meses para que a produção alcance um nível ade
 A OMS sugeriu também que pessoas que sobreviveram ao vírus podem agora doar sangue para tratar doentes.
 Mas a entidade disse que o foco deve ser o controle urgente da epidemia, e não os experimentos em laboratórios.
 </doc>
-<doc id='bbc_140821_ebola_favela_dg' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140821_ebola_favela_dg' term='ebola'>
+<doc docid='bbc_140821_ebola_favela_dg' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140821_ebola_favela_dg' term='ebola'>
 Libéria: Polícia cerca favela para impedir Ebola e desata protestos
 A polícia na Libéria disparou contra manifestantes de uma favela na capital que estão em quarentena por causa da disseminação do vírus ebola.
 A polícia na Libéria disparou contra manifestantes de uma favela na capital que estão em quarentena por causa da disseminação do vírus ebola.
@@ -10665,7 +10665,7 @@ Dolo Town – outra cidade a 40 quilômetros da capital Monróvia – também es
 A Libéria é o país com o maior número de mortes no pior surto de ebola da história, que começou em fevereiro e se espalhou pelo Oeste da África.
 Um total de 1.359 pessoas morreram em quatro países até agora – Guiné, Nigéria e Serra Leoa, além da Libéria.
 </doc>
-<doc id='bbc_160128_zika_oms_fn' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2016/01/160128_zika_oms_fn' term='ebola'>
+<doc docid='bbc_160128_zika_oms_fn' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2016/01/160128_zika_oms_fn' term='ebola'>
 OMS vê avanço ‘explosivo’ do zika vírus
 A Organização Mundial de Saúde (OMS) decidiu convocar um comitê de emergência para enfrentar o surto de zika que já atingiu vários países e foi considerado "explosivo" pela organização.
 A Organização Mundial de Saúde (OMS) decidiu convocar um comitê de emergência para enfrentar o surto de zika que já atingiu vários países e foi considerado "explosivo" pela organização.
@@ -10698,7 +10698,7 @@ Foi apenas depois de um surto na ilha de Yap, na Micronésia, em 2007, que os pe
 Weaver diz que ano passado o vírus "explodiu", atingindo o Caribe e a América Latina, "provavelmente infectando alguns milhões de pessoas".
 Os sintomas em adultos e crianças são parecidos com o da dengue, porém mais suaves: dores pelo corpo parecidas com as que ocorrem em casos de gripe, inflamação nos olhos, dores nas juntas e manchas vermelhas no corpo. Mas algumas pessoas não apresentam sintomas.
 </doc>
-<doc id='bbc_140809_ebola_liberia_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140809_ebola_liberia_hb' term='ebola'>
+<doc docid='bbc_140809_ebola_liberia_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140809_ebola_liberia_hb' term='ebola'>
 Sistema de saúde da Libéria está 'desmoronando' devido o ebola, diz MSF
 O sistema de saúde da Libéria está completamente saturado e "desmoronando" devido o surto do ebola no país, disse a coordenadora do grupo Médicos Sem Fronteiras.
 O sistema de saúde da Libéria está completamente saturado e "desmoronando" devido o surto do ebola no país, disse a coordenadora do grupo Médicos Sem Fronteiras.
@@ -10716,12 +10716,12 @@ No entanto, a televisão estatal negou a informação, dizendo que medidas foram
 O Ebola é transmitido entre seres humanos por meio de fluidos corporais.
 Animais como morcegos são portadores do vírus, que pode ser transmitido às pessoas através do contato com sangue ou do consumo de carne de animais silvestres.
 </doc>
-<doc id='bbc_141013_ebola_liberia_greve_vale_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2014/10/141013_ebola_liberia_greve_vale_hb' term='ebola'>
+<doc docid='bbc_141013_ebola_liberia_greve_vale_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2014/10/141013_ebola_liberia_greve_vale_hb' term='ebola'>
 Profissionais de saúde ameaçam greve na Libéria por ebola; 95 deles já morreram
 
 
 </doc>
-<doc id='bbc_internacional-45350156' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-45350156' term='ebola'>
+<doc docid='bbc_internacional-45350156' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-45350156' term='ebola'>
 O 'pior campo de refugiados do mundo', onde até crianças tentam o suicídio
 No campo de refugiados de Moria, na ilha grega de Lesbos, a violência é mortal.
 No campo de refugiados de Moria, na ilha grega de Lesbos, a violência é mortal.
@@ -10759,7 +10759,7 @@ Luca Fontana, dos Médicos Sem Fronteiras, diz que já trabalhou em zonas de con
 "Nunca tinha visto um nível de sofrimento como o que testemunhamos aqui todos os dias", afirma. "Até onde há surtos de ebola as pessoas têm a esperança de sobreviver e o apoio da família. Aqui, a esperança é arrancada de você pelo sistema."
 *Colaborou Leo Sands.
 </doc>
-<doc id='bbc_150306_liberia_ultima_paciente_cc' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/03/150306_liberia_ultima_paciente_cc' term='ebola'>
+<doc docid='bbc_150306_liberia_ultima_paciente_cc' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/03/150306_liberia_ultima_paciente_cc' term='ebola'>
 Última vítima de ebola recebe alta na Libéria
 A Libéria deu alta a sua última paciente com ebola depois de uma semana sem novos casos de contaminação pelo vírus, segundo a Organização Mundial de Saúde.
 A Libéria deu alta a sua última paciente com ebola depois de uma semana sem novos casos de contaminação pelo vírus, segundo a Organização Mundial de Saúde.
@@ -10786,12 +10786,12 @@ O vírus ebola também está longe de ser erradicado de Serra Leoa, que registro
 A presidente da Libéria, Ellen Johnson Sirleaf, pediu na terça-feira por um "Plano Marshall" – programa de ajuda financeira à Europa que os Estados Unidos lançaram após a Segunda Guerra Mundial – para os países afetados pelo ebola no Oeste da África.
 Leia mais: Nova vacina contra ebola será testada em 30 mil voluntários na Libéria
 </doc>
-<doc id='bbc_141127_aprenda_neve' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2014/11/141127_aprenda_neve' term='ebola'>
+<doc docid='bbc_141127_aprenda_neve' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2014/11/141127_aprenda_neve' term='ebola'>
 Depois da neve, enchentes preocupam nordeste dos EUA
 
 
 </doc>
-<doc id='bbc_150510_gch_ebola_sexo_alerta_cc' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/05/150510_gch_ebola_sexo_alerta_cc' term='ebola'>
+<doc docid='bbc_150510_gch_ebola_sexo_alerta_cc' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/05/150510_gch_ebola_sexo_alerta_cc' term='ebola'>
 Sobreviventes do ebola devem evitar sexo inseguro indefinidamente
 O Centro de Controle de Doenças americano (CDC, na sigla em inglês) alertou os sobreviventes do vírus ebola para que usem camisinha obrigatoriamente ou evitem sexo no futuro próximo.
 O Centro de Controle de Doenças americano (CDC, na sigla em inglês) alertou os sobreviventes do vírus ebola para que usem camisinha obrigatoriamente ou evitem sexo no futuro próximo.
@@ -10806,7 +10806,7 @@ O ebola se espalha pelo contato com fluidos corporais de uma pessoa que tenha o 
 Mas os especialistas ressaltam que pessoas recuperadas da doença não oferecem risco ao público em geral e não devem ser isoladas.
 Leia mais: 'Ela perdeu o bebê, mas continuou cuidando de outras crianças com ebola'
 </doc>
-<doc id='bbc_141014_tanzania_beijo_polemica_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141014_tanzania_beijo_polemica_hb' term='ebola'>
+<doc docid='bbc_141014_tanzania_beijo_polemica_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141014_tanzania_beijo_polemica_hb' term='ebola'>
 Foto de beijo entre policiais gera polêmica na internet e demissão
 Quando é correto beijar um colega? Um beijo dado por um casal de policiais e que foi amplamente compartilhado nas mídias sociais instigou um debate sobre o assunto. O beijo em questão fez com que ambos perdessem seus empregos.
 Quando é correto beijar um colega? Um beijo dado por um casal de policiais e que foi amplamente compartilhado nas mídias sociais instigou um debate sobre o assunto. O beijo em questão fez com que ambos perdessem seus empregos.
@@ -10821,7 +10821,7 @@ A história foi reportada pela imprensa local na semana passada, e a notícia da
 "Um casal policial se beijando foi levado mais a sério do que suborno", escreveu um terceiro no Twitter.
 Masoud George, um advogado do Centro de Direitos Humanos e Legais na Tanzânia diz que, apesar da punição parecer ser severa, é improvável que a decisão seja ilegal. "É de acordo com o código de conduta então, do ponto de vista legal, não podemos dizer que a demissão foi injusta".
 </doc>
-<doc id='bbc_internacional-49021560' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-49021560' term='ebola'>
+<doc docid='bbc_internacional-49021560' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-49021560' term='ebola'>
 Ebola: Por que a OMS declarou que o surto na República Democrática do Congo é uma emergência internacional de saúde pública
 O surto de ebola na República Democrática do Congo (RDC) foi declarado uma emergência de saúde pública de caráter internacional pela Organização Mundial de Saúde (OMS) nesta quarta-feira (17).
 O surto de ebola na República Democrática do Congo (RDC) foi declarado uma emergência de saúde pública de caráter internacional pela Organização Mundial de Saúde (OMS) nesta quarta-feira (17).
@@ -10845,7 +10845,7 @@ O atual surto no leste da República Democrática do Congo começou em 2018 e é
 A epidemia na África Ocidental entre 2014 e 2016, que afetou 28.616 pessoas e fez 11.310 vítimas fatais, principalmente na Guiné, Libéria e Serra Leoa, foi o maior surto do vírus já registrado.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_140905_ebola_tratamento_sangue_rm' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140905_ebola_tratamento_sangue_rm' term='ebola'>
+<doc docid='bbc_140905_ebola_tratamento_sangue_rm' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140905_ebola_tratamento_sangue_rm' term='ebola'>
 OMS recomenda usar sangue de pessoas curadas para tratar ebola
 Na tentativa de acabar com a epidemia do ebola, que já matou mais de 2 mil pessoas principalmente no oeste da África, a OMS (Organização Mundial da Saúde) passou nesta sexta-feira a recomendar a adoção de tratamentos que envolvam o uso do sangue de pessoas curadas.
 Na tentativa de acabar com a epidemia do ebola, que já matou mais de 2 mil pessoas principalmente no oeste da África, a OMS (Organização Mundial da Saúde) passou nesta sexta-feira a recomendar a adoção de tratamentos que envolvam o uso do sangue de pessoas curadas.
@@ -10866,7 +10866,7 @@ A OMS disse que os dados de segurança necessários para aprovar a vacina estar�
 Médicos, enfermeiros e outras pessoas que trabalham diretamente com pacientes que têm o vírus serão prioridade na distribuição da vacina, segundo a OMS. Remédios experimentais, como o Zmapp, que já foi usado em sete pacientes, também estão em testes.
 No entanto, não o estoque de todos os remédios experimentais criados até agora é muito limitado. A OMS disse que está concentrando esforços para aumentar a produção, mas isso deve levar vários meses.
 </doc>
-<doc id='bbc_141028_eleicoes_eua_ebola_ac_cq' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141028_eleicoes_eua_ebola_ac_cq' term='ebola'>
+<doc docid='bbc_141028_eleicoes_eua_ebola_ac_cq' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141028_eleicoes_eua_ebola_ac_cq' term='ebola'>
 Ebola vira munição de campanha em eleição nos EUA
 Na reta final para as eleições legislativas de 4 de novembro nos Estados Unidos, uma nova arma tem sido usada tanto por democratas quanto por republicanos na disputa por votos: a chegada do ebola ao país e a maneira como o governo vem lidando com a crise.
 Na reta final para as eleições legislativas de 4 de novembro nos Estados Unidos, uma nova arma tem sido usada tanto por democratas quanto por republicanos na disputa por votos: a chegada do ebola ao país e a maneira como o governo vem lidando com a crise.
@@ -10897,7 +10897,7 @@ Segundo analistas, porém, o descontentamento do eleitor não é dirigido soment
 “Apesar de a maioria estar frustrada com o presidente, as pessoas também estão irritadas com o Congresso”, diz William Galston, também do Brookings, citando pesquisas que indicam apenas 12% de aprovação à atuação dos congressistas, descontentamento com ambos os partidos e uma falta geral de confiança nas instituições de governo.
 “Essas eleições oferecem tanto ao Congresso quanto à Casa Branca a oportunidade de um novo começo. E a população estará observando atentamente para ver se seus líderes vão aproveitar essa oportunidade”, afirma.
 </doc>
-<doc id='bbc_151111_ebola_mitos_atualiza_rb' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2015/11/151111_ebola_mitos_atualiza_rb' term='ebola'>
+<doc docid='bbc_151111_ebola_mitos_atualiza_rb' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2015/11/151111_ebola_mitos_atualiza_rb' term='ebola'>
 Os mitos e as verdades sobre o ebola
 Uma suspeita de ebola foi registrada nesta terça-feira em Belo Horizonte (MG), e o caso está sendo investigado pelo Ministério da Saúde.
 Uma suspeita de ebola foi registrada nesta terça-feira em Belo Horizonte (MG), e o caso está sendo investigado pelo Ministério da Saúde.
@@ -10947,7 +10947,7 @@ O surto ocorreu em uma aldeia perto do rio Ebola, daí o nome da doença. Cerca 
 Desde então, várias cepas do vírus surgiram no continente africano.
 Leia também: Fotógrafa registra todos os objetos tocados ao longo de um dia por 62 pessoas
 </doc>
-<doc id='bbc_140827_ebola_nigeria_escolas_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140827_ebola_nigeria_escolas_fn' term='ebola'>
+<doc docid='bbc_140827_ebola_nigeria_escolas_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140827_ebola_nigeria_escolas_fn' term='ebola'>
 Nigéria fecha todas as escolas até outubro por causa do ebola
 O governo da Nigéria decidiu manter fechadas todas as escolas do país até 13 de outubro como parte das medidas para conter a proliferação do ebola.
 O governo da Nigéria decidiu manter fechadas todas as escolas do país até 13 de outubro como parte das medidas para conter a proliferação do ebola.
@@ -10968,7 +10968,7 @@ Kaberuka acrescentou que o Banco Africano de Desenvolvimento assinou um acordo c
 Ele descreveu a situação como um "cataclismo", pois muitos funcionários da saúde estão sendo infectados com o vírus.
 "O setor de saúde está sendo dizimado. Há muitas outras doenças que não estão sendo tratadas devido ao ebola, o que sobrecarregou o setor", afirmou.
 </doc>
-<doc id='bbc_140829_ebola_droga_experimental_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140829_ebola_droga_experimental_pai' term='ebola'>
+<doc docid='bbc_140829_ebola_droga_experimental_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140829_ebola_droga_experimental_pai' term='ebola'>
 Droga experimental contra ebola tem 100% de eficácia em testes em animais
 Os únicos resultados de testes clínicos feitos até agora com a droga experimental ZMapp, cuja finalidade é combater a infecção pelo vírus ebola, mostram que ela teve 100% de eficácia em macacos, mesmo em casos avançados de infecção.
 Os únicos resultados de testes clínicos feitos até agora com a droga experimental ZMapp, cuja finalidade é combater a infecção pelo vírus ebola, mostram que ela teve 100% de eficácia em macacos, mesmo em casos avançados de infecção.
@@ -10992,7 +10992,7 @@ O virólogo britânico Jonathan Ball, da Universidade de Nottingham, comentou o 
 O professor Peter Piot, diretor da Escola de Higiene e Medicina Tropical de Londres, afirmou nunca ter imaginado, "40 anos após eu ter me deparado com minha primeira epidemia de ebola, que a doença continuaria a provocar mortes em uma escala tão devastadora".
 "Esse bom teste em não-humanos oferece a evidência mais convincente até agora de que o ZMapp pode ser um tratamento efetivo às infecções de ebola em humanos", afirma. "É crucial que testes em humanos comecem o mais rápido possível."
 </doc>
-<doc id='bbc_geral-51332385' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51332385' term='ebola'>
+<doc docid='bbc_geral-51332385' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-51332385' term='ebola'>
 Plague Inc: Jogo com missão de espalhar doenças no mundo domina ranking dos mais baixados após coronavírus
 "O Plague Inc. está no ar há oito anos, e toda vez que há um surto de alguma doença, vemos um aumento de jogadores."
 "O Plague Inc. está no ar há oito anos, e toda vez que há um surto de alguma doença, vemos um aumento de jogadores."
@@ -11014,7 +11014,7 @@ Na rede social chinesa Weibo, alguns usuários disseram que, de fato, a brincade
 "A melhor maneira de eliminar o medo é encará-lo diretamente", escreveu um internauta.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_geral-37786183' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-37786183' term='ebola'>
+<doc docid='bbc_geral-37786183' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-37786183' term='ebola'>
 Genética 'inocenta' canadense acusado erroneamente de ser 'Paciente Zero' da Aids nos EUA
 O canadense Gaetan Dugas foi um dos pacientes mais demonizados da história. Sua fama era nada mais, nada menos que a de ter sido responsável por propagar o vírus da imunodeficiência humana (HIV) nos Estados Unidos.
 O canadense Gaetan Dugas foi um dos pacientes mais demonizados da história. Sua fama era nada mais, nada menos que a de ter sido responsável por propagar o vírus da imunodeficiência humana (HIV) nos Estados Unidos.
@@ -11043,12 +11043,12 @@ Segundo Oliver Pybus, especialista em doenças infecciosas da Universidade de Ox
 "O 'Paciente Zero' se tornou um tema de discussão relacionado às origens da Aids, porém, por mais que a narrativa pareça atraente, não tem nenhuma base científica", diz o cientista.
 "É realmente lamentável que essa pessoa tenha sido identificada assim."
 </doc>
-<doc id='bbc_141014_ebola_geral_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2014/10/141014_ebola_geral_hb' term='ebola'>
+<doc docid='bbc_141014_ebola_geral_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2014/10/141014_ebola_geral_hb' term='ebola'>
 Ameaça de pandemia de ebola gera corrida por criação de vacina
 
 
 </doc>
-<doc id='bbc_110419_bolivia_manifestantes_acordo_mc' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2011/04/110419_bolivia_manifestantes_acordo_mc' term='ebola'>
+<doc docid='bbc_110419_bolivia_manifestantes_acordo_mc' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2011/04/110419_bolivia_manifestantes_acordo_mc' term='ebola'>
 Manifestantes suspendem greves após acordo com governo da Bolívia
 Após 12 dias de greves e protestos na Bolívia, líderes da Central Operária Boliviana (COB) alcançaram um acordo com o governo e anunciaram, na noite de segunda-feira, a suspensão das manifestações e a volta ao trabalho.
 Após 12 dias de greves e protestos na Bolívia, líderes da Central Operária Boliviana (COB) alcançaram um acordo com o governo e anunciaram, na noite de segunda-feira, a suspensão das manifestações e a volta ao trabalho.
@@ -11071,7 +11071,7 @@ O motivo original do protesto, segundo líderes  da COB, foi a reposição da al
 Em 2006, o  apoio da Central Operária foi decisivo para a eleição do presidente Evo Morales, que se tornou o primeiro indígena a assumir a Presidência do país.
 Os trabalhadores das áreas de saúde e de educação devem retornar ao  trabalho nesta terça-feira.
 </doc>
-<doc id='bbc_140918_voluntaria_ebola_vacina_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140918_voluntaria_ebola_vacina_rb' term='ebola'>
+<doc docid='bbc_140918_voluntaria_ebola_vacina_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140918_voluntaria_ebola_vacina_rb' term='ebola'>
 'Por que me voluntariei para testar a vacina do ebola'
 Pouco depois de chegar a um hospital de Oxford, no sudeste da Inglaterra, uma mulher britânica de 48 anos tornou-se parte de uma batalha global contra a maior epidemia de ebola da história.
 Pouco depois de chegar a um hospital de Oxford, no sudeste da Inglaterra, uma mulher britânica de 48 anos tornou-se parte de uma batalha global contra a maior epidemia de ebola da história.
@@ -11100,7 +11100,7 @@ Segundo Benjamin Neuman, virologista da Universidade de Reading, que não partic
 Mas ele advertiu que o sistema imunológico é complexo e que, mesmo se os testes clínicos forem bem-sucedidos, é difícil saber se a vacina funcionará.
 "O verdadeiro teste será quando uma pessoa que a tiver recebido entrar em contato com o vírus na África."
 </doc>
-<doc id='bbc_geral-46722547' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-46722547' term='ebola'>
+<doc docid='bbc_geral-46722547' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-46722547' term='ebola'>
 Quais países têm as pessoas mais prestativas e generosas?
 Por que a população de Mianmar – onde o PIB per capita é de US$ 1.350 – dá dinheiro para caridade com mais frequência que o povo da Noruega, que é seis vezes mais rico?
 Por que a população de Mianmar – onde o PIB per capita é de US$ 1.350 – dá dinheiro para caridade com mais frequência que o povo da Noruega, que é seis vezes mais rico?
@@ -11139,7 +11139,7 @@ Segundo Levine, resultado de uma atitude altruísta não é bom apenas para quem
 "O que sabemos é que pessoas que gastam seu tempo ou dinheiro ajudando os outros tendem a afirmar que estão mais satisfeitos com a vida depois", diz ele.
 "Elas ficam mais felizes no momento, logo após, e o sentimento dura até algumas semanas depois."
 </doc>
-<doc id='bbc_141015_texas_caso_ebola_vale_rw' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141015_texas_caso_ebola_vale_rw' term='ebola'>
+<doc docid='bbc_141015_texas_caso_ebola_vale_rw' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141015_texas_caso_ebola_vale_rw' term='ebola'>
 EUA confirmam mais um caso de ebola no Texas
 Autoridades americanas anunciaram nesta quarta-feira que testes confirmaram um segundo caso de infecção pelo vírus do ebola no Estado do Texas.
 Autoridades americanas anunciaram nesta quarta-feira que testes confirmaram um segundo caso de infecção pelo vírus do ebola no Estado do Texas.
@@ -11152,7 +11152,7 @@ A enfermeira Nina Pham havia sido exposta ao ebola em um hospital de Dallas ao t
 Médicos do hospital Health Presbyterian, onde ela está internada, afirmaram na terça-feira que ela está em boas condições de saúde.
 Leia mais: Examinar passageiros de avião para evitar ebola é inútil, diz especialista
 </doc>
-<doc id='bbc_140912_ebola_serraleoa_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140912_ebola_serraleoa_hb' term='ebola'>
+<doc docid='bbc_140912_ebola_serraleoa_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140912_ebola_serraleoa_hb' term='ebola'>
 Serra Leoa confina 6 milhões de pessoas em casa para conter ebola
 Um toque de recolher de três dias foi iniciado em Serra Leoa para permitir que agentes de saúde encontrem e isolem novos casos de ebola, doença que já causou 2.600 mortes na África Ocidental.
 Um toque de recolher de três dias foi iniciado em Serra Leoa para permitir que agentes de saúde encontrem e isolem novos casos de ebola, doença que já causou 2.600 mortes na África Ocidental.
@@ -11174,7 +11174,7 @@ Integrantes do Conselho foram informados que a resposta internacional tem que se
 A resolução também pediu que restrições a viagens sejam canceladas, dizendo que os países afetados necessitam ter acesso à ajuda ao invés de serem isolados.
 Em uma apresentação em vídeo, um médico que estava na Libéria alertou que se a comunidade internacional não aumentar seus esforços, "nós seremos eliminados".
 </doc>
-<doc id='bbc_140403_ebola_depoimento_lk' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/04/140403_ebola_depoimento_lk' term='ebola'>
+<doc docid='bbc_140403_ebola_depoimento_lk' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/04/140403_ebola_depoimento_lk' term='ebola'>
 'Perdi dez parentes para o ebola'
 A epidemia do vírus ebola, que já matou ao menos 86 pessoas na Guiné nas últimas semanas e outras seis na Libéria, devastou a família de Firmin Bogon.
 A epidemia do vírus ebola, que já matou ao menos 86 pessoas na Guiné nas últimas semanas e outras seis na Libéria, devastou a família de Firmin Bogon.
@@ -11190,7 +11190,7 @@ Na família de Bogon, o contágio da irmã teve efeito em cadeia. Infectou sua m
 Ainda não está claro onde a irmã dele pegou a doença.
 "Ela esteve em Serra Leoa por uma semana e depois foi para Kisidougou, na Guiné. Nós só suspeitamos de uma epidemia de ebola quando um motorista que estava trabalhando para uma agência humanitária em Macenta (no sul da Guiné) morreu e exames mostraram que ele tinha a febre. Só depois disso que as pessoas começaram a tomar medidas de precaução, mas já era tarde."
 </doc>
-<doc id='bbc_141015_ebola_eua_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141015_ebola_eua_lab' term='ebola'>
+<doc docid='bbc_141015_ebola_eua_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141015_ebola_eua_lab' term='ebola'>
 Ebola: há risco de epidemia nos EUA?
 Os Estados Unidos confirmaram nesta quarta-feira mais um caso de ebola, o segundo transmitido dentro do país. Como o vírus chegou e começou a se espalhar em um dos países mais ricos do mundo?
 Os Estados Unidos confirmaram nesta quarta-feira mais um caso de ebola, o segundo transmitido dentro do país. Como o vírus chegou e começou a se espalhar em um dos países mais ricos do mundo?
@@ -11234,12 +11234,12 @@ Em 28 de setembro, um amigo de Duncan entrou em contato com o CDC e foi instruí
 Frieden, diretor dos Centros de Controle e Prevenção de Doenças, admitiu que o CDC foi lento ao reagir ao primeiro caso no Texas, mas ele anunciou uma série de novas medidas para o hospital em Dallas onde Pham está internada e também em todo o país.
 Os profissionais de saúde dos EUA estavam "muito angustiados" que uma enfermeira pudesse ter sido infectado, ele disse ao estabelecer um novo plano de ação:
 </doc>
-<doc id='bbc_160225_infeccao_ebola_fs' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/videos_e_fotos/2016/02/160225_infeccao_ebola_fs' term='ebola'>
+<doc docid='bbc_160225_infeccao_ebola_fs' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/videos_e_fotos/2016/02/160225_infeccao_ebola_fs' term='ebola'>
 Ebola devasta saúde de sobreviventes no longo prazo
 
 
 </doc>
-<doc id='bbc_geral-37648604' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-37648604' term='ebola'>
+<doc docid='bbc_geral-37648604' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-37648604' term='ebola'>
 Os 10 empresários mais ricos do mundo do setor de tecnologia
 
 Nas últimas décadas, um dos setores mais bem-sucedidos no mundo dos negócios é o de tecnologia. Isso se reflete nas contas bancárias de executivos e criadores do setor, que aparecem com frequência em listas de pessoas mais ricas do mundo.
@@ -11271,12 +11271,12 @@ Pony Ma é o homem por trás da maior empresa tecnológica da China: a Tencent H
 Sua expansão tem sido enorme e já fez de Pony Ma o quinto homem mais rico da China. O foco da empresa é o desenvolvimento de softwares e aplicativos de internet - o primeiro que fez sucesso no mercado chinês foi um programa de mensagens instantâneas similar ao famoso ICQ, popular no Brasil nos anos 1990.
 Hoje, a empresa engloba vários setores, de música a videogames e redes sociais.
 </doc>
-<doc id='bbc_150827_ebola_danca_short' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/videos_e_fotos/2015/08/150827_ebola_danca_short' term='ebola'>
+<doc docid='bbc_150827_ebola_danca_short' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/videos_e_fotos/2015/08/150827_ebola_danca_short' term='ebola'>
 Médicos comemoram fim do ebola com dança
 
 
 </doc>
-<doc id='bbc_141023_maislidas' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141023_maislidas' term='ebola'>
+<doc docid='bbc_141023_maislidas' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141023_maislidas' term='ebola'>
 Mais lidas do dia (22 de outubro)
 
 
@@ -11287,7 +11287,7 @@ As notícias mais populares desta terça
 4. Obama enfrenta saia justa com namorado ciumento. Presidente dos EUA votava em Chicago quando foi abordado por homem pedindo que ele não tocasse na sua namorada; Obama entrou na brincadeira.
 5. Pedófilo é condenado após armadilha com menina virtual de dez anos. Australiano é primeiro caso de condenação devido a programa com falsas crianças online, conduzido por ONG holandesa.
 </doc>
-<doc id='bbc_geral-38809611' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/geral-38809611' term='ebola'>
+<doc docid='bbc_geral-38809611' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/geral-38809611' term='ebola'>
 Os abrigos para o fim do mundo construídos para os super-ricos
 O empresário americano Larry Hall sai do elevador e entra em um dos muitos apartamentos de seu recém-construído empreendimento imobiliário.
 O empresário americano Larry Hall sai do elevador e entra em um dos muitos apartamentos de seu recém-construído empreendimento imobiliário.
@@ -11313,7 +11313,7 @@ Para os mais claustrofóbicos, uma opção parece ser manter distância dos prin
 E outra medida de que super-ricos também contemplam o fim do mundo é que, na mesma reportagem da revista americana, o milionário Steve Huffman, fundador da rede social Reddit, conta ter feito uma cirurgia ocular corretora para sua miopia, em 2015, não por uma questão de estética our praticidade. Huffman crê que uma visão melhor calibrada lhe dará mais chance de sobreviver ao terror.
 "Se o mundo acabar ou tivermos problemas sérios, conseguir óculos ou lentes de contato será um senhor problema".
 </doc>
-<doc id='bbc_internacional-36486582' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-36486582' term='ebola'>
+<doc docid='bbc_internacional-36486582' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-36486582' term='ebola'>
 Como Bill Gates quer usar galinhas para reduzir fome na África - e os prós e contras desse plano
 Um dos homens mais ricos do mundo, Bill Gates lançou uma campanha inusitada para ajudar famílias que vivem abaixo da linha da pobreza na África Subsaariana.
 Um dos homens mais ricos do mundo, Bill Gates lançou uma campanha inusitada para ajudar famílias que vivem abaixo da linha da pobreza na África Subsaariana.
@@ -11337,7 +11337,7 @@ O multibilionário, que deixou de dar expediente na empresa que fundou para se d
 - Tem apoiado propostas de tecnologia, incluindo uma iniciativa para fornecer água limpa a partir de fezes humanas e outra para desenvolver vasos sanitários de alta tecnologia em áreas pobres.
 - Mas ele também teve alguns fracassos, como o projeto educativo InBloom, que fechou em 2014. O objetivo era registar dados de estudantes.
 </doc>
-<doc id='bbc_140907_macacos_vacina_ebola_lgb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140907_macacos_vacina_ebola_lgb' term='ebola'>
+<doc docid='bbc_140907_macacos_vacina_ebola_lgb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140907_macacos_vacina_ebola_lgb' term='ebola'>
 Vacina dá imunidade a macacos contra ebola
 Macacos vacinados desenvolveram imunidade de longo prazo contra o vírus ebola, aumentando as esperanças de testes bem-sucedidos em humanos, afirmaram cientistas americanos.
 Macacos vacinados desenvolveram imunidade de longo prazo contra o vírus ebola, aumentando as esperanças de testes bem-sucedidos em humanos, afirmaram cientistas americanos.
@@ -11365,12 +11365,12 @@ Tal como acontece com todas as terapias experimentais, a OMS alertou que ainda q
 "O grau de proteção visto somente com o adenovírus de chimpanzés - que será usado em um dos testes clínicos em humanos previstos para o Reino Unido, Mali e na Gâmbia - já era bastante impressionante, especialmente quando os animais receberam o vírus ebola dentro de algumas semanas de vacinação", explicou.
 "Isso é importante, uma vez que será possível manter um simples regime de dosagem e ainda pode fornecer uma boa proteção no tipo de surto que estamos vendo na África Ocidental no momento", disse.
 </doc>
-<doc id='bbc_140729_ebola_info_rw' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2014/07/140729_ebola_info_rw' term='ebola'>
+<doc docid='bbc_140729_ebola_info_rw' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2014/07/140729_ebola_info_rw' term='ebola'>
 Surto do ebola mata 6 de cada 10 infectados; saiba mais
 
 
 </doc>
-<doc id='bbc_141028_medicos_ebola_obrigacao_tratamento_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/11/141028_medicos_ebola_obrigacao_tratamento_rb' term='ebola'>
+<doc docid='bbc_141028_medicos_ebola_obrigacao_tratamento_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/11/141028_medicos_ebola_obrigacao_tratamento_rb' term='ebola'>
 Até que ponto médicos têm obrigação de tratar pessoas com ebola?
 O presidente do Banco Mundial fez um apelo para que profissionais de saúde se voluntariem para a batalha contra o ebola, invocando seu juramento de ajudar pacientes. Mas existe esta obrigação? Daniel Sokol, especialista em ética médica, diz que devemos esperar que alguns profissionais se recusem a ir ao trabalho onde hajam pacientes com ebola sendo tratados.
 O presidente do Banco Mundial fez um apelo para que profissionais de saúde se voluntariem para a batalha contra o ebola, invocando seu juramento de ajudar pacientes. Mas existe esta obrigação? Daniel Sokol, especialista em ética médica, diz que devemos esperar que alguns profissionais se recusem a ir ao trabalho onde hajam pacientes com ebola sendo tratados.
@@ -11404,7 +11404,7 @@ Alguns gestos vão além do que o dever exige. Muitos profissionais cuidando de 
 Para os outros, que deicidiram manterem-se longes, devemos ter cuidado ao críticá-los antes de considerar as circunstâncias individuais."
 Daniel Sokol, PhD, um advogado especializado em bioética de Londres, no Reino Unido.
 </doc>
-<doc id='bbc_141011_ebola_negativo_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141011_ebola_negativo_lab' term='ebola'>
+<doc docid='bbc_141011_ebola_negativo_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141011_ebola_negativo_lab' term='ebola'>
 Exame de paciente com suspeita de ebola no Brasil dá negativo
 O primeiro teste realizado no paciente com suspeita de ter ebola no Brasil teve resultado negativo, informou na manhã deste sábado o Ministério da Saúde.
 O primeiro teste realizado no paciente com suspeita de ter ebola no Brasil teve resultado negativo, informou na manhã deste sábado o Ministério da Saúde.
@@ -11420,7 +11420,7 @@ Leia mais: Saiba como evitar o contágio por ebola
 O paciente foi transferido para o Rio de Janeiro para acompanhamento.
 A epidemia de ebola já matou mais de 4 mil pessoas. Os países mais afetados são Guiné, Libéria e Serra Leoa.
 </doc>
-<doc id='bbc_141013_gripe_espanhola_licoes_ebola_fd' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141013_gripe_espanhola_licoes_ebola_fd' term='ebola'>
+<doc docid='bbc_141013_gripe_espanhola_licoes_ebola_fd' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141013_gripe_espanhola_licoes_ebola_fd' term='ebola'>
 Vírus que matou mais que 1ª Guerra deixou lições para combate a ebola
 A Gripe Espanhola, a pandemia de um vírus que matou cerca de 50 milhões de pessoas entre 1918 e 1920, deixou, segundo especialistas, lições importantes para os esforços de controle da epidemia do ebola.
 A Gripe Espanhola, a pandemia de um vírus que matou cerca de 50 milhões de pessoas entre 1918 e 1920, deixou, segundo especialistas, lições importantes para os esforços de controle da epidemia do ebola.
@@ -11439,7 +11439,7 @@ Doenças preveníveis ainda matam sete milhões de crianças ao redor do mundo t
 Mas a saúde global melhorou consideravelmente desde 1918 e há várias histórias positivas surgidas com as medidas introduzidas após a Gripe Espanhola. A paralisia infantil, uma das doenças mais mortais da história da humanidade, hoje está praticamente erradicada graças ao esforço conjunto da ONU e agências particulares.
 Leia mais: Entenda o que é o ebola e como a doença mortal se espalha
 </doc>
-<doc id='bbc_140828_ebola_vinte_mil_mdb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140828_ebola_vinte_mil_mdb' term='ebola'>
+<doc docid='bbc_140828_ebola_vinte_mil_mdb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140828_ebola_vinte_mil_mdb' term='ebola'>
 Ebola pode infectar mais 20 mil antes de ser controlado, alerta OMS
 A Organização Mundial da Saúde (OMS) anunciou que o surto de ebola que vem causando mortes no oeste da África pode infectar mais 20 mil pessoas antes de ser controlado.
 A Organização Mundial da Saúde (OMS) anunciou que o surto de ebola que vem causando mortes no oeste da África pode infectar mais 20 mil pessoas antes de ser controlado.
@@ -11456,7 +11456,7 @@ O correspondente da BBC no oeste da África Thomas Fessy disse que as agentes de
 Segundo ele, alguns esforços para conter o vírus dificilmente terão algum sucesso, já que a maioria dos centros de saúde já está operando na capacidade máxima.
 Em outro desdobramento, o laboratório farmacêutico GlaxoSmithKline (GSK) disse que testes de uma vacina experimental contra o ebola devem começar no mês que vem.
 </doc>
-<doc id='bbc_150129_ebola_depoimento_freira_rm' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/02/150129_ebola_depoimento_freira_rm' term='ebola'>
+<doc docid='bbc_150129_ebola_depoimento_freira_rm' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/02/150129_ebola_depoimento_freira_rm' term='ebola'>
 'Anjo dos órfãos' na Libéria, freira brasileira relata que ebola 'é pior que guerra'
 A voz alegre de irmã Maria Teresa Moser ao telefone não deixa transparecer a dor que ela tem vivido nos últimos meses.
 A voz alegre de irmã Maria Teresa Moser ao telefone não deixa transparecer a dor que ela tem vivido nos últimos meses.
@@ -11494,12 +11494,12 @@ Mas irmã Maria diz que a situação já está um pouco melhor e que o vírus es
 "Espero que essa desgraça não venha mais assolar nossa terra."
 Leia mais: Ebola: vacinas experimentais são enviadas à Libéria
 </doc>
-<doc id='bbc_141020_sdasda' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2014/10/141020_sdasda' term='ebola'>
+<doc docid='bbc_141020_sdasda' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2014/10/141020_sdasda' term='ebola'>
 Ebola: 'Todos se foram', diz menino que perdeu pai, madrasta, avó, irmão e irmã
 
 
 </doc>
-<doc id='bbc_141014_ebola_mitos_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141014_ebola_mitos_hb' term='ebola'>
+<doc docid='bbc_141014_ebola_mitos_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141014_ebola_mitos_hb' term='ebola'>
 Os mitos e as verdades sobre o ebola
 O surto do ebola já matou mais de 4.500 pessoas, a maioria na Libéria, Guiné e Serra Leoa, e países do Ocidente ampliam medidas para tentar conter a disseminação do vírus.
 O surto do ebola já matou mais de 4.500 pessoas, a maioria na Libéria, Guiné e Serra Leoa, e países do Ocidente ampliam medidas para tentar conter a disseminação do vírus.
@@ -11532,7 +11532,7 @@ Segundo a OMS, o vírus foi diagnosticado pela primeira vez em humanos em 1976, 
 O surto ocorreu em uma aldeia perto do rio Ebola, daí o nome da doença. Cerca de 500 pessoas foram infectadas e 400 morreram.
 Desde então, várias cepas do vírus surgiram no continente africano.
 </doc>
-<doc id='bbc_geral-42859743' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/geral-42859743' term='ebola'>
+<doc docid='bbc_geral-42859743' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/geral-42859743' term='ebola'>
 Conseguiremos algum dia curar as doenças que mais matam?
 A busca para entender como nossos genes funcionam começou em meados do século 19, quando o biólogo e monge Gregor Mendel chegou a uma conclusão surpreendente sobre as características das plantas.
 A busca para entender como nossos genes funcionam começou em meados do século 19, quando o biólogo e monge Gregor Mendel chegou a uma conclusão surpreendente sobre as características das plantas.
@@ -11618,7 +11618,7 @@ Não há dúvida, contudo, de que o investimento em tecnologia emergente está c
 Também mostram que os avanços na medicina podem e são provenientes de muitas áreas diferentes. "Esses são desafios geracionais. Quanto mais formas tivermos para abordar o problema, melhor a chance de encontrar soluções", diz Weil.
 Foi um longo caminho desde Mendel e seus experimentos com ervilhas. O conhecimento avançado do genoma humano significa que essas empresas - e outras como elas - vão ajudar os seres humanos a entrar em um mundo onde a medicina personalizada, adaptada aos genomas individuais, se tornará a norma.
 </doc>
-<doc id='bbc_141015_ebola_paises_mdb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141015_ebola_paises_mdb' term='ebola'>
+<doc docid='bbc_141015_ebola_paises_mdb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141015_ebola_paises_mdb' term='ebola'>
 OMS inclui mais 15 países africanos em esforço contra ebola
 A Organização Mundial de Saúde (OMS) anunciou nesta quinta-feira que está ampliando para mais 15 países africanos seus esforços para evitar que o vírus ebola se espalhe no continente.
 A Organização Mundial de Saúde (OMS) anunciou nesta quinta-feira que está ampliando para mais 15 países africanos seus esforços para evitar que o vírus ebola se espalhe no continente.
@@ -11638,7 +11638,7 @@ As duas enfermeiras foram infectadas ao cuidarem do liberiano Thomas Eric Duncan
 Apesar de ter recebido tratamento intensivo no hospital, com o uso de uma forte droga experimental, Duncan morreu no dia 8 de outubro.
 Leia mais: há risco de epidemia nos EUA?
 </doc>
-<doc id='bbc_140703_ebola_oms_ministerio_mdb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/07/140703_ebola_oms_ministerio_mdb' term='ebola'>
+<doc docid='bbc_140703_ebola_oms_ministerio_mdb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/07/140703_ebola_oms_ministerio_mdb' term='ebola'>
 Países africanos definem plano para conter pior surto de ebola
 Ministros da Saúde de 11 países do Oeste da África concordaram em adotar uma estratégia comum para conter o pior surto de ebola da história, que já matou 467 pessoas desde fevereiro.
 Ministros da Saúde de 11 países do Oeste da África concordaram em adotar uma estratégia comum para conter o pior surto de ebola da história, que já matou 467 pessoas desde fevereiro.
@@ -11667,7 +11667,7 @@ O período de incubação do vírus do ebola varia entre dois e 21 dias, segundo
 "Durante o surto atual, viajantes infectados com ebola atravessaram as fronteiras com países vizinhos e há a possibilidade de que outros casos surjam nesses países vizinhos", afirma a agência de saúde da ONU.
 Segundo a OMS, o número de casos do surto atual subiu de 635 em 23 de junho para 759, um aumento de 20%.
 </doc>
-<doc id='bbc_geral-37989867' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-37989867' term='ebola'>
+<doc docid='bbc_geral-37989867' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-37989867' term='ebola'>
 Polêmicas em eleição americana revelam o rentável negócio da notícia falsa
 A publicação de conteúdo noticioso deliberadamente falso não é nada novo. Mas o advento da mídia social fez com que histórias reais e fictícias agora sejam apresentadas de forma tão similar que às vezes pode ser difícil diferenciá-las.
 A publicação de conteúdo noticioso deliberadamente falso não é nada novo. Mas o advento da mídia social fez com que histórias reais e fictícias agora sejam apresentadas de forma tão similar que às vezes pode ser difícil diferenciá-las.
@@ -11698,7 +11698,7 @@ Ele diz que atualmente gerencia nove sites de fakes em que distribui seu conteú
 Ou seja, os sites de notícias falsas parecem ter chegado para ficar. Silverman diz que mais precisa ser feito para que as pessoas não sejam enganadas.
 "Os jornalistas precisam de treinamento para identificar os fakes rapidamente, e estudantes precisam aprender a ler informações online de maneira crítica. Precisam aprender a pesquisar e a checar fontes múltiplas".
 </doc>
-<doc id='bbc_141105_eleicoes_eua_resultado_ac_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/11/141105_eleicoes_eua_resultado_ac_lab' term='ebola'>
+<doc docid='bbc_141105_eleicoes_eua_resultado_ac_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/11/141105_eleicoes_eua_resultado_ac_lab' term='ebola'>
 Como um Congresso de oposição afeta o governo Obama?
 Com a conquista da maioria no Senado nas eleições legislativas desta terça-feira, o Partido Republicano passa a ter controle total do Congresso e deve tornar ainda mais difíceis os dois anos finais do democrata Barack Obama na Casa Branca.
 Com a conquista da maioria no Senado nas eleições legislativas desta terça-feira, o Partido Republicano passa a ter controle total do Congresso e deve tornar ainda mais difíceis os dois anos finais do democrata Barack Obama na Casa Branca.
@@ -11739,7 +11739,7 @@ Leia mais: Tea Party pode ampliar influência no Congresso dos EUA
 Segundo Fortier, há pelo menos três senadores republicanos que podem concorrer à Presidência: Ted Cruz, Rand Paul e Marco Rubio. O analista espera que eles dificultem ainda mais a vida do presidente Obama, usando seu poder de obstrução a medidas propostas pelo presidente como estratégia para se destacar.
 Ambos os analistas afirmam, porém, que ainda é muito cedo para medir o impacto da vitória desta terça-feira sobre as eleições presidenciais de 2016.
 </doc>
-<doc id='bbc_160128_zika_oms_reuniao_mw' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2016/01/160128_zika_oms_reuniao_mw' term='ebola'>
+<doc docid='bbc_160128_zika_oms_reuniao_mw' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2016/01/160128_zika_oms_reuniao_mw' term='ebola'>
 OMS: zika, incertezas e preocupações em alta
 A Organização Mundial de Saúde (OMS) debateu o tema da zika em reunião na tarde desta quinta-feira em Genebra. A epidemia é prioridade, mas as incertezas permanecem devido à não confirmação de causalidade entre o vírus e o aumento de nascimento de bebês com microcefalia.
 A Organização Mundial de Saúde (OMS) debateu o tema da zika em reunião na tarde desta quinta-feira em Genebra. A epidemia é prioridade, mas as incertezas permanecem devido à não confirmação de causalidade entre o vírus e o aumento de nascimento de bebês com microcefalia.
@@ -11762,7 +11762,7 @@ Falando em inglês, Maierovitch explicou ao painel a evolução dos casos de mic
 "A concentração está no Nordeste, mas esperamos ainda ter mais casos de zika. Os Estados que ainda não reportaram casos devem confirmar a qualquer momento agora", disse Maierovitch, ressaltando que o avanço do vírus é rápido e que a epidemia é grave.
 "Em Pernambuco tínhamos por ano entre dez e 12 casos de microcefalia. Em nosso primeiro relatório de outubro já registrávamos 28 casos em apenas dois meses."
 </doc>
-<doc id='bbc_140918_ebola_ameaca_onu_rm' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140918_ebola_ameaca_onu_rm' term='ebola'>
+<doc docid='bbc_140918_ebola_ameaca_onu_rm' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140918_ebola_ameaca_onu_rm' term='ebola'>
 Resolução da ONU diz que ebola é 'ameaça à segurança mundial'
 O Conselho de Segurança da ONU adotou nesta quinta-feira por unanimidade uma resolução declarando o ebola uma ameaça à paz e a segurança internacionais.
 O Conselho de Segurança da ONU adotou nesta quinta-feira por unanimidade uma resolução declarando o ebola uma ameaça à paz e a segurança internacionais.
@@ -11777,12 +11777,12 @@ Em Serra Leoa, haverá uma paralisação nacional de todos os serviços por trê
 O governo disse que são necessárias medidas extremas para conter o surto. Voluntários estão indo de porta em porta para fazer o teste do vírus nas pessoas e para levar os infectados aos centros de tratamento.
 Já para a ONG Médicos Sem Fronteiras, uma medida como essa – de ‘parar’ a cidade e proibir as pessoas de saírem – é uma ação abusiva que pode levar à ocultação de mais casos do ebola.
 </doc>
-<doc id='bbc_141012_click_13_out_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2014/10/141012_click_13_out_fn' term='ebola'>
+<doc docid='bbc_141012_click_13_out_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2014/10/141012_click_13_out_fn' term='ebola'>
 BBC Click: Robô pode ajudar no combate ao ebola
 
 
 </doc>
-<doc id='bbc_internacional-36680819' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-36680819' term='ebola'>
+<doc docid='bbc_internacional-36680819' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-36680819' term='ebola'>
 Como é o laboratório supersecreto onde foi inventado o gás lacrimogêneo
 Conhecido como Laboratório de Ciência e Tecnologia de Defesa, Porton Down é o local onde se realiza boa parte da pesquisa militar secreta do Reino Unido.
 Conhecido como Laboratório de Ciência e Tecnologia de Defesa, Porton Down é o local onde se realiza boa parte da pesquisa militar secreta do Reino Unido.
@@ -11822,7 +11822,7 @@ No fim, fiquei animado ao saber que uma das coisas que Porton Down vem fazendo d
 Fonte: Dstl, BBC
 Esta reportagem é derivada do documentário da BBC "Dentro de Porton Down: o Complexo Secreto Britânico de Pesquisa de Armas"
 </doc>
-<doc id='bbc_141007_ebola_diario_bbc_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141007_ebola_diario_bbc_fn' term='ebola'>
+<doc docid='bbc_141007_ebola_diario_bbc_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141007_ebola_diario_bbc_fn' term='ebola'>
 Diário de uma repórter: Mortes e esperança em Serra Leoa
 A repórter da BBC especializada em saúde global Tulip Mazumdar está em Serra Leoa, um dos países mais atingidos pela epidemia de ebola, que já infectou mais de 7 mil pessoas e matou mais de 3,3 mil.
 A repórter da BBC especializada em saúde global Tulip Mazumdar está em Serra Leoa, um dos países mais atingidos pela epidemia de ebola, que já infectou mais de 7 mil pessoas e matou mais de 3,3 mil.
@@ -11858,7 +11858,7 @@ Depois de alguns problemas devido à chuva pesada e trovoadas, nosso sinal de sa
 Então, pouco antes das 18h, e antes de mais uma entrada no canal BBC World, Mark chega com péssimas notícias. Francis Samuka, que foi rejeitado no centro de tratamento italiano no dia anterior na nossa frente, morreu.
 A família ligou e disse que ele morreu em outro centro de isolamento há algumas horas. A irmã mal conseguia falar quando deu a notícia. Meu coração fica apertado... e então escuto o apresentador no fone de ouvido: "Tulip, quais são as últimas notícias?"
 </doc>
-<doc id='bbc_140821_ebola_impacto_economico_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140821_ebola_impacto_economico_hb' term='ebola'>
+<doc docid='bbc_140821_ebola_impacto_economico_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140821_ebola_impacto_economico_hb' term='ebola'>
 Surto do ebola afeta também economias de países africanos
 Além do devastador impacto humano, a epidemia do vírus ebola, que já matou mais de 1,3 mil pessoas na África Ocidental, também afeta as economias dos países atingidos.
 Além do devastador impacto humano, a epidemia do vírus ebola, que já matou mais de 1,3 mil pessoas na África Ocidental, também afeta as economias dos países atingidos.
@@ -11892,17 +11892,17 @@ Segundo Dianna, a Nigéria é o único país afetado com sistema de saúde e inf
 Mas ela acredita que, no longo prazo, o surto do ebola será visto como uma crise temporária e não como uma mudança permanente nas perspectivas do continente.
 "Os fundamentos empurrando esse renascimento da África ainda existem", disse.
 </doc>
-<doc id='bbc_150715_aprenda_celular_organico' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/videos_e_fotos/2015/07/150715_aprenda_celular_organico' term='ebola'>
+<doc docid='bbc_150715_aprenda_celular_organico' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/videos_e_fotos/2015/07/150715_aprenda_celular_organico' term='ebola'>
 Conheça o celular orgânico e reciclável feito de grama
 
 
 </doc>
-<doc id='bbc_141025_liberia_ebola_paciente_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2014/10/141025_liberia_ebola_paciente_pai' term='ebola'>
+<doc docid='bbc_141025_liberia_ebola_paciente_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2014/10/141025_liberia_ebola_paciente_pai' term='ebola'>
 Na Libéria, a dura rotina de quem combate o ebola
 
 
 </doc>
-<doc id='bbc_141019_ebola_protesto_serra_leoa_rm' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141019_ebola_protesto_serra_leoa_rm' term='ebola'>
+<doc docid='bbc_141019_ebola_protesto_serra_leoa_rm' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141019_ebola_protesto_serra_leoa_rm' term='ebola'>
 Falta de tratamento para ebola gera quebra-quebra em Serra Leoa
 A crise do ebola em Serra Leoa gerou protestos no país nesta terça-feira. Irritados com a falta de locais e condições de tratamento para a epidemia, os leoneses foram às ruas e começaram um quebra-quebra no distrito de Kono, no leste do país.
 A crise do ebola em Serra Leoa gerou protestos no país nesta terça-feira. Irritados com a falta de locais e condições de tratamento para a epidemia, os leoneses foram às ruas e começaram um quebra-quebra no distrito de Kono, no leste do país.
@@ -11917,7 +11917,7 @@ Na tentativa de conter a epidemia do ebola, os Estados Unidos estão aumentando 
 A partir de quarta, todos os passageiros que saírem de um desses três países terão que entrar nos Estados Unidos apenas por um dos cinco aeroportos designados (JFK ou Newark em Nova York, Washington Dulles, Atlanta ou Chicago) onde eles serão submetidos a vários testes e procedimentos para identificar o ebola.
 As novas medidas surgiram como consequência de uma preocupação maior dos Estados Unidos em combater o vírus, que já infectou três pessoas no país – uma delas morreu.
 </doc>
-<doc id='bbc_141027_ebola_onu_mdb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141027_ebola_onu_mdb' term='ebola'>
+<doc docid='bbc_141027_ebola_onu_mdb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141027_ebola_onu_mdb' term='ebola'>
 Ebola: ONU condena preconceito contra agentes de saúde que voltam da África
 O secretário-geral da ONU, Ban Ki-moon, disse ser "inaceitável" qualquer tipo de preconceito contra agentes de saúde que estão voltando para casa após trabalhar na África cuidando de pacientes com ebola.
 O secretário-geral da ONU, Ban Ki-moon, disse ser "inaceitável" qualquer tipo de preconceito contra agentes de saúde que estão voltando para casa após trabalhar na África cuidando de pacientes com ebola.
@@ -11929,7 +11929,7 @@ O presidente dos EUA, Barack Obama, já havia dito nesta semana que medidas muit
 Passageiros vindos das áreas de risco já são vistoriados em cinco dos principais aeroportos do país. Após o caso em Nova York, alguns Estados chegaram a determinar a obrigatoriedade de quarentena para voluntários vindos dos países atingidos, medida que provocou polêmica.
 A epidemia atual de ebola matou um número recorde de pessoas: mais de 5 mil, especialmente na Libéria, Serra Leoa e Guiné.
 </doc>
-<doc id='bbc_160229_febre_tifoide_lgb' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2016/02/160229_febre_tifoide_lgb' term='ebola'>
+<doc docid='bbc_160229_febre_tifoide_lgb' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2016/02/160229_febre_tifoide_lgb' term='ebola'>
 Você aceitaria pegar febre tifoide por R$ 16 mil?
 Imagine contrair febre tifoide de propósito para ganhar, em contrapartida, R$ 16,6 mil.
 Imagine contrair febre tifoide de propósito para ganhar, em contrapartida, R$ 16,6 mil.
@@ -11964,7 +11964,7 @@ Segundo o Ministério da Saúde, de 2000 a 2014, 117 pessoas morreram vítimas d
 Os sintomas incluem dor de estômago, dor de cabeça, febre alta e constipação ou diarreia.
 Em casos não tratados, um quinto das pessoas vem à óbito, mas antibióticos costumam curar a doença em duas semanas.
 </doc>
-<doc id='bbc_geral-45496685' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-45496685' term='ebola'>
+<doc docid='bbc_geral-45496685' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-45496685' term='ebola'>
 Vacina do futuro será autoaplicável e ‘enviada pelo correio’, apontam cientistas
 Imagine só a seguinte situação: você quer tomar uma vacina contra a gripe. Mas em vez de procurar o posto de saúde mais próximo, ou mesmo aquela clínica particular que vai cobrar um valor considerável pelo procedimento, você faz uma compra on-line, recebe a dose e uma seringa com microagulha pelo correio e aplica em si mesmo o produto.
 Imagine só a seguinte situação: você quer tomar uma vacina contra a gripe. Mas em vez de procurar o posto de saúde mais próximo, ou mesmo aquela clínica particular que vai cobrar um valor considerável pelo procedimento, você faz uma compra on-line, recebe a dose e uma seringa com microagulha pelo correio e aplica em si mesmo o produto.
@@ -12005,7 +12005,7 @@ Os cientistas utilizaram supercomputadores para analisar as sequências genétic
 Segundo a Organização Mundial da Saúde (OMS), mesmo com intensas campanhas de vacinação ao redor do mundo, estima-se que 1 bilhão de pessoas, em todo o mundo estejam infectados com o vírus da gripe. Os casos graves estão entre 3 a 5 milhões por ano - que causam de 300 mil a 500 mil mortes decorrentes da doença.
 Nos Estados Unidos, as vacinas existentes ainda hoje protegem de 40% a 70% da população, também de acordo com dados da OMS.
 </doc>
-<doc id='bbc_150731_estudante_ocidental_coreiadonorte_pai' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2015/08/150731_estudante_ocidental_coreiadonorte_pai' term='ebola'>
+<doc docid='bbc_150731_estudante_ocidental_coreiadonorte_pai' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2015/08/150731_estudante_ocidental_coreiadonorte_pai' term='ebola'>
 'Todos os dias curvávamos diante de estátua', diz estudante ocidental em universidade da Coreia do Norte
 Todos os dias, durante um semestre, o estudante britânico Alessandro Ford tinha de interromper sua caminhada até a universidade para fazer fila e se curvar diante da estátua do líder norte-coreano Kim Jong-il.
 Todos os dias, durante um semestre, o estudante britânico Alessandro Ford tinha de interromper sua caminhada até a universidade para fazer fila e se curvar diante da estátua do líder norte-coreano Kim Jong-il.
@@ -12036,7 +12036,7 @@ Os relatos de abusos de direitos humanos no país são tabu.
 "O mais perto que cheguei de perguntar (sobre o tema) foi fraseando de forma diferente. 'Vocês sabem que os americanos os acusam de ter campos de prisioneiros políticos no país?'. Uma amiga disse: 'Sim, sei o que os americanos falam, mas não são campos como aqueles em que os japoneses nos colocaram, são campos de reeducação, para quem não entende os pensamentos políticos do grande líder, são pessoas que precisam ser instruídas.' Ela fazia parecer ser um campo para uma pessoa que não entendia matemática e precisasse de uma aula extra."
 Mas, apesar de achar que as pessoas sofrem de abusos de direitos humanos no país, Alessandro acredita que o resto do mundo deveria tentar se comunicar com a Coreia do Norte, porque isolá-la não parece estar funcionando.
 </doc>
-<doc id='bbc_140816_centro_ataque_ebola_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140816_centro_ataque_ebola_pai' term='ebola'>
+<doc docid='bbc_140816_centro_ataque_ebola_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140816_centro_ataque_ebola_pai' term='ebola'>
 Ataque a centro de quarentena na Libéria traz revés na luta contra ebola
 Um centro de quarentena usado por pacientes com suspeita de ebola foi atacado e saqueado por manifestantes armados em Monróvia, capital da Libéria, informa a polícia.
 Um centro de quarentena usado por pacientes com suspeita de ebola foi atacado e saqueado por manifestantes armados em Monróvia, capital da Libéria, informa a polícia.
@@ -12052,7 +12052,7 @@ O ataque ao centro de quarentena é visto como um grande revés para a luta cont
 Especialistas dizem que o fim da epidemia depende, em grande parte, de seu controle na Libéria - onde muitas pessoas ainda sabem pouco sobre o vírus e se recusam a cooperar com as autoridades de saúde.
 Os sintomas do ebola incluem febre alta e sangramento; o vírus ataca o sistema nervoso central e a taxa de mortalidade chega a 90%. Não há vacina ou cura.
 </doc>
-<doc id='bbc_141104_eua_apresenta_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/11/141104_eua_apresenta_lab' term='ebola'>
+<doc docid='bbc_141104_eua_apresenta_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/11/141104_eua_apresenta_lab' term='ebola'>
 EUA: Eleições podem dar à oposição controle do Congresso
 Os americanos vão às urnas nesta terça-feira em eleições legislativas que poderão tirar o controle do Senado do Partido Democrata, do presidente Barack Obama.
 Os americanos vão às urnas nesta terça-feira em eleições legislativas que poderão tirar o controle do Senado do Partido Democrata, do presidente Barack Obama.
@@ -12086,7 +12086,7 @@ Em pelo menos dois Estados – Louisiana e Georgia – há a possibilidade de qu
 Em Louisiana, um eventual segundo turno seria realizado em 6 de dezembro. Na Geórgia, somente em 6 de janeiro.
 Neste caso, há o risco de que o novo Congresso comece a trabalhar, como ocorre tradicionalmente em 3 de janeiro, ainda sem saber quem está no controle.
 </doc>
-<doc id='bbc_internacional-44232706' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/internacional-44232706' term='ebola'>
+<doc docid='bbc_internacional-44232706' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/internacional-44232706' term='ebola'>
 Pacientes com ebola fogem do isolamento e vão à igreja na República Democrática do Congo
 Três pacientes com ebola fugiram de uma unidade de tratamento em Mbandaka, na República Democrática do Congo, na segunda-feira. Os doentes contaram com a ajuda de familiares, que exigiram que eles fossem levados para locais religiosos, de acordo com a Organização Mundial da Saúde (OMS). Dois deles morreram. O terceiro voltou para o hospital.
 Três pacientes com ebola fugiram de uma unidade de tratamento em Mbandaka, na República Democrática do Congo, na segunda-feira. Os doentes contaram com a ajuda de familiares, que exigiram que eles fossem levados para locais religiosos, de acordo com a Organização Mundial da Saúde (OMS). Dois deles morreram. O terceiro voltou para o hospital.
@@ -12103,7 +12103,7 @@ A OMS afirma que o surto tem potencial de se expandir. "Nós estamos na berlinda
 "As próximas semanas serão determinantes para avaliar se esse surto irá se expandir para áreas urbanas, ou se nós conseguiremos mantê-lo sob controle", acrescentou Salama.
 Trabalhadores de saúde começaram uma campanha de imunização para deter a propagação do vírus da ebola, em 21 de maio. Uma vacina experimental está sendo usada de forma limitada.
 </doc>
-<doc id='bbc_140705_ebola_africa_cm_fl' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/07/140705_ebola_africa_cm_fl' term='ebola'>
+<doc docid='bbc_140705_ebola_africa_cm_fl' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/07/140705_ebola_africa_cm_fl' term='ebola'>
 Surto de Ebola está 'fora de controle' em partes da África, alerta MSF
 Com o aumento exponencial no número de casos de Ebola na África Ocidental, a organização médica internacional Médicos Sem Fronteiras (MSF) alerta para o risco de uma epidemia regional.
 Com o aumento exponencial no número de casos de Ebola na África Ocidental, a organização médica internacional Médicos Sem Fronteiras (MSF) alerta para o risco de uma epidemia regional.
@@ -12129,7 +12129,7 @@ Estima-se que cada pessoa contaminada mantenha contato com ao menos outros 20 in
 Atualmente, o MSF é a única organização internacional humanitária atendendo vítimas do Ebola na África Ocidental.
 "Estamos no nosso limite. É urgente que mais atores internacionais competentes também apoiem na resposta ao surto", afirmou Lugli.
 </doc>
-<doc id='bbc_141015_ebola_orfaos_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141015_ebola_orfaos_rb' term='ebola'>
+<doc docid='bbc_141015_ebola_orfaos_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141015_ebola_orfaos_rb' term='ebola'>
 Ebola já deixou 3,7 mil crianças órfãs, diz ONU
 Ao menos 3,7 mil crianças na Guiné, na Libéria e em Serra Leoa já perderam um ou ambos os pais por causa da epidemia de ebola, segundo a ONU.
 Ao menos 3,7 mil crianças na Guiné, na Libéria e em Serra Leoa já perderam um ou ambos os pais por causa da epidemia de ebola, segundo a ONU.
@@ -12150,7 +12150,7 @@ Segundo a ONU, é preciso haver um progresso maior no combate à doença nos pr�
 A meta é fazer com que 70% das pessoas infectadas estejam sendo tratadas e que 70% dos enterros sejam feitas de forma segura neste período.
 "É um objetivo ambicioso, e a única forma de atingí-lo é por meio de um esforço internacional", disse Anthony Banbury, chefe da mais recente missão da ONU no combate ao ebola.
 </doc>
-<doc id='bbc_140927_ebola_vice_ministra_pu' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140927_ebola_vice_ministra_pu' term='ebola'>
+<doc docid='bbc_140927_ebola_vice_ministra_pu' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140927_ebola_vice_ministra_pu' term='ebola'>
 Ameaça de ebola faz vice-ministra da Saúde da Libéria se impor quarentena
 A vice-ministra da Saúde da Libéria, Bernice Dahn, se autoimpôs uma quarentena depois que uma pessoa entre seus funcionários morreu em decorrência do vírus ebola.
 A vice-ministra da Saúde da Libéria, Bernice Dahn, se autoimpôs uma quarentena depois que uma pessoa entre seus funcionários morreu em decorrência do vírus ebola.
@@ -12175,7 +12175,7 @@ Segundo o presidente do banco, Jim Yong Kim, uma "reação sem paralelo" é nece
 O presidente americano, Barack Obama, disse que o mundo precisa agir mais rapidamente contra este surto do vírus no leste do continente.
 "Ainda há uma lacuna muito grande entre onde estamos e onde deveríamos estar", disse Obama durante um encontro na ONU.
 </doc>
-<doc id='bbc_141020_britanico_ebola_imunidade_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141020_britanico_ebola_imunidade_pai' term='ebola'>
+<doc docid='bbc_141020_britanico_ebola_imunidade_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141020_britanico_ebola_imunidade_pai' term='ebola'>
 Britânico curado do ebola volta à África e coloca imunidade à prova
 O enfermeiro britânico William Pooley, que contraiu ebola em Serra Leoa durante um período como enfermeiro voluntário e se recuperou, acaba de regressar ao país - um dos epicentros da epidemia no oeste da África - para retomar seu trabalho.
 O enfermeiro britânico William Pooley, que contraiu ebola em Serra Leoa durante um período como enfermeiro voluntário e se recuperou, acaba de regressar ao país - um dos epicentros da epidemia no oeste da África - para retomar seu trabalho.
@@ -12198,7 +12198,7 @@ Mahama disse à BBC que é necessario que diversas agências que atendem as vít
 Ele também destacou que a Nigéria, que foi declarada livre do ebola, é um exemplo para outras nações da região, apresentando lições que devem ser aprendidas pelos países afetados pelo virus.
 Leia mais: Nigéria fez trabalho de 'detetive' para derrotar o ebola
 </doc>
-<doc id='bbc_141028_burkina_faso_estado_emergencia_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141028_burkina_faso_estado_emergencia_rb' term='ebola'>
+<doc docid='bbc_141028_burkina_faso_estado_emergencia_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141028_burkina_faso_estado_emergencia_rb' term='ebola'>
 Presidente de Burkina Faso declara estado de emergência
 O presidente de Burkina Faso, Blaise Compaore, disse que vai permanecer no poder sob um governo de transição, depois de um dia inteiro de muitos protestos pedindo que ele renunciasse.
 O presidente de Burkina Faso, Blaise Compaore, disse que vai permanecer no poder sob um governo de transição, depois de um dia inteiro de muitos protestos pedindo que ele renunciasse.
@@ -12229,7 +12229,7 @@ O presidente assumiu o poder em 1987 e ganhou as quatro eleições que disputou 
 Ele estaria impedido de participar das próximas eleições de acordo com as leis do país.
 Uma emenda constitucional seria votada nesta quinta-feira para acabar com este limite, mas a sessão parlamentar foi suspensa com os protestos.
 </doc>
-<doc id='bbc_141024_ebola_oms_vacinas_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141024_ebola_oms_vacinas_pai' term='ebola'>
+<doc docid='bbc_141024_ebola_oms_vacinas_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141024_ebola_oms_vacinas_pai' term='ebola'>
 Ebola: OMS prevê milhões de doses de vacina até final de 2015
 Milhões de doses de vacinas experimentais de ebola serão produzidas até o final de 2015, anunciou nesta sexta a Organização Mundial da Saúde (OMS).
 Milhões de doses de vacinas experimentais de ebola serão produzidas até o final de 2015, anunciou nesta sexta a Organização Mundial da Saúde (OMS).
@@ -12258,7 +12258,7 @@ O Banco Mundial e a ONG Médicos Sem Fronteiras ajudarão a financiar as pesquis
 "A principal notícia (após o dia de discussões) é que dinheiro não é um problema. Todos estão apoiando, e a questão é estarmos preparados (contra a doença). O método-padrão de controle saúde pública será vitorioso, mas a vacina pode ter um forte impacto na atual epidemia", disse Marta Tufet, da ONG Wellcome Trust, que participou do encontro em Genebra.
 Mas até que se confirme a existência de uma vacina capaz de impedir o avanço do vírus, o tratamento e o isolamento de pacientes continuará sendo a principal estratégia em curso.
 </doc>
-<doc id='bbc_140818_ebola_pacientes_mdb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140818_ebola_pacientes_mdb' term='ebola'>
+<doc docid='bbc_140818_ebola_pacientes_mdb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140818_ebola_pacientes_mdb' term='ebola'>
 Libéria confirma que pacientes com suspeita de ebola 'sumiram'
 O governo da Libéria admitiu que 17 pacientes com suspeita de ebola "desapareceram" após o centro médico em que estavam ser invadido por moradores.
 O governo da Libéria admitiu que 17 pacientes com suspeita de ebola "desapareceram" após o centro médico em que estavam ser invadido por moradores.
@@ -12279,12 +12279,12 @@ Diversas companhias aéreas já cancelaram seus voos para Guiné, Libéria e Ser
 A doença, que não tem cura nem vacina, já matou 1.145 pessoas este ano, segundo a OMS. A epidemia teve início na Guiné em fevereiro e alcançou Libéria, Nigéria e Serra Leoa. Mais de 2.100 casos já foram registrados.
 Os sintomas do ebola incluem febre alta e sangramento; o vírus ataca o sistema nervoso central e a taxa de mortalidade chega a 90%.
 </doc>
-<doc id='bbc_141004_ebola_liberia_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2014/10/141004_ebola_liberia_hb' term='ebola'>
+<doc docid='bbc_141004_ebola_liberia_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2014/10/141004_ebola_liberia_hb' term='ebola'>
 Menino comemora cura do ebola com dança na Libéria
 
 
 </doc>
-<doc id='bbc_140805_ebola_entenda_lgb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140805_ebola_entenda_lgb' term='ebola'>
+<doc docid='bbc_140805_ebola_entenda_lgb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140805_ebola_entenda_lgb' term='ebola'>
 Entenda o que é o ebola e como a doença mortal se espalha
 A epidemia de ebola no oeste da África é a pior de que se tem registro na história. Mais de mil pessoas morreram na região por causa da doença, levando autoridades de saúde da Guiné, Libéria e Serra Leoa a correr contra o tempo para tentar controlar o vírus.
 A epidemia de ebola no oeste da África é a pior de que se tem registro na história. Mais de mil pessoas morreram na região por causa da doença, levando autoridades de saúde da Guiné, Libéria e Serra Leoa a correr contra o tempo para tentar controlar o vírus.
@@ -12325,12 +12325,12 @@ Como os pacientes ficam desidratados rapidamente, a recomendação é beber líq
 Segundo a Médicos Sem Fronteiras, o atual surto é causado pela variedade mais agressiva do ebola, matando entre 50% e 60% das pessoas que infecta.
 Não se sabe que fatores determinam que alguns pacientes se recuperem e outros sucumbam.
 </doc>
-<doc id='bbc_141230_ebola_fd' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/12/141230_ebola_fd' term='ebola'>
+<doc docid='bbc_141230_ebola_fd' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/12/141230_ebola_fd' term='ebola'>
 Grã-Bretanha monta 'operação de guerra' para paciente com ebola
 
 
 </doc>
-<doc id='bbc_141019_ebola_liberia_pu' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141019_ebola_liberia_pu' term='ebola'>
+<doc docid='bbc_141019_ebola_liberia_pu' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141019_ebola_liberia_pu' term='ebola'>
 Em 'carta ao mundo', presidente da Libéria fala em 'geração perdida' para o ebola
 A presidente da Libéria, Ellen Johson Sirleaf, pediu em uma "carta ao mundo" que todos os países unam esforços para erradicar a ameaça à África representada pelo vírus ebola.
 A presidente da Libéria, Ellen Johson Sirleaf, pediu em uma "carta ao mundo" que todos os países unam esforços para erradicar a ameaça à África representada pelo vírus ebola.
@@ -12355,7 +12355,7 @@ Leia mais: Saiba como evitar o contágio por ebola
 Na semana passada, o ex-secretário-geral da ONU, Kofi Annan, disse à BBC que estava "amargamente decepcionado" com a resposta da comunidade internacional ao surto de ebola.
 "Se a crise tivesse atingido outra região (do mundo), provavelmente teria sido combatida de maneira muito diferente", disse Annan.
 </doc>
-<doc id='bbc_140930_ebola_eua_mdb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140930_ebola_eua_mdb' term='ebola'>
+<doc docid='bbc_140930_ebola_eua_mdb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140930_ebola_eua_mdb' term='ebola'>
 Estados Unidos confirmam primeiro caso de ebola diagnosticado no país
 O governo americano afirmou na tarde desta terça-feira que foi confirmado o primeiro caso de ebola diagnosticado nos Estados Unidos.
 O governo americano afirmou na tarde desta terça-feira que foi confirmado o primeiro caso de ebola diagnosticado nos Estados Unidos.
@@ -12366,7 +12366,7 @@ A confirmação do diagnóstico anunciado nesta terça foi feita pelo Centro de 
 Os números indicam que mais 6,5 mil pessoas podem estar infectadas nos três países mais afetados da região: Libéria, Guiné e Serra Leoa.
 O surto é considerado uma "ameaça à segurança global" pela ONU. Alguns estudos avaliam que o vírus pode contagiar mais de 20 mil pessoas até novembro.
 </doc>
-<doc id='bbc_141020_maislidas' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141020_maislidas' term='ebola'>
+<doc docid='bbc_141020_maislidas' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141020_maislidas' term='ebola'>
 Mais lidas do dia (19 de outubro)
 As notícias mais populares deste domingo.
 As notícias mais populares deste domingo.
@@ -12376,7 +12376,7 @@ Equilíbrio inédito entre candidatos transforma Rio em campo de batalha. Dilma 
 Aliados de Dilma e Aécio divergem sobre Mercosul e comércio exterior. Em evento no Rio, Marco Aurélio Garcia e Rubens Barbosa trocam acusações.
 Onde os ricos passam as férias (e quanto eles pagam por elas). Especialistas em turismo de luxo revelam alguns dos lugares favoritos dos milionários.
 </doc>
-<doc id='bbc_140812_liberia_ebola_oms_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140812_liberia_ebola_oms_hb' term='ebola'>
+<doc docid='bbc_140812_liberia_ebola_oms_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140812_liberia_ebola_oms_hb' term='ebola'>
 Pacientes com ebola na Libéria receberão remédio experimental
 A Libéria receberá um medicamento experimental ainda não testado para tratar pessoas infectadas com o vírus ebola, disse o governo local.
 A Libéria receberá um medicamento experimental ainda não testado para tratar pessoas infectadas com o vírus ebola, disse o governo local.
@@ -12404,7 +12404,7 @@ A Nigéria, o país mais populoso da África, confirmou o décimo caso de Ebola 
 Não há cura para o ebola, mas os pacientes têm maiores chances de sobrevivência se receberem tratamento cedo.
 Os sintomas iniciais são semelhantes ao de uma gripe, mas a doença pode levar a hemorragias nos olhos e gengivas, e hemorragia interna que pode levar à falência de órgãos.
 </doc>
-<doc id='bbc_150202_teste_vacina_ebola_liberia_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/02/150202_teste_vacina_ebola_liberia_rb' term='ebola'>
+<doc docid='bbc_150202_teste_vacina_ebola_liberia_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/02/150202_teste_vacina_ebola_liberia_rb' term='ebola'>
 Nova vacina contra ebola será testada em 30 mil voluntários na Libéria
 Autoridades de saúde na Libéria estão começando a testar uma nova vacina contra o vírus ebola em um grupo de 30 mil voluntários.
 Autoridades de saúde na Libéria estão começando a testar uma nova vacina contra o vírus ebola em um grupo de 30 mil voluntários.
@@ -12425,7 +12425,7 @@ Outro grupo receberá placebo, e um terceiro receberá uma vacina-controle para 
 Os cientistas verificarão como o sistema imunológico dos pacientes reage à droga para avaliar se ela realmente os protege contra o ebola.
 A ampliação da vacinação e testes para outros países afetados pelo surto, como Serra Leoa e Guiné, dependerá dos resultados obtidos na Libéria e da aprovação por autoridades em saúde destes países e da Organização Mundial da Saúde (OMS).
 </doc>
-<doc id='bbc_141119_hospital_bono_vox_lgb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/11/141119_hospital_bono_vox_lgb' term='ebola'>
+<doc docid='bbc_141119_hospital_bono_vox_lgb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/11/141119_hospital_bono_vox_lgb' term='ebola'>
 Bono sofreu nove fraturas em acidente de bicicleta
 O hospital onde Bono, vocalista do grupo U2, está internado revelou nesta quarta-feira detalhes sobre o resultado do acidente de bicicleta envolvendo o cantor no último domingo (16).
 O hospital onde Bono, vocalista do grupo U2, está internado revelou nesta quarta-feira detalhes sobre o resultado do acidente de bicicleta envolvendo o cantor no último domingo (16).
@@ -12440,7 +12440,7 @@ O acidente com Bono fez com que o U2 adiasse uma participação especial no prog
 Bono viajou aos Estados Unidos depois de participar da gravação do single filantrópico Band Aid 30 em Londres, no Reino Unido, no último sábado (15).
 A nova versão do Do They Know It’s Christmas?, gravada 30 anos depois da original, foi lançada para levantar dinheiro para a luta contra a epidemia de ebola na África Ocidental.
 </doc>
-<doc id='bbc_141010_relato_paciente_suspeita_ebola_mdb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141010_relato_paciente_suspeita_ebola_mdb' term='ebola'>
+<doc docid='bbc_141010_relato_paciente_suspeita_ebola_mdb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141010_relato_paciente_suspeita_ebola_mdb' term='ebola'>
 Mulher que esteve com suspeito de ebola diz que ficou em 'pânico'
 A autônoma Bruna Rezende, de 24 anos, ficou em pânico com a suspeita de ebola no Paraná. Na manhã de quinta-feira, ela esteve na mesma Unidade de Pronto Atendimento (UPA) de Cascavel onde foi atendido um paciente com suspeita de ter contraído o vírus.
 A autônoma Bruna Rezende, de 24 anos, ficou em pânico com a suspeita de ebola no Paraná. Na manhã de quinta-feira, ela esteve na mesma Unidade de Pronto Atendimento (UPA) de Cascavel onde foi atendido um paciente com suspeita de ter contraído o vírus.
@@ -12461,7 +12461,7 @@ Ela conta que a princípio achou que os dois eram do Haiti, já que Cascavel abr
 O marido de Bruna, Lucas Dias Rezende, que levou a mulher e os sogros à UPA, disse que ele e sua família estavam muito preocupados, porque não sabiam o que fazer quando souberam da suspeita. "Quando vi na TV a notícia, fiquei em pânico. A gente costuma tomar banho depois de passar no hospital, mas não sabia o que fazer com as nossas roupas, por exemplo."
 * Colaborou Luiza Bandeira, da BBC Brasil em Londres
 </doc>
-<doc id='bbc_141020_ebola_carne_fd' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141020_ebola_carne_fd' term='ebola'>
+<doc docid='bbc_141020_ebola_carne_fd' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141020_ebola_carne_fd' term='ebola'>
 Consumo de carne de morcego pode ter ajudado a deflagrar ebola
 O início da atual epidemia de ebola e das mortes mais de 4 mil pessoas por causa da doença pode ter se dado em uma vila na Guiné, no leste da África, quando uma criança que comeu morcegos.
 O início da atual epidemia de ebola e das mortes mais de 4 mil pessoas por causa da doença pode ter se dado em uma vila na Guiné, no leste da África, quando uma criança que comeu morcegos.
@@ -12492,7 +12492,7 @@ O jornal americano Washington Post questionou a prática abertamente, ao passo q
 Ainda assim, os especialistas, alertam para os riscos do contato com o animal e acreditam que novos casos são apenas uma questão de tempo.
 "É inevitável que veremos novos casos de ebola ou outras doenças transmissíveis por morcegos por causa das doenças que estes animais abrigam. Os riscos podem ser baixos, mas as consequências seriam graves", explica Rowcliffe.
 </doc>
-<doc id='bbc_150121_eua_visita_cuba_ts_cc' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/01/150121_eua_visita_cuba_ts_cc' term='ebola'>
+<doc docid='bbc_150121_eua_visita_cuba_ts_cc' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/01/150121_eua_visita_cuba_ts_cc' term='ebola'>
 O que os EUA esperam de visita a Cuba?
 A delegação dos Estados Unidos que chegou nesta quarta-feira a Cuba - a visita de mais alto nível em 35 anos - vem com uma clara lista de solicitações, mas o sucesso de sua missão também está rodeado de uma dose considerável de ceticismo.
 A delegação dos Estados Unidos que chegou nesta quarta-feira a Cuba - a visita de mais alto nível em 35 anos - vem com uma clara lista de solicitações, mas o sucesso de sua missão também está rodeado de uma dose considerável de ceticismo.
@@ -12528,12 +12528,12 @@ Marczak diz que é importante entender esta viagem como um primeiro passo. "Esta
 "Não se pode eliminar meio século de desconfiança em um mês", afirmou.
 Na quinta-feira, é possível que os temas da discussão entre as duas delegações seja finalmente conhecido. Espera-se que Roberta Jacobson fale à imprensa em Havana.
 </doc>
-<doc id='bbc_140825_britanico_ebola_cc' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140825_britanico_ebola_cc' term='ebola'>
+<doc docid='bbc_140825_britanico_ebola_cc' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140825_britanico_ebola_cc' term='ebola'>
 Operação militar delicada leva infectado por ebola a Londres
 
 
 </doc>
-<doc id='bbc_141010_ebola_comonaopegar_pu' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141010_ebola_comonaopegar_pu' term='ebola'>
+<doc docid='bbc_141010_ebola_comonaopegar_pu' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141010_ebola_comonaopegar_pu' term='ebola'>
 Saiba como evitar o contágio por ebola
 Com mais casos de ebola sendo registrados fora do epicentro do atual surto, o risco de contágio tem aumentado.
 Com mais casos de ebola sendo registrados fora do epicentro do atual surto, o risco de contágio tem aumentado.
@@ -12562,7 +12562,7 @@ Em tese, quem se recupera de uma infecção por ebola não tem mais a capacidade
 No entanto, o vírus já foi encontrado no sêmen de um paciente três meses depois de ele ter sido declarado curado.
 Por esta razão, médicos dizem que os pacientes que se recuperarem do contágio devem evitar as relações sexuais durante três meses ou usar preservativos.
 </doc>
-<doc id='bbc_140923_liberia_desmatamento_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140923_liberia_desmatamento_rb' term='ebola'>
+<doc docid='bbc_140923_liberia_desmatamento_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140923_liberia_desmatamento_rb' term='ebola'>
 Por ajuda de US$ 150 milhões, Libéria tentará zerar desmatamento até 2020
 A Libéria pode se tornar a primeira nação africana a zerar o desmatamento em troca de uma ajuda para estimular o desenvolvimento nacional.
 A Libéria pode se tornar a primeira nação africana a zerar o desmatamento em troca de uma ajuda para estimular o desenvolvimento nacional.
@@ -12586,7 +12586,7 @@ Com o grande impacto econômico da atual epidemia de ebola, o acordo vem em boa 
 No entanto, ambientalistas reconhecem que, com a ampla corrupção e a dificuldade do governo em impor sua autoridade, zerar o desmatamento não será uma tarefa fácil.
 "Isso pode dar errado, mas a Noruega e a Libéria terão que garantir que o acordo não seja afetado pela corrupção", disse Patrick Alley, diretor da ONG Global Witness. "Estou cautelosamente confiante que podemos chegar lá."
 </doc>
-<doc id='bbc_141002_liberia_eua_ebola_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141002_liberia_eua_ebola_pai' term='ebola'>
+<doc docid='bbc_141002_liberia_eua_ebola_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141002_liberia_eua_ebola_pai' term='ebola'>
 Libéria quer processar homem com ebola nos EUA 'por mentir'
 Autoridades da Libéria afirmaram nesta quinta-feira que vão processar judicialmente o homem diagnosticado com ebola nos Estados Unidos, acusando-o de ter mentido em relação ao contato que ele teve com um parente infectado pela doença.
 Autoridades da Libéria afirmaram nesta quinta-feira que vão processar judicialmente o homem diagnosticado com ebola nos Estados Unidos, acusando-o de ter mentido em relação ao contato que ele teve com um parente infectado pela doença.
@@ -12601,7 +12601,7 @@ Kesselly declarou à BBC que Duncan respondeu "não" a todas as perguntas do que
 O vice-ministro de Informação, Isaac Jackson, confirmou que Duncan será processado por "ter mentido sob juramento a respeito de seu status (relacionado ao) ebola".
 O Ministério da Saúde liberiano afirmou estar investigando os passos de Duncan antes de ele ter embarcado aos EUA.
 </doc>
-<doc id='bbc_140815_oms_ebola_subestimado_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140815_oms_ebola_subestimado_fn' term='ebola'>
+<doc docid='bbc_140815_oms_ebola_subestimado_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140815_oms_ebola_subestimado_fn' term='ebola'>
 Epidemia de ebola só será controlada em seis meses, prevê ONG
 A presidente da organização não-governamental Médicos Sem Fronteiras disse nesta sexta-feira que vai demorar cerca de seis meses para que a epidemia de ebola – já matou mais de mil pessoas - seja controlada no oeste da África.
 A presidente da organização não-governamental Médicos Sem Fronteiras disse nesta sexta-feira que vai demorar cerca de seis meses para que a epidemia de ebola – já matou mais de mil pessoas - seja controlada no oeste da África.
@@ -12624,7 +12624,7 @@ A doença é transmitida pelo contato direto com fluidos corporais de uma pessoa
 Não há cura para o ebola, mas os pacientes têm maiores chances de sobrevivência se receberem tratamento cedo.
 Os sintomas iniciais são semelhantes ao de uma gripe, mas a doença pode levar a hemorragias nos olhos e gengivas, e hemorragia interna que pode levar à falência de órgãos.
 </doc>
-<doc id='bbc_141014_ebola_foz_lk' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141014_ebola_foz_lk' term='ebola'>
+<doc docid='bbc_141014_ebola_foz_lk' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141014_ebola_foz_lk' term='ebola'>
 Governo do Paraná descarta suspeita de ebola em Foz do Iguaçu
 A Secretaria de Saúde do Paraná descartou que um paciente atendido em uma unidade de saúde de Foz do Iguaçu (oeste do Estado) na manhã desta quinta-feira esteja contaminado com o vírus ebola.
 A Secretaria de Saúde do Paraná descartou que um paciente atendido em uma unidade de saúde de Foz do Iguaçu (oeste do Estado) na manhã desta quinta-feira esteja contaminado com o vírus ebola.
@@ -12646,7 +12646,7 @@ No oeste da África, a epidemia da doença já matou mais de 4 mil pessoas e est
 Recentemente, duas pessoas que trataram pessoas contaminadas com o ebola na África também pegaram a doença nos Estados Unidos e na Espanha, elevando o temor de que a epidemia possa se espalhar para outros continentes.
 Leia mais - Ebola: EUA procuram 132 que pegaram avião com enfermeira
 </doc>
-<doc id='bbc_140821_ebola_irlanda_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140821_ebola_irlanda_pai' term='ebola'>
+<doc docid='bbc_140821_ebola_irlanda_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140821_ebola_irlanda_pai' term='ebola'>
 Irlanda testa possível caso de ebola no país
 A Irlanda está investigando um possível caso de ebola no país, de um homem morto cujo corpo chegou recentemente de Serra Leoa, no oeste da África - onde há uma epidemia do vírus.
 A Irlanda está investigando um possível caso de ebola no país, de um homem morto cujo corpo chegou recentemente de Serra Leoa, no oeste da África - onde há uma epidemia do vírus.
@@ -12662,7 +12662,7 @@ Bruce Ribner, infectologista que tratou Brantly, disse que, após testes rigoros
 O marido de Nancy, a outra paciente, disse em comunicado que ela está livre do vírus, mas bastante fragilizada pela doença.
 A epidemia de ebola já matou mais de 1,3 mil pessoas no oeste africano, com uma taxa de mortalidade entre 50% e 60%.
 </doc>
-<doc id='bbc_140826_ebola_brasileiros_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140826_ebola_brasileiros_pai' term='ebola'>
+<doc docid='bbc_140826_ebola_brasileiros_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140826_ebola_brasileiros_pai' term='ebola'>
 Ebola: Brasileiros relatam medo de contaminação e mortes na Libéria
 Medo de contaminação, morte de pessoas próximas e o fim de apertos de mãos e abraços. A epidemia do ebola afeta profundamente a vida e os hábitos de dois brasileiros vivendo na Libéria, país do oeste da África e um dos polos do atual surto.
 Medo de contaminação, morte de pessoas próximas e o fim de apertos de mãos e abraços. A epidemia do ebola afeta profundamente a vida e os hábitos de dois brasileiros vivendo na Libéria, país do oeste da África e um dos polos do atual surto.
@@ -12686,17 +12686,17 @@ Os sintomas da doença, que causa danos ao sistema nervoso central, incluem febr
 A OMS alertou, nesta semana, que a epidemia contaminou também um "número sem precedentes" de médicos e enfermeiras em áreas de risco do oeste africano, por conta da ausência de equipamentos de proteção e de equipes insuficientes para lidar com o surto.
 "O ebola tirou a vida de proeminentes médicos na Serra Leoa e na Libéria", diz a OMS em comunicado.
 </doc>
-<doc id='bbc_150306_aprenda_mares' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2015/03/150306_aprenda_mares' term='ebola'>
+<doc docid='bbc_150306_aprenda_mares' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2015/03/150306_aprenda_mares' term='ebola'>
 O poder das marés
 
 
 </doc>
-<doc id='bbc_aprenda-ingles-38470632' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/aprenda-ingles-38470632' term='ebola'>
+<doc docid='bbc_aprenda-ingles-38470632' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/aprenda-ingles-38470632' term='ebola'>
 Vacina contra ebola se mostra '100 eficaz' em teste na Guiné
 
 
 </doc>
-<doc id='bbc_geral-46469938' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-46469938' term='ebola'>
+<doc docid='bbc_geral-46469938' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-46469938' term='ebola'>
 A epidemia de peste que quase dizimou a humanidade 5 mil anos atrás
 A peste bubônica - também conhecida como peste negra - é famosa por ter causado epidemias devastadoras que acometeram a humanidade. Em 1347, por exemplo, estima-se que a doença tenha matado cerca de um terço da população europeia.
 A peste bubônica - também conhecida como peste negra - é famosa por ter causado epidemias devastadoras que acometeram a humanidade. Em 1347, por exemplo, estima-se que a doença tenha matado cerca de um terço da população europeia.
@@ -12726,7 +12726,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_141009_ebola_desafio_aids_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141009_ebola_desafio_aids_fn' term='ebola'>
+<doc docid='bbc_141009_ebola_desafio_aids_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141009_ebola_desafio_aids_fn' term='ebola'>
 Ebola 'é maior desafio de saúde pública desde surgimento da Aids'
 A epidemia de ebola na África Ocidental pode ser comparada com o surgimento da Aids em termos do desafio que impõe aos gestores de saúde pública, segundo Thomas Frieden, diretor do Centros para o Controle e a Prevenção de Doenças (CDC, na sigla em inglês), ligado ao Departamento de Saúde dos EUA.
 A epidemia de ebola na África Ocidental pode ser comparada com o surgimento da Aids em termos do desafio que impõe aos gestores de saúde pública, segundo Thomas Frieden, diretor do Centros para o Controle e a Prevenção de Doenças (CDC, na sigla em inglês), ligado ao Departamento de Saúde dos EUA.
@@ -12753,7 +12753,7 @@ Os passageiros que chegarem a Londres pelos aeroportos de Heathrow e Gatwick, al
 Também nesta quinta-feira uma enfermeira foi colocada em quarentena em um hospital da cidade de Cairns, no norte da Austrália.
 As autoridades de saúde do local temem que ela tenha contraído ebola dos pacientes que estava tratando enquanto trabalhou em Serra Leoa.
 </doc>
-<doc id='bbc_141023_vert_fut_smartphone_ebola_dg' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141023_vert_fut_smartphone_ebola_dg' term='ebola'>
+<doc docid='bbc_141023_vert_fut_smartphone_ebola_dg' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141023_vert_fut_smartphone_ebola_dg' term='ebola'>
 App para ebola pode facilitar 'revolução' de smartphones na medicina
 Na medida em que os temores de disseminação do vírus do ebola aumentam, um professor de genômica diz que muito tempo está perdido por não se procurar a solução no lugar mais óbvio: no próprio bolso da roupa. Mais especificamente no smartphone.
 Na medida em que os temores de disseminação do vírus do ebola aumentam, um professor de genômica diz que muito tempo está perdido por não se procurar a solução no lugar mais óbvio: no próprio bolso da roupa. Mais especificamente no smartphone.
@@ -12790,12 +12790,12 @@ versão original desta reportagem em inglês no site
 
 BBC Future.
 </doc>
-<doc id='bbc_geral-48374522' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-48374522' term='ebola'>
+<doc docid='bbc_geral-48374522' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-48374522' term='ebola'>
 O drama da prostituição em um país devastado pelo ebola
 Em Serra Leoa, houve um aumento no número de mulheres se prostituindo por causa do surto de ebola.
 
 </doc>
-<doc id='bbc_141019_ebola_negativo_pu' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141019_ebola_negativo_pu' term='ebola'>
+<doc docid='bbc_141019_ebola_negativo_pu' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141019_ebola_negativo_pu' term='ebola'>
 Enfermeira espanhola que contraiu ebola 'está sem o vírus'
 A auxiliar de enfermagem espanhola que havia contraído ebola, Teresa Romero, está com "carga viral zero", segundo o resultado de um primeiro exame divulgado neste domingo pela família da paciente.
 A auxiliar de enfermagem espanhola que havia contraído ebola, Teresa Romero, está com "carga viral zero", segundo o resultado de um primeiro exame divulgado neste domingo pela família da paciente.
@@ -12809,7 +12809,7 @@ Ela pegou o vírus depois de ajudar a tratar um missionário espanhol que morreu
 De lá para cá, dois casos semalhantes foram registrados nos EUA, com profissionais que ajudaram a tratar um liberiano que morreu no Texas.
 Leia mais: Ebola: EUA procuram 132 que pegaram avião com enfermeira
 </doc>
-<doc id='bbc_141014_ebola_copa_africana_rm' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141014_ebola_copa_africana_rm' term='ebola'>
+<doc docid='bbc_141014_ebola_copa_africana_rm' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141014_ebola_copa_africana_rm' term='ebola'>
 Ebola faz federação buscar sede alternativa para Copa Africana
 A Confederação Africana de Futebol (CAF) contatou Gana e África do Sul em consultas para encontrar uma nova sede para a Copa Africana de Nações - campeonato entre as seleções africanas realizado de dois em dois anos -, marcada para começar no dia 17 de janeiro.
 A Confederação Africana de Futebol (CAF) contatou Gana e África do Sul em consultas para encontrar uma nova sede para a Copa Africana de Nações - campeonato entre as seleções africanas realizado de dois em dois anos -, marcada para começar no dia 17 de janeiro.
@@ -12830,7 +12830,7 @@ Ouzzine acredita que a situação é crítica e exige que seja tomada uma decis�
 "Vamos discutir essas coisas quando nos encontrarmos com a CAF. Mas eu imploro a vocês, qual é a relevância dessas perdas financeiras quando comparadas com vidas perdidas? Um ser humano não tem preço", finalizou.
 A epidemia do ebola atinge principalmente o oeste do continente africano - em particular Serra Leoa, Libéria e Guiné, mas também foram detectados casos em Nigéria e Senegal - e já matou pelo menos 4,5 mil pessoas.
 </doc>
-<doc id='bbc_160130_floresta_zika_mdb' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2016/01/160130_floresta_zika_mdb' term='ebola'>
+<doc docid='bbc_160130_floresta_zika_mdb' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2016/01/160130_floresta_zika_mdb' term='ebola'>
 Na floresta de Zika, cientistas temem transmissão para humanos
 A floresta Zika não é tão conhecida em Uganda. Na verdade, a maioria das pessoas nem sequer sabe exatamente onde ela fica.
 A floresta Zika não é tão conhecida em Uganda. Na verdade, a maioria das pessoas nem sequer sabe exatamente onde ela fica.
@@ -12851,7 +12851,7 @@ Aliás, para um dos diretores do laboratório, John Kayuma, isso pode estar atre
 “Há uma possibilidade de termos muitos mais casos país afora.”
 Em alguns meses, o governo vai começar um estudo para pesquisar o alcance do zika e de outros flavivírus como dengue e febre amarela.
 </doc>
-<doc id='bbc_geral-40973283' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/geral-40973283' term='ebola'>
+<doc docid='bbc_geral-40973283' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/geral-40973283' term='ebola'>
 Como cientistas 'enganaram' plantas para fabricar vacina contra a pólio
 Uma pesquisa em que plantas foram "enganadas" para a produção da vacina da poliomielite (paralisia infantil) pode transformar a forma de fabricação de imunizantes, dizem cientistas do Centro John Innes, na Inglaterra. Segundo a equipe, o processo é barato, fácil e rápido.
 Uma pesquisa em que plantas foram "enganadas" para a produção da vacina da poliomielite (paralisia infantil) pode transformar a forma de fabricação de imunizantes, dizem cientistas do Centro John Innes, na Inglaterra. Segundo a equipe, o processo é barato, fácil e rápido.
@@ -12880,7 +12880,7 @@ Mas ainda há questões a resolver, como a de fabricar a vacina em larga escala.
 "Entretanto, há poucos produtores de vacina com base em plantas e quase não há licenças de vacinas humanas que estão hoje sendo produzidas em plantas", lembrou o professor de desenvolvimento de vacina da University College London, Tarit Mukhopadhyay.
 Já o professor de biotecnologia na Universidade do Sul de Gales, Denis Murphy, disse: "Essa é uma conquista importante. O desafio é agora optimizar o sistema de expressão da planta e seguir para testes clínicos (em humanos) da nova vacina".
 </doc>
-<doc id='bbc_140927_ebola_3_mil' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140927_ebola_3_mil' term='ebola'>
+<doc docid='bbc_140927_ebola_3_mil' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140927_ebola_3_mil' term='ebola'>
 Mortos por ebola passam de 3 mil, diz OMS
 As mortes pelo vírus ebola na África ocidental já chegaram a 3.083, segundo as últimas estatísticas da Organização Mundial da Saúde (OMS).
 As mortes pelo vírus ebola na África ocidental já chegaram a 3.083, segundo as últimas estatísticas da Organização Mundial da Saúde (OMS).
@@ -12901,7 +12901,7 @@ Segundo o presidente do banco, Jim Yong Kim, uma "reação sem paralelo" é nece
 O presidente americano, Barack Obama, disse que o mundo precisa agir mais rapidamente contra este surto do vírus no leste do continente.
 "Ainda há uma lacuna muito grande entre onde estamos e onde deveríamos estar", disse Obama durante um encontro na ONU.
 </doc>
-<doc id='bbc_150204_ebola_novos_casos_lgb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/02/150204_ebola_novos_casos_lgb' term='ebola'>
+<doc docid='bbc_150204_ebola_novos_casos_lgb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/02/150204_ebola_novos_casos_lgb' term='ebola'>
 Número de novos casos de ebola sobe pela 1ª vez em 2015
 O número de novos casos de ebola aumentou pela primeira vez desde o início do ano em todos os países da África Ocidental mais fortemente afetados pelo surto do vírus, informou nesta quarta-feira a OMS (Organização Mundial da Saúde).
 O número de novos casos de ebola aumentou pela primeira vez desde o início do ano em todos os países da África Ocidental mais fortemente afetados pelo surto do vírus, informou nesta quarta-feira a OMS (Organização Mundial da Saúde).
@@ -12917,7 +12917,7 @@ De acordo com a OMS, 11 novos casos da doença teriam sido registrados por causa
 Em meio ao pior surto de ebola da história, os funerais tornaram-se um dos principais focos de contágio da doença, especialmente no momento em que amigos ou familiares tocam os corpos dos mortos.
 A OMS enfatizou a necessidade de se aumentar os esforços no combate ao ebola antes do início do período de chuvas, entre abril e maio, quando as fortes tempestades podem bloquear estradas e dificultaram a locomoção de agentes de saúde.
 </doc>
-<doc id='bbc_141010_ebola_entenda_atualiza' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141010_ebola_entenda_atualiza' term='ebola'>
+<doc docid='bbc_141010_ebola_entenda_atualiza' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141010_ebola_entenda_atualiza' term='ebola'>
 Entenda o que é o ebola e como ocorre o contágio
 A epidemia de ebola na África Ocidental já matou quase 4 mil pessoas e é a maior desde a descoberta do vírus há cerca de 40 anos.
 A epidemia de ebola na África Ocidental já matou quase 4 mil pessoas e é a maior desde a descoberta do vírus há cerca de 40 anos.
@@ -12951,7 +12951,7 @@ Populações em áreas rurais estão sendo aconselhadas pela OMS a não consumir
 Em março, o Ministério da Saúde da Libéria aconselhou as pessoas a evitar sexo; o vírus pode ser transmitido pelo sêmen, mesmo até sete semanas depois da eventual recuperação de um paciente, observa a OMS. As recomendações já eram de evitar apertos de mão e beijos.
 O vírus ainda é perigoso e presente no corpo depois da morte, por isso já há pedidos para funerais mais seguros.
 </doc>
-<doc id='bbc_141010_ebola_suspeito_estavel_rm' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141010_ebola_suspeito_estavel_rm' term='ebola'>
+<doc docid='bbc_141010_ebola_suspeito_estavel_rm' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141010_ebola_suspeito_estavel_rm' term='ebola'>
 Suspeito de ebola está sem febre e estável; Brasil amplia ajuda à África
 O ministro da Saúde, Arthur Chioro, reafirmou na tarde desta sexta-feira que o paciente identificado com suspeita de ebola no Paraná segue sem febre ou queixas de outros sintomas e tem quadro estável. O homem, de 47 anos, que veio da Guiné para Cascavel, continua isolado e aguarda o resultado dos exames para saber se foi infectado pelo vírus do ebola.
 O ministro da Saúde, Arthur Chioro, reafirmou na tarde desta sexta-feira que o paciente identificado com suspeita de ebola no Paraná segue sem febre ou queixas de outros sintomas e tem quadro estável. O homem, de 47 anos, que veio da Guiné para Cascavel, continua isolado e aguarda o resultado dos exames para saber se foi infectado pelo vírus do ebola.
@@ -12979,7 +12979,7 @@ Durante a reunião, o vice-diretor da Organização Mundial de Saúde (OMC), Bru
 Segundo Alyward, os chefes de Estado enfrentam um desafio extraordinário pois precisam comunicar à população a urgência da situação, mas não podem causar pânico.
 Colaboraram Luís Barrucho, Mariana Della Barba e Renata Mendonça em São Paulo
 </doc>
-<doc id='bbc_141007_ebola_enfermeira_espanha_roupa_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141007_ebola_enfermeira_espanha_roupa_rb' term='ebola'>
+<doc docid='bbc_141007_ebola_enfermeira_espanha_roupa_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141007_ebola_enfermeira_espanha_roupa_rb' term='ebola'>
 Enfermeira contraiu ebola na Espanha 'apesar de roupa protetora'
 A enfermeira espanhola que contraiu ebola foi contagiada mesmo usando uma roupa protetora.
 A enfermeira espanhola que contraiu ebola foi contagiada mesmo usando uma roupa protetora.
@@ -13007,7 +13007,7 @@ Também nesta terça-feira, o Fundo Monetário Internacional alertou para as pos
 Segundo a instituição, as perspectivas positivas de crescimento econômico para a região já foram afetadas pelo ebola e isso tende a piorar ainda mais se o vírus continuar a se espalhar.
 Em um relatório, o Banco Mundial já havia avaliado em dezenas de bilhões de dólares o impacto negativo para a economia dos três países mais afetados, Guiné, Libéria e Serra Leoa.
 </doc>
-<doc id='bbc_141011_ebola_checagens_ny_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141011_ebola_checagens_ny_fn' term='ebola'>
+<doc docid='bbc_141011_ebola_checagens_ny_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141011_ebola_checagens_ny_fn' term='ebola'>
 Aeroporto de NY inicia checagens extra para detectar ebola
 O aeroporto JFK de Nova York, nos Estados Unidos, iniciou neste sábado um novo sistema de checagens para tentar detectar casos suspeitos de ebola.
 O aeroporto JFK de Nova York, nos Estados Unidos, iniciou neste sábado um novo sistema de checagens para tentar detectar casos suspeitos de ebola.
@@ -13030,7 +13030,7 @@ Martin Cetron, diretor da Divisão de Migração Global e Quarentena para o Cent
 Mas, ele alertou que "não conseguimos baixar o risco para zero" e estas últimas checagens "poderiam não ter flagrado o caso do Texas".
 Cetron se refere ao fato de Thomas Duncan só ter apresentado os sintomas do ebola uma semana depois de ter entrado nos Estados Unidos.
 </doc>
-<doc id='bbc_141023_ebola_seis_surpresas_fd' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141023_ebola_seis_surpresas_fd' term='ebola'>
+<doc docid='bbc_141023_ebola_seis_surpresas_fd' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141023_ebola_seis_surpresas_fd' term='ebola'>
 Seis números surpreendentes sobre ebola
 A crise do ebola, doença que matou mais de 4.500 pessoas, causa grande preocupação na África Ocidental, onde surgiu o novo surto - e por onde o vírus tem se espalhado com maior intensidade.
 A crise do ebola, doença que matou mais de 4.500 pessoas, causa grande preocupação na África Ocidental, onde surgiu o novo surto - e por onde o vírus tem se espalhado com maior intensidade.
@@ -13058,7 +13058,7 @@ As equipes médicas enviadas para os países afetados pelo vírus precisam de te
 Fonte: OCHA
 O ebola permanecer no sêmen durante longos períodos e especialistas recomendam que homens clinicamente curados de infecções se abstenham de sexo por pelo menos 90 dias - ou usem camisinha.
 </doc>
-<doc id='bbc_140906_ebola_limite_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140906_ebola_limite_lab' term='ebola'>
+<doc docid='bbc_140906_ebola_limite_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140906_ebola_limite_lab' term='ebola'>
 Confinamento contra ebola em Serra Leoa gera preocupação sobre direitos humanos
 O governo de Serra Leoa, um dos países mais afetados pela epidemia de ebola, anunciou que vai confinar sua população por três dias para tentar conter o vírus - o que levantou preocupação sobre uma potencial violação de direitos humanos na região.
 O governo de Serra Leoa, um dos países mais afetados pela epidemia de ebola, anunciou que vai confinar sua população por três dias para tentar conter o vírus - o que levantou preocupação sobre uma potencial violação de direitos humanos na região.
@@ -13076,7 +13076,7 @@ Mais de 20 profissionais de saúde morreram de ebola em Serra Leoa desde o iníc
 A doença infesta humanos pelo contato próximo com animais infectados como chimpanzés, morcegos de frutas e antílopes.
 Ela se espalha entre humanos pelo contato direto com sangue, fluidos corporais ou órgãos infectados, e indiretamente por contato com ambientes contaminados.
 </doc>
-<doc id='bbc_141020_nigeria_vence_ebola_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141020_nigeria_vence_ebola_fn' term='ebola'>
+<doc docid='bbc_141020_nigeria_vence_ebola_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141020_nigeria_vence_ebola_fn' term='ebola'>
 Nigéria fez trabalho de 'detetive' para derrotar ebola
 A Organização Mundial da Saúde (OMS) declarou a Nigéria oficialmente livre do ebola nesta segunda-feira, depois de seis semanas sem registro de novos casos no país.
 A Organização Mundial da Saúde (OMS) declarou a Nigéria oficialmente livre do ebola nesta segunda-feira, depois de seis semanas sem registro de novos casos no país.
@@ -13109,7 +13109,7 @@ A Nigéria entretanto, completou os 42 dias necessários sem registros de novos 
 A OMS acredita, entretanto, que até 15 países africanos correm o risco de ser atingidos pela epidemia.
 E uma nova preocupação está surgindo entre especialistas: de que a escala da epidemia agora seja tão grande - e ela esteja tão espalhada -, que seria impossível seguir o exemplo da Nigéria, de rastrear literalmente casa caso ou suspeita. Isso significa que a doença pode permanecer "escondida", sem registros, talvez até durante as próximas décadas.
 </doc>
-<doc id='bbc_150129_ebola_mutacao_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/01/150129_ebola_mutacao_lab' term='ebola'>
+<doc docid='bbc_150129_ebola_mutacao_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/01/150129_ebola_mutacao_lab' term='ebola'>
 Vírus do ebola pode ter ficado mais contagioso, advertem cientistas
 Cientistas que acompanham a evolução do surto de ebola na Guiné dizem que o vírus sofreu uma mutação e pode ter se tornado mais contagioso.
 Cientistas que acompanham a evolução do surto de ebola na Guiné dizem que o vírus sofreu uma mutação e pode ter se tornado mais contagioso.
@@ -13136,7 +13136,7 @@ Leia mais: Ebola: vacinas experimentais são enviadas à Libéria
 Se os testes derem certo, a nova vacina protegeria contra sarampo e ebola. "Vimos agora que essa ameaça pode se estender em escala global. Aprendemos que este vírus não é um problema da África, é um problema para todos", disse o imunologista do Instituto Pasteur James Di Santo.
 "Este surto particular pode minguar e ir embora, mas nós vamos ter outro surto em algum momento, porque os lugares onde o vírus se esconde na natureza - por exemplo, em animais de pequeno porte - ainda são uma ameaça para os seres humanos no futuro. A melhor resposta que podemos ter é uma vacina para todo o mundo."
 </doc>
-<doc id='bbc_150519_planta_diamante_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/05/150519_planta_diamante_lab' term='ebola'>
+<doc docid='bbc_150519_planta_diamante_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/05/150519_planta_diamante_lab' term='ebola'>
 Conheça a planta que cresce onde há diamantes
 Ela é cheia de espinhos, parece uma palmeira e pode chegar a 10 metros de altura.
 Ela é cheia de espinhos, parece uma palmeira e pode chegar a 10 metros de altura.
@@ -13162,7 +13162,7 @@ Mas Haggerty teme que muitos comecem a procurar diamantes desenfreadamente se en
 "Sou ambientalista e esta é uma planta exótica, por isso me preocupa que [a descoberta] possa ter um impacto negativo no sentido de que se comece a escavar sem ter em mente todos os elementos que devem estar presentes."
 "Se você encontrar a planta, não vai encontrar necessariamente diamantes. Tem que estar em um país onde eles existam."
 </doc>
-<doc id='bbc_141011_ebola_vistos_guine' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141011_ebola_vistos_guine' term='ebola'>
+<doc docid='bbc_141011_ebola_vistos_guine' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141011_ebola_vistos_guine' term='ebola'>
 Ebola: embaixada na Guiné concede cerca de 40 vistos por mês para o Brasil
 (Nota da redação: A BBC Brasil errou ao publicar, na primeira versão desta notícia, que as representações diplomáticas brasileiras em Monróvia, capital da Libéria, e em Freetown, em Serra Leoa, deixaram de emitir vistos para o Brasil por determinação do Itamaraty. A correção foi feita às 17h30 de sábado, 11 de outubro, quatro horas após a publicação)
 (Nota da redação: A BBC Brasil errou ao publicar, na primeira versão desta notícia, que as representações diplomáticas brasileiras em Monróvia, capital da Libéria, e em Freetown, em Serra Leoa, deixaram de emitir vistos para o Brasil por determinação do Itamaraty. A correção foi feita às 17h30 de sábado, 11 de outubro, quatro horas após a publicação)
@@ -13193,7 +13193,7 @@ Os testes realizados em outra pessoa suspeita de ter contraído o vírus, uma mu
 Até o momento, onze casos suspeitos de ebola na França tiveram resultados negativos, afirmou a ministra.
 Houve apenas o caso da enfermeira da Médicos sem Fronteiras que contraiu o vírus na África e foi transferida para a França. Ela já está curada, acrescentou Touraine.
 </doc>
-<doc id='bbc_140924_obama_onu_estado_islamico_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140924_obama_onu_estado_islamico_rb' term='ebola'>
+<doc docid='bbc_140924_obama_onu_estado_islamico_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140924_obama_onu_estado_islamico_rb' term='ebola'>
 Obama clama por apoio no combate à 'rede da morte' no Oriente Médio
 O presidente americano, Barack Obama, fez um discurso na ONU em que reforçou sua visão de liderança dos Estados Unidos e pediu apoio no combate ao grupo que se autodeclara "Estado Islâmico".
 O presidente americano, Barack Obama, fez um discurso na ONU em que reforçou sua visão de liderança dos Estados Unidos e pediu apoio no combate ao grupo que se autodeclara "Estado Islâmico".
@@ -13224,7 +13224,7 @@ De acordo com correspondentes, a Turquia parece estar mais disposta a se envolve
 Na abertura do debate na ONU, o secretário-geral da entidade, Ban Ki-Moon alertou que os direitos humanos estão sendo ameaçados.
 "De bombas a decapitações, passando pela fome a que civis são deliberadamente obrigados a passar e por ataques a hospitais, abrigos da ONU e comboios de ajuda humanitária, os direitos humanos e a lei estão sob ataque", ele disse.
 </doc>
-<doc id='bbc_151218_vert_future_fluidos_segredos_fd' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2015/12/151218_vert_future_fluidos_segredos_fd' term='ebola'>
+<doc docid='bbc_151218_vert_future_fluidos_segredos_fd' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2015/12/151218_vert_future_fluidos_segredos_fd' term='ebola'>
 Como os fluidos corporais podem revelar segredos surpreendentes sobre a sua saúde
 Sangue, suor e lágrimas: o que eles dizem sobre você?
 Sangue, suor e lágrimas: o que eles dizem sobre você?
@@ -13266,7 +13266,7 @@ versão original desta reportagem (em inglês) no site
 
 BBC Future.
 </doc>
-<doc id='bbc_150123_ebola_vacina_experimental_lgb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/01/150123_ebola_vacina_experimental_lgb' term='ebola'>
+<doc docid='bbc_150123_ebola_vacina_experimental_lgb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/01/150123_ebola_vacina_experimental_lgb' term='ebola'>
 Ebola: vacinas experimentais são enviadas à Libéria
 O primeiro lote de uma vacina experimental contra o vírus ebola foi enviado à Libéria, um dos países mais afetados pelo surto que já matou cerca de 10 mil pessoas, principalmente no oeste da África.
 O primeiro lote de uma vacina experimental contra o vírus ebola foi enviado à Libéria, um dos países mais afetados pelo surto que já matou cerca de 10 mil pessoas, principalmente no oeste da África.
@@ -13295,7 +13295,7 @@ Segundo o professor Jonathan Ball, especialista em vírus da Universidade de Not
 "Mas é importante obter respostas se conseguirmos obter resultados positivos ─ se não para esse surto, para os surtos futuros. Precisamos estar preparados."
 Segundo dados mais recentes da OMS, o ebola já infectou 21.724 pessoas, das quais 8.641 morreram.
 </doc>
-<doc id='bbc_blog-tim-vickery-36473274' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/blog-tim-vickery-36473274' term='ebola'>
+<doc docid='bbc_blog-tim-vickery-36473274' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/blog-tim-vickery-36473274' term='ebola'>
 Tim Vickery: Por que a declaração vaga da OMS sobre zika e Olimpíada causa medo
 Segundo a Organização Mundial da Saúde, "cancelar ou mudar a sede dos Jogos Olímpicos (como pediram alguns cientistas) não mudaria de maneira significativa a propagação internacional do vírus da zika".
 Segundo a Organização Mundial da Saúde, "cancelar ou mudar a sede dos Jogos Olímpicos (como pediram alguns cientistas) não mudaria de maneira significativa a propagação internacional do vírus da zika".
@@ -13313,7 +13313,7 @@ Um dos centros dos Jogos é Deodoro, na zona norte, área militar em meio aos su
 Pode não ser visto com significativo, mas ela colecionou os três, e deve ter o direito de pedir uma música no Fantástico.
 *Tim Vickery é colunista da BBC Brasil e formado em História e Política pela Universidade de Warwick
 </doc>
-<doc id='bbc_120728_ebola_uganda_lgb_rn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/ultimas_noticias/2012/07/120728_ebola_uganda_lgb_rn' term='ebola'>
+<doc docid='bbc_120728_ebola_uganda_lgb_rn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/ultimas_noticias/2012/07/120728_ebola_uganda_lgb_rn' term='ebola'>
 Confirmado surto de Ébola em Uganda
 Depois de semanas de especulação, o governo de Uganda e a Organização Mundial da Saúde (OMS) confirmaram um surto do vírus mortal Ébola no oeste do país.
 Depois de semanas de especulação, o governo de Uganda e a Organização Mundial da Saúde (OMS) confirmaram um surto do vírus mortal Ébola no oeste do país.
@@ -13322,7 +13322,7 @@ A origem do surto ainda está sendo investigada.
 Ainda não há tratamento nem vacina para o vírus Ébola, cujos sintomas principais incluem febre alta, vômitos e diarreia.
 O último surto de Ébola em Uganda, há 12 anos, causou a morte de mais de 200 pessoas.
 </doc>
-<doc id='bbc_internacional-48997712' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-48997712' term='ebola'>
+<doc docid='bbc_internacional-48997712' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-48997712' term='ebola'>
 Ebola: Novo caso em cidade grande da República Democrática do Congo aumenta temor de que doença se espalhe
 A República Democrática do Congo confirmou o primeiro caso de ebola na cidade de Goma, um importante eixo de transportes no leste do país africano. Segundo o Ministério da Saúde local, um pastor foi diagnosticado após chegar de ônibus no domingo (14).
 A República Democrática do Congo confirmou o primeiro caso de ebola na cidade de Goma, um importante eixo de transportes no leste do país africano. Segundo o Ministério da Saúde local, um pastor foi diagnosticado após chegar de ônibus no domingo (14).
@@ -13347,7 +13347,7 @@ O atual surto no leste da República Democrática do Congo começou em 2018 e é
 A epidemia na África Ocidental entre 2014 e 2016, que afetou 28.616 pessoas e fez 11.310 vítimas fatais, principalmente na Guiné, Libéria e Serra Leoa, foi o maior surto do vírus já registrado.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_vert-fut-49803459' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/vert-fut-49803459' term='ebola'>
+<doc docid='bbc_vert-fut-49803459' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/vert-fut-49803459' term='ebola'>
 O que aconteceria se todas as árvores do mundo desaparecessem?
 Em Mad Max: Estrada da Fúria, a personagem Furiosa (Charlize Theron) se esforça para retornar ao "lugar verde" – um oásis cheio de árvores no deserto sem vida que a Terra se tornou. Quando ela chega ao local sagrado, no entanto, encontra apenas troncos esqueléticos e dunas enormes, e reage com um grito de angústia. Sem árvores, toda a esperança parece perdida.
 Em Mad Max: Estrada da Fúria, a personagem Furiosa (Charlize Theron) se esforça para retornar ao "lugar verde" – um oásis cheio de árvores no deserto sem vida que a Terra se tornou. Quando ela chega ao local sagrado, no entanto, encontra apenas troncos esqueléticos e dunas enormes, e reage com um grito de angústia. Sem árvores, toda a esperança parece perdida.
@@ -13405,7 +13405,7 @@ Crowther, por outro lado, suspeita que a vida persistiria apenas em ambientes co
 "Este planeta é único em meio a tudo o que sabemos atualmente sobre o Universo por causa dessa coisa inexplicável chamada vida, e, sem árvores, tudo isso ficaria comprometido."
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_141211_motorista_ebola_time_magazine_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/12/141211_motorista_ebola_time_magazine_fn' term='ebola'>
+<doc docid='bbc_141211_motorista_ebola_time_magazine_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/12/141211_motorista_ebola_time_magazine_fn' term='ebola'>
 Motorista de ambulância personalidade do ano da 'Time' relata experiência com ebola
 A revista americana Time escolheu como 'personalidade do ano de 2014' médicos, enfermeiras, coveiros e outros trabalhadores do setor de saúde que lidaram com a crise do ebola.
 A revista americana Time escolheu como 'personalidade do ano de 2014' médicos, enfermeiras, coveiros e outros trabalhadores do setor de saúde que lidaram com a crise do ebola.
@@ -13444,7 +13444,7 @@ Quando fiquei doente, minha família foi afastada e estigmatizada. Acho que esta
 Estamos lutando contra um inimigo desconhecido. Nos tempos da guerra civil, há pouco tempo, se você ouvisse que o inimigo estava vindo do norte, você podia arrumar as malas e ir para o leste. Você podia ver as balas voando durante a noite, você podia ver homens armados andando nas ruas.
 Mas o ebola é invisível e não há como saber de onde virá o próximo ataque. Ele apenas te acerta e é isso."
 </doc>
-<doc id='bbc_140924_ebola_colapso_lgb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140924_ebola_colapso_lgb' term='ebola'>
+<doc docid='bbc_140924_ebola_colapso_lgb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140924_ebola_colapso_lgb' term='ebola'>
 Centro de pesquisa vê risco de colapso político na África devido ao ebola
 O surto de ebola tende a evoluir para uma crise política que pode acabar com anos de esforços para estabilizar o oeste da África, alertou nesta quarta-feira um centro de pesquisas europeu.
 O surto de ebola tende a evoluir para uma crise política que pode acabar com anos de esforços para estabilizar o oeste da África, alertou nesta quarta-feira um centro de pesquisas europeu.
@@ -13473,7 +13473,7 @@ Estimativas recentes apontam que 70% dos infectados com ebola na África Ocident
 Fonte: OMS
 Leia também: Cinco medidas que podem controlar a epidemia de ebola
 </doc>
-<doc id='bbc_150323_analise_ebola_lgb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/03/150323_analise_ebola_lgb' term='ebola'>
+<doc docid='bbc_150323_analise_ebola_lgb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/03/150323_analise_ebola_lgb' term='ebola'>
 Análise: Como o ebola mudou o mundo?
 Um ano atrás, a Organização Mundial da Saúde (OMS) declarou oficialmente que a Guiné vivia uma epidemia de ebola.
 Um ano atrás, a Organização Mundial da Saúde (OMS) declarou oficialmente que a Guiné vivia uma epidemia de ebola.
@@ -13515,7 +13515,7 @@ Apesar de todos os esforços, alguns cientistas dizem que há uma possibilidade 
 E outros surtos também são prováveis.
 Mas há esperança de que o mundo esteja melhor preparado e tenha aprendido a prestar a devida atenção, caso o ebola, ou qualquer outra doença devastadora, surja novamente.
 </doc>
-<doc id='bbc_140322_ebola_guine_mdb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/03/140322_ebola_guine_mdb' term='ebola'>
+<doc docid='bbc_140322_ebola_guine_mdb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/03/140322_ebola_guine_mdb' term='ebola'>
 Surto de ebola mata mais de 50 na Guiné
 O vírus ebola foi identificado como causa para um surto de febre hemorrágica que matou quase 60 pessoas na Guiné, na costa oeste da África.
 O vírus ebola foi identificado como causa para um surto de febre hemorrágica que matou quase 60 pessoas na Guiné, na costa oeste da África.
@@ -13530,7 +13530,7 @@ Os sintomas da doença incluem hemorragias, diarreia e vômitos, além de erupç
 Os surtos de ebola tiveram início em vilarejos remotos do centro e do oeste da África, em regiões próximas a florestas tropicais, segundo a Organização Mundial da Saúde. O vírus foi identificado pela primeira vez em 1946 na República Democrática do Congo - na época, Zaire.
 Um dos piores surtos da doença ocorreu em Uganda, em 2000, quando quase 500 pessoas foram contaminadas e mais da metade morreu.
 </doc>
-<doc id='bbc_141113_motivos_g20_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/11/141113_motivos_g20_pai' term='ebola'>
+<doc docid='bbc_141113_motivos_g20_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/11/141113_motivos_g20_pai' term='ebola'>
 Quatro motivos para acompanhar o G20
 A presidente Dilma Rousseff participa, neste fim de semana, da cúpula do G20, grupo que reúne os países mais industrializados do mundo (19 nações mais a União Europeia), em meio a tentativas de destravar relações comerciais e retomar o crescimento econômico global.
 A presidente Dilma Rousseff participa, neste fim de semana, da cúpula do G20, grupo que reúne os países mais industrializados do mundo (19 nações mais a União Europeia), em meio a tentativas de destravar relações comerciais e retomar o crescimento econômico global.
@@ -13557,7 +13557,7 @@ O jornal britânico Guardian relata que o comunicado final do G20 pode incluir u
 O que mudou o cenário foi o acordo sem precedentes, anunciado na quarta-feira, entre Barack Obama e Xi Jinping, limitando futuras emissões de gases do efeito estufa por parte de EUA e China.
 O anúncio não apenas coloca o clima como um tema "quente" no G20, como pode ajudar a levar adiante as negociações para um acordo climático global.
 </doc>
-<doc id='bbc_150119_analise_desigualdade_ricos_lgb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/01/150119_analise_desigualdade_ricos_lgb' term='ebola'>
+<doc docid='bbc_150119_analise_desigualdade_ricos_lgb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/01/150119_analise_desigualdade_ricos_lgb' term='ebola'>
 Por que a desigualdade extrema prejudica os ricos?
 "Poderíamos ter desenvolvido uma vacina para o ebola anos atrás se tivéssemos direcionado recursos para a pesquisa apropriada da doença".
 "Poderíamos ter desenvolvido uma vacina para o ebola anos atrás se tivéssemos direcionado recursos para a pesquisa apropriada da doença".
@@ -13584,7 +13584,7 @@ Então o discurso do Estado da União de Obama, o qual se espera que contenha um
 E o mais impressionante é a crescente percepção, inclusive por parte dos super-ricos, de que já não é tão simples argumentar que a "igualdade de oportunidades" é tudo o que importa.
 Ou melhor, não pode haver igualdade de oportunidades em um mundo onde existe um tipo de desigualdade que não temos visto desde as primeiras décadas do século passado.
 </doc>
-<doc id='bbc_geral-41907363' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-41907363' term='ebola'>
+<doc docid='bbc_geral-41907363' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-41907363' term='ebola'>
 Os sintomas muitas vezes ignorados da pneumonia, a doença que mais mata crianças com menos de cinco anos
 Davi, de um ano, começou a apresentar febre alta e perda de apetite. Em um posto de saúde de Piabetá, na Baixada Fluminense, foi constatada inflamação na garganta. Cinco dias depois, ainda não havia nenhuma melhora.
 Davi, de um ano, começou a apresentar febre alta e perda de apetite. Em um posto de saúde de Piabetá, na Baixada Fluminense, foi constatada inflamação na garganta. Cinco dias depois, ainda não havia nenhuma melhora.
@@ -13627,7 +13627,7 @@ Para alertar a população sobre essa patologia, tão comum nos meses do outono 
 Também deve-se evitar aglomerações, como levar bebês a shopping centers ou supermercados. Ter uma boa alimentação, deixar a casa arejada e lavar as mãos, principalmente quando já existe alguém da família doente, são outras atitudes preventivas essenciais.
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_140812_aprenda_ebola' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140812_aprenda_ebola' term='ebola'>
+<doc docid='bbc_140812_aprenda_ebola' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140812_aprenda_ebola' term='ebola'>
 Ebola: OMS enfrenta dilema ético sobre quem tratar
 Two US aid workers who caught Ebola in Liberia appear to be getting better after receiving an experimental drug, officials have said. The World Health Organization (WHO) is now considering whether to make such treatments more widely available.
 Two US aid workers who caught Ebola in Liberia appear to be getting better after receiving an experimental drug, officials have said. The World Health Organization (WHO) is now considering whether to make such treatments more widely available.
@@ -13645,7 +13645,7 @@ potentially possibly
 side effects effects of a drug or medicine that are not intended and can be unpleasant
 harmful causing injury
 </doc>
-<doc id='bbc_140917_ebola_economia_banco_mundial_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140917_ebola_economia_banco_mundial_rb' term='ebola'>
+<doc docid='bbc_140917_ebola_economia_banco_mundial_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140917_ebola_economia_banco_mundial_rb' term='ebola'>
 Ebola pode gerar perdas de quase US$ 2 bi em países africanos, diz Banco Mundial
 Em um novo relatório publicado nesta quarta-feira, o Bando Mundial alerta que a epidemia de ebola pode gerar, até 2015, perdas de quase US$ 2 bilhões (R$ 4,6 bilhões) nos três países africanos mais afetados pelo vírus e ter um efeito "catastrófico" nestas já frágeis economias.
 Em um novo relatório publicado nesta quarta-feira, o Bando Mundial alerta que a epidemia de ebola pode gerar, até 2015, perdas de quase US$ 2 bilhões (R$ 4,6 bilhões) nos três países africanos mais afetados pelo vírus e ter um efeito "catastrófico" nestas já frágeis economias.
@@ -13669,7 +13669,7 @@ O estudo em Oxford determinará se a vacina gera uma boa resposta imunológica n
 Já há um teste clínico em curso nos Estados Unidos, onde está sendo usada uma fórmula diferente para a vacina. Novos testes devem ser realizados na África no próximo mês.
 Se os testes clínicos forem bem sucedidos, 10 mil doses da vacina devem estar disponíveis até o fim do ano.
 </doc>
-<doc id='bbc_140807_ebola_oms_kb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140807_ebola_oms_kb' term='ebola'>
+<doc docid='bbc_140807_ebola_oms_kb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140807_ebola_oms_kb' term='ebola'>
 Descobridor do vírus ebola critica OMS por resposta lenta
 Descobridor do vírus ebola, em 1976, o pesquisador belga Peter Piot criticou em entrevista à BBC a maneira como a OMS vem lidando com o atual surto da doença, que já matou quase mil pessoas neste ano no oeste da África, e defendeu o uso de um medicamento experimental, ao qual a organização se opôs.
 Descobridor do vírus ebola, em 1976, o pesquisador belga Peter Piot criticou em entrevista à BBC a maneira como a OMS vem lidando com o atual surto da doença, que já matou quase mil pessoas neste ano no oeste da África, e defendeu o uso de um medicamento experimental, ao qual a organização se opôs.
@@ -13690,7 +13690,7 @@ Piot disse que está confiante de que o surto não se torne global.
 Ele explicou que o vírus necessita de um "contato muito próximo" para se espalhar. No entanto, reconheceu estar preocupado com a situação atual.
 "Quando eu trabalhava em 1976, no primeiro surto de ebola conhecido, nunca imaginei que chegaria a envolver quatro países e que seria tão difícil de parar", disse.
 </doc>
-<doc id='bbc_141008_ebola_parana_lgb_mdb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141008_ebola_parana_lgb_mdb' term='ebola'>
+<doc docid='bbc_141008_ebola_parana_lgb_mdb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141008_ebola_parana_lgb_mdb' term='ebola'>
 Autoridades investigam suspeita de ebola no Paraná
 A Secretaria Estadual de Saúde do Paraná confirmou à BBC Brasil que há a suspeita de um homem com o vírus ebola na cidade de Cascavel, no oeste do Estado. Não há a confirmação sobre o contágio.
 A Secretaria Estadual de Saúde do Paraná confirmou à BBC Brasil que há a suspeita de um homem com o vírus ebola na cidade de Cascavel, no oeste do Estado. Não há a confirmação sobre o contágio.
@@ -13732,7 +13732,7 @@ O caso está sendo acompanhado pelas equipes de vigilância em saúde do Minist�
 O paciente será transferido, conforme protocolo de segurança, para o Instituto Nacional de Infectologia Evandro Chagas, no Rio de Janeiro (RJ), referência nacional para casos de ebola. A transferência será feita por meio de aeronave da Polícia Rodoviária Federal.
 Nesta sexta-feira (10), o ministro da Saúde, Arthur Chioro, que coordena a ação nacional, e o secretário de Vigilância em Saúde, Jarbas Barbosa, concederão entrevista coletiva sobre o caso, às 10h, no Ministério da Saúde. Na manhã desta sexta, uma equipe da Secretaria Estadual da Saúde também atenderá à imprensa em Cascavel.
 </doc>
-<doc id='bbc_141010_ebola_parana_ministerio_atualiza_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141010_ebola_parana_ministerio_atualiza_fn' term='ebola'>
+<doc docid='bbc_141010_ebola_parana_ministerio_atualiza_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141010_ebola_parana_ministerio_atualiza_fn' term='ebola'>
 Ebola: Governo vê situação sob controle; exame de africano sai em 24h
 O ministro da Saúde, Arthur Chioro, afirmou nesta sexta-feira em coletiva em Brasília que a situação está "sob controle" depois do surgimento de um caso suspeito de ebola em Cascavel, no interior do Paraná.
 O ministro da Saúde, Arthur Chioro, afirmou nesta sexta-feira em coletiva em Brasília que a situação está "sob controle" depois do surgimento de um caso suspeito de ebola em Cascavel, no interior do Paraná.
@@ -13762,7 +13762,7 @@ Durante a reunião, o vice-diretor da Organização Mundial de Saúde (OMC), Bru
 Segundo Alyward, os chefes de Estado enfrentam um desafio extraordinário pois precisam comunicar à população a urgência da situação, mas não podem causar pânico.
 Colaboraram Luís Barrucho, Mariana Della Barba e Renata Mendonça em São Paulo
 </doc>
-<doc id='bbc_140723_medico_ebola_infectado_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/07/140723_medico_ebola_infectado_fn' term='ebola'>
+<doc docid='bbc_140723_medico_ebola_infectado_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/07/140723_medico_ebola_infectado_fn' term='ebola'>
 Médico que lidera luta contra o ebola em Serra Leoa contrai o vírus
 O médico que liderava a luta contra o ebola em Serra Leoa foi infectado pelo vírus da doença e está internado em um hospital na cidade de Kailahun, epicentro do surto, no leste do país.
 O médico que liderava a luta contra o ebola em Serra Leoa foi infectado pelo vírus da doença e está internado em um hospital na cidade de Kailahun, epicentro do surto, no leste do país.
@@ -13782,7 +13782,7 @@ Mas se os pacientes receberem o tratamento logo no início da doença, têm mais
 Os sintomas iniciais incluem fraqueza, dor muscular, dor de cabeça e de garganta, vermelhidão nos olhos. Posteriormente ocorrem vômitos, diarreia, coceiras e, em alguns casos, sangramentos.
 O período de incubação do vírus do ebola varia entre dois e 21 dias, segundo a OMS.
 </doc>
-<doc id='bbc_141110_brasil_guerra_fd' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/11/141110_brasil_guerra_fd' term='ebola'>
+<doc docid='bbc_141110_brasil_guerra_fd' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/11/141110_brasil_guerra_fd' term='ebola'>
 Participação do Brasil na 1ª Guerra trouxe ganhos modestos e baque econômico
 A Primeira Guerra Mundial, cujo armistício é comemorado nesta terça-feira, teve um impacto significativo no Brasil - apesar de uma participação simbólica do país no conflito, marcada por uma tragédia e uma "batalha cômica".
 A Primeira Guerra Mundial, cujo armistício é comemorado nesta terça-feira, teve um impacto significativo no Brasil - apesar de uma participação simbólica do país no conflito, marcada por uma tragédia e uma "batalha cômica".
@@ -13811,7 +13811,7 @@ Na política internacional, o conflito marcou a mudança do eixo de influência 
 Houve, porém, alguns ganhos econômicos: os distúrbios provocados pela guerra no mercado internacional obrigaram o Brasil a prestar mais atenção à sua indústria, com destaque para a produção de substituição de importações. Entre 1912 e 1920, o número de trabalhadores na indústria brasileira praticamente dobrou.
 Mas vizinhos como a Argentina, que se manteve neutra e arrecadou uma quantidade substancial de divisas com a venda de trigo para britânicos e franceses, riram por último: o país terminou a Primeira Guerra com a dívida externa paga.
 </doc>
-<doc id='bbc_151028_vert_earth_beneficios_dst_ml' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2015/10/151028_vert_earth_beneficios_dst_ml' term='ebola'>
+<doc docid='bbc_151028_vert_earth_beneficios_dst_ml' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2015/10/151028_vert_earth_beneficios_dst_ml' term='ebola'>
 Os microrganismos transmitidos durante o sexo
 A Organização Mundial da Saúde (OMS) acredita que, todos os dias, mais de 1 milhão de pessoas no mundo adquirem uma doença sexualmente transmissível (DST).
 A Organização Mundial da Saúde (OMS) acredita que, todos os dias, mais de 1 milhão de pessoas no mundo adquirem uma doença sexualmente transmissível (DST).
@@ -13868,7 +13868,7 @@ Twitter e
 
 Instagram
 </doc>
-<doc id='bbc_geral-37438752' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-37438752' term='ebola'>
+<doc docid='bbc_geral-37438752' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-37438752' term='ebola'>
 Chimpanzés infectados e abandonados por laboratório de NY 'colonizam' ilhas africanas
 Em 1974, o banco de sangue americano New York Blood Centre (NYBC) decidiu criar na Libéria, oeste africano, o Vilab II - um grande laboratório a céu aberto para experimentos com diversos tipos de vírus em chimpanzés silvestres. O primatas foram infectados deliberadamente com doenças como a hepatite, para que vacinas fossem desenvolvidas.
 Em 1974, o banco de sangue americano New York Blood Centre (NYBC) decidiu criar na Libéria, oeste africano, o Vilab II - um grande laboratório a céu aberto para experimentos com diversos tipos de vírus em chimpanzés silvestres. O primatas foram infectados deliberadamente com doenças como a hepatite, para que vacinas fossem desenvolvidas.
@@ -13896,7 +13896,7 @@ A renomada defensora dos animais Jane Goodall diz que o NYBC deveria ser respons
 Procurada pela BBC, o NYBC não se pronunciou.
 O cuidado com animais em cativeiro é frequentemente muito complexo. Mas quando eles são utilizados para experimentos, há uma obrigação implícita de receberem assistência mesmo quando já não têm um valor científico.
 </doc>
-<doc id='bbc_141014_ebola_oms_falha_rm' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141014_ebola_oms_falha_rm' term='ebola'>
+<doc docid='bbc_141014_ebola_oms_falha_rm' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141014_ebola_oms_falha_rm' term='ebola'>
 Relatório da OMS aponta falhas da própria agência no combate ao ebola
 Um relatório interno da Organização Mundial da Saúde (OMS) culpa a própria entidade por ter prejudicado os esforços para impedir a propagação do ebola no oeste da África.
 Um relatório interno da Organização Mundial da Saúde (OMS) culpa a própria entidade por ter prejudicado os esforços para impedir a propagação do ebola no oeste da África.
@@ -13918,7 +13918,7 @@ As doações vindas de vários países para o combate ao ebola nas agências das
 Separadamente, a ONU está tentando arrecadar US$ 1 bilhão para um fundo de investimento do ebola para providenciar um recurso flexível de ‘back-up’ para combater o vírus.
 Mas o secretário geral da ONU, Ban Ki-moon fez um novo apelo na última quinta, dizendo que o fundo teria recebido US$ 100 mil da Colômbia, quando o prometido teria sido US$ 20 mi.
 </doc>
-<doc id='bbc_140926_ebola_quarentena_serra_leoa_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140926_ebola_quarentena_serra_leoa_rb' term='ebola'>
+<doc docid='bbc_140926_ebola_quarentena_serra_leoa_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140926_ebola_quarentena_serra_leoa_rb' term='ebola'>
 Serra Leoa coloca mais 1 milhão de pessoas em quarentena contra o ebola
 O presidente de Serra Leoa, Ernest Bai Koroma, ampliou a quarentena no país para incluir mais 1 milhão de pessoas numa tentativa de conter a epidemia de ebola.
 O presidente de Serra Leoa, Ernest Bai Koroma, ampliou a quarentena no país para incluir mais 1 milhão de pessoas numa tentativa de conter a epidemia de ebola.
@@ -13941,7 +13941,7 @@ Umaru Fofan, correspondente da BBC em Freetown, diz que Port Loko é onde operam
 A OMS alerta que, apesar do envio de mais profissionais de saúde e da abertura de novos centros de tratamento nos países mais afetados, ainda há uma carência de 2 mil leitos para tratar pacientes em Serra Leoa e na Libéria.
 A situação na Guiné parece ter se estabilizado, mas, com a confirmação de cem novos casos por semana ao longo das últimas cinco semanas, a situação ainda é muito preocupante.
 </doc>
-<doc id='bbc_141103_eua_eleicoes_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/11/141103_eua_eleicoes_hb' term='ebola'>
+<doc docid='bbc_141103_eua_eleicoes_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/11/141103_eua_eleicoes_hb' term='ebola'>
 Tea Party pode ampliar influência no Congresso dos EUA
 Quatro anos depois de um desempenho arrebatador nas eleições de meio mandato americanas, o movimento conservador Tea Party deve voltar a marcar presença nas eleições para o Legislativo nesta terça-feira nos Estados Unidos, ainda que de forma mais discreta.
 Quatro anos depois de um desempenho arrebatador nas eleições de meio mandato americanas, o movimento conservador Tea Party deve voltar a marcar presença nas eleições para o Legislativo nesta terça-feira nos Estados Unidos, ainda que de forma mais discreta.
@@ -13975,7 +13975,7 @@ Ou seja, mesmo candidatos republicanos tradicionais que disputam estas eleiçõe
 "Graças ao seu sucesso em radicalizar o Partido Republicano, o Tea Party ganhou tanta influência na Câmara que pode exercer veto efetivo sobre toda a máquina legislativa dos Estados Unidos", diz Mounk.
 A expectativa agora é sobre que impacto essa divisão entre os conservadores poderá ter nas eleições presidenciais de 2016.
 </doc>
-<doc id='bbc_160128_zika_pandemia_alerta_eua_fn' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2016/01/160128_zika_pandemia_alerta_eua_fn' term='ebola'>
+<doc docid='bbc_160128_zika_pandemia_alerta_eua_fn' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2016/01/160128_zika_pandemia_alerta_eua_fn' term='ebola'>
 OMS convoca comitê de emergência para tratar de surto de zika
 A Organização Mundial de Saúde (OMS) decidiu convocar um comitê de emergência para enfrentar o surto de zika que já atingiu vários países.
 A Organização Mundial de Saúde (OMS) decidiu convocar um comitê de emergência para enfrentar o surto de zika que já atingiu vários países.
@@ -14000,7 +14000,7 @@ Foi apenas depois de um surto na ilha de Yap, na Micronésia, em 2007, que os pe
 Weaver diz que ano passado o vírus "explodiu", atingindo o Caribe e a América Latina, "provavelmente infectando alguns milhões de pessoas".
 Os sintomas em adultos e crianças são parecidos com o da dengue, porém mais suaves: dores pelo corpo parecidas com as que ocorrem em casos de gripe, inflamação nos olhos, dores nas juntas e manchas vermelhas no corpo. Mas algumas pessoas não apresentam sintomas.
 </doc>
-<doc id='bbc_140726_nigeria_ebola_morte_fl' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/07/140726_nigeria_ebola_morte_fl' term='ebola'>
+<doc docid='bbc_140726_nigeria_ebola_morte_fl' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/07/140726_nigeria_ebola_morte_fl' term='ebola'>
 Nigéria em 'alerta vermelho' após primeira morte por ebola
 A Nigéria está em alerta vermelho após anunciar a primeira morte por ebola no país.
 A Nigéria está em alerta vermelho após anunciar a primeira morte por ebola no país.
@@ -14019,7 +14019,7 @@ Ela teria sido removida à força por parentes de um hospital na capital Freetow
 No início desta semana, foi divulgado que o médico que lidera a luta contra a doença em Serra Leoa contraiu o vírus.
 Na quinta-feira, a Organização Mundial da Saúde anunciou que o ebola fez 219 vítimas no país.
 </doc>
-<doc id='bbc_140807_ebola_nigeria_estado_emergencia_lgb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140807_ebola_nigeria_estado_emergencia_lgb' term='ebola'>
+<doc docid='bbc_140807_ebola_nigeria_estado_emergencia_lgb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140807_ebola_nigeria_estado_emergencia_lgb' term='ebola'>
 Nigéria declara estado de emergência por epidemia de ebola
 O presidente da Nigéria, Goodluck Jonathan, declarou nesta sexta-feira estado de emergência por causa do surto de ebola que assola o país.
 O presidente da Nigéria, Goodluck Jonathan, declarou nesta sexta-feira estado de emergência por causa do surto de ebola que assola o país.
@@ -14045,7 +14045,7 @@ Dois cidadãos americanos foram infectados enquanto trabalhavam no oeste da Áfr
 Um dos infectados, o médico Kent Brantly, disse por meio de um comunicado na sexta-feira que estava apresentando melhoras dia após dia. O marido da missionária Nancy Writebol afirmou que seu quadro também está evoluindo.
 Ambos estão sendo tratados com uma nova droga experimental.
 </doc>
-<doc id='bbc_140812_oms_ebola_remedios_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140812_oms_ebola_remedios_hb' term='ebola'>
+<doc docid='bbc_140812_oms_ebola_remedios_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140812_oms_ebola_remedios_hb' term='ebola'>
 OMS aprova uso de remédio não testado em humanos para tratar ebola
 A Organização Mundial da Saúde (OMS) aprovou o uso de um medicamento não testado em humanos para tratar pessoas infectadas com o ebola, cujo surto já matou mais de mil pessoas.
 A Organização Mundial da Saúde (OMS) aprovou o uso de um medicamento não testado em humanos para tratar pessoas infectadas com o ebola, cujo surto já matou mais de mil pessoas.
@@ -14077,7 +14077,7 @@ A Nigéria, o país mais populoso da África, confirmou o décimo caso do ebola 
 Não há cura para o ebola, mas os pacientes têm maiores chances de sobrevivência se receberem tratamento cedo.
 Os sintomas iniciais são semelhantes ao de uma gripe, mas a doença pode levar a hemorragias nos olhos e gengivas, e hemorragia interna que pode levar à falência de órgãos.
 </doc>
-<doc id='bbc_geral-43207268' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/geral-43207268' term='ebola'>
+<doc docid='bbc_geral-43207268' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/geral-43207268' term='ebola'>
 Depois de corrida aos postos, vacina da febre amarela encalha em meio a boatos sobre reações
 Embora os casos de morte por febre amarela sigam subindo desde o começo de 2017 e tenham atingido o número de 93 vítimas no último dia 23 (contra 76 até o dia 16, segundo a Secretaria de Estado de Saúde de São Paulo), milhões de doses da vacina fracionada continuam dentro dos refrigeradores dos postos de saúde, à espera da população.
 Embora os casos de morte por febre amarela sigam subindo desde o começo de 2017 e tenham atingido o número de 93 vítimas no último dia 23 (contra 76 até o dia 16, segundo a Secretaria de Estado de Saúde de São Paulo), milhões de doses da vacina fracionada continuam dentro dos refrigeradores dos postos de saúde, à espera da população.
@@ -14118,12 +14118,12 @@ Em uma proposta muito mais conciliadora, agentes comunitários têm visitado dom
 "Ainda não temos certeza, mas acho que o Carnaval e o período de férias contribuíram para essa drástica diminuição na procura pela doses", cogita Marco Antônio Carvalho de Lima, coordenador de saúde da região Sul do município de São Paulo.
 Na visão geral, diz ele, ainda vigora a percepção de que a vacina, se não mata, traz algum efeito colateral que pode comprometer um período de relaxamento e descontração, por exemplo. Com a volta ao ritmo normal, a proposta é convencer a população de que não há nenhuma conspiração embutida na fórmula do produto.
 </doc>
-<doc id='bbc_150202_mural_ebola_liberia_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2015/02/150202_mural_ebola_liberia_rb' term='ebola'>
+<doc docid='bbc_150202_mural_ebola_liberia_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2015/02/150202_mural_ebola_liberia_rb' term='ebola'>
 Mural com mãos de sobreviventes desafia conceito de ebola como doença 'incurável'
 
 
 </doc>
-<doc id='bbc_140627_oms_ebola_africa_jg_kb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/06/140627_oms_ebola_africa_jg_kb' term='ebola'>
+<doc docid='bbc_140627_oms_ebola_africa_jg_kb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/06/140627_oms_ebola_africa_jg_kb' term='ebola'>
 OMS teme disseminação internacional de ebola
 A Organização Mundial de Saúde (OMS) disse considerar necessário que sejam tomadas "medidas drásticas" para conter o surto de ebola na África Ocidental.
 A Organização Mundial de Saúde (OMS) disse considerar necessário que sejam tomadas "medidas drásticas" para conter o surto de ebola na África Ocidental.
@@ -14141,7 +14141,7 @@ O ebola é uma febre hemorrágica grave causada pelo vírus ebola e não tem vac
 A doença é transmitida pelo contato com os fluidos de pessoas ou animais infectados, como urina, suor e sangue. Os sintomas incluem febre alta, sangramento e danos no sistema nervoso central.
 A taxa de mortalidade do ebola pode atingir 90% dos casos. O período de incubação é de dois a 21 dias.
 </doc>
-<doc id='bbc_150205_virus_misterio_eua_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/02/150205_virus_misterio_eua_fn' term='ebola'>
+<doc docid='bbc_150205_virus_misterio_eua_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/02/150205_virus_misterio_eua_fn' term='ebola'>
 Vírus misterioso que paralisa crianças intriga médicos nos EUA
 Médicos e pesquisadores dos Estados Unidos tentam decifrar um mistério: nos últimos seis meses mais de cem crianças e jovens do país foram vítimas de um ataque de paralisia repentina sem uma causa aparente.
 Médicos e pesquisadores dos Estados Unidos tentam decifrar um mistério: nos últimos seis meses mais de cem crianças e jovens do país foram vítimas de um ataque de paralisia repentina sem uma causa aparente.
@@ -14177,7 +14177,7 @@ Leia mais: Vírus que matou mais que 1ª Guerra deixou lições para combate a e
 James Sejvar, do CDC, afirma que a fisioterapia é a única forma de tratamento, mas acrescenta que os pacientes demonstraram pouco progresso na recuperação.
 Além disso os especialistas do CDC recomendam manter as vacinas em dia e lembram os conselhos mais comuns como lavar as mãos com frequência usando água e sabão, evitar o contato mais próximo com pessoas afetadas pela doença e desinfetar superfícies tocadas com frequência.
 </doc>
-<doc id='bbc_140811_costa_marfim_ebola_kb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140811_costa_marfim_ebola_kb' term='ebola'>
+<doc docid='bbc_140811_costa_marfim_ebola_kb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140811_costa_marfim_ebola_kb' term='ebola'>
 Costa do Marfim proíbe voos de três países afetados pelo ebola
 A Costa do Marfim proibiu todos os voos de passageiros dos três principais países atingidos pelo ebola em uma tentativa de evitar a propagação do vírus mortal.
 A Costa do Marfim proibiu todos os voos de passageiros dos três principais países atingidos pelo ebola em uma tentativa de evitar a propagação do vírus mortal.
@@ -14197,7 +14197,7 @@ Ela contraiu o vírus de funcionário do governo liberiano Patrick Sawyer, que m
 As companhias aéreas British Airways, Pan-African Asky e Arik Air suspenderam voos para Libéria e Serra Leoa e a Emirates Airlines suspendeu os voos para Guiné.
 A proibição da Arábia Saudita visa evitar que as pessoas da Libéria, Serra Leoa e Guiné visitem locais sagrados do Islã até que o vírus seja controlado.
 </doc>
-<doc id='bbc_141017_ebola_risco_aviao_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141017_ebola_risco_aviao_rb' term='ebola'>
+<doc docid='bbc_141017_ebola_risco_aviao_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141017_ebola_risco_aviao_rb' term='ebola'>
 Há risco de se pegar ebola no avião?
 Pessoas que viajaram em um avião juntamente com uma enfermeira americana antes dela apresentar sintomas de ebola estão sendo buscados por autoridades de saúde dos Estados Unidos para verificar a possibilidade de um novo contágio.
 Pessoas que viajaram em um avião juntamente com uma enfermeira americana antes dela apresentar sintomas de ebola estão sendo buscados por autoridades de saúde dos Estados Unidos para verificar a possibilidade de um novo contágio.
@@ -14237,7 +14237,7 @@ Estes sintomas incluem febre de 38,6°C ou mais, fortes dores de cabeça, dor de
 No entanto, Schaffner diz que a maior ameaça não está no contágio em aviões, mas que no medo de que o mal se espalhe descontroladamente entre viajantes.
 Leia mais: Vírus que matou mais que 1ª Guerra deixou lições para combate a ebola
 </doc>
-<doc id='bbc_geral-44062701' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/geral-44062701' term='ebola'>
+<doc docid='bbc_geral-44062701' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/geral-44062701' term='ebola'>
 Por que o ebola voltou – e dificilmente será erradicado
 O vírus ebola apareceu de novo, desta vez na República Democrática do Congo. Ainda que seja impossível prever exatamente onde e quando ocorrerá o próximo surto, sabemos atualmente muito mais sobre como prevenir uma crise.
 O vírus ebola apareceu de novo, desta vez na República Democrática do Congo. Ainda que seja impossível prever exatamente onde e quando ocorrerá o próximo surto, sabemos atualmente muito mais sobre como prevenir uma crise.
@@ -14268,7 +14268,7 @@ A resposta do país em surtos recentes demonstrou que ele está bem preparado. M
 Esse surto atual será um desafio para as equipes locais, mas também uma oportunidade para que a comunidade global prove que aprendeu as lições deixadas pela epidemia na África Ocidental. Não podemos esperar que o ebola simplesmente desapareça, mas podemos esperar que estejamos preparados para tentar contê-lo antes que cause estragos.
 *Essa análise foi encomendada pela BBC a um especialista de uma organização externa; Charlie Weller é chefe de vacinas do Wellcome Trust, que anunciou um aporte de 2 milhões de libras (R$ 9,8 milhões) em ações de resposta rápida à epidemia de ebola; Texto editado por Duncan Walker.
 </doc>
-<doc id='bbc_geral-48553617' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-48553617' term='ebola'>
+<doc docid='bbc_geral-48553617' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-48553617' term='ebola'>
 Por que a OMS diz que grandes surtos de ebola são o 'novo normal'
 O mundo está entrando em "uma nova fase", em que grandes surtos de doenças mortais como ebola são o "novo normal", adverte a Organização Mundial de Saúde (OMS).
 O mundo está entrando em "uma nova fase", em que grandes surtos de doenças mortais como ebola são o "novo normal", adverte a Organização Mundial de Saúde (OMS).
@@ -14299,7 +14299,7 @@ Segundo ela, a mudança climática poderia levar a mais surtos, como o de cóler
 "A preparação precisa ser melhor; podemos ver os movimentos demográficos e a mudança climática, e precisamos de mais recursos para planejar e nos preparar."
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_geral-45026901' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-45026901' term='ebola'>
+<doc docid='bbc_geral-45026901' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-45026901' term='ebola'>
 Autoridades pedem que americanos parem de lavar e reutilizar camisinhas
 Camisinhas são feitas para serem usadas uma única vez, mas muita gente pelo visto não sabe disso.
 Camisinhas são feitas para serem usadas uma única vez, mas muita gente pelo visto não sabe disso.
@@ -14318,12 +14318,12 @@ O uso correto e constante de preservativos, de acordo com a Organização Mundia
 O CDC recorda ainda que este método protege de outras doenças que também podem ser transmitidas dessa forma, como zika e ebola.
 A camisinha também é 98% eficaz na prevenção de gravidez quando usada corretamente, mas esse índice pode cair para 85% em situações cotidianas, com seu manuseio equivocado.
 </doc>
-<doc id='bbc_140809_hospital_londres_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2014/08/140809_hospital_londres_hb' term='ebola'>
+<doc docid='bbc_140809_hospital_londres_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2014/08/140809_hospital_londres_hb' term='ebola'>
 Hospital de Londres prepara unidade super-isolada para tratar pacientes de ebola
 
 
 </doc>
-<doc id='bbc_internacional-39123491' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/internacional-39123491' term='ebola'>
+<doc docid='bbc_internacional-39123491' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/internacional-39123491' term='ebola'>
 A família que disputa eleições pela extrema-direita na França há 40 anos e nunca esteve tão perto da Presidência
 Polêmicas, brigas, traições, processos judiciais e até um atentado marcam a história da família Le Pen, do partido de extrema-direita Frente Nacional (FN), que disputará pela sétima vez as eleições presidenciais na França, em abril.
 Polêmicas, brigas, traições, processos judiciais e até um atentado marcam a história da família Le Pen, do partido de extrema-direita Frente Nacional (FN), que disputará pela sétima vez as eleições presidenciais na França, em abril.
@@ -14371,7 +14371,7 @@ As pesquisas indicam que o segundo turno poderá ser entre Le Pen e Macron.
 No entanto, especialistas afirmam que o "espírito republicano" deverá prevalecer no segundo turno e impedir que a extrema-direita chegue ao poder na França.
 Seja como for, tudo indica que a família Le Pen deve continuar ainda por décadas fazendo parte da vida política francesa.
 </doc>
-<doc id='bbc_geral-50913988' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-50913988' term='ebola'>
+<doc docid='bbc_geral-50913988' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/geral-50913988' term='ebola'>
 Os médicos e enfermeiras que passaram o Natal lutando contra epidemia de sarampo
 "A ala pediátrica no momento é apenas uma ala de sarampo", diz Smiti Bihari, uma das médicas britânicas que passou o último Natal longe de casa, lutando contra a epidemia que atingiu Samoa.
 "A ala pediátrica no momento é apenas uma ala de sarampo", diz Smiti Bihari, uma das médicas britânicas que passou o último Natal longe de casa, lutando contra a epidemia que atingiu Samoa.
@@ -14410,7 +14410,7 @@ Os casos de sarampo têm aumentado em todo o mundo nos últimos dois anos, e a O
 Mas Smiti diz que "não é tudo terrível" em Samoa. "É uma pena que isso tenha acontecido, mas há muitas crianças indo para casa, muitos bebês sorridentes, mães felizes, elas acabaram de passar por uma provação."
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_160203_zika_vacina_economia_fd' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2016/02/160203_zika_vacina_economia_fd' term='ebola'>
+<doc docid='bbc_160203_zika_vacina_economia_fd' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2016/02/160203_zika_vacina_economia_fd' term='ebola'>
 Epidemia do zika poderá acelerar 'ressurreição' do mercado global de vacinas
 Na última quinta-feira, a empresa farmacêutica americana Inovio anunciou planos de desenvolver uma vacina contra o zika vírus, que soaram promissores por causa dos prognósticos de testagem em seres humanos já no final de 2016 – muito mais rápido do que as estimativas mais otimistas feitas previamente por outras companhias e instituições de pesquisa.
 Na última quinta-feira, a empresa farmacêutica americana Inovio anunciou planos de desenvolver uma vacina contra o zika vírus, que soaram promissores por causa dos prognósticos de testagem em seres humanos já no final de 2016 – muito mais rápido do que as estimativas mais otimistas feitas previamente por outras companhias e instituições de pesquisa.
@@ -14438,7 +14438,7 @@ Algo já visto, por exemplo, no recente surto do ebola na África, em que autori
 No entanto, um relatório da ONG Médicos Sem Fronteiras, divulgado no ano passado, estimou que, em média, o custo de vacinação de crianças nas regiões mais carentes do mundo cresceu quase 70 vezes desde 2001. Estimativas informais de analistas do mercado farmacêutico são de que uma vacina contra o zika poderia custar entre US$ 10 e US$ 50 por dose.
 "Por isso, é bastante importante que os esforços contra o zika não se resumam ao desenvolvimento de vacinas. O vírus também oferece oportunidades para empresas voltadas, por exemplo, para a erradicação do Aedes aegypti. Há diferentes interesses em jogo e isso pode dar margem para muito lobby", avalia Ana Nicholls.
 </doc>
-<doc id='bbc_141107_robos_ebola_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/11/141107_robos_ebola_pai' term='ebola'>
+<doc docid='bbc_141107_robos_ebola_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/11/141107_robos_ebola_pai' term='ebola'>
 Casa Branca debate uso de robôs para lidar com pacientes de ebola
 Robôs têm trabalhado em áreas de desastre desde o 11 de Setembro. Eles são capazes de chegar a áreas remotas e perigosas e operam em lugares onde as pessoas não podem ir, como os destroços da usina nuclear de Fukushima.
 Robôs têm trabalhado em áreas de desastre desde o 11 de Setembro. Eles são capazes de chegar a áreas remotas e perigosas e operam em lugares onde as pessoas não podem ir, como os destroços da usina nuclear de Fukushima.
@@ -14463,7 +14463,7 @@ Existe, ainda, a discussão de usar robôs para realizar o transporte e os enter
 Uma das preocupações de médicos é o perigo de isolar ainda mais os pacientes de ebola, já estigmatizados por terem a doença.
 Uma possível solução para isso seria usar robôs de telepresença, que contêm uma tela de TV pela qual o médico seria visto e ouvido pelo paciente.
 </doc>
-<doc id='bbc_internacional-48302144' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-48302144' term='ebola'>
+<doc docid='bbc_internacional-48302144' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-48302144' term='ebola'>
 O mundo secreto dos médicos que Cuba exporta
 Cuba é reconhecida há tempos pela sua "diplomacia médica", enviando milhares de profissionais de saúde para trabalhar em missões pelo mundo todo e recebendo, em troca, bilhões de dólares.
 O texto foi atualizado às 10h11 de 21 de maio de 2019.
@@ -14526,7 +14526,7 @@ Dayli conta que passou a ser tratada como dissidente e que um agente de seguran�
 "Queria ser uma médica em Cuba, mas tive que desistir. Não quer ser um risco para a minha família. Falei o que achava, e essa é a consequência. Eles querem soldados, não médicos."
 Já assistiu aos nossos novos vídeos no YouTube? Inscreva-se no nosso canal!
 </doc>
-<doc id='bbc_140805_ebola_cupula_africa_eua_lgb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140805_ebola_cupula_africa_eua_lgb' term='ebola'>
+<doc docid='bbc_140805_ebola_cupula_africa_eua_lgb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140805_ebola_cupula_africa_eua_lgb' term='ebola'>
 Ofuscada por ebola, começa cúpula EUA-África em Washington
 Em meio ao pior surto de ebola da história, que já matou mais de 800 pessoas na África, cerca de 50 chefes de estado de países africanos são aguardados em Washington a partir desta segunda-feira para a maior cúpula já realizada entre líderes do continente e os Estados Unidos.
 Em meio ao pior surto de ebola da história, que já matou mais de 800 pessoas na África, cerca de 50 chefes de estado de países africanos são aguardados em Washington a partir desta segunda-feira para a maior cúpula já realizada entre líderes do continente e os Estados Unidos.
@@ -14543,7 +14543,7 @@ O comércio entre a China e a África soma 200 bilhões (R$ 450 bilhões), mais 
 Em 2001, o país asiático convocou uma cúpula com os países africanos. A tendência foi seguida por Japão, Índia e Europa, todos interessados no amplo mercado consumidor do continente.
 O encontro também ocorre pouco depois de Gana ter dito que pedirá socorro financeiro ao Fundo Monetário Internacional (FMI) para ajudar a fortalecer sua moeda, que sofreu uma das piores desvalorizações nesse ano.
 </doc>
-<doc id='bbc_140808_ebola_oms_emergencia_rw' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140808_ebola_oms_emergencia_rw' term='ebola'>
+<doc docid='bbc_140808_ebola_oms_emergencia_rw' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140808_ebola_oms_emergencia_rw' term='ebola'>
 Após quase mil mortes por ebola, OMS declara emergência e lista medidas para conter vírus
 A Organização Mundial da Saúde (OMS) declarou nesta sexta-feira uma emergência internacional de saúde por conta da disseminação do vírus ebola, que já matou mais de 930 pessoas neste ano no oeste da África.
 A Organização Mundial da Saúde (OMS) declarou nesta sexta-feira uma emergência internacional de saúde por conta da disseminação do vírus ebola, que já matou mais de 930 pessoas neste ano no oeste da África.
@@ -14559,7 +14559,7 @@ Segundo a organização, há muitos obstáculos nos países afetados, incluindo 
 Mas para Keiji Fukuda, chefe do setor de segurança de saúde da OMS, a disseminação do vírus ebola pode ser contida com as medidas corretas para lidar com as pessoas infectadas.
 "Essa não é uma doença misteriosa. É uma doença infecciosa que pode ser contida", disse. "Não é um vírus que é transmitido pelo ar", afirmou.
 </doc>
-<doc id='bbc_140912_estadio_liberia_ebola_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140912_estadio_liberia_ebola_rb' term='ebola'>
+<doc docid='bbc_140912_estadio_liberia_ebola_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140912_estadio_liberia_ebola_rb' term='ebola'>
 Maior estádio da Libéria será convertido em hospital para conter ebola
 Em parceria com a ONU, a Fifa transformará o maior estádio de futebol da Libéria em um grande centro de tratamento para combater a epidemia de ebola que se alastra pelo país do leste da África.
 Em parceria com a ONU, a Fifa transformará o maior estádio de futebol da Libéria em um grande centro de tratamento para combater a epidemia de ebola que se alastra pelo país do leste da África.
@@ -14578,7 +14578,7 @@ Um dos maiores esforços do gênero é um programa de cirurgias oftamológicas n
 Centenas de médicos cubanos também foram enviados ao Haiti em 2010 depois que o país foi atingido por um terremoto.
 No Brasil, médicos cubanos participam do programa federal Mais Médicos, apresentado pelo governo Dilma Rousseff como uma saída para a escassez de profissionais em vários pontos do país.
 </doc>
-<doc id='bbc_150323_ebola_um_ano_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/03/150323_ebola_um_ano_lab' term='ebola'>
+<doc docid='bbc_150323_ebola_um_ano_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/03/150323_ebola_um_ano_lab' term='ebola'>
 Um ano de ebola: representante da ONU diz que epidemia chega ao fim em agosto
 O chefe da Missão das Nações Unidas para o Combate ao Ebola, Ismael Ould Cheikh Ahmed, disse à BBC ter "certeza de que [o surto] terá terminado até o verão [do Hemisfério Norte], em julho ou agosto".
 O chefe da Missão das Nações Unidas para o Combate ao Ebola, Ismael Ould Cheikh Ahmed, disse à BBC ter "certeza de que [o surto] terá terminado até o verão [do Hemisfério Norte], em julho ou agosto".
@@ -14619,7 +14619,7 @@ Na Guiné, os casos estão aumentando de novo após uma queda no início do ano.
 Alguns pacientes em Serra Leoa não aparecem em listas de pessoas que tiveram contato com doentes, sugerindo que ainda existem cadeias de transmissão não detectadas no país.
 O surto só será declarado oficialmente terminado quando forem registrados zero novos casos nos três países mais afetados por um período de pelo menos seis semanas.
 </doc>
-<doc id='bbc_140908_ebola_liberiarg' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140908_ebola_liberiarg' term='ebola'>
+<doc docid='bbc_140908_ebola_liberiarg' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140908_ebola_liberiarg' term='ebola'>
 Ebola está se espalhando na Libéria exponencialmente, alerta OMS
 A OMS (Organização Mundial da Saúde) advertiu nesta segunda-feira que o vírus ebola está se espalhando "exponencialmente" na Libéria e que "milhares" de novos casos são esperados nas próximas três semanas.
 A OMS (Organização Mundial da Saúde) advertiu nesta segunda-feira que o vírus ebola está se espalhando "exponencialmente" na Libéria e que "milhares" de novos casos são esperados nas próximas três semanas.
@@ -14648,12 +14648,12 @@ Também está sendo testada nos Estados Unidos uma vacina contra o ebola.
 Os testes devem ser estendidos para outros centros no Reino Unido, em Mali e em Gâmbia nas próximas semanas.
 A OMS disse que os dados de segurança necessários para aprovar a vacina estarão prontos até novembro e, caso ela se mostre segura e efetiva, poderá ser usada no oeste da África imediatamente.
 </doc>
-<doc id='bbc_140819_liberia_ebola_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2014/08/140819_liberia_ebola_hb' term='ebola'>
+<doc docid='bbc_140819_liberia_ebola_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2014/08/140819_liberia_ebola_hb' term='ebola'>
 Libéria: Luta conta ebola esbarra em mitos e demora em recolher corpos
 
 
 </doc>
-<doc id='bbc_141010_ebola_parana_nova_pu' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141010_ebola_parana_nova_pu' term='ebola'>
+<doc docid='bbc_141010_ebola_parana_nova_pu' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141010_ebola_parana_nova_pu' term='ebola'>
 Paciente com suspeita de ebola chega a instituto no Rio
 O paciente suspeito de infecção por ebola em Cascavel, no interior do Paraná, já chegou ao Rio de Janeiro nesta sexta-feira, informou a Agência Brasil.
 O paciente suspeito de infecção por ebola em Cascavel, no interior do Paraná, já chegou ao Rio de Janeiro nesta sexta-feira, informou a Agência Brasil.
@@ -14686,7 +14686,7 @@ Durante a reunião, o vice-diretor da Organização Mundial de Saúde (OMC), Bru
 Segundo Alyward, os chefes de Estado enfrentam um desafio extraordinário pois precisam comunicar à população a urgência da situação, mas não podem causar pânico.
 Colaboraram Luís Barrucho, Mariana Della Barba e Renata Mendonça em São Paulo
 </doc>
-<doc id='bbc_140326_ebola_brasileiros_guine_pai_rs' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/03/140326_ebola_brasileiros_guine_pai_rs' term='ebola'>
+<doc docid='bbc_140326_ebola_brasileiros_guine_pai_rs' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/03/140326_ebola_brasileiros_guine_pai_rs' term='ebola'>
 Surto de ebola assusta brasileiros que vivem na Guiné
 O surto de ebola registrado na Guiné, país na costa oeste da África, está assustando a pequena comunidade de 70 brasileiros que mora no país.
 O surto de ebola registrado na Guiné, país na costa oeste da África, está assustando a pequena comunidade de 70 brasileiros que mora no país.
@@ -14708,7 +14708,7 @@ No interior do país, as pessoas também estão acostumadas a comer carne de ca�
 A Libéria, que faz fronteira com o sudeste da Guiné, relatou nesta semana cinco mortes que podem ter sido causadas pelo vírus. Na Serra Leoa, duas mortes registradas na cidade fronteiriça de Boidu também estão sob suspeita.
 O fato de a doença ter sintomas parecidos com os da malária e da cólera - que são endêmicas na África ocidental - torna ainda mais difícil sua detecção, informa a Reuters.
 </doc>
-<doc id='bbc_141007_ebola_contagio_estudo_ac' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141007_ebola_contagio_estudo_ac' term='ebola'>
+<doc docid='bbc_141007_ebola_contagio_estudo_ac' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141007_ebola_contagio_estudo_ac' term='ebola'>
 Risco de ebola chegar ao Brasil é de 5%, diz estudo
 A probabilidade de a epidemia de ebola chegar ao Brasil até o fim do mês é de 5%, colocando o país em último lugar em uma lista de 30 nações com maior risco elaborada por pesquisadores da Northeastern University, de Boston, nos Estados Unidos
 A probabilidade de a epidemia de ebola chegar ao Brasil até o fim do mês é de 5%, colocando o país em último lugar em uma lista de 30 nações com maior risco elaborada por pesquisadores da Northeastern University, de Boston, nos Estados Unidos
@@ -14734,7 +14734,7 @@ De acordo com Vespignani, nos dados mais recentes do estudo pode-se observar uma
 O pesquisador ressalta que a única maneira de fazer com que as probabilidades caiam para zero é resolver o surto na África Ocidental.
 "Não há outra maneira. Restrições de viagens só estarão adiando (a dispersão da doença) em três ou quatro semanas", adverte.
 </doc>
-<doc id='bbc_150102_ebola_2015_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/01/150102_ebola_2015_pai' term='ebola'>
+<doc docid='bbc_150102_ebola_2015_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/01/150102_ebola_2015_pai' term='ebola'>
 Epidemia de ebola pode ser erradicada em 2015, diz representante da ONU
 A epidemia de ebola, que já matou quase 8 mil pessoas, pode ser erradicada ainda em 2015, disse o chefe da equipe da ONU responsável pelo combate à doença.
 A epidemia de ebola, que já matou quase 8 mil pessoas, pode ser erradicada ainda em 2015, disse o chefe da equipe da ONU responsável pelo combate à doença.
@@ -14751,7 +14751,7 @@ Leia mais: Pior epidemia de ebola da história começou com a morte de um menino
 Banbury reconheceu que sua missão de três meses na ONU, que acaba de chegar ao fim, fracassou no objetivo de realizar 100% dos enterros de vítimas do ebola de forma segura (para evitar a contaminação decorrente de cadáveres) e tratar 70% dos infectados.
 Mas ele elogiou os esforços internacionais contra a doença.
 </doc>
-<doc id='bbc_141002_ebola_serraleoa_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141002_ebola_serraleoa_lab' term='ebola'>
+<doc docid='bbc_141002_ebola_serraleoa_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141002_ebola_serraleoa_lab' term='ebola'>
 Serra Leoa tem 5 novos infectados por ebola a cada hora, diz ONG
 Cinco novos casos de ebola são diagnosticados por hora em Serra Leoa e não há leitos suficientes para os doentes no país, alertou a ONG Save the Children.
 Cinco novos casos de ebola são diagnosticados por hora em Serra Leoa e não há leitos suficientes para os doentes no país, alertou a ONG Save the Children.
@@ -14770,7 +14770,7 @@ Nesta quinta-feira, uma conferência organizada pelos governos da Grã-Bretanha 
 O encontro será presidido pelo ministro do Exterior britânico Philip Hammond, que disse esperar que a reunião "aumentasse a conscientização sobre a doença e sobre o que é necessário para contê-la, incentivasse compromissos ambiciosos e mostrasse a nossa solidariedade com Serra Leoa e a região."
 No entanto, segundo o correspondente da BBC Mark Doyle, é improvável que o presidente de Serra Leoa, Ernest Bai Koroma, possa comparecer ao evento. De acordo com informações vindas da capital do país, Freetown, o avião britânico enviado para buscar o presidente teve uma falha técnica.
 </doc>
-<doc id='bbc_brasil-37447115' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-37447115' term='ebola'>
+<doc docid='bbc_brasil-37447115' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/brasil-37447115' term='ebola'>
 Criador do Facebook anuncia fundo para 'acabar com doenças'; mas isso é possível?
 O fundador do Facebook, Mark Zuckerberg, e sua esposa, a médica Priscilla Chan, anunciaram nesta semana que destinarão US$ 3 bilhões (R$ 9,6 bi) nos próximos dez anos para financiar pesquisas médicas ao longo da próxima década.
 O fundador do Facebook, Mark Zuckerberg, e sua esposa, a médica Priscilla Chan, anunciaram nesta semana que destinarão US$ 3 bilhões (R$ 9,6 bi) nos próximos dez anos para financiar pesquisas médicas ao longo da próxima década.
@@ -14794,12 +14794,12 @@ Mas enquanto a Força Tarefa Internacional para a Erradicação de Doenças nos 
 O professor Louis Niessen, economista de saúde da Escola de Medicina Tropical da Universidade de Liverpool, também é cético sobre a possibilidade de se eliminar completamente as doenças.
 "É o velho ditado: você tem que morrer de alguma coisa", disse.
 </doc>
-<doc id='bbc_140910_ebola_liberia_crise_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2014/09/140910_ebola_liberia_crise_hb' term='ebola'>
+<doc docid='bbc_140910_ebola_liberia_crise_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2014/09/140910_ebola_liberia_crise_hb' term='ebola'>
 Pacientes com ebola sem força para ficar de pé são barrados em hospital
 
 
 </doc>
-<doc id='bbc_141010_ebola_aeroportos_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141010_ebola_aeroportos_lab' term='ebola'>
+<doc docid='bbc_141010_ebola_aeroportos_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141010_ebola_aeroportos_lab' term='ebola'>
 Ebola: testes em aeroportos não detectam infectados sem sintomas
 A confirmação de casos de ebola na Espanha e nos Estados Unidos e a primeira suspeita de contágio no Brasil aumentaram a expectativa sobre a realização de testes em aeroportos para tentar evitar que o vírus se espalhe.
 A confirmação de casos de ebola na Espanha e nos Estados Unidos e a primeira suspeita de contágio no Brasil aumentaram a expectativa sobre a realização de testes em aeroportos para tentar evitar que o vírus se espalhe.
@@ -14842,7 +14842,7 @@ Ele só apresentou sintomas uma semana depois de voltar aos EUA.
 O primeiro caso diagnosticado na Europa nesta epidemia, da enfermeira espanhola Teresa Romero, também não teria sido identificado pela triagem no aeroporto, porque a profissional de saúde já estava no país quando pegou a doença.
 Ela integrava a equipe que tratou, na Espanha, de um padre que contraiu ebola em Serra Leoa e foi transferido para Madri.
 </doc>
-<doc id='bbc_141104_serra_leoa_ebola_fd' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/11/141104_serra_leoa_ebola_fd' term='ebola'>
+<doc docid='bbc_141104_serra_leoa_ebola_fd' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/11/141104_serra_leoa_ebola_fd' term='ebola'>
 Aldeia de Serra Leoa perde 10% da população para o ebola
 A quatro horas de viagem ao norte de Freetown, a capital de Serra Leoa, a aldeia de Kigbal se transformou no epicentro de um novo surto de ebola no país.
 A quatro horas de viagem ao norte de Freetown, a capital de Serra Leoa, a aldeia de Kigbal se transformou no epicentro de um novo surto de ebola no país.
@@ -14870,7 +14870,7 @@ Recentemente um profissional de saúde levou sete crianças vulneráveis de Kigb
 "Minha cabeça está doendo", diz Alusin, de seis anos, antes de voltar a sentar com as outras crianças sob a sombra.
 Ao lado delas, dois adultos - um deles tossindo violentamente -, estão deitados no chão.
 </doc>
-<doc id='bbc_141011_ebola_racismo_chioro_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141011_ebola_racismo_chioro_lab' term='ebola'>
+<doc docid='bbc_141011_ebola_racismo_chioro_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141011_ebola_racismo_chioro_lab' term='ebola'>
 Ministro chama manifestações racistas de inaceitáveis e descarta 'fechamento' de fronteiras
 O ministro da Saúde, Arthur Chioro, classificou neste sábado de "inaceitáveis" as manifestações de racismo ocorridas após a suspeita de que um imigrante da Guiné estivesse com ebola e descartou a hipótese de impedir a entrada de estrangeiros no país ou realizar testes em aeroportos.
 O ministro da Saúde, Arthur Chioro, classificou neste sábado de "inaceitáveis" as manifestações de racismo ocorridas após a suspeita de que um imigrante da Guiné estivesse com ebola e descartou a hipótese de impedir a entrada de estrangeiros no país ou realizar testes em aeroportos.
@@ -14895,12 +14895,12 @@ O ministro da Saúde afirmou ainda que o Brasil continua sendo um país com "ris
 "O Brasil continua sendo um país com pouca chance de transmissão da doença, o que não significa que não pode ocorrer, mas o risco é baixo. Nosso fluxo de turismo de viajantes com esses países é pequeno", afirmou.
 Ele acrescentou ainda que os preparativos para a Copa do Mundo deixaram um legado que tornou eficiente a resposta do sistema de saúde a ameaças como a do ebola.
 </doc>
-<doc id='bbc_140829_paciente_ebola_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2014/09/140829_paciente_ebola_pai' term='ebola'>
+<doc docid='bbc_140829_paciente_ebola_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/videos_e_fotos/2014/09/140829_paciente_ebola_pai' term='ebola'>
 Paciente com ebola foge e assusta frequentadores de mercado na África
 
 
 </doc>
-<doc id='bbc_140730_surtoebola_vj_ebc' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/07/140730_surtoebola_vj_ebc' term='ebola'>
+<doc docid='bbc_140730_surtoebola_vj_ebc' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/07/140730_surtoebola_vj_ebc' term='ebola'>
 Agentes enfrentam obstáculos e medo no combate ao ebola
 Agentes de saúde envolvidos no combate ao surto do vírus ebola enfrentam dificuldades para atuar nas regiões mais remotas da África Ocidental.
 Agentes de saúde envolvidos no combate ao surto do vírus ebola enfrentam dificuldades para atuar nas regiões mais remotas da África Ocidental.
@@ -14929,12 +14929,12 @@ Ele afirma que faltou insistir na maior chance de sobrevivência daqueles que v�
 Embora autoridades digam que o número de infectados na região de Gueckadou e imediações esteja caindo, o vírus está longe de estar controlado.
 Diariamente, milhares de pessoas cruzam as fronteiras da Guiné rumo a Serra Leoa e Libéria. Em apenas três dias, entre 20 e 23 de julho, foram registrados 71 novos casos em Serra Leoa e outros 25 na Libéria, em comparação aos 12 reportados na Guiné.
 </doc>
-<doc id='bbc_internacional-41839220' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/internacional-41839220' term='ebola'>
+<doc docid='bbc_internacional-41839220' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/internacional-41839220' term='ebola'>
 A ex-miss que virou empresária e ajuda a educar meninas em um dos países mais pobres do mundo
 
 
 </doc>
-<doc id='bbc_140811_etica_ebola_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140811_etica_ebola_lab' term='ebola'>
+<doc docid='bbc_140811_etica_ebola_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140811_etica_ebola_lab' term='ebola'>
 OMS enfrenta dilema ético sobre quem vai receber novo tratamento para ebola
 Após o aparente sucesso de um tratamento de ebola feito em médicos americanos, a Organização Mundial de Saúde (OMS) reúne especialistas em ética nesta segunda-feira, em Genebra, para discutir se é certo usar remédios que nunca foram testados em humanos -e, neste caso, quem deve receber o medicamento, já que a oferta é limitada.
 Após o aparente sucesso de um tratamento de ebola feito em médicos americanos, a Organização Mundial de Saúde (OMS) reúne especialistas em ética nesta segunda-feira, em Genebra, para discutir se é certo usar remédios que nunca foram testados em humanos -e, neste caso, quem deve receber o medicamento, já que a oferta é limitada.
@@ -14955,7 +14955,7 @@ Além da desconfiança em relação a profissionais de saúde, há ainda a quest
 Em epidemias anteriores, afirma Sokol, alguns sobreviventes não foram aceitos de volta em sua comunidades. Outros não conseguiram mais encontrar trabalho ou foram abandonados por seus parceiros. Após a epidemia de 2000/2001 em Uganda, as casas de alguns sobreviventes foram queimadas.
 "É contra esse passado complexo historicamente, culturalmente e socialmente que os especialistas em ética terão que tomar uma decisão. As normas de ética médica, como a permissão para tratamento, também podem ser diferentes lá, e existe o perigo de transpor normas ocidentais para culturas diferentes", afirma.
 </doc>
-<doc id='bbc_090503_gripebichinhohanashiro' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2009/05/090503_gripebichinhohanashiro' term='ebola'>
+<doc docid='bbc_090503_gripebichinhohanashiro' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2009/05/090503_gripebichinhohanashiro' term='ebola'>
 Gripe suína rende piadas, camisetas e jogos no México
 O surto de gripe suína causou grande preocupação no México, mas também inspirou o lado brincalhão dos mexicanos e fomentou uma onda de produtos que tratam do problema com muito humor e irreverência.
 O surto de gripe suína causou grande preocupação no México, mas também inspirou o lado brincalhão dos mexicanos e fomentou uma onda de produtos que tratam do problema com muito humor e irreverência.
@@ -14995,7 +14995,7 @@ Fundada em 2002, Giantmicrobes produz animais de pelúcia com aparência de micr
 Os produtos são direcionados a crianças, educadores e profissionais de saúde. "Quero fazer para os micróbios o que Walt Disney fez para os roedores", disse Drew Oliver, fundador da empresa.
 Foster disse que já há pessoas tentando revender uma versão pirata do bichinho do vírus do resfriado como o novo mascote da gripe suína. "Este produto que estão tentando comercializar no México é uma infração dos nossos direitos de propriedade intelectual e, além disso, não se trata de uma novidade, mas algo que foi lançado há cerca de sete anos."
 </doc>
-<doc id='bbc_150819_racismo_imigrantes_jp_rm' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2015/08/150819_racismo_imigrantes_jp_rm' term='ebola'>
+<doc docid='bbc_150819_racismo_imigrantes_jp_rm' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2015/08/150819_racismo_imigrantes_jp_rm' term='ebola'>
 Racismo contra imigrantes no Brasil é constante, diz pesquisador
 "A noção de que o Brasil é um país hospitaleiro, onde todos os estrangeiros e imigrantes são bem-vindos, não passa de um mito", diz o pesquisador Gustavo Barreto, após analisar mais de 11 mil edições de jornais e revistas entre 1808 e 2015.
 "A noção de que o Brasil é um país hospitaleiro, onde todos os estrangeiros e imigrantes são bem-vindos, não passa de um mito", diz o pesquisador Gustavo Barreto, após analisar mais de 11 mil edições de jornais e revistas entre 1808 e 2015.
@@ -15043,7 +15043,7 @@ Hoje em dia a posição continua, mas travestida por outro argumento. A imprensa
 No contexto atual, de crise econômica e política, há que se observar atentamente a maneira como o imigrante será retratado na imprensa, por ele ser um excelente bode expiatório para os problemas. Não tem grande chance de defesa, não está integrado ao país, é o outro, o diferente, que traz dificuldades.
 Desemprego, inflação e crise tendem a tornar a visão dos imigrantes ainda mais negativa.
 </doc>
-<doc id='bbc_140603_ebola_serra_leoa_fl' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/06/140603_ebola_serra_leoa_fl' term='ebola'>
+<doc docid='bbc_140603_ebola_serra_leoa_fl' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/06/140603_ebola_serra_leoa_fl' term='ebola'>
 Surto de Ebola faz empresa britânica retirar funcionários de Serra Leoa
 A empresa britânica London Mining informou ter evacuado de Serra Leoa funcionários considerados "não essenciais" por causa de um surto do vírus Ebola no país.
 A empresa britânica London Mining informou ter evacuado de Serra Leoa funcionários considerados "não essenciais" por causa de um surto do vírus Ebola no país.
@@ -15057,7 +15057,7 @@ O governo de Serra Leoa, com a ajuda de agências humanitárias, está fazendo o
 Mas, no final da semana passada, famílias de vários pacientes internados em uma clínica em uma zona rural invadiram o local e os removeram à força.
 O correspondente da BBC Mark Doyle diz que muitas famílias querem que seus parentes sejam tratados por curandeiros africanos tradicionais, o que estaria ajudando a espalhar a doença.
 </doc>
-<doc id='bbc_140721_medica_ebola_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/07/140721_medica_ebola_lab' term='ebola'>
+<doc docid='bbc_140721_medica_ebola_lab' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/07/140721_medica_ebola_lab' term='ebola'>
 Contra estigma, altas de ebola têm 'ritual do abraço', diz médica brasileira
 Fazia tanto calor dentro da "roupa de astronauta" que a médica brasileira Rachel Soeiro vestia que, depois de 40 minutos, ela mal conseguia respirar.
 Fazia tanto calor dentro da "roupa de astronauta" que a médica brasileira Rachel Soeiro vestia que, depois de 40 minutos, ela mal conseguia respirar.
@@ -15092,7 +15092,7 @@ Não tive medo (de contaminação) em nenhum momento. Apesar de ser muito contag
 Tivemos 75% de cura, mas infelizmente esse não é o perfil da epidemia. É um vírus bem letal, e em outras regiões da Guiné ainda há um índice de letalidade muito alto, porque as pessoas chegam tarde.
 Nosso sucesso foi porque o pessoal chegou cedo, não esconderam os doentes em casa. E acho que também porque um paciente deu o testemunho dele. Mostrou que a doença, mesmo sendo grave, tem cura."
 </doc>
-<doc id='bbc_internacional-49287248' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-49287248' term='ebola'>
+<doc docid='bbc_internacional-49287248' lang='por' type='mono' source_url='https://www.bbc.co.uk/portuguese/internacional-49287248' term='ebola'>
 Como identificar uma teoria da conspiração
 Se você acreditasse em todas as teorias conspiratórias que já ouviu por aí, o mundo seria um lugar bem peculiar.
 Se você acreditasse em todas as teorias conspiratórias que já ouviu por aí, o mundo seria um lugar bem peculiar.
@@ -15128,7 +15128,7 @@ Final de YouTube post  de BBC News Brasil
 Final de YouTube post 2 de BBC News Brasil
 Final de YouTube post 3 de BBC News Brasil
 </doc>
-<doc id='bbc_141016_ebola_big_data' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141016_ebola_big_data' term='ebola'>
+<doc docid='bbc_141016_ebola_big_data' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141016_ebola_big_data' term='ebola'>
 Como dados de celulares e Twitter ajudam no combate ao ebola
 A epidemia do ebola, que já matou mais de quatro mil pessoas, pode ser controlada com ajuda da análise de dados provenientes de fontes tão diversas como a telefonia celular e o uso de mídia sociais.
 A epidemia do ebola, que já matou mais de quatro mil pessoas, pode ser controlada com ajuda da análise de dados provenientes de fontes tão diversas como a telefonia celular e o uso de mídia sociais.
@@ -15157,7 +15157,7 @@ Para Tim Gamble, consultor da empresa Datamonitor Healthcare, a análise do "big
 Gamble, que trabalhou na companhia farmacêutica americana Pfizer, cita o caso das pesquisas sobre o HIV.
 "O tratamento retroviral para o HIV só decolou depois de percebermos que populações escandinavas tinham mais resistência. A partir daí pudemos desenvolver uma droga que imitava a maneira como aqueles pessoas resistiam", explica.
 </doc>
-<doc id='bbc_141013_futebol_serraleoa_ebola_rm' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141013_futebol_serraleoa_ebola_rm' term='ebola'>
+<doc docid='bbc_141013_futebol_serraleoa_ebola_rm' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141013_futebol_serraleoa_ebola_rm' term='ebola'>
 Jogadores de Serra Leoa sofrem preconceito por causa do ebola
 "Você se sente humilhado, como um lixo, e tem vontade de socar alguém", disse John Trye, goleiro reserva da seleção de Serra Leoa, após ouvir um estádio inteiro ecoar o grito contra a sua seleção: "Ebola! Ebola!".
 "Você se sente humilhado, como um lixo, e tem vontade de socar alguém", disse John Trye, goleiro reserva da seleção de Serra Leoa, após ouvir um estádio inteiro ecoar o grito contra a sua seleção: "Ebola! Ebola!".
@@ -15177,7 +15177,7 @@ Apesar da discriminação que vêm sofrendo, os jogadores de Serra Leoa tentaram
 Enquanto isso, Solomon Zombo Morris, o goleiro de Serra Leoa, se disse orgulhoso de representar o seu país, especialmente neste período atormentado pela epidemia do ebola.
 "Esta é a única forma que temos para fazer as pessoas felizes", disse Mensah. "Nós devemos essa alegria a eles", disse.
 </doc>
-<doc id='bbc_160115_gambia_dividas_religiado_fd' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2016/01/160115_gambia_dividas_religiado_fd' term='ebola'>
+<doc docid='bbc_160115_gambia_dividas_religiado_fd' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2016/01/160115_gambia_dividas_religiado_fd' term='ebola'>
 Gâmbia: o país que se converteu ao islamismo para escapar da falência
 A Gâmbia é um pequeno país da África Ocidental onde a maioria de seus 1,9 milhão de habitantes segue a religião muçulmana (94%).
 A Gâmbia é um pequeno país da África Ocidental onde a maioria de seus 1,9 milhão de habitantes segue a religião muçulmana (94%).
@@ -15211,7 +15211,7 @@ Para se tornar um país islâmico, porém, a Gâmbia vai precisar mudar a Consti
 A adoção da Sharia também significa proibir a venda de álcool, o que afetaria ainda mais o turismo ocidental.
 O mais preocupante, porém, é a imposição religiosa em um país acostumado a promover a igualdade entre as crenças.
 </doc>
-<doc id='bbc_150128_software_onibus_sp_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/01/150128_software_onibus_sp_rb' term='ebola'>
+<doc docid='bbc_150128_software_onibus_sp_rb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/01/150128_software_onibus_sp_rb' term='ebola'>
 São Paulo testa software para modernizar gestão 'arcaica' dos ônibus
 Hoje em dia, monitorar os 15 mil ônibus da cidade de São Paulo requer uma boa dose de trabalho manual. Para saber se as empresas cumprem os contratos ou quantas pessoas circulam nas linhas, por exemplo, fiscais precisam ir às ruas para checar tudo pessoalmente. A rotina, chamada de "arcaica" pela própria SPTrans, órgão municipal responsável pelo sistema, pode estar prestes a mudar.
 Hoje em dia, monitorar os 15 mil ônibus da cidade de São Paulo requer uma boa dose de trabalho manual. Para saber se as empresas cumprem os contratos ou quantas pessoas circulam nas linhas, por exemplo, fiscais precisam ir às ruas para checar tudo pessoalmente. A rotina, chamada de "arcaica" pela própria SPTrans, órgão municipal responsável pelo sistema, pode estar prestes a mudar.
@@ -15247,7 +15247,7 @@ Biderman, da SPtrans, afirma que o próximo passo será criar um grupo de trabal
 A Prefeitura está finalizando a licitação para contratar um serviço de computação em nuvem, que usa a internet e computadores de grande porte de empresas terceirizadas para armazenar e analisar grandes volumes de dados.
 Com isso concluído, a SPTrans pretende ampliar a base de informações que alimenta o software, dos atuais três meses para dois anos de dados. O órgão espera ter até fevereiro o sistema analisando dados com uma defasagem de 15 dias.
 </doc>
-<doc id='bbc_150102_noticias_internacionais_2015_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/01/150102_noticias_internacionais_2015_pai' term='ebola'>
+<doc docid='bbc_150102_noticias_internacionais_2015_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/01/150102_noticias_internacionais_2015_pai' term='ebola'>
 O que dominará as manchetes internacionais em 2015?
 Notícias muitas vezes são imprevisíveis e surpreendentes, mas alguns temas, de tão importantes, certamente serão manchetes em 2015.
 Notícias muitas vezes são imprevisíveis e surpreendentes, mas alguns temas, de tão importantes, certamente serão manchetes em 2015.
@@ -15298,7 +15298,7 @@ Essas tendências antimercado, fortes no Ocidente desde a crise financeira, segu
 Fique de olho em avanços tecnológicos em inteligência artificial e computadores pensantes, em novas turbulências na zona do euro e em importantes descobertas na busca por uma vacina contra o ebola, esforço liderado por GlaxoSmithKline e Johnson & Johnson.
 Haverá mais boas notícias econômicas vindas dos EUA (ainda a maior potência global) e, em geral, um clima mais otimista no mundo dos negócios no final do ano, em comparação ao início.
 </doc>
-<doc id='bbc_141006_ebola_aeroportos_eua_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141006_ebola_aeroportos_eua_fn' term='ebola'>
+<doc docid='bbc_141006_ebola_aeroportos_eua_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141006_ebola_aeroportos_eua_fn' term='ebola'>
 Espanha confirma 1º caso de contágio por ebola fora da África
 Uma enfermeira da Espanha que tratou uma pessoa diagnosticada com ebola em Madri foi contaminada com o vírus e se tornou a primeira a contrair a doença fora da África, afirmaram nesta segunda-feira autoridades de saúde espanholas.
 Uma enfermeira da Espanha que tratou uma pessoa diagnosticada com ebola em Madri foi contaminada com o vírus e se tornou a primeira a contrair a doença fora da África, afirmaram nesta segunda-feira autoridades de saúde espanholas.
@@ -15324,7 +15324,7 @@ O ebola se espalha rapidamente por meio de contato com fluidos corporais de algu
 Até agora, já foram confirmados oficialmente cerca de 7,5 mil casos da doença. Autoridades afirmam, entretanto, o que o número real pode ser muito maior.
 Guiné, Serra Leoa e Libéria foram os países mais atingidos até agora.
 </doc>
-<doc id='bbc_141006_salasocial_ebola_redes_rs' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141006_salasocial_ebola_redes_rs' term='ebola'>
+<doc docid='bbc_141006_salasocial_ebola_redes_rs' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141006_salasocial_ebola_redes_rs' term='ebola'>
 #SalaSocial: Ebola se espalha pelas redes sociais, e racismo volta à tona
 O vírus ebola se espalhou pelas redes sociais no Brasil desde a primeira suspeita de infecção no país, reportada em Cascavel, no interior do Paraná.
 O vírus ebola se espalhou pelas redes sociais no Brasil desde a primeira suspeita de infecção no país, reportada em Cascavel, no interior do Paraná.
@@ -15346,12 +15346,12 @@ Os resultados dos exames, segundo Chioro, saem em 24 horas.
 "Se tivermos o resultado do exame antes, imediatamente tornaremos público. Pelo protocolo, é necessário confirmá-lo em dois laboratórios. Mesmo se esse resultado der negativo, será colhida em 48 horas uma segunda amostra para análise e posterior informação do resultado."
 Leia mais: Entenda o que é o ebola e como ocorre o contágio
 </doc>
-<doc id='bbc_160128_aprenda_scanner' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/videos_e_fotos/2016/02/160128_aprenda_scanner' term='ebola'>
+<doc docid='bbc_160128_aprenda_scanner' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/videos_e_fotos/2016/02/160128_aprenda_scanner' term='ebola'>
 'Scanner' de cérebro portátil é novidade em ambulâncias
 
 
 </doc>
-<doc id='bbc_151120_vert_tra_peste_negra_lab' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2015/11/151120_vert_tra_peste_negra_lab' term='ebola'>
+<doc docid='bbc_151120_vert_tra_peste_negra_lab' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2015/11/151120_vert_tra_peste_negra_lab' term='ebola'>
 O vilarejo que conseguiu derrotar a peste negra
 Em apenas oito dias de agosto de 1667, Elizabeth Hancock perdeu seus seis filhos e seu marido. Cobrindo a boca com um lenço para evitar o cheiro da decomposição, ela arrastou os corpos para um campo próximo e enterrou-os.
 Em apenas oito dias de agosto de 1667, Elizabeth Hancock perdeu seus seis filhos e seu marido. Cobrindo a boca com um lenço para evitar o cheiro da decomposição, ela arrastou os corpos para um campo próximo e enterrou-os.
@@ -15394,7 +15394,7 @@ versão original desta reportagem em inglês no site
 do BBC Travel.
 
 </doc>
-<doc id='bbc_141111_nyt_embargo_cuba_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/11/141111_nyt_embargo_cuba_pai' term='ebola'>
+<doc docid='bbc_141111_nyt_embargo_cuba_pai' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/11/141111_nyt_embargo_cuba_pai' term='ebola'>
 Por que o 'New York Times' quer fim do embargo a Cuba?
 O jornal americano The New York Times (NYT) publicou cinco editoriais a respeito de Cuba em cinco semanas consecutivas, todos em suas edições de fim de semana, escritos em inglês e em espanhol.
 O jornal americano The New York Times (NYT) publicou cinco editoriais a respeito de Cuba em cinco semanas consecutivas, todos em suas edições de fim de semana, escritos em inglês e em espanhol.
@@ -15426,7 +15426,7 @@ Mas alguns comentaristas são um pouco céticos sobre o efeito real dos editoria
 Piccone agrega que o New York Times "às vezes tem uma sensação inflada de poder e influência" e opinou que, por si só, não acredita que os editoriais tenham um impacto tão expressivo.
 Independentemente disso, o editor Andrew Rosenthal se diz satisfeito com a repercussão e diz que o jornal seguirá buscando ângulos que "alimentem o debate" sobre Cuba.
 </doc>
-<doc id='bbc_141106_ebola_vacinas_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/11/141106_ebola_vacinas_hb' term='ebola'>
+<doc docid='bbc_141106_ebola_vacinas_hb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/11/141106_ebola_vacinas_hb' term='ebola'>
 Testes com vacina antiebola no Mali têm resultados 'promissores'
 Resultados preliminares no Mali do primeiro teste de uma vacina contra o ebola realizado na África parecem promissores.
 Resultados preliminares no Mali do primeiro teste de uma vacina contra o ebola realizado na África parecem promissores.
@@ -15452,7 +15452,7 @@ As amostras são processadas em um laboratório no centro de pesquisa. Os cienti
 Elas são, então, enviadas à Universidade de Maryland, nos Estados Unidos, para uma análise mais sofisticada determinar se há a imunidade contra o ebola.
 "O que esperamos é ter essa vacina o mais rápido possível para que ela possa nos ajudar a controlar melhor a epidemia", disse Sow.
 </doc>
-<doc id='bbc_140707_ebola_gana_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/07/140707_ebola_gana_fn' term='ebola'>
+<doc docid='bbc_140707_ebola_gana_fn' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/07/140707_ebola_gana_fn' term='ebola'>
 Cidadão dos EUA é suspeito de ter contraído ebola em Gana
 O Ministério da Saúde de Gana informou nesta segunda-feira que o país está tratando um caso suspeito de ebola em um cidadão americano.
 O Ministério da Saúde de Gana informou nesta segunda-feira que o país está tratando um caso suspeito de ebola em um cidadão americano.
@@ -15468,7 +15468,7 @@ Na semana passada, os ministros da Saúde de 11 países do oeste da África se r
 A doença já infectou 759 pessoas na Guiné, Libéria e Serra Leoa. A maioria dos 467 mortos pelo ebola são da região de Guekedou, sul da Giné, onde os primeiros casos surgiram.
 Mas as autoridades de saúde afirmam que as fronteiras permeáveis do país permitem que pessoas infectadas acabem levando o vírus para outros países.
 </doc>
-<doc id='bbc_vert-fut-40728180' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/vert-fut-40728180' term='ebola'>
+<doc docid='bbc_vert-fut-40728180' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/vert-fut-40728180' term='ebola'>
 Como as mudanças climáticas vão mudar o mundo dos negócios e o mercado de trabalho
 Quando falamos em mudanças climáticas, a maioria das pessoas pensa em consequências ambientais como aumento do nível do mar, temperaturas elevadas e derretimento de geleiras.
 Quando falamos em mudanças climáticas, a maioria das pessoas pensa em consequências ambientais como aumento do nível do mar, temperaturas elevadas e derretimento de geleiras.
@@ -15518,7 +15518,7 @@ Da mesma forma, diz Winston, em sua busca por funcionários em potencial, a maio
 "Está defasado considerando o tamanho do desafio. Isso ocorre porque por muitos anos as pessoas achavam que era algo político. Você não se meteria em uma encrenca se dissesse 'ei, todos deveriam receber um treinamento em redes sociais', mas poderia se dissesse 'ei, todo mundo deveria ser treinado em mudanças climáticas'", afirma ele.
 Mas, acrescenta Winston, "isso está mudando". E essa transformação já está acontecendo, completa - com ou sem a participação dos Estados Unidos no Acordo de Paris.
 </doc>
-<doc id='bbc_140901_combate_ebola_msf_rm' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140901_combate_ebola_msf_rm' term='ebola'>
+<doc docid='bbc_140901_combate_ebola_msf_rm' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/09/140901_combate_ebola_msf_rm' term='ebola'>
 Mundo está perdendo batalha contra ebola na África, diz ONG
 Mais de 1.500 mortes, pelo menos o dobro de infectados e uma perspectiva nada otimista de que outras dezenas de milhares de pessoas possam apresentar o vírus em um futuro próximo. Foi assim que a ONG Médicos Sem Fronteiras (MSF) descreveu a epidemia de ebola para os membros das Nações Unidas.
 Mais de 1.500 mortes, pelo menos o dobro de infectados e uma perspectiva nada otimista de que outras dezenas de milhares de pessoas possam apresentar o vírus em um futuro próximo. Foi assim que a ONG Médicos Sem Fronteiras (MSF) descreveu a epidemia de ebola para os membros das Nações Unidas.
@@ -15539,7 +15539,7 @@ Segundo Liu, a única maneira de prevenir que a epidemia se torne ainda maior se
 A organização Médicos Sem Fronteiras afirma que chegou a criar uma instalação apropriada para tratar o vírus com salas de isolamento em um bairro em Monróvia, na Libéria, mas o número de camas não foi o suficiente para atender todos os pacientes.
 Eram 160 leitos, mas em pouco tempo o local ficou superlotado, com filas gigantescas e a necessidade de pelo menos mais 800 camas para atender a todos.
 </doc>
-<doc id='bbc_141021_ebola_corpos_mdb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141021_ebola_corpos_mdb' term='ebola'>
+<doc docid='bbc_141021_ebola_corpos_mdb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141021_ebola_corpos_mdb' term='ebola'>
 Ebola: Cruz Vermelha recolhe mais de 100 corpos por dia em Serra Leoa
 A Cruz Vermelha, que está tentando combater o ebola em Serra Leoa, afirmou nesta quarta-feira que a escala da epidemia é tão alarmante que funcionários da organização estão retirando mais de 100 corpos por dia.
 A Cruz Vermelha, que está tentando combater o ebola em Serra Leoa, afirmou nesta quarta-feira que a escala da epidemia é tão alarmante que funcionários da organização estão retirando mais de 100 corpos por dia.
@@ -15554,7 +15554,7 @@ Em outro desdobramento, uma comissão de emergência da OMS está reunida pela t
 O encontro, em Genebra, tem como objetivo analisar as medidas que vêm sendo tomadas nas fronteiras entre países afetados, bem como se devem ou não ser colocadas em práticas restrições de viagens para passageiros vindos dessas nações.
 Críticos afirmam que a OMS foi lenta em sua reação para combater a doença.
 </doc>
-<doc id='bbc_140819_ebola_pacientesaparecem_ebc' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140819_ebola_pacientesaparecem_ebc' term='ebola'>
+<doc docid='bbc_140819_ebola_pacientesaparecem_ebc' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/08/140819_ebola_pacientesaparecem_ebc' term='ebola'>
 Ebola: pacientes desaparecidos de hospital saqueado são encontrados
 Os 17 pacientes suspeitos de contaminação pelo vírus ebola que estavam desaparecidos de um hospital na Libéria foram encontrados, de acordo com o ministro da Informação do país, Lewis Brown.
 Os 17 pacientes suspeitos de contaminação pelo vírus ebola que estavam desaparecidos de um hospital na Libéria foram encontrados, de acordo com o ministro da Informação do país, Lewis Brown.
@@ -15573,7 +15573,7 @@ Colchões com manchas de sangue, roupas de cama e equipamentos médicos foram le
 Diversas companhias aéreas já cancelaram seus voos para Guiné, Libéria e Serra Leoa – os países mais afetados pelo surto de ebola.
 Os sintomas do ebola incluem febre alta e sangramento; o vírus ataca o sistema nervoso central e a taxa de mortalidade chega a 90%.
 </doc>
-<doc id='bbc_140729_medico_serra_leoa_kb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/07/140729_medico_serra_leoa_kb' term='ebola'>
+<doc docid='bbc_140729_medico_serra_leoa_kb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/07/140729_medico_serra_leoa_kb' term='ebola'>
 Serra Leoa faz homenagem a médico que liderou luta e foi vítima do ebola
 O médico que liderou a luta contra o ebola em Serra Leoa morreu da doença nesta terça-feira.
 O médico que liderou a luta contra o ebola em Serra Leoa morreu da doença nesta terça-feira.
@@ -15595,7 +15595,7 @@ A maioria dos postos de fronteira na Libéria foram fechadas para conter o surto
 Em um comunicado, a Organização Mundial da Saúde (OMS) disse que 1.201 casos de ebola foram registrados em Guiné, Libéria e Serra Leoa.
 Das 672 mortes, o maior número foi na Guiné com 319, seguido por Serra Leoa e Libéria, com 224 e 129, disse.
 </doc>
-<doc id='bbc_140702_ebola_reuniao_ms' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/07/140702_ebola_reuniao_ms' term='ebola'>
+<doc docid='bbc_140702_ebola_reuniao_ms' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/07/140702_ebola_reuniao_ms' term='ebola'>
 OMS faz reunião de emergência para conter pior crise de ebola da história
 A Organização Mundial da Saúde (OMS) iniciou nesta quarta-feira uma reunião de emergência em Gana sobre o surto de ebola que eclodiu no oeste da África a partir de fevereiro.
 A Organização Mundial da Saúde (OMS) iniciou nesta quarta-feira uma reunião de emergência em Gana sobre o surto de ebola que eclodiu no oeste da África a partir de fevereiro.
@@ -15636,7 +15636,7 @@ Quem cuidar do doente deve usar luvas e equipamento de proteção, tais como má
 A OMS também adverte contra o consumo da carne de caça crua e qualquer contato com morcegos ou macacos.
 O ministro da Saúde da Libéria tem aconselhado as pessoas a parar de ter relações sexuais, além da orientação de não apertar as mãos ou dar beijo.
 </doc>
-<doc id='bbc_141012_ebola_eua_atualiza' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141012_ebola_eua_atualiza' term='ebola'>
+<doc docid='bbc_141012_ebola_eua_atualiza' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141012_ebola_eua_atualiza' term='ebola'>
 Ebola nos EUA: erro em hospital pode ser causa de transmissão
 A equipe do hospital que atendeu Thomas Duncan, que morreu devido ao ebola no Texas, cometeu um erro "claro" que resultou na transmissão da doença, segundo Thomas Frieden, diretor do Centros para o Controle e a Prevenção de Doenças (CDC, na sigla em inglês), ligado ao Departamento de Saúde dos EUA.
 A equipe do hospital que atendeu Thomas Duncan, que morreu devido ao ebola no Texas, cometeu um erro "claro" que resultou na transmissão da doença, segundo Thomas Frieden, diretor do Centros para o Controle e a Prevenção de Doenças (CDC, na sigla em inglês), ligado ao Departamento de Saúde dos EUA.
@@ -15664,7 +15664,7 @@ Depois, foi colocado em isolamento em um hospital em Dallas, no Texas. Ele morre
 Na Espanha, uma enfermeira que tratou de um padre infectado por ebola na África também contraiu a doença. Foi o primeiro caso de transmissão registrado fora do continente.
 A atual epidemia de ebola, concentrada na Libéria, Guiné e Serra Leoa, já teve mais de 8.300 casos confirmados ou suspeitos e pelo menos 4.033 mortes.
 </doc>
-<doc id='bbc_150325_brasileiro_ebola_mdb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/03/150325_brasileiro_ebola_mdb' term='ebola'>
+<doc docid='bbc_150325_brasileiro_ebola_mdb' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2015/03/150325_brasileiro_ebola_mdb' term='ebola'>
 'Ela perdeu o bebê, mas continuou cuidando de outras crianças com ebola'
 O brasileiro Roberto Wright Reis acaba de voltar de uma temporada de dois meses em Serra Leoa. Durante esse tempo, tudo em sua vida girava em torno do ebola. O tempo todo.
 O brasileiro Roberto Wright Reis acaba de voltar de uma temporada de dois meses em Serra Leoa. Durante esse tempo, tudo em sua vida girava em torno do ebola. O tempo todo.
@@ -15695,7 +15695,7 @@ Reis lembra do quanto aprendeu nas reuniões com os chefes tribais e outros líd
 Trabalhando com ajuda humanitária desde 2012, o brasileiro já havia atuado com com líderes locais e conscientização da população em outras de suas missões, mas normalmente em situações de conflito, como na Costa do Marfim e na Libéria (pela Acnur, a agência para refugiados da ONU) ou na República Centro-Africana, já no MSF.
 Em Serra Leoa, Reis teve de adaptar sua experiência para um cenário de epidemia que já matou mais de 10 mil pessoas. E conta que aceitaria, sem piscar, uma nova missão em áreas afetadas pelo ebola.
 </doc>
-<doc id='bbc_141014_ebola_heathrow' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141014_ebola_heathrow' term='ebola'>
+<doc docid='bbc_141014_ebola_heathrow' lang='por' type='mono' source_url='http://www.bbc.co.uk/portuguese/noticias/2014/10/141014_ebola_heathrow' term='ebola'>
 Ebola: Europa pode expandir checagem em aeroportos, mas qual a eficácia?
 Depois de Estados Unidos e Grã-Bretanha terem iniciado testes em aeroportos com passageiros provenientes dos países mais afetados pela epidemia do ebola, as operações de triagem de possíveis infectados poderão ser ampliadas na Europa.
 Depois de Estados Unidos e Grã-Bretanha terem iniciado testes em aeroportos com passageiros provenientes dos países mais afetados pela epidemia do ebola, as operações de triagem de possíveis infectados poderão ser ampliadas na Europa.
@@ -15742,7 +15742,7 @@ Ele só apresentou sintomas uma semana depois de voltar aos EUA.
 O primeiro caso diagnosticado na Europa nesta epidemia, da enfermeira espanhola Teresa Romero, também não teria sido identificado pela triagem no aeroporto, porque a profissional de saúde já estava no país quando pegou a doença.
 Ela integrava a equipe que tratou, na Espanha, de um padre que contraiu ebola em Serra Leoa e foi transferido para Madri.
 </doc>
-<doc id='bbc_151112_scioli_aecio_mc_tg' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2015/11/151112_scioli_aecio_mc_tg' term='ebola'>
+<doc docid='bbc_151112_scioli_aecio_mc_tg' lang='por' type='mono' source_url='http://www.bbc.com/portuguese/noticias/2015/11/151112_scioli_aecio_mc_tg' term='ebola'>
 Candidato apoiado por Lula na Argentina 'recicla' propaganda do PSDB
 Um vídeo da campanha do candidato governista à Presidência da Argentina, Daniel Scioli, chamou a atenção pela semelhança com uma propaganda do PSDB veiculada no Brasil em setembro passado.
 Um vídeo da campanha do candidato governista à Presidência da Argentina, Daniel Scioli, chamou a atenção pela semelhança com uma propaganda do PSDB veiculada no Brasil em setembro passado.

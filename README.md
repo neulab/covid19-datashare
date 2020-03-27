@@ -61,3 +61,11 @@ If we manage to align documents at the sentence level, we can add 'sent_id' info
 If you can't or don't want to convert your data into this xml, you could also share plain text files, but also add a README that will provide information on the source of the data, the type, etc etc
 
 For sharing large files, you can also upload a compressed archive. The current repo tracks `.zip` and `.tar.gz` files and stores them using [git-lfs](https://git-lfs.github.com/).
+
+## Sources we have already scraped/collected
+
+* Wikipedia
+* BBC World Service (22 languages)
+* Voice of America (31 languages)
+* International SOS Need-to-know slides [vietnamese example](https://pandemic.internationalsos.com/-/media/pandemic/files/pan-comms-new-corona-virus/intlsos_coronavirus_disease_2019_talk_simplified_v3_vi_vn.pptx)
+* [Canadian Government Public Service Announcements](https://www.sac-isc.gc.ca/eng/1583781906998/1583781926813)

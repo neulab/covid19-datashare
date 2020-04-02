@@ -68,6 +68,7 @@ Parallel:
 * International SOS Need-to-know slides [vietnamese example](https://pandemic.internationalsos.com/-/media/pandemic/files/pan-comms-new-corona-virus/intlsos_coronavirus_disease_2019_talk_simplified_v3_vi_vn.pptx) (6 languages)
 * [Canadian Government Public Service Announcements](https://www.sac-isc.gc.ca/eng/1583781906998/1583781926813) (21 languages)
 * [King County (WA) fact sheet](https://welcoming.seattle.gov/covid-19/?utm_source=WASCLA+Members&utm_campaign=f9ef53ee9b-EMAIL_CAMPAIGN_2020_03_04_10_45&utm_medium=email&utm_term=0_ec7c02e82f-f9ef53ee9b-47852315&mc_cid=f9ef53ee9b&mc_eid=6e5511a48a#top) (12 languages)
+* Crowd Sourced Translations from [1](https://drive.google.com/file/d/12KBKTLwHcBDIO5zV7nuOk2MtuaQ9FNPy/view?fbclid=IwAR01nqJu6DN_RIsoJSfCSCCR-vxPkmzLN8UKmeyIB_ORdWX6rTK795i6Pi8) for the languages of the Philippines (13 languages) 
 
 Monolingual/Comparable:
 * Wikipedia
@@ -75,5 +76,6 @@ Monolingual/Comparable:
 * Voice of America (31 languages)
 * [Deutsche Welle](https://www.dw.com/) (29 languages)
 * [El Diario](diario.aw) (Papiamento language)
+* Data from previous Medical Health Exercise (English)
 
 

@@ -1,0 +1,87 @@
+COVID-19 testing
+Laboratory testing for the respiratory coronavirus disease 2019 (COVID-19) and the associated SARS-CoV-2 virus includes methods that detect the presence of virus and those that detect antibodies produced in response to infection.
+The presence of viruses in samples is confirmed by RT-PCR, which detects the coronavirus'  RNA.
+This test is specific and is designed to only detect the RNA of the SARS-CoV-2 virus.
+It is used to confirm very recent or active infections.
+Detection of antibodies (serology) can be used both for diagnosis and population surveillance.
+Antibody tests show how many people have had the disease, including those whose symptoms were too minor to report or who were asymptomatic.
+An accurate mortality rate of the disease and the level of herd immunity in the population can be determined from the results of this test.
+Due to limited testing, as of March 2020 no countries had reliable data on the prevalence of the virus in their population.
+By 23 March, no country had tested more than 3% of their population, and there are massive variations in how much testing has been done across countries.
+This variability is also likely to be significantly affecting reported case fatality rates, which are likely to be significantly over-estimated in some countries.
+Using real-time reverse transcription polymerase chain reaction (rRT-PCR) the test can be done on respiratory samples obtained by various methods, including nasopharyngeal swab or sputum sample.
+Results are generally available within a few hours to 2 days.
+The RT-PCR test performed with throat swabs is only reliable in the first week of the disease.
+Later on the virus can disappear in the throat while it continues to multiply in the lungs.
+For infected people tested in the second week, alternatively sample material can then be taken from the deep airways by suction catheter or coughing up material (sputum) can be used.
+One of the early PCR tests was developed at Charité in Berlin in January 2020 using real-time reverse transcription polymerase chain reaction (rRT-PCR), and formed the basis of 250,000 kits for distribution by the World Health Organization (WHO).
+The United Kingdom had also developed a test by 23 January 2020.The South Korean company Kogenebiotech developed a clinical grade, PCR-based SARS-CoV-2 detection kit (PowerChek Coronavirus) on 28 January 2020.
+It looks for the "E" gene shared by all beta coronaviruses, and the RdRp gene specific to SARS-CoV-2.In China, BGI Group was one of the first companies to receive emergency use approval from China's National Medical Products Administration for a PCR-based SARS-CoV-2 detection kit.In the United States, the Centers for Disease Control and Prevention (CDC) is distributing its 2019-Novel Coronavirus (2019-nCoV) Real-Time RT-PCR Diagnostic Panel to public health labs through the International Reagent Resource.
+One of three genetic tests in older versions of the test kits caused inconclusive results due to faulty reagents, and a bottleneck of testing at the CDC in Atlanta; this resulted in an average of fewer than 100 samples a day being successfully processed throughout the whole of February 2020.
+Tests using two components were not determined to be reliable until 28 February 2020, and it was not until then that state and local laboratories were permitted to begin testing.
+The test was approved by the Food and Drug Administration under an Emergency Use Authorization.US commercial labs began testing in early March 2020.
+As of 5 March 2020 LabCorp announced nationwide availability of COVID-19 testing based on RT-PCR.
+Quest Diagnostics similarly made nationwide COVID-19 testing available as of 9 March 2020.
+No quantity limitations were announced; specimen collection and processing must be performed according to CDC requirements.
+In Russia, the COVID-19 test was developed and produced by the State Research Center of Virology and Biotechnology VECTOR.
+On 11 February 2020 the test was registered by the Federal Service for Surveillance in Healthcare.On 12 March 2020, Mayo Clinic was reported to have developed a test to detect COVID-19 infection.On 13 March 2020, Roche Diagnostics received FDA approval for a test which could be performed within 3.5 hours in high volume, thus allowing one machine to do approximately 4,128 tests in a 24-hour period.
+On 19 March 2020, the FDA issued emergency use authorization (EUA) to Abbott Laboratories for a test on Abbott's m2000 system; the FDA had previously issued similar authorization to Hologic, LabCorp, and Thermo Fisher Scientific.
+On 21 March 2020, Cepheid similarly received EUA from the FDA for a test that takes about 45 minutes.
+The FDA has approved a test that uses isothermal nucleic acid amplification technology instead of PCR.
+Since this does not require a series of alternating temperature cycles this method can deliver positive results in as little as five minutes and negative results in 13 minutes.
+There are currently about 18,000 of these machines in the U.S. and Abbott expects to ramp up manufacturing to deliver 50,000 tests per day.A test which uses a monoclonal antibody which specifically binds to the nucleocapsid protein (N protein) of the novel coronavirus is being developed in Taiwan, with the hope that it can provide results in 15 to 20 minutes just like a rapid influenza test.
+A March 2020 literature review concluded that "chest radiographs are of little diagnostic value in early stages, whereas CT [computed tomography] findings may be present even before symptom onset."
+Typical features on CT include bilateral multilobar ground-glass opacificities with a peripheral, asymmetric and posterior distribution.
+Subpleural dominance, crazy paving and consolidation develop as the disease evolves.
+A study comparing PCR to CT in Wuhan at the point of origin of the current pandemic has suggested that CT is significantly more sensitive than PCR, though less specific, with many of its imaging features overlapping with other pneumonias and disease processes.
+As of March 2020, the American College of Radiology recommends that "CT should not be used to screen for or as a first-line test to diagnose COVID-19".As of March 2020, the CDC recommends PCR for initial screening.
+Part of the immune response to infection is the production of antibodies including IgM and IgG.
+These can be used to detect infection in individuals starting 7 days or so after the onset of symptoms, to determine immunity, and in population surveillance.Assays can be performed in central laboratories (CLT) or by point-of-care testing (PoCT).
+The high-throughput automated systems in many clinical laboratories will be able to perform these assays but their availability will depend on the rate of production for each system.
+For CLT a single specimen of peripheral blood is commonly used, although serial specimens can be used to follow the immune response.
+For PoCT a single specimen of blood is usually obtained by skin puncture.
+Unlike PCR methods an extraction step is not needed before assay.On March 26, 2020, the FDA named 29 entities that provided notification to the agency as required and are now therefore able to distribute their antibody tests.
+As of April 7, 2020, only a single test has been approved by the FDA under an emergency use authorization.In late March 2020, Euroimmun Medical Laboratory Diagnostics and Epitope Diagnostics received European approvals for their test kits, which can detect IgG and IgA antibodies against the virus in blood samples.
+The testing capacity is several hundred samples within hours and therefore much faster than the conventional PCR assay of viral RNA.
+The antibodies are usually detectable 14 days after the onset of the infection.In early April, the UK found none of the antibody test kits it purchased were sufficiently good to use.
+Hong Kong has set up a scheme where suspected patients can stay home, "emergency department will give a specimen tube to the patient", they spit into it, send it back and get a test result a while after.The British NHS has announced that it is piloting a scheme to test suspected cases at home, which removes the risk of a patient infecting others if they come to a hospital or having to disinfect an ambulance if one is used.In drive-through testing for COVID-19 for suspected cases, a healthcare professional takes sample using appropriate precautions.
+Drive-through centers have helped South Korea do some of the fastest, most-extensive testing of any country.In Germany, the National Association of Statutory Health Insurance Physicians said on 2 March, that it had a capacity for about 12,000 tests per day in the ambulatory setting and 10.700 had been tested in the prior week.
+Costs are borne by the health insurance when the test is ordered by a physician.
+According to the president of the Robert Koch Institute, Germany has an overall capacity for 160,000 tests per week.
+As of 19 March drive in tests were offered in several large cities.
+As of 26 March 2020 the total number of tests performed in Germany was unknown, because only positive results are reported.
+A first lab survey revealed that as of calendar week 12/2020 a total of at least 483,295 samples were tested up to and including week 12/2020 and 33,491 samples (6.9%) tested positive for SARS-CoV-2.In Israel, researchers at Technion and Rambam Hospital developed and tested a method for testing samples from 64 patients simultaneously, by pooling the samples and only testing further if the combined sample is found to be positive.In Wuhan a makeshift 2000-sq-meter emergency detection laboratory named "Huo-Yan" (Chinese: 火眼, or "Fire Eye" in English) was opened on 5 February 2020 by BGI, which can process over 10,000 samples a day.
+With the construction overseen by BGI-founder Wang Jian and taking 5-days, modelling has show cases in Hubei would have been 47% higher and the corresponding cost of the tackling the quarantine would have doubled if this testing capacity hadn't come on line.
+The Wuhan Laboratory has been promptly followed by Huo-Yan labs in Shenzhen, Tianjin, Beijing, and Shanghai, in a total of 12 cities across China.
+By 4 March 2020 the daily throughput totals were 50,000 tests per day.Open source, multiplexed designs released by Origami Assays have been released that can test as many as 1122 patient samples for COVID19 using only 93 assays .  These balanced designs can be run in small laboratories without the need for robotic liquid handlers.
+By March, shortages and insufficient amounts of reagent has become a bottleneck for mass testing in the EU and UK and the US.
+This has led some authors to explore sample preparation protocols that involve heating samples at 98 °C (208 °F) for 5 minutes to release RNA genomes for further testing.On 31 March it was announced United Arab Emirates was now testing more of its population for Coronavirus per head than any other country, and was on track to scale up the level of testing to reach the bulk of the population.
+This was through a combination of drive-through capability, and purchasing a population-scale mass-throughput laboratory from Group 42 and BGI (based on their "Huo-Yan" emergency detection laboratories in China).
+Constructed in 14 days, the lab is capable of conducting tens of thousands RT-PCR tests per day and is the first in the world of this scale to be operational outside of China.
+Different testing recipes targeting different parts of the coronavirus genetic profile were developed in China, France, Germany, Hong Kong, Japan, and the United States.
+The World Health Organization adopted the German recipe for manufacturing kits sent to low-income countries without the resources to develop their own.
+The German recipe was published on 17 January 2020; the protocol developed by the United States Centers for Disease Control was not available until 28 January, delaying available tests in the U.S.China and the United States had problems with the reliability of test kits early in the outbreak, and these countries and Australia were unable to supply enough kits to satisfy demand and recommendations for testing by health experts.
+In contrast, experts say South Korea's broad availability of testing helped reduce the spread of the novel coronavirus.
+Testing capacity, largely in private sector labs, was built up over several years by the South Korean government.
+On 16 March, the World Health Organization called for ramping up the testing programmes as the best way to slow the advance of COVID-19 pandemic.High demand for testing due to wide spread of the virus caused backlogs of hundreds of thousands of tests at private U.S. labs, and supplies of swabs and chemical reagents became strained.
+In March 2020 China reported problems with accuracy in their test kits.
+In the United States, the test kits developed by the CDC had "flaws;" the government then removed the bureaucratic barriers that had prevented private testing.Spain purchased test kits from Chinese firm  Shenzhen Bioeasy Biotechnology Co Ltd, but found that results were inaccurate.
+The firm explained that the incorrect results may be a result of a failure to collect samples or use the kits correctly.
+The Spanish ministry said it will withdraw the kits that returned incorrect results, and would replace them with a different testing kit provided by Shenzhen Bioeasy.80% of test kits the Czech Republic purchased from China gave wrong results.Slovakia purchased 1.2 million test kits from China which were found to be inaccurate.
+Prime Minister Matovič suggested these be dumped into the Danube.Ateş Kara of the Turkish Health Ministry said the test kits Turkey purchased from China had a "high error rate" and did not "put them into use."The UK purchased 3.5 million test kits from China but in early April 2020 announced these were not usable.
+Testing, followed with quarantine of those who tested positive and tracing of those with whom the SARS-CoV-2 positive people had had contact, resulted in positive outcomes.
+Researchers working in the Italian town of Vò, the site of the first COVID-19 death in Italy, conducted two rounds of testing on the entire population of about 3,400 people, about ten days apart.
+About half the people testing positive had no symptoms, and all discovered cases were quarantined.
+With travel to the commune restricted, this eliminated new infections completely.
+With aggressive contact tracing, inbound travel restrictions, testing, and quarantining, the 2020 coronavirus pandemic in Singapore has proceeded much more slowly than in other developed countries, but without extreme restrictions like forced closure of restaurants and retail establishments.
+Many events have been cancelled, and Singapore did start advising residents to stay at home on 28 March, but schools reopened on time after holiday break on 23 March.
+Several other countries have also managed the pandemic with aggressive contact tracing, inbound travel restrictions, testing, and quarantining, but with less aggressive lock-downs, such as Iceland and South Korea.
+A statistical study has found that countries that have tested more, relative to the number of deaths, have much lower case fatality rates, probably because these countries are better able to detect those with only mild or no symptoms.
+WHO recommends that countries that do not have testing capacity and national laboratories with limited experience on COVID-19 send their first five positives and the first ten negative COVID-19 samples to one of the 16 WHO reference laboratories for confirmatory testing.
+Out of the 16 reference laboratories, 7 are in Asia, 5 in Europe, 2 in Africa, 1 in North America and 1 in Australia.
+In the following chart, the column “Positive as % of tests” is influenced by the country's testing policy.
+A country that only tests people admitted to hospitals will have a higher positive as % of tests than a country that tests all citizens, whether or not they are showing symptoms, other things being equal.
+Data on COVID-19 testing at Our World in Data (March 31, 2020)
+COVID-19 Testing (at least) – now Free for all?
+(CDC; US Congress; CSPAN video/6:00; March 12, 2020)
+Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR; NCBI-PMC, DOI (January 23, 2020)

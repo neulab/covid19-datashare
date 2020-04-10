@@ -1,0 +1,475 @@
+The 2019–20 coronavirus pandemic is an ongoing pandemic of coronavirus disease 2019 (COVID-19), caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+The outbreak was identified in Wuhan, China, in December 2019, declared to be a Public Health Emergency of International Concern on 30 January 2020, and recognized as a pandemic on 11 March 2020.
+As of 10 April 2020, approximately 1.61 million cases of COVID-19 have been reported in 210 countries and territories, resulting in approximately 97,000 deaths.
+About 364,000 people have recovered.
+The case fatality rate has been estimated to be 4% in China, while globally ranging from 13.04% in Algeria to .08% in New Zealand.
+Common symptoms include fever, cough and shortness of breath.
+Complications may include pneumonia and acute respiratory distress syndrome.
+The time from exposure to onset of symptoms is typically around five days, but may range from two to fourteen days.
+There is no known vaccine or specific antiviral treatment.
+Primary treatment is symptomatic and supportive therapy.Recommended preventive measures include hand washing, covering one's mouth when coughing, maintaining distance from other people, and monitoring and self-isolation for people who suspect they are infected.
+Authorities worldwide have responded by implementing travel restrictions, quarantines, curfews, workplace hazard controls, and facility closures.
+The pandemic has led to severe global socioeconomic disruption, the postponement or cancellation of sporting, religious, political and cultural events, and widespread shortages of supplies exacerbated by panic buying.
+Schools and universities have closed either on a nationwide or local basis in 193 countries, affecting approximately 99.4 percent  of the world's student population.
+Misinformation about the virus has spread online, and there have been incidents of xenophobia and discrimination against Chinese people, other people of East and Southeast Asian descent and appearance, and others from areas with significant virus cases.
+Due to reduced travel and closures of heavy industry, there has been a decrease in air pollution and carbon emissions.
+Health authorities in Wuhan, China (the capital of Hubei province) reported a cluster of pneumonia cases of unknown cause on 31 December 2019, and an investigation was launched in early January 2020.
+The cases mostly had links to the Huanan Seafood Wholesale Market and so the virus is thought to have a zoonotic origin.
+The virus that caused the outbreak is known as SARS-CoV-2, a newly discovered virus closely related to bat coronaviruses, pangolin coronaviruses, and SARS-CoV.The earliest known person with symptoms was later discovered to have fallen ill on 1 December 2019, and that person did not have visible connections with the later wet market cluster.
+Of the early cluster of cases reported in December 2019, two-thirds were found to have a link with the market.
+On 13 March 2020, an unverified report from the South China Morning Post suggested that a case traced back to 17 November 2019, in a 55-year-old from Hubei province, may have been the first.On 26 February 2020, the WHO reported that, as new cases reportedly declined in China but suddenly increased in Italy, Iran, and South Korea, the number of new cases outside China had exceeded the number of new cases within China for the first time.
+There may be substantial underreporting of cases, particularly among those with milder symptoms.
+By 26 February, relatively few cases had been reported among youths, with those 19 and under making up 2.4% of cases worldwide.The United Kingdom's chief scientific adviser, Patrick Vallance, estimated that 60% of the British population would need to become infected before effective herd immunity could be achieved.
+Cases refers to the number of people who have been tested for COVID-19, and whose test has been confirmed positive according to official protocols.
+As of 23 March, no country had tested more than 3% of its population, and many countries have had official policies not to test those with only mild symptoms, such as Italy, the Netherlands, Spain, and Switzerland.
+A study published on 16 March found that in China, up to 23 January, an estimated 86% of COVID-19 infections had not been detected, and that these undocumented infections were the infection source for 79% of documented cases.
+A statistical analysis published 30 March estimated that numbers of infections in Italy were considerably greater than the reported cases.
+The initial estimates of the basic reproduction number (R0) for COVID-19 were 1.4 to 2.4.
+A study published by the US Center for Disease Control and Prevention has concluded that it may be 5.7.
+Most people with COVID-19 recover.
+For those who do not, the time from development of symptoms to death has been between 6 and 41 days, with the most common being 14 days.
+As of 10 April 2020, approximately 97,000 deaths had been attributed to COVID-19.
+In China, as of 5 February about 80% of deaths were in those over 60, and 75% had pre-existing health conditions including cardiovascular diseases and diabetes.Official tallies of deaths from the COVID-19 pandemic generally refer to dead people who tested positive for COVID according to official protocols.
+The number of true fatalities from COVID-19 may be much higher, as it may not include people who die without testing - e.g. at home, in nursing homes, etc.
+Partial data from Italy found that the number of excess deaths during the pandemic exceeded the official COVID death tally by a factor of 4-5x.
+A spokeswoman for the U.S. Centers for Disease Control and Prevention (CDC) acknowledged "We know that [the stated death toll] is an underestimation", a statement corroborated by anecdotal reports of undercounting in the U.S. Such underestimation often occurs in pandemics, such as the 2009 H1N1 swine flu epidemic.The first confirmed death was in Wuhan on 9 January 2020.
+The first death outside mainland China occurred on 1 February in the Philippines, and the first death outside Asia was in France on 14 February.
+By 28 February, outside mainland China, more than a dozen deaths each were recorded in Iran, South Korea, and Italy.
+By 13 March, more than forty countries and territories had reported deaths, on every continent except Antarctica.Several measures are commonly used to quantify mortality.
+These numbers vary by region and over time, and are influenced by the volume of testing, healthcare system quality, treatment options, time since initial outbreak, and population characteristics such as age, sex, and overall health.The death-to-case ratio reflects the number of deaths divided by the number of diagnosed cases within a given time interval.
+Based on Johns Hopkins University statistics, the global death-to-case ratio is 6.0% (97,039/1,617,204) as of 10 April 2020.
+The number varies by region.
+In China, estimates for the death-to-case ratio decreased from 17.3% (for those with symptom onset 1–10 January 2020) to 0.7% (for those with symptom onset after 1 February 2020).Other measures include the case fatality rate (CFR), which reflects the percent of diagnosed people who die from a disease, and the infection fatality rate (IFR), which reflects the percent of infected (diagnosed and undiagnosed) who die from a disease.
+These statistics are not timebound and follow a specific population from infection through case resolution.
+A number of academics have attempted to calculate these numbers for specific populations.
+The University of Oxford's Centre for Evidence-Based Medicine estimates that the infection fatality rate for the pandemic as a whole is between 0.1% and 0.39%.
+The upper estimate of this range is consistent with the results from the first random testing for COVID-19 in Germany, and a statistical study analysing the impact of testing on CFR estimates.
+The WHO asserts that the pandemic can be controlled.
+The peak and ultimate duration of the outbreak are uncertain and may differ by location.
+Maciej Boni of Penn State University stated, "Left unchecked, infectious outbreaks typically plateau and then start to decline when the disease runs out of available hosts.
+But it's almost impossible to make any sensible projection right now about when that will be".
+The Chinese government's senior medical adviser Zhong Nanshan argued that "it could be over by June" if all countries can be mobilized to follow the WHO's advice on measures to stop the spread of the virus.
+On 17 March, Adam Kucharski of the London School of Hygiene & Tropical Medicine stated that SARS-CoV-2 "is going to be circulating, potentially for a year or two".
+According to the Imperial College study led by Neil Ferguson, physical distancing and other measures will be required "until a vaccine becomes available (potentially 18 months or more)".
+William Schaffner of Vanderbilt University stated, "I think it's unlikely that this coronavirus—because it's so readily transmissible—will disappear completely" and it "might turn into a seasonal disease, making a comeback every year".
+The virulence of the comeback would depend on herd immunity and the extent of mutation.
+Symptoms of COVID-19 can be relatively non-specific and infected people may be asymptomatic.
+The two most common symptoms are fever (88%) and dry cough (68%).
+Less common symptoms include fatigue, respiratory sputum production (phlegm), loss of the sense of smell, shortness of breath, muscle and joint pain, sore throat, headache, chills, vomiting, hemoptysis, diarrhea, or cyanosis.The WHO states that approximately one person in six becomes seriously ill and has difficulty breathing.
+The U.S. Centers for Disease Control and Prevention (CDC) lists emergency symptoms as difficulty breathing, persistent chest pain or pressure, sudden confusion, difficulty waking, and bluish face or lips; immediate medical attention is advised if these symptoms are present.Further development of the disease can lead to severe pneumonia, acute respiratory distress syndrome, sepsis, septic shock and death.
+Some of those infected may be asymptomatic, with no clinical symptoms but with test results that confirm infection, so researchers have issued advice that those with close contact to confirmed infected people should be closely monitored and examined to rule out infection.
+Chinese estimates of the asymptomatic ratio range from few to 44%.
+The usual incubation period (the time between infection and symptom onset) ranges from one to 14 days; it is most commonly five days.As an example of uncertainty, the estimate of the fraction of people with COVID-19 who lost their sense of smell was initially 30% and later fell to 15%.
+Some details about how the disease is spread are still being determined.
+The disease is believed to be primarily spread during close contact and by small droplets produced during coughing, sneezing, or talking; with close contact being within 1 to 2 metres (3 to 6 feet).
+Studies have found that an uncovered coughing can lead to droplets travelling up to 4.5 metres (15 feet) to 8.2 metres (27 feet).
+Some have proposed that the virus may also be transmitted by small droplets that stay for more prolonged periods in the air, that may be generated during speech.Respiratory droplets may also be produced during breathing out, including when talking, though the virus is not generally airborne.
+The droplets can land in the mouths or noses of people who are nearby or possibly be inhaled into the lungs.
+Some medical procedures such as intubation and cardiopulmonary resuscitation (CPR) may cause respiratory secretions to be aerosolized and thus result in airborne spread.
+It may also spread when one touches a contaminated surface, including skin, and then touches their eyes, nose, or mouth.
+While there are concerns it may spread by faeces, this risk is believed to be low.
+The Government of China denied the possibility of faecal-oral transmission of SARS-CoV-2.The virus is most contagious during the first three days after onset of symptoms, although spread may be possible before symptoms appear and in later stages of the disease.
+People have tested positive for the disease up to three days before onset of symptoms suggesting transmission is possible before developing significant symptoms.
+Only few reports of laboratory-confirmed asymptomatic cases exist, but asymptomatic transmission has been identified by some countries during contact tracing investigations.
+The European Centre for Disease Prevention and Control (ECDC) states that while it is not entirely clear how easily the disease spreads, one person generally infects two to three others.The virus survives for hours to days on surfaces.
+Specifically, the virus was found to be detectable for up to three days on plastic (polypropylene) and 304 stainless steel, for one day on cardboard, and for up to four hours on copper.
+This, however, varies based on the humidity and temperature.Pets and other animals have tested positive for COVID-19.
+There is no evidence animals can pass the virus on to humans, though British authorities advise washing one's hands after contact with animals, like after contact with other surfaces infected people could have touched.
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a novel virus, first isolated from three people with pneumonia connected to the cluster of acute respiratory illness cases in Wuhan.
+All features of the novel SARS-CoV-2 virus occur in related coronaviruses in nature.Outside the human body, the virus is killed by household soap, which dissolves its protective envelope.SARS-CoV-2 is closely related to the original SARS-CoV.
+It is thought to have a zoonotic origin.
+Genetic analysis has revealed that the coronavirus genetically clusters with the genus Betacoronavirus, in subgenus Sarbecovirus (lineage B) together with two bat-derived strains.
+It is 96% identical at the whole genome level to other bat coronavirus samples (BatCov RaTG13).
+In February 2020, Chinese researchers found that there is only one amino acid difference in certain parts of the genome sequences between the viruses from pangolins and those from humans.
+Whole-genome comparison to date has found at most 92% of genetic material shared between pangolin coronavirus and SARS-CoV-2, which is insufficient to prove pangolins to be the intermediate host.
+Infection by the virus can be provisionally diagnosed on the basis of symptoms, though confirmation is ultimately by reverse transcription polymerase chain reaction (rRT-PCR) of infected secretions or CT imaging.
+A study comparing PCR to CT in Wuhan has suggested that CT is significantly more sensitive than PCR, though less specific, with many of its imaging features overlapping with other pneumonias and disease processes.
+As of March 2020, the American College of Radiology recommends that "CT should not be used to screen for or as a first-line test to diagnose COVID-19".
+The WHO has published several RNA testing protocols for SARS-CoV-2, with the first issued on 17 January.
+The test uses real-time reverse transcription polymerase chain reaction (rRT-PCR).
+The test can be done on respiratory or blood samples.
+Results are generally available within a few hours to days.
+Generally this test is carried out on a nasopharyngeal swab though a throat swab may also be used.A number of laboratories and companies are developing serological tests, which detect antibodies.
+As of 6 April 2020, none of these has been proved sufficiently accurate to be approved for widespread use.
+In the US a serological test developed by Cellex has been approved for emergency use by certified laboratories only.
+Characteristic imaging features on radiographs and computed tomography (CT) of people who are symptomatic include asymmetric peripheral ground glass opacities and absent pleural effusions.
+The Italian Radiological Society is compiling an international online database of imaging findings for confirmed cases.
+Due to overlap with other infections such as adenovirus, imaging without confirmation by PCR is of limited specificity in identifying COVID-19.
+A large study in China compared chest CT results to PCR and demonstrated that though imaging is less specific for the infection, it is faster and more sensitive, suggesting its consideration as a screening tool in epidemic areas.
+Artificial intelligence-based convolutional neural networks have been developed to detect imaging features of the virus with both radiographs and CT.
+Strategies for preventing transmission of the disease include maintaining overall good personal hygiene, washing hands, avoiding touching the eyes, nose, or mouth with unwashed hands, and coughing or sneezing into a tissue and putting the tissue directly into a waste container.
+Those who may already have the infection have been advised to wear a surgical mask in public.
+Physical distancing measures are also recommended to prevent transmission.Many governments have restricted or advised against all non-essential travel to and from countries and areas affected by the outbreak.
+However, the virus has reached the stage of community spread in large parts of the world.
+This means that the virus is spreading within communities, and some community members don't know where or how they were infected.Health care providers taking care of someone who may be infected are recommended to use standard precautions, contact precautions, and eye protection.Contact tracing is an important method for health authorities to determine the source of an infection and to prevent further transmission.
+The use of location data from mobile phones by governments for this purpose has prompted privacy concerns, with Amnesty International and over 100 other organizations issuing a statement calling for limits on this kind of surveillance.
+Various mobile apps have been implemented or proposed for voluntary use, and as of April 7, 2020, over a dozen expert groups were working on privacy-friendly solutions, such as using Bluetooth to log a user's proximity to other cellphones.
+Users then receive a message if they've been in close contact with someone who has tested positive for COVID-19.Misconceptions are circulating about how to prevent infection; for example, rinsing the nose and gargling with mouthwash are not effective.
+There is no COVID-19 vaccine, though many organizations are working to develop one.
+Hand washing is recommended to prevent the spread of the disease.
+The CDC recommends that people wash hands often with soap and water for at least twenty seconds, especially after going to the toilet or when hands are visibly dirty; before eating; and after blowing one's nose, coughing, or sneezing.
+This is because outside the human body, the virus is killed by household soap, which bursts its protective bubble.
+CDC further recommended using an alcohol-based hand sanitizer with at least 60% alcohol by volume when soap and water are not readily available.
+The WHO advises people to avoid touching the eyes, nose, or mouth with unwashed hands.
+Surfaces may be decontaminated with a number of solutions (within one minute of exposure to the disinfectant for a stainless steel surface), including 62–71% ethanol, 50–100% isopropanol, 0.1% sodium hypochlorite, 0.5% hydrogen peroxide, and 0.2–7.5% povidone-iodine.
+Other solutions, such as benzalkonium chloride and chrohexidine gluconate, are less effective.
+The CDC recommends that if a COVID case is suspected or confirmed at a facility such as an office or day care, all areas such as offices, bathrooms, common areas, shared electronic equipment like tablets, touch screens, keyboards, remote controls, and ATM machines used by the ill persons, should be disinfected.
+Health organizations recommended that people cover their mouth and nose with a bent elbow or a tissue when coughing or sneezing, and disposing of any tissue immediately.
+Surgical masks are recommended for those who may be infected, as wearing a mask can limit the volume and travel distance of expiratory droplets dispersed when talking, sneezing, and coughing.
+The WHO has issued instructions on when and how to use masks.
+According to Stephen Griffin, a virologist at the University of Leeds, "Wearing a mask can reduce the propensity [of] people to touch their faces, which is a major source of infection without proper hand hygiene."Masks have also been recommended for use by those taking care of someone who may have the disease.
+The WHO has recommended the wearing of masks by healthy people only if they are at high risk, such as those who are caring for a person with COVID-19, although they also acknowledge that wearing masks may help people avoid touching their face.
+Several countries have started to encourage the use of face masks by members of the public.
+In the U.S., the CDC recommends wearing non-medical face mask made out of cloth.China has specifically recommended the use of disposable medical masks by healthy members of the public, particularly when coming into close contact (1 metre (3 ft) or less) with other people.
+Hong Kong recommends wearing a surgical mask when taking public transport or staying in crowded places.
+Thailand's health officials are encouraging people to make cloth facemasks at home and wash them daily.
+The Czech Republic and Slovakia banned going out in public without wearing a mask or covering one's nose and mouth.
+On 16 March, Vietnam requested everyone to wear a face mask when going to public areas in order to protect themselves and others.
+The Austrian government mandated that everyone entering a grocery store must wear a face mask.
+Israel has asked all residents to wear face masks when in public.
+Taiwan, which has been producing ten million masks per day since mid-March, required passengers on trains and intercity buses to wear face masks on 1 April.
+Panama has made it obligatory to wear a face mask whenever going outside, while also recommending the manufacture of a homemade face mask for those who cannot purchase face masks.
+Face masks have also been widely used in Japan, South Korea, Malaysia, and Singapore.
+Social distancing (also known as physical distancing) includes infection control actions intended to slow the spread of disease by minimizing close contact between individuals.
+Methods include quarantines; travel restrictions; and the closing of schools, workplaces, stadiums, theatres, or shopping centres.
+Individuals may apply social distancing methods by staying at home, limiting travel, avoiding crowded areas, using no-contact greetings, and physically distancing themselves from others.
+Many governments are now mandating or recommending social distancing in regions affected by the outbreak.
+The maximum gathering size recommended by US government bodies and health organizations was swiftly reduced from 250 people (if there was no known COVID-19 spread in a region) to 50 people, and later to 10 people.
+On 22 March 2020, Germany banned public gatherings of more than two people.Older adults and those with underlying medical conditions such as diabetes, heart disease, respiratory disease, hypertension, and compromised immune systems face increased risk of serious illness and complications and have been advised by the CDC to stay home as much as possible in areas of community outbreak.In late March 2020, the WHO and other health bodies began to replace the use of the term "social distancing" with "physical distancing", to clarify that the aim is to reduce physical contact while maintaining social connections, either virtually or at a distance.
+The use of the term "social distancing" had led to implications that people should engage in complete social isolation, rather than encouraging them to stay in contact with others through alternative means.Some authorities have issued sexual health guidelines for use during the pandemic.
+These include recommendations to only have sex with someone you live with, who does not have the virus or symptoms of the virus.
+Self-isolation at home has been recommended for those diagnosed with COVID-19 and those who suspect they have been infected.
+Health agencies have issued detailed instructions for proper self-isolation.Many governments have mandated or recommended self-quarantine for entire populations living in affected areas.
+The strongest self-quarantine instructions have been issued to those in high risk groups.
+Those who may have been exposed to someone with COVID-19 and those who have recently travelled to a country or region with widespread transmission have been advised to self-quarantine for 14 days from the time of last possible exposure.
+Strategies in the control of an outbreak are containment or suppression, and mitigation.
+Containment is undertaken in the early stages of the outbreak and aims to trace and isolate those infected as well as introduce other measures of infection control and vaccinations to stop the disease from spreading to the rest of the population.
+When it is no longer possible to contain the spread of the disease, efforts then move to the mitigation stage: measures are taken to slow the spread and mitigate its effects on the healthcare system and society.
+A combination of both containment and mitigation measures may be undertaken at the same time.
+Suppression requires more extreme measures so as to reverse the pandemic by reducing the basic reproduction number to less than 1.Part of managing an infectious disease outbreak is trying to decrease the epidemic peak, known as flattening the epidemic curve.
+This decreases the risk of health services being overwhelmed and provides more time for vaccines and treatments to be developed.
+Non-pharmaceutical interventions that may manage the outbreak include personal preventive measures, such as hand hygiene, wearing face-masks, and self-quarantine; community measures aimed at physical distancing such as closing schools and cancelling mass gathering events; community engagement to encourage acceptance and participation in such interventions; as well as environmental measures such surface cleaning.More drastic actions aimed at containing the outbreak were taken in China once the severity of the outbreak became apparent, such as quarantining entire cities and imposing strict travel bans.
+Other countries also adopted a variety of measures aimed at limiting the spread of the virus.
+South Korea introduced mass screening and localized quarantines, and issued alerts on the movements of infected individuals.
+Singapore provided financial support for those infected who quarantined themselves and imposed large fines for those who failed to do so.
+Taiwan increased face mask production and penalized hoarding of medical supplies.Simulations for Great Britain and the United States show that mitigation (slowing but not stopping epidemic spread) and suppression (reversing epidemic growth) have major challenges.
+Optimal mitigation policies might reduce peak healthcare demand by 2/3 and deaths by half, but still result in hundreds of thousands of deaths and health systems being overwhelmed.
+Suppression can be preferred but needs to be maintained for as long as the virus is circulating in the human population (or until a vaccine becomes available, if that comes first), as transmission otherwise quickly rebounds when measures are relaxed.
+Long-term intervention to suppress the pandemic causes social and economic costs.
+There are no specific antiviral medications approved for COVID-19, but development efforts are underway, including testing of existing medications.
+Taking over-the-counter cold medications, drinking fluids, and resting may help alleviate symptoms.
+Depending on the severity, oxygen therapy, intravenous fluids, and breathing support may be required.
+The use of steroids may worsen outcomes.
+Several compounds that were previously approved for treatment of other viral diseases are being investigated for use in treating COVID-19.
+The WHO also stated that some "traditional and home remedies" can provide relief of the symptoms caused by SARS-CoV-19.
+Increasing capacity and adapting healthcare for the needs of COVID-19 patients is described by the WHO as a fundamental outbreak response measure.
+The ECDC and the European regional office of the WHO have issued guidelines for hospitals and primary healthcare services for shifting of resources at multiple levels, including focusing laboratory services towards COVID-19 testing, cancelling elective procedures whenever possible, separating and isolating COVID-19 positive patients, and increasing intensive care capabilities by training personnel and increasing the number of available ventilators and beds.
+There are various theories about where the very first case (the so-called patient zero) may have originated.
+The first known case of the novel coronavirus may trace back to 1 December 2019 in Wuhan, Hubei, China.
+Within a month, the number of coronavirus cases in Hubei gradually increased.
+These were mostly linked to the Huanan Seafood Wholesale Market, which also sold live animals, and one theory is that the virus came from one of these kinds of animals; or, in other words, has a zoonotic origin.A pneumonia cluster of unknown cause was observed on 26 December and treated by the doctor Zhang Jixian in Hubei Provincial Hospital, who informed the Wuhan Jianghan CDC on 27 December.
+On 30 December, a group of doctors at Wuhan Central Hospital alerted their colleagues of a "SARS-like coronavirus".
+Eight of these doctors, including Li Wenliang, were admonished by the police for spreading false rumours, and another, Ai Fen, was reprimanded by her superiors for raising the alarm.
+The Wuhan Municipal Health Commission later released a public notice on 31 December and informed the WHO.
+Enough cases of unknown pneumonia had been reported to health authorities in Wuhan to trigger an investigation in early January.During the early stages of the outbreak, the number of cases doubled approximately every seven and a half days.
+In early and mid-January 2020, the virus spread to other Chinese provinces, helped by the Chinese New Year migration and Wuhan being a transport hub and major rail interchange.
+On 20 January, China reported nearly 140 new cases in one day, including two people in Beijing and one in Shenzhen.
+Later official data shows that 6,174 people had already developed symptoms by 20 January 2020.As of 26 March, the United States has overtaken China and Italy with the highest number of confirmed cases in the world.As of 9 April 2020, more than 1.61 million cases have been reported worldwide; more than 97,000 people have died and more than 364,000 have recovered.
+Around 200 countries and territories have had at least one case.
+Due to the pandemic in Europe, many countries in the Schengen Area have restricted free movement and set up border controls.
+National reactions have included containment measures such as quarantines (known as stay-at-home orders, shelter-in-place orders, or lockdown) and curfews.As of 2 April, nearly 300 million people, or about 90% of the population, are under some form of lockdown in the United States, more than 50 million people are in lockdown in the Philippines, about 59 million people are in lockdown in South Africa, and 1.3 billion people are in lockdown in India.
+On 26 March, 1.7 billion people worldwide were under some form of lockdown, which increased to 2.6 billion people two days later—around a third of the world's population.
+The first confirmed case of COVID-19 has been traced back to 1 December 2019 in Wuhan; one unconfirmed report suggests the earliest case was on 17 November.
+Doctor Zhang Jixian observed a cluster of pneumonia cases of unknown cause on 26 December, upon which her hospital informed Wuhan Jianghan CDC on 27 December.
+Initial genetic testing of patient samples on 27 December 2019 indicated the presence of a SARS-like coronavirus.
+A public notice was released by Wuhan Municipal Health Commission on 31 December.
+The WHO was informed on the same day.
+As these notifications occurred, doctors in Wuhan were warned by police for "spreading rumours" about the outbreak.
+The Chinese National Health Commission initially claimed that there was no "clear evidence" of human-to-human transmission.
+In late January, the Chinese government launched a radical campaign later described by the Chinese Communist Party general secretary Xi Jinping as a "people's war" to contain the spread of the virus.
+In what has been described as "the largest quarantine in human history", a cordon sanitaire was announced on 23 January stopping travel in and out of Wuhan, which was extended to a total of 15 cities in Hubei, affecting a total of about 57 million people.
+Private vehicle use was banned in the city.
+Chinese New Year (25 January) celebrations were cancelled in many places.
+The authorities also announced the construction of a temporary hospital, Huoshenshan Hospital, which was completed in 10 days.
+Another hospital was built afterwards, Leishenshan Hospital, to handle additional patients.
+In addition to newly constructed hospitals, China also converted 14 other facilities in Wuhan, such as convention centers and stadiums, into temporary hospitals.On 26 January, the government instituted further measures to contain the COVID-19 outbreak, including issuing health declarations for travellers and extending the Spring Festival holiday.
+Universities and schools around the country were also closed.
+The regions of Hong Kong and Macau instituted several measures, particularly in regard to schools and universities.
+Remote working measures were instituted in several Chinese regions.
+Travel restrictions were enacted in and outside of Hubei.
+Public transport was modified, and museums throughout China were temporarily closed.
+Control of public movement was applied in many cities, and it has been estimated that about 760 million people (more than half the population) faced some form of outdoor restriction.After the outbreak entered its global phase in March, Chinese authorities took strict measures to prevent the virus from "importing" from other countries.
+For example, Beijing has imposed a 14-day mandatory quarantine for all international travellers entering the city.On 23 March, mainland China only one case had transmitted domestically in the five days prior, in this instance via a traveller returning to Guangzhou from Istanbul.
+On 24 March 2020, Chinese Premier Li Keqiang reported that the spread of domestically transmitted cases has been basically blocked and the outbreak has been controlled in China.
+The same day travel restrictions were eased in Hubei, apart from Wuhan, two months after the lockdown was imposed.The Chinese Ministry of Foreign Affairs announced on 26 March 2020 that entry for visa or residence permit holders would be suspended from 28 March onwards, with no specific details on when this policy will end.
+Those who wish to enter China will have to apply for visas in Chinese embassies or consulates.
+The Chinese government encouraged businesses and factories to re-open on 30 March, and provided monetary stimulus packages for firms.The State Council declared a day of mourning to begin with a national three-minute moment of silence on 10:00 4 April, coinciding with Qingming Festival, although the central government asked families to pay their respects online in observance of physical distancing as to avoid a renewed COVID-19 outbreak.
+COVID-19 was confirmed to have spread to South Korea on 20 January 2020 from China.
+The nation's health agency reported a significant increase in confirmed cases on 20 February, largely attributed to a gathering in Daegu of a new religious movement known as the Shincheonji Church of Jesus.
+Shincheonji devotees visiting Daegu from Wuhan were suspected to be the origin of the outbreak.
+As of 22 February, among 9,336 followers of the church, 1,261 or about 13% reported symptoms.South Korea declared the highest level of alert on 23 February 2020.
+On 28 February, more than 2,000 confirmed cases were reported in Korea, rising to 3,150 on 29 February.
+All South Korean military bases were quarantined after tests confirmed that three soldiers were positive for the virus.
+Airline schedules were also affected and therefore they were changed.South Korea introduced what was considered the largest and best-organized programme in the world to screen the population for the virus, and isolate any infected people as well as tracing and quarantining those who contacted them.
+Screening methods included mandatory self-reporting of symptoms by new international arrivals through mobile application, drive-thru testing for the virus with the results available the next day, and increasing testing capability to allow up to 20,000 people to be tested every day.
+South Korea's programme is considered to be a success in controlling the outbreak despite not quarantining entire cities.The South Korean society was initially polarized on President Moon Jae-in's response to the crisis.
+Many Koreans signed petitions either calling for the impeachment of Moon over what they claimed to be government mishandling of the outbreak, or praising his response.
+On 23 March, it was reported that South Korea had the lowest one-day case total in four weeks.
+On 29 March it was reported that beginning 1 April all new overseas arrivals will be quarantined for two weeks.
+Per media reports on 1 April, South Korea has received requests for virus testing assistance from 121 different countries.
+Iran reported its first confirmed cases of SARS-CoV-2 infections on 19 February in Qom, where, according to the Ministry of Health and Medical Education, two people died later that day.
+Early measures announced by the government included the cancellation of concerts and other cultural events, sporting events, and Friday prayers, and closures of universities, higher education institutions, and schools.
+Iran allocated five trillion rials to combat the virus.
+President Hassan Rouhani said on 26 February 2020 that there were no plans to quarantine areas affected by the outbreak, and only individuals would be quarantined.
+Plans to limit travel between cities were announced in March, although heavy traffic between cities ahead of the Persian New Year Nowruz continued.
+Shia shrines in Qom remained open to pilgrims until 16 March 2020.Iran became a centre of the spread of the virus after China during February.
+Amidst claims of a cover-up of the extent of the outbreak in Iran, more than ten countries had traced their cases back to Iran by 28 February, indicating that the extent of the outbreak may be more severe than the 388 cases reported by the Iranian government by that date.
+The Iranian Parliament was shut down, with 23 of its 290 members reported to have had tested positive for the virus on 3 March.
+On 12 March, the Human Rights Watch urged the Iranian prison authorities to unconditionally release the human rights defenders detained for peaceful dissent, and to also temporarily release all the eligible prisoners.
+It stated that there is a greater risk of the virus to spread in closed institutions like detention centres, which also lack adequate medical care.
+On 15 March, the Iranian government reported 100 deaths in a single day, the most recorded in the country since the outbreak began.
+At least 12 sitting or former Iranian politicians and government officials had died from the disease by 17 March.
+By 23 March, Iran was experiencing 50 new cases every hour and one new death every ten minutes due to coronavirus.
+According to a WHO official, there may be five times more cases in Iran than what is being reported.
+It is also suggested that U.S. sanctions on Iran may be affecting the country's financial ability to respond to the viral outbreak.
+The UN High Commissioner for Human Rights has demanded economic sanctions to be eased for nations most affected by the pandemic, including Iran.
+The outbreak was confirmed to have spread to Italy on 31 January, when two Chinese tourists tested positive for SARS-CoV-2 in Rome.
+Cases began to rise sharply, which prompted the Italian government to suspend all flights to and from China and declare a state of emergency.
+An unassociated cluster of COVID-19 cases was later detected, starting with 16 confirmed cases in Lombardy on 21 February.On 22 February, the Council of Ministers announced a new decree-law to contain the outbreak, including quarantining more than 50,000 people from 11 different municipalities in northern Italy.
+Prime Minister Giuseppe Conte said, "In the outbreak areas, entry and exit will not be provided.
+Suspension of work activities and sports events has already been ordered in those areas."On 4 March, the Italian government ordered the full closure of all schools and universities nationwide as Italy reached 100 deaths.
+All major sporting events, including Serie A football matches, were to be held behind closed doors until April, but on 9 March, all sport was suspended completely for at least one month.
+On 11 March, Prime Minister Conte ordered stoppage of nearly all commercial activity except supermarkets and pharmacies.On 6 March, the Italian College of Anaesthesia, Analgesia, Resuscitation and Intensive Care (SIAARTI) published medical ethics recommendations regarding triage protocols that might be employed.
+On 19 March, Italy overtook China as the country with the most coronavirus-related deaths in the world after reporting 3,405 fatalities from the pandemic.
+On 22 March, it was reported that Russia had sent nine military planes with medical equipment to Italy.
+As of 5 April, there were 128,948 confirmed cases, 15,887 deaths, and 21,815 recoveries in Italy, with the majority of those cases occurring in the Lombardy region.
+A CNN report indicated that the combination of Italy's large elderly population and inability to test all who have the virus to date may be contributing to the high fatality rate.
+The United Kingdom's response to the virus first emerged as one of the most relaxed of the affected countries, and until 18 March 2020, the British government did not impose any form of social distancing or mass quarantine measures on its citizens.
+As a result, the government received criticism for the perceived lack of pace and intensity in its response to concerns faced by the public.On 16 March, Prime Minister Boris Johnson made an announcement advising against all non-essential travel and social contact, suggesting people work from home where possible and avoid venues such as pubs, restaurants, and theatres.
+On 20 March, the government announced that all leisure establishments such as pubs and gyms were to close as soon as possible, and promised to pay up to 80% of workers' wages to a limit of £2,500 per month to prevent unemployment in the crisis.On 23 March, the Prime Minister announced tougher social distancing measures, banning gatherings of more than two people and restricting travel and outdoor activity to that deemed strictly necessary.
+Unlike previous measures, these restrictions were enforceable by police through the issuing of fines and the dispersal of gatherings.
+Most businesses were ordered to close, with exceptions for businesses deemed "essential", including supermarkets, pharmacies, banks, hardware shops, petrol stations, and garages.
+On 20 January, the first known case of COVID-19 was confirmed in the Pacific Northwest state of Washington in a man who had returned from Wuhan on 15 January.
+The White House Coronavirus Task Force was established on 29 January.
+On 31 January, the Trump administration declared a public health emergency, and placed restrictions on entry for travellers from China.
+On 28 January 2020, the Center for Disease Control—the leading public health institute of the U.S. government—announced they had developed their own testing kit.
+Despite doing so, the United States had a slow start in testing, which obscured the true extent of the outbreak at the time.
+Testing was marred by defective test kits produced by the federal government in February, a lack of federal government approval for non-government test kits (by academia, companies and hospitals) until the end of February, and restrictive criteria for people to qualify for a test until early March (a doctor's order was required thereafter).
+By 27 February, The Washington Post reported fewer than 4,000 tests had been conducted in the United States.
+By 13 March, The Atlantic reported that less than 14,000 tests had been conducted.
+On 22 March, the Associated Press reported: "Many people who have symptoms and a doctor's order have waited hours or days for a test."After the first death in the United States was reported in Washington state on 29 February, Governor Jay Inslee declared a state of emergency, an action that was soon followed by other states.
+Schools in the Seattle area cancelled classes on 3 March, and by mid-March, schools across the country were shutting down.On 6 March 2020, the United States was advised of projections for the impact of the new coronavirus on the country by a group of epidemiologists at Imperial College London.
+On the same day President Trump signed the Coronavirus Preparedness and Response Supplemental Appropriations Act, which provided $8.3 billion in emergency funding for federal agencies to respond to the outbreak.
+Corporations imposed employee travel restrictions, cancelled conferences, and encouraged employees to work from home.
+Sports events and seasons were cancelled.On 11 March, Trump announced travel restrictions for most of Europe, excluding the United Kingdom, for 30 days, effective 13 March.
+The following day, he expanded the restrictions to include the United Kingdom and Ireland.
+On 13 March, he declared a national emergency, which made federal funds available to respond to the crisis.
+Beginning on 15 March, many businesses closed or reduced hours throughout the U.S. to try to reduce the spread of the virus.
+By 17 March, the epidemic had been confirmed in all 50 states and in the District of Columbia.On 23 March, it was reported that New York City had 10,700 cases of the coronavirus, more than the total number of cases in South Korea.
+On 25 March, the governor said that social distancing seemed to be working, as estimates of case doubling slowed from 2.0 days to 4.7 days.
+As of 28 March, there were 32,308 confirmed cases in New York City, and 672 people had died from the virus.On 26 March, the United States was reported to have more confirmed coronavirus infection cases than any other country in the world, including China and Italy.As of 8 April, 400,335 cases have been confirmed in the United States, and 12,841 people have died.
+Per media reports on 30 March, U.S. President Trump has decided to extend social distancing guidelines until 30 April.
+On the same day, the USNS Comfort, a hospital ship with about 1000 beds, made anchor in New York.
+On 3 April, the U.S. had a record 884 deaths due to the coronavirus in a 24-hour period.
+In the state of New York the cases have exceeded 100,000 people on 3 April.The White House has been criticized for downplaying the threat and controlling the messaging by directing health officials and scientists to coordinate public statements and publications related to the virus with the office of Vice-President Mike Pence.
+Overall approval of Trump's management of the crisis has been polarized along partisan lines.
+Some U.S. officials and commentators criticized the U.S. reliance on importation of critical materials, including essential medical supplies, from China.
+An analysis of air travel patterns was used to map and predict patterns of spread and was published in The Journal of Travel Medicine in mid-January 2020.
+Based on 2018 information from the International Air Transport Association, Bangkok, Hong Kong, Tokyo, and Taipei had the largest volume of travellers from Wuhan.
+Dubai, Sydney, and Melbourne were also reported as popular destinations for people travelling from Wuhan.
+Bali was reported as least able among the 20 most popular destination cities in terms of preparedness, while cities in Australia were considered most able.Australia released its Emergency Response Plan for Novel Coronavirus (COVID-19) on 7 February.
+It stated that much was yet to be discovered about COVID-19, and that Australia would emphasize border control and communication in its response to the pandemic.
+On 21 March, a human biosecurity emergency was declared in Australia.
+Owing to the effective quarantine of public transport in Wuhan and Hubei, several countries have planned to evacuate their citizens and diplomatic staff from the area, primarily through chartered flights of the home nation, with Chinese authorities providing clearance.
+Canada, the United States, Japan, India, Sri Lanka, Australia, France, Argentina, Germany, and Thailand were among the first to plan the evacuation of their citizens.
+Pakistan has said that it will not be evacuating any citizens from China.
+On 7 February, Brazil evacuated 34 Brazilians or family members in addition to four Poles, a Chinese person, and an Indian citizen.
+The citizens of Poland, China, and India deplaned in Poland, where the Brazilian plane made a stopover before following its route to Brazil.
+Brazilian citizens who went to Wuhan were quarantined at a military base near Brasília.
+On the same day, 215 Canadians (176 from the first plane, and 39 from a second plane chartered by the U.S. government) were evacuated from Wuhan to CFB Trenton to be quarantined for two weeks.
+On 11 February, another plane of 185 Canadians from Wuhan landed at CFB Trenton.
+Australian authorities evacuated 277 citizens on 3 and 4 February to the Christmas Island Detention Centre, which had been repurposed as a quarantine facility, where they remained for 14 days.
+A New Zealand evacuation flight arrived in Auckland on 5 February; its passengers (including some from Australia and the Pacific) were quarantined at a naval base in Whangaparoa, north of Auckland.
+On 15 February, the United States announced that it would evacuate Americans aboard the cruise ship Diamond Princess.
+On 21 February, a plane carrying 129 Canadian passengers who had been evacuated from Diamond Princess landed in Trenton, Ontario.
+In early March, the Indian government began evacuating its citizens from Iran.On 14 March a South African Airways aircraft chartered by the South African Government repatriated 112 South African citizens.
+Medical screening was performed prior to departure, and four South Africans who were showing signs of coronavirus were left behind to mitigate risk.
+Only South Africans who tested negative were repatriated.
+Test results cleared all the South Africans, including the flight crew, pilots, hotel staff, police and soldiers involved in the humanitarian mission who, as a precautionary measure, all remained under observation and in quarantine for a 14-day period at The Ranch Resort.
+On 20 March, the United States began to partially withdrawal its troops from Iraq due to the pandemic.
+On 5 February, the Chinese foreign ministry stated that 21 countries (including Belarus, Pakistan, Trinidad and Tobago, Egypt, and Iran) had sent aid to China.
+Some Chinese students at American universities joined together to help send aid to virus-stricken parts of China, with a joint group in the greater Chicago area reportedly managing to send 50,000 N95 masks to hospitals in the Hubei province on 30 January.The humanitarian aid organization Direct Relief, in coordination with FedEx, sent 200,000 face masks along with other personal protective equipment, including gloves and gowns, by emergency airlift to the Wuhan Union Hospital by 30 January.
+On 5 February, Bill and Melinda Gates announced a $100 million donation to the WHO to fund vaccine research and treatment efforts along with protecting "at-risk populations in Africa and South Asia".
+Interaksyon reported that the Chinese government donated 200,000 masks to the Philippines on 6 February, after Senator Richard Gordon shipped 3.16 million masks to Wuhan.
+On 19 February, the Singapore Red Cross announced that it would send $2.26 million worth of aid to China.
+Japan donated one million face masks to Wuhan, Turkey dispatched medical equipment, Russia sent more than 13 tonnes of medical supplies to Wuhan, Malaysia announced a donation of 18 million medical gloves to China, Germany delivered various medical supplies including 10,000 Hazmat suits, and the United States donated 17.8 tons of medical supplies to China and promised an additional $100 million in financial support to affected countries.After cases in China seemed to stabilize, the country has been sending aid to various nations hit by the pandemic.
+In March, China, Cuba and Russia sent medical supplies and experts to help Italy deal with its coronavirus outbreak.
+Businessman Jack Ma sent 1.1 million testing kits, 6 million face masks, and 60,000 protective suits to Addis Ababa, Ethiopia for distribution by the African Union.
+He later sent 5,000 testing kits, 100,000 face masks and 5 ventilators to Panama.
+Ma also donated medical supplies to Canada.The Netherlands, Spain, Turkey, Georgia, and the Czech Republic expressed their concerns over Chinese-made masks and test kits.
+For instance, Spain withdrew 58,000 Chinese-made coronavirus testing kits with an accuracy rate of just 30%, meanwhile, the Netherlands recalled 600,000 Chinese face masks which were defective.
+Belgium recalled 100,000 unusable masks, thought to be from China, but were in fact from Colombia.
+On the other hand, Chinese aid has been well-received in parts of Latin America and Africa.On 2 April, the World Bank launched emergency support operations for developing countries.
+The WHO has commended the efforts of Chinese authorities in managing and containing the epidemic.
+The WHO noted the contrast between the 2002–2004 SARS outbreak, where Chinese authorities were accused of secrecy that impeded prevention and containment efforts, and the current crisis where the central government "has provided regular updates to avoid panic ahead of Lunar New Year holidays".
+On 23 January, in reaction to the central authorities' decision to implement a transportation ban in Wuhan, WHO representative Gauden Galea remarked that while it was "certainly not a recommendation the WHO has made", it was also "a very important indication of the commitment to contain the epidemic in the place where it is most concentrated" and called it "unprecedented in public health history".On 30 January, following confirmation of human-to-human transmission outside China and the increase in the number of cases in other countries, the WHO declared the outbreak a Public Health Emergency of International Concern (PHEIC), the sixth PHEIC since the measure was first invoked during the 2009 swine flu pandemic.
+WHO Director-General Tedros Adhanom said that the PHEIC was due to "the risk of global spread, especially to low- and middle-income countries without robust health systems.
+In response to the implementations of travel restrictions, Tedros stated that "there is no reason for measures that unnecessarily interfere with international travel and trade" and that the "WHO doesn't recommend limiting trade and movement."
+On 5 February, the WHO appealed to the global community for a $675 million contribution to fund strategic preparedness in low-income countries, citing the urgency to support those countries which "do not have the systems in place to detect people who have contracted the virus, even if it were to emerge".
+Tedros further made statements declaring that "we are only as strong as our weakest link" and urged the international community to "invest today or pay more later".On 11 February, the WHO in a press conference established COVID-19 as the name of the disease.
+On the same day, Tedros stated that UN Secretary-General António Guterres had agreed to provide the "power of the entire UN system in the response".
+A UN Crisis Management Team was activated as a result, allowing coordination of the entire United Nations response, which the WHO states will allow them to "focus on the health response while the other agencies can bring their expertise to bear on the wider social, economic and developmental implications of the outbreak".
+On 14 February, a WHO-led Joint Mission Team with China was activated to provide international and WHO experts on the ground in China to assist in the domestic management and evaluate "the severity and the transmissibility of the disease" by hosting workshops and meetings with key national-level institutions and to conduct field visits to assess the "impact of response activities at provincial and county levels, including urban and rural settings".On 25 February, the WHO declared that "the world should do more to prepare for a possible coronavirus pandemic," stating that while it was still too early to call it a pandemic, countries should nonetheless be "in a phase of preparedness".
+In response to a developing outbreak in Iran, the WHO sent a Joint Mission Team there to assess the situation.On 28 February, WHO officials said that the coronavirus threat assessment at the global level would be raised from "high" to "very high", its highest level of alert and risk assessment.
+Mike Ryan, executive director of the WHO's health emergencies program, warned in a statement that "This is a reality check for every government on the planet: Wake up.
+Get ready.
+This virus may be on its way and you need to be ready," urging that the right response measures could help the world avoid "the worst of it".
+Ryan further stated that the current data did not warrant public health officials to declare a global pandemic, saying that such a declaration would mean "we're essentially accepting that every human on the planet will be exposed to that virus."
+On 11 March, the WHO declared the coronavirus outbreak a pandemic.
+The Director-General said that the WHO was "deeply concerned both by the alarming levels of spread and severity, and by the alarming levels of inaction".The WHO has faced significant criticism for what is seen as inadequate handling of the pandemic, including the late declaration of a public health emergency and the classification of the virus as a pandemic.
+The backlash included a petition for the WHO Director-General Tedros Adhanom to tender his resignation, signed by 733,000 people as of 6 April.
+On 26 March 2020, dozens of UN human rights experts emphasized respecting the rights of every individual during the COVID-19 pandemic.
+The expert group stated that everyone is entitled to life-saving interventions and the government holds this responsibility.
+The group stressed that the lack of resources or health insurance should never serve as a justification for discrimination against a specific group.
+The experts underscored that every individual has the right to health, including people with disabilities, belonging to minority groups, older people, internally displaced people, the homeless, those living in extremely poor conditions, people in detention, as well as refugees and other unspecified groups in need of government support.
+International governmental organizations are addressing the economic and social impacts of the COVID-19 crisis.
+The Organisation for Economic Co-operation and Development has launched a platform to provide timely and comprehensive information on policy responses in countries around the world, as well as viewpoints and advice.
+From policies to strengthen health systems and the world economy to addressing the effects of lockdown and restrictions on travel, the digital hub includes a Country Policy Tracker, and aims to help countries learn from each other and to facilitate a co-ordinated global response to the coronavirus challenge.
+The Chinese government has been criticized by the United States, UK Minister for the Cabinet Office Michael Gove, and Brazil President Jair Bolsonaro's son Eduardo Bolsonaro for its handling of the pandemic, which began in the Chinese province of Hubei.
+A number of provincial-level administrators of the Communist Party of China (CPC) were dismissed over their handling of the quarantine efforts in Central China, a sign of discontent with the political establishment's response to the outbreak in those regions.
+Some commentators believe that this move was intended to protect Chinese Communist Party general secretary Xi Jinping from the public's anger over the coronavirus outbreak.
+Some Chinese officials, e.g. Zhao Lijian rejected an earlier acknowledgement of the coronavirus outbreak starting in Wuhan, in favour of conspiracy theories about the COVID-19 originating from the U.S. or Italy.
+The U.S. administration of Donald Trump has referred to the coronavirus as "Chinese virus" or "Wuhan virus" saying that China's "censorship supercharged a virus that has now turned into a global pandemic", which has in turn been criticized by some critics as racism and "distract[ing] from his administration's failure to contain the disease".
+The Daily Beast obtained a U.S. government cable outlining a communications stratagem with apparent origins in the National Security Council, with the strategy being quoted as "Everything is about China.
+We're being told to try and get this messaging out in any way possible, including press conferences and television appearances."Outlets such as Politico, Foreign Policy, and Bloomberg have claimed that China's efforts to send aid to virus-stricken countries is part of a propaganda push for global influence.
+EU foreign policy chief Josep Borrell warned that there is "a geo-political component including a struggle for influence through spinning and the 'politics of generosity'".
+Borrell also said that "China is aggressively pushing the message that, unlike the US, it is a responsible and reliable partner."
+China has also called for the US to lift its sanctions off of Syria, Venezuela and Iran, while reportedly sending aid to the latter two countries.
+Jack Ma's donation of 100,000 masks to Cuba was blocked by US sanctions on 3 April.
+US authorities have also been accused of diverting aid meant for other nations to their own country.
+And there have been mask-related disputes reported between other countries, such as Germany, Austria and Switzerland; and the Czech Republic and Italy.
+In addition, Turkey seized hundreds of ventilators destined for Spain.
+In early March, the Italian government criticized the European Union's lack of solidarity with coronavirus-affected Italy.
+Maurizio Massari, Italy's ambassador to the EU, said that "Only China responded bilaterally.
+Certainly, this is not a good sign of European solidarity."
+On 22 March, after a phone call with Italian Prime Minister Giuseppe Conte, Russian president Vladimir Putin arranged the Russian army to send military medics, special disinfection vehicles, and other medical equipment to Italy.
+Italy's La Stampa newspaper cited an anonymous "high-level political source" that 80 percent of Russia's aid was "useless or of little use to Italy".
+The source accused Russia of embarking on a "geopolitical and diplomatic" charm offensive.
+The President of Lombardy, Attilio Fontana, and Italian Foreign Minister Luigi Di Maio dismissed the media reports and expressed their gratitude.
+Russia also sent a cargo plane with medical aid to the United States.
+Kremlin spokesman Dmitry Peskov said that "when offering assistance to US colleagues, [Putin] assumes that when US manufacturers of medical equipment and materials gain momentum, they will also be able to reciprocate if necessary."
+The planned NATO "Defender 2020" military exercise in Germany, Poland, and the Baltic states, the largest NATO war exercise since the end of the Cold War, will be held on a reduced scale.
+The Campaign for Nuclear Disarmament's general secretary Kate Hudson criticized the Defender 2020 exercise: "In the current public-health crisis, it jeopardizes the lives not only of the troops from the US and the many European countries participating but the inhabitants of the countries in which they are operating."The Iranian government has been heavily affected by the virus, with around two dozen parliament members infected as well as fifteen other current or former political figures.
+Iran's President Hassan Rouhani wrote a public letter to world leaders asking for help on 14 March 2020, saying that his country is struggling to fight the outbreak due to lack of access to international markets as a result of the United States sanctions against Iran.The outbreak has prompted calls for the United States to adopt social policies common in other wealthy countries, including universal health care, universal child care, paid family leave, and higher levels of funding for public health.
+Political analysts anticipated it may negatively affect Donald Trump's chances of re-election in the 2020 presidential election.Diplomatic relations between Japan and South Korea worsened due to the pandemic.
+South Korea criticized Japan's "ambiguous and passive quarantine efforts" after Japan announced anybody coming from South Korea will be placed in two weeks' quarantine at government-designated sites.
+The South Korean society was initially polarized on President Moon Jae-in's response to the crisis.
+Many Koreans signed petitions either calling for the impeachment of Moon over what they claimed to be government mishandling of the outbreak, or praising his response.The pandemic has allowed countries to pass emergency legislation in response.
+Some commentators have expressed concerns that it could allow governments to strengthen their grip on power.
+In Hungary, its parliament voted to allow the prime minister, Viktor Orbán, to rule by decree indefinitely, suspend parliament as well as elections and punish those deemed to have spread false information about the virus and the government's handling of the crisis.
+The coronavirus outbreak has been blamed for several instances of supply shortages, stemming from globally increased usage of equipment to fight the outbreaks, panic buying, and disruption to factory and logistic operations.
+The United States Food and Drug Administration has issued warnings about shortages of drugs and medical equipment due to increased consumer demand and supplier disruption.
+Several localities also witnessed panic buying that led to shelves being cleared of grocery essentials such as food, toilet paper, and bottled water, inducing supply shortages.
+The technology industry in particular has been warning about delays to shipments of electronic goods.
+According to WHO director-general Tedros Adhanom, the demand for personal protection equipment has risen 100-fold.
+This demand has led to the increase in prices of up to twenty times the normal price and also induced delays on the supply of medical items for four to six months.
+It has also caused a shortage of personal protective equipment worldwide, with the WHO warning that this will endanger health workers.
+In Australia, the pandemic provided a new opportunity for daigou shoppers to sell Australian products into China.
+The activity has created a shortage of baby formula in some supermarkets and was subsequently banned by the Australian government.Despite the high prevalence of COVID-19 cases in Northern Italy and the Wuhan region, and the ensuing high demand for food products, both areas have been spared from acute food shortages.
+Measures by China and Italy against the hoarding and illicit trade of critical products have been successful, avoiding acute food shortages that were anticipated in Europe as well as in North America.
+Northern Italy with its significant agricultural production has not seen a large reduction, but prices may increase according to industry representatives.
+Empty food shelves were only encountered temporarily, even in Wuhan city, while Chinese government officials released pork reserves to assure sufficient nourishment of the population.
+Similar laws exist in Italy requiring food producers to keep reserves for such emergencies.
+Damage to the global economy has been felt in China: according to a media report on 16 March, the economy in China was very hard hit in the first two months of 2020 due to the measures taken by the government to curtail virus spread, and retail sales plunged 20.5%.
+As mainland China is a major economy and manufacturing hub, the viral outbreak has been seen to pose a major destabilizing threat to the global economy.
+Agathe Demarais of the Economist Intelligence Unit has forecast that markets will remain volatile until a clearer image emerges on potential outcomes.
+In January 2020, some analysts estimated that the economic fallout of the epidemic on global growth could surpass that of the 2002–2004 SARS outbreak.
+One estimate from an expert at Washington University in St. Louis gave a $300+ billion impact on the world's supply chain that could last up to two years.
+The Organization of the Petroleum Exporting Countries (OPEC) reportedly "scrambled" after a steep decline in oil prices due to lower demand from China.
+Global stock markets fell on 24 February due to a significant rise in the number of COVID-19 cases outside mainland China.
+On 27 February, due to mounting worries about the coronavirus outbreak, various U.S. stock indexes including the NASDAQ-100, the S&P 500 Index, and the Dow Jones Industrial Average posted their sharpest falls since 2008, with the Dow falling 1,191 points, the largest one-day drop since the financial crisis of 2007–08.
+All three indexes ended the week down more than 10%.
+On 28 February, Scope Ratings GmbH affirmed China's sovereign credit rating, but maintained a Negative Outlook.
+Stocks plunged again based on coronavirus fears, the largest fall being on 16 March.
+Many consider an economic recession to be likely.
+Economist Mohamed El-Erian praised central banks' and states' timely emergency measures.
+Central banks are reacting more quickly than they did to the 2008 financial crash.
+Tourism is one of the worst affected sectors due to travel bans, closing of public places including travel attractions, and advice of governments against any travel all over the world.
+As a consequence, numerous airlines have cancelled flights due to lower demand, including British Airways, China Eastern Airlines, and Qantas, while British regional airline Flybe collapsed.
+The impact on the cruise line industry was at a level never seen before.
+Several train stations and ferry ports have also been closed.
+The epidemic coincided with the Chunyun, a major travel season associated with the Chinese New Year holiday.
+A number of events involving large crowds were cancelled by national and regional governments, including annual New Year festivals, with private companies also independently closing their shops and tourist attractions such as Hong Kong Disneyland and Shanghai Disneyland.
+Many Lunar New Year events and tourist attractions have been closed to prevent mass gatherings, including the Forbidden City in Beijing and traditional temple fairs.
+In 24 of China's 31 provinces, municipalities and regions, authorities extended the New Year's holiday to 10 February, instructing most workplaces not to re-open until that date.
+These regions represented 80% of the country's GDP and 90% of exports.
+Hong Kong raised its infectious disease response level to the highest and declared an emergency, closing schools until March and cancelling its New Year celebrations.The retail sector has been impacted globally, with reductions in store hours or temporary closures.
+Visits to retailers in Europe and Latin America declined by 40%.
+North America and Middle East retailers saw a 50–60% drop.
+This also resulted in a 33–43% drop in foot traffic to shopping centres in March compared to February.
+Shopping mall operators around the world imposed additional measures, such increased sanitation, installation of thermal scanners to check the temperature of shoppers, and cancellation of events.According to a United Nations Economic Commission for Latin America estimate, the pandemic-induced recession could leave between 14 and 22 million more people in extreme poverty in Latin America than would have been in that situation without the pandemic.
+In January and February 2020, during the height of the epidemic in Wuhan, about 5 million people in China lost their jobs.
+Many of China's nearly 300 million rural migrant workers have been stranded at home in inland provinces or trapped in Hubei province.In March 2020, more than 10 million Americans lost their jobs and applied for government aid.
+The coronavirus outbreak could cost 47 million jobs in the United States and unemployment rate may hit 32%, according to estimates by the Federal Reserve Bank of St. Louis.The lockdown in India has left tens of millions of Indian migrant workers (who are paid through daily wages) unemployed.The survey from the Angus Reid Institute found that 44% of Canadian households have experienced some type of unemployment.Nearly 900,000 workers lost their jobs in Spain since it went into lockdown in mid-March 2020.
+During the second half of March, 4 million French workers applied for temporary unemployment benefits and 1 million British workers applied for a universal credit scheme.Almost half a million companies in Germany have sent their workers on a government-subsidized short-time working schemes known as Kurzarbeit.
+The German short-time work compensation scheme has been adopted by France and Britain.
+The performing arts and cultural heritage sectors have been profoundly affected by the pandemic, impacting organizations' operations as well as individuals—both employed and independent—globally.
+Arts and culture sector organizations attempted to uphold their (often publicly funded) mission to provide access to cultural heritage to the community, maintain the safety of their employees and the public, and support artists where possible.
+By March 2020, across the world and to varying degrees, museums, libraries, performance venues, and other cultural institutions had been indefinitely closed with their exhibitions, events and performances cancelled or postponed.
+In response there were intensive efforts to provide alternative services through digital platforms.Another recent and rapidly accelerating fallout of the disease is the cancellation of religious services, major events in sports, and other social events, such as music festivals and concerts, technology conferences, and fashion shows.
+The film industry has also experienced disruption.The Vatican announced that Holy Week observances in Rome, which occur during the last week of the Christian penitential season of Lent, have been cancelled.
+Many dioceses have recommended older Christians to stay at home rather than attending Mass on Sundays; some churches have made church services available via radio, online live streaming or television while others are offering drive-in worship.
+With the Roman Catholic Diocese of Rome closing its churches and chapels and St. Peter's Square emptied of Christian pilgrims, other religious bodies also cancelled services and limited public gatherings in churches, mosques, synagogues, temples and gurdwaras.
+Iran's Health Ministry announced the cancellation of Friday prayers in areas affected by the outbreak and shrines were later closed, while Saudi Arabia banned the entry of foreign pilgrims as well as its residents to holy sites in Mecca and Medina.
+The pandemic has caused the most significant disruption to the worldwide sporting calendar since the Second World War.
+Most major sporting events have been either cancelled or postponed, including the 2019–20 UEFA Champions League, 2019–20 Premier League, UEFA Euro 2020, 2019–20 NBA season, and 2019–20 NHL season.
+The outbreak disrupted plans for the 2020 Summer Olympics, which were originally scheduled to start at the end of July; the International Olympic Committee announced on 24 March that the event will be "rescheduled to a date beyond 2020 but not later than summer 2021".Casinos and other gaming venues worldwide have closed and live poker tournaments have been either postponed or cancelled.
+This has led many gamblers to move online, with many online gambling sites reporting significant increases in their rates of new sign-ups.The entertainment industry has also been affected, with various music groups suspending or cancelling concert tours.
+Many large theatres such as those on Broadway also suspended all performances.
+Some artists have explored ways to continue to produce and share work over the internet as an alternative to traditional live performance, such as live streaming concerts or creating web-based "festivals" for artists to perform, distribute, and publicize their work.
+Online, numerous coronavirus-themed Internet memes have spread as many turn to humour and distraction amid uncertainty.
+Since the outbreak of COVID-19, heightened prejudice, xenophobia, and racism have been noted toward people of Chinese and East Asian descent, and against people from hotspots in Europe, the United States and other countries.
+Incidents of fear, suspicion, and hostility have been observed in many countries, particularly in Europe, East Asia, North America, and the Asia-Pacific region.
+Reports from February (when the majority of the cases had still been confined to China) have documented racist sentiments expressed in various groups worldwide of Chinese people deserving the virus or receiving what has been claimed as justified retribution.
+Some countries in Africa have also seen a rise in anti-Chinese sentiment.
+Many residents of Wuhan and Hubei have reported discrimination based on their regional origin.
+There has been support for the Chinese, both on and offline, and towards those in virus-stricken areas.
+Following the progression of the outbreak to new hotspot countries, people from Italy, the first country in Europe to experience a serious outbreak of COVID-19, could also be subjected to suspicion and xenophobia.Citizens in countries including Malaysia, New Zealand, Singapore, and South Korea initially signed petitions lobbying to ban Chinese people from entering their countries in an effort to stop the disease.
+In Japan, the hashtag #ChineseDontComeToJapan trended on Twitter.
+Chinese people as well as other Asians in the United Kingdom and the United States have reported increasing levels of racist abuse, as well as assaults.
+U.S. president Donald Trump has faced criticism for referring to the coronavirus as the "Chinese Virus", a term considered by critics to be racist and anti-Chinese.
+Protesters in Ukraine attacked buses carrying Ukrainian and foreign evacuees from Wuhan to Novi Sanzhary.
+Students who come from Northeast India, which shares a border with China, and study in major Indian cities have reportedly experienced harassment related to the coronavirus outbreak.
+The Bharatiya Janata Party's State unit president in West Bengal Dilip Ghosh stated that the Chinese had destroyed nature and "that's why the God took revenge against them."
+The remarks were later condemned by the Chinese consulate in Kolkata, calling it "erroneous".In China, xenophobia and racism agains non-Chinese residents has been inflamed by the pandemic, with foreigners described as "foreign garbage" and targeted for "disposal".
+Many newspapers with paywalls have removed them for some or all of their coronavirus coverage.
+Many scientific publishers made scientific papers related to the outbreak available with open access.
+Some scientists chose to share their results quickly on preprint servers such as bioRxiv.
+Emerging infectious disease – Infectious disease of emerging pathogen, often novel in its outbreak range or transmission mode
+Globalization and disease – Overview of globalization and disease transmission
+List of epidemics and pandemics – A list of death tolls due to infectious disease
+Wildlife smuggling and zoonoses – Health risks associated with the trade in exotic wildlife
+COVID-19 (Questions & Answers, instructional videos) by the World Health Organization
+COVID-19 (Q&A) by the European Centre for Disease Prevention and Control
+COVID-19 by the China National Health Commission
+COVID-19 (Q&A) by the Singapore Ministry of Health
+COVID-19 (Q&A) by the U.S. Centers for Disease Control
+Coronavirus Disease 2019 (Q&A) by the National Institute for Occupational Safety and Health
+COVID-19 Directory on Curlie
+COVID-19 Resource Directory on OpenMD
+Coronavirus disease (COVID-2019) situation reports and map by the World Health Organization
+Coronavirus COVID-19 Global Cases and historical data created by Lauren Gardner at Johns Hopkins University The historical data includes daily information about confirmed cases, deaths, and recoveries - with additional detail about individual provinces in large countries such as China or the USA.
+Historical data about COVID-19 cases published by the European Centre for Disease Prevention and Control (ECDC)
+World Travel Restrictions based on WFP data
+Coronavirus Observer based on Johns Hopkins University data
+Covid-19 coronavirus pandemic published by the Worldometer website.
+Coronavirus Disease (COVID-19) – Statistics and Research published by the Our World in Data website.
+COVID-19 Projections for many different countries - published by Institute for Health Metrics and Evaluation.
+Historical data with additional computations and graphs in user-friendly spreadsheet format created by Dianelos Georgoudis
+Coronavirus Disease 2019 (COVID-19) by JAMA
+Coronavirus: News and Resources by BMJ Publishing Group
+Novel Coronavirus Information Center by Elsevier
+COVID-19 Resource Centre by The Lancet
+SARS-CoV-2 and COVID-19 by Nature
+Coronavirus (Covid-19) by New England Journal of Medicine
+Covid-19: Novel Coronavirus by Wiley Publishing

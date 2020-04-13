@@ -1,0 +1,107 @@
+FROM: Katherine Maher, Wikimedia Foundation CEO
+TO: All Wikimedia Foundation staff
+SUBJECT LINE: [Covid-19] Lightening the load and preparing for the future
+SEND DATE/TIME: 14 March, 2020, 00:24 UTC
+LICENSING: CC0: No rights reserved
+Hi everyone,
+We find ourselves in remarkable circumstances this month. 
+The COVID-19 epidemic is something that makes clear our global human interconnectedness and the responsibilities we have to one another. 
+We don’t have precedent for its challenges, but we do know that our best response relies on the sort of global empathy, cooperation, and community building that sits at the heart of this organization.
+The camaraderie and care we have seen among all of our colleagues over email, calls, and chats is a remarkable validation of the incredible humans we are fortunate enough to work with. 
+I couldn’t be more grateful and proud to count you all as colleagues. 
+Thank you.
+Last week, someone shared with me their appreciation for our work. 
+They reminded me how meaningful it is for the world to be able to turn to Wikipedia right now, and what a powerful symbol it is for this critical resource to remain online and available to all. 
+Your work makes this possible, whether you keep the sites stay up or our colleagues paid or our communities safe. 
+The world needs the information that Wikipedia provides, now more than ever.
+This is a moment in which not only what we do, but how we do it, will make a meaningful impact on the world. 
+Because of the importance of this mission and your role in it, we will be making some significant adjustments to how we work together, starting this coming week.
+Adjustments to our work and schedules
+As Robyn mentioned previously, the c-team met last night to discuss our approach and schedule for the coming days and months. 
+In that conversation, we considered what we thought would be an appropriate response to what we’re facing and the best way to keep the organization sustainable during this time. 
+Overwhelmingly we wanted to remove stress and support our mission for the long term.
+If you need to dial back, that’s okay. 
+For all staff, contractors, and contract workers: 
+our daily working expectations will be about 4 hours a day, or 20 hours a week until further notice. 
+We’re not declaring a holiday - if you are able to work more normal hours, the mission can use you. 
+However, the world is unpredictable right now, and whether you need to care for loved ones, get groceries, or go to the doctor, your well-being is our priority. 
+We are not tracking your time. 
+We trust you.
+If you are sick, do not work. 
+This should go without saying, but we’re saying it. 
+No sick days or PTO required - just tell your manager and help your team revise calendars and schedules to make sure key areas of work are covered. 
+(If you are diagnosed positive for COVID-19, please let Bryan within T&C Ops know so T&C can help with support and make sure your situation gets appropriate attention from management).
+Hourly folks will be fully paid. 
+We have already said, and are recommitting to honor our commitments to our contractors and hourly staff colleagues. 
+Everyone will be paid on the basis of their usual hours worked during normal circumstances. 
+This includes if you are sick and unable to work.
+If you want to work, we support you. 
+Many people use work as a way of channeling their stress with the world around us. 
+If that’s you, great! 
+What we do can be incredibly rewarding, especially during times like this. 
+Again, this is about your self-care. 
+Our ask is that you communicate with your manager, so we know what to expect and can adjust accordingly.
+Some work is considered essential. 
+There are some things that we must keep doing. 
+The SRE, HR Ops, Trust & Safety, and Fundraising teams (among others) do critical work that may need additional support. 
+We’ll begin a process with all departments to assess current objectives and shift our focus to supporting what’s essential for our mission. 
+There’s plenty to do for all of us, we just will all focus on the most essential projects.
+Slowing now won’t hurt later. 
+We do not plan to go “double-time to catch up” once the pandemic has passed. 
+You will not be expected to work extra hours to meet deadlines which are now unrealistic. 
+We accept that circumstances have changed, and will work to set new targets and timelines where appropriate.
+What happens with the APP (Annual Planning)?
+To adjust to our new reality and daily working hour expectations, we intend to adjust the timeline for the delivery of our 2020-2021 Annual Plan. 
+Our intention is to propose an extension of our 2019-2020 plan that allows more time for budgeting to allow employees to prioritize critical work, self-care, and care for loved ones while accommodating those who need or wish to work a reduced schedule over the next few weeks.
+This timeline extension greatly reduces current planning workloads and pressure across the whole organization. 
+We will introduce our proposal to the Board next week and will update delegates and teams on the next steps as soon as we have confirmation. 
+Thank you to the APP team for your leadership in this.
+Office status, exposure, and cleaning
+Last week, we learned that one of our SF-based colleagues may have been exposed to the COVID-19 virus. 
+Thankfully, they tested negative. 
+However, out of an abundance of caution, we employed an antiviral cleaning crew to disinfect all surfaces in the San Francisco office. 
+They utilized a hospital-grade anti-viral solution to disinfect every surface, as well as the lobby and elevator banks accessing our floor. 
+The building is employing its own duty-of-care protocol utilizing products that support the safety of their tenants. 
+We feel comfortable that the office will be well-prepared for when we decide to return.
+Our DC office is located in a WeWork, which has shared its COVID-19 protocol with us and all DC-based staff members. 
+As of last week, our DC office moved to a fully remote setup in line with the guidance shared with San Francisco.
+As some of our NYC-based colleagues know, we have also been in discussion about leasing a location in Brooklyn. 
+These discussions are continuing but may be delayed.
+Tips for remote work
+Some of our colleagues are working remotely for the first time. 
+Our long-time remote colleagues know that it can be an adjustment, and wanted to offer you some advice:
+Limit the length of meetings to at most one or two hour increments. 
+If longer sessions are required, consider how they can be broken up over the course of several days.
+Clearly define the meeting, have an agenda, and send reading materials in advance.
+Make video the default, with tools like Google Docs and Zoom to facilitate live collaboration and connection.
+Have a lead to facilitate every meeting, someone to monitor the chat for questions and track the speaker list, and someone to help take notes (or do collaborative note-taking).
+Send an email to tech support if you need a comfortable headset.
+Use your wellness reimbursement for snacks.
+Join the #remoties channel in Slack to talk with your colleagues about distributed work
+The HR Operations team is looking into webinar-based ergonomics guidance to support the increase in distributed work across the Foundation.
+Supporting our global communities
+This past week we asked all community grant recipients to cancel Wikimedia-funded public events, such as editathons, until the WHO declares the pandemic to be over. 
+We let them know that we understood that our request for cancellations and other restrictions could make it impossible to complete their agreed-upon grant activities and that no one would be penalized for having to delay or modify those goals.
+This coming week we will follow up with additional guidance on Wikimania and other regional and thematic community conferences. 
+The general sentiment from around the global community seems to be both sadness at the disruption but relief at the clarity and ability to focus on their own communities, Wikimedia and otherwise. 
+Going forward, the CRT is working to set up a page on Meta-Wiki to provide a space for the community to monitor the impact and follow our communications with them.
+Staying in touch around COVID-19 related issues
+We’ll be sending an invitation to your calendars for next Thursday, 14:00 UTC/07:00 PT for a special staff meeting. 
+We’ll use this time to share additional updates, answer your questions and spend some time connecting with each other. 
+We’re in this together and here to help however we can.
+In the meantime, you can continue to find the information from this email, and all other essential COVID-19 related information, on Office Wiki. 
+The CRT will keep these pages updated and all the information in one place. 
+We are also working to maintain regular communications with staff who reside in countries that are currently significantly affected.
+If you have any questions about travel, events, a major workstream, or coverage challenge, or anything else you may need help with, please don’t hesitate to notify and work with the CRT. 
+We’re here to help provide support and liaise as needed. 
+If you have a confidential or sensitive matter, please email Bryan Judan - Director of HR International Global Operations.
+Thank you
+None of these changes should be seen as an abandonment of our work and obligations. 
+Rather, they are a recognition that at this moment, our work and obligations will likely need to adapt in a way we have not in the past. 
+These are the steps we believe are necessary to support this one another so that we can continue to work, provide our movement with the support they need, and the world with the service they rely on.
+Our planned work will be there waiting for us when the time comes. 
+For now, it is time to support one another and create space for the important work that will be coming in the weeks and potentially months ahead. 
+We need all of you to make that happen, and so we need you all to take care of yourself and your families so that you can be at your best when the need arises.
+Now, please -- wash your hands and don’t touch your face!
+Yours,
+Katherine, the CRT (Amanda K, Amy V, Bryan J, Doreen D, Gregory V, Jaime V, Joel L, Lynette L, Ryan M, and Tony S), and the rest of the Leadership Team (Grant I, Heather W, Jaime V, Janeen U, Lisa S, Robyn A, Ryan M, and Toby N).

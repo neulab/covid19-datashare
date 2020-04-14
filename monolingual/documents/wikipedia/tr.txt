@@ -1,0 +1,726 @@
+Koronavirüs
+Koronavirüs ya da corona virüsü (Latince: Orthocoronavirinae), kuşlarda ve memelilerde hastalıklara sebep olan ve Coronaviridae familyasının iki alt familyasından birini oluşturan virüslerdir.
+İnsanlarda genellikle ciddi olmayan virüs, nezle vakalarının önemli bir bölümüne yol açmasıyla birlikte, aralarında MERS-CoV, SARS-CoV ve COVID-19 (2019-nCoV)'un bulunduğu bazı nadir koronavirüs çeşitleri ölüm riski bulunduran solunum yolu enfeksiyonlarına neden olabilir.
+Koronavirüsler ineklerde ve domuzlarda ishal, tavuklarda ise üst solunum yolu hastalıklarına sebep olur.
+İçerisinde barındırdığı genetik materyal (genom) pozitif polariteli, tek iplikçikli RNA'dan oluşur.
+Bugüne kadar tespit edilmiş en büyük RNA genomuna sahip virüslerdir, 30 kilobazdan büyük bir uzunluğa sahiptir.
+125 nanometre büyüklüğe sahip olan virüsün en belirgin özelliği etrafındaki değneğe benzeyen çıkıntılarıdır.
+Bu özelliğiyle mikroskop altında güneşin taç küresine (Latince: corona) benzediği için koronavirüs adını almıştır.SARS-CoV 2'nin de aralarında yer aldığı koronavirüs hastalıklarına karşı henüz herhangi bir aşı veya özel antiviral ilaç geliştirilmemiştir.
+Hastalığın kontrol edilmesinde semptomatik tedavi, izolasyon ve çeşitli deneysel uygulamalar yer alır.
+El yıkama, mesafe koyma ve yüze dokunmama koronaviral hastalıkların yayılmasını önlemek için önerilen önlemlerdendir.
+Koronavirüsler 1960'larda keşfedildi.
+İlk keşfedilmiş virüsler arasında tavuklarda görülen infeksiyöz bronşitis virüsü ile soğuk algınlığı semptomları gösteren insan hastaların burun boşluklarından alınmış ve insan koronavirüsü 229E ve OC43 olarak isimlendirilmiş iki virüs türü yer almaktadır.
+İlerleyen zamanlarda aralarında 2003'te keşfedilen SARS koronavirüsü, 2004'te belirlenmiş HCoV NL63, 2005'te teşhis edilmiş HKU1, 2012'de fark edilmiş MERS-CoV ile Wuhan kökenli CoVID-19'un da yer aldığı pek çok yeni koronavirüs türü keşfedilmiştir.
+Bu virüslerin çoğu ciddi solunum yolu enfeksiyonlarına neden olmaktadır.
+Koronavirüsler yüzeyinde çıkıntılara sahip, büyük, pleomorfik ve küre şeklindeki partiküllerdir.
+Virüs partiküllerinin çapı yaklaşık 120 nm olmaktadır.
+Viral zarf elektron mikrograflarında elektron zengini bir kabuk olarak vizüelize edilir.Koronavirüslerin viral zarfı, çift katlı lipit katmandan oluşmakta olup, zarfta membran (M), zarf (E) ve spike (S) proteinleri yer alır.
+Belirli koronavirüs gruplarında, özellikle de Betacoronavirüs A altgrubunda, spike proteinlerine benzeyen ancak daha kısa olan hemagglutinin esteraz (HE) yüzey proteinleri yer alır.Viral zarfın içerisinde nükleokapsit yer alır.
+Nükleokapsit, pozitif yönelimli ve tek iplikçikli RNA'ya bağlı pek çok nükleokapsid (N) proteininden oluşur.
+Yetişkinlerde ve çocuklarda görülen nezle vakalarının önemli bir kısmında koronavirüslerin sorumlu olduğu düşünülmektedir.
+Bu virüs grubu, ateş ve bademciklerin büyümesi gibi semptomlara neden olmakla beraber en çok kış ve erken baharda nezleye yol açmaktadır.
+Bunlara ek olarak koronavirüsler zatürre ile bronşite (viral veya ikincil bakteriyel) neden olabilirler.7 adet farklı insan koronavirüsü bulunmaktadır:
+İnsan koronavirüsü 229E (HCoV-229E)
+İnsan koronavirüsü OC43 (HCoV-OC43)
+İnsan koronavirüsü NL63 (HCoV-NL63,  Haven koronavirüsü)
+İnsan koronavirüsü HKU1
+MERS koronavirüsü (MERS-CoV)
+Yeni koronavirüs (CoVID-19)HCoV-229E, -NL63, -OC43, ve -HKU1 virüsleri dünya çapında insan nüfusu arasında çocuklarda ve yetişkinlerde solunum yolu enfeksiyonlarına neden olmaktadır.
+Şiddetli akut solunum yolu sendromu (SARS), insanlarda SARS koronavirüsünün neden olduğu bir solunum yolu sendromudur.
+2002 ile 2003 yılları ​​arasında Hong Kong'dan yayılan SARS salgını neredeyse pandemi haline gelmiş ve dünya çapında 8422 vaka ve 1524 ölüme yol açmıştır.
+Dünya Sağlık Örgütü ölüm oranını %10,9 olarak açıklamıştır.
+Orta Doğu Solunum Sendromu (MERS), ilk olarak 2012 yılında Suudi Arabistan'da tespit edilmiş, MERS-CoV'un yol açtığı bir koronavirüs enfeksiyonudur.
+Bu virüsün bulaştığı hastaların %36'sı hayatını kaybetmektedir.
+Nefes darlığı, öksürük ve ateş hastalığın en önemli belirtileri arasındadır.
+Bazı bünyeler hastalığı hafif belirtilerle atlatabilir.
+Hastalıktan kurtulanların virüsü bulaştırma riski yoktur.
+Şiddetli akut solunum yolu sendromu koronavirüsü 2 veya CoVID-19 veya Vuhan koronavirüsü, ilk olarak 2019'da bildirilmiş, Çin'in Vuhan kenti kökenli bir virüstür.
+İnsandan insana bulaşabilen virüsün bulaşma hızı 2020 yılının Ocak ayı ortalarında hızlanmıştır.
+Virüsün kuluçka dönemi 4-14 gündür.
+Virüsün bulaştığı bireylerde görülen ölüm oranının %3'ün altında olduğu tahmin edilmektedir.2019-20 koronavirüs pandemisi ile mücadele eden Çin aşı çalışmalarına devam etmektedir.
+Rusya ise aşı çalışmalarına destek veren ilk ülke olmuştur.
+22 Mart 2020 tarihi itibariyle 340,408 vaka, 14,573 ölüm ve 97,571 tahliye gözlenmiştir.
+Koronavirüslerin en son ortak atası (ESOA ) MÖ 8000 civarına tarihlenir.
+Buna rağmen koronavirüslerin çok daha eski olabileceği de düşünülür.
+Alphacoronovirus, Betacoronavirus, Gammacoronavirus, ve Deltacoronavirus cinslerinin ESOA'ları sırasıyla MÖ 2400, MÖ 3300, MÖ 2800 ve MÖ 3000'e dayanmaktadır.
+Sıcakkanlı ve uçabilen, kuş ve memeli gibi omurgalıların ideal konaklar olduğu ve koronavirüs evriminde ve yayılmasındaki ana faktörleri oluşturduğu düşünülür.
+Alphacoronovirus ve Betacoronavirus için yarasalar, Gammacoronavirus ve Deltacoronavirus için ise kuşlar ideal genetik kaynaktır.
+Cins: Alphacoronavirus; tipik tür: Alphacoronavirus 1
+Cins Betacoronavirus; tipik tür: Murin koronavirüsü (diğer türler; SARS ve 2019-nCoV)
+Cins Gammacoronavirus; tipik tür: Kuş koronavirüsü
+Koronavirüs'ün yayılımını, ölü sayısını ve tedavi edilen kişi sayısını canlı olarak gösteren harita, Johns Hopkins Üniversitesi
+Bu makale 2019-20 koronavirüs pandemisinin Gine'deki etkilerini belgelemektedir.
+13 Mart: Ülkedeki ilk koronavirüs vakasının tespiti bildirdi.
+Virüs, Gine'deki Avrupa Birliği heyetinin çalışanı olan bir Belçikalı'da teşhis edildi.
+Bu makale 2019-20 koronavirüs pandemisinin Nijerya'daki etkilerini belgelemektedir.
+28 Ocak 2020'de Nijerya Federal hükûmeti, ülkenin vatandaşlarına, koronavirüsün yayılmasını önlemek için ülkedeki beş uluslararası havaalanında sürveyansı güçlendirmeye hazır olmalarını sağladı.
+Hükûmet, havaalanlarını Enugu, Lagos, Rivers, Kano ve FBT olarak seçti.
+Nijerya Hastalık Kontrol Merkezi aynı gün koronavirüs kontrol grubu kurduklarını ve Nijerya'da herhangi bir durum ortaya çıkarsa olay sistemini etkinleştirmeye hazır olduklarını duyurdu.31 Ocak 2020 tarihinde, Çin anakarasında ve dünyadaki diğer ülkelerde COVID-19 salgınının gelişmesinden sonra, Nijerya federal hükümeti virüsün sonunda ülkeye yayılması durumunda etkisini azaltmak için bir Koronavirüs Hazırlık Grubu kurdu.
+Aynı gün, Dünya Sağlık Örgütü Nijerya'yı virüsün yayılabileceği yüksek riskli 13 Afrika ülkesi arasında listeledi.26 Şubat 2020'de Çinli vatandaş, koronavirüs bulaşmış olduğu şüphesiyle kendisini Lagos Eyalet hükûmetine bildirdi.
+Reddington Hastanesi'ne kabul edildi ve ertesi gün virüsün tespit edilmemesi üzerine serbest bırakıldı.
+27 Şubat: Nijerya'da çalışan bir İtalyan vatandaşı 25 Şubat'ta Milano'dan Nijerya'ya, Murtala Muhammed Uluslararası Havaalanı üzerinden döndü.
+26 Şubat'ta hastalandı ve Lagos Devlet Biyogüvenlik Tesislerine tecrit edildi ve test sonucunun pozitif çıkmasıyla Nijerya ülkedeki ilk vakasını doğruladı.
+9 Mart: İkinci vaka, ilk vakadaki İtalyan ile teması bulunan, Ogun Eyaleti, Ewekoro'da ikamet eden Nijeryalı bir vatandaşta tespit edildi.13 Mart: Nijerya, ikinci vakanın artık sisteminde virüs barındırmadığını, böylece yapılan testin negatif çıktığını açıkladı.
+Mart ayı başlarında, Nijerya Sağlık Bakanı Osagie Ehanire, İtalyan hasta ile temasta bulunan 60 kişinin 40'ını Ogun Eyaletinde, 20'sinin Lagos Eyaletinde tecrit edildiğini açıkladı.1 Mart 2020'de Plateau Eyaleti'nde bulunan dört Çinli vatandaş karantinaya alındı, ertesi gün çıkan test sonuçlarında hepsi negatif çıktı.3 Mart 2020'de Lagos Eyaleti valisi Babajide Sanwo-Olu, ismini vermediği bir Asya ülkesinden iki kişinin test sonuçlarının negatif olduğunu açıkladı.6 Mart 2020'de Anambra Eyaleti hükümeti, beş Çinli vatandaşın test sonuçlarının negatif çıktığını açıkladı.
+Nijerya Hastalık Kontrol Merkezi ayrıca toplam 219 kişinin birincil ve ikincil temasının tespit edildiğini ve aktif olarak izlendiğini bildirdi.9 Mart 2020'de Nijerya Devlet Başkanı Muhammadu Buhari, ülkedeki virüsün kontrolü için bir Başkanlık Görev Gücü kurdu.10 Mart 2020'de Türk Hava Yolları virüs salgını nedeniyle Nijerya'ya olan tüm uçuşlarını iptal etti.
+Bu makale 2019-20 koronavirüs pandemisinin Kamerun'daki etkilerini belgelemektedir.
+2019-20 koronavirüs pandemisinin Kamerun'da tespit edilmesyile virüs Orta Afrika'da yayılmaya başlamış oldu.
+Hastalık bulunan kişi 24 Şubat'ta başkent Yaoundé'ye gelen Fransız uyruklu bir kişidir.
+Ülkedeki ikinci vaka da 6 Mart'ta açıklandı.
+Vaka, ilk vaka ile yakın temasta olan bir Kamerun vatandaşıydı ancak yetkililer dava hakkında daha fazla bilgi yayınlamadı.16 Mart: Ülkedeki beşinci vaka Sağlık Bakanı tarafından açıklandı.
+Vaka Fransa'dan Yaoundé'ye dönen bir adamda teşhis edildi.
+Amerika Birleşik Devletleri'nde 2020 koronavirüs pandemisi
+Amerika Birleşik Devletleri'nde 2019-20 koronavirüs salgınının ilk doğrulanan vakası 21 Ocak 2020'de açıklandı.
+12 Mart 2020'ye kadar ABD'de yeni koronavirüs (COVID-19) tanısı konmuş vaka sayısı bini; aktif vaka sayısı ise 14 Mart'a kadar iki bini, 15 Mart'a kadar üç bini ve 16 Mart'a kadar dört bini aştı.
+Ülkedeki 94 ölümden 42'si Washington eyaletinde, 29'u huzurevlerinde meydana geldi.
+50 ABD eyaletinin 49'unda, Columbia Bölgesinde, Guam'da, Porto Riko'da ve Virjin Adaları'nda vaka görüldüğü doğrulandı.
+15 Mart itibarıyla teyit edilmiş vakası olmayan tek eyalet Batı Virginia ve teyit edilmiş vakası olmayan tek bölgeler Amerikan Samoası ve Kuzey Mariana Adaları'dır.Başkan Donald Trump, 13 Mart'ta ulusal acil durum ilan etmiştir.
+Hükûmet ilk olarak kişileri virüs enfeksiyonu için Şubat ayında test etmeye başladı ancak kısa bir süre sonra, Hastalık Kontrol ve Korunma Merkezleri (CDC), test kitlerinin arızalı olduğunu ve yanlış sonuçlar verdiğini, bu nedenle testlerin yararsız olduğunu tespit etti.
+Hükûmet, bu testi hızlandırmayı amaçlayan bir dizi önlem açıkladı.
+14 Mart'tan itibaren 50 eyaletin tümü ya CDC'den ya da bir eyaletteki ticari laboratuvardan doktor onayı ile testler yaptırabildi ancak mevcut test kiti sayısı çok sınırlı kaldı, bu nedenle virüs bulaşmış kişilerin sayısının makul bir doğrulukla tespit edilmesi imkansız hâle geldi.
+CDC, doktorların bir teste izin vermeden önce belirli yönergelerle birlikte karar almalarını önerdi.
+CDC; Çin, İran, Schengen Bölgesi'ni oluşturan 26 Avrupa ülkesi ile Birleşik Krallık ve İrlanda'ya zorunlu olmayan seyahatlere karşı tavsiyelerde bulundu.
+Amerika Birleşik Devletleri, son 14 gün içinde bu bölgelerden herhangi birinde olan yabancı uyrukluların girişini yapmayı reddetti.
+Çin'in Hubei eyaletinde seyahat ettikten sonra eve dönen Amerikalıların 14 günlük karantinaya başvurmaları gerekiyor.
+Son 14 gün içinde Çin sınırlarından ABD'ye dönen tüm ABD vatandaşlarının sağlık taraması yaptırması ve kendi kendine karantinaya almaları gerekmektedir.
+Salgına karşı alınan önlemler arasında, okulların ve diğer eğitim kurumlarının kapatılması, ticaret fuarlarının, konvansiyonların, müzik festivallerinin iptal edilmesi ve spor etkinliklerinin ve liglerinin iptal edilmesi ve askıya alınması da dahil olmak üzere büyük ölçekli toplantıların yasaklanması ve iptal edilmesi yer alıyor.
+Dünya Sağlık Örgütü'nün 11 Mart'ta koronavirüs salgınını bir salgın olarak ilan etmesinin ardından CDC, yaygın bulaşmanın çok sayıda insanın sağlık hizmetlerine aşırı yüklenmesine neden olabileceği, hastane ve diğer sağlık hizmetlerine başvurmaya zorlayabileceği konusunda uyardı.
+Beyaz Saray Coronavirus Görev Gücü, ABD'de COVID-2019'un "izlenmesi, önlenmesi ve yayılmasını azaltma" çabalarını koordine etmek ve denetlemek için Ocak 2020'de kurulmuştur.
+COVID-19 pandemisi başladığında, Laurie Garrett'e göre, federal hükümetin krize yanıt verme kapasitesi azaldı, çünkü olası herhangi bir pandemiyi planlamak ve cevaplandırmak için doldurulmayan çeşitli pozisyonlar olduğunu belirtti.
+Washington Post, Trump'ın 2017'de göreve başlamasından sonraki aylar boyunca, CDC'de ve ABD Uluslararası Kalkınma Ajansı'nda daimi direktörlerin atanmasında gecikmeler yapıldığını ve Sağlık ve İnsan Hizmetleri Departmanında da boşlukların doldurulmadığını yazdı.
+Şubat 2020'de CDC, basına enfeksiyonların yayılmasını beklediğini bildirdi ve yerel yönetimleri, işletmeleri ve okulları salgın için planlar geliştirmeye çağırdı.
+Önerilen hazırlıklar arasında toplumsal toplantıların iptal edilmesi, tele-çalışmaya geçiş ve artan devamsızlık ya da kesintili tedarik zincirleri karşısında iş faaliyetlerinin devam etmesini planlamak bulunuyordu.
+Bu makale 2019-20 koronavirüs pandemisinin Fransa'nın denizaşırı toprağı Réunion'daki etkilerini belgelemektedir.
+11 Mart'ta ilk vaka onaylandı.15 Mart'ta teyit edilen vaka sayısı 7'ye yükseldi.
+İsviçre'de 2020 koronavirüs pandemisi
+İsviçre'de 2020 koronavirüs pandemisi 2019-20 koronavirüs salgınının 25 Şubat 2020'de İsviçre'ye yayıldığı ve ilk COVID-19 vakasının İtalya'daki, COVID-19 salgını sonrasında ortaya çıktı.
+İtalya'nın sınırına komşu olan ve İtalyanca konuşulan Ticino kantonunda yaşayan  70 yaşındaki bir kişi SARS-CoV-2 için yapılan testte pozitif çıktı.
+İlk vaka  daha önce Milan'ı ziyaret etmişti.
+Daha sonra, çok sayıda vaka Basel-City, Zürich ve Graubünden dahil olmak üzere İtalya kümeleriyle bağlantılı olan kantonlarda ortaya çıktı.
+İtalya kümeleriyle ilgili olmayan çok sayıda izole vakanın da olduğu doğrulanmıştır.
+28 Şubat'ta ulusal hükümet olan Federal Konsey, 1000'den fazla katılımcıya sahip olan  tüm etkinlikleri yasakladı.
+16 Mart'ta okullar ve çoğu mağaza ülke çapında kapatıldı ve 20 Mart'ta kamusal alanlarda beşten fazla insanı içeren tüm toplantılar yasaklandı.
+Buna ek olarak, hükümet giderek sınır geçişlerine kısıtlamalar getirdi ve 40 milyar İsviçre frankı değerinde ekonomik destek önlemleri açıkladı.
+15 Mart itibarıyla, en az bir milyon vatandaşı olan ülkeler arasında İsviçre, kişi başına 256,2 vakayla dünyanın en yüksek kişi başına düşen koronavirüs vakası oranına sahipti.
+Vatikan'da 2020 Koronavirüsü Pandemisi, Vatikan'da 2019-20 koronavirüs pandemisinin etkileri.
+Papa Francis, soğuk algınlığına yakalandıktan sonra koronavirüs testi yaptırdı ve sonucu negatif çıktı.Papa Francis, kalabalığın onu görmek için toplanmasını engel olmak için halka açık düzenli görüşlerini iptal etti ve İtalya'daki salgın nedeniyle düzenli görüşlerini internette yayınlayacak.
+2019-20 koronavirüs pandemisinin 5 Mart 2020'de bir vaka ile Vatikan'a yayıldığı doğrulandı.
+Ermenistan'da ilk koronavirüs pandemisi COVID-19 vakası, 1 Mart 2020 tarihinde Başbakan Nikol Paşinyan'ın Facebook sayfasında paylaştığı raporlar ile açıklandı.
+Hükümet, koronavirüsün yayılmasını önlemek amacıyla 16 Mart tarihinde 14 Nisan'a kadar devam edecek olan olağanüstü hal ilan etti.
+Ülkedeki bütün eğitim kurumları, Gürcistan ve İran sınırları kapatıldı, 20'den fazla kişinin bulunduğu toplantılar yasaklandı ve 2020 Ermenistan anayasa referandumu ertelendi.
+16 Mart tarihinde 12 yeni vaka tespit edildi ve ülkedeki toplam onaylanmış vaka sayısı 52'e yükseldi bir kişi ise iyileşti.
+İspanya'da 2020 koronavirüs pandemisi
+İspanya'da 2020 koronavirüs pandemisi, İlk koronavirüs vakası 31 Ocak 2020'de doğrulandı.17 Mart 2020 itibariyle 11.309 vaka ve 509 ölüm vardır.
+31 Ocak 2020'de Almanya'dan gelen bir turistin testlerinin pozitif çıkmasıyla birlikte İspanya'da ilk vaka görülmüş oldu.
+9 Şubat'ta, ikinci vaka, Balear Adaları, Palma de Mallorca'da, Fransa'dan gelen İngiliz birinde ortaya çıktı.
+13 Şubat'ta İspanya'da ilk ölüm gerçekleşti.
+Nepal'den gelen 69 yaşındaki bir adam Valencia'da yaşamını yitirdi.
+24 Şubat'ta İtalya'da KOVID-19 salgını sonrasında, Tenerife'ye giden bir doktorunun testleri pozitif çıktı.
+25 Şubat'ta İspanya'da İtalya kaynaklı dört yeni vaka doğrulandı:
+Kanarya Adaları'nda, Tenerife'de tatile çıkan  doktorunun karısı virüsü kaptı.
+Katalonya'da, 12-22 Şubat tarihleri arasında Bergamo ve Milano'yu ziyaret eden 36 yaşındaki İtalyan bir kadının testleri de pozitif çıktı.
+Yakın zamanda Kuzey İtalya'dan dönen 24 yaşındaki Madridli bir adam virüse yakalandı ve Carlos III Hastanesi'ne kaldırıldı.
+Valensiya Topluluğu'nda, yakın zamanda Milano'ya giden bir adamda da virüse saptandı.
+27 Şubat'ta:
+Kanarya Adaları'nda, Tenerife'den 22-25 Şubat tarihleri arasında İtalya'ya seyahat eden 22 yaşındaki bir kadına koronavirüs tanısı kondu.
+Vakaların sayısı 1231'e ölenlerin sayısı ise 30'a yükseldi.
+Bask Hükumeti okulların kapatıldığını açıkladı.10 Mart'ta:
+25 Mart'a kadar olan tüm İspanya-İtalya arasındaki uçuşlar durduruldu.
+Katalan hükümeti, İspanyol hükümetinin bir önceki gün attığı adımları izledi ve bölgede binden fazla katılımso olan etkinlikleri askıya aldı.
+İspanya Kongresi'nin ikinci başkan yardımcısı, eski Kongre Başkanı ve eski Sağlık ve Bakanı Ana Pastor , koronavirüse yakalandığını açıkladı.
+Koronavirüs hastalığı 2019
+Koronavirüs hastalığı 2019, kısaltmasıyla COVID-19 ya da KOVID-19, insanları etkileyen, şiddetli akut solunum yolu sendromu koronavirüsü 2'nin (SARS-CoV-2) neden olduğu bulaşıcı bir solunum yolu hastalığı.
+İlk olarak 2019 yılında Çin'in Vuhan şehrinde keşfedilmiş hastalık, keşfinden bu yana dünya çapında yayılarak 2019-20 koronavirüs pandemisine yol açmıştır.
+Hastalıkta görülen yaygın semptomlar arasında ateş, öksürük ve nefes darlığı yer almaktadır.
+Kas ağrıları, balgam üretimi ve boğaz ağrısı ise daha az yaygın görülen belirtileri oluştururlar.
+İshal gibi gastrointestinal belirtiler rapor edilmiştir.
+Vakaların çoğu hafif semptomlara sahip olsa da, bazı hastalarda şiddetli zatürre ve çoklu organ yetmezliği meydana gelebili.
+20 Mart 2020 itibariyle vaka başına ölüm oranı %4.1 olup, yaş grubu ve diğer sağlık sorunlarına göre bu oran %0.2 ile %15 arasında değişmektedir.Virüs genellikle öksürük sonucu oluşan damlacıklar vasıtası ile insandan insana bulaşır.
+Kontamine olmuş yüzeylere dokunulmasının ardından kişinin kendi yüzüne dokunmasının da diğer bir yayılma yöntemi olabileceği düşünülmektedir.
+Virüs enfekte kişilerin dışkısında da bulunduğundan ötürü fekal-oral yol ile bulaşma araştırılmaktadır.
+Virüse maruz kalındıktan semptomların ortaya çıkmasına kadar geçen kuluçka süresi 2 ila 14 gün arasında olup, ortalama olarak 5 gün sürmektedir.
+Standart tanı yöntemi, kişiden alınacak nazofarengeal sürüntü ile yapılacak gerçek zamanlı revers transkriptaz polimeraz zincir reaksiyonu (rRT-PCR) testleri olmaktadır.
+Enfeksiyona aynı zamanda semptomların, risk faktörlerinin ve zatürreye işaret eden göğüs BT taramalarının beraber değerlendirilmesi ile de tanı konabilir.Önerilen önlemler arasında sıkça el yıkama, diğer kişiler ile fiziksel mesafeyi koruma ve elleri yüzden uzakta tutma yer alır.
+Maske kullanımı virüs şüphesine sahip kişiler ile yakınlarına önerilmekte olup, genel halka önerilmemiştir.
+Aşısı ve özel antiviral ilacı bulunmayan COVID-19, semptomatik tedavi, izolasyon ve deneysel yöntemler ile yönetilir.
+Araştırma ve deneysel tedaviler, aşı geliştirme, eski antiviral ilaçların COVID-19 için kullanımı, pasif bağışıklama ve sitokin fırtınası önlemeyi içerir.
+Dünya Sağlık Örgütü Mart 2020'de 2019-20 koronavirüs salgınını bir pandemi ilan etmiş, durumun bir Uluslararası Kamu Sağlığı Acil Durumu (PHEIC) olduğunu açıklamıştır.
+Hastalığın DSÖ tarafından belirlenmiş dünyanın 6 bölgesinde de yerel olarak bulaştığına dair kanıtlar vardır.
+23 Mart 2020 tarihi itibariyle 334,451 pozitif vaka tespit edilmiş olup, bu vakalardan 97,594'si iyileşmiş, 14,597 kişi ise hastalık nedeniyle hayatını kaybetmiştir.
+Semptomlar, vakaların %90'ında ateş, %80'inde yorgunluk ve kuru öksürük, %20'sinde nefes darlığı ve %15'inde solunum sıkıntısı şeklinde kendini göstermektedir.
+Göğüs röntgeninde her iki akciğerde de belirti vermiştir.
+Hayati belirtiler hastaneye yatırılanların kabulü sırasında genellikle kararlıdır.
+Kan testlerinde genellikle düşük beyaz kan hücresi (Akyuvar) sayımı göstermiştir.
+2019-nCoV’da diğer solunum yolu virüsleri gibi enfekte kişilerin öksürük, hapşırık, gülme, konuşma sırasında çevreye saçılan virüs içeren solunum damlacıklarının hava yoluyla alınmasıyla bulaşmaktadır.
+İnsandan insana bulaş için yakın temas gereklidir.
+Asemptomatik yani virüsü taşıdığı halde henüz hasta olmamış kişiler de hastalığın yayılmasına neden olabilirler.Koronavirüs, hayvanlardan insanlara sıçrama yapan (Zoonoz) virüslerdendir.
+Bu virüsün mutasyon yeteneği bulunmaktadır.
+Yetişkinlerde ve çocuklarda görülen nezle vakalarının bir kısmından koronavirüslerin sorumlu olduğu düşünülmektedir.
+Bu virüs grubu, ateş ve bademciklerin büyümesi gibi semptomlara neden olmakta ve en çok kış ve erken baharda nezleye yol açmaktadır.
+Bunlara ek olarak koronavirüsler zatürre ile bronşite (viral veya ikincil bakteriyel) neden olabilirler.
+22 Ocak 2020'de Pekin Üniversitesi, Guangxi Geleneksel Çin Tıp Üniversitesi, Ningbo Üniversitesi ve Vuhan Biyoloji Mühendisliği Koleji'nden bilim insanları, "yeni tanımlanan koronavirüsün, yılandan insana türler arası geçişini artırabileceğini belirten bir makale yayınladılar."
+Virüsün artan sıcaklık ve bağıl neme bağlı olarak bulaşabilirliğinin azaldığı açıklanmıştır.
+Dünya Sağlık Örgütü, hastalığın tanısı için çeşitli test protokolleri açıklamıştır.
+Standart test yöntemi, gerçek zamanlı revers transkriptaz polimeraz zincir reaksiyonu (rRT-PCR) olmaktadır.
+Bu test, kişiden alınacak nazofarengeal sürüntü veya balgam gibi solunum yollarından alınmış örnekler ile gerçekleştirilebilmektedir.
+Test sonuçları genellikle bir kaç saat ile 2 gün arasında değişebilen sürelerde çıkmaktadır.
+Bilim insanları, hastalığa neden olan virüs soyunu izole etmiş ve genetik sekansını yayımlayarak dünya çapında laboratuvarların enfeksiyonu teşhis etmeleri için PCR testleri geliştirmesine olanak tanımıştır.Kan testleri hastalığın teşhisi için kullanılabilir, ancak bunun gerçekleştirilebilmesi için iki hafta ara ile alınacak iki farklı kan tahliline gereksinim bulunmaktadır.
+26 Şubat 2020 itibariyle hastalık için herhangi bir antikor testi veya hasta başı tahlili bulunmamakta olup, çalışmalar halen yürütülmektedir.Vuhan Üniversitesi Zhongnan Hastanesi'nin yayımlamış olduğu yönerge, enfeksiyonların belirlenmesi için klinik özellikler ile epidemiyolojik riskin kullanılmasını önermektedir.
+Bu yönteme göre, aralarında ateş, zatürre, normal veya düşük beyaz kan hücresi seviyesi ve düşük lenfosit seviyesi bulgularından herhangi ikisine sahip kişiler, Vuhan'a seyahatleri ve hasta kişilerle etkileşimleriyle beraber incelenerek değerlendirilmektedir.
+Tongji Hastanesi'nin yayımlamış olduğu 26 Şubat tarihli bir araştırmaya göre göğüsün bilgisayarlı tomografi ile çekilmiş resimlerinin değerlendirilmesi (%98), PCR testleri ile karşılaştırıldığında (%71) daha yüksek bir duyarlılık göstermektedir.
+Yanlış negatif sonuçlarının, PCR testlerinden veya testi gerçekleştiren kişi veya örneklerin hatalarından kaynaklandığı düşünülmektedir.
+Yanlış pozitif sonuçları nadir görülmektedir.
+Çin'de 1099 hasta üzerinde yürütülmüş bir çalışma, hastaların %56'sında buzlu cam görünümü olarak da bilinen ground glass opasitelerinin var olduğunu ortaya koymuş, ancak vakaların %18'inde herhangi bir radyolojik bulguya rastlanmadığı da rapor edilmiştir.
+Bilateral ve periferal ground glass opasiteleri en tipik BT bulgularını oluşturmakta olmalarına rağmen, hastalık için spesifik değillerdir.
+Ground glass opasiteleri çocuk hastalarda da c.
+%33 oranında görülen bir bulgu olmaktadır.
+Akciğerlerde bir yoğunluk artışı türü olan konsolidasyon, lineer opasiteler ve ters halo işareti vakalardaki diğer radyolojik bulgulardır.
+Hastalık başlangıcında lezyonlar sadece bir akciğeri etkilerken, semptomların ortaya çıkmasından 6-12 gün sonrasını kapsayan ilerleyen evrelerde hastaların %88'inde iki akciğerin de etkilendiği gözlemlenmiştir.
+Çeşitli bilgilendirmelerde:
+Mümkün olduğu kadar az dışarı çıkılması, etraftan izole olunması.
+Ellerin su ve sabunla yıkanması veya alkol bazlı el temizleme sıvısı kullanımı.
+Öksürürken ve hapşırırken ağız ve burnun uygun şekilde kapatılması.
+Toplu taşımada, birçok insanın temas ettiği, özellikle de metal yüzeylerde virüs uzun süre yaşayabildiği için temas ettikten sonra ellerin bir an önce temizlenmesi ve ağıza ve göze götürülmemesi önerilmekte ve temel bir yüz maskesinin dahi hastalığın yayılmasını engellemede fayda gösterdiği belirtilmektedir.
+Vaka ölüm oranının %3'lük bir oran ile yüksek olmadığı görülmüştür.
+Ölme hızı ileri yaştaki bireyler ya da eşlik eden sistemik hastalığı olan bireylerde daha yüksek bulunmuştur.
+İlk olarak Çin'in Vuhan bölgesinde 2019 yılında Covid-19 ortaya çıktı.
+Hızlı bir şekilde diğer bölgelere ve diğer ülkelere yayıldı.
+2019 yılında ortaya çıkan ve salgın hâline gelen koronavirüsün daha fazla yayılmasına engel olmak amacıyla Çin hükûmeti şehri 23 Ocak 2020 tarihinden itibaren karantina altına aldı.
+Bunun yanı sıra şehre yapılan uluslararası uçuşlar da iptal edildi.
+Almanya, Türkiye, Fransa gibi pek çok ülke Çin Halk Cumhuriyetinden gelen tüm yolcuları termal dedektörlerle kontrol etmeye başladı.
+Şehire 1 hafta içinde hastaneler yapıldı ve şehir ekonomisi durma noktasına geldi.
+Çin hükûmeti halka ilaç ve maske dağıtımına başladı, ayrıca çoğu ülke karantina bölgesindeki vatandaşlarını bölgeden tahliye etti.
+Dünya Sağlık Örgütü bölgesel düzeyde tehlike düzeyini "çok yüksek" olarak belirledi.
+Salgının ülke düzeyinde yayılmasından sonra Vuhan'dan başka pek çok şehir daha karantinaya alındı.
+Birçok bölgeye sağlık ekipleri yönlendirildi ve toplu taşıma durduruldu.
+Hastalığın tedavisi için henüz bir aşı bulunmamıştır.
+Bilim insanları aşının üretilip insanlara 2021 yılı içerisinde verileceğini düşünmektedir.
+Tedavi bulmak için yapılan araştırmalar devam etmektedir.
+Hastalığa hızlı tanı koymak için özel tanı koyma testi üretilmiştir.Hastalığın tedavisinin bulunması için Bill & Melinda Gates Vakfı, İngiliz sağlık araştırma kurumu Wellcome ve ödeme sistemi şirketi olan Mastercard ortak bir girişim kurdu.
+Bill & Melinda Gates Vakfı CEO'su Mark Suzman bu girişimi, Koronavirüs COVID-19 tedavilerini tanımlama, değerlendirme, geliştirme ve ölçeklendirmek amacıyla teknolojileri üretmek amacıyla kurulduklarını duyurdu.
+Çeşitli antiviral ilaçlar COVID-19'u tedavi etmesi için araştırılmakta, bazıları ise klinik araştırmalarda kullanılmaktadır.Mart 2020 itibariyle remdesivirin etkinliğine dair belirsiz kanıtlar bulunmaktadır.
+ABD, Çin ve İtalya'da faz 3 klinik araştırmalar gerçekleştirilmektedir.Sıtma tedavisinde kullanılan klorokin Şubat 2020'de Çin'de tedavi için araştırılmış, öncül sonuçlar maddeyi etkin göstermiştir.
+Klorokin ve hidroksiklorokin, ikinci madde daha güçlü ve güvenli olacak şekilde SARS-CoV-2'yi in vitro inhibe etmektedir.
+Bir çalışmadan öncül sonuçlar, klorokinin COVID-2019 ile ilişkili pnömoni tedavisinde "akciğer filmi bulgularını iyileştirdiğini, negatif testleri teşvik ettiğini ve hastalık süresini kısalttığını" belirtmiştir.
+Ancak araştırmanın daha çok incelenmesi gerektiği düşünülmektedir.Teicoplanin, SARS-CoV-2'yi ve akrabası olduğu MERS koronavirüslerini inhibe etmekte olup, COVID-19 tedavisi için potansiyel bir ilaç olarak düşünülmektedir.2020 yılında New England Journal of Medicine dergisinde yayımlanmış bir randomize kontrollü çalışma, kombine lopinavir/ritonavir tedavisinin COVID19'a karşı etkili olmadığını belirlemiş, bu ilaç kombinasyonlarının, tek başına standart hastane bakımı ile kıyaslandığında hastanede kalma süresinde kısalmaya veya daha iyi sonuçlara yol açmadığını açıklamıştır.Şubat 2020'de Favipiravir, COVID-19 hastalığının deneysel tedavisi için incelenmektedir.
+80 kişilik küçük bir araştırmanın sonuçlarına göre favipiravir, lopinavir/ritonavir kombinesine göre COVID-19 tedavisi için daha etkilidir.
+17 Mart 2020 tarihli Çinli yetkililer tarafından yapılmış bir açıklamaya göre ilacın Vuhan ve Shenzhen'de meydana gelmiş vakaların tedavisinde etkili olduğu açıklanmıştır.Kamostat, transmembran proteaz, serin 2 (TMPRSS2) enziminin bir inhibitörüdür.
+HeLa hücrelerinde TMPRSS2'nin inhibe edilmesi, SARS-CoV ve insan koronavirüsü NL63 enfeksiyonlarının kısmen bloke edilmesine yol açmaktadır.
+Bir in vitro çalışma, Camostat'ın Calu-3 akciğer hücrelerinin COVID-19'dan sorumlu virüs SARS-CoV-2 tarafından enfekte edilmesini önemli ölçüde azalttığını göstermektedir.
+Sitokin fırtınası, ileri evrelerdeki şiddetli COVID-19 vakalarında görülebilen ve aşırı sitokin üretimine bağlı ölümcül olabilen tıbbi bir komplikasyondur.
+Hidroksiklorokinin sitokin fırtınalarına karşı etki gösterdiğine dair kanıt bulunmaktadır.Küçük bir araştırmanın ardından Çin'deki yetkililer Tocilizumab adlı ilacı, hastalığın tedavisinde izlenecek adımlar içerisine almıştır.
+Madde, ileri düzey hastalarda göstermiş olduğu olumlu sonuçlar neticesinde, İtalya'da ulusal düzeyde randomize olmayan 2.
+faz klinik araştırmadan geçmektedir.
+İlaç, sitokin fırtınalarını belirlemeye yarayan serum ferritin kan tahlilleri ile birlikte kullanılmaktadır.
+İnterlökin 6 reseptör antagonisti olan Tocilizumab, 2017 yılında başka bir sitokin komplikasyonu olan kimerik antijen reseptör-T hücre tedavisinin (CAR-T tedavisi) yol açtığı sitokin salınım sendromunun tedavisi için FDA tarafından onaylanmıştı.
+COVID-19'u atlatmış kişilerden alınan kan bağışlarının hastalık tedavisinde kullanımı araştırılan bir konu olmaktadır.
+SARS için de denenmiş bu yöntem, hastalıktan iyileşmiş kişilerin bağışıklık sistemleri tarafından üretilmiş antikorların ihtiyacı olan hastalara dağıtılmasını içermektedir.
+Aşısız bir immünizasyon (bağışıklama) yöntemi olan pasif antikor tedavisinin dışında, üretilmiş monoklonal antikor kullanımı da araştırılan bir pasif bağışıklama yöntemidir.
+Dünya Sağlık Örgütü hastalığın resmî adını ilk olarak koronavirüs hastalığı 2019 ve kısaltmasını ise COVID-19 olarak belirledi.
+Zaman içerisinde hastalığın kısaltması Türkçe yaygın medyada Kovid-19 olarak da yer edindi.
+İnsandan hayvana geçtiği doğrulanmış ancak hayvanların taşıyıcı veya hasta olduğuyla ilgili henüz kesin bir bilgi yoktur.
+Şiddetli akut solunum yolu sendromu
+Koronavirüs
+Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğü
+Dünya Sağlık Örgütü
+Kronolojik BBC haber arşivi
+Günlük dünya numaraları
+Bu makale 2019-20 koronavirüs pandemisinin Mauritius'daki etkilerini belgelemektedir.
+18 Mart: Ülkedeki ilk vaka Başbakan Pravind Jugnauth tarafından doğrulandı.
+19 Mart: Doğrulanmış vaka sayısı 7'ye yükseldi.
+İlk hasta, 7 Mart 2020'de İngiltere'den dönen 59 yaşında bir adamdı.
+Mauritius'a geldiğinde hiçbir semptomu yoktu.
+Kendini iyi hissetmediğinde (Ateş) Candos hastanesine gitti.
+Daha sonra Covid-19 belirtileri gösterdiğini fark edildiğinde Souillac hastanesine nakledildi.
+Testinin pozitif çıkmasının ardından Souillac hastanesinde tecrit edildi.
+İkinci hasta bir yolcu gemisinde çalışan 21 yaşında bir adamdı.
+14 Mart 2020'de Mauritius'a geldi ve karantina altına alındı.
+Üçüncü hasta, bir yolcu gemisinde çalışan 25 yaşında bir adamdı.
+18 Mart 2020'de Mauritius'a geldi ve karantina altına alındı.
+19 Mart 2020'de Başbakan 4 yeni vakanın doğrulandığını açıkladı.
+2019-2020 koronavirüs pandemisinin Portekiz'deki etkilerini göstermektedir.
+12 Mart 2020'de Portekiz hükümeti,  COVID-19 nedeniyle 9 Nisan tarihine kadar sürecek en yüksek seviyede alarm ilan etti.
+Toplumsal yayılma ve iletim tespit edildiğinden ve daha ağır ve etkili önemler alınması gerektiğinden, Portekizbir hafifletme dönemine girdi.
+18 Mart'ta Cumhurbaşkanı Marcelo Rebelo de Sousa, 1974'te Karanfil Devrimi'nden bu yana ilk kez Portekiz topraklarının tamamı içerisinde sonraki on beş gün boyunca olağanüstü hal ilan etti.
+Zamana bağlı olarak toplam vaka sayıları
+Zamana bağlı olarak yeni vaka sayıları
+Pedro Sánchez (d. 29 Şubat 1972), İspanyol siyasetçi.
+İspanya'da 2 Haziran 2018 tarihinden bu yana başbakanlık makamında bulunmaktadır.
+1 Haziran 2018 tarihinde dönemin başbakanı Mariano Rajoy'a parlamentoda gerçekleştirilen ve İspanya tarihinde bir ilk olan güvenoylamasında 350 oyun sadece 169'unu alan Rajoy güvenoylaması neticesinde başbakanlık görevini sürdürme şansını kaybederek makamı terk etmek durumunda kalmıştır.
+Başbakanlık görevine getirilen Pedro Sánchez 2 Haziran 2018 tarihinde yemin ederek ülkenin yeni başbakanı olarak göreve başlamıştır.15 Mart 2020 tarihinde yapılan testler sonucunda Başbakan Sanchez’in eşi Begona Gomez’in yeni tip koronavirüs (Covid-19) testi pozitif çıktı.
+Şiddetli akut solunum yolu sendromu koronavirüsü 2
+Şiddetli akut solunum yolu sendromu koronavirüsü 2 ya da kısaltmasıyla SARS-CoV-2, Aralık 2019'da varlığını belirten pozitif yönelimli ve tek iplikçikli RNA virüsü olan yeni tip bir koronavirüs.
+Virüsün insandan insana bulaştığı ve Çin'den başka diğer ülkelerden gelen raporlar sonucu bulaşma hızının Ocak 2020 ortalarında daha da hızlandığı görülmüştür.
+Virüs, 2019-2020 Vuhan zatürre salgını sırasında zatürre olan bir hastada, pozitif bir örnek üzerinde yapılan nükleik asit testinden sonra genomik olarak dizildi.
+Virüsün kuluçka dönemi (bulaşmasından semptomların oluşmaya başladığı süre) 2 ila 24 gün arasındadır ve bu dönemde de virüs bulaşıcıdır.Ocak 2020'de, salgını araştıran sağlık komisyonu ekibi başkanı Zhong Nanshan'a göre Çin'in Guangdong eyaleti'nde,  insandan insana bulaşma doğrulandı.
+Şu anda yeni virüs için spesifik bir tedavi mevcut değildir, ancak mevcut anti-virallerin kullanılabilme ihtimali olabilir.
+Çin bilim insanları hastalığa dair bir aşı üretmiş olmakla birlikte bu konudaki klinik insan çalışmalarının Nisan ayında başlayacağı öngörülüyor.
+Vuhan'da ortaya çıkan virüs tanımlandığı ilk dönemlerde çıkış yerine izafeten Vuhan koronavirüsü adıyla anılmaya başlandı.
+2003'te benzer bir salgına sebep olan SARS koronavirüsünün yeni bir türü olduğu tespit edildiğindeyse 2019 yeni koronavirüsü olarak adlandırılarak 2019-nCoV kısaltması kullanılmaya başlandı.
+Dünya Sağlık Örgütü virüsün resmî adını şiddetli akut solunum yolu sendromu koronavirüsü 2 ve kısaltmasını ise SARS-CoV-2 olarak belirledi.
+İnsandan insana bulaştığı ve öksürük gibi hava yolu ile yayıldığı doğrulanmıştır.
+Araştırmalara göre insanlara ilk bulaşma yöntemi kesin değildir.
+SARS-CoV-2 Coronaviridae olarak bilinen geniş bir virüs familyasına aittir.
+Pozitif-anlamlı tek zincirli bir RNA virüsüdür [Positive-sense single-stranded RNA (+ssRNA) ] .Diğer koronavirüsler nezle gibi daha hafif  hastalıklara yol açabildikleri gibi aynı zamanda Orta Doğu Solunum Sendromu gibi çok daha ağır seyreden klinik tablolara da yol açabilirler.
+SARS-CoV-2 insanları enfekte ettiği bilinen yedinci koronavirüs türüdür.
+Diğer bilinen türler  229E, NL63, OC43, HKU1, MERS-CoV ve orijinal SARS-CoV'dur.2003 yılındaki şiddetli akut solunum yolu sendromundan sorumlu olan SARS-CoV gibi SARS-CoV-2 de Sarbecovirus altcinsinin (beta-CoV soy B) bir üyesidir.
+RNA dizisi yaklaşık olarak 30,000 baz uzunluğundadır.
+Diğer betakoronavirüslerde olmayan bir özelliği ise polibazik ayrılma alanı ile birleşmesidir ki bu virüsün patojenitesini ve bulaşılabilirliğini arttırır.Yeterli sayıda genom sekansına sahip olunduğunda bir virüs familyasının mutasyon geçmişinin filogenetik ağacı çıkarılabilir.
+Diğer koronavirüsler gibi SARS-CoV-2 de S (spike), E (envelope), M (membrane), and N (nucleocapsid) proteinler olarak bilinen dört yapısal proteine ​​sahiptir.
+N proteini RNA genomunu tutar ve S, E ve M proteinleri birlikte viral zarfı oluşturur.
+Spike proteini konakçının hücre zarına yapışmasına neden olmaktadır.
+Bildirilen semptomlar vakaların %90'ında ateş, %80'inde yorgunluk ve kuru öksürük, %20'sinde nefes darlığı ve %15'inde solunum sıkıntısı içeriyordu.
+Göğüs röntgeni her iki akciğerde de belirti vermiştir.
+Hayati belirtiler hastaneye yatırılanların kabulü sırasında genellikle kararlıydı.
+Kan testleri genellikle düşük beyaz kan hücresi sayımı göstermiştir.Hastalık Korunma Ve Kontrol Merkezleri'ne (CDC) göre tüm semptomların yanı sıra bir hastanın SARS-CoV-2 yönünden değerlendirilmesi için hastalığı laboratuvarca kanıtlanmış, Hubei Eyaleti'ne seyahat etme hikâyesine sahip veya semptomlarla birlikte hastaneye yatırılması gereken hastaların Çin'e ziyaret etmiş olması gibi epidemiyolojik kriterler de göz önüne alınıyor.
+Bu kriterleri sağlamayan fakat şiddetli hastalık belirtisine sahip ve etiyolojisi belirlenememiş vakaların da yeni koronavirüs açısından değerlendirilmesi gerekebiliyor.
+15 Ocak 2020'de Dünya Sağlık Örgütü, Charite Hastanesinden bir viroloji ekibi tarafından geliştirilen Covid-19 için tanı testi üzerine bir protokol yayınladı.
+Çin'in Vuhan bölgesinde 2019 yılında Covid-19 ilk olarak ortaya çıktı.
+Hızlı bir şekilde diğer bölgelere ve diğer ülkelere yayıldı.
+2019 yılında ortaya çıkan ve salgın hâline gelen koronavirüsün daha fazla yayılmasına engel olmak amacıyla Çin hükûmeti şehri 23 Ocak 2020 tarihinden itibaren karantina altına almıştır.
+Bunun yanı sıra şehre yapılan uluslararası uçuşlar da iptal edilmiş; Almanya, Türkiye, Fransa gibi pek çok ülke Çin Halk Cumhuriyetinden gelen tüm yolcuları termal dedektörlerle kontrol etmeye başlamıştır.
+Şehre 1 hafta içinde hastaneler yapıldı ve şehir ekonomisi durma noktasına geldi , Çin hükûmeti ilaç ve maske dağıttı ayrıca çoğu ülke karantina bölgesindeki vatandaşlarını bölgeden tahliye etti.
+Dünya Sağlık Örgütü bölgesel düzeyde tehlike düzeyini "çok yüksek" olarak belirledi.
+Salgının ülke düzeyinde yayılmasından sonra Vuhan'dan başka pek çok şehir daha karantinaya alındı ve bölgeye sağlık ekipleri yönlendirildi.
+Toplu taşıma durduruldu.
+TVHB, n-CoV hakkında soru ve cevaplar
+Kronolojik BBC haber arşivi
+Kıbrıs Cumhuriyeti'nde 2020 koronavirüs pandemisi
+Bu makale, 2019-20 koronavirüs pandemisinin Kıbrıs Cumhuriyeti'nde etkilerini belgelemektedir.
+9 Mart 2020'de Kıbrıs, ilk koronavirüs vakasını doğruladı.
+Vaka, 64 yaşındaki İtalya'dan gelen bir ingiliz turistte teyit edildi.11 Mart 2020'de, Kıbrıs'ta, 4 yeni vaka daha olduğu açıklandı.
+3'ü Mağusa Hastanesine kaldırıldı.
+Diğeri ise evde kendini karantinaya aldı.
+12 Mart 2020'de dört yeni vaka daha onaylandı.
+Bunların; Birleşik Krallık'a seyahat eden ve sonra yetkililerle temasa geçen bir kişi, İtalya'dan dönen bir kişi, Yunanistan'dan döndükten sonra belirtileri olan bir kişi ve Almanya'dan gelen bir kişi olduğu açıklandı.
+13 Mart 2020'de 11 yeni vaka doğrulandı.
+Böylece Kıbrıs'ta görülen toplam vaka sayısı 33 oldu.
+Cumhurbaşkanı Nikos Anastasiadis, özel bir görünümde, 15 Mart'tan bu yana 15 gün boyunca vatandaşlar hariç tüm sınırların kapatıldığını duyurdu.
+Kıbrıs, 15 Mart'tan 1 Nisan'a kadar 15 gün boyunca tüm sınırların kapatıldığını ilan etti.
+Kuzey Kıbrıs Türk Cumhuriyeti'nde 2020 koronavirüs pandemisi
+2019-20 koronavirüs pandemisi, 1 Aralık 2019 tarihinde Çin'in Hubei bölgesinin başkenti olan Vuhan'da ortaya çıkan virüs salgını.
+Çeşitli hastalarda belirli bir neden olmaksızın gelişen ve tedavi ile  aşılara cevap vermeyen bir zatürre görülmesi üzerine SARS-CoV-2 olarak adlandırılan yeni bir koronavirüs teşhis edildi.
+Kişiden kişiye bulaşabilen virüsün bulaşma oranı 2020 Ocak ortasında büyüme gösterdi.
+İlerleyen zamanlarda Avrupa, Kuzey Amerika ve Asya-Pasifik'te yer alan çeşitli ülkelerde yaşanan virüs vakaları rapor edilmeye başlandı.
+11 Mart 2020'de Dünya Sağlık Örgütü tarafından küresel salgın ilan edildi.
+13 Mart 2020'de Avrupa'nın artık koronavirüs krizinin merkez üssü haline geldiğini bildirdi.
+23 Mart 2020 itibarıyla dünyada 334.000'den fazla vaka rapor edilirken, 97.574 iyileşme ve toplamda 14,597 ölüm meydana gelmiştir.Virüs ile temastan semptomların oluşmasına kadar geçen sürenin 2 ile 27 gün sürdüğü hastalıkta, virüsün belirtiler ortaya çıkmadan önce de bulaşıcı olduğuna dair bazı kesin olmayan kanıtlar bulunmaktadır.
+Hastalık semptomları arasında yüksek ateş, öksürme ve nefes almada güçlük bulunmakta olup virüs ölüme sebep olabilmektedir.Hastalığın yol açtığı ilk ölüm 9 Ocak 2020'de meydana gelmiştir.
+Bilimsel çalışmalar, virüsün daha çok kişiye bulaştığını ancak bu kişilerde virüsün henüz tespit edilmediğini tahmin etmektedir.
+Çin dışında gerçekleşmiş ilk bulaşma Vietnam'da bir babanın oğluna geçirmesi şekilde meydana gelmiş, ailenin rol oynamadığı ilk bulaşma vakası ise Çinli bir iş adamından Alman bir adama bulaşması ile 22 Ocak'ta Almanya'nın Bavyera eyaletinde yaşanmıştır.
+Çin dışında gerçekleşen ilk ölüm 1 Şubat 2020 tarihinde, COVID-19, Influenza B ve Pnömokok'un bulaşmış olduğu bir adamın hayatını kaybetmesi ile Filipinler'de meydana gelmiştir.Yanıt olarak Hubei eyaletindeki 57 milyon kişinin yaşadığı 16 şehir tam veya kısmi karantinaya alındı.
+Kentlerdeki tren, uçak ve uzun süreli otobüs seferleri durduruldu.
+Salgın korkusu sebebiyle yeni yıl etkinlikleri iptal edildi, turistik yerler kapatıldı.
+Hong Kong da alarm seviyesini en üste çıkarıp okulları şubat ortasına kadar kapattı.
+COVID-19'un temel çoğalma sayısına yönelik çeşitli tahminler hesaplanmıştır.
+Bu tahminler 2,13 ile 3,11 arasında yer almakta olup, tamamı bir salgının kendiliğinden ortadan kalkmasını getirecek 1 sayısının üzerindedir.
+22 Ocak 2019 tarihine dek kesin laboratuvar teşhisi konulabilen ilk 425 hastanın Vuhan'daki araştırmacılar tarafından yapılan analizi, virüsün ilk defa insandan insana bulaşmasının Aralık ayının ortalarında gerçekleştiğini tahmin etti.
+İlk günlerinde enfeksiyona yakalanan hasta sayısının her 7,4 günde bir ikiye katlandığı da tahminler arasında yer aldı.
+Hastaların medyan yaşı 59 ve ortalama kuluçka süresi 5,2 gün idi.
+Virüs insandan insana, havada veya yüzeylerde bulunan virüs içeren damlacıkların nefes yoluyla vücuda girmesiyle bulaşmaktadır.
+Hastalığın herhangi bir belirti göstermeden de insandan insana bulaşabileceğine dair bulgular mevcuttur, örneğin Almanya'daki ilk bulaşma olayı bu şekilde gerçekleşmiştir.
+Bunun gibi belirti göstermeden bulaşma vakalarının salgının yayılmasında ne kadar rol oynadığı bilinmemektedir, eğer oynadığı rol büyükse bu salgının kontrol edilmesini zorlaştıracaktır.
+Hastalık, 2-27 gün süren bir kuluçka süresinden sonra birden başlayan yüksek ateş, öksürük ve nefes darlığı ile karakterlidir.
+Bazı hastalarda boğaz ağrısı ve burun akıntısı da görülmüştür.
+Hastalık genellikle orta-ağır bir klinik seyir göstermektedir.
+Hastalığın komplikasyonları ağır pnömoni, septik şok, akut respiratuvar distres sendromu (ARDS), çoklu organ yetmezliği ve ölüm olarak duyurulmuştur.
+COVID-19'un şu anda etkili bir ilaç tedavisi veya aşısı yoktur, ancak geliştirme çabaları devam etmektedir.
+"Grip benzeri" ateş, nefes alma güçlükleri, öksürük ve diğer semptomları vardır.
+Enfeksiyonu önlemek için WHO, "düzenli el yıkama, öksürme ve hapşırma sırasında ağız ve burnu örtme ve solunum yolu hastalığı belirtileri (öksürme ve hapşırma gibi) gösteren herhangi biriyle yakın temastan kaçınmayı öneriyor.
+Genel insan koronavirüsleri için spesifik bir tedavi olmamasına rağmen ABD, CDC'si, virüs bulaşmış bir kişinin düzenli grip ilaçları alarak, sıvı tüketerek ve dinlenerek semptomlarını hafifletebileceği konusunda genel öneriler sunmaktadır.
+Bazı ülkeler, özellikle anakara Çin'i ziyaret ettiyse, insanların grip benzeri semptomları doktorlarına bildirmelerini istemektedir.
+Türkiye Cumhuriyeti Sağlık Bakanlığı tarafından açıklanan riskli bölgelere gidecek kişilerin kişisel olarak alabileceği önlemler:
+Hasta insanlarla temastan kaçınılmalıdır (mümkün ise en az 2 metre uzakta bulunulmalı).
+Hastaların yoğun olarak bulunması nedeniyle mümkün ise sağlık merkezlerine gidilmemeli, sağlık kuruluşuna gidilmesi gereken durumlarda diğer hastalarla temas en aza indirilmelidir.
+Yaşlı ve altta yatan hastalığı olanlar riskli bölgeye yolculuklarını doktorlarına ve seyahat sağlığı personeline danışarak planlamalıdır.
+Gıda güvenliği önerilerine dikkat edilmelidir (çiğ süt ve hayvansal ürünler tüketmemek, çiğ tüketilecek sebze ve meyveleri iyice yıkayarak tüketmek gibi).
+Yabani ve evcil hayvanlar (canlı veya ölü) ile temastan kaçınılmalıdır.
+Eller en az 30 saniye boyunca sabun ve suyla yıkanmalı, sabun ve suyun olmadığı durumlarda alkol bazlı el dezenfektanı kullanılmalıdır.
+22 Ocak 2020'de AFC, koronavirüs salgını dolayısıyla, daha önce Vuhan'da oynanması planlanan Bayanlar Olimpiyat Eleme Turnuvasının A Grubu maçlarını (Avustralya, Çin Halk Cumhuriyeti, Tayvan ve Tayland'dan ilgili kadroları içeren) Nanjing'e taşıyacağını açıkladı.
+Vuhan'ın içine ve dışına seyahatlerde etkili bir karantina, 23 Ocak 2020 saat 10'dan itibaren uygulanmaya başlandı.
+Vuhan'a ve Vuhan dışına uçuşlar ve trenler, halk otobüsleri, metro sistemi ve uzun mesafe otobüsleri bir sonraki duyuruya kadar askıya alındı.
+Çin'in Xinhua Haber Ajansı'na göre, bu girişim, virüsün Vuhan'dan yayılmasını durdurmak ve insanların sağlık ve güvenliğini sağlamak için bir çabadır.
+Büyük ölçekli toplantıların ve grup turlarının da askıya alınması direktifi verildi.
+Karantinadan sonra, artan gıda fiyatları ve hastaneye gidecek sağlık personeli için zorluk da dahil olmak üzere çeşitli lojistik konular meydana geldi.
+Bunun ardından, Hubei bölgesinde bulunan en az 15 şehirde daha ulaşım benzer şekilde kısıtlandırıldı.
+Pekin'deki Yasak Şehir, geleneksel tapınak fuarları ve diğer kutlama amaçları toplantılar dahil olmak üzere birçok Yeni Yıl etkinlikleri bulaşma korkusuyla iptal edildi.
+Hong Kong ayrıca bulaşıcı hastalık yanıt düzeylerini en üst seviyeye çıkardı ve acil durum ilan etti, Şubat ortasına kadar okullarını kapattı ve Yeni Yıl kutlamalarını iptal etti.Çin virüsten etkilenen kişileri tedavi etmek için 10 gün içinde tamamlanması planlanan 1000 yataklı hastaneyi inşa etmeye başladı.
+Bu hastanede sadece Vuhan salgınından etkilenen kişilerin tedavi olması planlanıyor.
+Çin Maliye Bakanlığı yaptığı açıklamada, 29 Ocak'tan itibaren yeni tip koronavirüs salgınıyla mücadele için 3,94 milyar dolar ek bütçe ayrıldığını bildirdi.30 Ocak tarihinde Dünya Sağlık Örgütü, hastalığın diğer ülkelere ve Çin'in bütün eyaletlerine yayılması nedeniyle uluslararası acil durum ilan etti.
+Bir virüs salgınını yönetmenin önemli bir yolu epidemi zirvesini erteleyip zayıflatmak, bir diğer deyişle epidemi eğrisini yassıltmaktır.
+Bu sayede sağlık sisteminin aşırı yüklenmesi önlenir ve bir aşı ya da tedavinin geliştirilmesi için zaman kazanılır.
+İlaç kullanımı gerektirmeyen el temizliği, maske kullanımı ve bireyesel karantina gibi kişisel önlemler; okulların kapatılması ve toplu etkinliklerin iptali gibi toplumsal önlemler; yüzeylerin temizlenmesi gibi çevresel önlemler ile virüsün yayılması yavaşlatılabilir.Çin yönetimi, salgının şiddeti anlaşıldıktan sonra bütün bir şehri karantinaya almak gibi çok daha ciddi önlemlere başvurdu.
+Diğer ülkeler de virüsün yayılımını sınırlamak için çeşitli önlemler aldılar.
+Örneğin, Güney Kore toplu taramalar, yerel karantinalar ve etkilenmiş bireylerin gözetimini başlattı; Singapur hastaların kendini karantinaya alması için maddi yardımlar verdi ve karantinaya uymayanlara cezalar getirdi; bu sırada Tayvan maske üretimini hızlandırdı ve ilaç stoklamayı yasakladı.
+Yunanistan ve Bulgaristan'a açılan sınır kapıları, koronavirüs (Kovid-19) önlemleri kapsamında yolcu giriş ve çıkışlarına kapatıldı.
+Aralarında İngiltere, İsviçre, Arabistan ve Mısır olmak üzere 20 ülkeye uçuşları askıya alındı.
+Umre ziyaretinden dönen kişiler Ankara, Konya, Kayseri ve Isparta şehirlerinde boşaltılan öğrenci yurtlarında Karantinaya alındı.
+17 Mart tarihinde başlamak üzere, tiyatro, sinema, lokanta, kahvehane, internet kafe ve kapalı çocuk oyun alanlarının faaliyetlerinin durudurulmasına karar verildi.
+Bütün okullar 16 Mart Pazartesi'den itibaren 30 Mart Pazartesi'ye kadar tatil edildi.
+Marketlerdeki makarna, bakliyat ve el hijyeni rafları boşalırken, bu ürünlerin fiyatı arttı.
+Tıbbi maskeler karaborsaya düştü ve fahiş fiyatlarla satılmaya başlandı.
+Kolonya stoklarının azalmasıyla kolonya kuyrukları oluştu.
+İstanbul'da toplu ulaşım kullanımı %59,1 azaldı.
+Türkiye; Norveç, Hollanda, Almanya, İsveç, İspanya, Fransa, Belçika, Danimarka, İtalya, Avusturya, Irak, İran, Gürcistan, Azerbaycan, Çin ve Güney Kore olmak üzere 16 ülkeye kapılarını kapattı.
+Dezenfektan üreten meslek lisesi sayısı arttırıldı.
+Kritik grup olan 65 yaş üstü kişilerin uyarıları dikkate almayıp sürekli dışarıda bulunmaları sebebiyle İçişleri bakanlığınca 21 Mart 2020 tarihinde ALO 153 "Yaşlı İhbar Hattı" olarak belirlendi.
+ABD'li bilim insanları geliştirdikleri Covid-19 aşısını 43 yaşındaki 2 çocuk annesi Jennifer Haller isimli bir kadına enjekte edildi.
+Dünya Sağlık Örgütü, koronavirüsü pandemi ilan etti.
+Kâbe'de tavaf kısıtlandı.
+ABD, ulusal acil durum ilan etti.
+İtalya'da tüm ülke karantina altına alındı.
+İspanya'da tüm ülke karantina altına alındı.
+Çin, Vuhan dahil 13 şehri karantina altına aldı.
+Fransa, ülke çapında alarm seviyesini 3'e yükseltti.
+17 Mart 2020 tarihinden itibaren Fransa'da kısmi sokağa çıkma yasağı ilan edildi.
+Bu kapsamda halka İçişleri Bakanlığının sitesinden alacağı belgeyi yanında bulundurarak, belgede yazılı 5 durum haricinde dışarı çıkmaması gerektiği söylendi.
+Buna uymayan ve belgeyi yanında bulundurmayanlara 135 euro ceza kesileceği İçişleri Bakanı Christophe Castaner tarafından açıklandı.
+Bulgaristan, virüsün yayılmasını engellemek için ülkede 13 Nisan 2020'ye kadar olağanüstü hâl ilan etti.
+Okullar, üniversiteler ve spor müsabakalarına bir ay ara verildi.
+Alınan OHAL kararıyla ilgili ülkenin sınır geçişlerinin ve vatandaşların uluslararası yolculuklarının sınırlandırılması bekleniyor.
+Irak'ta, yeni tip koronavirüs (Kovid-19) salgını nedeniyle 14 Mart'tan itibaren Musul kentinde 2 gün sokağa çıkma yasağı ilan edildi.
+2020 Avrupa Futbol Şampiyonası koronavirüs pandemisi nedeniyle 2021 yılına ertelendi.
+2020 Eurovision Şarkı Yarışması koronavirüs pandemisi nedeniyle 2021 yılına ertelendi.
+Türk Hava Yolları, Çin'e uçuşlardaki talep azlığından dolayı Çin'e düzenlenen uçuş seferlerini azaltma kararı aldı.
+British Airways, Finnair, Qatar Airways, United Airlines ve Air Canada, çeşitli sebepler belirterek Çin'e uçuşlarını askıya aldı.
+Starbucks, Çin'deki şubelerinin yarısından fazlasını kapattı.
+Ikea, Çin'de bulunan mağazalarını kapatma kararı aldı.
+Tesla ve Apple Çin'deki bazı fabrikalarını geçici olarak kapattı.
+Volkswagen, fabrikalarında üretimi iki haftalığına durdurdu.
+Airbus, Michelin, Skoda, Brembo, Maserati, Renault Grubu, Fiat, Lamborghini ve Ferrari dahil birçok firma İtalya, İspanya, Fransa, Sırbistan, Slovakya ve Polonya'daki fabrikalarında üretime ara verdi.
+Toyota, Sakarya'da bulunan üretim tesisinde 2 hafta üretime ara verdi.
+2019-2020 koronavirüs salgınının spor organizasyonlarına etkisi
+Türkiye'de 2020 koronavirüs pandemisi
+İtalya'da 2020 koronavirüs pandemisi
+İspanya'da 2020 koronavirüs pandemisi
+Birleşik Krallık'ta 2020 koronavirüs pandemisi
+Amerika Birleşik Devletleri'nde 2020 koronavirüs pandemisi
+İran'da 2020 koronavirüs pandemisi
+Johns Hopkins Üniversitesi tarafından geliştirilen bulaşma haritası
+Vaka/ölüm ve iyileşmeyi ülke bazlı istatistik olarak takip
+2020 Eurovision Şarkı Yarışması
+2020 Eurovision Şarkı Yarışması, 65.
+kez düzenlenmesi planlanan ancak Covid-19 virüsü nedeniyle iptal olan şarkı yarışmasıdır.
+Yarışma, bir önceki yılı "Arcade" adlı şarkıyla kazanan Hollanda'da yapılacak idi.
+Iptal söz konusu olmasaydı Hollanda bu yılla birlikte yarışmaya beşinci kez ev sahipliği yapmış olacaktı.
+En son 1980 yılında, bir Eurovision etkinliği olarak ise 2012 Eurovision Çocuk Şarkı Yarışması'nda ev sahipliği yapmıştı.
+Koronavirüs pandemisi sebebiyle yarışmanın 2021 yılına ertelendiği açıklandı.41 ülkenin katılması beklenen yarışmaya Bulgaristan ve Ukrayna bir yıl aradan sonra geri dönecektir.
+Karadağ ve Macaristan yarışmadan çekilmiştir.
+2020 yarışmasının organizasyonu için hazırlıklar, Hollanda'nın İsrail, Tel Aviv'deki 2019 yarışmasını kazanmasının hemen ardından 19 Mayıs 2019'da başladı.
+Avrupa Yayın Birliği'nin (EBU) yürütme danışmanı olan Jon Ola Sand, yarışmaya katılan Hollandalı yayıncı AVROTROS yayıncısına bir sonraki yarışmaya ev sahipliği yapmak için gereken çalışmalara başlamak için gerekli olan araçları içeren bir belge ve USB sürücüsü verdi.
+AVROTROS, her biri prodüksiyonda farklı bir rol üstlenecek olan kardeş haber yayıncısı NOS ve ana yayın kuruluşu NPO ile ortak bir prodüksiyon oluşturmak üzere belirlendi.
+Hollanda Başbakanı Mark Rutte'a göre, bazı belediye başkanları teklifleri yerine getirmeye başlamış, Laurence'nin kazandığı saatler içinde kısa mesajlarla lobi yapmıştır.
+Aşağıdaki şehirler teklif vermeye ilgi duyduğunu belirtti:
+12 Haziran 2019'da, ev sahipliğine resmen ilgi gösterdiğini belirten tüm şehirler, karşılanması gereken kriterlerin bir listesini aldı.
+Bu şehirlerin, 10 Temmuz 2019 tarihine kadar sunmaları gereken "teklif defterlerini" oluşturmak için dört haftası vardır.
+Diğer şehirler ve bölgeler, son başvuru tarihinden önce bir teklif kitabı göndererek teklif sürecine katılabilir.
+Temmuz ayı ortasında, organizasyon yayıncıları başvuruda bulunan şehirleri ziyaret etme seçeneğine sahip olacaklar.
+Ev sahibi şehir, EBU’ya danışarak tüm tekliflerin değerlendirilmesinden sonra seçilecek ve Ağustos 2019’da ilan edilecek.Dokuz şehir, organizasyon yayıncılarına teklif vermekle ilgilendiklerini (veya ilgilendiklerini) bildirmiştir.
+Arnhem, 's-Hertogenbosch, Maastricht, Rotterdam ve Utrecht şehirleri olmak üzere 10 Temmuz 2019 tarihinde başvuru kitaplarını NPO yayıncısına ileterek resmen başvuruda bulunmuştur.
+16 Temmuz 2019 tarihinde organizasyon yayıncısı Maastricht ve Rotterdam şehirlerinin kısa listede olduğunu açıklamış, dolayısıyla kalan üç şehir ev sahibi şehir yarışından elenmiştir.Anahtar:
+‡   Kısa listede olanlar
+Yarışma'nın sloganı "Open Up" 24 Ekim 2019 tarihinde Hollandalı yayıncı NPO ve Avrupa Yayın Birliği tarafından açıklanmıştır.
+28 Kasım 2019 tarihinde Hollandalı yayıncı NPO ve Avrupa Yayın Birliği yarışmanın görsel dizaynını yayınlamıştır.
+Logo'yu yarışmacı 41 ülkenin ilk katılımlarına göre bayrak renklerinin dizilimleri oluşturmuştur.
+Eurovision Şarkı Yarışması'nın hikayesini çağdaş bir şekilde kutlayan, veri odaklı tema geliştirildi.
+4 Aralık 2019 tarihinde, NPO yayıncısı yarışmayı üç kişinin sunacağını açıklamıştır: oyuncu ve TV sunucusu Chantal Janzen, şarkıcı ve yarışmanın Felemenkçe anlatıcısı Jan Smit ve şarkıcı, 1998 ve 2007 yarışmalarında Hollanda'yı temsil eden Edsilia Rombley.
+Yarışmaya katılan ülkelerin yarı final kuraları 28 Ocak 2020 tarihinde Rotterdam Belediye Binası'nda yapılacak.Çekilişin ilk aşamasında ev sahibi ülke Hollanda ve 'Büyük Beşli' ülkelerinin hangi yarı finallerde oy kullanacağı belirlenecektir.
+İkinci aşamada ülkelerin hangi yarı finallerde yer alacağı kura ile belirlenecek, Mart ayında yapılacak kurul toplantısıyla ülkelerin sahneye çıkış sıraları belirlenecektir.
+İlk yarı finalde 18, ikinci yarı finalde 18 ülke yarışacaktır.
+Her yarı finalde ilk ona giren ülkeler, ev sahibi ülke ve 'Büyük Beşli' dahil toplamda 26 ülke finale kalacaktır.
+EBU, 25 Ocak 2020 tarihinde yarışmanın resmi tele oylama sponsoru Digame tarafından 35 ülke 5 küreye ayrılmıştır.
+2013 yılında alınan kararlar itibarıyla komşu ya da birbiri arasında kültürel-tarihsel bağların bulunduğu ülkeler farklı kürelere dağıtılmıştır.
+Yarı final kura çekim töreninin sunucuları Edsilia Rombley, Chantal Janzen ve Jan Smit olarak belirlenmiştir.
+13 Kasım 2019 tarihinde Avrupa Yayın Birliği yarışmaya 41 ülkenin katılacağını açıklamıştır.
+Yarı final ===
+Almanya, Hollanda ve İtalya bu yarı finalde oy kullanacak ve şarkılarının tanıtımı yapılacak.
+Yarı final ===
+Birleşik Krallık, Fransa ve İspanya bu yarı finalde oy kullanacak ve şarkılarının tanıtımı yapılacak.
+Andorra – 18 Mart 2019 tarihinde Andorralı RTVA yayıncısının genel müdürü Xavier Mujal, Katalan yayıncı TV3 ile birlikte gelecekte katılabileceklerini belirtmiştir.
+Fakat, Mayıs 2019'da katılmayacaklarını resmen açıkladı.
+Bosna-Hersek – 28 Aralık 2018 tarihinde, Bosna-Hersek'in delegasyon başkanı Lejla Babović Yarışmaya geri dönmenin asıl hedefleri olduğunu belirtti, ancak mali durumları EBU ile büyük miktarda borç sahibi olmak ve düzenli maliyetleri finanse etmek için yeterli parayı almamak son derece zorlayıcı olacağı açıklamasında bulundu
+Karadağ - 8 Kasım 2019 tarihinde Radio Televizija Crne Gore yarışmadan ekonomik nedenlerden dolayı çekildiklerini açıklamıştır.
+9 Kasım 2019 tarihinde RTCG Genel müdürü Božidar Šundić yarışmaya katılımı veya çekilme kararını henüz RTCG konseyinde görüşmediklerini şu an için çekilmediklerini belirtmiştir.
+13 Kasım 2019 tarihinde EBU Karadağ'ın yarışmnadan çekildiğini açıklamıştır.
+Macaristan - 25 Ekim 2019 tarihinde Duna TV 2011 yılından günümüze Eurovision temsilcisinin belirlendiği A Dal 2020'nin kurallarını açıkladı.
+Fakat Eurovision katılımı ile ilgili herhangi bir açıklama yapmadı.
+13 Kasım 2019 tarihinde EBU Macaristan'ın yarışmnadan çekildiğini açıklamıştır.
+Bu makale 2019-20 koronavirüs pandemisinin Cezayir'deki etkilerini belgelemektedir.
+25 Şubat: Cezayir'de ilk kez, 17 Şubat'ta ülkeye gelen İtalyan bir adamın olan ciddi akut solunum sendromu koronavirüs 2'ye (SARS-CoV-2) sahip olduğunu doğruladı.
+Cezayir hükümeti, Hassi Messaoud Havaalanı'nda karantinaya aldığı özel bir uçuşla adamı İtalya'ya geri gönderdi.
+2 Mart: Cezayir sağlık bakanı, sabahı bir kadın ve kızında 2 yeni SARS-CoV-2 vakasını doğruladığını söyledi.3 Mart:
+2 yeni SARS-CoV-2 vakasını bildirildi ve toplam vaka sayısı 5'e yükseldi.
+Açıklamada, 2 yeni vakanın aynı ailenin babası ve bir diğer kızında teşhis edildiği ve onların  Fransa'da yaşadıklarını ekleyerek onlarla temas halinde olan kişilerin kimliklerini belirlemek için bir soruşturma başlatıldığını da ekledi.
+Sağlık Bakanlığı 3 Mart akşamı, yine aynı aileden olmak üzere 3 yeni SARS-CoV-2 vakasının kaydedildiğini ve toplam vaka sayısını 8'e yükseldiğini duyurdu.4 Mart: Sağlık Bakanlığı aynı aileden onaylanmış 4 yeni SARS-CoV-2 vakasının kaydedildiğini ve toplam vaka sayısını 12'ye yükseldiğini duyurdu.12 Mart: Ain Smara'da yeni bir vaka teşhis edildi ve ülkedeki koronavirüs yayılımı nedeniyle okullar tatil edildi.
+7 Mart: virüsün İspanya'da kalmış bir Cezayirli'de tespit edilmesiyle vaka sayısı 20'ye yükseldi.13 Mart: Cezayir şehrinde, Fransa'da kalan 36 yaşındaki birinde virüs olduğu doğrulandı.14 Mart: Cezayir Sağlık Bakanlığı, Covid-19 koronavirüsü teşhis edilen 10 yeni vaka ile bir ölümü açıkladı.
+Bu Blida şehrindeki virüse bağlı üçüncü ölüm oldu.
+Ölen kişi 51 yaşındaki bir kadındı.
+Yeni vakalar ile Cezayir'de kaydedilen toplam vaka sayısı 37'ye, ölen kişi sayısı 3'e ulaştı.
+Bakanlık ayrıca 12 vakanın iyileşmeden sonra gözetim altında tutulduğunu söyledi.15 Mart: vaka sayısı 48'e ölü sayısı 4'e yükseldi.16 Mart: Altı yeni COVID-19 vakası teşhis edildi.
+Bunların ikisi Cezayir'de, biri Bouira'da, biri Bordj Bou Arreridj'de biriTizi Ouzou'da ve biri Annaba'da tespit edildi.17 Mart: Blida ilinde, kronik rahatsızlığa sahip 51 yaşındaki bir kadının ölümüyle ülkedeki beşinci ölüm kaydedildi.
+Béjaïa ilinde ilk vaka Skikda ilinde ise başka bir vaka kaydedildi.18 Mart: 17 Mart'ta ölen 62 yaşındaki bir adamın ölümü Blida ilinde kaydedildi.
+8 yeni vakayla toplam sayı 75'e ulaştı.19 Mart: İkisi ölmüş olmak üzere on yeni vakayla toplam vaka sayısı 82'ye, ölü sayısı 8'e ulaştı.
+Rusya'da 2020 koronavirüs pandemisi, İlk koronavirüs vakası 31 Ocak 2020'de doğrulandı.
+31 Ocak: Biri Tümen'de, diğeri Cita, Zabaykalskiy Özerk Bölgesi'nde olmak üzere 2 vaka doğrulandı.
+Her iki vakanın da daha Çin uyruklu olduğu belirtildi.
+23 Şubat: Diamond Princess kruvaziyer gemisinden 8 Rus vatandaşı Tataristan'ın Kazan şehrine tahliye edildi.
+Bu 3 hasta da dahil olmak üzere 8 kişi 8 Mart'ta taburcu edildi.28 Şubat: Yurtdışında yaşayan Rus vatandaşlarının bir kısmının enfekte olduğu belirtildi.
+Birisi İran'ı ziyaret ettikten sonra Azerbaycan'da yapılan teste pozitif yanıt verdi, Birkaç gün sonra BAE Sağlık Bakanlığı ise iki Rus hastanın Birleşik Arap Emirlikleri'nde olduğunu duyurdu.
+2 Mart: Moskova'da ilk koronavirüs vakası doğrulandı.
+Genç bir adam 21 Şubat'ta İtalya'da tatildeyken hastalandı.
+6 Mart'ta ise iyileştiği belirtildi.
+5 Mart: Saint Petersburg'da ilk koronavirüs vakası doğrulandı.
+6 Mart: 5'i Moskova'da ve 1'i Nijniy Novgorod'da olmak üzere 6 vaka daha doğrulandı.
+Bu 6 vakanın tamamının İtalya ile bağlantılı olduğu belirtildi.
+7 Mart: 3'ü Lipetsk ve 1'i Saint Petersburg'da olmak üzere 4 vaka doğrulandı.
+8 Mart: Belgorod, Moskova ve Kaliningrad'da 3 yeni vaka doğrulandı ve hepsinin İtalya'dan döndüğü belirtildi.
+11 Mart: 6 vakanın Moskova'da ve 2 vakanın ise Moskova Oblastı'nda olmak üzere, İtalya'dan gelen 8 yeni vaka doğrulandı.
+13 Mart: 11 yeni vaka doğrulandı, bu vakaların 5'i Moskova'da, 3'ü Saint Petersburg'da, 1 tanesi ise Perm Krai'de olduğu belirtildi.
+14 Mart: Kemerovo Oblastı'nda 2 vaka doğrulandı.
+Umman'da 2020 koronavirüs pandemisi, 2019-2020 koronavirüs salgınının Umman'daki etkileri.
+24 Şubat: Hastalık ilk kez İran'dan gelen 2 Ummanlı kadında tespit edildi.27 Şubat: Vaka sayısı 6'ya çıktı.
+Bu vakaların İran'a yakın zamanda yapılan seyahatlerle bağlantılı olduğu belirtildi.3 Mart: Vaka sayısı 12'ye çıktı.
+Hastaların dördü İranlı, geri kalanı Umman vatandaşı olduğu belirtildi.
+Daha sonradan yapılan açıklamada vaka sayısının 15'e çıktığı belirtildi.
+Remdesivir (geliştirme kodu GS-5734), nükleotid analogları sınıfına ait yeni bir antiviral ilaçtır.
+Gilead Sciences tarafından Ebola virüsü hastalığı ile Marburg virüsü enfeksiyon tedavisi için geliştirilmiş ilacın,  daha sonra aralarında respiratuvar sinsitiyal virüsü, Junin virüsü, Lassa ateşi virüsü, Nipah virüsü, Hendra virüsü ve koronavirüslerin de (MERS ve SARS virüsleri dahil) yer aldığı diğer tek sarmallı RNA virüslerine karşı antivirütik aktivite gösterebildikleri bulunmuştur.İlaç, SARS-CoV-2 ile Nipah ve Hendra virüs enfeksiyonlarında kullanımı için araştırma altındadır.
+Diğer koronavirüs enfeksiyonlarına karşı başarı göstermiş oldğundan ötürü Gilead, SARS-CoV-2 enfeksiyonlarına karşı Amerika'da doktorlara ilacı sunmakta, Çin'e ise şiddetli semptomları olan veya olmayan enfekte bireylerin tedavisinde ilacın etkinliğini araştıran çalışmaların yürütülmesi için maddeyi sağlamaktadır.
+Avrupa'da 2020 koronavirüs pandemisi, ilk kez 1 Aralık 2019'da Çin'in Wuhan kentinde görüldükten sonra tüm dünyaya yayılıp pandemi haline gelen 2019-2020 koronavirüs pandemisi'nin Avrupa'daki etkisini göstermektedir.
+İlk vakanın 21 Ocak 2020'de Fransa'nın Bordeaux şehrinde görüldüğü kıtada, 17 Mart 2020 tarihinde Karadağ'da da vaka görülmesiyle koronavirüs görülmeyen ülke kalmadı.
+13 Mart 2020 tarihinde Dünya Sağlık Örgütü artık pandeminin merkez üssünün Avrupa olduğunu açıkladı.
+Betacoronavirus (β-CoV veya beta-CoV), Nidovirales takımından Coronaviridae familyasının Orthocoronavirinae alt familyasında yer alan 4 koronavirüs cinsinden biri.
+Betakoronavirüsler, zoonotik kökenli, zarflı, pozitif anlamlı, tek sarmallı RNA virüsleridir.
+Betacoronavirus cinsi  dört adet farklı viral soydan oluşur.
+Eski literatürde, bu cins grup 2 koronavirüsler olarak da bilinir.
+İnsanlarda tıbbi öneme sahip beta-CoV'ler olan OC43 ve HKU1 A soyundan, SARS CoV ve SARS CoV-2 B soyundan, MERS CoV ise  C soyundan gelmektedir.
+MERS-CoV, soy C'ye ait ve insanları enfekte ettiği bilinen ilk betakoronavirüstür.Alphacoronavirus ve Betacoronavirus cinsleri yarasa gen havuzundan gelmektedir.
+2019-20 koronavirüs pandemisi kronolojisi
+Bu madde, Wuhan, Çin'deki 2019-20 salgınından sorumlu olan yeni koronavirüsün  kronolojisini ve epidemiyolojisini belgelemektedir ve tüm güncel büyük müdahale ve önlemleri içermeyebilir.
+Ayrıca, bazı gelişmeler sadece geçmişe dönük olarak bilinebilir veya tamamen anlaşılabilir.
+2019-2020 koronavirüs salgınının Aralık 2019 - Ocak 2020 kronolojisi
+2019-2020 koronavirüs salgınının Şubat 2020 kronolojisi
+2019-2020 koronavirüs salgınının Mart 2020 kronolojisi
+2019-2020 koronavirüs pandemisinin spor organizasyonlarına etkisi
+2019-20 koronavirüs pandemisinın spor organizasyonlarına etkisi, 1 Aralık 2019' tarihinde Çin'in Hubei bölgesinin başkenti olan Vuhan'da çeşitli hastaların belirli bir neden olmaksızın gelişen ve tedavi ile  aşılara cevap vermeyen bir zatürre görülmesi üzerine SARS-CoV-2 olarak adlandırılan yeni bir koronavirüs teşhis edilmesi ve kişiden kişiye bulaşabilen virüsün bulaşma oranının 2020 Ocak ortasında büyüme göstermesi üzerine dünya çapında birçok spor organizasyonu etkilendi.
+13-15 Mart tarihleri arasında Çin'in Nankin şehrinde düzenlenmesi planlanan 2020 Dünya Salon Atletizm Şampiyonası, Mart 2021'e ertelendi.30 Ocak 2020:
+Çin Futbol Federasyonu ülkedeki tüm futbol liglerinin süresiz ertelendiğini açıkladı.
+Erkekler Alp Disiplini Dünya Kupası'nın 15-16 Şubat'ta Çin'de düzenlenmesi planlanan ayağının 13-14 Şubat'ta Avusturya'da yapılmasına karar verildi.2 Şubat 2020:
+Formula E'nin 21 Mart'ta Çin'in Sanya şehrinde düzenlenmesi planlanan grand prix'si ertelendi.6 Şubat 2020:
+Formula E'nin 4 Nisan'da İtalya'nın Roma şehrinde düzenlenmesi planlanan grand prix'si ertelendi.12 Şubat 2020:
+Formula 1'in 17-19 Nisan tarihlerinde düzenlenmesi planlanan Çin Grand Prix'si belirsiz bir tarihe ertelendi.6 Mart 2020:
+Erkekler Alp Disiplini Dünya Kupası'nın 14-15 Mart'taki Slovenya, 18-22 Mart'taki İtalya ayaklarının ve Kadınlar Alp Disiplini Dünya Kupası'nın 12-14 Mart'taki İsveç ve 18-22 Mart'taki İtalya ayaklarının iptal edildiği açıklandı.8 Mart 2020:
+2020 Formula 1 sezonu'nun ikinci yarışı olan ve 19-22 Mart tarihlerinde düzenlenecek Bahreyn Grand Prix'sinin seyircisiz yapılacağı açıklandı.
+1950'den beri düzenlenen Formula 1'de daha önce seyircisiz bir yarış koşulmamıştı.10 Mart 2020:
+İtalya'da Serie A dahil olmak üzere tüm spor organizasyonları 3 Nisan'a kadar durduruldu.
+Fransa'da Ligue 1 ve Ligue 2 maçlarının 15 Nisan'a kadar seyircisiz olacağı açıklandı.
+İspanya La Liga'da maçların iki hafta boyunca seyircisiz olacağı açıklandı.11 Mart 2020:
+Formula E'nin daha önce ertelenen Çin ve İtalya grand prix'leri dışındaki yarışları da 2 ay ertelendi.12 Mart 2020:
+NBA takımlarından Utah Jazz'ın oyuncusu Rudy Gobert'in koronavirüs testinin pozitif çıkması sonucunda NBA yönetimi önce Oklahoma City-Utah Jazz maçının ertelendiğini, daha sonrasında ise NBA'de sezonun durdurulduğunu açıkladı.
+İngiltere'de Premier Lig dahil olmak üzere tüm liglerdeki maçların seyircisiz oynanacağı açıklandı.
+Ayrıca pub'larda maç yayını yasaklandı.
+FIBA 13 Mart'tan itibaren tüm basketbol organizasyonlarını durdurduğunu açıkladı.
+Euroleague yönetimi Euroleague ve Eurocup maçlarının durdurulduğunu açıkladı.
+Türkiye'deki tüm spor organizasyonlarının Nisan sonuna kadar seyircisiz oynanacağı açıklandı.
+İspanya La Liga'nın iki haftalığına durdurulduğu açıklandı.
+CONMEBOL, Copa Libertadores maçlarının ileri bir tarihe ertelendiğini açıkladı.17 Mart 2020:
+UEFA, 2020 Avrupa Futbol Şampiyonasının 2021 yılına ertelendiğini açıkladı.
+UEFA, Şampiyonlar Ligi ve Avrupa Ligi'nin askıya alındığını açıkladı.
+2020 Vuhan tecridi, 23 Ocak 2020'de Çin Halk Cumhuriyeti'nin merkezi hükümeti, yeni keşfedilen 2019-nCoV merkez üssünü salgını önlemek için karantinaya almak amacıyla Hubei eyaleti Wuhan'da bir tecrit uygulamaya karar verildi.
+Bu olaya medyada yaygın olarak "Vuhan Tecridi" (Çince: 武汉封城) olarak anıldı.
+Dünya Sağlık Örgütü (WHO) bu hareketi "halk sağlığı tarihinde eşi görülmemiş" olarak nitelendirdi.
+2019 yılında ortaya çıkan ve salgın hâline gelen koronavirüsün [Wuhan koronavirüsü, Wuhan zatürresi ya da Şiddetli akut solunum yolu sendromu koronavirüsü 2] daha fazla yayılmasına engel olmak maksadıyla Çin hükûmeti şehri 23 Ocak 2020 tarihinden itibaren karantina altına almıştır.
+Bunun yanı sıra şehre yapılan uluslararası uçuşlar da iptal edilmiş; Almanya, Türkiye, Fransa gibi pek çok ülke Çin Halk Cumhuriyetinden gelen tüm yolcuları termal dedektörlerle kontrol etmeye başlamıştır.
+Şehire 1 hafta içinde hastaneler yapıldı ve şehir ekonomisi durma noktasına geldi , Çin hükûmeti ilaç ve maske dağıttı ayrıca çoğu ülke karantina bölgesindeki vatandaşlarını bölgeden tahliye etti.
+Dünya Sağlık Örgütü bölgesel düzeyde tehlike düzeyini "çok yüksek" olarak belirledi.
+Salgının ülke düzeyinde yayılmasından sonra Vuhan'dan başka pek çok şehir daha karantinaya alındı ve bölgeye sağlık ekipleri yönlendirildi.
+Toplu taşıma durduruldu.
+Aralık 2019'un ortalarında, birçoğu Vuhan'daki Huanan Deniz Ürünleri Toptan Satış Pazarı'yla ilişkisi olan bir insan kümesi, nedeni belli olmayan bir zatürre hastalığına yakalandılar.
+Çinli bilim adamları daha sonra bu zatürreyi, 2019-nCoV olarak adlandırılan yeni bir koronavirüs suşuna bağladılar .
+10 Ocak 2020'de ilk ölüm vakası ve yeni koronavirüsün neden olduğu klinik olarak doğrulanmış 41 enfeksiyon bildirilmiştir.22 Ocak 2020'ye kadar, yeni koronavirüs Çin'deki büyük şehirlere ve illere yayıldı, 571 doğrulanmış vaka ve 17 ölüm bildirildi.
+Hong Kong, Makao, Tayvan, Tayland, Japonya, Güney Kore, Singapur, ABD ve Kanada dahil olmak üzere diğer bölge ve ülkelerde de teyit edilen vakalar bildirildi.
+23 Ocak 2020 günü saat 02: 00'de yetkililer, Vuhan sakinlerine sabah saat 10'dan itibaren otobüsler, demiryolları, uçuşlar ve feribot hizmetleri dahil olmak üzere tüm toplu taşıma araçlarının askıya alınacağını bildiren bir bildirim yayınladı.
+Vuhan Havaalanı, Vuhan tren istasyonu ve Vuhan metrosu tamamen kapatıldı.
+Vuhan sakinlerinin de geçerli nedenler olmadan şehri terk etmelerine izin verilmedi.
+Bildirim, Vuhan'dan bir göçe neden oldu.
+Sadece trenle tahminen 300.000 kişinin sabah 10'dan önce kilitlenmeden önce Vuhan'dan  ayrıldığı bildirildi.
+23 Ocak öğleden sonra, yetkililer Wuhan'dan ayrılan bazı büyük otoyolları kapatmaya başladı.
+Kilitlenme, ülkenin en önemli festivali olan Çin Yeni Yılı'ndan iki gün önce ve geleneksel olarak milyonlarca Çinli'nin ülke çapında seyahat ettiği en yoğun seyahat mevsiminden geldi.
+Vuhan'ın kilitlenmesinin ardından Vuhan'ın komşu ilçe düzeyindeki iki şehirden toplu taşıma sistemleri Huanggang ve Ezhou da kilitlendi.
+24 Ocak itibariyle Hubei'deki Huangshi, Chibi, Jingzhou, Yichang, Xiaogan, Jingmen, Zhijiang, Qianjiang, Xiantao, Xianning, Dangyang ve Enshi dahil olmak üzere, vilayet düzeyinde toplam 12 ile de seyahat kısıtlamalarına yerleştirildi, bu kısıtlamadan etkilenen kişi sayısını 40 milyondan fazla hale getirdi.
+Vuhan'ın tecritten önceki göç hakkında, yeni koronavirüsün şehirlerine yayılmasıyla sonuçlanabileceğinden endişe duyan diğer şehirlerdeki sakinlerden Weibo'ya kızgın tepkiler yağdı.
+Vuhan'daki bazı kişiler, tecrit sırasında erzak ve özellikle tıbbi malzemelerin mevcudiyeti hakkında endişeliler.Dünya Sağlık Örgütü Vuhan'ın karantinaya alınmasını "benzeri görülmemiş" olarak nitelendirdi ve "yetkililerin viral salgının yayılmasını önleme konusunda ne kadar kararlı olduklarını" gösterdiğini söyledi.
+Ancak DSÖ, söz konusu hareketin DSÖ'nün yaptığı bir tavsiye olmadığını ve yetkililerin ne kadar etkili olduğunu görmek için beklemek zorunda olduğunu açıkladı.
+DSÖ ayrıca böyle bir şehrin tamamını kilitleme olasılığının "bilime yeni" olduğunu belirtmiştir.Yatırımcılar yatırımları için güvenli bir sığınak aradığından Şangay ve Shenzhen borsalarında ilk 300 hisse senedinin toplam ölçüsü olan CSI 300 Endeksi, Vuhan'ın kilitlenmesinden dolayı neredeyse 9 ayın en büyük tek günlük kaybı olan neredeyse %3'lük düşüş kaydetti Bu tecrit eşi görülmemiş boyutu tartışmalara yol açtı ve en az bir uzman bu önlemi Vuhan'daki sağlıklı insanların hastalıklı insanlarla yakın koşullarda kalmaya zorlayarak "kolay şekilde geri tepebilecek" "riskli bir iş" olarak eleştirdi.
+11 milyon kişilik bir şehir etrafında bir kordon sağlık önlemi çizmek kaçınılmaz etik endişeler doğurmaktadır.
+Ayrıca, 2014 ebola salgını sırasında Liberya'daki fakir West Point mahallesinin on gün sonra kaldırılan tecridi ile karşılaştırmalar yapıldı.Tecrit Vuhan şehrinde paniğe neden oldu ve birçoğu kentin salgınla başa çıkma yeteneği hakkında endişelerini dile getirdi.
+Bu önlemin hem finansal olarak hem de kişisel özgürlük olarak ortaya çıkardığı masrafın enfeksiyonun efektif olarak kontrol edilmesine yardım edip etmeyeceği hala bilinmemektedir.Tıp tarihçisi Howard Markel, Çin hükümetinin "şimdi aşırı tepki göstererek nüfus üzerinde haksız bir yük oluşturduğunu" ve "Sürekli ve şeffaf bir şekilde uygulanan artan kısıtlamaların, acımasız önlemlerden çok daha iyi çalışma eğiliminde olduğunu" savundu.
+RNA virüsleri
+Genetik materyali RNA (ribonükleik asit) olan virüslere RNA virüsü denir.
+Nükleik asitleri genellikle tek iplikçikli RNA (tiRNA) yapısındadır ancak çift iplikçikli olanlar da mevcuttur (çiRNA).
+Önemli insan hastalıklarına neden olan RNA virüslerine örnekler: ebola virüsü, SARS, nezle, grip, hepatit C, batı nil virüsü, çocuk felci ve kızamık.
+UAVTK sınıflandırmasındaki RNA virüs aileleri, Baltimor sınıflandırmasında Grup III, Grup IV ve Grup V'in altında yer almaktadırlar, genetik materyal olarak RNA barındıran ancak replikasyonda aracı olarak DNA kullanan virüsler (Retrovirüs) ise Grup VI'da yer alırlar.
+Retrovirüsler haricindeki tüm RNA virüslere ribovirüs de denilmektedir.
+Tek iplikçikli RNA virüsleri genom yönelimlerine (polarite) göre de alt gruplara ayrılırlar, bunlar pozitif yönelimli, negatif yönelimli ya da çift yönelimli (ambises) olabilmektedirler.
+Pozitif yönelimli RNA, mRNA'ya benzer ve bu nedenle konak hücre ribozomları tarafından doğrudan okunabilir.
+Negatif yönelimli RNA ise mRNA'nın tamamlayıcısıdır, konak hücre ribozomlarının okuyabilmesi için RNA polimeraz enzimi tarafından pozitif iplikçiğe dönüştürülmesi gerekir.
+Pozitif yönelimli RNA'ya enfektif RNA'da denmektedir.
+Ambisens RNA virüsleri, pozitif iplikçikli genlere çevirmek dışında negatif yönelimli RNA virüslerine benzerler.
+Çift iplikçikli RNA virüsleri, virüslerin çok geniş konak aralığına sahip (insan, hayvan, bitki, mantar ve bakteri),  genom segment sayısı birden onikiye kadar değişebilen ve virion organizasyonu (T-sayısı, kapsid katmanları ya da taretleri) farklı bir grubunu temsil eder.
+Bu grubun içinde rotavirüsler de dahil olmak üzere önemli birçok patojen virüsler yer almaktadır.
+Bu grupta Retrovirüsler yer alır.
+Bu virüslerin genomları diploit yapıdadır (tek iplikçikten iki adet barındırır).
+Bu DNA konak hücre genomuna entegre olabilmektedir (profaj).
+RNA virüslerinin mutasyon oranları DNA virüslerine oranla çok daha fazladır, bunun nedeni DNA polimeraz enziminin hata düzeltme kabiliyetinin olmasıdır.
+Bu durum RNA virüslerine karşı etkili aşı geliştirme çabalarını zorlaştrmaktadır.
+Retrovirüsler yüksek mutasyon oranlarına sahip olmalarının yanı sıra, aracı DNA ile konak genomuna entegre olabilmektedirler (ve böylece konak DNA'sının hata düzeltme sisteminden faydalanırlar).
+Bazı RNA virüslerinde replikasyon döngüsünü etkileyecek mutasyonlar tolere edilemez.
+Örneğin, hepatit C virüsü genomunun kor proteinlerini kodlayan bölgeleri yüksek oranda korunur, çünkü bu kısım dahili ribozom giriş sahasını kapsayan RNA yapısını içerir.
+On bir aile, belirlenmemiş cinsler ve türlerin tanımlandığı bir gruptur.
+Belirlenmemiş türler:
+Bu grup altında üç takım ve 33 aile tanımlanmıştır.
+Bunun yanında sınıflandırılmamış türler ve cinsler de bulunmaktadır.
+Takım Nidovirales
+Aile Koronavirüsler — Koronavirüs, MERS, SARS ve 2019-nCoV dahil
+Takım Picornavirales
+Aile Picornaviridae—Poliovirus, Rhinovirus (nezle virüsü), Hepatitis A virüsü dahil
+Takım Tymovirales
+Belirlenmemiş:
+Aile Caliciviridae — Norwalk virüsü dahil
+Aile Flaviviridae — Sarıhumma virüsü, Batı Nil virüsü, Hepatit C virüsü, Deng humması virüsü, Zika virüsü dahil
+Aile Luteoviridae — Arpa sarı bodur virüsü dahil
+Aile Togaviridae — Kızamıkçık virüsü, Ross Nehri virüsü, Sindbis virüsü, Chikungunya virüsü dahil
+Belirlenmemiş cinsler:
+Belirlenmemiş türler:
+Uydu virüsler
+Bu grup altında bir takım ve 8 ailetanımlanmıştır.
+Ayrıca belirlenmemiş cinsler ve türler de bulunmaktadır.
+Takım Mononegavirales
+Belirlenmemiş aileler:
+Belirlenmemiş cinsler:
+Belirlenmemiş türler:
+Mantar virüslerinin çoğunluğu çiRNA virüsleridir.
++RNA virüslerinin az bir kısmı tanımlanmıştır.
+İnsanlarda hastalık yapan sarmal RNA virüsleri aynı zamanda zarflıdır.
+Virüs sınıflandırması
+Virüsler listesi
+Hayvan virüsleri
+Çift iplikçikli RNA virüsleri
+Retrovirüs
+DNA virüsleri
+Coronaviridae, viral zarfa sahip, pozitif anlamda, tek sarmallı RNA virüsleri ailesidir.
+Viral genom 26-32 kilobaz uzunluğundadır.
+Virüs parçacıkları yüzeylerinde elektron mikrograflarında güneş koronasını anımsatan bir görüntü oluşturan, tipik olarak büyük (~ 20 nm) çıkıntılara ("peplomer" veya "spike" denir) sahiptir.
+2019-20 koronavirüs pandemisinden sorumlu olan SARS-CoV-2, Coronaviridae ailesinin bir üyesidir.
+Coronaviridae ailesi 2 alt familya, 5 cins, 23 alt cins ve yaklaşık 40 türden oluşmaktadır.
+Kamostat veya camostat bir serin proteaz inhibitörüdür.
+Serin proteaz enzimleri vücutta çeşitli fonksiyonlara sahiptir ve bu nedenle kamostatın çeşitli kullanım alanları vardır.
+Camostat Japonya'da kronik pankreatit ve postoperatif reflü özofajit tedavisi için onaylanmıştır.
+Ono Pharmaceutical, Camostat'ın üreticisidir.
+İlaç aynı zamanda bazı kanser türlerinin tedavisinde kullanılır ve bazı viral enfeksiyonlara karşı etkilidir.
+Madde karaciğer, böbrek hastalığı veya pankreatitte fibrozu inhibe edebilir.Kamostat, transmembran proteaz, serin 2 (TMPRSS2) enziminin bir inhibitörüdür.
+HeLa hücrelerinde TMPRSS2'nin inhibe edilmesi, SARS-CoV ve insan koronavirüsü NL63 enfeksiyonlarının kısmen bloke edilmesine yol açmaktadır.
+Başka bir in vitro çalışma, Camostat'ın Calu-3 akciğer hücrelerinin COVID-19'dan sorumlu virüs SARS-CoV-2 tarafından enfekte edilmesini önemli ölçüde azalttığını göstermektedir.Camostat, kronik pankreatit için tipik olarak günde 600 mg, postoperatif reflü özofajit için ise 300 mg alınır.
+Günlük miktar 3 doza bölünür ve yemekten sonra alınır.
+Kunze H, Bohn E (Mayıs 1983).
+Nalburunlu yarasa ya da Nalburun yarasa, Rhinolophidae yarasa familyasını oluşturan yarasalara verilen isimdir.
+Yaşayan tek cinsi olan Rhinolophus dışında soyu tükenmiş bir cins olan Palaeonycteris de tanımlanmıştır.
+Bazen Rhinolophidae familyası içinde de sınıflandırılan Hipposideridae familyası ile yakın akrabadır.
+Nalburunlu yarasalar altı alt cinse ve birçok tür grubuna ayrılırlar.
+Tüm nalburunlu yarasaların ortak atası 34 ila 40 milyon yıl önce yaşamıştır ancak bu familyanın coğrafi kökeni belirli değildir ve familya biyocoğrafyasını ortaya koyma çabaları sonuçsuz kalmıştır.
+Genetik kanıtların gösterdiği birçok tür kompleksinin olma olasılığının yanı sıra daha önceden ayrı bir tür olarak tanımlanmış yarasaların aslında başka taksonlardan çok az genetik farklılık göstermesi sonucu taksonomileri karmaşıktır.
+Çoğunlukla tropikal ve subtropikal bölgeler olmak üzere Afrika, Asya, Avrupa ve Okyanusya kıtalarında, Eski Dünya'da yaşarlar.
+Nalburunlu yarasalar 4 ila 28 g ağırlıkları, 30 ila 75 mm. ön kol uzunlukları ve 35 ila 110 mm. baş-gövde uzunluklarıyla küçük ya da orta boylu küçük yarasalardan sayılırlar.
+Kürkleri kızıl kahverengi, siyahımsı ya da parlak turuncu-kırmızı olabilir ve türlerinin çoğunun uzun ve yumuşak kürkü bulunur.
+Adlarını at nalına benzeyen burunlarındaki ince ve geniş zar katmanından oluşan deriden alırlar.
+Bu burun zarları ekolokasyon ile yönlerini bulmada yardımcı olur.
+Çok yoğun ve karmaşık çevrelerde avlarını bulmak için sabit frekanslı çağrılar kullanan nalburunlu yarasaların ekolokasyon sistemleri oldukça gelişmiştir.
+Tünedikleri yerden birdenbire avlarının üzerine çullanarak böcekleri ve örümcekleri avlarlar.
+Çiftleşme sistemleri hakkında çok az bilgi bulunmaktadır ancak en azından bir türün tek eşli bir başka türün de çok eşli olduğu bilinmektedir.
+Gebelik süresi yaklaşık yedi haftadır ve bir batında tek yavru doğar.
+Genellikle ömürleri altı ila yedi yıl kadardır ama bir büyük nalburunlu yarasanın otuz yıldan fazla yaşadığı bilinmektedir.
+Nalburunlu yarasaların insanlar için bir hastalık kaynağı olmasının yanı sıra bazı bölgelerde gıda olarak tüketilmekte ve ilaç olarak kullanılmaktadır.
+İnsanların bulaşmasında Paguma larvata türü misk kedisinin ara konak olmasına rağmen bazı türleri SARS için doğal konaktır.
+Bazı bulgular koronavirüs hastalığı 2019'a neden olan SARS-CoV-2'nin de doğal konağı olduğunu önermektedir.
+Başta Sahra Altı Afrika olmak üzere Güneydoğu Asya gibi bazı bölgelerde besin maddesi olarak kullanılmak üzere avlanırlar.
+Bazı türleri ya da guanoları Nepal, Hindistan, Vietnam ve Senegal gibi ülkelerde geleneksel tıpta kullanılır.
+Nalburunlu yarasalar küçük ya da orta boylu küçük yarasalar olarak kabul edilir.
+Kafa-gövde uzunlukları 35 ila 110 mm. ve ön üye uzunlukları da 30 ila 75 mm. arasında değişir.
+En küçük türlerden biri olan küçük nalburunlu yarasa (R. hipposideros) 4 ila 10 g ağırlığındayken daha büyük türlerden biri olan büyük nalburunlu yarasa (R. ferrumequinum) 16,5 ila 28 g. ağırlığındadır.
+Post renkleri türler arasında oldukça farklılık gösterir ve siyahımsıdan kırmızımsı kahverengiye ve parlak turuncu sırt kürküne kadar değişir.
+Alt kısımları sırt kısmından daha soluktur.
+Türlerin çoğunun uzun ve yumuşak bir kürkü vardır ancak oldukça uzun ve yünsü bir posta sahip olan Rhinolophus luctusve Rhinolophus beddomei diğer türler arasında dikkati çeker.Yarasaların çoğunda olduğu gibi nalburunlu yarasaların da göğüslerinde iki meme bezi bulunur.
+Erişkin dişilerin karınlarında yalancı meme ucu denilen ve meme bezlerine bağlı olmayan iki meme ucu benzeri çıkıntı vardır.
+Aralarında Hipposideridae, Craseonycteridae, Megadermatidae ve Rhinopomatidae familyalarının da bulunduğu birkaç yarasa familyasında bu yalancı meme uçları bulunur ve yavrularının tutunması için işe yarar.
+Birkaç türde erkeklerde koltukaltlarında birer yalancı meme ucu vardır.
+Tüm nalburunlu yarasaların burunlarında büyük ve yaprak benzeri çıkıntılar vardır.
+Bu çıkıntıların ön kısmının at nalına benzemesi nedeniyle adları "nalburunlu" yarasalardır.
+Burun çıkıntıları tür tanımlamasında önemlidir ve farklı bölümlerden oluşur.
+Lanset üçgen, sivri ve oyukludur; ucu yarasanın gözlerine doğru uzanır.
+Sella burnun ortasında düz ve çıkıntı gibi bir yapıdır; burun deliklerinin arkasından başlar ve kafaya dik olarak dışarı doğru çıkıntı yapar.
+Sella genellikle lansetten daha az kıllıdır.
+Büyük ve yaprak şeklinde olan kulakları uzun oldukları kadar da geniştir ve tragusları yoktur.
+Antitragusları ise oldukça belirgindir.
+Gözleri çok küçüktür.
+Kafatasında hep burunönü şişkinliği bulunur.
+Bir nalburunlu yarasanın tipik diş formülü şöyledir: 1.1.2.32.1.3.3, ancak genellikle orta alt ön azı dişleri ile önt üst ön azı dişleri eksiktir.
+Yavrular süt dişlerini daha ana karnında iken kaybederler ve süt dişleri vücut tarafından emilir.
+Doğduklarında ağızlarında bulunan ve damaktan çıkmış dört köpek dişi sayesinde annelerine tutunabilirler.
+Bu durum genellikle doğumda bazı süt dişleri olan ve kısa süre normal dişlerle değişen diğer yarasa familyaları arasında atipiktir.
+Göğüs kafesindeki presternum, birinci kaburga, kısmi ikinci kaburga ve yedinci servikal omur birbirine kaynamış olarak sağlam bir halka oluştururlar.
+Bu kaynaşma, sabit konumda iken de ekolokasyon yeteneği ile bağlantılıdır.
+İki parmak kemiği bulunan ilk parmak dışında diğerleri üç parmak kemiğine sahiptir ve tüm ayak parmaklarının üç parmak kemiği vardır.
+Tüm ayak parmaklarında ikişer parmak kemiği olan Hipposideridae familyasından bu şekilde ayrılırlar.
+Kuyrukları tamamen uropatagiumun (kuyruk zarı) içinde kalır ve uropatagium'un firar kenarında mahmuzlar vardır.
+Rinolofitler, güney Avrupa, Afrika, Asya'nın güney-kuzeyi ve doğu Avustralya'nın ılıman ve tropikal bölgelerinde yaşarlar.
+Tüm türler böcekçidir ve uçuş sırasında böcekleri yakalar.
+Tünek alışkanlıkları çeşitlidir; bazı türler mağaralarda büyük koloniler halinde bulunur, bazıları ağaç oyuklarını tercih eder, diğerleri açıkta, ağaçların dalları arasında uyur.
+Kuzeydeki nüfusun üyeleri kış aylarında kış uykusuna yatarken, az bir kısmın yaz uykusuna yattığı bilinmekte ikin; en az bir tür de göçmendir.
+Birçok Vespertilionidae yarasası gibi, bazı rinolofid türlerinin dişileri de sonbaharda çiftleşir ve spermi kış boyu depolar, ilkbaharda döllenir ve gebe kalır.
+Rhinolophus ilk olarak Fransız doğa bilimci  Bernard Germain de Lacépède tarafından 1799 bir cins olarak tanımlandı.
+Başlangıçta yaşayan tüm nalburunlu yarasaların yanı sıra şimdi Hipposideros cinsinde sınıflandırılan yarasalar da Rhinolophus cinsi içinde yer almaktaydı.
+John Edward Gray 1825 yılında Verspertilionidae familyasını alt familyalara ayırırken içine Rhinolophina alt familyasını da ekledi.
+Nalburunlu yarasaları ayrı bir familya olarak tanıyanın ilk olarak 1836 yılında Rhinolophidae adını kullanan İngiliz hayvanbilimci Thomas Bell olduğu kaydedilmiştir.
+Rhinolophidae için bazen Bell takson yazarı olarak tanınsa da takson yazarı olarak Gray'in adı ve 1825 yılı daha yaygın olarak kullanılmaktadır.
+Nalburunlu yarasalar, Craseonycteridae, Megadermatidae, Rhinonycteridae ve Rhinopomatidae familyaları ile birlikte Rhinolophoidea üst familyasında toplanırlar.Rhinolophus cinsini başka cinslere ayırmak için girişimlerde bulunuldu.
+William Elford Leach 1816'da Phyllorhina cins adını önerdi; Gray 1847'de Aquias, 1866'da da Phyllotis cinslerini önerdi; Wilhelm Peters ise 1867'de Coelophyllus cinsini önerdi.
+George Edward Dobson 1876'da tüm Asya nalburunlu yarasalarını yeniden Rhinolophus cinsi içine aldı, ayrıca Phyllorhininae ve Rhinolophinae alt familyalarını önerdi.
+Gerrit Smith Miller 1907 yılında Hipposideridae familyasını önerdi.
+Bazı takson yazarları 2000'li yılların başına kadar Hipposideros cinsini Rhinolophidae familyasının bir parçası olarak görüyordu ancak artık ayrı bir familya olarak tanınmaktadır.
+Rhinolophidae ve Hipposideridae ayrımından sonra da Rhinolophus cinsi için 1934'te Rhinolphyllotis ve 1951'de Rhinomegalophus cinsleri önerilse de günümüzde bu türler yeniden Rhinolophus cinsi içine alınmıştır.Knud Andersen Rhinolophus cinsi için tür grubu ayrımını 1905'te ilk öneren hayvanbilimcidir.
+Altı tür grubu tanımlamıştır: R. simplex (şimdi R. megaphyllus), R. lepidus, R. midas (şimdi R. hipposideros), R. philippinensis, R. macrotis, ve R. arcuatus.
+Yeni gruplar eklendikçe, yeni türler tanımlandıkça ve türler arasındaki ilişkiler güncellendikçe gruplar içindeki türler de sürekli olarak yeniden sınıflandırılmıştır.
+Csorba vd. tarafından 2003 yılında on beş tür grubu verilmiştir.
+Bazı alt cinsler de önerilmiştir, bunların altısı Csorba vd. tarafından 2003'te şöyle listelenmiştir:Aquias, Phyllorhina, Rhinolophus, Indorhinolophus, Coelophyllus ve Rhinophyllotis.
+Gayriresmî olarak nalburunlu yarasalar iki ana klada ayrılır: Daha çok Afrikalı kladı ile daha çok Asyalı kladı.
+Rhinolophus cinsinin en yakın ortak atasının 34 ila 40 milyon yıl önce yaşadığı tahmin edilmektedir.
+Hipposideridae soyundan Esoen döneminde ayrılmıştır.
+Avrupa'da Miyosen devrinin başı ve ortası ile Oligosen devrine ait, Avustralya'da Miyosen ve Afrika'da da Miyosen ile Pliyosen dönemin sonlarına ait nalburunlu yarasa fosilleri bulunmuştur.
+Nalburunlu yarasaların biyocoğrafyası tam olarak bilinememektedir.
+Farklı araştırmalar bu familyanın kökenini Avrupa, Asya ya da Afrika olarak belirtmektedir.
+2010 yılında yapılmış bir çalışma familyanın Asya kökenli olduğunu ve Oligosen döneminde Afrika ve Asya kladlarının hızlı bir evrimsel yayılım geçirdiğini desteklemektedir.
+2019 yılında yapılan bir araştırmada her ikisi de Avrasya türü olan
+R. xinanzhongguoensis ve R. nippon nalburunlu yarasalarının Afrika türleri ile diğer Avrasya türlerinden daha yakın akraba olduğunu göstererek nalburunlu yarasaların Asya ve Afrotropik ile daha karmaşık bir biyocoğrafi ilişki içinde olduğunu önermiştir.2016 yılında mitokondriyal ve nükleer DNA kullanılarak yapılan bir araştırma nalburunlu yarasaları Yinpterochiroptera içinde Hipposideridae familyasına kardeş takson olarak yerleştirmiştir.
+Rhinolophidae familyasında yaşayan tek cins Rhinolophus sınıflandırılır.
+Hem familyanın hem de cinsin hepsinin bir ortak atadan geldiği yani monofiletik olduğu doğrulanmıştır.
+2019 yılı itibariyle 105 tanımlanmış türü bulunan Rhinolophus cinsi, Myotis cinsinden sonra en kalabalık yarasa cinsidir.
+Rhinolophus cinsi Afrotropikal alanda yetersiz miktarda örneklenmiştir ve bir genetik araştırma bölgede on iki kadar kriptik tür olabileceğini tahmin etmektedir.
+Bunun yanı sıra bir tür olarak tanımlanmış bazı taksonların çok az genetik farklılık gösterdiği de bulunmuştur.
+Rhinolophus kahuzi Rhinolophus ruwenzorii türü için ve Rhinolophus gorongosae ya da Rhinolophus rhodesia türleri Rhinolophus simulator türü için bir sinonim olabilir.
+Bunların dışında Rhinolophus smithersi, Rhinolophus cohenae ve Rhinolophus mabuensis türlerinin hepsi Rhinolophus hildebrandtii türünden çok az genetik farklılığa sahiptirler.
+Diğer üç taksonu tam bir tür olarak tanımlamak Rhinolophus hildebrandtii türünü parafiletik olarak bırakır.Rhinolophidae familyasında bulunan ikinci cins soyu tükenmiş Palaeonycteris cinsidir ve yalnızca Palaeonycteris robustus türünü içerir.
+Palaeonycteris robustus Miyosen döneminin başlarında yaşadı ve fosilleşmiş kalıntıları Fransa'da Saint-Gérand-le-Puy'da bulundu.
+Eylül 2005'te, dört Rhinolophus türü, R. sinicus, büyük R. ferrumequinum, büyük kulaklı R. macrotis ve  R. pearsoni, Çin'de 2002-2004 yılları arasındaki salgınlarda SARS etkeni koronavirüs benzeri virüslerin doğal rezervuarları olarak belirlendi.Hipposiderid ve rinolofid yarasalarının filogenomik ilişkilerinin, insanlarda SARS benzeri bir salgına neden olabilecek koronavirüs rezervuarları olarak potansiyel etkileri vardır.
+Nalburunlu yarasalar çoğunlukla Paleotropikal bölgeye dağılmıştır ancak bazı türleri Palearktik bölgenin güneyinde görülür.
+Afrika, Asya, Avrupa ve Okyanusya olmak üzere Eski Dünya'da bulunurlar.
+Avrupa, Kuzey Afrika, Japonya, Çin ve Asya'nın güneyine dağılmış olan büyük nalburunlu yarasa familya içinde en geniş biyocoğrafi dağılıma sahip olan türdür.
+Diğer türler, yalnızca Andaman Adaları'nda bulunan Rhinolophus cognatus türü gibi çok daha kısıtlı alanlarda yaşar.
+Binalar, mağaralar, ağaç kovukları ve bitki örtüsü gibi çeşitli yerlere tünerler.
+Türlerin çoğunluğu tropikal ya da subtropikal alanlarda olmak üzere hem ormanlık hem de ormanlık olmayan yaşam alanlarında yaşarlar.
+Kış uykusuna yatan türler yaklaşık 11 °C ortam sıcaklığına sahip mağaraları seçerler.
+2020 yılı itibariyle Dünya Doğa ve Doğal Kaynakları Koruma Birliği (IUCN) 87 nalburunlu yarasa türünü değerlendirdi.
+IUCN'e göre korunma statüleri aşağıdaki gibidir:
+Tehlikede: 7 tür
+Neredeyse tehdit altında: 8 tür
+Asgari endişe: 52 tür
+Yetersiz veri: 13 türTüm mağaralarda tüneyen yarasalar gibi mağaralarda tüneyen nalburunlu yarasalar da mağara habitatlarının bozulmasına hassastırlar.
+Yarasa guanosu toplama, kireç taşı madenciliği ve mağara turizmi mağara habitatlarının bozulmasının nedenleri arasındadır.

@@ -1,0 +1,1705 @@
+SARS-CoV-2 eli 2019-nCoV on Kiinan Wuhanista 7.
+tammikuuta 2020 ensi kerran eristetty virus, joka aiheuttaa taudin nimeltä COVID-19.
+Virus on aiheuttanut vuoden 2019 lopulta alkaneen koronaviruspandemian.
+Sen perimä on samankaltainen SARSin aiheuttavan viruksen kanssa.
+Virusta on kutsuttu muun muassa nimillä Wuhanin koronavirus, uusi koronavirus tai vain koronavirus.
+2019-nCo-virus eli 2019-nCoV (eng. 2019-novel coronavirus, "2019 uusi koronavirus") on Maailman terveysjärjestön (WHO:n) aluksi suosittelema väliaikainen nimi virukselle.
+Nimeämisessä WHO:n pyrkimyksenä oli välttää paikannimiä, jotta nimi ei leimaisi mitään ihmisryhmää.
+11. helmikuuta 2020 WHO nimesi viruksen aiheuttaman taudin nimellä COVID-19 (eng. coronavirus disease 2019, "koronavirustauti 2019").
+Samana päivänä Kansainvälinen virusluokituskomitea (ICTV) antoi virukselle uuden nimen, SARS-CoV-2 (eng.
+severe acute respiratory syndrome coronavirus 2, "SARS-koronavirus 2"), jota komitea suosittelee käytettävän nimen 2019-nCoV sijaan.
+Nimi tulee viruksen perimän samankaltaisuudesta SARSin aiheuttavan viruksen eli SARS-CoV:n kanssa.
+SARS-CoV-2 on seitsemäs tunnettu ihmiseen tarttuva koronavirus.
+Muita ovat olleet SARSin aiheuttava SARS-CoV ja MERSin aiheuttava MERS-CoV sekä HCoV-OC43, HCoV-229E, HKU-NL63 ja HCoV-HKU1.Kuten SARSin ja MERSin aiheuttajat, SARS-CoV-2 on beetakoronavirus.
+Se omaa kapsidin, jota ympäröi lipidikerros.
+Viruksen halkaisija on 50–200 nanometriä.
+Kapsidin sisällä on viruksen perimä.
+Virus on muiden koronavirusten tapaan positiivinen RNA eli ssRNA(+)-virus.
+Perimä siis koostuu yhdestä RNA-juosteesta.
+Juosteen pituus on noin 29891 nukleotidia, jonka proteiineja koodaava osa on yhtäjaksoinen ja kahden transloitumattoman alueen välissä.
+Perimä koodaa 9860:ta aminohappoa.
+Näistä osa muodostaa 16 rakenteeseen liittymätöntä proteiinia (nsp, eng. non-structural proteins).
+Esimerkki tällaisesta proteiinista on viruksen monistumiseen vaadittu RNA-replikaasi.Eräs viruksen koodaamista proteiineista on sen lipidikalvon pinnan useat spike-glykoproteiinit.
+Virus sitoutuu spike-proteiinien S1 -domeenien kautta tartuttamansa solun pinnalla oleviin angiotensiinikonvertaasi 2 -reseptoreihin (ACE2).
+Esimerkiksi myös SARSin aiheuttama virus tarttuu ACE2-reseptorien kautta.
+Eläinlajia, jossa SARS-CoV-2:n on kehittynyt, ei toistaiseksi tunneta.
+Tällaisena isäntälajina kuitenkin on todennäköisesti ollut jokin lepakkolaji.
+Viruksen perimä on nimittäin hyvin samankaltainen kuin tietyillä lepakkolajeilla tavattavat beetakoronavirukset.
+Virus ei välttämättä ole siirtynyt isäntälajilta suoraan ihmiseen.
+Virus on myös voinut siirtyä isäntälajilta yhden tai usean niin sanotun väli-isäntälajin kautta ihmiseen.
+Esimerkiksi SARSin kohdalla sen aiheuttama beetakoronavirus tarttui lepakoista todennäköisesti naamaripalmunäätiin ja vasta niistä ihmisiin.
+Epidemian levitessä Ihmisistä vuoden 2020 tammikuun loppuun mennessä löydettyjen SARS-CoV-2-kantojen perimät ovat olleet keskenään yli 99,9-prosenttisesti samankaltaisia.
+Koronavirusten tyypillinen mutaatiotaajuus on 1/1000 mutaatiota per nukleotidi per vuosi.
+Edellä mainitut asiat merkitsevät sitä, että virus on evoluutionsa jälkeen levinnyt hyvin pian luonnosta ihmisiin.Kiinan viranomaisten mukaan toistaiseksi varhaisin tunnettu SARS-CoV-2-tartunta ilmeni 17.
+marraskuuta 2019 Kiinan Wuhanissa 55-vuotiaalla ihmisellä.
+Ei ole varmaa, että onko virus ennen tätä tarttunut kehenkään toiseen ihmiseen.
+Useita tartuntoja, jotka herättivät muun muassa Kiinan viranomaisten huomion, ilmeni vasta vuoden 2019 joulukuun lopulla Wuhanissa sijainneella Huananin mereneläviä myyvällä torilla.
+Kanadalaistutkijat ilmoittivat, että he ovat onnistuneet eristämään ja kopioimaan viruksen maaliskuussa 2020.
+Koronavirukset
+Kuvia tai muita tiedostoja aiheesta SARS-CoV-2 Wikimedia CommonsissaTHL:n sivut uudesta koronaviruksesta
+Koronaviruksen reaaliaikainen tartuntatilanne.
+1. joulukuuta Kiinan Wuhanin terveysviranomaiset tekivät ensimmäisen havainnon uudesta virustyypistä.
+Virus saattoi levitä Wuhanissa jo lokakuussa.
+Kiinan viranomaiset kertoivat alun perin ensimmäisen tartunnan ilmenneen viikkoa myöhemmin.
+Potilaalla ei ollut myöskään kytköstä Huananin ruokatoriin.
+Kiinan sosiaalisessa mediassa liikkui jo joulukuun puolivälistä lähtien huhuja mystisestä viruksesta, erityisesti lääketieteen ammattilaisten keskuudessa.30.
+joulukuuta Kiinalainen silmälääkäri Li Wenliang varoitti sosiaalisessa mediassa kollegoitaan mahdollisesta vakavaa äkillistä hengitystieoireyhtymää (SARS) muistuttavasta sairaudesta.31.
+joulukuuta Kiinan kansantasavallan viranomaiset ilmoittivat Maailman terveysjärjestö WHO:n Kiinan toimistolle, että joulukuussa 2019 Hubein maakunnan Wuhanin kaupungissa oli ilmennyt useita vakavia keuhkokuumetapauksia, joiden syytä ei ollut aiemmin tunnistettu.
+Wuhanin asukkaille sairastumisten kerrottiin johtuvan virusperäisestä keuhkokuumeesta, joka ei tartu ihmisten välillä.
+1. tammikuuta Yhdysvaltain terveysviranomaiset paikansivat kaloja ja äyriäisiä myyvän torin Wuhanissa mahdolliseksi tartuntalähteeksi.
+Tori suljettiin.
+Kiinan valtiollinen uutistoimisto Xinhua väitti, että syynä on remontti.
+Poliisi ilmoitti pidättäneensä Wuhanissa kahdeksan ihmistä keuhkokuumeeseen liittyvien ”huhujen levittämisestä”.2.
+tammikuuta mennessä 41 koronavirustapausta oli vahvistettu, joista 66:llä prosentilla oli kytköksiä Wuhanin kaupungin Huananin ruokatoriin, jota arveltiin viruksen lähtöpaikaksi.3.
+tammikuuta  Poliisi kutsui Li Wenliangin kuulusteltavaksi, koska tämä oli "esittänyt vääriä kommentteja Internetissä".
+Lin antamat tiedot ovat kuitenkin osoittautuneet oikeiksi, ja hänen varoituksiaan jaettiin myöhemmin julkisesti.5.
+tammikuuta mennessä oli todettu 59 tautitapausta, joista seitsemän oli kriittisessä tilassa.
+Sairastuneet pantiin karanteeniin.
+11. päivä tammikuuta kävi ilmi, että todellisuudessa sairastuneiden vahvistettu lukumäärä olikin 41.7.
+tammikuuta Wuhanin paikallisen virusopin instituutin tutkijat antoivat virukselle nimen, 2019-nCoV.9.
+tammikuuta WHO kertoi, että kyseessä on uudentyyppinen koronavirus.
+Tällöin ilmeni tiettävästi ensimmäinen kuolintapaus, kun 61-vuotias kroonista maksasairautta poteva mies kuoli koronavirukseen.
+Mies oli tartuntalähteeksi oletetun ruokatorin vakioasiakas.11.
+tammikuuta sairastuneiden määrä oli virallisesti yhä 41, eikä uusia vahvistettuja tapauksia oltu todettu 5.
+tammikuuta jälkeen.
+Wuhanin paikallisen virusopin instituutin tutkijat jakoivat viruksen tiedot julkiseen tietokantaan, johon tutkijat ympäri maailmaa pääsevät.13.
+tammikuuta ensimmäinen tautitapaus todettiin Kiinan ulkopuolella; kyseessä oli Wuhanista 8.
+tammikuuta Thaimaan Bangkokiin matkustanut 61-vuotias nainen.15.
+tammikuuta Kiinan terveysviranomaiset totesivat, etteivät voi vahvistaa viruksen leviävän ihmisestä toiseen, mutta eivät myöskään sulje tämän mahdollisuutta pois.
+Eräiden tutkimusten mukaan he tiesivät viruksen leviävän ihmisestä toiseen viimeistään tammikuun alkupäivinä.16.
+tammikuuta todettiin ensimmäinen tartuntatapaus Japanissa.
+Sairastunut oli vieraillut Wuhanissa tammikuun alussa.17.
+tammikuuta 69-vuotias mies kuoli Wuhanissa.
+Yhdysvaltain San Franciscossa, New Yorkissa ja Los Angelesissa aloitettiin terveystarkastukset lentokentillä.20.
+tammikuuta kolmas kuolintapaus todettiin Wuhanissa.
+Kiinan presidentin Xi Jinping vaati viruksen leviämisen päättäväistä torjuntaa.
+Kiinan viranomaiset myönsivät julkisesti viruksen tarttuvan ihmisestä ihmiseen.
+Ensimmäinen tartunta vahvistettiin Etelä-Koreassa.21.
+tammikuuta Taiwanissa ja Yhdysvalloissa vahvistettiin maiden ensimmäiset tartunnat.22.
+tammikuuta Euroopan lentokentillä aloitettiin terveystarkastuksia.
+WHO kutsui koolle hätäkomitean päättääkseen, onko uusi koronavirus maailmanlaajuinen terveysuhka.
+Komitea päätti lykätä päätöstä seuraavalle päivälle.
+Macaossa ja Hongkongissa vahvistettiin ensimmäiset tartunnat.23.
+tammikuuta 11 miljoonan asukkaan Wuhan asetettiin karanteeniin.
+Kiinan viranomaisten mukaan vahvistettuja kuolintapauksia oli 17 ja tartuntoja yli 500.
+Eräiden tutkijoiden mukaan tartuntojen todellinen lukumäärä saattoi tällöin olla viisi tai 10 kertaa virallisia arvioita suurempi.
+Koronavirus levisi samana päivänä Singaporeen ja Vietnamiin.
+WHO päätti, ettei koronavirus ole tässä vaiheessa kansainvälinen terveysuhka.24.
+tammikuuta Nepalissa todettiin maan ensimmäinen tartunta, ja Ranskassa todettiin Euroopan kolme ensimmäistä tartuntaa.
+Kiina asetti uusia karanteeneja ja kielsi joukkotapahtumia.
+Maailmanlaajuisesti vahvistettuja kuolintapauksia oli 26, jotka kaikki Kiinassa, ja tartuntoja oli maailmalla yli 850.25.
+tammikuuta Taudin vahvistettiin levinneen Australiaan, Kanadaan ja Malesiaan.
+Kiina kielsi kansalaistensa ryhmämatkat ulkomaille.
+Kaukobussiliikenne lopetettiin Pekingin, Tianjinin ja Xi'anin kaupungeista.
+Kiinalaisen uudenvuodenpäivän elokuvalippumyynti jäi runsaaseen kymmenesosaan vuoden 2019 vastaavasta ajankohdasta, sillä pääosa Kiinan elokuvateattereista oli kiinni, ja ihmiset välttelivät väkijoukkoja.26.
+tammikuuta Kiina kielsi villieläinten myymisen, sillä viruksen epäiltiin siirtyneen ihmisiin villieläimistä.
+Vahvistettuja kuolleita oli 56 ja tartuntoja parituhatta.27.
+tammikuuta Saksassa todettiin maan ensimmäinen tartunta, ja samalla ensimmäinen vahvistettu tapaus, jossa virus leviää ihmisestä toiseen Kiinan ulkopuolella.
+Sairastunut oli saanut tartunnan Shanghaista tulleelta henkilöltä.
+Euroopassa oli lukuisia koronavirusepäilyjä.
+WHO korotti riskiarviotaan kansainvälisestä terveysuhasta kohtalaisesta korkeaksi.28.
+tammikuuta australialaiset tutkijat kasvattivat virusta laboratoriossa ensimmäistä kertaa onnistuneesti, helpottaen lääkkeiden ja rokotteen kehittämistä virusta vastaan.29.
+tammikuuta Suomessa todettiin maan ensimmäinen koronavirustartunta Lapissa.
+Kuolemantapauksia oli vahvistettu 132 ja tartunnan saaneita oli yli 6 000.30.
+tammikuuta Intia ja Filippiinit raportoivat maiden ensimmäiset vahvistetut koronavirustapaukset.
+Tartuntoja oli vahvistettu yli 8 100 ja kuolemantapauksia 170.
+Tiibetissä todettiin ensimmäinen tartunta, ja sen myötä jokaisessa Kiinan provinssissa oli todettu koronavirustartuntoja.
+Venäjä lakkautti viisumien myöntämisen Kiinan kansalaisille, sulki Kiinan-vastaisen rajansa ja alkoi rajoittaa junaliikennettä maiden välillä.
+Yhdysvalloissa ilmeni ensimmäinen maan sisällä saatu koronavirustartunta.
+WHO julisti koronaviruksen kansainväliseksi terveysuhaksi.
+Intia ilmoitti keskeyttävänsä kaiken lentoliikenteen Kiinaan.
+Manner-Kiinan ulkopuolella oli 123 vahvistettua tapausta yli 15 maassa.
+COVID-19:ta oli sairastunut useampi kuin SARS:iin.31.
+tammikuuta Isossa-Britanniassa, Ruotsissa ja Venäjällä vahvistettiin ensimmäiset COVID-19-tapaukset.
+Tautiin oli kuollut ainakin 213 ihmistä ja tartuntoja yli 9 700, 171 on parantunut.
+Epäiltyjä tapauksia oli Kiinassa yli 15 200.
+Kiinan ulkopuolella oli 141 vahvistettua tapausta autonomiset alueet mukaan laskien.
+Mahdollisen koronavirukseen liittyvän hengitystieinfektion takia Kiinassa oli tarkkailussa noin 102 000 ihmistä.
+1. helmikuuta Espanjan ensimmäinen tartuntatapaus vahvistettiin Kanariansaarten La Gomeralla.
+Kuolintapauksia oli 259, vahvistettuja tartuntoja 11 800.
+Yhdysvallat kielsi pääsyn maahan ulkomaalaisilta, jotka ovat käyneet Kiinassa edeltäneen kahden viikon aikana.
+Yhdysvaltain kansalaiset, jotka ovat palaamassa kotimaahansa Hubein provinssista joutuvat kahden viikon karanteeniin.
+Yhdysvalloissa tartunta oli todettu seitsemällä ja tartuntaa epäiltiin 121:llä ihmisellä.
+Australia kielsi maahantulon kaikilta Manner-Kiinasta matkustavilta ulkomaalaisilta.
+Saksan kansalaisia Wuhanista evakuoinut lentokone teki välilaskun Helsinki-Vantaalle, koska Venäjä esti välilaskun Moskovassa.
+Kiinan sisäministeriö kehotti epidemian takia kansalaisia perumaan hääjuhlat, mikäli vihkimispäiväksi on suunniteltu suosittu "020220" eli 2.
+helmikuuta 2020.
+Ministeriö kehotti pitämään myös hautajaiset pienimuotoisina ja toimittamaan hautajaisseremoniat nopeasti.
+Koronavirukseen kuolleen ruumis on määräysten mukaan polttohaudattava.
+Pääministeri Li Keqiang on pyytänyt tilanteeseen apua EU-mailta lääketarvikkeiden hankkimiseen.
+WHO:n mukaan matkustusrajoitukset eivät ole tarpeen.
+Apple ilmoitti sulkevansa myymälänsä toistaiseksi Kiinassa.2.
+helmikuuta Kuolintapauksia oli vahvistetusti 304 ja vahvistettuja tartuntoja 14 500.
+Ensimmäinen kuolema Kiinan ulkopuolella vahvistettiin Filippiineillä.
+Uusi-Seelanti asetti matkustusrajoituksia.
+Kiina eristi yhdeksän miljoonan asukkaan Wenzhoun kaupungin itärannikolla Zhejiangin maakunnassa.
+Vain yksi kotitalouden jäsen saa liikkua kotinsa ulkopuolella joka toinen päivä välttämättömien asioiden hoitamiseksi.
+Hubein maakunnassa noin 1 100 sairastuneen tila oli vakava ja 444:n kriittinen.3.
+helmikuuta vahvistettuja tartunnan saaneita oli 17 200, kuolleita oli vahvistettu 362.
+Kiinan ulkoministeri Hua Chunying pyysi saada lisää hengityssuojaimia, suojapukuja ja turvalaseja Kiinaan.
+Kiinassa yli 300 miljoonaa ihmistä oli ohjeistettu pitämään hengityssuojainta.4.
+helmikuuta vahvistettuja kuolleita oli 425, tartuntoja oli vahvistettu yli 20 000.5.
+helmikuuta Kiinasta oli raportoitu 490 kuolemaa ja yli 24 300 tartuntaa.
+Hongkongissa jopa 7 000 terveydenhuollon työntekijää lakkoili Kiinan rajan sulkemisen puolesta.
+Japanin edustalla Carnival's Diamond Princess -risteilijällä todettiin COVID-19 kymmenellä ihmisellä.6.
+helmikuuta kuolemantapausten määrä Kiinassa nousi edellispäivästä 73 tapauksella.
+Kiinassa kuolemia oli vahvistettu 563, tartuntoja oli yli 28 000.
+Diamond Princess -aluksella oli havaittu 20 tartuntaa.7.
+helmikuuta Kiinassa ainakin 31 000 ihmistä oli saanut tartunnan, ja kuolonuhreja oli ollut yli 630.
+Vastasyntyneellä vauvalla oli todettu koronavirustartunta Wuhanissa Kiinassa.
+Diagnoosi tuli vain 30 tuntia syntymän jälkeen.
+Diamond Princess -aluksella oli vahvistettuja tartuntoja 61.
+Laivan 3 700 ihmistä asetettiin karanteeniin.8.
+helmikuuta kuolemantapauksia oli 805, tartuntoja oli lähes 37 200.
+Kaikki kuolemantapaukset olivat Manner-Kiinassa lukuun ottamatta yhtä kuolemaa Hongkongissa ja yhtä Filippiineillä.
+Venäjän valtiontelevisio vihjasi, että koronavirus on Yhdysvaltain kehittämä biologinen ase, jolla Kiinan talous yritetään saada polvilleen.9.
+helmikuuta COVID-19:ta oli kuollut enemmän ihmisiä kuin SARS:iin kuoli maailmanlaajuisesti vuosituhannen alussa.
+Kuolemantapauksia oli 904, tartuntoja yli 40 000.
+Kaikki kuolintapaukset olivat Manner-Kiinassa lukuun ottamatta kahta kuolemaa Hongkongissa ja Filippiineillä.10.
+helmikuuta eräiden kiinalaisten tutkijoiden mukaan viruksen itämisaika voi olla jopa 24 päivää – 10 päivää pidempi aika, kun aikaisemmin pisimmäksi mahdolliseksi itämisajaksi oli ajateltu.
+Kiina ilmoitti, että 8,2 prosenttia koronaviruspotilaista on parantunut.
+Vielä kaksi viikkoa aiemmin parantumisprosentti oli Kiinan mukaan vain 1,3.
+Kuolintapauksia oli 910, tartuntoja yli 40 000.
+Filippiinejä ja Hongkongia lukuun ottamatta kaikki kuolintapaukset olivat Manner-Kiinassa.11.
+helmikuuta kuolintapauksia oli 1 016, ja Maailman terveysjärjestö antoi 2019-nCo-viruksen aiheuttamalle taudille nimen COVID-19.
+Kansainvälinen virusluokituskomitea (ICTV) antoi virukselle uuden nimen, SARS-CoV-2 (eng.
+severe acute respiratory syndrome coronavirus 2), jota komitea suosittelee käytettävän nimen 2019-nCoV sijaan.
+Nimi tulee viruksen perimän samankaltaisuudesta SARS:ia aiheuttavan viruksen eli SARS-CoV:n kanssa.
+39 uutta tapausta "Diamond Princess" -luksusristeilijällä Japanissa.12.
+helmikuuta COVID-19:ta kuolleita oli 1115.
+Kaikki kuolemat olivat yhä Manner-Kiinassa Filippiinejä ja Hongkongia lukuun ottamatta.
+Virustartuntoja oli yli 45 000 maailmanlaajuisesti.13.
+helmikuuta vahvistettuja virustartuntoja oli yli 60 000.
+Tautiin oli kuollut yli 1 360 ihmistä.
+Tartuntamäärät olivat jopa 10-kertaistuneet yhden vuorokauden aikana, ja uusia tartuntoja oli jopa 15 000.
+Tähän vaikuttaa osaltaan Hubein terveyskomission uusi diagnoosimääritys COVID-19-taudille.
+Hubein maakunnassa diagnoosiin riittää nyt keuhkokuvat.
+Tämä diagnoosimenetelmä on kuitenkin käytössä vain Hubein maakunnassa.
+Muualla diagnoosi vaatii edelleen nukleiinihappotestin positiivisen tuloksen.
+EU-maiden terveysministerit kokoontuivat Brysseliin hätäkokoukseen.
+Suomea edusti peruspalveluministeri Krista Kiuru.
+Hän sanoi että Suomi varautuu tautitapauksiin ”kaikilla keinoilla”.
+Suomessa sosiaali- ja terveysministeriö määritteli COVID-19-taudin yleisvaaralliseksi tartuntataudiksi.
+Julkisuuteen tuli tieto että Finnair aloittaa 600 kaukoliikennelentäjää koskevat määräaikaisten lomautusten yt-neuvottelut koronaviruksen vuoksi.
+44 uutta tapausta "Diamond Princess" -luksusristeilijällä Japanissa.14.
+helmikuuta Yhdysvallat aloitti flunssaoireista kärsivien testaamisen koronaviruksen varalta.
+Egyptissä todettiin ensimmäinen tartunta Afrikassa.15.
+helmikuuta Ranskassa todettiin ensimmäinen Aasian ulkopuolinen kuolemantapaus, kun kiinalaisturisti kuoli COVID-19:ta.
+67 uutta tapausta "Diamond Princess" -luksusristeilijällä Japanissa.
+Vahvistettuja tartuntoja oli kokonaisuudessaan 67 191, joista vakavasti sairastuneita oli noin 11 000.
+Epäiltyjä tapauksia Kiinassa oli noin 8 900.
+Viruksesta oli tervehtynyt maailmanlaajuisesti lähes 8 100 ihmistä, ja siihen oli kuollut 1 527.16.
+helmikuuta 70 uutta tapausta "Diamond Princess" -luksusristeilijällä Japanissa, yhteensä tartuntoja risteilijällä oli 355.
+Useat maat olivat kertoneet evakuoivansa kansalaisiaan laivalta.
+Viime päivien aikana virustartuntoja oli todettu edellistä päivää vähemmän, mutta maailman terveysjärjestö WHO:n mukaan virusepidemian leviämistä on vielä mahdotonta ennustaa.
+Järjestön asiantuntijat olivat yhä erittäin huolissaan Kiinan kasvavasta tartuntamäärästä.17.
+helmikuuta 85 uutta tapausta "Diamond "Princess" -aluksella Japanissa, yhteensä tartuntoja risteilijällä oli nyt 454.18.
+helmikuuta 88 uutta tapausta "Diamond Princess" -risteilijällä Japanissa, yhteensä tartuntoja aluksella oli nyt 542.19.
+helmikuuta Iranissa todettiin maan kaksi ensimmäistä tapausta.
+"Diamond Princess" -aluksella todettiin 79 uutta koronavirustartuntaa, yhteensä tartuntoja aluksella oli nyt 621.
+Osa matkustajista oli jo siirretty kotimaihinsa, ja terveeksi todetut päästettiin poistumaan laivalta.
+Viruksen aiheuttamaan COVID-19-tautiin oli kuollut vahvistetusti yli 2000 ihmistä, joista kuusi Manner-Kiinan ulkopuolella.20.
+helmikuuta 13 uutta tapausta "Diamond Princess" -aluksella, yhteensä tartuntoja oli nyt 634.
+Etelä-Koreassa seitsemäs Manner-Kiinan ulkopuolinen kuolintapaus.
+Etelä-Koreassa nopeaa tartuntojen nousua.21.
+helmikuuta Israelissa ja Libanonissa vahvistettiin ensimmäiset tartunnat.
+Tartuntoja ilmeni tiuhaan Etelä-Koreassa, Italiassa ja Iranissa.
+Italiassa aloitettiin rajuja toimenpiteitä viruksen leviämisen estämiseksi yli kymmenessä kaupungissa.
+Maailman terveysjärjestö WHO sanoi olevansa huolissaan Kiinan ulkopuolella ilmenneistä uusista koronavirustapauksista.Ukrainassa protestoijat hyökkäsivät Kiinasta evakuoitujen ihmisten bussikuljetuksia vastaan.
+Viime päivien aikana tartuntoja oli todettu edellistä vähemmän, 21.
+helmikuuta Hubein maakunnassa uusia tartuntatapauksia todettiin 400,  mutta kuolemantapaukset ovat pysyneet yhtä korkeina.
+Maailman terveysjärjestö WHO:n mukaan on liian aikaista ennustaa tartuntojen kehityskulkua.
+Vahvistettuja COVID-19-tapauksia oli maailmanlaajuisesti vahvistettu 77 270, joista vakavasti sairastuneita oli 11 684.
+Kiinassa epäiltyjä tapauksia oli 5 206.
+Viruksesta oli tervehtynyt yli 18 300 ihmistä, ja siihen oli kuollut vahvistetusti 2 250.22.
+helmikuuta Uusi tutkimus vahvistaa että myös oireettomat viruksen kantajat voivat tartuttaa tautia muihin ihmisiin.
+Oireettomia viruksen kantajia on myös vaikeampaa diagnisoida.
+Pohjois-Italian Lombardiassa on uusien koronavirustartuntojen vuoksi eristetty 50 000 ihmistä, eivätkä he saa poistua kotoaan.
+Tietoa siitä, miten Pohjois-Italian tartunnat on saatu, ei ole.
+WHO:n pääjohtaja on erittäin huolissaan leviämisestä ja uusista tartuntatapauksista, joilla ei tiettävästi ole mitään yhteyttä Kiinaan.
+”Mahdollisuudet viruksen hillitsemiseen vähenevät”, hän totesi.23.
+helmikuuta Italiassa määrättiin uusia karanteenitoimia.
+Italian WHO-edustaja arvosteli Italiaa siitä, että Kiinasta maahan palanneita italialaisia kuljettaneet koneet eivät saaneet laskeutua Italiaan.
+Sen vuoksi koneissa mukana olleet kulkivat muihin maihin laskeutuneista koneista vaihtoehtoisia reittejä Italiaan, ja yksi palaajista oli sairastunut uuteen koronavirukseen.
+Muiden maiden käyttämät karanteenit olivat toimineet paremmin.24.
+helmikuuta virus levisi viiteen uuteen maahan yhden päivän aikana, joista valtaosaan Iranin kautta.
+Maailman terveysjärjestö WHO:n mukaan on varauduttava maailmanlaajuiseen pandemiaan.
+Järjestön mukaan suurinta huolta herättää viruksen nopea leviäminen Etelä-Koreassa, Italiassa ja Iranissa.
+Juuri nyt on WHO:n mukaan keskityttävä koronaviruksen maailmanlaajuisen leviämisen hillitsemiseen.25.
+helmikuuta virus levisi neljään uuteen maahan: Itävaltaan, Kroatiaan, Sveitsiin ja Algeriaan.
+Ainakin Itävallassa ja Krotiassa tartunnan saaneet olivat vierailleet Iranissa.
+Etelä-Koreassa yli 970 tartuntatapausta, enemmän kuin missään muualla Kiinan ulkopuolella.
+Maa aikoo testata monta kymmentä tuhatta ihmistä viruksen varalta.
+Suomessa sosiaali- ja terveysministeriö asetti työryhmän tukemaan Suomen varautumista koronavirukseen ja hallitus ilmoitti kokoontuvansa seuraavana päivänä puimaan Suomen varautumista koronavirukseen.
+WHO:n ja Kiinan yhteisen koronamission johtaja tohtori Bruce Aylwardin mukaan valtioiden pitää olla valmiita vastaamaan koronavirukseen nopeasti, ja hän kehotti maailman valtioita varustautumaan koronaviruksen varalta esimerkiksi riittävällä määrällä sairaalasänkyjä ja hengityskoneita sekä valmistelemaan eristettäviä alueita.
+Yhdysvaltain terveysviranomaisten mukaan maan kansalaisten tulee varautua viruksen laajempaan leviämiseen maan sisällä.26.
+helmikuuta sairastuneita todettiin seitsemässä uudessa maassa: Brasiliassa, Kreikassa, Pakistanissa, Pohjois-Makedoniassa, Georgiassa, Norjassa ja Romaniassa.
+Suomessa joitakin koronavirusepäilyjä, ja Suomen toinen koronavirustapaus vahvistettiin.
+THL:n asiantuntija Jussi Sanen mukaan koronavirustapauksia tullee lisää myös Suomeen.
+"Diamond Princess" -risteilyalukselta päästettiin edellisen viikon aikana 970 ihmistä pois koronavirustestien osoittauduttua negatiivisiksi.
+Myöhemmin useiden on havaittu tosiasiassa kantavan virusta.
+Saksan terveysministerin mukaan maahan on muodostumassa koronavirusepidemia, eikä kaikkia tartuntaketjuja kyetä enää jäljittämään.
+Yhdysvaltain terveysviranomaisten mukaan viruksen muodostuminen epidemiaksi maassa on vain ajan kysymys, ja kansalaisten tulisi aloittaa varautuminen tähän.
+Yhdysvaltain tautikeskuksen CDC:n apulaispääjohtajan mukaan on todennäköistä, että koronaviruksesta tulee pandemia.27.
+helmikuuta neljässä uudessa maassa – Virossa, Tanskassa, Alankomaissa ja San Marinossa – todettiin ensimmäiset tartunnat.
+Japani sulki alakoulut, yläkoulut ja lukiot koronaviruksen leviämisen hillitsemiseksi.
+Suomessa lukuisia uusia koronavirusepäilyjä koko maassa.
+Suomi varustautuu vastaamaan laajempaan epidemiaan.
+Todennäköisesti tartunnat alkavat yleistyä jollakin alueella Suomessa.
+Tartuntariski on Suomessa pieni.
+Suomessa on varauduttu siihen, että iso osa väestöstä sairastuu.
+Pahimmissa arvioissa 10 prosenttia Suomen kansasta saattaisi sairastua, joista 14-15 prosenttia voisi tarvita muuta hoitoa kuin kotihoitoa.
+Australia ilmoitti pitävänsä koronavirusta pandemiana.28.
+helmikuuta viidessä uudessa maassa – Liettuassa, Valko-Venäjällä, Alankomaissa, Nigeriassa ja Uudessa-Seelannissa todettiin maiden ensimmäiset koronavirustartunnat.
+Japanissa Hokkaidō julisti poikkeustilan ja Sveitsi kielsi kaikki yli tuhannen hengen yleisötapahtumat.
+Suomessa todettiin kolmas koronavirustartunta.
+Ranskan terveysministerin mukaan maassa on epidemia, ja nyt tavoitteena on viruksen leviämisen hidastaminen epidemian torjunnan sijaan.
+WHO nosti viruksen globaalin riskiluokituksen "erittäin korkeaksi", joka on korkein mahdollinen taso.
+Seuraava askel on pandemiajulistus.
+Maailman terveysjärjestön mukaan virus saattaa levitä useimpiin – ellei kaikkiin – maihin.29.
+helmikuuta uusia tartuntoja vahvistettiin neljässä uudessa maassa, Qatarissa, Ecuadorissa, Luxemburgissa ja Irlannissa.
+Saksa ja Ranska kielsivät suuret yleisötapahtumat.
+Yhdysvalloissa on alkamassa epidemia.
+1. maaliskuuta tartuntoja vahvistettiin kolmessa uudessa maassa: Armeniassa, Tšekissä ja Dominikaanisessa tasavallassa.
+Helsingissä 130 tartunnalle altistunutta asetettiin karanteeniin.
+Helsinki avasi neuvontapuhelun, johon koronasta huolestuneet voivat soittaa.2.
+maaliskuuta yhdeksässä maassa vahvistettiin ensimmäiset tartunnat.
+Pääkaupunkiseudulla todettiin uusi koronavirustartunta.
+EU nosti koronaviruksen riskiarvion tasolle "korkea", kun se oli aiemmin "kohtalainen".
+WHO vie 100 000 koronavirustestiä ja 15 000 suojavarustetta terveydenhuollon työntekijöille Iraniin.
+Kiinan ulkopuolella raportoitiin viimeisen vuorokauden aikana yhdeksän kertaa niin paljon koronavirustartuntoja kuin Kiinassa.
+Lääkeyhtiö Pfizer kertoi löytäneensä mahdollisen lääkkeen koronaviruksen hillitsemiseksi.
+Lääkettä voitaisiin testata tämän vuoden loppupuolella.3.
+maaliskuuta neljässä maassa – Ukrainassa, Argentiinassa, Liechtensteinissa ja Chilessä vahvistettiin ensimmäiset tartunnat.
+THL luokitteli koko Italian koronaviruksen epidemia-alueeksim, kun aikaisemmin vain osa Pohjois-Italiaa käsitettiin epidemia-alueeksi.
+Ulkoministeriö kehotti välttämään matkustamista Pohjois-Italiaan.
+Finnair peruu kaikki lennot Milanoon.
+Ranskan viranomaiset ilmoittivat hankkivansa kaikki hengityssuojavarastot ja lähikuukausien tuotannon.
+Ranska sulki noin 120 koulua alueilta, joissa on todettu eniten koronavirusta.
+Koronavirustartuntoja on yhteensä yli 90 000.4.
+maaliskuuta neljä aluetta: Puola, Unkari, Slovenia ja Färsaaret vahvistivat ensimmäiset tartunnat.
+Italia sulkee koko maan koulut viruksen leviämisen rajoittamiseksi.
+Saksan terveysministerin mukaan koronavirus on "maailmanlaajuinen pandemia".
+WHO ei ole vielä julistanut virusta pandemiaksi.5.
+maaliskuuta kolme maata: Palestiina, Bosnia ja Hertsegovina ja Etelä-Afrikka vahvistivat ensimmäiset tartuntansa.
+Suomessa vahvistettiin 5 uutta koronavirustapausta, yhteensä tapauksia oli todettu Suomessa tällöin 12.6.
+maaliskuuta seitsemässä maassa - Bhutanissa, Kamerunissa, Serbiassa, Vatikaanissa, Perussa, Slovakiassa ja Togossa vahvistettiin ensimmäiset tartunnat.
+Tanska kielsi yli tuhannen hengen yleisötapahtumat.
+Suomessa vahvistettiin 3 uutta koronavirustapausta, yhteensä tapauksia oli 15.
+Sairastuneiden lukumäärä on nyt yli 100 000.7.
+maaliskuuta Bulgariassa, Moldovassa, Paraguayssa, Malediiveillä ja Maltalla, siis viidessä maassa todettiin ensimmäiset tartunnat.
+Terveyden ja hyvinvoinnin laitos kertoi, että Suomessa tartuntojen määrä oli noussut 19:ään neljän uuden tartunnan myötä.8.
+maaliskuuta uusia tartuntoja todettiin kahdessa maassa: Albaniassa ja Bangladeshissä.
+9. maaliskuuta Kyproksella, Bruneissa, Burkina Fasossa ja kanaalisaarilla todettiin ensimmäiset tartunnat.
+Suomessa todettiin 8 uutta tartuntaa, yhteensä tartuntoja oli 33.
+Koko Italia on julistettu hätätilaan, ja koko valtiossa laajoja rajoituksia.
+CNN kutsuu virusta uutisissaan tästedes pandemiaksi.11.
+maaliskuuta WHO julisti epidemian pandemiaksi.
+Suomessa oli tunnistettu 61 tartuntaa.12.
+maaliskuuta THL luopui epidemia-alueiden määrittelystä, ja arvioi koronavirustartunnan saamisen riskin olevan mahdollista koko Euroopassa ja muualla maailmassa.
+Suomessa oli vahvistettu 109 tartuntaa.
+Maailmanlaajuisesti sairastuneita oli yli 134 tuhatta, ja kuolleita oli lähes 5 000.
+Parantuneita oli noin 69 tuhatta.
+Tartuntojen lukumäärä lisääntyy voimakkaammin kuin koskaan aiemmin, ja kiihtyy entisestään.
+Hyvin monet maat ovat sulkeneet kouluja ja julkisia palveluja.
+Suomi kielsi yli 500:n ihmisen julkiset kokoontumiset, ja kehottaa kansalaisia välttämään turhaa liikkumista ja harrastetoimintaa.
+Hallitus arvioi, että 35 % suomalaisista sairastunee koronavirukseen.
+Italiassa yli 1000 kuollutta.
+Yhdysvallat katkaisi lentoyhteydet Manner-Eurooppaan.20.
+maaliskuuta Koronaviruspandemia aiheutti ensimmäisen kuolemantapauksen Suomessa.
+Tällöin Suomessa oli vahvistettu noin 500 tartuntaa.
+MERS (lyhenne eng. sanoista Middle East Respiratory Syndrome eli Lähi-Idän hengitysoireyhtymä) on hengitystieinfektio, jonka aiheuttaa MERS-koronavirus eli MERS-CoV.
+Kuolleisuus MERS:iin on noin 35% Maailman terveysjärjestön mukaan.
+Tauti on usein tappava iäkkäille ja pitkäaikaissairaille, mutta on hengenvaarallinen myös nuorille.MERS tarttuu ainakin dromedaareista ihmisiin ja ihmisistä ihmisiin.
+Se tarttuu ihmisistä ihmisiin huonosti ja tartunnan saaminen vaatii sairaan lähellä oleskelua.
+MERS:in ensioireet ilmenevät usein 5–7 päivän kuluttua tartunnasta ja harvoin jopa 12 päivän kuluttua.
+Yleisiä ensioireita ovat muun muassa kuumeisuus, kuiva yskä, kylmänväristykset, kurkkukipu ja hengenahdistus.
+Oireet voivat pahentua muutamassa päivässä johtaen esimerkiksi keuhkokuumeeseen.
+Vakavimmillaan voi ilmetä esimerkiksi äkillinen hengitysvaikeusoireyhtymä.
+Taudin kesto riippuu iästä ja pitkäaikaissairauksista.
+Kesto voi olla viikoista kuukausiin.MERS-CoV löydettiin 2012.
+Se on sittemmin aiheuttanut paikalliseksi jääneitä epidemioita, joissa muutamia kymmeniä tai korkeintaan satoja ihmisiä on sairastunut MERS:iin.MERS:iin ei ole rokotetta tai siihen tehoavaa erityishoitoa.
+Virus omaa lipidikuoren, jonka sisällä on viruksen noin 30 kiloemäspäria (kb) pitkä perimä.
+Kuoreen on upottautunut viruksen perimän koodaamia proteiineja, kuten useita tappimaisia spike-proteiineja.
+Ihmisissä virus tarttuu spike-proteiinien avulla sopivan solun solukalvossa oleviin CD26- eli DPP4-reseptoreihin.
+Näitä reseptoreita on muun muassa useissa epiteelin soluissa, kuten keuhkoissa, ja immuunijärjestelmän soluissa.
+Sitten virus päätyy klatriinivälitteisesti endosytoosilla kalvorakkulan sisällä soluun ja viruksen perimä vapautuu solulimaan.
+Virus voi päätyä soluun sulauttamalla lipikalvonsa solukalvoon, mutta tämä vaatii termodynaamisessa mielessä paljon energiaa ja on siksi epätodennäköinen tartuntatapa.
+Solu monistaa viruksen perimää ja tuottaa siitä proteiineja uusiin viruksiin, jotka poistuvat solusta eksosytoosilla.
+MERS-CoV:n alkuperää ei tiedetä.
+Se on ehkä kehittynyt jossakin lepakkolajissa.
+Merkittävänä väli-isäntäeläimenä toimivat kuitenkin dromedaarit, joista virus voi tarttua ihmisiin.
+Tiettävästi ensimmäiset MERS-tapaukset ihmisillä ilmenivät 19.4.2012 Jordanian Zarqassa sairaalassa, jolloin 13 potilasta ja terveydenhuollon työntekijää sairastui tautiin.
+2 heistä kuoli.
+Virus tarttuu sairaalta ihmiseltä terveelle kosketustartuntana tai pisaratartuntana.
+Virus ei tartu helposti ja vaatii läheisen kontaktin sairastuneeseen, kuten tilanteen, jossa terve hoitaa sairasta ilman sopivia varotoimia ja suojavälineitä.
+Riski sairastua on suuri esimerkiksi terveydenhuollon työntekijöillä ja potilailla sekä perheiden sisällä.
+Virus tarttuu myös eläimiltä ihmisiin, mutta tartuntatapoja ei tunneta hyvin.
+Dromedaarit ovat ainoita eläimiä, joiden tiedetään voivan tartuttaa viruksen ihmisiin.
+MERS:in ensioireet ilmenevät usein 5–7 päivän kuluttua tartunnasta ja harvoin jopa 12 päivän kuluttua.
+Yleisiä ensioireita ovat kuumeisuus, kylmänväristykset, kurkkukipu, kuiva yskä ja hengenahdistus.
+Muita ensioireita ovat muun muassa nenän tukkoisuus, kurkun limaisuus, vinkuva hengitys, rintakipu, lihaskipu, päänsärky ja pahoinvointi.
+Ensioireet voivat pahentua muutamassa päivässä.
+Taudin pahenemisen yhteydessä ilmeneviä oireita ovat korkea kuume, sydämen tiheälyöntisyys ja matala verenpaine.
+Ripuli on yleisin ruuansulatusjärjestelmän oire.
+Sitä potee noin 7–26% vakavasti sairaista.
+Lisäksi voi ilmetä oksentelua ja vatsakipua.
+Kaikilla sairailla ei ilmene keuhkokuumetta.
+Osa voi ehkä olla myös täysin oireettomia koko tartunnan ajan.Vakavissa tai kuolemaan johtaneissa tapauksissa on ilmennyt useimmin munuaisten vajaatoimintaa, shokki tai keuhkojen toiminnan pettäminen eli äkillinen hengitysvaikeusoireyhtymä.
+Taudin kesto riippuu sairastuneen iästä ja pitkäaikaissairauksista.
+Esimerkiksi 33:stä sairaalaan päätyneestä potilaasta, joiden hoito ei vaatinut hengityskoneen käyttöä, tauti kesti lähes kaikilla enintään 21 päivää.
+Hengityskonetta edellyttäneet olivat sairaalassa 19–70 päivää.
+Maailman terveysjärjestön mukaan kuolleisuus MERS:iin on noin 35% laboratoriovarmennettujen tapausten perusteella.
+Arvio voi olla liian suuri, sillä osa sairastuneista voi potea taudin lievänä, eikä heidän tautiaan siksi havaita ja testata.Vanhuksilla, heikentyneen immuunijärjestelmän omaavilla ja tiettyjä pitkäaikaissairauksia potevilla on suurin riski kuolla MERS:iin.
+Esimerkkejä näistä sairauksista ovat munuaisten vajaatoiminta, syöpä, keuhkojen vajaatoiminta ja diabetes.Erään tutkimuksen mukaan pitkäaikaissairauksia potemattomilla kuolleisuus MERS:iin oli 15–20% 0–29-vuotiailla, 25–30% 30–49-vuotiailla, 35% 50–59-vuotiailla, 40% 60–69-vuotiailla ja 46% yli 70-vuotiailla.
+Tutkimus kattoi 1743 varmennettua tapausta ja siinä oli pyritty poistamaan pitkäaikaissairauksien vaikutus kuolleisuuteen.
+Muissa tutkimuksissa, joissa pitkäaikaissairauksien vaikutusta ei ole yritetty poistaa, kuolleisuus on iäkkäillä ollut huomattavasti korkeampi, jopa 84% yli 70-vuotiailla, sillä iäkkäistä monet potevat pitkäaikaissairauksia.
+Tietyt pitkäaikaissairaudet, kuten diabetes, ovat yleisiä esimerkiksi Saudi-Arabiassa, jossa pääosa MERS-tapauksista on todettu.
+Taudin ja pitkäaikaissairauksien alueellinen rajoittuminen voivat siten vääristää pelkkään ikään perustuvan kuolleisuuden arviointia.Vain muutamia tapauksia tunnetaan, joissa raskaana oleva nainen on saanut MERS:in.
+Tiedetään ainakin yksi tapaus, jossa MERS:iin sairastunut nainen sai keskenmenon.
+Maailman terveysjärjestön mukaan vuoden 2012 huhtikuusta vuoden 2019 joulukuuhun mennessä tartuntoja on maailmanlaajuisesti varmistettu 2502, kuolemia on 861 ja tartuntoja on todettu 27:ssä maassa.
+Vuosien 2012 ja 2019 välillä Saudi-Arabiassa on ilmennyt noin 2000 MERS-tapausta, Etelä-Koreassa noin 200, Arabiemiraateissa 87, Jordaniassa 28, Omanissa 24 ja Qatarissa 19.
+Muualla, muun muassa Euroopassa ja Yhdysvalloissa, on ilmennyt vain muutamia tapauksia.
+Suomessa ei ole ilmennyt yhtäkään tapausta.
+Kuvia tai muita tiedostoja aiheesta MERS Wikimedia CommonsissaTerveyden ja hyvinvoinnin laitos: MERS-Koronavirus
+HUS: toimintaohjeet, MERS-koronavirusinfektion (Middle East Respiratory Syndrome) epäily
+Maailman terveysjärjestö: Middle East respiratory syndrome coronavirus (MERS-CoV)
+M/S Diamond Princess on Princess Cruisesin omistama loistoristeilijä.
+Laiva on rekisteröity Bermudalle.
+Diamond Princessin rakensi Mitsubishi Heavy Industries Nagasakissa, Japanissa, vuosina 2002-2003.
+Risteilijä aloitti toiminnan marraskuussa 2004, ja se toimii lähinnä Aasiassa pohjoisen pallonpuoliskon kesällä ja Australiassa eteläisen pallonpuoliskon kesällä.
+Aluksen piti alunperin olla nimeltään Sapphire Princess.
+Kuitenkin toisen samalla telakalla rakenteilla olleen aluksen, jonka piti alunperin olla nimeltään Diamond Princess, rakennus viivästyi aluksella riehuneen rankan tulipalon vuoksi.
+Koska vaurioituneen aluksen valmistuminen viivästyi, sisaralus, joka oli samanaikaisesti rakennuksen alla uudelleennimettiin nykyiselle nimelleen Diamond Princess.
+Uuden koronaviruksen vahvistettiin levinneen risteilyalukselle 4.
+helmikuuta 2020.
+Aluksessa oli 3.
+maaliskuuta mennessä eniten vahvistettuja tapauksia (705) kuin missään valtiossa lukuun ottamatta Kiinaa, Irania, Italiaa ja Etelä-Koreaa.
+20. tammikuuta 80-vuotias matkustaja Hongkongista nousi alukseen Yokohamassa, ja lähti aluksesta takaisin Hongkongiin 25. tammikuuta.
+1. helmikuuta, kuusi päivää aluksesta lähtemisen jälkeen hän vieraili Hongkongilaisessa sairaalassa, jossa vahvistettiin hänen sairastavan COVID-19:ta.
+Aluksen tuli lähteä Yokohamasta seuraavalle risteilylleen 4.
+helmikuuta, mutta ilmoitti viivästymisestä samana päivänä päästääkseen japanilaisia viranomaisia seulomaan ja testaamaan aluksella olevia matkustajia ja henkilökuntaa tartunnan varalta.
+4. helmikuuta viranomaiset ilmoittivat kymmenen aluksella olevan saaneen tartunnan, risteilyn peruuntuvan ja että alus asetetaan karanteeniin.
+Kokonaisuudessaan 3 700 matkustajaa ja miehistön jäsentä asetettiin Japanin terveysministeriön toimesta karanteeniin Yokohaman satamaan ajaksi, jonka aluksi ajateltiin 14 vuorokautta.
+7. helmikuuta aluksella olevien vahvistettujen tartuntojen määrä oli 61.
+3 uutta tapausta todettiin 8.
+helmikuuta, nostaen vahvistettujen tartuntojen määrän 64:ään.
+9. helmikuuta tartuntoja oli vahvistettu 70, ja 10.
+helmikuuta mennessä tartuntoja oli vahvistettu 135.
+11. helmikuuta tartuntoja oli 174.
+12. helmikuuta aluksella ei vahvistettu uusia tartuntoja; yksi karanteenivirkailijoista oli saanut tartunnan, mutta sitä ei laskettu mukaan aluksen vahvistettujen tartuntojen määrään.
+13. helmikuuta 67:n uuden ihmisen vahvistettiin saaneen tartunnan, nostaen tartuntojen määrän 218:ta.
+14. helmikuuta uusia tartuntoja ei vahvistettu.
+15. helmikuuta tartuntoja oli 285, 16.
+helmikuuta 355, 17.
+helmikuuta 454, joista 33 oli miehistön jäseniä; 18.
+helmikuuta vahvistettuja tartuntoja oli 542, ja 19.
+helmikuuta 621, 20.
+helmikuuta 634.
+21. helmikuuta uusia tapauksia ei vahvistettu aluksella, mutta alukselta lähteneillä tartuntoja vahvistettiin 21, kokonaisuudessaan alukseen liittyviä tartuntoja oli vahvistettu 655.
+Tapauksia ei laskettu mukaan aluksen tartuntamäärään.
+22. helmikuuta alukselta lähteneiltä tartuntoja vahvistettiin 4, aluksella uusia tartuntoja ei vahvistettu.
+Tartuntoja ei laskettu mukaan aluksen tartuntamäärään.
+23. helmikuuta aluksella oli vahvistettu 691 tartuntaa.
+24. helmikuuta Hongkongissa vahvistettiin tartunnat seitsemällä aluksella matkustaneella.
+Tapauksia ei laskettu mukaan aluksen tartuntamäärään.
+25. helmikuuta viidellä aluksella matkustaneella todettiin tartunnat, niitä ei laskettu aluksen tartuntamääriin.
+Ensimmäinen kuolemantapaus aluksella.
+26. helmikuuta aluksella vahvistettiin 14 tartuntaa,  yhteensä tartuntoja oli aluksella 705, joista ainakin 150 oli miehistön jäseniä.
+Aluksella ei todettu uusia tartuntoja, ja 1.
+maaliskuuta mennessä kaikki matkustajat ja miehistön jäsenet olivat poistuneet alukselta.Kentaro Iwata, tartuntatautien asiantuntija Kōben yliopistossa, vieraili aluksella, ja hän kritisoi 18.
+helmikuuta voimakkaasti tilanteen hallintaa.
+Hän kutsui Diamond Princessiä "COVID-19 myllyksi".
+Hän sanoi, että virukselle mahdollisesti altistuneet alueet eivät olleet mitenkään eristetty virukselta vapaista alueista, tartunnan estämisen menetelmissä oli lukuisia laiminlyöntejä, ja ettei tartunnan estämisessä ollut yhtäkään ammattilaista johdossa – byrokraatit johtivat kaikkea.
+Japanin viranomaiset kiistivät syytökset.
+COVID-19 (lyhenne sanoista Coronavirus disease 2019) on sairaus, jonka aiheuttaa koronavirus SARS-CoV-2.
+Virus on aiheuttanut vuoden 2019 lopulta alkaneen koronaviruspandemian.21.
+maaliskuuta 2020 mennessä tartuntatapauksia on maailmanlaajuisesti todettu noin 285 000, sairauteen on kuollut ainakin 12 000 henkeä, siitä on parantunut noin 94 000 ja virus on levinnyt ainakin 186:een maahan.COVID-19:n yleisimmät oireet ovat kuume, kuiva yskä, väsymys, yskökset ja hengitysvaikeudet.
+Tauti voi aiheuttaa osalle sairastuneista muun muassa keuhkokuumeen, joka voi johtaa vaaralliseen äkilliseen hengitysvajausoireyhtymään.Maailman terveysjärjestön mukaan kuolleisuus COVID-19-tautiin on keskimäärin 3,4 prosenttia.
+Tauti on hengenvaarallinen eritoten iäkkäille ja pitkäaikaissairaille.
+Se voi olla vaarallinen myös nuoremmille.
+Yhdysvaltain tautikeskuksen mukaan esimerkiksi noin 14–21 prosenttia 20–44-vuotiaista tartunnan saaneista vaatii sairaalahoitoa ja 2–4 prosenttia tehohoitoa.
+11. helmikuuta 2020 mennessä Kiinassa ilmenneessä 72 000:ssa tautitapauksessa yli 80-vuotiailla kuolleisuus tautiin oli noin 15 prosenttia ja 10–39-vuotiailla 0,2 prosenttia.Mediaaniaika tartunnasta oireiden ilmenemiseen on 3 päivää, mutta taudin itämisaika voi olla lyhyempi tai pidempi.
+Siksi Suomessa suositeltu karanteeniaika on 14 päivää oireettomille, joilla epäillään olevan tartunta.
+COVID-19:n parantuminen voi kestää noin 8–37 päivää oireiden ilmenemisen jälkeen.
+Tartunta voi tosin osalla olla oireeton.COVID-19 on määritelty Suomessa yleisvaaralliseksi tartuntataudiksi.
+Suomen ensimmäinen COVID-19-tapaus todettiin Rovaniemellä 29.
+tammikuuta 2020 Saariselällä lomailleella ja sittemmin parantuneelta kiinalaisturistilta.
+Suomen ensimmäinen tartunta suomalaisella todettiin Uudellamaalla Milanosta palanneelta naisella 26.
+helmikuuta 2020.
+SARS-CoV-2 tarttuu ensisijaisesti pisaratartuntana ja kosketustartuntana sairastuneen yskiessä tai aivastaessa.
+Esineiden pintojen osuus kosketustartuntojen kohdalla on merkittävää lähinnä sairaaloissa, joissa on paljon COVID-19:ää potevia.
+Virus voi siirtyä tällaiselta pinnalta esimerkiksi käsiin ja koskettaessa käsillä sitten silmiin, nenään tai suuhun, virus voi siirtyä niiden kautta kehoon aiheuttaen taudin.Ei tiedetä, että tarttuuko virus käytännössä ulosteen kautta, mutta tätä pidetään epätodennäköisenä.
+Aikuinen saattaa saada viruksen oireettomalta lapselta esimerkiksi vaipan vaihdon yhteydessä, jonka riskiä pienentää käsien pesu.
+Virus ei tartu normaalisti käsitellystä hanavedestä.
+Verenluovutus ei tiettävästi levitä virusta, mutta taudin oireiden ilmeneminen tai lähikontakti sairastuneeseen on este luovuttamiselle.Virus säilyy Yhdysvaltalaistutkimuksen perusteella 2–3 vuorokautta muovilla ja ruostumattomalla teräksellä tartuttamiskykyisenä.
+Kartongilla tarttumiskyky säilyi vuorokauden ajan, ja kuparilla neljä tuntia.
+Viruksen tarttumiskykyisenä pinnoilla säilymisestä ei voida vetää johtopäätöstä sen tarttumiskykyyn niistä, sillä viruksen määrä romahtaa pinnoilla nopeasti, eikä tartuttavaa virusannosta tunneta.
+Saman tutkimuksen mukaan SARS-CoV-2 voi levitä usean tunnin ajan aerosoleina ilmassa.
+Arkielämään se ei vaikuta, ja tarttumisriski syntyy lähinnä terveydenhuollon toimenpiteissä, kuten intuboinnissa.Ei ole varmaa voivatko SARS-CoV-2-tartunnan aiemmin saaneet saada tartunnan uudelleen.
+Tällaisia tapauksia on todettu, mutta ne ovat voineet johtua virheellisistä mittauksista.
+Potilaalla on tällaisessa tapauksessa esimerkiksi ehkä voitu todeta tartunta virheellisesti ja hän on "parantumisen" jälkeen sitten myöhemmin oikeasti saanut tartunnan.Oireeton viruksen kantaja voi tartuttaa taudin muihin.
+On epäselvää, miten suuri merkitys oireettomilla tartuttajilla on epidemian leviämisessä.
+Raskauden aikana ilmenneitä COVID-19 tapauksia on tutkittu vain vähän.
+Kuten MERS:n tai SARS:n aiheuttavien virusten kohdalla, COVID-19:n aiheuttava virus ei näytä tarttuvan odottavalta äidiltä sikiöön tai vastasyntyneeseen lapseen, joka on syntynyt normaalisti tai keisarinleikkauksella.
+Äidin sairaus kuitenkin voi kasvattaa vastasyntyneen riskiä syntyä keskosena ja heikentää syntymän jälkeistä terveydentilaa.
+Eri maiden terveydenhuollon ammattijärjestöistä tai muista järjestöistä osa suosittelee rutiininomaisesti erottamaan COVID-19 -tartuntaa potevan äidin ja vastasyntyneen vauvan fyysisesti toisistaan, jottei vauvakin saa tartuntaa.
+Osa järjestöistä ei suosittele tätä toimenpidettä.
+Terveyden ja hyvinvoinnin laitos ei ole esittänyt suositusta vastasyntyneen ja sairaan äidin erottamista vastaan tai sen puolesta.
+Mediaaniaika tartunnasta oireiden ilmenemiseen on 3 vuorokautta.
+Ääritapauksissa oireet voivat kuitenkin ilmetä 0–24 vuorokauden kuluttua tartunnasta.
+Terveyden ja hyvinvoinnin laitos suosittelee seuraamaan 14 vuorokauden ajan tartuntahetkestä lukien henkilöä, jonka epäillään saaneen tartunta.
+Suomessa kunnan tai sairaanhoitopiirin lääkärin on mahdollista asettaa henkilö karanteeniin seuranta-ajaksi.
+Maailman terveysjärjestön mukaan SARS-CoV-2-tartuntaa poteva tartuttaa keskimäärin 1,4–2,5 henkilöä.
+Tätä arvoa sanotaan perusuusiutumisluvuksi eli R0-arvoksi.
+Tutkijat ovat kuitenkin esittäneet arvosta useita eri arvioita, jotka ovat vaihdelleet välillä 1,4–7,23.
+Hyvä keino välttää virustartuntaa on jatkuva ja huolellinen käsien pesu saippualla.
+Jos pesumahdollisuutta ei ole, voi käyttää käsihuuhdetta.
+Jos käsihuuhdetta käytetään, sitä tulisi käyttää melko runsaasti ja sen pitäisi antaa kuivua tarpeeksi kauan niin, että se alkaa vaikuttaa.
+Alkoholipitoiset desinfiointiaineet voivat myös kuivattaa ihoa, jolloin iho alkaa halkeilla.
+Saippua on käsihuuhdetta tehokkaampi tartunnan ehkäisemisessä, koska se hajottaa tehokkaasti viruksen lipidikerroksen eli rasvakuoren.Terveyden ja hyvinvoinnin laitos (THL) ohjeistaa pesemään kädet aina seuraavissa tilanteissa, ainakin 20 sekunnin ajan:
+ulkoa sisään tullessa
+ennen ruoan laittoa ja ruokailua
+WC-käynnin tai vaipan vaihdon jälkeen
+niistämisen, yskimisen tai aivastamisen jälkeen
+kun on koskenut samoja pintoja kuin flunssainen henkilö.Lisäksi ei pidä kosketella silmiä, nenää tai suuta ellei ole juuri pessyt käsiään.
+Pintojen siivoamisen kannalta tavanomaiset siivousaineet tehoavat THL:n mukaan hyvin SARS-CoV-2:teen.
+THL suosittelee suu-nenäsuojuksen käyttöä terveydenhuollon ammattilaisille, COVID-19:ää potevien lähikontakteille, kuten samassa taloudessa asuville ja tautiin mahdollisesti sairastuneille, jotka joutuvat liikkumaan julkisilla paikoilla ja saattavat olla läheisessä kontaktissa toisiin henkilöihin.Terveydenhuollon työntekijöille, jotka käsittelevät COVID-19-potilaita, Euroopan tautienehkäisy- ja -valvontakeskus suosittelee FFP3- tai vähintään FFP2-suodattimella varustettua suun ja nenän peittävää suojainta.
+Suodattimella varustamattomat suojaimet, kuten kirurgin maskit, eivät suojaa käyttäjää tartunnalta.
+Suojaimen kanssa tulee myös käyttää vähintään suojalaseja tai kasvot peittävää kasvosuojaa/visiiriä, käsineitä (esimerkiksi lateksi tai nitriili) ja vettä hylkivää pitkähihaista kaapua.
+Suomen ulkoministeriö suosittelee Kiinassa olevia välttämään eläinkontakteja, toreja joilla myydään eläviä tai kuolleita eläimiä elintarvikkeiksi sekä kypsentämätöntä tai huonosti kypsennettyä lihaa, pastöroimattomia maitotuotteita ja niistä valmistettuja tuotteita sekä pesemättömiä vihanneksia ja hedelmiä.Lentokentillä tehtävät maahantulo- ja maastalähtötarkastukset eivät ole olleet tehokkaita tartuntatautien tunnistamisessa toistaiseksi kertyneen tutkimusnäytön perusteella.Lapsia ei tule viedä sairaana päiväkotiin eikä lähettää sairaana kouluun.
+Terveyden ja hyvinvoinnin laitoksen (THL) mukaan pelkästään oireiden perusteella ei voi päätellä, onko hengitystietulehduksen aiheuttaja SARS-CoV-2 vai joku muu virus tai bakteeri.Maailman terveysjärjestö on julkaissut COVID-19-taudin toteamiseen lukuisia testimenetelmiä ja kaupallisesti saatavia tuotteita on myytävänä.
+Testauksessa hyödynnetään geeninmonistusmenetelmää (PCR tai RT-PCR).
+Testit voidaan suorittaa veri- tai hengitystienäytteillä.
+Tulokset saadaan 90 minuutissa, muutaman tunnin tai muutaman päivän aikana riippuen käytetystä menetelmästä.
+Maailmalla on tarjolla useamman valmistajan kaupallisia pikatestejä, ja niitä 2.
+maaliskuuta 2020 uutisoidun tiedon mukaan tulossa myös Suomeen.
+Tartunta on kuitenkin vaikeampi todeta tapauksissa, joissa sairastunut on oireeton.
+Tällaisissa tapauksissa myös negatiivisen tuloksen saanut voi todellisuudessa kantaa virusta.
+COVID-19:n oireet vaihtelevat oireettomuudesta vakavaan keuhkokuumeeseen ja jopa kuolemaan.
+Pitkäaikaissairailla ja iäkkäillä oireet ovat olleet pahimpia.
+Nuorilla ja lapsilla oireet ovat yleensä olleet lieviä.
+Eräs taudin vakavissa tapauksissa ilmenevä komplikaatio on äkillinen hengitysvaikeusoireyhtymä, joka on ilmennyt noin viikon kuluttua osalla sairaalahoitoon päätyneistä potilaista.
+Muita vakavia komplikaatioita ovat muun muassa sydänlihasvaurio, verenkiertoshokki tai munuaisvaurio.72 000:ssa Kiinassa varmennetussa tautitapauksessa sairastuneista noin 81 prosentilla oireet olivat lieviä, 14 prosentilla vakavia ja 5 prosentilla kriittisiä.
+Näillä lievästi sairailla ilmeni lievä keuhkokuume, tai ei lainkaan keuhkokuumetta.
+Kriittisissä tapauksissa ilmeni esimerkiksi vakavaa keuhkojen vajaatoimintaa tai verenmyrkytys.
+Vakavasti sairastuneilla keuhkoihin jää todennäköisesti pysyviä vaurioita.
+Käytännössä se näkyy niin, että ihminen hengästyy helpommin, eli keuhkojen hengityskapasiteetti pienenee.
+Hengitysteihin voi tulla myös kudosvaurioita, jotka altistavat uusille hengitystieinfektioille.
+Eräässä kiinalaisessa tutkimuksessa Wuhanissa tarkasteltiin 191 potilasta, jotka olivat keskimäärin 56-vuotiaita (ikäjakauma 46–67 vuotta).
+Potilaat olivat päätyneet tai hakeutuneet COVID-19:n takia sairaalaan.
+Parantuminen kesti 8–37 päivää ja sairauden mediaanikesto oli 22 päivää.
+Sairauteen kuoli 54 henkilöä ja kuolleilla taudin mediaanikesto oli 18,5 päivää.
+Taudin alkamishetkeksi laskettiin aika, jolloin potilaat päätyivät sairaalaan ja parantumiseksi se, kun heillä ei ollut havaittavissa eritteissään enää viruksen RNA:ta.
+Parantuneilla kuume kesti 12 päivää (päivät 0–12 taudin alkamisesta), yskä 19 päivää (päivät 0–19), hengenahdistus 13 päivää (päivät 7–19) ja he olivat tehohoidossa 6,5 päivää (päivät 11,5–18).
+Taudin eteneminen voidaan jakaa kolmeen vaiheeseen:
+Virus tunkeutuu keuhkojen soluihin ja alkaa tuhota niitä.
+Seurauksena keuhkoihin alkaa muodostua nestettä, joka johtaa hengitysvaikeuksiin.
+Ihmisen immuunijärjestelmä käynnistyy ja aloittaa vastaiskun.
+Elimistössä olevat virukset voivat tuhoutua ja ihminen tervehtyy.
+Immuunijärjestelmä saattaa kuitenkin käydä myös terveiden solujen kimppuun, jolloin keuhkokuume pahenee ja nesteen kertyminen kiihtyy.
+Keuhkoihin syntyy vaurioita.
+Potilaiden keuhkoihin voi syntyä reikiä niin, että ne muistuttavat hunajakennoa.
+Potilas tarvitsee hengityskonetta.Virukseen reagoiva immuunijärjestelmä saattaa vaurioittaa erityisesti sisäelimiä, jolloin maksa, munuaiset tai perna eivät toimi normaalisti, ja veriarvot heikkenevät.
+Myös itse virus saattaa levitä sisäelimiin.
+Jos se pääsee verenkiertoon, varsinkin verta käsittelevät maksa ja munuaiset ovat vaarassa.
+Nuorilla ja lapsilla COVID-19:n oireet ovat yleensä olleet lievät.
+Sairaus on kuitenkin erityisen tappava iäkkäille ja pitkäaikaissairaille.
+Terveyden ja hyvinvoinnin laitoksen mukaan COVID-19 voi olla vakava eritoten yli 70-vuotiaille, sydämen tai keuhkojen toimintaa heikentävää sairautta poteville ja niille, joilla immuunijärjestelmä on heikko.
+Esimerkkejä edeltävistä ovat vaikea sydänsairaus, vaikea keuhkosairaus, elinvaurioin oireileva diabetes, krooninen munuaisten vajaatoiminta, vastustuskykyä heikentävä tauti, kuten lymfooma tai leukemia, ja vastustuskykyä heikentävät hoidot, kuten kortisonihoito.
+Päivittäinen tupakointi ja sairaalloinen ylipaino, jossa painoindeksi on yli 40, saattavat myös lisätä COVID-19:n oireiden vakavuutta.
+Hyvin hoidettua astmaa tai diabetesta potevilla lapsilla vakavien oireiden riski ei ole merkittävä, mutta elinten vajaatoimintaa tai vastustuskykyä heikentävä lääkitys tai tauti voivat lisätä lasten riskiä kuolla COVID-19:ään.Maailman terveysjärjestön 3.
+maaliskuuta 2020 antaman ilmoituksen mukaan kuolleisuus COVID-19:ään oli 3,4 prosenttia.
+11. helmikuuta 2020 mennessä Kiinassa todetun noin 72 000 COVID-19 -tapauksen kohdalla kuolleisuus 10–39-vuotiailla oli 0,2 %, 40–49-vuotiailla 0,4 %, 50–59-vuotiailla 1,3 %, 60–69-vuotiailla 3,6 %, 70–79-vuotiailla 8,0 % ja yli 80-vuotiailla 14,8 %.
+Tämä Kiinan tautikeskuksen (CCDC) tutkimus kattoi 419 alle 10-vuotiasta henkilöä, joiden kohdalla ei todettu kuolintapauksia.
+Tutkimuksen kaikkien ikäryhmien keskimääräinen kuolleisuus oli miehillä 2,8 prosenttia ja naisilla 1,7 prosenttia.Samassa CCDC:n tutkimuksessa kuolleisuus virustartuntaan oli 10,5 % jotakin sydän- ja verisuonitautia potevilla, 6,3 % diabeetikoilla, 6,3 % jotakin kroonista hengityselinsairautta potevilla, 6,0 % korkeaa verenpainetta potevilla ja 5,6 % syöpää potevilla.
+Virustartunnan saaneista keski-ikäisistä ja hieman vanhemmista noin joka neljäs voi joutua sairaalaan ja joka kymmenes voi vaatia tehohoitoa (taulukko).
+Huomattavaa on myös se, että 20–44-vuotiaista joka kymmenes voi vaatia sairaalahoitoa.
+Nämä ovat Yhdysvaltain tautikeskuksen 18.
+maaliskuussa 2020 esittämiä tuloksia, jotka pohjautuvat 4226:teen virukseen sairastuneeseen yhdysvaltalaiseen.Todellista kuolleisuutta SARS-CoV-2-tartuntaan on hankala arvioida, sillä monet tartunnan saaneista potevat tautia lieväoireisina kotonaan ilmoittautumatta viranomaisille vakavammin oireilevien tapausten taas tullessa viranomaisten tietoon.
+COVID-19:ta hoidetaan Terveyden ja hyvinvoinnin laitoksen (THL) mukaan taudinkuvasta riippuen joko kotona tai tarvittaessa sairaalassa.
+Hoidossa tulee kiinnittää huomiota hoitohenkilökunnan asianmukaiseen suojautumiseen.
+Virusta vastaan ei ole rokotetta.Jos epäilee sairastuneensa, tulee THL:n mukaan toimia seuraavasti:
+Jos oireesi ovat lievät etkä kuulu riskiryhmään, lepää ja sairasta rauhassa kotona, kunnes oireesi ovat loppuneet.
+Soita terveyskeskukseen, jos sinulle tulee vakavia oireita, kuten hengenahdistusta, ja yleistilasi heikkenee.
+Jos kuulut riskiryhmään, soita pikaisesti terveyskeskukseen, jos sinulle nousee äkillinen kuume (38 °C tai yli) ja sinulla on kurkkukipua tai yskää.
+Riskiryhmiä ovat yli 70-vuotiaat, pitkäaikaissairauksia sairastavat ja tupakoijat.Kliinisen fysiologian erikoislääkäri, erikoisprofessori Anssi Sovijärvi kehottaa lopettamaan tupakoinnin välittömästi, koska se voi lisätä riskiä sairastua koronavirukseen sekä pahentaa oireita.
+Erityisen haitallista tupakointi on riskiryhmiin kuuluville eli yli 70-vuotiaille ja niille, joilla on perussairauksia.
+Sovijärven mukaan tupakoinnin lopettaminen parantaa vastustuskykyä jo parissa päivässä.
+Hän suosittelee lopettamiseen nikotiinivalmisteita ja myös uusia, vieroitusoireita helpottavia reseptilääkkeitä.
+Monia eri proteaasin estäjiä, kuten oseltamiviiriä, ja nukleotidijohdannaisia, kuten ribaviriiniä, on kokeiltu, kokeillaan ja on ehdotettu kokeiltavan hoitona SARS-CoV-2:ta vastaan.
+Nämä lääkeaineet hidastavat virusten monistumista.
+Toistaiseksi nämä hoidot ovat kokeellisia.
+Lääkkeistä monet ovat esimerkiksi HIV-lääkkeitä tai kehitetty aiemmin yksinomaan SARS:ia aiheuttavaa SARS-CoV:ta tai MERS:iä aiheuttavaa MERS-CoV:ta vastaan.
+Lisäksi on kehitetty muun muassa SARS:ia tai MERS:ia aiheuttavien koronavirusten helikaasien estäjiä ja spike-proteiiniin sitoutuvia aineita.
+Jälkimmäiset estävät viruksia siirtymästä soluihin.
+Näitäkin kokeillaan hoitona SARS-CoV-2:ta vastaan.Kiinassa ja Italiassa on kokeiltu tosilitsumabia (tuotenimi Actemra), joka on tarkoitettu nivelreuman hoitoon ja joka estää interleukiini IL-6:n toimintaa.
+Potilaiden tilassa on havaittu selkeää paranemista 24–48 tunnin kuluttua hoidon aloittamisesta.
+Kiinassa on toivottu, että lääke voisi pysäyttää sytokiinien vapautumisoireyhtymän (cytokine release syndrome) eli "sytokiinimyrskyt".
+Kiinassa on käynnissä 5.
+toukokuuta saakka jatkuva tosilitsumabi-tutkimus, johon on tarkoitus osallistua 188 SARS-CoV-2-koronaviruspotilasta.Alustavien kiinalaisten ja ranskalaisten tutkimustulosten perusteella malarian hoitoon käytetyt hydroksiklorokiini ja klorokiini saattavat sopia COVID-19:n hoitoon.
+Sveitsiläinen Novartis-lääkeyhtiö ilmoitti 20.
+maaliskuuta lahjoittavansa 130 miljoonaa annosta hydroksiklorokiinia, jos lääke hyväksytään hoitomuodoksi.
+Ranskalaisessa 25 potilaan tutkimuksessa, jota ei ole toistaiseksi arvioitu tieteellisin metodein eikä julkaistu, kolme neljäsosaa potilaista on kerrottu parantuneen.
+Kiinassa on, tai on ollut, käynnissä 25 tutkimushanketta aiheesta.
+Niistä ainakin yhdessä 100 potilaan tutkimuksessa on saatu viitteitä lääkkeen mahdollisesta tehosta.
+Osa tutkijoista on varoittanut, että tutkimusta tehosta koronavirusta vastaan tarvitaan vielä paljon lisää.Suomalaisen Faron Pharmaceuticalsin ARDS-oireyhtymän lääke Traumakine tehostaa keuhkojen toimintaa, ja saattaisi pelastaa SARS-CoV-2-tartunnan vuoksi tehohoitoon joutuneita.
+Fimean mukaan lääkettä ei voi ottaa käyttöön ennen uutta, laajaa henkilöillä tehtyä faasi III:n tutkimusta.Kokeellisissa hoidoissa on viruslääkkeiden lisäksi käytetty antibiootteja potilaiden tilaa heikentävien toissijaisten bakteeritartuntojen hoitoon tai ennaltaehkäisyyn.
+Kortikosteroideja, kuten metyyliprednisolonia, on kokeiltu vakavasti sairailla virustartunnan keuhkokuumeen aiheuttamilta keuhkovaurioilta suojaavina lääkkeinä.
+Kortikosteroidien käyttö on kiistanalaista, sillä ne voivat liian suurin annoksin tai pitkään käytettynä aiheuttaa omia haittavaikutuksiaan ja lisätä potilaiden kuolleisuutta.
+SARS-CoV-2-rokotteen eläinkokeet on aloitettu useissa maissa, muun muassa Isossa-Britanniassa ja Kiinassa.
+Lupauksiin rokotteen valmistumisesta jopa vain vuoden päästä kannattaa suhtautua varauksella, sillä yleensä rokotteiden kehittämisessä kestää keskimäärin 10 vuotta.Saksalainen CureVac on valmis aloittamaan lähetti-RNA:han perustuvan rokotteensa kliiniset kokeet kesällä 2020.Yhdysvaltain kansallisen terveysinstituutin NIH:n rahoittamassa rokotehankkeessa kliiniset kokeet on aloitettu 45 vapaaehtoisella.
+Moderna Therapeutics -yhtiön koerokote on nimeltään mRNA-1273, ja myös se perustuu lähetti-RNA:han.Israelilainen Migal on kehittänyt vuosien ajan rokotetta kanojen korona­virukseen, ja säätää laitteitaan käsittelemään SARS-CoV-2-virusta.
+Yhtiö on lupaillut tuloksia jo viikoissa, mutta rokotteen pitää ennen markkinoille tuloa läpäistä kliiniset testit ja saada viranomaisten hyväksyntä.Rokotekehitystä on myös muun muassa Etelä-Koreassa.
+Koronavirus numeroina - tämänhetkiset tilastot (suomeksi) - Monikielinen portaali tiedottaa yleisölle koronavirus tartunnan leviämisestä
+Koronaviruspandemia 2019–2020 on joulukuussa 2019 kiinalaisesta Wuhanin kaupungista alkanut pandemia.
+Sen aiheuttaa uusi koronavirus SARS-CoV-2, joka aiheuttaa COVID-19-nimistä tautia.
+COVID-19 on määritelty Suomessa yleisvaaralliseksi tartuntataudiksi.Maailman terveysjärjestö WHO julisti epidemian pandemiaksi 11.
+maaliskuuta 2020.
+Viruksen uskotaan leviävän suurimpaan osaan maailman väestöstä, ellei sen leviämistä onnistuta pysäyttämään.Tautiin ei ole lääkettä tai rokotetta.
+Noin 80 prosenttia sairaustapauksista on lieviä.
+COVID-19 kehittää noin 14 prosentissa tapauksista vakavia keuhko-oireita ja noin viidessä prosentissa kriittisen tilan.
+Toisaalta esimerkiksi Italiassa 16 prosenttia koronatestillä varmennetuista sairastuneista on vaatinut tehohoitoa.
+Sairaus on vaarallisin iäkkäille ja pitkäaikaissairaille, mutta voi aiheuttaa vakavia oireita nuorille aikuisillekin..
+maaliskuuta 2020 antaman ilmoituksen mukaan koronavirustaudin kuolleisuus olisi keskimäärin 4,2  prosenttia.
+Se voi olla huomattavasti tätä korkeampi tai matalampi hoidon laadusta, iästä, muista sairauksista, sairastumisalueesta ja muista tekijöistä riippuen.
+Niinpä kuolleisuus on yleensä välillä 0,2–14,8 prosenttia.19.
+maaliskuuta 2020 mennessä tartuntatapauksia oli vahvistettu yli 324 064:lla ihmisellä, sairauteen kuolleita oli 13 782 ja parantuneita 96 006.
+Suomessa oli 22.
+maaliskuuta 2020 vahvistettu 626 tartuntatapausta, mutta todellinen luku lienee 20–30 kertaa suurempi.Terveyden ja hyvinvoinnin laitos ilmoitti 12.
+maaliskuuta 2020 tartunnan saamisen olevan mahdollista useimmista Euroopan maista.
+Tuolloin maanosassa tartuntoja oli eniten Italiassa, Ranskassa, Espanjassa ja Saksassa.
+Myös Pohjoismaissa oli satoja tartuntoja.
+SARS-CoV-2 tunnetaan myös aiemmilla nimillä 2019-nCo-virus (lyhenne 2019-nCoV, eng. 2019-novel Coronavirus, "2019 uusi koronavirus").
+SARS-CoV-2 on seitsemäs tunnettu ihmiseen tarttuva koronavirus.
+Muita ovat olleet SARSin aiheuttaja SARS-CoV ja MERSin aiheuttaja MERS-CoV sekä HCoV-OC43, HCoV-229E, HKU-NL63 ja HCoV-HKU1.
+Tutkijaryhmä arvioi The Lancetissa julkaistussa tutkimuksessa, että vuoden 2020 huhtikuun lopussa tai toukokuun alussa yhdessä Kiinan suurkaupungissa varmistuisi joka päivä 150 000 SARS-CoV-2 -tartuntaa.
+Ryhmä esitti kuitenkin, että arviot ovat ehkä liian pessimistisiä, koska ne perustuvat vain Wuhanin karanteenin onnistumiseen.
+Taudin esiintyvyys väestössä olisi huhtikuussa 2020 noin 35 tapausta tuhatta ihmistä kohti.
+Leviämisnopeuden perusteella 6.
+helmikuuta tartunnan saaneiden määrän arvioitiin kaksinkertaistuvan 4–6 päivässä.
+Maailman terveysjärjestö WHO:n neuvonantaja Ira Longini on esittänyt, että jopa kaksi kolmannesta maailman väestöstä, eli jopa 5,2 miljardia ihmistä voisi saada tartunnan.
+Hongkongin johtavan kansanterveyden epidemiologin mukaan koronavirus saattaisi tartuttaa jopa 60 prosenttia maailman väestöstä.
+Jos Kiinan toimenpiteet ovat osoittautuneet tehokkaiksi, muidenkin maiden tulisi hänen mukaansa harkita niitä.
+Ranska, Saksa ja Espanja näyttivät 10.
+maaliskuuta olevan tartuntamäärissä vain 9-10,5 päivää Italiasta jäljessä.THL:n johtava asiantuntija Jussi Sane sanoi 11.
+helmikuuta, että kaikenlaisilla kauhuskenaarioilla spekulointi on turhaa.
+Hänen mukaansa asiantuntijoita työllistää epidemian ohella ”infodemia”, erityisesti sosiaalisessa mediassa kiertävät villit analyysit taudin luonteesta.
+Suomessa oli 22.
+maaliskuuta mennessä vahvistettu 626 koronavirustapausta.
+Suomessa oli 16.
+maaliskuuta ollut yli 3 000 koronavirusepäilyä koko maassa.
+maaliskuuta eniten vahvistettuja tartuntoja ja kuolemia maailmassa.
+Kuolemantapauksia oli koronan vuoksi enemmän kuin Kiinassa.
+maaliskuuta yli 41 000 tartuntaa ja 3 000 kuolemaa.
+Vaikka maan terveydenhuoltojärjestelmä on kehittynyt, se ei ollut valmistautunut näin suureen määrään koronaviruspotilaita, ja koko terveydenhuolto uhkaa romahtaa.
+Ruumiita on yritetty lähettää kirkkoihin, mutta hautausta ei olla voitu järjestää, sillä ne on kielletty karanteenin takia.
+Sotilasajoneuvoja on otettu käyttöön kuljettamaan ruumiita pois.
+Polttohautauksen odotusaika on venynyt viikkoon, ja ruumishuoneet ja hautausmaat ovat täynnä.
+Italiassa varsinkin tehohoidon paikat ovat pahoin ruuhkautuneita, eikä kaikille riitä hengityskoneita.
+Tehohoidossa on paljon nuoria.
+Hoitopaikkojen pulan vuoksi lääkärit ovat joutuneet päättämään, hoidetaanko tehohoidossa 80- vai 45-vuotiasta, ja yleensä paikat menevät nuorille, koska heidän ennusteensa on parempi.
+Maa tarvitsee 20 000 uutta lääkäriä ja sairaanhoitajaa tehohoidon ruuhkien purkamiseen.
+Varsinaisen hoitotyön lisäksi henkilökunta joutuu miettimään joka päivä, kuinka uusille 50-70 keuhkokuumepotilaalle järjestetään tilaa.
+Sairaaloiden leikkausosastot on muutettu keuhkokuumepotilaiden hoitohuoneiksi.
+Terveydenhuoltojärjestelmää kuromittaa myös se, että koronapotilaiden kanssa kontaktissa ollessaan myös sairaaloiden henkilökuntaa sairaastuu.
+Hoitajien ja lääkärien kotikaranteeniin asettaminen pahentaa sairaaloioden jo heikkoa tilannetta ja resurssipulaa.Italialaisessa pikkukaupungissa onnistuttiin pysäyttämään koronaviruksen leviäminen, kun kylä testasi kaikki 3 300 asukasta koronaviruksen varalta riippumatta siitä, oliko heillä oireita vai ei.
+Alueella ei olla tämän jälkeen raportoitu uusia tapauksia.
+Monet tahot – muun muassa Maailman terveysjärjestö – korostavat, että laaja testaus on avain epidemiahallintaan rajoitustoimien ohella.
+THL:n johtaja Mika Salmisen mukaan se ei toimisi Suomessa, eikä hän ymmärrä WHO:n linjausta testaamisessa.
+Venäjällä oli 19.
+maaliskuuta todettu 199 tartuntaa (joista 1 kuollut), mikä on hyvin vähän.
+Kaikki Venäjän sairaaloiden keräämät koronavirusnäytteet on tutkittu vain yhdessä tutkimuslaitoksessa Siperiassa, ja asiantuntijat kuin myös osa maan kansanedustajista epäilevät sen menetelmää epätarkaksi.
+Näytteiden tuloksen saaminen kestää kauan ruuhkaantuneessa laitoksessa, ja aina analyysia ei ole toimitettu lainkaan.
+Venäjän kuluttaja- ja terveystarkastusviranomainen Rospotrebnadzor ei ole toistaiseksi myöntänyt muille laitoksille tutkimuslupaa siitä huolimatta.
+Näytteiden analysointilupia ollaan antamassa Vektorin lisäksi muillekin laitoksille.
+19. maaliskuuta mennessä näytteet analysoi valtiollinen Vektor-tutkimusjätti, joka perustettiin biologisten aseiden kehittämiseksi, joka loppui vasta 1992.
+Vektorin tutkimusnäytteiden tulokset ovat herättäneet epäilyksiä, sillä Vektor oli tutkinut 11.3.
+mennessä 76 963 näytettä, joista 28 oli osoittautunut positiivisiksi.
+Virusta löydettiin siis vain 0,036 prosentista tutkituista näytteistä.
+mennessä tutkitusta noin 116 000 näytteestä 0,09 %:sta löytyi virus, ja 19.3.
+mennessä virus löytyi 199/133000 tapauksesta . Luku on maailman alhaisin.
+Lääketieteelliseen tutkimukseen erikoistuneen venäläisen PCR-News-sivuston mukaan syynä ei ole se, että venäläiset lääkärit lähettäisivät tavallisilta kausi-influenssapotilailta näytteitä turhaan tutkittaviksi, vaan syynä on heidän mukaan Vektorin tutkimusmenetelmä, joka hyväksyttiin käytettäväksi helmikuussa Venäjän tarkastusviraston toimesta.
+Analytiikka jättää osan viruksista havaitsematta.
+Tämä "leikkaava" menetelmä otettiin käyttöön, koska testejä ja tuloksia piti saada nopeasti.
+Luvut herättävät epäilyksiä asiantuntijoiden lisäksi myös poliitikoissa.
+Sairaalat Moskovassa ja Pietarissa ovat täyttymässä, sillä kausi-influenssapotilaiksi kirjattuja, hengitysoireisia potilaita on runsas kolmasosa enemmän kuin viime vuonna samaan aikaan.
+Kiinassa tartunnat ovat vähenemään päin, ja yli 70 prosenttia 80 000:stä tartunnan saaneesta oli parantunut 11.
+maaliskuuta mennessä.
+Kiinassa ei todettu yhtäkään kotimaista tartuntaa 18.3.
+Euroopassa tartunnat ovat alkaneet viime aikoina kasvaa voimakkaasti, ja tartuntojen piikki on vasta edessä.
+Euroopassa oli todettu yli 100 000 tartuntaa 19.3., ja nyt Eurooppa on pandemian keskus.
+Kymmenen prosenttia maailman väestöstä oli 16.2.2020 jonkinasteisessa karanteenissa koronaviruksen vuoksi.
+Kiina kieltäytyi Maailman terveysjärjestön (WHO:n) avusta koronaviruksen taltuttamisessa helmikuun alussa.
+Kiina on kehittänyt mobiilisovelluksen, jolla käyttäjät voivat seurata omaa koronavirusriskiään.
+Sovellus kertoo käyttäjille, ovatko he olleet lähellä henkilöä, jolla on todettu tai jolla epäillään koronavirustartuntaa.
+Moni yhtiö laittoi työntekijänsä etätöihin karanteenin vuoksi.
+Kiina massadesinfioi seteleitä, mutta sen hyödyt jäivät pieniksi, sillä valtaosa kiinalaisista on siirtynyt käyttämään mobiilimaksuja.
+760 miljoonan ihmisen liikkumista oli rajoitettu ympäri Kiinaa 16. helmikuuta.
+Rajoitukset koskivat noin puolta maan asukkaista.
+Koronakaranteenien tiukkuus vaihteli alueittain.
+Joissakin paikoissa ihmisten ei annettu poistua kotoaan ollenkaan, joissakin rajoitettiin lähinnä kaupungista lähtemistä.
+Jotkut kaupungit veivät kontrolloinnin äärimmäisyyksiin: esimerkiksi Hangzhoussa ihmisiä ei paikoin päästetty lähtemään kotoaan edes lääkäriin.
+23. tammikuuta 2020 kaikki Hubein maakunnan Wuhanin kaupungin juna- ja lentoyhteydet, samoin kuin linja-auto-, metro- ja lauttayhteydet katkaistiin.
+Kaupungin yhdeksää miljoonaa asukasta kiellettiin poistumasta kaupungista.
+Kirjastot, museot ja teatterit peruuttivat kaikki tapahtumansa ja esityksensä.
+Lisäksi 23.
+tammikuuta Wuhanin tärkeimmät tiet suljettiin ja ihmisiä määrättiin käyttämään rangaistuksen uhalla hengityssuojaimia julkisissa paikoissa, kuten kauppakeskuksissa.Wuhanissa olevia KFC- ja Pizza Hut -ravintoloita oltiin 25.
+tammikuuta sulkemassa koronaviruksen leviämisen ehkäisemiseksi, samoin Hubein provinssin Starbucks-kahviloiden uutisoitiin pysyvän kiinni ainakin viikon ajan.Helmikuun alussa Kiinan viranomaisten kiersivät ovelta ovelle 11 miljoonan asukkaan Wuhanissa vieden asukkaita, joiden epäiltiin sairastuneen koronavirukseen väkisin karanteenileireille.
+Leirien olosuhteiden kerrottiin olevan huonot ja lääkehoidon mahdollisuudet heikot.
+Wuhanin kriisisairaaloita suljettiin potilasmäärän vähyyden vuoksi.
+10. maaliskuuta Hubein liikkumisrajoituksia löysennettiin niin, että mobiilisovelluksen avulla terveiksi vahvistetut ihmiset saavat matkustaa Hubein alueilla, joissa koronavirustartunnan riski on määritelty matalaksi tai keskiverroksi.
+tammikuuta eristettiin 70 kilometriä Wuhanin itäpuolella sijaitsevan 7,5 miljoonan asukkaan Huanggangin liikenneyhteydet.
+Wuhanin tavoin Ezhoussa suljettiin elokuvateatterit sekä nettikahvilat, ja päärautatieasema suljettiin 23. tammikuuta.
+Pekingissä torstaina 23.
+tammikuuta tärkeimmät kiinalaiseen uuteenvuoteen kuuluvat tapahtumat suljettiin viikonlopuksi ja temppeleiden perinteiset vuosimessut peruutettiin kahdeksi viikoksi ja monia turistinähtävyyksiä suljettiin.
+Suunnitellut uudenvuoden tapahtumat peruutettiin 25.
+tammikuuta ja 8.
+helmikuuta väliseksi ajaksi.Kiinan viranomaiset määräsivät eristystoimenpiteet itsenäisesti, vaikka Maailman terveysjärjestö ei ollut pitänyt niitä tarpeellisina.
+WHO:n johtaja Tedros Adhanom Ghebreyesus ilmaisi tyytyväisyytensä toimintaan, koska suuret ihmisjoukot ovat merkittävä riskitekijä.Kiina ilmoitti 25.
+tammikuuta lopettavansa ryhmämatkat ulkomaille ja maan sisällä.
+Lisäksi Kiina määräsi tarkastuksia julkiseen liikenteeseen koko valtion alueelle viruksen takia.
+Koronavirusepäilyjä tarkastetaan junien, lentokoneiden ja bussien matkustajilta erityisillä tarkastuspisteillä.
+Kiina on myös laajentanut matkustusrajoituksia viiteen uuteen kaupunkiin koronaviruksen leviämisen estämiseksi.
+Kaupunkien julkisen liikenteen yhteyksiä ja reittejä moottoriteille on suljettu.
+Kaikki maaliikenne Pekingistä oltiin katkaisemassa.Terveysviranomaiset edellyttävät, että kaikki Wuhaniin matkustaneet rekisteröityvät kunnallisilla terveysasemilla ja pysyttelevät kotonaan 14 päivän karanteenissa.Helmikuun alussa Kiinan viranomaiset kielsivät uhrien hautajaisten järjestämisen viruksen leviämisen estämiseksi.
+Virukseen kuolleet tulisi polttohaudata välittömästi lähellä kuolinpaikkaa.
+Lisäksi sairaaloiden jätevesien laskeminen eteenpäin ilman desinfiointia kiellettiin, koska kiinalaistutkijat ovat todenneet viruksen tarttuvan hengitystie-eritteiden lisäksi esimerkiksi oksennuksesta.
+Hongkongiin julistettiin hätätila koronaviruksen vuoksi 25. tammikuuta.
+Lennot ja junat Wuhanista Hongkongiin on peruttu, ja Kiinan mannermaalta tulijoiden tulee täyttää lomake terveydentilastaan.
+Koulut pidetään kiinni ja uudenvuoden loma-aikaa pidennetään 17.
+helmikuuta 2020 saakka, kun niiden oli tarkoitus loppua alun perin 30. tammikuuta.
+Hongkong ilmoitti peruvansa kaikki uuden vuoden juhlallisuudet.
+Hallintojohtaja Carrie Lam ilmoitti 3.
+helmikuuta, että kaikki maalla olevat ylityspaikat Kiinaan kahta siltaa lukuun ottamatta suljetaan.Suomen Lähetysseura on 8.
+helmikuuta uutisoidun tiedon mukaan päättänyt evakuoida viisi työntekijäänsä Hongkongista, perheenjäsenet mukaan lukien 12 henkilöä.
+Poissaolo jatkuu ainakin maaliskuun puoliväliin.
+Etelä-Korean metropolikaupunki Daegussa ihmisiä on kehotettu välttämään ulkona liikkumista.
+Kaupungin asukkaita on kehotettu käyttämään hengityssuojuksia myös sisätiloissa.
+Kaupungissa asuu 2,5 miljoonaa ihmistä.
+25. helmikuuta ilmoitettiin, että Daegussa aiotaan testata noin 30 000 ihmistä, joilla on flunssan kaltaisia oireita koronaviruksen varalta.
+Korealaisessa Shinjeonji-kirkossa, jossa noin 60 prosenttia maan koronatartunnoista on ilmennyt, aiotaan testata noin 200 000 ihmistä koronaviruksen varalta.
+Uskonlahko lupasi toimittaa viranomaisille kaikkien yli 200 000 jäsenensä nimet testausta varten.
+Museoita, ravintoloita ja julkisia tiloja on suljettu ja urheilutapahtumia on peruttu.
+Yhdysvallat ja Etelä-Korea siirsivät yhteisiä sotaharjoituksiaan.
+Sulkeutunut Pohjois-Korea eristäytyy koronaviruksen vuoksi entistä tiukemmin.
+8. helmikuuta uutisoitiin Pohjois-Korean armeijan hankkineen suuren määrän eteläkorealaisia kasvosuojia.
+Lähteiden mukaan maskeista ja pakkauksista on poistettu alkuperäiset merkinnät ja etiketit, jotta ne näyttäisivät kotimaisilta tuotteilta.
+Epidemia olisi eristäytyneessä ja terveydenhoidoltaan puutteellisessa Pohjois-Koreassa katastrofi.
+Maa peruutti nyt myös Pjongjangin maratonjuoksun, joka on Pohjois-Korean merkittävin matkailutapahtuma joka tuo maalle merkittävästi tuloja.
+Sen peruminen osoittaa, että koronaviruksen uhka otetaan maassa vakavasti.
+Maa on sulkenut rajat ja maahan saapuvat joutuvat 30 päivän karanteeniin.
+Valtion viranomaiset tekevät ovelta ovelle -periaatteella terveystarkastuksia.
+Kansalaisille annetaan hygieniaohjeita kaduilla ajavista pakettiautoista, joihin on asennettu kaiuttimet.
+helmikuuta maan alakoulut, yläkoulut ja lukiot.
+Intia keskeytti 28.
+helmikuuta viisumien myöntämisen eteläkorealaisille ja japanilaisille.
+Maan viranomaiset ovat asettaneet ihmisille, joilla epäillään tai on todettu COVID-19 maan sisäisiä matkustusrajoituksia.
+Perjantairukoukset monissa kaupungeissa on peruttu.
+Libanon kielsi 28.
+helmikuuta epidemia-alueilta (Kiina, Iran, Italia ja Etelä-Korea) tulevilta ulkomaalaisilta maahanpääsyn.
+Viranomaiset kehottavat asukkaita 21.
+helmikuuta lähtien pysyttelemään kotonaan yli kymmenessä kaupungissa, jotka on asetettu karanteeniin viruksen leviämisen estämiseksi.
+Julkiset tilat, kuten ravintolat ja koulut pidetään toistaiseksi kiinni, ja ainoastaan ruokakaupat ja apteekit saavat pitää ovensa auki.
+Urheilutapahtumia on myös peruttu.
+Toimet koskettavat kymmeniä miljoonia ihmisiä maan pohjoisosissa.
+maaliskuuta sulkevansa kaikki koulut ja yliopistot koko maassa.
+Italian hallitus pyytää kansalaisiaan pidättäytymään kädenpuristuksista ja poskisuudelmista koronaviruksen leviämisen ehkäisemiseksi.
+maaliskuuta laittavansa neljänneksen Italian väestöstä karanteeniin.
+10. maaliskuuta Italia laajensi karanteenia koskemaan koko valtiota.
+Ihmisiä kehotetaan pysymään kotonaan, ja sieltä saa poistua vain välttämättömille asioille.
+Koulut suljettu ainakin huhtikuun 3.
+päivään asti.
+Kaikki julkiset kokoontumiset ja urheilutapahtumat on peruttu.
+Museot, elokuvateatterit, pubit ja muut viihdepaikat on suljettu.
+28. helmikuuta Saksan viranomaiset ilmoittivat, että Heinsbergissä noin tuhat ihmistä on määrätty kotikaranteeniin, ja koulut ja päiväkodit on suljettu.
+Saksa vaatii kaikkia epidemia-alueilta (Kiinasta, Etelä-Koreasta, Japanista, Iranista ja Italiasta) tulevia luovuttamaan yhteystietonsa heidän liikkeidensä seuraamiseksi, jotta mahdollisten tartuntojen selvittäminen helpottuu.
+maaliskuuta terveydenhuollon suojavarusteiden viennin maasta.
+22. maaliskuuta kiellettiin kaikki yli kahden henkilön julkiset kokoontumiset.
+Samalla myös määrättiin suljettavaksi kampaamot, hierojat ja tatuointiliikkeet.
+Myös ravintolat suljetaan, vaikkakin ruoan kotiinkuljetus sallitaan yhä.
+Ranskan viranomaiset ilmoittivat 3.
+maaliskuuta hankkivansa haltuunsa kaikki hengityssuojainvarastot sekä lähikuukausien tuotannon.
+Suomen ulkoministeriö suositteli 8.
+maaliskuuta välttämään tarpeetonta matkustamista Kiinaan, Iraniin ja Italiaan, ja noudattamaan erityistä varovaisuutta Etelä-Koreassa.
+Suomen Terveyden ja hyvinvoinnin laitos (THL) laati epidemiaohjeistuksen, joka koskee koko Manner-Kiinan aluetta.
+Finnair keskeytti kaikki lennot Manner-Kiinaan.
+Sosiaali- ja terveysministeriö asetti 25.
+helmikuuta työryhmän tukemaan koronavirukseen varautumista yleisesti sosiaali- ja terveysalalla, ja lisäksi sen tehtävänä on tukea Terveyden ja hyvinvoinnin laitosta, Fimeaa, Valviraa, aluehallintovirastoa ja kuntien sekä kuntayhtymien viranomaisia näiden toiminnassa uhan torjumiseksi.
+Suomessa on suojavarusteita 400 000 terveydenhuollon ammattilaisen suojaamiseen.
+Pääministeri Sanna Marinin ja sosiaali- ja terveysministeri Aino-Kaisa Pekosen mukaan Suomi on varautunut hyvin.Eduskunta harkitsee äänestysten lykkäämistä, mikäli kansanedustajilla vahvistetaan koronavirustartuntoja.
+Suomi varautuu rajoittamaan liikkumista ja kokoontumisia.
+maaliskuuta 2020 suosituksen, että kaikki yli 500 henkilön yleisötapahtumat peruutetaan.
+Kouluja on suljettu, ja satoja on asetettu karanteeniin.Valtioneuvosto teki 16.
+maaliskuuta päätöksen valmiuslain käyttöönotosta.
+Samalla velvoitettiin yli 70-vuotiaat pysymään erillään muista ihmisistä.
+Seuraavana päivänä aluehallintovirastojen määräyksillä kiellettiin yli 10 henkilön kokoontumiset.
+Muun muassa teatterit, museot, elokuvateatterit ja uimahallit ohjeistettiin sulkemaan.
+Määräykset ovat voimassa 13.
+huhtikuuta saakka.
+Sveitsi kielsi kaikki yli tuhannen ihmisen yleisötapahtumat.
+Pienempien tapahtumien järjestäjien tulee tehdä riskiarviointi alueen viranomaisten kanssa, ja vasta sen jälkeen voidaan arvioida, voidaanko tapahtuma järjestää.
+Geneven autonäyttely peruttiin.
+Tšekissä suljettiin kaikki maan koulut yliopistoja lukuun ottamatta, ja kaikki yli sadan ihmisen yleisötapahtumat kiellettiin.
+Tšekissä oli tällöin todettu 40 koronavirustartuntaa eli saman verran kuin Suomessa.
+COVID-19 julistettiin Ruotsissa yleisvaaralliseksi tartuntataudiksi 1.
+helmikuuta 2020.
+Tämä antaa viranomaisille tavallista laajemmat oikeudet määrätä esimerkiksi karanteeneja ja eristyksiä.
+21. helmikuuta Moskovan kaupunki ilmoitti ottaneensa käyttöön kasvonjentunnistusteknologian estääkseen karanteenissa olevia rikkomasta ulkonaliikkumiskieltoa, ja kieltäneensä kaikilta Kiinan kansalaisilta pääsyn maahan.
+28. helmikuuta maa ilmoitti kieltävänsä myös Iranista ja Etelä-Koreasta tulevien maahantulon.
+Venäjä sallii omien kansalaistensa palaamisen Kiinasta, mutta nämä joutuvat kahden viikon karanteeniin.
+Venäjä kertoi 28.
+helmikuuta keskeyttävänsä viisumien myöntämisen Iranin kansalaisille.
+Maa myös ohjeisti kansalaisiaan olemaan matkustamatta Etelä-Koreaan, Iraniin ja Italiaan.
+Kiinassa äskettäin käyneet ulkomaalaiset eivät pääse Yhdysvaltoihin ja Wuhanista palaavat Yhdysvaltojen omat kansalaiset joutuvat kahden viikon karanteeniin.
+Kiina sanoo Yhdysvaltojen levittävän koronaviruspaniikkia, ja moittii Yhdysvaltoja siitä, ettei se ole tarjonnut Kiinalle todellista apua.
+San Francisco julisti hätätilan 26.2 koronaviruksen takia, vaikka kaupungissa ei oltu todettu ainoatakaan koronavirustartuntaa.
+Julistuksen tarkoituksena on parantaa kaupungin varautumista viruksen leviämiseen.
+Korean Air mittaa kaikkien Yhdysvaltoihin lentävien matkustajiensa ruumiinlämmön, ja yli 37,5 asteen tuloksen saaneet eivät pääse lennolle.Presidentti Donald Trump ilmoitti 12.
+maaliskuuta että Yhdysvallat kieltää matkustamisen Manner-Euroopasta 30 päiväksi.
+EU-valtiot eivät olleet saaneet etukäteen tietoa matkustusrajoituksista.
+Kiellolla on merkittäviä kielteisiä vaikutuksia eurooppalaisille lento- ja kuljetusyhtiöille.
+Aasian pörssit ja Yhdysvaltain osakefutuurit laskivat nopeasti ilmoituksen jälkeen.
+maaliskuuta presidentti julisti maahan poikkeustilan, jotta viruksen vastaisia toimia voitaisiin paremmin rahoittaa.
+Tällöin virus oli virallisesten tietojen mukaan levinnyt jo 46 osavaltioon.
+Australia varautuu sulkemaan kouluja sekä perumaan urheilutapahtumia, mikäli koronavirus alkaa levitä Australiassa.
+Muun muassa Yhdysvallat, Kanada, Japani, Singapore, Etelä-Korea, Indonesia, Australia ja EU ovat evakuoineet kansalaisiaan Kiinasta.
+Suomalaiset tulivat Eurooppaan jollakin EU-maan järjestämällä lennolla, sillä Suomi ei järjestänyt omia lentojaan.
+Wuhanin alueella oli 30.
+tammikuuta ulkoministeriön arvion mukaan 30–50 pohjoismaiden kansalaista.
+21. tammikuuta kerrottiin viruksen ydinalueen sairaaloilta loppuneen varusteet ja henkilökunta kesken.
+Tämän vuoksi monet sairaalat eivät olleet kyenneet diagnosoimaan koronavirustapauksia tarkasti, ja ne olivat diagnosoineet monia koronavirustapauksia "vakavaksi keuhkokuumeeksi".
+Monet, joilla oli viruksen taudinkuvaan sopivia oireita oli lähetetty kotiin sairaaloista pitkien jonotusaikojen ja ahtaiden olosuhteiden johdosta.
+Tämän vuoksi tutkijat arvioivat todellisten tapausten määrän olevan 5–10 kertaa virallisesti todettua suurempi tammikuussa 2020.
+Eräs tutkijaryhmä arvioi helmikuussa, että 19:sta tartunnan saaneesta vain yksi testattiin.
+Näiden ihmisten joukossa riski kuolla olisi lähes yksi viidestä.Kuukauden ajan joulukuun 8.
+päivästä 2019 17.
+tammikuuhun 2020, kaikki vahvistetut Manner-Kiinan tapaukset olivat Wuhanin kaupungista, vaikka samaan aikaan vahvistettuja tapauksia todettiin Japanissa ja Thaimaassa.
+Kiinalaisissa sosiaalisen median kanavissa vihjailtiin viranomaisten salailevan sairastuneiden todellisia lukumääriä.
+Virusta on leikkimielisesti kutsuttu "isänmaalliseksi", sillä se "tartuttaa muut maat, muttei omaamme (Kiinaa)".
+Viranomaisten kovat otteet herättävät vastustusta monien kiinalaisten keskuudessa.
+Hallitusta arvostelevia viestejä on ilmestynyt sosiaaliseen mediaan, mutta viranomaiset ovat sensuroineet niitä huolellisesti.
+Kiinalaisissa sosiaalisen median kanavissa julkaistiin lukuisia videoita sairaaloista, jotka on ylikuormitettu tuhansilla kuumeesta kärsivillä ihmisistä, ja ihmiset ovat kyseenalaistaneet Kiinan valtion antamia virallisia lukuja.
+Suuri osa videoista on kuitenkin valheita.
+Kiinalaisessa sosiaalisessa mediassa ihmeteltiin, miksi joka päivä raportoitujen uusien tartuntojen ja kuolleiden suhde on suunnilleen sama, hieman yli kaksi prosenttia.
+Virusta luonnehdittiin humoristisesti hyväksi matematiikassa.28.
+tammikuuta hongkongilaisten tutkijoiden Lancetissa julkaistun tutkimuksen avulla kävi ilmi, että SARS-CoV-2-tartuntoja oli havaittu aiemmin kuin Kiinan viranomaiset ovat kertoneet, eikä epidemia näytä olevan kytköksissä Huananin ruokatoriin Wuhanin kaupungissa yhtä tiiviisti, kuin Kiinan viranomaiset ovat antaneet ymmärtää.
+Lisäksi potilaat eivät ole niin suurelta osin iäkkäitä tai pitkäaikaissairaita kuin viranomaiset aluksi korostivat.
+On arvioitu, että virus on levinnyt Wuhanissa todellisuudessa paljon ennen joulukuuta, ehkä jo lokakuussa.
+Tutkimuksen mukaan tauti on tarttunut ihmisestä toiseen viimeistään tammikuun alkupäivinä, vaikka Kiina vahvisti näin tapahtuneen vasta 20.
+tammikuuta.Terveyden ja hyvinvoinnin laitoksen johtavan asiantuntijan Jussi Sanen mielestä kiinalaisten spekulaatiot siitä, että käärme olisi toiminut viruksen väli-isäntänä ennen sen siirtymistä ihmiseen ovat hyvä esimerkki siitä, miten epävarmojen tietojen perusteella on vedetty mutkia suoriksi.
+Hänen mukaansa tarkemmin katsottuna paljastuu, että siinä ei ole mitään perää – dataa on vähän ja siitä on tehty hyvin suoria johtopäätöksiä.
+Hän sanoi, että normaalissa tilanteessa tällaiset tutkimusmallit eivät ikinä menisi läpi tieteen teossa.Ensimmäisenä viruksesta julkisuudessa ilmoittanut lääkäri Li Wenliang joutui viranomaisten painostuksen kohteeksi.
+Li jakoi joulukuussa sosiaalisessa mediassa varoituksia sars-viruksen kaltaisen viruksen leviämisestä.
+Poliisi vaati häntä allekirjoittamaan lausunnon, jonka mukaan varoittelut olisivat olleet "laitonta käytöstä".
+Sankarilääkäriksi kiinalaisten keskuudessa noussut Li sairastui itse virukseen ja kuoli.
+Kiinan keskushallinto myönsi 19.3.
+rankaisseensa lääkäriä aiheettomasti.Wuhanin paikallishallinnon viranomaiset olivat viikkojen ajan vähätelleet keskushallinnolle uhkaa, jonka uusi koronavirus aiheuttaa.
+Syy tietojen pimittämiseen oli halu olla pilaamatta juhlamieltä Hubein maakuntahallinnon seremonioissa vuoden alussa.
+Tammikuun alussa viranomaiset myös rajoittivat keskustelua aiheesta muun muassa pidättämällä ihmisiä, jotka olivat kirjoittaneet siitä sosiaaliseen mediaan, ja uhkailemalla aihetta käsitelleitä toimittajia.Ihmisoikeusjärjestö Human Rights Watchin mukaan Kiinan hallituksen reaktio koronavirukseen viivästyi, sillä se pyrki estämään tiedon leviämisen julkisuuteen eikä hoitanut tapausten raportointia asianmukaisesti.
+Järjestön mukaan Kiina oli ottanut kiinni taudista kertoneita ihmisiä ”juorunlevittäjinä”, sensuroinut aihepiiriä käsittelevää verkkokeskustelua sekä rajoittanut uutisointia mediassa.
+Järjestö syyttää Kiinan pyrkineen kritiikin hiljentämiseen sen sijaan, että se pyrkisi faktoin hiljentämään taudista leviävät valeet ja virheelliset tiedot.
+Muun muassa sairastuneiden perheiden pyyntöjä avun saamiseksi oli sensuroitu.
+Tutkijat olivat arvioineet, että Hubein viranomaiset vähättelivät tammikuun alussa epidemian laajuutta.
+Hubein kommunistipuolueen johtaja myönsi helmikuussa, että viranomaiset pahensivat tilannetta, koska eivät määränneet aiemmin matkustusrajoituksia.
+Suomalaiset asiantuntijat olivat aikaisemmin kritisoineet Kiinan matkustusrajoituksia ja kokonaisten kaupunkien asettamista karanteeniin, kuvaillen niitä "ylilyönneiksi".Kiinan antamat luvut herättivät epäilyksiä vääristelystä, sillä Wuhanin kaupungissa miltei viisi prosenttia tartunnan saaneista oli kuollut, kun joissakin Kiinan maakunnissa ja yli 20 maassa kuolemantapauksia ei ollut yhtään.
+Esimerkiksi Itä-Kiinassa sijaitsevassa Zhejiangin maakunnassa oli 11.
+helmikuuta 2020 mennessä raportoitu yhteensä 1 117 tartuntaa, muttei yhtäkään kuolemaa.
+Guangdongin maakunnassa tartuntoja oli 1 177 ja kuolleita yksi.
+Erilaisille tartunta- ja kuolleisuusluvuille voi olla myös viattomia selityksiä.
+Viranomaisten uskotaan vääristelevän lukuja, sillä Kiinalla pimitti tietoja esimerkiksi 2000-luvun alun SARS-epidemian aikana, ja koska Kiina on autoritaria.Tampereen yliopiston epidemiologian professori Anssi Auvisen mukaan oli "aika vahva oletus", että Kiinan antamat luvut olisivat kertoneet tautitilanteesta tarkasti.
+Auvisen mukaan lukujen puutteelle on myös viattomia syitä: kaikkia tapauksia ei oltu tunnistettu, tartuntojen rekisteröiminen ei ollut ajan tasalla ja esimerkiksi virustautiin kuolleiden kuolinsyyt oli ehkä merkitty väärin, vaikkapa keuhkokuumeeksi.
+Uusi virus aiheuttaa pahimmillaan tappavia hengitystieinfektioita monien muiden koronavirusten tavoin.
+Kiinan maakuntien välisiä kuolleisuuseroja voi Auvisen mukaan selittää esimerkiksi se, minkä ikäisessä väestössä virus on missäkin päin maata alkanut kiertää – virus on tappavin ja vaarallisin yli 60-vuotiaille.
+Helmi- ja maaliskuussa 2020 epäiltiin Iranissa olevan sairastuneita todellisuudessa paljon ilmoitettua enemmän muun muassa matemaattisten mallien perusteella, sillä virus on levinnyt Iranin kautta useisiin maihin, ja suhteutettuna kuolinlukuihin tautitartuntoja täytyisi olla jopa kymmeniä tuhansia, ja tauti vaikuttaa myös levinneen Iranin sisällä epäilyttävän nopeasti.
+Iranin parlamentin jäsen syytti 24.
+helmikuuta Iranin hallitusta maan koronavirusepidemian laajuuden pimittämisestä.
+Parlamentaarikon mukaan pelkästään Qomin kaupungissa 50 ihmistä oli kuollut virukseen ja 250 saanut tartunnan.
+Iranin viranomaisten mukaan 24.
+helmikuuta 12 ihmistä oli kuollut ja 61 sairastunut uuteen koronavirukseen.
+Yhdysvaltain ulkoministeri Mike Pompeo vaati Irania kertomaan totuuden koronavirustilanteesta, ja kertoi olevansa huolissaan tietojen pimittämisestä.
+Britannian yleisradioyhtiö BBC:n mukaan Iranin terveydenhoitoviranomaiset paljastivat 28.
+helmikuuta yhtiön persiankieliselle toimitukselle, että koronavirukseen on Iranissa kuollut jo ainakin 210 ihmistä, kun virallinen luku oli tähän asti ollut 34.
+Tartunnan saaneita oli virallisesti 388, mutta Teheranin kaupunginhallinnon jäsenen mukaan 10 000–15 000 tartuntaa on odotettavissa muutaman viikon kuluessa.
+Iran on aktiivisesti puolustellut epidemian vastaisia toimiaan, ja se on kiistänyt pimittävänsä epidemian todellista laajuutta.
+Useat poliitikot ovat ilmoittaneet alueellaan olevan uhreja moninkertaisesti virallisiin lukuihin verrattuna.
+Iranin parlamentin 290:stä jäsenestä 23:lla on todettu tartunta.
+Viisi korkea-arvoista iranilaispäättäjää on kuollut virukseen.Ensimmäiset koronavirustapaukset raportoitiin virallisesti Qomissa 19.
+helmikuuta, mutta asiantuntijoiden mukaan tauti alkoi levitä kaupungissa 3-6 viikkoa tätä aikaisemmin.
+Virus olisi levinnyt kiinalaisten opiskelijoiden kautta.
+Teheranilainen lääkäri kertoi Reutersille sairaaloiden olevan täynnä tartunnan saaneita ihmisiä, ja heidän kuulleen sadoista kuolleista.
+Tilanteesta on kielletty avautumasta tiedotusvälineille rangaistuksen uhalla.
+Henkilökohtaiset suojavälineet ja puhdistusaineet ovat lähes loppuneet koko maasta, eikä Iran saa niitä juuri maan ulkopuolelta, sillä Yhdysvallat on asettanut maan kauppasaartoon sen ydinohjelman vuoksi.
+Asiantuntijat epäilevät Iranin lukuja täysin vääristellyiksi.
+Toronton yliopiston tartuntatautiasiantuntija oli arvioinut lukujen perusteella Iranissa olevan tartuntoja kaikkiaan 28 000, joka oli tällöin virallisiin lukuihin nähden noin kahdeksankertainen määrä.
+Myös suurempia arvioita on esitetty, esimerkiksi The Atlantic -lehti arvioi Iranissa olevan vähintään 590 tuhatta tapausta.
+Yhdysvalloissa käynnissä olevan epidemian laajuus oli 10.
+maaliskuuta hyvin epäselvä, sillä maa ei ole testannut ihmisiä laajamittaisesti koronaviruksen varalta.
+Virallisten lukujen uskotaan olevan huomattavasti alhaisempia, kuin todelliset luvut väestön testaamattomuuden vuoksi.
+Maan arvioidaan olevan hyvin varautumaton virukseen.
+Yhdysvaltain tautikeskus CDC on ollut hyvin vaitonainen viruksesta.
+Osa ongelmaa on CDC:n viivästys testauspakkausten toimittamisessa paikallisille terveyspalveluille, ja sen vastahakoisuus muualta kuin Wuhanista tulleiden ihmisten testaamiseen pitkään, vaikka epidemoita oli käynnissä jo muualla maailmassa.
+Maan arvioidaan tuhlanneen tärkeää aikaa silloin, kun viruksen leviäminen voitiin vielä helposti pysäyttää.
+Vaikka kriteerejä on huomattavasti höllennetty, on tullut ilmi tapauksia, joissa muun muassa tartunnan saaneita hoitajia ei ole suostuttu testaamaan.
+Viruksen on arvioitu kiertäneen Yhdysvalloissa viikkoja huomaamatta.
+Yhdysvaltojen toimet koronavirukseen ovat olleet hyvin mitättömiä verrattuna muihin kehittyneisiin maihin.
+Se johtuu osaltaan siitä, että Trumpin hallinto leikkasi CDC:n rahoitusta tuntuvasti vuonna 2018, ja ehdottaa 16 prosentin leikkausta CDC:n budjettiin vuodelle 2021.
+Alhaisten testauslukujen valossa Yhdysvaltain tautikeskus lopetti negatiivisten tulosten julkistamisen.
+Viruksen testaamiskapasiteetti vaihtelee hyvin voimakkaasti osavaltiosta toiseen – Kaliforniassa voitiin testata 6.
+maaliskuuta 6 000 ihmistä päivittäin, kun taas Pensylvaniassa vain kymmeniä.
+Siinä missä Etelä-Korea oli testannut yli 100 000 ihmistä koronaviruksen varalta ja noin 15 tuhatta päivittäin, Yhdysvallat oli testannut 8.
+maaliskuuta mennessä noin 5 000 ihmistä, vaikka Yhdysvaltojen väkiluku on yli kuusi kertaa Etelä-Koreaa suurempi.
+Yhdysvaltojen arvioidaan olevan huomattavasti jäljessä toimenpiteissään verrattuna siihen, kuinka koronavirus leviää maassa.
+Testauskapasiteetti on kuitenkin nousemassa, joten Yhdysvaltain tartuntalukujen uskotaan nousevan hyvin voimakkaasti lähitulevaisuudessa.
+Viruksen arvioidaan sairastuttaneen Yhdysvalloissa tuhansia, ellei kymmeniä tuhansia ihmisiä.
+Kansainvälisen valuuttarahasto IMF:n mukaan uusi koronavirus haittaa taloudellista toimintaa Kiinassa pysäyttämällä tuotantoyksiköitä ja rajoittamalla liikkumista.
+Tämä vaikuttaa myös muihin maihin turismin, tuotantoketjujen ja hyödykkeiden hintakehityksen kautta.SARS-CoV-2-epidemia sai pörssit ympäri maailman selvään laskuun vuoden 2020 tammikuun puolivälissä.
+tammikuuta yli kaksi prosenttia.
+Singaporessa, Soulissa ja Manilassa yleisindeksit laskivat yli prosentin.
+Tokiossa pudotusta mitattiin 0,9 prosenttia.
+Helsingin pörssissä yleisindeksi painui noin 0,7 prosenttia miinukselle.
+28. helmikuuta uutisoitiin osakemarkkinoiden painuvan alaspäin eniten sitten vuoden 2008 talouskriisin.27.
+tammikuuta Helsingissä pörssin yleisindeksi oli pian avautumisen jälkeen 1,5 prosenttia laskussa.
+Erityisesti Finnairin kurssi kärsi, ollen pian pörssin avautumisen jälkeen lähes seitsemän prosentin laskussa.
+Suunta oli laskuun myös Euroopan suurissa pörsseissä Frankfurtissa, Pariisissa ja Lontoossa.
+Aiemmin sulkeutunut Tokion pörssi päätyi kaksi prosenttia miinukselle, kun tieto uusista tartunnoista ja kuolemantapauksista levisi.
+Bangkokissa laskua oli liki kolme prosenttia.
+Myös öljyn hinta painui laskuun.
+Viitelaatu Brentin tynnyrihinta laski 2,3 prosenttia alle 60 dollariin.Dow Jones -indeksi koki 31.
+tammikuuta suurimman päiväkohtaisen laskun (2,1 prosenttia) elokuun 2019 jälkeen, kun sijoittajien huoli viruksen leviämisestä ja vaikutuksesta maailmantalouteen kasvoi.
+WallachBeth Capitalin strategi Ilya Feygin totesi että Federal Reserve ja Yhdysvaltain presidentti Donald Trump eivät voi tehdä mitään virukselle.McDonald’s China on sulkenut väliaikaisesti yli 300 ravintolaansa ja Starbucks on sulkenut puolet 4 100 kahvilastaan.
+Coca-Cola on sulkenut toimistojaan ja tehtaitaan Kiinassa.
+Amazon ja Microsoft ovat sulkeneet toimistojaan.
+Applen sopimusvalmistaja Foxconnin tuotanto on pysäytetty Kiinassa laajalti ainakin 10.
+helmikuuta asti.
+Lentokonevalmistaja Airbus on pysäyttänyt kiinalaisen uudenvuoden jälkeen toistaiseksi Kiinassa sijaitsevan kokoonpanoyksikkönsä toiminnan.
+Hyundai joutuu sulkemaan kaikki tehtaansa Etelä-Koreassa, sillä tehtaat eivät saa tarvitsemiaan kiinalaisia komponentteja.
+Fiat Chrysler on varoittanut, että se saattaa joutua pysäyttämään tuotannon yhdellä Euroopan tehtaallaan.
+Nintendo Switch -konsolin toimitukset Japaniin myöhästyvät.
+Suomalaisista yhtiöistä Kone, UPM ja Konecranes ovat keskeyttäneet tuotantonsa tehtaillaan Kiinassa viranomaisten ohjeiden takia.Kiinan viranomaiset sulkivat 23.1.
+tärkeimmät turistinähtävyydet, kuten osan Kiinan muurista ja muut nähtävyydet, kuten Pekingissä sijaitseva Kielletty kaupunki ja Shanghain Disneyland.
+Kaikki Aasian Disneylandit on suljettu.Huomattava osa väestöstä on hamstrannut ruokatarpeita karanteenin varalta.
+Ympäri maailmaa ostajien kohteena on ollut erityisesti vessapaperi.
+Kiina ilmoitti 25.
+tammikuuta vuonna 2020 lopettavansa ryhmämatkat ulkomaille ja maan sisällä, jolla on arvioitu olevan merkittävä vaikutus Lapin matkailuelinkeinolle ja myös lentoyhtiö Finnairin toiminnalle.Finnair kertoi 31.
+tammikuuta, että kaikki Kiinan lennot keskeytetään helmikuun loppuun saakka.
+Rajoitus iskee Finnairin liiketoiminnan ytimeen, sillä yhtiö on vuosien ajan rakentanut strategiaansa Kiinan reittien varaan.
+Finnair ilmoitti aloittavansa 600 kaukoliikennelentäjää koskevat määräaikaisten lomautusten yt-neuvottelut koronaviruksen vuoksi.Vuoden 2020 helmikuun puolivälissä monet isot kansainväliset alan toimijat ovat joutuneet kertomaan muun muassa suomalaisille asiakkailleen Kiinasta tulevien lähetysten viivästymisistä ja jopa perumisista.
+Jopa puoli miljoonaa Kiinasta Suomeen matkalla olevaa pakettia oli 12.
+helmikuuta uutisten mukaan viivästynyt koronaviruksen vuoksi.Koronavirus saattaa hidastaa Raumalla Wasalinen Aurora Botnia -nimisen autolautan valmistumista, koska laivanosien toimitus Kiinasta voi viivästyä.Finanssiryhmä OP laski ennustettaan Suomen vuoden 2020 talouskasvusta.
+Aikaisemmin Suomen talouden arvioitiin kasvavan 0,5 prosenttia, mutta talouskasvu jäänee uuden ennusteen mukaan nollaan koronaviruksen vuoksi, ja OP arvioi taantuman olevan mahdollinen.
+SARS-Co-2-viruksen takia on peruttu lukuisia urheilutapahtumia, muun muassa seuraavat:
+yleisurheilun MM-hallikisat Nanjingissa 13.–15.
+maaliskuuta 2020.
+Aasian yleisurheilun hallimestaruuskisat helmikuun puolivälissä.
+Formula ykkösten Australian osakilpailu 15.
+maaliskuuta kokonaan ja Kiinan osakilpailu 19.
+huhtikuuta ja Bahrainin osakilpailu 22.
+maaliskuuta on siirretty eteenpäin
+sähköisen Formula E -sarjan Kiinan osakilpailu Sanyassa 21. maaliskuuta.
+Kiinan oman jalkapallosarjan otteluita kokonaan.
+Monissa maissa pelataan tyhjille katsomoille.
+nyrkkeilyn ja koripallon olympiakarsintoja Kiinassa
+tenniksen Aasian ja Oceanian naisten maajoukkuekilpailun Fed Cupin ottelut
+naisten golfin ammattilaiskilpailu Hainanin saarella.
+helmikuuta–1. maaliskuuta
+jääkiekon naisten MM-kilpailut Kanadassa 31.
+maaliskuuta alkaen
+taitoluistelun MM-kisat 16.–22.
+maaliskuuta Kanadassa
+alppihiihdon naisten maailmancupin Åren viimeinen osakilpailu Ruotsissa
+NBA-koripallosarja Yhdysvalloissa keskeytettiin 12. maaliskuuta
+NHL-jääkiekkosarja keskeytettiin 12. maaliskuuta
+jalkapallon Veikkausliiga Suomessa käynnistyy vasta kesäkuussa, kun sen piti alkaa jo 11. huhtikuuta
+jääkiekon SM-liigakausi lopetettiin 12. maaliskuuta
+ampumahiihdon maailmancupin viimeinen kilpailuviikonloppu 20.–22.
+maaliskuuta ja toiseksi viimeisen viikonlopun viestikilpailut 15. maaliskuuta
+maastohiihdon maailmancupin Pohjois-Amerikan kiertue eli kaksi viimeistä kilpailuviikonloppua 14.–22. maaliskuuta
+rallin Meksikon osakilpailu 12.–15.
+maaliskuuta keskeytettiin ja jätettiin sen viimeinen päivä ajamatta.
+Argentiinan osakilpailu 23.–26.
+huhtikuuta on siirretty
+salibandyn sarja Suomessa lopetettiin kesken pudotuspelien 14. maaliskuuta
+jääkiekkojoukkue Jokerit jätti KHL:n pudotuspelit SKA Pietaria vastaan pelaamatta 17.
+maaliskuuta ja keskytti kautensa
+Vuoden 2020 jalkapallon EM-kisat siirretään vuodella eteenpäin, ilmoitti UEFA 17. maaliskuuta.
+Internetissä liikkuu runsaasti virheellistä tietoa, valeuutisia sekä useita salaliittoteorioita uuteen koronavirukseen liittyen.
+Lisäksi verkossa leviää videoita, joissa sinänsä tosiin uutisiin perustuen tai aitoa kuvamateriaalia käyttäen luodaan virusepidemiasta liioiteltua kuvaa.
+Monissa videoissa aito materiaali, harhaanjohtavasti rajatut videopätkät ja täysin eri tapauksia kuvaavat videot sekoittuvat toisiinsa.
+Maailman terveysjärjestön pääjohtaja Tedros Adhanom Ghebreyesusin mukaan trollien ja salaliittoteoreetikkojen harjoittama väärien tietojen levittäminen vaikeuttaa terveydenhuollon työntekijöiden työtä.Erään teorian mukaan tauti on peräisin lepakonlihan syömisestä.
+Todisteena on esitelty videota, jossa nuori aasialaisnainen syö lepakosta valmistettua keittoa.
+Video on kuitenkin kuvattu vuonna 2017 Palaussa, eikä liity Wuhaniin tai SARS-CoV-2:een millään tavalla.Erityisesti yhdysvaltalaisissa salaliittoteorioissa viruksen leviämistä on väitetty suunnitelluksi.
+Todisteena on esitetty vuoden 2015 dokumentteja, joissa puhutaan koronavirusta vastaan kehitettävästä rokotteesta.
+Koronaviruksia on kuitenkin useita erilaisia, eivätkä esitetyt dokumentit liity mitenkään leviävään virukseen.SARS-Co-2-virusta on väitetty myös vahingossa levinneeksi biologiseksi aseeksi sen perusteella, että Wuhanin alueella toimii erilaisia viruksia käsittelevä laboratorio.
+Teorian ovat kumonneet muun muassa Foreign Policy ja The Washington Post.
+Yhdysvaltalainen senaattori Tom Cotton (rep.) on sanonut, että ei tiedetä onko virus peräisin Wuhanissa sijaitsevasta korkean eristystason laboratoriosta, mutta kysymys on kuitenkin esitettävä Kiinan salailujen takia.Venäjän valtiontelevisiossa ja samalla Venäjän katsotuimmalla kanavalla (Pervyi kanal) näytetty uutisohjelma Vremja on vihjannut, että SARS-CoV-2 on Yhdysvaltojen kehittämä aasialaisiin iskevä, etninen biologinen ase, jolla Kiinan talous yritetään saada polvilleen.
+Valtiontelevisio väitti, että virus on tehty laboratoriossa ja vastuussa ovat Yhdysvaltojen tiedustelupalvelut ja Donald Trump.
+Vremja otti käsittelyynsä sanan korona, joka tarkoittaa useilla kielillä, myös venäjäksi, kruunua.
+Sana koronavirus viittaa Vremjan mukaan siihen, että Yhdysvaltain presidentti Donald Trump on jollain tavalla sekaantunut viruksen syntyyn ja leviämiseen.
+Väitettä perustellaan sillä, että Trump on järjestänyt kauneuskilpailuja ja ojentanut voittajille kruunuja.
+Todellisuudessa koronavirus on saanut nimensä siitä, että virus on mikroskooppikuvissa kruunun muotoinen.
+Vremjan juontaja sanoi, että teoria voi olla hölynpölyä, mutta se voi olla tottakin.Yhdysvaltain presidentti Donald Trump sanoi Fox Newsin puhelinhaastattelussa, että hän ei usko WHO:n arvioon 3,5 prosentin maailmanlaajuisesta kuolinmäärästä.
+Presidentti sanoi aavistavansa, että oikea lukumäärä on huomattavasti alle prosentin.selvennä
+Koronavirukset
+Sikainfluenssa
+Ajankohtaista koronaviruksesta COVID-19 THL:n päivittäinen tiedote koronavirustilanteesta
+THL:n sivut Wuhanin koronaviruksesta
+Koronaviruksen reaaliaikainen tartuntatilanne.
+(englanniksi)
+Worldometers - Coronavirus Koronaviruksen tartuntamäärät (englanniksi)
+Worldometers - Coronavirus - Active cases Tiedossa oleva koronavirukseen sairastuneiden määrä (englanniksi)
+Asterix seikkailee -albumi, joka julkaistiin vuonna 2017.
+Rooman senaatissa senaattori Lactus Bifidusta, joka on vastuussa Rooman valtakunnan teiden ylläpidosta, syytetään teiden surkeasta kunnosta.
+Pelastaakseen maineensa Bifidus lupaa järjestää suuret hevosvaunujen kilpa-ajot halki koko Italian niemimaan, jotka ovat avoinna kaikille kansakunnille, myös barbaareille.
+Itse Julius Caesar saapuu onnittelemaan Bifidusta tästä ideasta ja samalla muistuttaa häntä siitä, että voittajan pitää sitten olla roomalainen.
+Samaan aikaan Asterix ja Obelix ovat markkinoilla viemässä Senilixiä hammaslääkäriin.
+Markkinoilla Obelix ostaa hevosvaunut heräteostoksena ja kuulee vaunukilpa-ajoista.
+Gallialaiset päättävät ottaa osaa kilpa-ajoihin.
+Kilpa-ajoissa, joita sponsoroi garumin valmistaja Croisos Lupus, on mukana osallistujia monesta kansakunnasta, mukaan lukien brittejä, lusitanilaisia, Kushin valtakunnan prinsessoja (joihin kaikki miehet ihastuvat) ja koko yleisön ennakkosuosikki, roomalainen mestariajaja Coronavirus, joka käyttää messinkistä naamiota.
+Kilpa-ajo lähtee käyntiin ja kulkee läpi Italian niemimaan.
+Kilpailu on hyvin kovaa ja gallialaiset epäilevät että kilpa-ajoja sabotoidaan jotta Coronaviruksen voitto varmistuisi.
+Epäily osoittautuu todeksi kun kimbriläiset osallistujat tunnustavat Caesarin määränneen heidät sabotoimaan kilpailua auttaakseen Coronavirusta.
+Kuultuaan tästä Coronavirus paljastaa olleensa tästä tietämätön ja hänen apurinsa Bacilluksen olleen kaiken takana.
+Jaloa urheilumieltä osoittaen Coronavirus vetäytyy pois kisasta.
+Lähellä maalia gallialaiset ovat vähällä voittaa mutta he huomaavat Coronaviruksen olevan sittenkin mukana kisassa ja ohittavan heidät.
+Viime hetkellä Coronaviruksen vaunut törmäävät kuoppaan ja paljastuu että itse Caesar oli naamioitunut Coronavirukseksi varmistaakseen Rooman voiton.
+Pelastaakseen kunniansa ja osoittaakseen urheilumieltä Caesar myöntää tappionsa ja julistaa gallialaiset voittajiksi.
+Palkinto kuitenkin kiertää yhdeltä osallistujalta toiselle koska kaikkien mielestä kaikki pärjäsivät yhtä hyvin.
+Albumin lopussa gallialaiset palaavat takaisin kyläänsä suurelle juhla-aterialle, ja matkan aikana Obelix närkästyy huomatessaan kasvonsa garumin mainoksessa.
+Jotkut albumin hahmoista ovat karikatyyrejä tunnetuista henkilöistä.
+Parmalaisen majatalon isäntä muistuttaa laulaja Luciano Pavarottia, roomalainen mestariajaja Coronavirus muistuttaa kilpa-ajaja Alain Prostia ja garumin valmistaja Croisos Lupus puolestaan muistuttaa Italian pääministeri Silvio Berlusconia.
+SARS-CoV-2-koronaviruksen aiheuttaman COVID-19-taudin ensimmäinen tapaus Suomessa vahvistettiin tammikuun 2020 lopussa Lapissa vierailleella kiinalaisella turistilla.
+20. maaliskuuta kuoli ensimmäinen suomalainen, iäkäs potilas HUS:n alueella COVID-19:aan.
+22. maaliskuuta mennessä Suomessa oli 626 laboratoriotestein varmistettua koronavirustapausta, joista 12 oli tehohoidossa.
+Eniten tartuntoja oli Uudenmaan alueella.
+Laajempien tartuntaketjujen takia maiden ja alueiden luokittelusta epidemia-alueeksi on luovuttu.
+Epidemia etenee eri tahdissa eri puolilla maata, ja sen aiheuttamien poikkeusolojen takia Suomessa on otettu käyttöön valmiuslaki ensimmäistä kertaa rauhan aikana.
+THL:n mukaan riski tartunnan saamiseen on kohonnut koko maassa.
+Suomessa on varauduttu laajalti SARS-CoV-2:n leviämiseen.
+Tammikuussa 2020 terveyden ja hyvinvoinnin laitos (THL) päivitti terveydenhuollon toimijoille ja matkailijoille tarkoitettuja ohjeita käytännössä päivittäin ja sairaanhoitopiirit kävivät läpi omia prosessejaan.Helsinki-Vantaan lentoasemalla kiinnitetään huomiota tehokkaampaan siivoukseen ja käsihygieniaan THL:n ohjeistuksen mukaisesti.
+Myös laivoilla ja VR:n junissa kiinnitetään huomiota huolelliseen siivoukseen.
+Viking Linellä se on tarkoittanut muun muassa tiheämpää siivousta ja oikeiden siivouskemikaalien valintaa sekä käsidesin tarjoamista.
+Henkilökuntaa on kehotettu pesemään käsiään mahdollisimman usein.
+Asiakkaita on muistutettu ja ohjeistettu kuulutuksin ja kyltein hygieniasta.Sosiaali- ja terveysministeriö asetti 25.
+helmikuuta työryhmän tukemaan koronavirukseen varautumista muun muassa tehostamalla johtamista ja koordinoimalla toimenpiteitä.
+Lisäksi työryhmän on tarkoitus tukea Terveyden ja hyvinvoinnin laitosta, Fimeaa, Valviraa, Aluehallintovirastoa sekä kuntien ja kuntayhtymien viranomaisia uhan torjumisessa.Kaikkiin Suomen sairaanhoitopiireissä on tai tulee olemaan valmius tehdä koronavirustestejä.
+Suomen arvioiduista skenaarioista pahimman mukaan 3 miljoonaa saa tartunnan, ja tehohoitoon joutuisi 8 000 henkeä.
+Sosiaali- ja terveysministeriön kansliapäällikkö Kirsi Varhilan mukaan Suomen terveydenhuoltojärjestelmä selviytyisi tuosta rimaa hipoen, riippuen siitä, kuinka paljon epidemiakäyrää saadaan madallettua.
+Suomessa on tällä hetkellä 11 000 potilaspaikkaa, 300 täysivarusteista tehohoitopaikkaa, ja 200 hengitysavusteista paikkaa.
+Määrät voitaisiin hänen mukaansa ripeällä aikataululla puolitoistakertaistaa, ja jopa kaksinkertaistaa tietyllä ajanjaksolla tilanteen niin vaatiessa.
+Paikkojen pitäisi riittää riippuen siitä, kuinka hyvin tautipiikin madaltaminen Suomen rajoitetoimilla onnistuu.
+Hengityskoneiden operoimiseen koulutetun terveydenhuollon henkilökunnan määrä rajoittaa hoitoa aikaisemmin kuin tehohoitopaikkojen määrä.
+Sairaanhoitajaliiton puheenjohtaja Nina Hahtelan mukaan henkilökuntaa saadaan lisää, kun kiireetöntä hoitoa lakkautetaan, jolloin vapautuu henkilöstökapasiteettia vaativampaan hoitoon, mutta se vaatii myös koulutusta ja perehdytystä.
+Jos se ei riitä, voidaan valmiuslain perusteella ottaa käyttöön yksityisen sektorin sosiaali- ja terveydenhuollonkapasiteettia, mutta sieltäkin pitää kouluttaa ja perehdyttää siirrettävää henkilöstöä.
+Valmiuslain perusteella voidaan myös kutsua lomailevia tai eläkkeellä olevaa sairaanhoitohenkilökuntaa takaisin töihin.
+Lähtötilanne on niukka, sillä Suomessa on sairaanhoitajapula.
+Sairaanhoitajien jaksamisessa liikutaan äärirajoilla jo nyt.Suojavarusteiden vähyys on johtanut siihen, että kaikkia kertakäyttöisiä varusteita ei enää saa heittää roskiin.
+On ollut ajoittaista pulaa visiireistä, suojalaseista ja korkeimman tasoisista FFP2- ja FFP3-hengityssuojaimista.
+Muun muassa HUSissa on alettu keräämään kertakäyttöisiä suojavarusteita talteen.
+Normaalisti roskiin menevät tuotteet viedään puhdistettavaksi uusiokäyttöä varten.
+Suojavarusteiden loppumisesta johtuen Sosiaali- ja terveysministeriö on avaamassa Huoltovarmuuskeskuksen varaston ovet ensimmäistä kertaa.
+Varastoiden riittävyyttä ei olla kerrottu julkisuuteen, mutta varustemääriä on kuvattu "aikamoisen isoiksi".Terveydenhuollossa käytettävien suojavarusteiden saamisessa Suomeen on suuria ongelmia.
+Suomi oli infektioylilääkäri Juha Salosen mukaan paremmin varautunut vuoden 2009 sikainfluenssaan kuin koronavirukseen.
+Sikainfluenssan jälkeen Suomessa on säästetty terveydenhuollossa, ja muun muassa potilaspaikkoja sairaaloissa ja terveyskeskuksissa on paljon vähemmän.Teknologiayhtiöiden Mariachin ja Innokas Medicalin mukaan hengityskoneiden ja muiden lääkinnällisten laitteiden valmistusta voitaisiin lisätä Suomessa, jos koronaviruksen leviäminen sitä edellyttää.
+Innocal Medicalin toimitusjohtajan mukaan tuotantoketjun mutkikkuuden takia valtiovallan tai muiden isojen toimijoiden on kuitenkin syytä tehdä päätökset nopeasti.
+Harrastuksiin menoa ei suositella, ja isoja kauppakeskuksia suositellaan välttämään.
+Myös armeijan kertausharjoitukset on peruttu.
+maaliskuuta antaman ohjeistuksen mukaan koronaviruksen saamisen riski on kohonnut koko maailmassa, eikä matkustamista suositella mihinkään.
+Terveyden ja hyvinvoinnin laitos suositti koronaviruspandemian takia 12.
+maaliskuuta 2020 suomalaisille seuraavaa:
+Pidetään vähintään yhden metrin turvaväli jokaiseen kanssaihmiseen, jolla on flunssaoireita.
+Pysytään poissa väenpaljoudesta ja tungoksesta.
+Ei osallistuta tapahtumiin, yleisötilaisuuksiin tai isoihin kokouksiin (pidetään ne etänä).
+Sairastetaan kotona.Pääjohtaja Markku Tervahaudan mukaan matkustaminen olisi hyvä rajoittaa kotimaassakin vain välttämättömään.
+Jos on mahdollisuus, voi kulkea lähimatkoja mieluiten kävellen tai polkupyörällä.
+Matkustusajankohta vaikuttaa bussin tai raitiovaunun matkustajamäärään.
+Lievistä hengitystieinfektio-oireista kärsivien on THL:n mukaan tärkeä sairastaa kotona ja välttää sosiaalisia kontakteja.
+Kontaktien vähentäminen on tärkeää myös terveille ihmisille, koska siten hidastetaan epidemian leviämistä.
+Hallitus oli kokoontunut puimaan koronavirustilannetta ja siihen varautumista 11.
+maaliskuuta mennessä ainakin kolmesti.Marinin hallituksen 12.
+maaliskuuta antaman suosituksen mukaan yli 500 hengen yleisötilaisuudet Suomessa peruttiin toukokuun loppuun saakka.
+500 henkeen vedetty raja ei kuitenkaan ollut Marinin mukaan yksiselitteinen ihanne, jolla mahdollisia tartuntoja ehkäistäisiin kaikkein tehokkaimmin.
+Suositus oli, että myös muiden kokoontumisten järjestäjät harkitsevat riskiarvioiden pohjalta vastaavien tilaisuuksien järjestämistä.
+Viruksen aiheuttamiin kustannuksiin ilmoitettiin varauduttavan lisätalousarviolla, joka voidaan antaa nopeallakin aikataululla.
+Lähikontakteja harraste- ja vapaa-ajan toiminnassa tulee välttää.
+Etätyötä tulee suosia, jos työtehtävät sen mahdollistavat.
+Muista kuin välttämättömistä työmatkoista on syytä luopua ja lomamatkoja siirtää.Päätösvalta yleisötapahtumien rajoittamisesta tai koulujen ja päiväkotien sulkemisesta ilmoitettiin olevan toistaiseksi aluehallintovirastoilla ja kunnilla, tartuntatautilain mukaisesti.Hallitus ilmoitti olevansa varautunut mahdollisiin laajempiin rajoittamistoimenpiteisiin, joita olisivat esimerkiksi alueelliset rajoittamistoimenpiteet, koulujen, päiväkotien ja yliopistojen sulkeminen, julkisen sektorin toiminnan rajoittaminen, isojen kauppakeskusten sulkeminen, matkustajalaivaliikenteen kieltäminen, lentoliikenteen kieltäminen ja tapahtumien kieltäminen.
+Pääministeri Marinin mukaan laajemmat rajoittamistoimenpiteet olisivat vaatineet valmiuslainsäädännön käyttöönottoa, mikä otettiin käyttöön 16. maaliskuuta.
+maaliskuuta ===
+16. maaliskuuta päätettiin mittavista epidemian leviämisen hidastamiseen tähtäävistä toimista.
+Suomessa otetaan käyttöön valmiuslaki ensimmäistä kertaa sotien jälkeen.
+Koko maan koulut päiväkoteja ja esiopetusta lukuun ottamatta suljetaan.
+-luokkien oppilaille opetus järjestetään, mikäli he eivät voi jäädä kotiin vanhempiensa yhteiskunnan toiminnalle kriittisen työn vuoksi.
+Julkiset kokoontumiset rajoitetaan kymmeneen henkilöön, ja tarpeetonta oleskelua yleisillä paikoilla tulee välttää.
+Yli 70-vuotiaat on velvoitettu pysymään erillään muista ihmisistä mahdollisuuksien mukaan karanteenia vastaavasti kansanedustajia, valtiojohtoa ja kunnallisia luottamushenkilöitä lukuun ottamatta.
+Vanhusten ja muiden riskiryhmien asumispalveluyksiköihin tehtävät vierailut on kielletty.
+Vierailut hoitolaitoksissa, terveydenhuollon yksiköissä ja sairaaloissa on kielletty tapauskohtaisia poikkeuksia lukuun ottamatta.
+Liikkumista maan sisällä voidaan rajoittaa.
+Valtion ja kuntien museot, teatterit, kansallisooppera, kulttuuritalot, kirjastot, harrastustilat ja -paikat, urheilutilat, kerhotilat, järjestöjen kokoontumistilat, vanhusten päivätoiminta, kuntouttava työtoiminta ja työkeskukset suljetaan, ja yksityisen ja kolmannen sektorin toimijoiden sekä uskonnollisten yhteisöjen suositellaan toimivan samoin.
+Kaikki julkisen sektorin työntekijät määrätään etätöihin, mikäli heidän työtehtävänsä sen mahdollistavat.
+Terveyden- ja sosiaalihuollon kapasiteettia julkisella ja yksityisellä sektorilla kasvatetaan, ja kiireetöntä toimintaa vähennetään.
+Yksityisen sektorin kapasiteetti otetaan yhteiseen käyttöön tarpeen mukaan.
+Lakisääteisistä määräajoista ja velvoitteista joustetaan.
+Koronaviruksen laboratoriotestauskapasiteettia kasvatetaan Terveyden ja hyvinvoinnin laitoksen tuella.
+Työaikalain ja vuosilomalain säännöksistä poiketaan yksityisellä sekä julkisella sektorilla poiketaan kriittisen henkilöstön osalta.
+Sosiaali- ja terveydenhuollon sekä sisäisen turvallisuuden koulutettuja ammattihenkilöitä varaudutaan velvoittamaan töihin.
+Matkustaja- ja henkilöliikenne Suomeen keskeytetään lukuun ottamatta Suomen kansalaisten paluuta.
+Valmistelu Suomen rajojen sulkemiseksi mahdollisimman nopeasti aloitetaan.
+Suomen kansalaisten ja Suomessa asuvien henkilöiden matkustaminen ulkomaille kielletään.
+Suomalaisten matkailijoiden tulee palata välittömästi Suomeen.
+Pohjois- ja länsirajan yli sallitaan välttämätön asiointi.
+Tavara- ja rahtiliikenne jatkuu kuitenkin tavanomaisesti.
+Ne ulkomailta palaavat suomalaiset, jotka asuvat pysyvästi Suomessa, laitetaan kahden viikon karanteeniin.
+Puolustusvoimat turvaa toimintansa jatkuvuuden ja valmiuden, ja muita viranomaisia valmistaudutaan tukemaan.
+Hallitus ilmoitti aluksi kokoavansa arviolta viiden miljardin euron rahoituspaketin ja antavansa sadan miljoonan euron lisätalousarvion, jolla turvataan välttämättömät sosiaali- ja terveysmenot sekä yritysrahoitus.
+Samassa yhteydessä todettiin että hallitus aloittaa keskustelut työmarkkinajärjestöjen kanssa työpaikkojen turvaamisesta.
+Valtion Eläkerahasto lisää sijoituksia yritystodistuksiin.
+Yrittäjien eläkevakuutusmaksuille ja työeläkevakuutusmaksuille annetaan pidennetyt kolme kuukautta maksuaikaa.Hallitus esitteli 20.
+maaliskuuta laajemman 15 miljardin euron talouden pelastuspaketin, joka on mittaluokaltaan Ruotsia vastaava asukaslukuun suhteutettuna.
+Yritysten rahoitusta turvataan useilla miljardiluokan toimenpiteillä, ja otetaan käyttöön uusia suoria tukia.
+Tarkoituksena on yritysten maksuvalmiuden turvaaminen kriisin yli sekä konkurssien estäminen.
+Toimet ovat voimassa kolme kuukautta ja tulevat voimaan mahdollisimman nopeasti.
+20. maaliskuuta annettiin noin 400 miljoonan euron lisäbudjetti, ja niitä on tulossa lisää.
+Suomen Pankki on päättänyt kaksinkertaistaa yritystodistusten osto-ohjelman volyymin miljardiin euroon.Toimenpiteitä ovat:
+Työeläkemaksua alennetaan 2,6 prosenttiyksikköä vuoden 2020 loppuun asti, joka keventää yritysten kuluja 910 miljoonaa euroa.
+Finnveran takausvaltuuksia nostetaan 10 miljardia euroa yhteensä 12 miljardiin euroon, mikä mahdollistaa 10 miljardin euron lisärahoituksen yrityksille.
+Business Finlandin avustusvaltuutta lisätään 150 miljoonaa euroa nopeisiin yrityksiä tukeviin toimiin.
+Työttömyysturvan omavastuupäivät poistetaan lomautuksissa ja irtisanomistilanteissa.
+Lomautuspäätökset nopeutuvat, ilmoitusaika lyhenee 14 päivästä viiteen.
+Lomautusoikeus laajennetaan koskemaan myös määräaikaisia työntekijöitä.
+Yrittäjien ja freelancereiden työttömyysturvan saaminen ei edellytä yrityksen lopettamista.
+Hallitus tukee Finnairia 600 miljoonan euron takauksilla.
+Tartuntatautien valvontaan ehdotetaan 26 miljoonan euron lisärahoitusta.
+Poliisille ehdotetaan 5,6 miljoonan euron lisärahoitusta.
+Poikkeusoloihin liittyviin ennalta yksilöimättömiin menoihin ehdotetaan 200 miljoonaa euroa.
+Tampereella oli määrä järjestää 18.
+maaliskuuta 2020 Lääkäripäivät, joihin oli osallistumassa jopa 3 000 terveydenhuollon ammattilaista, mutta tapahtuma päätettiin peruuttaa.
+Riskinä nähtiin, että kaikki Lääkäripäivien osallistujat joutuisivat koronavirustartuntaepäilyn vuoksi karanteeniin, joka heikentäisi terveydenhuoltojärjestelmää merkittävästi keskellä pandemiaa.Synlab alkaa ensimmäisenä yksityisenä laboratoriona Suomessa analysoida koronavirusnäytteitä virolaisessa laboratoriossaan.
+Terveystalo on aloittanut koronavirusnäytteiden ottamisen.
+Apteekit ovat alkaneet valmistaa käsidesinfiointiainetta itse, koska tukuilla on vaikeuksia vastata kysyntään.Eduskunnassa on peruttu yli viisi henkeä suuremmat vierailuryhmät, kielletty kättely, suositeltu omaehtoisia karanteeneja altistuneille ja pyritty ehkäisemään altistumisia.
+Eduskunta harkitsee äänestysten lykkäämistä, mikäli kansanedustajilla vahvistetaan koronavirustartuntoja.Helsingin metroasemille rakennetaan käsienpesupisteitä.
+Suosituksen mukaan tavattaessa ei toistaiseksi kätellä.Tori.fi-verkkokauppasivusto on kieltänyt 12.
+maaliskuuta korona­virukseen liittyvien tuotteiden myynnin, syynä on halu estää pelon kaupallista hyödyntämistä ja pyrkimys välttää pelon leviämistä.
+Julkinen tilannekuva koronaviruksen leviämisestä ja sairaanhoitoon päätyneistä Suomessa on puutteellinen, sillä sosiaali- ja terveysministeriö on antanut sairaanhoitopiireille viranomaisohjeen olla kertomatta julkisuuteen koronaviruksen takia tehohoidossa olevien ihmisten lukumäärästä.
+Päätöstä perustellaan yksityisyyden suojalla.Helsingin yliopiston kansainvälisen oikeuden ja ihmisoikeuksien professori Martin Scheinin arvioi, että koronaviruspandemia voi madaltaa kynnystä poikkeustilan julistamiselle ja valmiuslain käyttöönotolle tulevaisuudessa.
+Scheininin mukaan on olemassa vaara, että marginaaliryhmiä, väliinputoajia ja haavoittuvassa asemassa olevia ei oteta riittävästi huomioon poikkeusolojen päätöksenteossa.
+Terveyden ja hyvinvoinnin laitos on ollut erityisesti kritiikin kohteena, ja sen auktoriteettiasemaa sekä päätöksiä on kyseenalaistettu.
+Myös hallituksen sisällä on esitetty kritiikkiä THL:ää kohtaan.
+THL:n lausunnot ovat olleet useaan otteeseen ristiriidassa sen kanssa, mitä on myöhemmin tapahtunut.
+Esimerkiksi THL arvioi vielä tammikuun lopulla, ettei koronavirus todennäköisesti leviä Suomeen.
+Viruksen aiheuttamaa tautia on Suomessa pidetty hengenvaarallisena lähinnä ikäihmisille, mikä vastaa myös viruksen taudinkuvaa . Koska tartuntoja on kuitenkin eniten aktiivi-ikäisillä, tehohoitoon voi päätyä runsaasti myös nuorempia.
+Esimerkiksi Alankomaissa ja Yhdysvalloissa maaliskuun puolivälin tienoilla yli puolet tehohoidossa olevista on ollut alle 50-vuotiaita, ja tauti voi olla hengenvaarallinen myös nuorille.Suomessa ei testata kaikkia oireilevia koronavirusepäilyjä THL:n ohjeistuksen mukaisesti.
+Suomessa on tehty maailmanlaajuisesti verrattain vähän testejä, ja 15.
+maaliskuuta kriteerit tiukentuivat entisestään.
+Ohjeistetaan, että terveyskeskuksiin ei tule tartuntaepäilyn vuoksi soittaa, eikä koronavirustesteihin hakeutua, mikäli oireiden kanssa pärjää kotona.
+Tällä hetkellä tiukat ohjeistukset johtavat siihen, että iso osa oireisista jää kotiin niin, ettei tieto tartunnasta kantaudu viranomaisille.
+Maailman terveysjärjestön pääjohtaja painottaa testauksen tärkeyttä.
+Aggressiivinen testaaminen ja kontaktien jäljitys sosiaalisen etäisyydenoton ja yhteisöjen aktivoinnin kanssa estää tartuntoja ja pelastaa henkiä.
+THL on perustellut Suomen testaamisen vähyyttä testauskapasiteetin vähäisyydellä sekä sillä, ettei lisätesteistä olisi epidemian hallinnassa apua.
+Monet muut tahot – muun muassa Maailman terveysjärjestö WHO – kehottaa ja kannustaa maita aggressiiviseen testaamiseen.
+Myös Helsingin ja Uudenmaan sairaanhoitopiiri perustelee tiedotteessaan rajattua testaamista kapasiteetin riittämättömyydellä.
+Testit kohdennetaan riskiryhmille ja erityisesti matkoilta palaavalle terveydenhuollon henkilöstölle.
+Suomessa pystytään tekemään 500–600 testiä päivittäin, mutta testit tuodaan maan ulkopuolelta, ja niiden saatavuus huononee koko ajan.
+Vaikka testit riittäisivät, nuoria ja lieväoireisia ei silti testattaisi.
+Suomi ei aio siirtyä laajamittaiseen testaukseen.
+Salmisen mukaan muun muassa Etelä-Koreassa kiitosta kerännyt laajamittainen testaus, joka onnistui pysäyttämään epidemian etenemisen ei toimisi Suomessa.
+THL:n terveysturvallisuusosaston johtaja Mika Salminen ei ymmärrä WHO:n linjausta testaamisessa.
+Suomen strategia tähtää epidemian pysäyttämisen sijaan sen hidastamiseen, "käyrän madaltamiseen", jossa luotetaan "laumasuojaan".
+Myös muut maat ovat noudattaneet tätä, mutta esimerkiksi Iso-Britannia luopui siitä sen aiheuttaman suuren kuolleisuuden vuoksi.
+Laumasuojastrategian eettisyyttä ja toimivuutta on kritisoitu.THL:n Salminen pitää Italiassa epidemian puhjettua tehtyjä rajoituksia ja ylimitoitettuna, ja vähättelee niiden merkitystä julkisesti, vaikka tilanne Euroopassa on muuttunut.
+THL:n johdossa on vain yksi lääkäri, ja THL:stä on irtisanottu lukuisia asiantuntijoita 2000-luvun aikana useissa yt-neuvotteluissa.
+Salmisen mukaan testejä ei tehdä päivässä niin montaa kuin on mahdollista, vaan tarpeen mukaan.
+Siihenkään ei olla aina ylletty, sillä kaikkia karanteeniin ohjattuja terveydenhuollon työntekijöitä ei olla testattu, vaikka THL ja valtionjohto ovat painottaneet terveydenhuollon henkilökunnan testaamista matalla kynnyksellä, ja eräs hoitaja oli saapunut yhdeltä Euroopan pahimmista epidemia-alueista.
+Epidemia-alueelle ja sieltä takaisin lennätettiin tuhansia matkustajia eri puolella Suomea, eikä hallitus määrännyt lentoja keskeytettäväksi tai suositellut vapaaehtoista karanteenia.
+Sosiaali- ja terveysministeri Aino-Kaisa Pekosen tyynnyttelevä kommentti hallituksen tiedostustilaisuudessa 27.
+helmikuuta siitä, ettei Suomessa ole epidemiaa oli Helsingin yliopiston ekologian ja evoluutiobiologian tutkijatohtori Tuomas Aivelon mielestä sopimaton.
+Aivelon mukaan hallituksen olisi pitänyt kertoa siitä, kuinka Suomessa tullaan näkemään koronavirustapauksia, ja kuinka viruksen leviämistä pyritään estämään.
+Hänen mukaansa hallitus lähti sen sijaan hyssyttelylinjalle.
+Ministerit korostivat sitä, että kyseessä on yksittäistapauksia.
+Kansalaisia ei opastettu valmistautumaan käsienpesun tärkeyttä korostamista lukuun ottamatta.HUSin diagnostiikkajohtaja Lasse Lehtonen kritisoi pääministeri Sanna Marinin tiedonannossa antamia kommentteja.
+Marin vertasi koronavirusta influenssaan, joka tartuttaa vuosittain noin viisi prosenttia aikuisista Suomessa.
+Koronaviruksen tiedetään myös leviävän huomattavasti nopeammin ja olevan paljon vaarallisempi kaikille ikäryhmille influenssaan verrattuna.
+Suomen hallitus ei aluksi tehnyt rajoittavia toimia, ja myöhemminkin toteutti ne vastahakoisesti, sillä se nojasi THL:n antamiin arvioihin.
+Euroopan tautienehkäisy- ja -valvontakeskus ECDC suosittelee torjuntakeinoksi ihmisten sosiaalisen kanssakäymisen nopeaa, tehokasta ja ennakoivaa rajoittamista, ja koulujen sulkemista.
+Viraston työskentely perustuu kansainvälisyyteen, ja se saa reaaliaikaisesti uusimman tutkimustiedon koronan torjunnasta.
+ECDC:n mukaan viivyttely maksaa Suomessa ihmishenkiä, ja ihmisten kohtaamisia olisi rajoitettava niin varhaisessa vaiheessa kuin mahdollista.
+Viraston mukaan Kiinassa potilasmäärää oltaisiin voitu vähentää hyvin merkittävästi, jos se olisi aloittanut rajoitustoimet aikaisemmin.
+Hallituksen päätökset koronatoimista ovat puoluepolitisoituneet ja henkilöityneet, ja niihin on sekoittunut eri viranomaisten välisiä arvovaltajännitteitä ja kansainvälisiin koronatietoihin kohdistuvaa vähättelevää suhtautumista.
+THL muutti arviotaan lopulta, ja ulkomailta palaavat suomalaiset käsitettiinkin riskiksi taudin leviämisen näkökulmasta, ja kehotti välittömiin rajoitustoimiin.
+Suomessa on käynnissä epidemia joka tulee etenemään maassa eri tahdissa, eivätkä kaikki tartuntaketjut ole tiedossa.
+Valtaosa Suomessa todetuista tapauksista on ollut lieviä, mutta jotkut tapaukset ovat vaatineet sairaalahoitoa ja tehohoitoa.
+Suomessa oli 19.
+maaliskuuta vahvistettu 400 tapausta.
+Luvut eivät ole tarkkoja, eikä niiden seuraaminen HUSin infektiotautien ylilääkärin Asko Järvisen mukaan ole mielekästä, sillä läheskään kaikkia oireilevia ei enää testata.
+Sairastuneita on varmistettuja tapauksia hyvin paljon enemmän.
+16. maaliskuuta THL:n pääjohtaja arvioi tietokonesimulaatioiden perusteella Suomessa olevan 20–30 kertaa todettua enemmän tartuntoja.
+Suomessa olisi tällöin vahvistetun 277:n tartunnan perusteella ollut silloin noin 5 500–8 300 tartuntaa.
+Hallitus arvioi 35 prosentin suomalaisista saavan koronatartunnan, mikä tarkoittaisi noin 1,9 miljoonaa tartuntaa, ja vähintään miljoonan suomalaisen sairastuvan.
+THL arvioi 42 prosentin suomalaisista saavan tartunnan.
+24. tammikuuta 2020 nähtiin Suomen ensimmäiset koronavirusepäilyt, kun kaksi wuhanilaista turistia hakeutui Ivalossa hoitoon koronavirusepäilyn vuoksi.
+Koronavirustestien perusteella kyseessä ei kuitenkaan ollut koronavirus vaan tavallinen flunssa.
+Suomessa oli 17.
+helmikuuta ollut yli 3 000 koronavirusepäilyä koko maassa.Vahvistetuille tartunnoille altistuneet määrätään kotikaranteeniin kahdeksi viikoksi.
+Altistuneeksi katsotaan henkilö, joka on oleskellut samassa tilassa sairastuneen kanssa yli 15 minuutin ajan.
+28. tammikuuta 2020 Kiinan Wuhanista kotoisin oleva 32-vuotias nainen eristettiin Lapin keskussairaalaan Rovaniemellä koronavirusepäilyn vuoksi.
+Matkailija oli lähtenyt Wuhanista viisi vuorokautta aiemmin ja sairastanut kaksi vuorokautta hengitystieinfektiota ennen hoitoon hakeutumista.
+29. tammikuuta vahvistui, että nainen on saanut tartunnan uudesta koronaviruksesta.
+Sairastunut nainen kuumeili, mutta oli muuten koko ajan hyväkuntoinen ja vähäoireinen.
+Häntä pidettiin korkeimman tason eristysyksikössä.
+Uuteen koronavirukseen sairastunut nainen on tervehtynyt, ja hänet päästettiin sairaalasta uusimpien testien osoittauduttua negatiivisiksi.
+26. helmikuuta Helsingin ja Uudenmaan sairaanhoitopiirissä HUSissa todettiin koronavirustartunta.
+Nainen palasi Suomeen sunnuntaina.
+Hän on Suomessa ollut kontaktissa kahteen ihmiseen, jotka on tavoitettu.
+Molemmat ovat oireettomia ja tällä hetkellä eristyksissä kotioloissa.
+Potilas on tällä hetkellä osastohoidossa, ja häntä kuvaillaan kuumeiseksi, mutta hyväkuntoiseksi.28.
+helmikuuta HUSissa todettiin toinen, ja Suomen kolmas koronavirustartunta Pohjois-Italiasta palanneella naisella.
+1. maaliskuuta HUSissa vahvistettiin kaksi uutta tartuntaa.
+helmikuuta vahvistetun tapauksen lähipiiriin.
+Toinen sairastuneista on eläkeikäinen, ja toinen kouluikäinen lapsi.5.
+maaliskuuta vahvistettiin viisi tartuntaa.
+Kolme tartunnan saaneista on Uudellamaalla, yksi Pirkanmaalla ja yksi Kanta-Hämeessä.6.
+maaliskuuta vahvistettiin kolme uutta tartuntaa, yksi HUSissa, yksi PPOssa, ja yksi EKSOTEssa.
+7. maaliskuuta vahvistettiin neljä tartuntaa; kaksi HUSissa ja kaksi PSHP:ssa.
+8. maaliskuuta vahvistettiin seitsemän uutta tartuntaa; HUSissa kolme tapausta, PSHP:ssa yksi jatkotartunta, yksi tapaus Pohjois-Savon sairaanhoitopiirissä, ja yksi Varsinais-Suomen sairaanhoitopiriissä.9.
+maaliskuuta vahvistettiin kymmenen uutta tartuntaa.
+Tapauksia on HUSin alueella ja Keski-Suomen sairaanhoitopiirissä kolme kussakin.
+Päijät-Hämeen, Pirkanmaan, Kanta-Hämeen ja Varsinais-Suomen sairaanhoitopiireissä todettiin yhdet uudet tartuntatapaukset.10.
+maaliskuuta vahvistettiin kymmenen uutta tartuntaa.
+HUSissa vahvistettiin kolme tapausta, jotka kaikki liittyvät suoraan tai välillisesti matkailuun epidemia-alueella.
+KSSHP:ssa vahvistettiin kolme uutta tapausta: yksi oli palannut epidemia-alueelta, ja kaksi muuta saaneet tartunnan häneltä.
+KHSHP:ssa, VSSHP:ssa, PKSSK:ssa ja PSSHP:ssa vahvistettiin yhdet tartunnat, joka kaikki on saatu Italiasta.11.
+maaliskuuta vahvistettiin 25 uutta tartuntaa.12.
+maaliskuuta havaittiin HUSissa ensimmäinen terveydenhuollon henkilökuntaan kuuluvan tartunta sydänkirurgilla.
+28 muuta henkilökunnan jäsentä joutui karanteeniin.
+46 uutta tartuntaa vahvistettiin.13.
+maaliskuuta vahvistettiin 46 uutta tartuntaa.14.
+maaliskuuta 70 uutta tartuntaa vahvistettiin.
+15. maaliskuuta uusia tartuntoja vahvistettiin 16, mikä on huomattavasti vähemmin kuin aikaisemmin.
+Tämä johtuu siitä, että testejä suoritetaan vain tarkkaan rajatuille ryhmille, eikä kaikkia oireisia testata.16.
+maaliskuuta ensimmäinen henkilö joutui tehohoitoon koronavirusinfektion vuoksi HUSissa.
+Yhteensä 272 tartuntaa, 31 uutta.
+THL:n mukaan tartuntoja saattoi olla jopa 20–30-kertainen määrä testattuja enemmän.
+Vahvistettuja kokonaistartuntoja oli eniten Uudenmaan seudulla, jossa oli 148 tartuntaa.
+Tartuntoja oli yli 10 myös Pohjois-Pohjanmaan, Pirkanmaan, Keski-Suomen, Varsinais-Suomen ja Kanta-Hämeen alueilla.17.
+maaliskuuta Suomessa oli 322 todettua tartuntaa.
+Toinen tehohoitotapaus; työikäinen potilas joutui tehohoitoon Mikkelin keskussairaalassa.
+Kolmas tapaus Kuopion KYS:ssä, jossa eläkeikäinen Italiasta palannut mies on tehohoidossa.
+Kaikkiaan tehohoitotapauksia on kolme.
+18. maaliskuuta Suomessa oli vahvistettu 359 tartuntaa.
+Tehohoitoa vaativia tapauksia on alle kymmenen.19.
+maaliskuuta Suomessa oli noin 400 vahvistettua tartuntaa.
+Eniten vahvistettuja tartuntoja HUS:in alueella, yhteensä 224.
+Näistä 4 oli tehohoidossa, ja lisäksi alle 10 sairaalahoidossa.
+Yhteensä Suomessa oli tehohoidossa viisi henkeä.20.
+maaliskuuta Suomessa oli todettu noin 450 tapausta, sairaalahoidossa oli 17, tehohoidossa 5 ja kotiutettuja oli 2.
+HUS:n alueella ensimmäinen kuolema koronavirukseen.
+21. maaliskuuta Yhteensä 521 todettua tartuntaa.
+HUS:n alueella 307 todettua tartuntaa, joista 53 uutta, joka on ennätysmäärä uusia tapauksia.
+Ensimmäinen suomalainen, hyvin iäkäs potilas kuoli HUS:n alueella.
+Kaikkia tartuntaketjuja ei kyetty enää todentamaan, tauti levisi yhteisössä aiempaa enemmän.
+Hallitus on varautunut rajoittamaan liikkumista Uudeltamaalta muualle Suomeen.22.
+maaliskuuta 626 vahvistettua tapausta Suomessa.
+43 sairaalassa, 12 tehohoidossa.
+HUS:in alueella 71 uutta todettua tartuntaa ja todettuja tapauksia 378.
+Parhaimmassa tapauksessa, eli lievimmässä skenaariossa vain 20 prosenttia suomalaisista eli 1 080 000 sairastuisi, 4 300–11 000 ihmistä joutuisi sairaalahoitoon, joista 1 100–2 700 vaatisi tehohoitoa ja 540–1 080 suomalaista kuolisi COVID-19-tautiin.
+Keskivertoskenaariossa 40 prosenttia väestöstä eli 2 160 000 saisi tartunnan, 8 640–21 600 joutuisi sairaalahoitoon, joista tehohoitoa vaatisi 2 160–5 400 ja 1 080–2 160 kuolisi.
+Pahimmassa skenaariossa 60 prosenttia väestöstä saisi tartunnan, 3 240 000 sairastuisi, 12 960–32 400 joutuisi sairaalahoitoon, joista 3 240–8 100 vaatisi tehohoitoa ja 1 620–3 240 kuolisi.Luvut perustuvat osin dataan ja osin oletuksiin.
+Ennusteet perustetaan lukuihin, joissa sairaanhoitoa tarvitsisi 0,4 prosenttia tai 1 prosentti tartunnoista, tehohoitoa 25 prosenttia sairaanhoitoa tarvinneista ja kuolemantapauksia olisi 0,05 prosenttia tai 0,1 prosenttia tartunnan saaneista.
+Hallituksen mukaan todennäköisesti 35 prosenttia väestöstä sairastuu koronavirukseen.
+Mikään muu taho ei ole antanut kuolleisuudelle tai sairaanhoitoon päätyville yhtä pientä prosenttia kuin näissä skenaarioissa on esitetty.
+Asiantuntijat ovat pitäneet niitä liian optimistisina.
+Muun muassa WHO:n luvut eroavat esitetyistä.
+WHO:n mukaan 15 prosenttia tartunnoista on vakavia ja 5 prosenttia kriittisiä, ja se arvioi kuolleisuuden olevan 3,4 prosenttia.
+WHO:n luvuilla Suomessa kuolisi lievimmässä skenaariossa 36 720.
+Yleisin kuolleisuusarvio on kuitenkin 2 prosenttia, jolloin Suomessa kuolisi lievimmän skenaarion mukaan 21 600.
+Ennusteet perustuvat tietokonemallinnuksiin.THL:n 18.
+maaliskuuta julkaiseman mallinnuksen mukaan Suomessa 42 prosenttia kansasta saa tartunnan, ja epidemia kestää puoli vuotta.
+THL:n mukaan koronaviruksen epidemiahuippu ajoittunee aikaisintaan toukokuun puoliväliin.
+Hallituksen 12.
+maaliskuuta antaman arvion mukaan ensimmäisessä aallossa tartunnan saisi 35 prosenttia.
+THL:n mukaan toinen aalto on todennäköinen, jos 40 prosenttia kansasta saisi viruksen.
+Ilman rajoitustoimia THL:n mukaan tartunnan saisi 65 prosenttia.
+Suomen tartuntatautilain mukaan päätös karanteenista voidaan tehdä henkilölle, jonka on todettu tai perustellusti epäilty altistuneen yleisvaaralliselle tartuntataudille.
+Karanteenin rikkomisesta voidaan tuomita rikoslain mukaan terveydensuojelurikkomuksesta sakkoon tai vankeuteen enintään kolmeksi kuukaudeksi.Suomessa koronavirusepidemian leviämistä pyritään hidastamaan kehottamalla ihmisiä pysymään erillään toisistaan.
+Idea perustuu siihen, että ihmiset eivät ole enää kontaktissa toisiinsa yhtä paljon, jolloin tilaisuudet joissa virus voisi tarttua toiseen ihmiseen vähenevät.
+Tällöin sairaita ei tule niin paljon niin nopeasti, ja epidemia heikkenee, mutta pitenee.
+Tavoitteena on, että sairaalat eivät ylikuormittuisi potilaista, ja mahdollisimman monta voitaisiin hoitaa.
+Viruksen perusuusiutumisluku on ilman torjuntatoimia 2,5, eli yksi tartunnan saanut tartuttaa kaksi ja puoli muuta ihmistä.
+Tartunnat kasvavat rajoituksitta eksponentiaalisesti, jolloin tautitapausten määrä kaksinkertaistuu esimerkiksi joka viikko.
+Tällä tarttumistahdilla yhdestä viruksen kantajasta lähtenyt tartuntaketju tuottaa 245 uutta tapausta kuukaudessa.
+Kun taudin perusuusiutumisluku on 2,5, kuten COVID-19:ssä on ilman rajoituksia, laumaimmuniteetin syntymiseksi väestöstä 60 prosentin tulee olla immuuni.
+Arviot taudin pysähtymiseen riittävästä laumaimmuniteetista ovat vaihdelleet 35–70 prosentin välillä.
+Laumasuojan ideaa, toimivuutta ja eettisyyttä on myös kritisoitu.Karanteenitoimilla vähennetään kontakteja ihmisten välillä.
+Esimerkiksi epidemia-alue voidaan eristää muista.
+Mitä tiukempi karanteeni on, sitä enemmän se hidastaa tartuntojen leviämistä.
+Ilman kokonaisten alueiden karanteeniakin tartuntoja voidaan hillitä, kuten esimerkiksi Suomi tekee: kehotetaan ihmisiä välttämään ihmismassoja, pysytään kotioloissa, ja jos tartunnalle on altistuttu, isovanhempien, muiden iäkkäiden ihmisten tai muihin riskiryhmiin kuuluvien luona ei vierailla ja muihin ihmisiin pidetään etäisyyttä.
+Sosiaalisen etäisyyden toteuttaminen vähentää tartuntoja, ja perusuusiutumisluku saattaa sen johdosta laskea esimerkiksi puoleen, eli 1,25:een.
+Tällöin yhdestä henkilöstä lähteneessä tartuntaketjussa on vain neljä muuta jäsentä kuukauden aikana.
+Karanteenitoimilla päädyttiin 245:stä tartunnan saaneesta vain neljään.Sosiaalisen eristäytymisen voi viedä myös pidemmälle, kuten Kiina teki.
+Koulut suljetaan, julkinen liikenne keskeytetään, ja ulkomaanmatkat kielletään.
+Näin Suomi on myös tehnyt, vaikkakin Kiinaa löysemmin.
+Näin virukselle tarjoutuu paljon vähemmän tilaisuuksia siirtyä ihmisten välillä.
+Vihreän liiton poliitikon Osmo Soininvaaran mielestä yritykset pysäyttää koronavirus karanteeneilla ovat ”aika toivottomia”.
+Sen sijaan hän on ehdottanut, että riskiryhmiin kuuluvia ruvettaisiin eristämään.
+Hän täsmensi myöhemmin ettei tarkoittanut kirjaimellisesti sitä, että esimerkiksi iäkkäät ihmiset eristettäisiin, vaan puhuisi ”suojelemisesta”, esimerkiksi katsomalla tarkemmin ettei virus pääse leviämään hoitolaitoksiin.Lääkäri-kansanedustaja Mia Laiho (kok.) on ihmetellyt joukkuevoimistelun maailmancupin osakilpailun järjestämissuunnitelmia pandemiatilanteessa 14.–15.
+maaliskuuta Vantaalla.
+Tilaisuuteen odotetaan tuhansia ihmisiä ympäri maailmaa.
+Kansanedustaja Timo Heinonen (kok.) on ollut samaa mieltä ja vaatinut vastaavien tilaisuuksien kieltämistä.
+Heinonen on kritisoinut Marinin hallitusta päättämättömyydestä asiassa.
+Eduskunnan ulkoasiainvaliokunnan puheenjohtaja Mika Niikko (ps.) on vaatinut, että ”tiukkoihin korona-viruksen vastaisiin varotoimiin on ryhdyttävä välittömästi” ja hänen mukaansa ministeriöiden odotteleva linja "ei nyt riitä".
+16. maaliskuuta julkistetut hallituksen päätökset vastaavat näihin esitettyihin huolenaiheisiin.
+Suomen Yrittäjien toimitusjohtaja Mikael Pentikäisen mukaan koronaviruksen taloudelliset vaikutukset ovat iskeneet lähes kaikkiin toimialoihin, ja yllättäen jopa verkkokauppaan.
+Pentikäinen toivoo nopeita ratkaisuja sekä hallitukselta että pankeilta helpottamaan yritysten kassatilannetta.
+Ratkaisuista hän mainitsee arvolisäverojen sekä työnantaja- ja eläkemaksujen lykkäämiset ja Finnveran kriisilainat.
+Hän kehottaa ihmisiä huolehtiman terveydestään, mutta myös käyttämään suomalaisten yritysten palveluja, jotta niitä olisi kriisin jälkeenkin saatavilla.
+Ajankohtaista koronaviruksesta COVID-19 THL:n päivittäinen tiedote koronavirustilanteesta
+Suomen koronavirus-tartuntatilanne Helsingin Sanomat
+maaliskuuta 2020 Teheran) oli iranilainen poliitikko ja diplomaatti.Sheikholeslam opiskeli Kalifornian yliopistossa, Berkeleyssä ennen Iranin vallankumousta.
+Hän sai luonnontieteiden maisterin oppiarvon tietojenkäsittelytieteessä.
+Hän kuulusteli Yhdysvaltain suurlähetystön henkilökuntaa Iranin panttivankikriisin aikana vuonna 1979.
+Sheikholeslam toimi Iranin parlamentin (Majlis) jäsenenä ja vuosina 1981–1997 varaulkoministerinä.
+Hän oli suurlähettiläänä Syyriassa vuosina 1998–2003 ja sai heinäkuussa 2016 nimityksen ulkoministeri Mohammad Javad Zarifin neuvonantajaksi.Sheikholeslam kuoli saatuaan tartunnan vuosien 2019–2020 koronavirusepidemian aikana.
+Hän oli ollut pari päivää Masih Daneshvari -sairaalassa.
+Hänen kuollessaan Iranin parlamentin jäsenistä 8 % oli sairastunut, parlamentin toiminta oli keskeytetty toistaiseksi ja hallituksen virkahenkilöiltä oli kielletty matkustaminen.
+Koronavirukset
+Koronavirukset (Coronaviridae) on ihmisillä ja eläimillä tauteja aiheuttavien RNA-virusten heimo.
+Ihmiselle tautia aiheuttavia koronaviruksia tunnettiin aiemmin vain kaksi, eivätkä sairastumiset yleensä olleet vakavia.
+SARSin aiheuttajaksi paljastui vuonna 2003 ennestään tuntematon koronavirus SARS-CoV.
+Vuonna 2012 tavattiin Lähi-idästä tätä muistuttava koronaviruksen aiheuttama hengityselintulehdus MERS.
+Vuonna 2019 Kiinan Wuhanissa tavattiin uusi COVID-19-tautia aiheuttava koronavirus SARS-CoV-2, joka leviää myös ihmisistä toisiin.
+Maailman terveysjärjestö julisti Koronaviruksen keskiviikkona 11.3.2020 maailmanlaajuiseksi pandemiaksi.
+Koronavirukset muodostavat Coronaviridae-heimon Nidovirales-lahkossa.
+Koronavirukset ovat vaipallisia, positiivissäikeisiä RNA-viruksia.
+Viruksilla on genomi, jonka paino on RNA-virusten suurin, noin 30 kiloemäsparia.
+Genomin ympärillä on proteiinista muodostunut nukleokapsidi, joka infektoituneessa solussa leviää vaihtelevasti solulimaan ja tumajyväseen.
+SARS-epidemian aiheuttaja näyttää suosivan erityisesti solulimaan leviämistä, mutta tämän asian kliinistä merkitystä ei tunneta.
+Koronavirukset löydettiin 1960-luvulla, ja ne todettiin yleisiksi ihmisen nuhakuumeen aiheuttajiksi.
+Siihen aikaan arveltiin, että ne aiheuttavat kliinisen taudin noin puolella tartunnan saaneista.
+Taudinkuvat olivat yleensä lieviä, ja tauti tuntui olevan erityisesti teini-ikäisten muttei pikkulasten infektio.
+Erään ensimmäisistä 1900-luvun seurantatutkimuksista mukaan arveltiin noin kolmen prosentin nuhakuumeista aiheutuvan koronaviruksista, ja epidemioiden havaittiin esiintyvän lähinnä kevättalvisin.
+Taudin itämisajaksi pääteltiin hieman yli kolme vuorokautta.
+SARS-CoV voi aiheuttaa SARS-nimisen hengityselintulehduksen, joka havaittiin ensimmäistä kertaa Itä-Aasiassa helmikuussa 2003.
+Maailman terveysjärjestö WHO ilmoitti toukokuussa 2013, että uudentyyppinen koronavirus voi siirtyä ihmisestä toiseen.
+Tämän MERS-CoV:ksi nimetyn viruksen tiedettiin siihen mennessä aiheuttaneen Euroopassa ja Lähi-idässä 18 ihmisen kuoleman.
+Uusi virus tavattiin ensi kerran syyskuussa 2012.
+Koronavirustartuntoja on Euroopassa ilmoitettu myös Saksassa ja Britanniassa.
+Yhteensä niitä oli tuolloin löydetty maailmassa 34 kappaletta.
+Vuonna 2019 raportoitiin Kiinan Wuhanissa uusi koronavirus eli SARS-CoV-2, joka leviää myös ihmisistä toisiin ja jonka pelätään aiheuttavan pandemian vuonna 2020.
+Sen epäillään siirtyneen ihmisen patogeeniksi myrkkykäärmeistä.
+Eläinten koronavirukset on tunnettu paremmin.
+Hiiren hepatiitin aiheuttavan koronaviruksen tiedetään tarttuvan herkästi.
+Siipikarjan tarttuvan bronkiitin aiheuttava koronavirus leviää ulosteella saastuneesta rehusta.
+Muita tauteja ovat sioilla esiintyvä tarttuva gastroenteriitti (TGE), porsaiden epideeminen ripulivirus ja porsaiden hemagglutinoiva enkefalomyeliitti, nautojen talvidysenteria ja kissan enteerinen suolistotulehdus (FECV) ja tarttuva vatsakalvontulehdus (FIPV).
+UniProt, Taxonomy: Coronaviridae (englanniksi)
+Pandemia tarkoittaa maailmanlaajuisesti levinnyttä epidemiaa.
+Sana tulee kreikan sanoista pan ’kaikki’ ja demos ’ihmiset’.
+Tauti ei välttämättä ole pandemia, vaikka siihen kuolisi paljon ihmisiä.
+Esimerkiksi syöpiin on kuollut erittäin paljon ihmisiä, mutta niitä ei katsota pandemiaksi, koska syöpä ei ole tarttuvaa paitsi poikkeustapauksissa (kts. klonaalisesti tarttuva syöpä).
+Toisaalta tartuntatautikaan ei välttämättä ole pandemia, ellei se ole levinnyt laajalle alueelle.
+Viimeisin pandemia on 11.
+maaliskuuta 2020 julistettu SARS-CoV-2-viruksen aiheuttama koronavirustauti COVID-19.
+Maailman terveysjärjestön mukaan pandemia voi syntyä, kun kolme ehtoa täyttyy:
+uusi tauti ilmaantuu
+taudin vaikuttava tekijä vaikuttaa ihmisiin aiheuttaen vakavaa sairautta
+taudin vaikuttava tekijä leviää helposti ja vahvistuuPandemioita ovat olleet esimerkiksi keskiajalla musta surma, 1800- ja 1900-luvuilla seitsemän pandemiaa aiheuttanut kolera ja vuosien 1918–1919 espanjantauti.
+Lintuinfluenssan pelättiin laajenevan pandemiaksi.
+Tämä olisi kuitenkin edellyttänyt viruksen muuntumista ilmateitse ihmisestä toiseen tarttuvaksi, eikä varmistettuja ihmisestä toiseen tapahtuneita tartuntoja raportoitu.
+Meksikossa keväällä 2009 havaitun lintuinfluenssan muunnoksen, sikainfluenssan, WHO julisti pandemiaksi 11.
+kesäkuuta 2009.
+Viimeksi vuodenvaihteessa 2019–2020 Kiinassa alkunsa saanut koronaviruksen aiheuttama COVID-19 julistettiin pandemiaksi 11.
+maaliskuuta 2020.
+Maailman terveysjärjestö WHO käyttää kuusipykäläistä asteikkoa arvioidessaan eläinperäisten virustautien pandemiariskiä.
+Uhkataso 1: Eläinten virukset eivät aiheuta tartuntoja ihmisissä.
+Uhkataso 2: Tartunta ihmiseen vahvistettu.
+Mahdollinen pandemiauhka.
+Uhkataso 3: Influenssavirus aiheuttaa yksittäisiä sairastumisia ihmisissä.
+Rajoitettu tarttuvuus ihmisestä ihmiseen.
+Uhkataso 4: Tauti tarttuu todistetusti ihmisestä ihmiseen.
+Tauti leviää yhteisötasolle.
+Merkittävä pandemiariski.
+Uhkataso 5: Tauti tarttuu ihmisestä toiseen ainakin kahdessa maassa.
+Uhkataso 6: Virus leviää etäällä olevaan maahan.
+Pandemia meneillään.
+STM 2006 Kansallinen varautumissuunnitelma influenssapandemiaa varten
+STM:n pandemiavarautumisen raportti 2008
+Puolustusministeriön Yhteiskunnan elintärkeiden toimintojen turvaamisen strategia 2006
+Klorokiini
+Klorokiini on lääke, jota on käytetty malarian hoitoon ja ehkäisyyn.
+Klorokiini (CQ), (myös hydroksiklorokiinina) on aminokinoliinijohdos, joka keksittiin Bayerin laboratorioissa vuonna 1934.
+Sille annettiin nimi Resochin.
+Aineesta ei välitetty vuosikymmeneen, koska sitä pidettiin liian myrkyllisenä ihmiselle.
+Toinen maailmansodan aikana Yhdysvallat sponsoroi kliinisiä kokeita malarianestolääkkeiden kehittämiseksi.
+Lääke osoittautui erittäin tehokkaaksi estolääkkeeksi ja otettiin sellaisena yleisesti käyttöön 1947.
+Sitä myydään Suomessa nimellä Heliopar.
+Sitä on pitkään käytetty malarian hoitoon ja ehkäisyyn.
+Sen jälkeen kun malariaa aiheuttava loinen Plasmodium falciparum alkoi kehittää vastustuskykyä klorokiinille, tälle halvalle ja yleisesti saatavilla olevalle lääkkeelle on etsitty uusia käyttökohteita.
+Malarian estolääkkeenä sitä voi käyttää enää alueilla, joilla loiset eivät ole sille vastustuskykyisiä.Koska lääke lievästi vaimentaa immuunijärjestelmää, sitä käytetään joissain autoimmuunisairauksissa, kuten ihon punahukan ja nivelreuman hoidossa.Aurinkoihottuman ja amebataudin hoito.
+Tutkitaan myös klorokiinin käyttöä antiretroviraali-lääkkenä HIV-1/AIDSin hoidossa ja potentiaalisena lääkkeenä chikungunya-kuumetta vastaan .Sen mahdollista käyttöä syövän hoidossa tutkitaan.Ranskassa on testattu klorokiinin käyttöä COVID-19-potilaiden hoidossa lupaavin tuloksin.
+Amerikkalaisessa tutkimuksessa on saatu samanlaisia tuloksia.
+Hydroksiklorokiinin ja klorokiinin huippupitoisuus seerumissa saavutetaan 1 - 3 tunnissa lääkkeen ottamisesta.
+Molemmat ovat akuutisti hyvin myrkyllisiä, isot kerta-annokset  (aikuisilla ≥ 11 g hydroksiklorokiinia tai ≥ 5 g klorokiinia = 20–25 kpl 250 mg tablettia) aiheuttavat vakavia myrkytysoireita tai kuoleman muutamassa tunnissa.
+Metabolia tapahtuu pääasiassa maksassa ja erittyminen munuaisten kautta.
+Hydroksiklorokiinin puoliintumisaika on noin viikko.
+Vakiintuneelle pitoisuustasolle päästään 3 - 5 viikon kuluttua hydroksiklorokiinihoidon aloittamisesta.
+Klorokiinin alkuvaiheen eliminaation puoliintumisaika on 2 - 6 vrk, mutta terminaalisesti jopa 30 - 60 vrk.
+Klorokiini on turvallinen lääkeaine, jolla on vain vähän haittavaikutuksia.
+Sillä on auringolle herkistävä vaikutus, joskus saattaa esiintyä vatsavaivoja ja lieviä keskushermostoperäisiä oireita.
+Epileptikoiden ja aktiivista psoriaasista sairastavien tulee välttää klorokiinin käyttöä.
+Se sopii raskaana oleville ja imettäville sekä pienille lapsille.
+HELIOPAR (klorokiini)  Lääkeinfo.fi
+Malarian ehkäisy Terveyskirjasto.fi
+Loinen on vielä niskan päällä
+Malariasta pääsee – jos vain rahaa löytyy
+KEGG: Chloroquine (englanniksi)
+ChemBlink: Chloroquine (englanniksi)
+lokakuuta 1986 – 7.
+helmikuuta 2020) oli kiinalainen silmälääkäri.
+Hän työskenteli Wuhanin keskussairaalassa.Listä tuli lääkäriyhteisönsä pilliin puhaltaja, kun hän varoitti kollegoitaan mahdollisesta vakavaa äkillistä hengitystieoireyhtymää (SARS) muistuttavasta sairaudesta sosiaalisessa mediassa 30.
+joulukuuta 2019.
+Julkaisun vuoksi Wuhanin poliisi kutsui Lin kuulusteltavaksi 3.
+tammikuuta 2020, koska tämä oli "esittänyt vääriä kommentteja Internetissä".
+Sairaus nimettiin COVID-19:ksi ja hänen varoituksiaan jaettiin myöhemmin julkisesti.Li palasi myöhemmin työtehtäviinsä, kunnes sai viruksen tartuntapotilaalta ja kuoli tautiin 33-vuotiaana 7.
+helmikuuta 2020.
+Sairastuttuaan Li sai sosiaalisen median kautta kymmeniätuhansia tukiviestejä samalla kun viranomaisia arvosteltiin tapauksen salaamisesta.
+Hänen lisäkseen ainakin seitsemän lääkäriä varoitti koronavirusepidemiasta etukäteen.
+2020 (MMXX) on nykyinen kuluva karkausvuosi, joka alkoi keskiviikosta.
+1. tammikuuta – Valtimon kunta liitettiin Nurmeksen kaupunkiin.
+Se oli kolmen vuoden tauon jälkeen ensimmäinen kuntaliitos Suomessa, ja samalla vuoden 2020 ainoa kuntaliitos.
+1. tammikuuta – Sipilän hallituksen käyttöönottama aktiivimalli purettiin.
+1. tammikuuta – Väestörekisterikeskus ja maistraatit yhdistyivät Digi- ja väestötietovirastoksi.
+2. tammikuuta – Australiassa Uuden Etelä-Walesin ja Victorian osavaltiot julistivat hätätilan ihmishenkiä uhkaavien maastopalojen takia.
+Palot ovat surmanneet jopa 500 miljoonaa eläintä.
+3. tammikuuta – Iranin Quds-joukkojen komentaja Qassem Suleimani, Irakin Kansan mobilisointiyksikköjen johtaja Abu Mahdi al-Muhandis ja ainakin viisi muuta ihmistä saivat surmansa Yhdysvaltojen Bagdadin kansainväliselle lentoasemalle tekemässä ohjusiskussa.
+3. tammikuuta – Brent Crude-raakaöljyn hinnat nousivat 1,3% ja New Yorkissa NYMEX:ssa öljyfutuurit nousivat 4% Yhdysvaltojen ja Iranin kasvaneiden jännitteiden johdosta.
+4. tammikuuta – Teknologiateollisuuden ja Teollisuusliiton työmarkkinariita ratkesi.
+25 kuukauden mittainen sopimus korottaa alan palkkoja yhteensä 3,3 prosentilla ja kiky-tunnit poistuvat sopimuksen piirissä olevilta työntekijöiltä.
+5. tammikuuta – Jääkiekon nuorten maailmanmestaruuskilpailujen loppuottelu ja pronssiottelu pelattiin Tšekin Ostravassa.
+Suomi pelasi pronssiottelussa Ruotsia vastaan, mutta hävisi sen 2–3.
+MM-kultaa voitti Kanada ja hopeaa Venäjä.
+5. tammikuuta – Presidentti Donald Trump ilmoitti että Yhdysvallat on valmiina iskemään välittömästi yhteensä 52 iranilaiseen kohteeseen, jos Iran hyökkää Yhdysvaltain kansalaisia tai maan omaisuutta vastaan.
+Iranin ulkoministeri Mohammad Javad Zarif totesi, että iskujen kohdistaminen kulttuurikohteisiin olisi sotarikos.
+Hän kirjoitti, että Yhdysvaltain läsnäolo Länsi-Aasiassa on päättymäisillään.
+6. tammikuuta – Presidentti Donald Trump sa­noi, et­tä jos Yhdysvaltain jou­kot lä­he­te­tään pois Irakista, maahan koh­dis­te­taan ”en­nen­nä­ke­mät­tö­miä” pa­kot­tei­ta.
+Trumpin mukaan Yhdysvallat ei läh­de, jos ira­ki­lai­set ei­vät mak­sa kallista tukikohtaa takaisin.
+6. tammikuuta – Iran ilmoitti vetäytyvänsä vuonna 2015 solmitusta ydinasesopimuksesta.
+6. tammikuuta – Kroatian presidentiksi valittiin vasemmistolainen, 53-vuotias Zoran Milanović.
+Hän sai 52,7 % annetuista äänistä.
+7. tammikuuta – uusi koronavirus, SARS-CoV-2, löydettiin laboratoriotutkimuksissa Kiinassa Wuhanin kaupungissa.
+8. tammikuuta – 176 ihmistä kuoli, kun Iran ampui alas Ukraine International Airlinesin lennon 752 pian sen lähdettyään Teheranista.
+11. tammikuuta – Haitham bin Tariq al-Said valittiin Omanin sulttaaniksi Qabus ibn Said al Saidin kuoltua.
+13. tammikuuta – Kalevala Koru ilmoitti lakkauttavansa Lapponia-korun.
+14. tammikuuta – Microsoft lopetti Windows 7:n tuen.
+16. tammikuuta – Mihail Mišustin aloitti Venäjän pääministerinä.
+22. tammikuuta – Katerína Sakellaropoúlou valittiin ensimmäisenä naisena Kreikan presidentiksi.
+24. tammikuuta – Kiinan Wuhanista alkanut SARS-CoV-2 levisi ensi kerran Eurooppaan (Saksaan).
+26. tammikuuta – Yhdysvaltalainen 18-vuotias Billie Eilish voitti Grammy-palkinnon kaikissa neljässä pääkategoriassa.
+31. tammikuuta – Ison-Britannian ja Gibraltarin jäsenyys Euroopan unionissa päättyi.
+Iso-Britannia on ensimmäinen EU:sta eronnut valtio.
+5. helmikuuta – Virkasyyte Yhdysvaltain presidentti Donald Trumpia vastaan kaatui Yhdysvaltain senaatissa.
+5. helmikuuta – Pegasus Airlinesin matkustajalentokone suistui kiitotieltä, katkesi rungostaan ja syttyi palamaan Sabina Gokchenin kansainvälisellä lentoasemalla Istanbulissa.
+Koneessa oli tapahtumahetkellä 177 matkustajaa, joista 52 loukkaantui.
+6. helmikuuta–29.
+helmikuuta – Finnair perui kaikki tämän aikavälin lennot Manner-Kiinaan SARS-CoV-2:n aiheuttaman koronavirusepidemian takia.
+8. helmikuuta – Irlannin parlamenttivaalit.
+Eniten paikkoja Dáil Éireannissa sai keskusta-oikeistolaispuolue Fianna Fáil ja eniten ääniä vasemmistonationalistinen puolue Sinn Féin.
+9. helmikuuta – Vuoden 2020 Oscar-palkinnot jaettiin Hollywoodissa.
+Parhaan elokuvan palkinnon sai eteläkorealainen Parasite.
+19. helmikuuta – 11 ihmistä kuoli Saksan Hanaussa tapahtuneessa, äärioikeistolaisessa tarkoituksessa tehdyssä terrori-iskussa.
+22. helmikuuta – Etelä-Sudanin presidentti Salva Kiir Mayardit ja kapinallisjohtaja Riek Machar solmivat yhteishallituksen yli kuusi vuotta kestäneen sisällissodan päätteeksi.
+29. helmikuuta – Slovakian parlamenttivaalit 2020.
+1. maaliskuuta – Luxemburg muutti ensimmäisenä maana julkisen liikenteen maksuttomaksi koko valtion alueella.
+2. maaliskuuta – Israelissa pidettiin kolmannet Knessetin vaalit alle vuoden sisällä.
+11. maaliskuuta – WHO julisti maailmassa laajalle levinneen koronavirusepidemian pandemiaksi.
+12. maaliskuuta – Suomessa Valtioneuvosto suositteli koronavirusepidemian vuoksi, että toukokuun loppuun saakka kaikki yli 500 henkilön yleisötapahtumat peruutetaan.
+13. maaliskuuta – Presidentti Donald Trump julisti Yhdysvaltoihin poikkeustilan koronavirusepidemian vuoksi.
+13. maaliskuuta – Jääkiekon SM-liigakausi lopetettiin ennenaikaisesti koronavirusepidemian vuoksi ja jääkiekon Suomen mestaruus vuodelta 2020 päätettiin jättää myöntämättä.
+16. maaliskuuta – Suomen hallitus teki päätöksen valmiuslain käyttöönotosta koronaviruspandemian vuoksi.
+18. maaliskuuta – Euroopan yleisradiounioni ilmoitti, että Eurovision laulukilpailu 2020 peruutetaan.
+Aikaisemman suunnitelman mukaan se olisi pidetty 12.–16.
+18. maaliskuuta – Kaikki Suomen peruskoulut sekä oppilaitokset suljettiin koronaviruspandemian vuoksi ja opiskelijat siirtyivät etäopetukseen.
+Koulut ovat suljettuna huhtikuun puoliväliin asti.
+20. maaliskuuta – Koronaviruspandemia aiheutti ensimmäisen kuolemantapauksen Suomessa.
+Tällöin Suomessa oli vahvistettu noin 500 tartuntaa.
+21. maaliskuuta – Kansainvälinen jääkiekkoliitto ilmoitti, että toukokuussa pidettävät jääkiekon mm-kisat on peruttu.
+Turnaus olisi järjestetty Sveitsissä.
+Jääkiekon mm-kisat on peruttu viimeksi toisen maailmansodan aikaan vuonna 1944.
+Suomi jatkaa hallitsevana maailmanmestarina vuoteen 2021 asti.
+toukokuuta – Jääkiekon maailmanmestaruuskilpailut oli tarkoitus pitää Sveitsin Zürichissä ja Lausannessa.
+Turnaus peruttiin maaliskuussa maailmalla leviävän koronaviruspandemian vuoksi.
+1. kesäkuuta – Uusi tieliikennelaki astuu voimaan Suomessa, minkä johdosta aloitetaan muun muassa liikennemerkkien uudistus.
+Uusien liikennemerkkien siirtymäaika on kymmenen vuotta, joten 1.6.2030 asti teiden varsilla tulee olemaan sekä uusia että vanhoja liikennemerkkejä.
+12. kesäkuuta – 12.
+heinäkuuta – Jalkapallon Euroopan-mestaruuskilpailut järjestetään 12 eri Euroopan maassa.
+Suomi pääsee pelaamaan kisoissa historiansa ensimmäistä kertaa.
+Helsingin kansainvälinen balettikilpailu järjestetään kesäkuussa 9. kertaa.
+17. heinäkuuta – Nasan suunnittelema Mars 2020 -luotaimen laukaisu.
+Sen pääosa on Mars-kulkija, joka pohjautuu suurelti aiempaan Curiosity-kulkijaan.
+Tutkimuslaitteet ovat suurelta osin uusia.
+24. heinäkuuta – 9.
+elokuuta – Kesäolympialaiset 2020 järjestetään Tokiossa.
+20. lokakuuta – Dubain maailmannäyttely avataan.
+3. marraskuuta – Yhdysvalloissa pidetään presidentinvaalit.
+Istuva presidentti Donald Trump voi olla ehdolla jatkokaudelle.
+14. joulukuuta – Täydellinen auringonpimennys Argentiinassa ja Chilessä.
+Venäläinen Energija suunnittelee louhivansa helium-3 -isotooppia teollisessa skaalassa Kuusta tähän vuoteen mennessä.
+Seuraavien valtioiden on ennustettu kehittyvän teollisuusmaiksi vuoteen 2020 mennessä:lähde?Trinidad ja Tobagosta tulee teollisuusmaa Vision 2020 -suunnitelman mukaan.
+Malesiasta tulee teollisuusmaa entisen pääministeri Mahathir Mohamadin mukaan.
+Chilestä tulee teollisuusmaa.
+Intiasta tulee teollisuusmaa A.
+P. J. Abdul Kalamin mukaan.
+Omanista tulee teollisuusmaa vuoteen 2020 kestävän pitkäaikaissuunnitelman mukaan.
+Pakistanista tulee teollisuusmaa vuoteen 2020 kestävän pitkäaikaissuunnitelman mukaan.
+Filippiineistä tulee teollisuusmaa presidentti Gloria Macapagal-Arroyon mukaan.
+Vuonna 1990 julkaistu roolipeli Cyberpunk 2020 sijoittuu vuoteen 2020.
+1. tammikuuta – Don Larsen, yhdysvaltalainen baseballpelaaja (s. 1929)
+1. tammikuuta – Jaap Schröder, alankomaalainen viulisti, kapellimestari ja pedagogi (s. 1925)
+1. tammikuuta – David Stern, yhdysvaltalainen koripallojohtaja (s. 1942)
+2. tammikuuta – Tuija Talvitie, suomalainen konfliktinratkaisun asiantuntija ja järjestöjohtaja (s. 1959)
+2. tammikuuta – Sam Wyche, yhdysvaltalainen amerikkalaisen jalkapallon pelaaja ja valmentaja (s. 1945)
+3. tammikuuta – Derek Acorah, englantilainen meedio ja televisiopersoona (s. 1950)
+3. tammikuuta – Abu Mahdi al-Muhandis, irakilais-iranilainen sotilasjohtaja ja ilmaiskun uhri (s. 1954)
+3. tammikuuta – Qassem Suleimani, iranilainen kenraali ja ilmaiskun uhri (s. 1957)
+4. tammikuuta – John Baldessari, yhdysvaltalainen käsite- ja nykytaiteilija (s. 1931)
+5. tammikuuta – Hans Tilkowski, saksalainen jalkapallomaalivahti (s. 1935)
+5. tammikuuta – David Albin Zywiec Sidor, Nicaraguassa toiminut yhdysvaltalainen roomalaiskatolinen piispa (s. 1947)
+6. tammikuuta – Markku Kallio, suomalainen jalkapalloilija (s. 1961)
+7. tammikuuta – Silvio Horta, yhdysvaltalainen televisiotuottaja ja käsikirjoittaja (s. 1974)
+7. tammikuuta – Neil Peart, kanadalainen rumpali, musiikkituottaja ja kirjailija (s. 1952)
+8. tammikuuta – Buck Henry, yhdysvaltalainen näyttelijä, ohjaaja ja käsikirjoittaja (s. 1930)
+10. tammikuuta – Wolfgang Dauner, saksalainen fuusiojazzpianisti ja -säveltäjä (s. 1935)
+10. tammikuuta – Alun Jones, brittiläinen poliitikko (s. 1919)
+10. tammikuuta – Guido Messina, italialainen rata- ja maantiepyöräilijä ja olympiavoittaja (s. 1931)
+10. tammikuuta – Qabus ibn Said al Said, Omanin sulttaani 1970–2020 (s. 1940)
+12. tammikuuta – Tony Garnett, brittiläinen televisio- ja elokuvatuottaja (s. 1936)
+12. tammikuuta – Roger Scruton, brittiläinen filosofi, journalisti ja säveltäjä (s. 1944)
+15. tammikuuta – Bobby Brown, skotlantilainen jalkapallomaalivahti ja jalkapallovalmentaja (s. 1923)
+15. tammikuuta – Jarmo Leppiniemi, suomalainen laskentatoimen professori (s. 1948)
+15. tammikuuta – Christopher Tolkien, englantilainen kirjailija ja keskiajan tutkija (s. 1924)
+16. tammikuuta – Barry Tuckwell, australialainen käyrätorvensoittaja ja professori (s. 1931)
+17. tammikuuta – Derek Fowlds, englantilainen näyttelijä (s. 1937)
+17. tammikuuta – Khagendra Thapa Magar, nepalilainen lyhytkasvuinen mies (s. 1992)
+17. tammikuuta – Klaus Järvinen, suomalainen musiikkipedagogi, musiikkineuvos sekä Oulunkylän Pop- & jazz-opiston ja Ogeli Big Bandin perustaja (s. 1936)
+18. tammikuuta – Jack Van Impe, yhdysvaltalainen evankelista (s. 1931)
+26. tammikuuta – Kobe Bryant, yhdysvaltalainen koripalloilija (s. 1978)
+7. helmikuuta – Ilja Janitskin, suomalainen MV-lehti-verkkosivuston perustaja (s. 1977)
+23. helmikuuta – Pekka Saarnio, suomalainen poliitikko (s. 1945)
+Terveyden ja hyvinvoinnin laitos
+Terveyden ja hyvinvoinnin laitos (lyh.
+National Institute for Health and Welfare) on sosiaali- ja terveysministeriön alainen tutkimus- ja kehittämislaitos.
+THL aloitti toimintansa 1.
+tammikuuta 2009 Kansanterveyslaitoksen ja Stakesin yhdistyessä.Lainsäädännön mukaan THL:n toimialaan kuuluvat väestön terveys ja hyvinvointi.
+THL:n tehtäviä ovat väestön hyvinvoinnin ja terveyden edistäminen, sairauksien ja sosiaalisten ongelmien ehkäiseminen sekä sosiaali- ja terveyspalveluiden kehittäminen.
+(THL tutkii hyvinvointia sen suppeassa sosiaalipoliittisessa merkityksessä.)
+THL on yksi Suomen tilastoviranomaisista.
+Valtion asiantuntijalaitoksena THL tarjoaa tietoa valtionhallinnon ja kuntien päättäjille, alan järjestöille ja muille toimijoille, tiedeyhteisölle ja kansalaisille.
+Yksi sen tärkeimmistä tehtävistä on tukea kuntia sosiaali- ja terveyspalvelujen kehittämisessä.
+THL:n tuottaman tiedon avulla voidaan THL:n mukaan seurata ja parantaa palvelujen saatavuutta, laatua, tuottavuutta, tehokkuutta ja vaikuttavuutta.
+THL:n päätoimipiste sijaitsee Helsingissä.
+Lisäksi sillä on toimipaikat myös Kuopiossa, Oulussa, Tampereella ja Turussa.
+Laitoksella on hieman alle tuhat työntekijää.
+THL:n vuosibudjetti on noin sata miljoonaa euroa, josta valtion budjettirahoituksen osuus oli vuonna 2014 67 prosenttia.
+THL:n pääjohtajana toimii lääketieteen tohtori Markku Tervahauta ja ylijohtajana Marina Erhola (kesäkuussa 2019).
+Lakien tai asetusten tarkemmin määrittelemiä tehtäviä ovat mm.:
+tutkia, seurata ja edistää suomalaisten hyvinvointia ja terveyttä sekä vähentää ongelmia
+seurata, kehittää ja ohjata sosiaali- ja terveydenhuollon toimintaa
+tukea asiantuntijatiedolla hyvinvointia ja terveyttä edistäviä toimintatapoja, käytäntöjä ja politiikkaa
+harjoittaa alan tutkimus- ja kehittämistoimintaa, edistää innovaatioita sekä tehdä aloitteita ja esityksiä sosiaali- ja terveydenhuollon ja sen palvelujen kehittämiseksi sekä väestön terveyden ja hyvinvoinnin edistämiseksi
+toimia tilastoviranomaisena ja ylläpitää alan tiedostoja ja rekistereitä sekä huolehtia tehtäväalueen tietoperustasta ja sen hyödyntämisestä
+kehittää ja ylläpitää sosiaali- ja terveysalan keskeisiä termejä, määrityksiä ja luokituksia
+toimia asiantuntijaviranomaisena sosiaalihuoltoon, kehitysvammaisten erityishuoltoon, kansanterveystyöhön, erikoissairaanhoitoon, mielenterveystyöhön, tartuntatauteihin, ympäristöterveyteen ja geenitekniikkaan sekä muihin laitoksen toimialaan liittyvissä asioissa
+vastata valtion mielisairaaloita ja valtion sosiaalihuollon toimintayksiköitä koskevista asioista
+huolehtia Suomen rokotehuollosta ja valvoa maassa käytettävien rokotteiden ja vastaavien valmisteiden laatua
+osallistua toimialansa kansainväliseen toimintaan
+Thl.fi-verkkopalvelu on portti laitoksen tuottamaan keskeiseen tietoon.
+Laitoksen julkaisuja löytyy sen verkkosivuilta ja myytävät julkaisut sen verkkokirjakaupasta.
+Lastensuojelun käsikirjassa on tietoa lastensuojelulaista ja sen soveltamisesta lastensuojeluprosessin mukaisesti.
+Sotkanetissä on tilastotietoja suomalaisten terveydestä ja hyvinvoinnista.
+Kaikki Sotkanetin tieto on saatavilla avoimena datana.
+Innokylä on Suomen sosiaali- ja terveydenhuollon innovaatioyhteisö.
+Fineli sisältää tietoa Suomessa käytettävien elintarvikkeiden ravintoainekoostumuksesta.
+Finelin tiedot ovat saatavilla avoimena datana.
+Teaviisari on työväline kunnille.
+Tulokset kuvaavat terveydenedistämisaktiivisuutta eli kunnan toimintaa asukkaidensa terveyden ja hyvinvoinnin edistämiseksi.
+Ruotsin kansanterveysvirasto
+Norjan kansanterveyslaitos (FHI)
+Alankomaiden kansanterveys- ja ympäristöinstituutti (RIVM)
+Euroopan tautienehkäisy- ja -valvontakeskus (ECDC)
+Yhdysvaltain tautikeskus (CDC)
+Venäjän federaation kuluttajansuoja- ja hyvinvointivirasto (Rospotrebnadzor)
+THL:n verkkosivut
+Wuhan (yksink.: 武汉; perint.: 武漢; pinyin: Wǔhàn) on Hubein maakunnan pääkaupunki keskisessä Kiinassa.
+Kaupunki sijaitsee Jangtse- ja Han-jokien yhtymäkohdassa.
+Wuhan on muodostunut kolmesta pienemmästä kaupungista: Hanyangista, Wuchangista ja Hankousta, jotka olivat ennen itsenäisiä.
+Wuhan sijaitsee alavalla alueella Jangtse- ja Han-jokien yhtymäkohdassa.
+Sen alueella oli yli sata järveä 1980-luvulle asti, mutta kaupungin kasvaessa järviä on täytetty rakennusmaaksi.
+Nykyisin järviä on jäljellä kolmisenkymmentä.
+Kovien sateiden aikana entiset järvet täyttyvät tulvavedestä.
+Tulvia on koetettu ehkäistä rakentamalla puistoihin huokosia pintoja, joihin hulevedet voivat imeytyä.
+Rehevät puistot pitävät myös kaupungin ilmastoa miellyttävämpänä kesän hellekausina.
+Wuhanissa on Köppenin ilmastoluokituksen mukaan subtrooppinen kostea ilmasto.
+Kesät ovat kuumia ja sateisia, talvella on kuivaa ja leutoa.
+Vuoden keskilämpötila on noin 17 °C ja keskimääräinen sademäärä 1 240 millimetriä.
+Heinäkuu on lämpimin kuukausi.
+Silloin vuorokauden keskilämpötila on noin 29 °C.
+Viilein kuukausi on tammikuu, jolloin keskilämpötila on noin 4 °C.
+Sateisin kuukausi on kesäkuu, jolloin sataa keskimäärin noin 230 millimetriä.
+Joulukuu puolestaan on kuivin kuukausi.
+Silloin keskimääräinen sadanta on 30 millimetriä.
+Hanyangin alueella on ollut asutusta jo yli 3 000 vuotta sitten.
+Vuonna 206 rakennettiin muurit Hanyangin ja vuonna 223 myös Wuchangin turvaksi.
+Jälkimmäinen tapahtuma tarkoitti Wuhanin perustamista.
+Yuan-dynastian ollessa vallassa Wuchang nostettiin provinssin pääkaupungin asemaan.
+1800-luvun lopussa rautateitä jatkettiin kaupunkiin.
+Wuhanista muodostui tällöin merkittävä uudelleenlastauspaikka rautatie- ja jokiliikenteen välillä.
+Vuonna 1911 Sun Yat-senin seuraajat aloittivat Wuchangin kansannousun, jonka seurauksena Qing-dynastia kaatui ja Kiinan tasavalta perustettiin.
+Wuhan oli Wang Jingwein johtaman Guomindang-hallituksen pääkaupunki 1920-luvulla.
+Wuhanissa käytiin yksi Kiinan–Japanin sodan merkittävimmistä taisteluista kesä-lokakuussa 1938.
+Taistelu päättyi kiinalaisten tappioon, mutta japanilaisten eteneminen Hubein maakunnassa pysähtyi pian sen jälkeen.
+Miehityksen aikana kaupungin lentokenttä toimi tukikohtana Japanin ilmavoimien viisi vuotta kestäneelle terroripommitusoperaatiolle Chongqingiin.Kaupunki on kärsinyt useasti tulvista.
+Kolmen solan padon pitäisi hillitä tulvia.lähde?
+Vuonna 2011 tulvat olivat harvinaisen pahoja.
+Sateet olivat runsaimmat 13 vuoteen, ja paikallisten viranomaisten mukaan sadevesiviemäreitä oli vaurioitunut rakennustöissä.Kaupungin yksi nähtävyyksistä on Käärmemäen puistossa sijaitseva Keltaisen kurjen paviljonki, joka rakennettiin alun perin vuonna 223 ja uudelleen vuonna 1981.Joulukuussa 2019 Wuhanista löydettiin uusi ihmisestä toiseen tarttuva koronaviruslaji 2019-nCoV, joka aiheutti maailmanlaajuisen pandemian vuonna 2020.
+Viruksen lähtopaikaksi arvellaan wuhanilaista eläintoria, joka suljettiin ja desinfioitiin 1.
+tammikuuta 2020.
+Eurooppaan koronavirus saapui 24.
+tammikuuta 2020.
+Piirikuntatasolla kaupunki jaetaan 13 kaupunkipiiriin.
+Wuhanissa on ollut 1890-luvulta alkaen terästeollisuutta, jota varten rautamalmia tuodaan Dayen kaivoksista noin 90 km Wuhanista kaakkoon, ja kivihiiltä Enanista kaupungin eteläpuolelta.
+2000-luvun alkaessa se oli Kiinan toiseksi suurin metalliteollisuuden keskittymä.
+Metallisteollisuuden perässä kaupunkiin on tullut muita teollisuuden aloja, kuten raskasta konepajateollisuutta, kemianteollisuutta, lasin, elektroniikan ja kuljetusvälineiden valmistusta.Paikallishallinnon mukaan 300 maailmanluokan yritystä, joiden joukossa ovat Walmart, Honda ja Nissan, on investoinut kaupunkiin.
+Vuonna 2021 Wuhan on yksi Jalkapallon seurajoukkueiden maailmanmestaruuskilpailuiden isäntäkaupungeista.
+Siellä järjestetään vuosittain Jangtse-joen ylittävä uintitapahtuma, jolla kunnioitetaan puhemies Maon vuonna 1966 tekemää uintisuoritusta.
+Arnhem, Alankomaat, kesäkuusta 1999
+heinäkuuta 1998 alkaen
+Borlänge, Ruotsi, syyskuusta 2007
+Cheongju, Etelä-Korea, 29.
+lokakuuta 2000 alkaen
+lokakuuta 1982 alkaen
+elokuuta 1987 alkaen
+lokakuuta 1995 alkaen
+syyskuuta 1995 alkaen
+lokakuuta 1990 alkaen
+syyskuuta 1986 alkaen
+syyskuuta 1979 alkaen
+Pittsburgh, Yhdysvallat, 8.
+syyskuuta 1982 alkaen
+Salo, Suomi, 25.
+elokuuta 2014
+Äkillinen vakava hengitystieoireyhtymä eli SARS (lyhenne sanoista Severe acute respiratory syndrome) on epätavallinen keuhkokuume, joka havaittiin ensimmäistä kertaa Itä-Aasiassa helmikuussa 2003.
+Taudinaiheuttaja on nimetty SARS-koronavirukseksi (SARS-CoV), ja sen käyttäytyminen ihmisessä tunnetaan huonosti, sillä lyhyen epidemian jälkeen tapauksia ei ole ollut lisää.
+Tehokasta lääkettä tai rokotetta ei toistaiseksi tunneta.
+Virus aiheutti Kiinan Guangdongin maakunnasta 2002 lopussa alkaneen lyhyen epidemian, joka levisi vuoden 2003 alussa useisiin muihin Itä- ja Kaakkois-Aasian maihin ja Kanadaan.
+Kansainvälisen yhteistyön avulla epidemia saatiin pysäytettyä samana vuonna, eikä sen jälkeen maailmassa ole ilmennyt SARS-tapauksia yhtä 2004 sattunutta laboratoriovahinkoa lukuun ottamatta.
+Tartunnan ihmisten välillä uskotaan tapahtuvan pääasiassa aivan kuten influenssassa: lähikontaktissa pisaratartuntana tai kosketusteitse suuhun, nenään tai silmiin.
+Tauti ei tiettävästi yleensä tartu oireettomasta kantajasta.lähde?Tauti alkaa normaalisti korkealla, yli 38 °C:n kuumeella, johon voi liittyä moninaisia oireita, yleensä päänsärkyä, lihassärkyä ja vilunväreitä sekä mahdollisesti ripulia.
+Muita mahdollisia oireita ovat kurkkukipu, lihasjäykkyys ja nuha.
+2–7 vuorokauden kuluttua voi kehittyä kuiva yskä ja lievää hengenahdistusta, kunnes lopuksi tyypillisesti keuhkokuume, jolloin vakavissa tapauksissa potilas joudutaan kytkemään hengityskoneeseen.lähde?Laboratorionäytteistä on mitattu on imusolujen ja myös veren valkosolujen vähentymää.Tunnettuja laajakirjoisia viruslääkkeitä, kuten ribaviriiniä, on käytetty, mutta niiden teho laboratoriotesteissä on ollut heikko.
+Muita ehkä käyttökelpoisia, kokeiltuja lääkkeitä ovat olleet immunoglobuliini, interferonit ja glykyrritsiini.
+Vaikka tauti on tällä hetkellä (vuonna 2020) näkymättömissä, on mahdollista, että vuoden 2003 epidemia toistuu tulevaisuudessa, ja sekä tehokkaan lääkityksen että rokotteen löytämiseksi tehdään jatkuvaa työtä.Vuosina 2004–2008 osin Euroopan komission rahoittama eurooppalais-kiinalainen tutkimusprojekti SEPSDA tuotti tuloksenaan joukon lupaavia lääkeyhdisteitä, jotka ovat valmiina tarkempiin testeihin, jos tilanne niin vaatii.Vuoden 2008 lopulla yhdysvaltalainen tutkimusryhmä onnistui keinotekoisesti luomaan lepakoissa esiintyvän SARS-viruksen, jota ryhmä pitää ihmisen SARS-viruksen kantamuotona.
+Jo vuonna 2005 arveltiin, että lepakoista lähtöisin oleva virus olisi muuttunut sivettikissoissa, tarkemmin  naamaripalmunäädässä ihmiselle vaaralliseksi.
+Toisen teorian mukaan eteläkiinalaiseen ruokavalioon kuuluvat hedelmälepakot olisivat suoraan aiheuttaneet ihmistartunnan.
+Marraskuussa 2002 Kiinassa Hongkongia ympäröivässä Guangdongin maakunnassa ilmeni tautiepidemia, joka saattoi olla SARS tai läheistä sukua sille.
+305 sairastuneesta viisi kuoli.
+Tämä epidemia saavutti huippunsa helmikuun puolivälissä, jolloin asiasta tiedotettiin Maailman terveysjärjestölle.
+Kiinan viranomaiset pyrkivät selvittämään WHO:n kanssa epidemian mahdollista yhteyttä SARSiin.lähde?Noin 80 prosenttia Hongkongin tapauksista jäljitettiin kiinalaiseen lääkäriin, joka oli hoitanut potilaita Guangdongissa, varannut huoneen hongkongilaisesta Metropole-hotellista ja tartuttanut seitsemän muuta ennen kuin itse kuoli 4. maaliskuuta.
+Nämä seitsemän tartuttivat taudin edelleen sairaalahenkilökuntaan.lähde?12.
+maaliskuuta 2003 WHO antoi maailmanlaajuisen hälytyksen ensimmäistä kertaa yli kymmeneen vuoteen.
+WHO suositteli, että epäillyt tartuntatapaukset hoidetaan eristetyissä tiloissa.
+Määritelmän mukaan epäilyttävä tapaus oli potilas, joka tuli hoidettavaksi 1.
+helmikuuta 2003 jälkeen ja jolla oli:
+yksi tai useampi hengitystieoire, kuten yskä, hengenahdistus, hypoksia tai keuhkokuume -ja-
+ainakin toinen seuraavista on tapahtunut:
+lähikontakti epäillyn SARS-tapauksen kanssa -tai-
+matkustanut äskettäin alueille, joissa on ilmoitettu SARS-tapauksia.lähde?Virustutkijat tunnistivat elektronimikroskooppien avulla Saksassa ja Hongkongissa potilaista eristettyjen viruspartikkelien kuuluvan paramyksoviruksiin.
+Viruksen emäsjärjestys määriteltiin Hongkongissa, ja virus löydettiin kolmesta muusta potilaasta PCR-tekniikan avulla.
+Terveysviranomaiset muistuttivat kuitenkin, että paramykso-tartunnat ovat varsin yleisiä, eikä ole takeita, että virus olisi varsinainen taudinaiheuttaja.lähde?20.
+maaliskuuta 2003 WHO ilmoitti, että useat vietnamilaiset ja hongkongilaiset sairaalat kärsivät vajaamiehityksestä, koska työntekijät pysyttelivät tartunnan pelossa kotonaan.
+WHO oli huolissaan terveydenhoidon laadun heikkenemisestä ja sen mahdollisesta vaikutuksesta taudin leviämiseen.lähde?16.
+huhtikuuta 2003 Vain kuukautta aiemmin alkanut maailmanlaajuinen tutkimusyhteistyö tuotti tuloksia, ja WHO saattoi tiedottaa SARSin aiheuttajaksi varmistuneen aiemmin tuntemattoman koronaviruksen.24.
+kesäkuuta 2003 WHO poisti viimeisen Pekingiä koskeneen matkustusrajoituksen.lähde?Maalis–huhtikuussa 2004 SARS-virus tartutti Pekingissä kaksi virusta laboratoriossa tutkinutta henkilöä.
+Koronavirukset
+Viitattu 25.1.2020.
+(englanniksi)
+Lindfors, Jukka: SARS-epidemia Yle Elävä arkisto.
+Viitattu 25.1.2020.
+2000-luku
+2000-luku on nykyinen vuosisata, joka sisältää vuodet 2000–2099.
+Se on kolmannen vuosituhannen ensimmäinen vuosisata.
+2000-luvun suurimpia keskustelunaiheita ovat olleet esimerkiksi terrorismi ja sen vastainen sota, Irakin sota, ilmastonmuutos, liikakansoitus sekä 2000-vuosikymmenen lopun finanssikriisi.
+2000: Venäläinen ydinsukellusvene Kursk upposi Barentsinmerellä.
+2001: Käytöstä poistettu Mir-avaruusasema päästettiin tuhoutumaan.
+2001: Alankomaat laillisti ensimmäisenä maana maailmassa samaa sukupuolta olevien avioliiton.
+Lähes 3 000 ihmistä kuoli.
+Yhdysvallat hyökkäsi Afganistaniin.
+2002: Eurokolikot ja -setelit otettiin käyttöön.
+2002: Terroristit ottivat panttivankeja teatterissa Moskovassa.
+Vähintään 170 kuoli.
+2002: Algerian sisällissota päättyi.
+2003: Alkoi Darfurin konflikti, joka tuli kestämään vuosia ja vaatimaan satoja tuhansia siviiliuhreja.
+2003: Yhdysvaltojen johtama liittoutuma aloitti Irakin sodan.
+Irak-skandaali Suomessa.
+2004: Euroopan unioniin liittyi kymmenen uutta jäsenmaata.
+2004: Sosiaalisen median kanava Facebook avattiin.
+2004: Madridin junapommit.
+191 kuoli.
+2004: Pohjois-Ossetiassa tapahtuneessa Beslanin koulukaappauksessa kuoli satoja lapsia.
+2004: Intian valtameren maanjäristyksessä ja sitä seuranneessa tsunamissa kuoli lähes 300 000 ihmistä.
+2005: Maailmanlaajuinen lintuinfluenssapandemia alkoi.
+2005: Lontoon joukkoliikenneräjähdyksissä tapahtui neljä räjähdystä.
+52 kuoli.
+2005: Hurrikaani Katrina laski meriveden New Orleansin kaduille.
+2006: Pohjois-Korea teki ensimmäisen ydinkokeensa.
+2006: Pluto menetti statuksensa planeettana ja luokiteltiin kääpiöplaneetaksi.
+2006: Suomi voitti ensimmäistä kertaa Eurovision laulukilpailun Ateenassa järjestetyssä kilpailussa.
+Suomea edustanut Lordi teki silloisen piste-ennätyksen 292 pisteellä.
+2006: Serbia ja Montenegro hajosi Montenegron julistauduttua itsenäiseksi.
+2006: Israelin ja Libanonin aseellinen konflikti.
+2006: Profeetta Muhammedia esittävä pilapiirros aiheutti kansainvälisen jupakan.
+2007: Euroopan unioniin liittyi kaksi uutta jäsenmaata: Bulgaria ja Romania.
+2007–2008: Suomessa koettiin kaikkien aikojen lämpimin koskaan mitattu talvi Ilmatieteen laitoksen tilastojen mukaan talven keskilämpötila oli 5–7 astetta tavallista korkeampi.
+Edellinen ennätys mitattiin talvella 1924–1925.
+Yksittäisten päivien tai kuukausien lämpöennätyksiä ei kuitenkaan rikottu, kuten kävi 2006–2007 talvella, jolloin joulukuu oli mittaushistoriamme lämpimin.
+2008: Kosovo julistautui itsenäiseksi.
+Serbia ei kuitenkaan tunnustanut valtiota.
+2008: Kuuban presidentti Fidel Castro luopui virastaan presidenttinä 49 hallitsijavuoden jälkeen.
+Presidentiksi nousi hänen veljensä Raúl.
+2008: Georgian konflikti käynnistyi.
+2008: Yhdysvaltojen pankkikriisi laajeni kansainväliseksi taantumaksi.
+2008: Islamistit iskivät Mumbaissa.
+175 kuoli.
+2009: Barack Obama aloitti ensimmäisenä afroamerikkalaisena Yhdysvaltojen presidenttinä.
+2009: Poplaulaja Michael Jackson kuoli.
+2009: Maailmanlaajuinen sikainfluenssapandemia alkoi.
+2010: Haitissa tapahtui 7,0 momenttimagnitudin maanjäristys.
+Yli 220 000 ihmistä kuoli.
+2010: Puolan presidentti Lech Kaczyński ja useita muita Puolan viranomaisia kuoli lento-onnettomuudessa Venäjällä.
+2010: Eyjafjallajökullin tulivuorenpurkauksen ilmaan levittämä tuhka aiheutti kymmenientuhansien lentojen peruuntumisen Euroopassa.
+2010: Suomessa koettiin kaikkien aikojen kuumin kuukausi, kun heinäkuussa rikottiin vanhoja lämpöennätyksiä; myös valtakunnallinen lämpöennätys +37,2 astetta mitattiin loppukuusta Liperissä, Pohjois-Karjalassa.
+Lisäksi edellisenä päivänä Lahdessa rikottiin 2000-luvun aiempi valtakunnallinen lämpöennätys.
+2011: Japanin maanjäristys 2011 aiheutti merkittävää tuhoa ja käynnisti Fukushiman ydinvoimalaonnettomuuden.
+2011: Syyrian sisällissota alkoi.
+2011: Etelä-Sudan, maailman nuorin itsenäinen valtio, itsenäistyi.
+2011: Oslon pommi-iskussa ja Utøyan saarella Norjassa tapahtuneessa ammuskelussa kuoli 77.
+2012: Higgsin bosoni löydettiin mahdollisesti Large Hadron Colliderissa.
+2012: Voyager 1 poistui tähtienväliseen avaruuteen.
+2012: Mars Science Laboratory laskeutui Gale-kraatteriin, Marsiin.
+2013: Supertaifuuni Haiyan surmasi yli 10 000 ihmistä Filippiineillä.
+2013: Kiinan ensimmäinen kuuluotain Chang’e 3 laskeutui tehden Kiinasta kolmannen maan, joka on saavuttanut Kuun pinnan.
+2014: Venezuelassa alkoi tapahtua vuosia kestäneitä, levottomia suurmielenosoituksia Nicolás Maduron sosialistihallitusta vastaan.
+2014: Itä-Ukrainan sota alkoi.
+2014: Ebolaepidemia tappoi tuhansia ihmisiä Länsi-Afrikassa.
+2015: 132 ihmistä kuoli terrori-iskuissa Pariisissa.
+2016: Ligo-koelaitteet havaitsivat ensimmäisen kerran Einsteinin ennustamat painovoima-aallot.
+2016: Kuorma-autoisku tappoi 85 ihmistä Nizzassa.
+2017: Donald Trump aloitti työnsä Yhdysvaltain presidenttinä.
+2018: Pohjois-Korean johtaja Kim Jong-un tapasi Etelä-Korean presidentti Moon Jae-inin demilitarisoidulla alueella, ylittäen Koreoiden välisen rajan ensimmäistä kertaa sitten Korean sodan.
+Paria kuukautta myöhemmin Kim Jong-un tapasi Yhdysvaltain presidentti Donald Trumpin huippukokouksessa Singaporessa, mikä oli ensimmäinen Yhdysvaltain ja Pohjois-Korean valtionjohtajien välinen huippukokous.
+2019: Uusi koronavirus, SARS-CoV-2, alkoi levitä joulukuussa Kiinan Wuhanissa aiheuttaen pandemian.
+2020: Brexit eli Ison-Britannian ero Euroopan unionista astui voimaan.
+Iso-Britannia oli ensimmäinen Euroopan unionista eronnut valtio.
+George W. Bush, Yhdysvallat
+Barack Obama, Yhdysvallat
+Donald Trump, Yhdysvallat
+Vladimir Putin, Venäjä
+Dmitri Medvedev, Venäjä
+Kuvia tai muita tiedostoja aiheesta 2000-luku Wikimedia Commonsissa

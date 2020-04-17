@@ -1,62 +1,35 @@
-
-<doc docid='harvard_4' lang='eng' type='mono' source_url='https://drive.google.com/open?id=1kpkD7uU34rJA6pXiGiEBgAuK-Q4hApVL'>
-<p>
 COVID-19 and pregnancy
-</p>
-<p>
 I’m pregnant. How will I be affected?
-</p>
-<p>
 Is COVID-19 more severe inpregnant women?
 We don’t know whether pregnant women are more susceptible.
 Pregnant women are at greater risk of severe disease from related viruses, so pregnant women are considered an at risk population. 
 However, we expect that most pregnant women will experience moderate or mild cold or flu like symptoms.
-</p>
-<p>
 If I contract COVID 19, will I have pregnancy complications?
 We do not yet know whether COVID-19 adversely impacts pregnancy. 
 Pregnancy loss has been observed in cases of infection with other coronaviruses (e.g. SARS). 
 High fevers in the first trimester can also be harmful to the baby.
-</p>
-<p>
 If I have COVID-19, can the virus be passed to my baby?
 Currently, there is no evidence of COVID-19 passing from a mother to baby in the womb. 
 If you have COVID 19, take precautions after your baby is born to prevent infection (e.g. hand washing).
-</p>
-<p>
 How can I protect myself from getting COVID-19?
 Prevention for pregnant women is the same as for the general public. 
 Consult CDC guidelines.
-</p>
-<p>
 Will there be enough doctors to care for me and my baby?
 Yes. The hospital will ensure you are both safe and cared for.
-</p>
-<p>
 What should I do?
-</p>
-<p>
 How can I manage the anxiety I am feeling?
 This is a stressful time for many, especially those who are pregnant. 
 There are several resources that suggest ways to minimize anxiety during this challenging time.
-</p>
-<p>
 Should I still attend antenatal appointments with my OB/GYN?
 Call your OB/GYN to ask about their recommendations. 
 These may vary based on available resources, your medical history, and pregnancy stage.
-</p>
-<p>
 Should I consider a home birth to avoid exposure to COVID 19 in the hospital?
 The hospital can seem like a scary place at this time. 
 However, there are infection protocols to ensure the safety of you and your baby.
 Home births carry serious risks to mother and child. 
 Please discuss your concerns with your OB/GYN.
-</p>
-<p>
 What if I want to get pregnant in the next few months?
 Call your doctor, especially if you suspect you are infected or may become infected. 
 Wait to conceive until you are cleared by your doctor.
 If you want to prevent pregnancy, consult your doctor to ensure you have enough contraceptives. 
 If you suspect you or your partner is infected, remember that close physical contact can increase risk of transmission.
-</p>
-</doc>

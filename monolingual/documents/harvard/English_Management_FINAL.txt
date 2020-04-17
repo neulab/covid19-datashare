@@ -1,8 +1,4 @@
-<doc docid='harvard_2' lang='eng' type='mono' source_url='https://drive.google.com/open?id=1Ciqkae9TKsmrw94NDOS5KlXFN9TSE6S1'>
-<p>
 What to do if you are sick with COVID-19 or suspect you are infected
-</p>
-<p>
 What can I expect?
 COVID-19 is usually a mild illness. 
 Healthy people under age 60 often experience symptoms similar to the flu: fever (over 100.4°F), dry cough, sore throat, and fatigue for two weeks.
@@ -10,47 +6,31 @@ If you have mild symptoms, call your primary care doctor.
 Tell them if you have been in contact with anyone who might have COVID-19.
 Your doctor will tell you if and where you can get tested.
 Because testing is not yet widely available, your doctor may tell you to stay at home for 14 days or more in case you have the infection.
-</p>
-<p>
 Should I see a doctor?
 Serious symptoms are more common in people over age 60 and those with heart disease, lung disease, or cancer. 
 But even young, healthy people can have severe symptoms.
 When severe, COVID-19 can require hospitalization.
 Call your doctor before you go to the doctor’s office or emergency room.
-</p>
-<p>
 Call 911 if you have:
 Difficulty breathing
 New confusion or suddenly feeling drowsy
 Bluish lips or face
-</p>
-<p>
 What is the treatment like?
 There is currently no specific treatment for COVID-19.
 Most people will begin to feel better with drinking fluids and rest.
 Acetaminophen (Tylenol) can help lower fevers and ease muscle pains.
 If you develop severe symptoms and have to go to the hospital, doctors will create a specialized plan to care for you.
-</p>
-<p>
 How do I avoid getting others sick, too?
 “Home isolate” for ~2 weeks
 If you think you might have COVID-19, you should “home isolate.”
 Decisions about stopping home isolation should be made in consultation with your doctor.
-</p>
-<p>
 Keep away from other people
 Use a separate bedroom, bathroom, and cooking space from others if possible. 
 Wear a facemask if you have one. 
 Avoid sharing personal items.
-</p>
-<p>
 Keep your hands clean 
 Cover your coughs and sneezes. 
 Avoid touching your eyes, nose, and mouth. 
 Wash your hands with soap and water for 20 seconds or use hand sanitizer with at least 60% alcohol.
-</p>
-<p>
 Keep your home clean
 Clean frequently touched surfaces (tables, doorknobs, toilets, phones, keyboards, light switches) every day with alcohol solutions (70% alcohol), diluted bleach solutions, or household disinfectants.
-</p>
-</doc>

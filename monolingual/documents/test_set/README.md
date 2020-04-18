@@ -3,5 +3,5 @@ They are available under a CC-X (0,1,2,3,4) license or they are in the PD (publi
 
 The texts have been processed to remove any xml formatting, and split so that they have one sentence per line.
 
-Total lines: 6538
+Total sentences: 6989
 

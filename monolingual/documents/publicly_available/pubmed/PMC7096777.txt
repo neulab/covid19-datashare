@@ -1,0 +1,46 @@
+Rapidly increasing cumulative incidence of coronavirus disease (COVID-19) in the European Union/European Economic Area and the United Kingdom, 1 January to 15 March 2020
+Abstract
+The cumulative incidence of coronavirus disease (COVID-19) cases is showing similar trends in European Union/European Economic Area countries and the United Kingdom confirming that, while at a different stage depending on the country, the COVID-19 pandemic is progressing rapidly in all countries.
+Based on the experience from Italy, countries, hospitals and intensive care units should increase their preparedness for a surge of patients with COVID-19 who will require healthcare, and in particular intensive care.
+On 31 December 2019, a cluster of pneumonia cases of unknown aetiology was reported in Wuhan, Hubei Province, China.
+On 9 January 2020, the China Center for Disease Control and Prevention reported the causative agent as being a novel coronavirus now referred to as severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+Since, the illness resulting from SARS-CoV-2 infection has been named coronavirus disease (COVID-19).
+Evidence to date is that ca 80% of individuals with COVID-19 have a mild disease, i.e. a respiratory tract infection with or without pneumonia, and most of these recover.
+In ca 14% cases, COVID-19 develops into a more severe disease requiring hospitalisation while the remaining 6% cases experience critical illness requiring intensive care.
+The mortality of patients hospitalised due to COVID-19 is ca 4%.
+In this study, we assess the trends in the cumulative incidence of COVID-19 in each European Union/European Economic Area (EU/EEA) country and the United Kingdom (UK) and compare them to that of Hubei Province, China.
+We also compare the current number of COVID-19 cases in EU/EEA countries and the UK with that in Italy during 31 January–15 March 2020.
+COVID-19 cases in EU/EEA countries and the UK
+Subsequent to China, COVID-19 underwent further geographical spread and the dynamic of the COVID-19 pandemic in the rest of the world currently follows that of this country.
+On 11 March 2020, the Director General of the World Health Organization (WHO) declared COVID-19 a pandemic.
+In the 5 March issue of Eurosurveillance 2020, Spiteri et al. reported on the first European confirmed COVID-19 cases according to the WHO case definition.
+In the EU/EEA, the first three confirmed cases were reported by France on 24 January 2020 in persons returning from Wuhan, Hubei Province, China.
+As at 15 March 2020, COVID-19 cases had been detected in all 30 EU/EEA countries and the United Kingdom (UK), whereby between 31 December 2019 and that date included, 39,768 cases and 1,727 deaths had been reported, with 17,750 cases and 1,441 deaths from Italy alone.
+Obtaining cumulative number and cumulative incidence of COVID-19 cases
+At the European Centre for Disease Prevention and Control (ECDC), the notified COVID-19 case counts in each country worldwide, obtained from only official sources such as the countries’ Ministry of Health, national and regional health authorities and the WHO, are updated each day at 8:00 a.m.
+These data were used for assessing the trends of COVID-19 in EU/EEA and the UK, and comparing them to that in Italy.
+As a proxy of the prevalence of active COVID-19 cases, we calculated the 14-day truncated cumulative incidence of COVID-19 cases, thus taking into account the natural course of COVID-19, in each EU/EEA country and the UK, during the 1 January–15 March 2020 period.
+We also presented the cumulative number of notified cases of each country as at 15 March 2020 8:00 a.m. compared with that of Italy for the 31 January–15 March 2020 period.
+Trends of COVID-19 in EU/EEA countries and the UK
+The trends in the 14-day truncated cumulative incidence of COVID-19 cases in EU/EEA countries and the UK generally followed that of Hubei Province (China) (Figure 1).
+For the EU/EEA and the UK overall, the cumulative incidence of COVID-19 started to increase around 21 February and then increased sharply around 28 February 2020 (Supplementary material).
+This was mostly driven by the rapid increase in the number of reported cases from Italy, but all other EU/EEA countries and the UK showed similar increasing trends of the cumulative incidence of COVID-19 (Supplementary material).
+Figure 2 shows the cumulative number of COVID-19 cases, in EU/EEA countries and the UK compared with that in Italy for the 31 January–15 March 2020 period.
+It highlights that, as at 15 March 8:00 a.m., 15 other EU/EEA countries and the UK had already reported a total number of cases comparable to that of Italy just 3 weeks prior or less.
+Discussion
+Our results indicate that the number of notified cases of COVID-19 is rapidly increasing in the EU/EEA and the UK.
+The observed trends in the cumulative incidence of COVID-19 suggest that the pandemic is progressing at a comparable speed in all countries.
+This is despite countries being at different stages, variations in national public health responses, and possibly different case definitions in countries and different protocols for selecting patients that must be tested for confirmation of COVID-19, including catch-up testing.
+Early March 2020, doctors in the affected regions of Italy described a situation in which ca 10% of patients with COVID-19 required intensive care and media sources reported that hospitals and intensive care units in these regions had already reached their maximum capacity.
+Data on admission of COVID-19 cases in a hospital and/or an intensive care unit are currently available at EU/EEA level for only 6% and 1% cases, respectively (data not shown).
+They should, however, be collected in a systematic fashion to complement current surveillance data that focus on the number of reported cases and the number of deaths.
+A study performed in 2010–11 showed a large variation in the availability of intensive care and intermediate care beds in Europe, ranging from 29.2 in Germany to 4.2 beds per 100,000 population in Portugal.
+This means that countries may have more or less resources than Italy (12.5 intensive care and intermediate care beds per 100,000 population in 2010–11).
+Modelling scenarios related to healthcare capacity saturation, with estimates for each EU/EEA country and the UK of the prevalence of hospitalised COVID-19 cases associated with a > 90% risk of exceeding intensive care bed capacity, are provided in the sixth update of the ECDC rapid risk assessment on COVID-19.
+Since cases have so far clustered in certain regions in EU/EEA countries and the UK, and hospitals and intensive care units usually serve a defined regional catchment population, information about cases and intensive care beds should preferably be made available at the Nomenclature of territorial units for statistics 2 (NUTS-2) level.
+The experience from Italy and the current trends in other countries show that the COVID-19 pandemic is progressing rapidly in the EU/EEA and the UK.
+Countries, hospitals and intensive care units should thus prepare themselves for a scenario of sustained community transmission of SARS-CoV-2 and an increase in the number of patients with COVID-19 requiring healthcare, and in particular intensive care, such as the one occurring in the affected regions of Italy.
+As pointed out in the recent ECDC rapid risk assessment, a rapid, proactive and comprehensive approach is essential to delay the spread of SARS-COV-2, with a shift from a containment to a mitigation approach, as the anticipated rapid increase in the number of cases may not provide decision makers and hospitals enough time to comprehend, accept and adapt their response accordingly if not implemented ahead of time.
+The rapid risk assessment also lists the public health measures to mitigate the impact of the pandemic.
+There is a short window of opportunity during which countries have the possibility to further increase their control efforts to slow down the spread of SARS-CoV-2 and decrease the pressure on healthcare.
+Failing this, it is likely that the healthcare systems of other EU/EEA countries will face a surge of patients that require intensive care within the coming days or weeks.

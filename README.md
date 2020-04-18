@@ -2,7 +2,7 @@
 A repo for sharing language resources related to the outbreak (in machine readable format)
 
 ## Directory Organization
-This is the suggested organization. Hopefully some content will mover from one bucket to another, as we keep refining it.
+This is the suggested organization. Hopefully some content will move from one bucket to another, as we keep refining it.
 Additional information (eg. metadata) can be added through xml tags (see below).
 
 ```
@@ -25,6 +25,9 @@ Monolingual
 - Documents (pages, docs) 
 - Sentences ( e.g tweets) 
 ```
+
+Some of the data are not available under a CC-0 license (which is the default license for this repository) 
+For the data that we reproduce/share under a different license (e.g. CC BY-SA 3.0 or others), this is denoted by the name of the directory and a corresponding README.
 
 ## Data file format
 

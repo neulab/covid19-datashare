@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Short list of current gov sites with COVID-19 related content -->
+<doc docid='covid-urls' lang='eng' term='COVID'>
+<!-- redirects to coronavirus content (lots of it) -->
+http://www.cdc.gov/covid19 
+<!-- redirects to the current site that has a lot of material on the coronavirus -->
+http://www.dhh.louisiana.gov/
+<!-- COVID-19 related content -->
+https://tools.niehs.nih.gov/wetp/index.cfm?id=2542 
+<!-- general COVID-19 content -->
+www.coronavirus.gov
+www.nih.gov/coronavirus
+</doc>

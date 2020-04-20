@@ -80,7 +80,6 @@ Monolingual/Comparable:
 * Voice of America (31 languages)
 * [Deutsche Welle](https://www.dw.com/) (29 languages)
 * [El Diario](diario.aw) (Papiamento language)
-* Data from previous Medical Health Exercise (English)
 
 Other Collections:
 * [TAUS](https://www.taus.net/) has compiled a corpus of COVID-19-related parallel sentences. Available [here](https://md.taus.net/corona). Note that these corpora are published under the CC BY-NC 4.0 license which means the data can be shared and modified only for non-commercial purposes.  

@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,ha,,,14 days in isolation,kwanaki 14 a killace
+26,en,ha,,,14 days quarantine,kebe masu ciwo na kwanaki 14
+27,en,ha,,,2019 coronavirus,2019 cutar coronavirus
+28,en,ha,,,2019 novel coronavirus,sabuwar cutar coronavirus ta 2019
+29,en,ha,,,2019-nCoV,2019-nCoV
+30,en,ha,,,2020 coronavirus,cutar coronavirus ta 2020
+31,en,ha,,,2020 novel coronavirus,sabuwar cutar coronavirus ta 2020
+33,en,ha,,,about coronavirus,game da cutar coronavirus
+39,en,ha,,,acute respiratory distress syndrome,cutar da ke kama nufashi
+40,en,ha,,,advanced hand sanitizer,babban man tsabtace hannu
+41,en,ha,,,Affected by coronavirus,Wanda coronavirus ta kama
+42,en,ha,,,after exposure,bayan ta bayyana
+43,en,ha,,,After the epidemic,Bayan annobar
+44,en,ha,,,After the outbreak,Bayan ɓarkewar cuta
+47,en,ha,,,airborne virus,kwayar cuta mai bin iska
+48,en,ha,,,alcohol based hand sanitizer,man tsabtace hannu mai dauke da sinadari
+49,en,ha,,,alcohol hand sanitizer,man tsabtace hannu mai sinadari
+51,en,ha,,,alcohol-based hand sanitizer,man tsabtace hannu mai sanadari
+59,en,ha,,,Anti-Corona virus spray,Maganin ƙwayar cutar corona na fesawa
+60,en,ha,,,antibacterial hand sanitizer,maganin bakteriya na man tsabtace hannu
+61,en,ha,,,ARDS,ARDS
+64,en,ha,,,avoid exposure,kauce ma bayyana
+65,en,ha,,,be infected,kamuwa
+75,en,ha,,,Beware of coronavirus,Hattara da cutar coronavirus
+76,en,ha,,,bilateral interstitial pneumonia,cutar huhu ta namoniya
+77,en,ha,,,CDC,CDC
+78,en,ha,,,Center for Disease Control,Cibiyar Kula da Cututtuka
+83,en,ha,,,community spread,yada ma al'umma
+84,en,ha,,,compulsory quarantine,killacewar dole
+85,en,ha,,,contagious,mai yaɗuwa
+135,en,ha,,,coronavirus,coronavirus
+136,en,ha,,,coronavirus (COVID-19),kwayar cutar corona (COVID-19)
+137,en,ha,,,coronavirus alert,bayanin ankararwar kwayar cutar corona
+139,en,ha,,,coronavirus cases,masu dauke da kwayar cutar corona
+141,en,ha,,,coronavirus concerns,damuwa a kan cutar coronavirus
+143,en,ha,,,coronavirus crisis,rikicin cutar coronavirus
+149,en,ha,,,coronavirus disease,cutar coronavirus
+150,en,ha,,,Coronavirus disease (COVID-19) outbreak,ɓarkewar cutar coronavirus (COVID-19)
+153,en,ha,,,coronavirus early symptoms,alamomin farko na cutar coronavirus
+155,en,ha,,,coronavirus epidemic,annobar cutar coronavirus
+156,en,ha,,,coronavirus exposure,bayyanar cutar coronavirus
+161,en,ha,,,coronavirus incubation,hayayyafar cutar coronavirus
+162,en,ha,,,coronavirus incubation period,lokacin hayayyafar kwayoyin cutar coronavirus
+163,en,ha,,,coronavirus infection,kamuwa da cutar coronavirus
+168,en,ha,,,coronavirus map,taswira kan cutar coronavirus
+170,en,ha,,,coronavirus medicine,maganin cutar coronavirus
+171,en,ha,,,coronavirus medicines,magungunan cutar coronavirus
+172,en,ha,,,coronavirus news,labarai a kan cutar coronavirus
+173,en,ha,,,coronavirus outbreak,barkewar cutar coronavirus
+174,en,ha,,,coronavirus pandemic,annobar cutar coronavirus
+176,en,ha,,,coronavirus pneumonia,namoniyar cutar coronavirus
+177,en,ha,,,coronavirus precautions,matakan kariya a kan cutar coronavirus
+178,en,ha,,,coronavirus prevention,hana cutar coronavirus
+179,en,ha,,,coronavirus protection,kariya daga cutar coronavirus
+180,en,ha,,,coronavirus quarantine,killace mai cutar coronavirus
+182,en,ha,,,coronavirus SOS Alert,Bayanin ankararwar SOS saboda cutar coronavirus
+183,en,ha,,,coronavirus spread,yada cutar coronavirus
+184,en,ha,,,coronavirus symptoms,alamomin cutar coronavirus
+185,en,ha,,,coronavirus transmission,watsa cutar coronavirus
+186,en,ha,,,coronavirus travel ban,haramta tafiye-tafiye saboda cutar coronavirus
+187,en,ha,,,coronavirus travel restrictions,takaita tafiye-tafiye saboda cutar coronavirus
+188,en,ha,,,coronavirus treatment,maganin cutar coronavirus
+190,en,ha,,,coronavirus update,labaran da aka sabunta kan cutar coronavirus
+191,en,ha,,,coronavirus vaccine,maganin rigakafin cutar coronavirus
+192,en,ha,,,coronavirus vaccines,magungunan rigakafin cutar coronavirus
+198,en,ha,,,covid cases,yawan masu dauke da covid
+205,en,ha,,,covid early symptoms,alamomin farko na cutar covid
+213,en,ha,,,covid incubation period,lokacin girman ƙwayoyin cutar covid
+215,en,ha,,,covid international spread,yaduwar cutar covid a ƙasa da ƙasa
+216,en,ha,,,covid international travel,tafiye-tafiye a ƙasa da ƙasa don cutar covid
+217,en,ha,,,covid isolation,kebewa saboda covid
+219,en,ha,,,covid map,taswirar cutar covid
+220,en,ha,,,covid medicine,maganin cutar covid
+221,en,ha,,,covid medicines,magungunan cutar covid
+222,en,ha,,,covid news,labarai a kan cutar covid
+223,en,ha,,,covid outbreak,barkewar cutar covid
+224,en,ha,,,covid pandemic,annobar cutar covid
+225,en,ha,,,covid panic,tsorata kan cutar covid
+228,en,ha,,,covid SOS Alert,Bayanin ankararwar SOS don cutar covid
+230,en,ha,,,covid symptoms,alamomin cutar covid
+231,en,ha,,,covid transmission,watsa cutar covid
+232,en,ha,,,covid travel ban,haramta tafiye-tafiye saboda cutar covid
+233,en,ha,,,covid travel restrictions,takaita tafiye-tafiye saboda cutar covid
+234,en,ha,,,covid treatment,maganin covid
+236,en,ha,,,covid vaccine,maganin rigakafin covid
+237,en,ha,,,covid vaccines,magungunan rigakafin covid
+242,en,ha,,,covid-19,cutar covid-19
+243,en,ha,,,covid-19 alert,bayanin ankararwa a kan covid-19
+244,en,ha,,,covid-19 cases,yawan wadanda suka kamu da cutar covid-19
+245,en,ha,,,covid-19 CDC,cutar covid-19 CDC
+246,en,ha,,,covid-19 contagious,cutar covid-19 mai yaduwa
+247,en,ha,,,covid-19 cure,magance covid-19
+248,en,ha,,,covid-19 dangerous,hadarin cutar covid-19
+249,en,ha,,,covid-19 deadly,cutar covid-19 mai kisa
+250,en,ha,,,covid-19 death,mutuwa kan cutar covid-19
+251,en,ha,,,covid-19 deaths,mace-mace kan cutar covid-19
+252,en,ha,,,covid-19 domestic travel,tafiye-tafiyen cikin gida saboda cutar covid-19
+253,en,ha,,,covid-19 early symptoms,alamomin farko na cutar covid-19
+254,en,ha,,,covid-19 effects,illar cutar covid-19
+255,en,ha,,,covid-19 epidemic,annobar cutar covid-19
+256,en,ha,,,covid-19 exposure,bayyanar cutar covid-19
+257,en,ha,,,covid-19 fatal,cutar covid-19 mai haddasa mutuwa
+258,en,ha,,,covid-19 fever,zazzabiin cutar covid-19
+259,en,ha,,,covid-19 illness,rashin lafiya kan cutar covid-19
+260,en,ha,,,covid-19 incubation,hayayyafar cutar covid-19
+261,en,ha,,,covid-19 incubation period,lokacin girman cutar covid-19
+262,en,ha,,,covid-19 infection,kamuwa da cutar covid-19
+263,en,ha,,,covid-19 international spread,yaɗuwar cutar covid-19 a ƙasa da ƙasa
+264,en,ha,,,covid-19 international travel,tafiye-tafiye a ƙasa da ƙasa saboda cutar covid-19
+265,en,ha,,,covid-19 isolation,kebewa saboda cutar covid-19
+266,en,ha,,,covid-19 lockdown,rufe gari saboda cutar covid-19
+267,en,ha,,,covid-19 map,taswirar cutar covid-19
+268,en,ha,,,covid-19 medicine,maganin cutar covid-19
+269,en,ha,,,covid-19 medicines,nagungunan cutar covid-19
+270,en,ha,,,covid-19 news,labarai a kan cutar covid-19
+271,en,ha,,,covid-19 outbreak,barkewar cutar covid-19
+272,en,ha,,,covid-19 pandemic,annobar cutar covid-19
+273,en,ha,,,covid-19 panic,tsorata kan cutar covid-19
+275,en,ha,,,covid-19 precautions,matakan kariya kan cutar covid-19
+276,en,ha,,,covid-19 protection,kariya daga cutar covid-19
+277,en,ha,,,covid-19 quarantine,kebe mai dauke da cutar covid-19
+278,en,ha,,,covid-19 SOS Alert,Bayanin ankararwar SOS na covid-19
+279,en,ha,,,covid-19 spread,yada cutar covid-19
+280,en,ha,,,covid-19 symptoms,alamomin cutar covid-19
+281,en,ha,,,covid-19 transmission,watsa cutar covid-19
+282,en,ha,,,covid-19 travel ban,haramta tafiye-tafiye saboda cutar covid-19
+283,en,ha,,,covid-19 travel restrictions,taƙaita tafiye-tafiye saboda covid-19
+284,en,ha,,,covid-19 treatment,maganin covid-19
+285,en,ha,,,covid-19 uncontrolled spread,kasa shawo kan yaɗuwar cutar covid-19
+286,en,ha,,,covid-19 vaccine,maganin rigakafin cutar covid-19
+287,en,ha,,,covid-19 vaccines,magungunan rigakafin cutar covid-19
+288,en,ha,,,COVID-19 virus,kwayar cutar covid-19
+289,en,ha,,,covid-19 virus outbreak,barkewar ƙwayar cutar covid-19
+290,en,ha,,,covid-19 virus transmission,yaɗa ƙwayar cutar covid-19
+291,en,ha,,,covid-19 WHO,cutar covid-19 Hukumar Lafiya Ta Duniya
+292,en,ha,,,covid19,cutar covid19
+293,en,ha,,,covid19 alert,bayanin ankararwa kan covid19
+294,en,ha,,,covid19 cases,yawan masu dauke da cutar covid19
+295,en,ha,,,covid19 CDC,cutar covid19 CDC
+301,en,ha,,,covid19 deaths,mace-mace saboda covid19
+302,en,ha,,,covid19 domestic travel,tafiye-tafiyen cikin gida saboda cutar covid19
+303,en,ha,,,covid19 effects,illar cutar covid19
+304,en,ha,,,covid19 epidemic,annobar cutar covid19
+305,en,ha,,,covid19 exposure,bayyanar cutar covid19
+306,en,ha,,,covid19 fatal,cutar covid19 mai haddasa mutuwa
+307,en,ha,,,covid19 fever,zazzabin cutar covid19
+308,en,ha,,,covid19 illness,rashin lafiya saboda cutar covid19
+309,en,ha,,,covid19 incubation,hayayyafar cutar covid19
+310,en,ha,,,covid19 incubation period,lokacin girman cutar covid19
+311,en,ha,,,covid19 infection,kamuwa da cutar covid19
+312,en,ha,,,covid19 international spread,yaɗuwar cutar covid19 a ƙasa da ƙasa
+313,en,ha,,,covid19 international travel,tafiye-tafiyen ƙasa da ƙasa saboda cutar covid19
+314,en,ha,,,covid19 isolation,kebewa saboda cutar covid19
+315,en,ha,,,covid19 lockdown,hana fita saboda cutar covid19
+316,en,ha,,,covid19 map,taswirar cutar covid19
+317,en,ha,,,covid19 medicine,maganin cutar covid19
+318,en,ha,,,covid19 medicines,magungunan cutar covid19
+319,en,ha,,,covid19 news,labarai kan cutur covid19
+320,en,ha,,,covid19 outbreak,barkewar cutar covid19
+321,en,ha,,,covid19 pandemic,annobar cutar covid19
+324,en,ha,,,covid19 precautions,matakan kariya kan cutar covid19
+325,en,ha,,,covid19 protection,kariya daga cutar covid19
+326,en,ha,,,covid19 quarantine,kebe mai dauke da cutar covid19
+327,en,ha,,,covid19 SOS Alert,Bayanin ankararwar SOS na cutar covid19
+328,en,ha,,,covid19 spread,yada cutar covid19
+329,en,ha,,,covid19 symptoms,alamomin cutar covid19
+330,en,ha,,,covid19 transmission,watsa cutar covid19
+331,en,ha,,,covid19 travel ban,haramta tafiye-tafiye saboda cutar covid19
+332,en,ha,,,covid19 travel restrictions,takaita tafiye-tafiye saboda cutar covid19
+333,en,ha,,,covid19 treatment,maganin cutar covid19
+335,en,ha,,,covid19 vaccine,maganin rigakafin cutar covid19
+336,en,ha,,,covid19 vaccines,magungunan rigakafin cutar covid19
+337,en,ha,,,covid19 virus,kwayar cutar covid19
+338,en,ha,,,covid19 virus outbreak,ɓarkewar ƙwayar cutar covid19
+339,en,ha,,,covid19 virus transmission,yaɗa ƙwayar cutar covid19
+342,en,ha,,,current outbreak,barkewar cuta a halin yanzu
+343,en,ha,,,deadly outbreak,barkewar cuta mai kisa
+345,en,ha,,,disease outbreak,barkewar cuta
+346,en,ha,,,Disposable hand sanitizer,man tsabtace hannu da za a iya yarwa
+348,en,ha,,,domestic travel,tafiye-tafiye a cikin gida
+351,en,ha,,,droplets,ɗigagga
+357,en,ha,,,Effects of coronavirus,Tasirin cutar coronavirus
+359,en,ha,,,epidemic,annoba
+360,en,ha,,,epidemic and pandemic,annoba da annoba
+362,en,ha,,,epidemic disease,annobar cuta
+364,en,ha,,,epidemic outbreak,barkewar annoba
+365,en,ha,,,epidemic period,lokacin annoba
+366,en,ha,,,epidemic prevention,kariya daga annoba
+368,en,ha,,,epidemic season,kakar annoba
+369,en,ha,,,epidemic situation,halin da ake ciki dangane da annoba
+371,en,ha,,,exposure,bayyana
+375,en,ha,,,exposure time,lokacin bayyana
+379,en,ha,,,fever,zazzaɓi
+380,en,ha,,,fight the virus,yakar ƙwayar cutar
+381,en,ha,,,Fighting the outbreak,Yakar ɓarkewar cuta
+382,en,ha,,,flu epidemic,murar annoba
+385,en,ha,,,fomites,abubuwa masu iya yaa cuta
+392,en,ha,,,global health emergency,hukumar agajin gaggawa a ɓangaren kiwon lafiya ta duniya
+393,en,ha,,,global outbreak,barkewar cuta a duniya
+394,en,ha,,,global pandemic,annoba a duniya
+396,en,ha,,,hand sanitizer,man wanke hannu mai kashe kwayar cuta
+397,en,ha,,,hand sanitizer dispenser,man tsabtace hannu na yarwa
+398,en,ha,,,hand sanitizer gel,man tsabtace hannu na mai
+399,en,ha,,,hand sanitizer spray,man tsabtace hannu na fesawa
+403,en,ha,,,home isolation,kebewa a gida
+404,en,ha,,,home quarantine,kebe mai dauke da cuta a gida
+410,en,ha,,,illness,rashin lafiya
+415,en,ha,,,incubation period,lokacin hayayyafar cutar
+418,en,ha,,,infected,sun kamu
+424,en,ha,,,instant hand sanitizer,man tsabtace hannu nan take
+425,en,ha,,,international spread,yaduwar cutar a kasashen duniya
+426,en,ha,,,international travel,tafiye-tafiye zuwa kasashen duniya
+427,en,ha,,,isolation,kaɗaici
+428,en,ha,,,isolation period,lokacin killacewa
+430,en,ha,,,isolation room,dakin da ake kebe masu cutar
+431,en,ha,,,isolation valve,na'urar da ake kebe masu cutar
+432,en,ha,,,isolation ward,bangaren da ake kebe masu dauke da cutar
+434,en,ha,,,lockdown,hana fita waje
+438,en,ha,,,major outbreak,babbar annoba
+439,en,ha,,,mandatory quarantine,kebe masu dauke da cuta na dole
+440,en,ha,,,mass gathering,manyan taruka
+444,en,ha,,,medicine,magani
+445,en,ha,,,medicines,magunguna
+448,en,ha,,,n95,n95
+449,en,ha,,,n95 mask,abin rufe fuska na n95
+450,en,ha,,,n95 respirator,abin shakar numfashi na n95
+451,en,ha,,,ncov,ncov
+452,en,ha,,,ncov-2019,ncov-2019
+453,en,ha,,,new coronavirus,cutar coronavirus sabuwa
+454,en,ha,,,new coronavirus pneumonia,sabuwar namoniyar cutar coronavirus
+460,en,ha,,,novel coronavirus,sabuwar cutar coronavirus
+462,en,ha,,,novel coronavirus infection,kamuwa da sabuwar cutar coronavirus
+463,en,ha,,,novel coronavirus outbreak,ɓarkewa da sabuwar cutar coronavirus
+464,en,ha,,,novel coronavirus pneumonia,namoniyar sabuwar cutar coronavirus
+470,en,ha,,,ongoing outbreak,barkewar cutar da ke gudana
+472,en,ha,,,outbreak,ɓarkewa
+474,en,ha,,,outbreak of coronavirus,ɓarkewar cuta ta coronavirus
+475,en,ha,,,outbreak of disease,ɓarkewar cuta
+482,en,ha,,,pandemic,annoba
+485,en,ha,,,pandemic influenza,annobar zazzaɓin mura
+486,en,ha,,,pandemic outbreak,ɓarkewar annoba
+487,en,ha,,,pandemic plan,shiri a kan annoba
+488,en,ha,,,pandemic potential,yiwuwar samun annoba
+495,en,ha,,,pneumonia,namoniya
+496,en,ha,,,pneumonia epidemic,namoniyar annoba
+497,en,ha,,,potential exposure,ikon bayyana
+498,en,ha,,,precautions,matakan kariya
+499,en,ha,,,prevent virus,hana kamuwa da ƙwayar cuta
+500,en,ha,,,prolonged exposure,ta tsawaita bayyana
+504,en,ha,,,quarantine,killace masu cuta
+505,en,ha,,,quarantine area,wurin killace masu ciwo
+506,en,ha,,,quarantine facility,kayan aikin killace masu ciwo
+507,en,ha,,,quarantine measures,matakan killace masu ciwo
+508,en,ha,,,quarantine period,lokacin killace masu ciwo
+509,en,ha,,,quarantine room,ɗakin killace masu ciwo
+510,en,ha,,,quarantine zone,yankin killace masu ciwo
+512,en,ha,,,Recovered coronavirus patient,masu ɗauke da cutar coronavirus da suka warke
+514,en,ha,,,repatriate,mayar da mutum kasarsa
+515,en,ha,,,repeated exposure,maimaita bayyana
+516,en,ha,,,respiratory syncytial virus,ƙwayar cutar da ke kama huhu
+517,en,ha,,,respiratory virus,ƙwayar cuta mai sarƙe numfashi
+519,en,ha,,,Sanitizing hand sanitizer,tsabtace hannu da man tsabbace hannu
+520,en,ha,,,SARS-CoV-2,SARS-CoV-2
+521,en,ha,,,self isolation,keɓe kai
+522,en,ha,,,self quarantine,killace kai
+523,en,ha,,,Severe outbreak,Ɓarkewar cuta mai tsanani
+525,en,ha,,,social distancing,nisantar jama'a
+526,en,ha,,,social distancing measures,matakan nisantar jama'a
+527,en,ha,,,social isolation,killacewa daga jama'a
+528,en,ha,,,SOS Alert,bayanin ankararwar SOS
+529,en,ha,,,spread,yaɗa
+530,en,ha,,,spread of coronavirus,yaduwar cutar coronavirus
+531,en,ha,,,spread of virus,yaɗuwar kwayar cuta
+535,en,ha,,,strain of virus,ƙwayar cuta mai ƙarfi
+541,en,ha,,,the incubation period,lokacin girman cuta
+544,en,ha,,,the novel coronavirus,sabuwar cutar coronavirus
+558,en,ha,,,touching face,taɓa fuska
+559,en,ha,,,travel advisory,shawara kan tafiye-tafiye
+560,en,ha,,,travel ban,hana tafiye-tafiye
+561,en,ha,,,travel restrictions,taƙaita tafiye-tafiye
+565,en,ha,,,use hand sanitizer,yi amfani da man tsabtace hannu
+566,en,ha,,,vaccines,magungunan rigakafi
+567,en,ha,,,viral outbreak,ɓarkewar ciwo
+568,en,ha,,,virtual lockdown,hana fita
+569,en,ha,,,virus,ƙwayar cuta
+570,en,ha,,,virus carrier,mai ɗauke da ƙwayar cuta
+573,en,ha,,,virus infection,ƙwayar cuta da ake kamuwa
+575,en,ha,,,virus mask,takunkumin rufe fuska don hana ƙwayar cuta
+576,en,ha,,,virus outbreak,kwayar cutar da ta ɓarke
+577,en,ha,,,virus prevention,hana kamuwa da ƙwayar cuta
+578,en,ha,,,virus protection,kariya daga kamuwa da ƙwayar cuta
+580,en,ha,,,virus spread,yaduwar ƙwayar cuta
+582,en,ha,,,virus spreads,ƙwayar cuta ta yaɗu
+583,en,ha,,,virus strain,karfin ƙwayar cuta
+584,en,ha,,,virus transmission,yaɗuwar kwayar cuta
+586,en,ha,,,wash your hands,wanke hannuwanka
+587,en,ha,,,washing hands,wanke hannuwa
+589,en,ha,,,WHO,Hukumar Lafiya ta Duniya
+590,en,ha,,,WHO Confirmed,Hukumar Lafiya Ta Duniya Ta Tabbatar
+591,en,ha,,,WHO Deaths,Mace-mace daga Hukumar Lafiya Ta Duniya
+592,en,ha,,,widespread outbreak,ɓarkewar cutar da ta game duniya
+597,en,ha,,,World Health Organization,Hukumar Lafiya Ta Duniya
+600,en,ha,,,zoonotic disease,cutar dabbobi zuwa ɗan adam
+601,en,ha,,,zoonotic virus,ƙwayar cutar dabbobi zuwa ɗan adam

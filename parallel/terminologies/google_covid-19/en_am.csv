@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,am,,,14 days in isolation,14 ቀናት በማግለያ
+26,en,am,,,14 days quarantine,የ 14 ቀናት ለይቶ ማቆያ
+27,en,am,,,2019 coronavirus,2019 ኮሮናቫይረስ
+28,en,am,,,2019 novel coronavirus,2019 ኖቬል ኮሮናቫይረስ
+29,en,am,,,2019-nCoV,2019-ኖኮቭ
+30,en,am,,,2020 coronavirus,2020 ኮሮናቫይረስ
+31,en,am,,,2020 novel coronavirus,2020 ኖቬል ኮሮናቫይረስ
+33,en,am,,,about coronavirus,ስለ ኮሮና ቫይረስ
+39,en,am,,,acute respiratory distress syndrome,ስር የሰደደ የመተንፈሻ አካላት ጫና በሽታ ምልክቶች
+40,en,am,,,advanced hand sanitizer,ከፍተኛ የእጅ ሳኒታይዘር
+41,en,am,,,Affected by coronavirus,በኮሮናቫይረስ የተጠቃ
+42,en,am,,,after exposure,ከመጋለጥ በኋላ
+43,en,am,,,After the epidemic,ከወረርሽኙ በኋላ
+44,en,am,,,After the outbreak,ከመስፋፋቱ በኋላ
+47,en,am,,,airborne virus,በአየር የሚተላለፍ ቫይረስ
+48,en,am,,,alcohol based hand sanitizer,አልኮል ተኮር የእጅ ሳኒታይዘር
+49,en,am,,,alcohol hand sanitizer,የአልኮል እጅ ሳኒታይዘር
+51,en,am,,,alcohol-based hand sanitizer,አልኮል-ተኮር የእጅ ሳኒታይዘር
+59,en,am,,,Anti-Corona virus spray,ጸረ-ኮሮና ቫይረስ መረጨት
+60,en,am,,,antibacterial hand sanitizer,ጸረባክቴሪያ የእጅ ሳኒታይዘር
+61,en,am,,,ARDS,ARDS
+64,en,am,,,avoid exposure,ተጋላጭነትን ያስቀሩ
+65,en,am,,,be infected,መያዝ
+75,en,am,,,Beware of coronavirus,ከቫይረሱ ይጠንቀቁ
+76,en,am,,,bilateral interstitial pneumonia,የጋራ መፈጠር ሳንባ ምች
+77,en,am,,,CDC,CDC
+78,en,am,,,Center for Disease Control,የበሽታ መቆጣጠሪያ ማዕከል
+83,en,am,,,community spread,የማህበረሰብ ስርጭት
+84,en,am,,,compulsory quarantine,አስገዳጅ ለይቶ ማቆያ
+85,en,am,,,contagious,ተላላፊ
+135,en,am,,,coronavirus,ኮሮናቫይረስ
+136,en,am,,,coronavirus (COVID-19),ኮሮናቫይረስ (ኮቪድ-19)
+137,en,am,,,coronavirus alert,የኮሮና ቫይረስ ማስጠንቀቂያ
+139,en,am,,,coronavirus cases,የኮሮና ቫይረስ ኬዞች
+141,en,am,,,coronavirus concerns,የኮሮናቫይረስ ትኩረቶች
+143,en,am,,,coronavirus crisis,የኮሮናቫይረስ ቀውስ
+149,en,am,,,coronavirus disease,የኮሮናቫይረስ በሸታ
+150,en,am,,,Coronavirus disease (COVID-19) outbreak,የኮሮናቫይረስ በሽታ (ኮቪድ-19) መስፋፋት
+153,en,am,,,coronavirus early symptoms,የኮሮናቫይረስ ቅድመ ምልክቶች
+155,en,am,,,coronavirus epidemic,የኮሮናቫይረስ ወረርሽኝ
+156,en,am,,,coronavirus exposure,የኮሮናቫይረስ ተጋላጭነት
+161,en,am,,,coronavirus incubation,የኮሮናቫይረስ በሽታ መታየት
+162,en,am,,,coronavirus incubation period,የኮሮናቫይረስ ምልክት እስከሚታይ ያለው ጊዜ
+163,en,am,,,coronavirus infection,የኮሮናቫይረስ ኢንፌክሽን
+168,en,am,,,coronavirus map,የኮሮናቫይረስ ካርታ
+170,en,am,,,coronavirus medicine,የኮሮናቫይረስ መድሃኒት
+171,en,am,,,coronavirus medicines,የኮሮናቫይረስ መድሃኒቶች
+172,en,am,,,coronavirus news,የኮሮናቫይረስ ዜና
+173,en,am,,,coronavirus outbreak,የኮኖናቫይረስ መስፋፋት
+174,en,am,,,coronavirus pandemic,የኮሮናቫይረስ ወረርሽኝ
+176,en,am,,,coronavirus pneumonia,ኮሮናቫይረስ የሳንባ ምች
+177,en,am,,,coronavirus precautions,የኮሮናቫይረስ ቅድመ ጥንቃቄዎች
+178,en,am,,,coronavirus prevention,ኮሮናቫይረስ መከላከል
+179,en,am,,,coronavirus protection,ኮሮናቫይረስ መከላከያ
+180,en,am,,,coronavirus quarantine,የኮሮናቫይረስ ለይቶ ማቆያ
+182,en,am,,,coronavirus SOS Alert,የኮሮናቫይረስ SOS ማስጠንቀቂያ
+183,en,am,,,coronavirus spread,የኮሮናቫይረስ ስርጭት
+184,en,am,,,coronavirus symptoms,የኮሮናቫይረስ ምልክቶች
+185,en,am,,,coronavirus transmission,የኮሮናቫይረስ መተላለፍ
+186,en,am,,,coronavirus travel ban,ኮሮናቫይረስ ጉዞ ገደብ
+187,en,am,,,coronavirus travel restrictions,የኮሮናቫይረስ ጉዞ ገደቦች
+188,en,am,,,coronavirus treatment,የኮሮናቫይረስ ህክምና
+190,en,am,,,coronavirus update,የኮሮናቫይረስ ዝማኔ
+191,en,am,,,coronavirus vaccine,የኮሮናቫይረስ ክትባት
+192,en,am,,,coronavirus vaccines,የኮሮናቫይረስ ክትባቶች
+198,en,am,,,covid cases,የኮቪድ ኬዝ
+205,en,am,,,covid early symptoms,የኮቪድ ቅድመ ምልክቶች
+213,en,am,,,covid incubation period,የኮቪድ እስከሚታይ ያለው ጊዜ
+215,en,am,,,covid international spread,ኮቪድ አለም አቀፍ ስርጭት
+216,en,am,,,covid international travel,ኮቪድ አለም አቀፍ ጉዞ
+217,en,am,,,covid isolation,የኮቪድ ለይቶ ማቆያ
+219,en,am,,,covid map,የኮቪድ ካርታ
+220,en,am,,,covid medicine,የኮቪድ መድሃኒት
+221,en,am,,,covid medicines,የኮቪድ መድሃኒቶች
+222,en,am,,,covid news,የኮቪድ ዜና
+223,en,am,,,covid outbreak,የኮቪድ መስፋፋት
+224,en,am,,,covid pandemic,የኮቪድ ወረርሽኝ
+225,en,am,,,covid panic,የኮቪድ ድንጋጤ
+228,en,am,,,covid SOS Alert,የኮቪድ SOS ማስጠንቀቂያ
+230,en,am,,,covid symptoms,የኮቪድ ምልክቶች
+231,en,am,,,covid transmission,የኮቪድ መተላለፍ
+232,en,am,,,covid travel ban,ኮቪድ ጉዞ ገደብ
+233,en,am,,,covid travel restrictions,ኮቪድ የጉዞ ገደቦች
+234,en,am,,,covid treatment,የኮቪድ ህክምና
+236,en,am,,,covid vaccine,የኮቪድ ክትባት
+237,en,am,,,covid vaccines,የኮቪድ ክትባቶች
+242,en,am,,,covid-19,ኮቪድ-19
+243,en,am,,,covid-19 alert,የኮቪድ-19 ማስጠንቀቂያ
+244,en,am,,,covid-19 cases,የኮቪድ-19 ኬዞች
+245,en,am,,,covid-19 CDC,ኮቪድ-19 CDC
+246,en,am,,,covid-19 contagious,የኮቪድ-19 ተላላፊ
+247,en,am,,,covid-19 cure,የኮቪድ-19 መዳኛ
+248,en,am,,,covid-19 dangerous,ኮቪድ-19 አደገኛ
+249,en,am,,,covid-19 deadly,ኮቪድ-19 ገዳይ
+250,en,am,,,covid-19 death,የኮቪድ-19 ሞት
+251,en,am,,,covid-19 deaths,የኮቪድ-19 ሞቶች
+252,en,am,,,covid-19 domestic travel,ኮቪድ-19 የሃገር ውስጥ ጉዞ
+253,en,am,,,covid-19 early symptoms,የኮቪድ-19 ቅድመ ምልክቶች
+254,en,am,,,covid-19 effects,የኮቪድ-19 ውጤቶች
+255,en,am,,,covid-19 epidemic,የኮቪድ-19 ወረርሽኝ
+256,en,am,,,covid-19 exposure,የኮቪድ-19 ተጋላጭነት
+257,en,am,,,covid-19 fatal,የኮቪድ-19 ህልፈት
+258,en,am,,,covid-19 fever,የኮቪድ-19 ትኩሳት
+259,en,am,,,covid-19 illness,የኮቪድ-19 ህመም
+260,en,am,,,covid-19 incubation,የኮቪድ-19 ምልክት መታየት
+261,en,am,,,covid-19 incubation period,የኮቪድ-19 ምልክት እስከሚታይ ያለው ጊዜ
+262,en,am,,,covid-19 infection,የኮቪድ-19 ኢንፌክሽን
+263,en,am,,,covid-19 international spread,የኮቪድ-19 አለም አቀፍ ስርጭት
+264,en,am,,,covid-19 international travel,ኮቪድ-19 አለማ አቀፍ ጉዞ
+265,en,am,,,covid-19 isolation,የኮቪድ-19 ማግለያ
+266,en,am,,,covid-19 lockdown,ኮቪድ-19 መዘጋት
+267,en,am,,,covid-19 map,የኮቪድ-19 ካርታ
+268,en,am,,,covid-19 medicine,የኮቪድ-19 መድሃኒት
+269,en,am,,,covid-19 medicines,የኮቪድ-19 መድሃኒቶች
+270,en,am,,,covid-19 news,የኮቪድ-19 ዜና
+271,en,am,,,covid-19 outbreak,የኮቪድ-19 መስፋፋት
+272,en,am,,,covid-19 pandemic,የኮቪድ-19 ወረርሽኝ
+273,en,am,,,covid-19 panic,የኮቪድ-19 ድንጋጤ
+275,en,am,,,covid-19 precautions,የኮቪድ-19 ቅድመ ጥንቃቄዎች
+276,en,am,,,covid-19 protection,የኮቪድ-19 መከላከያ
+277,en,am,,,covid-19 quarantine,የኮቪድ-19 ለይቶ ማቆያ
+278,en,am,,,covid-19 SOS Alert,የኮቪድ-19 SOS ማስጠንቀቂያ
+279,en,am,,,covid-19 spread,የኮቪድ-19 ስርጭት
+280,en,am,,,covid-19 symptoms,የኮቪድ-19 ምልክቶች
+281,en,am,,,covid-19 transmission,የኮቪድ-19 መተላለፍ
+282,en,am,,,covid-19 travel ban,ኮቪድ የጉዞ እገዳ
+283,en,am,,,covid-19 travel restrictions,ኮቪድ-19 የጉዞ ገደቦች
+284,en,am,,,covid-19 treatment,የኮቪድ-19 ህክምና
+285,en,am,,,covid-19 uncontrolled spread,የኮቪድ-19 በቁጥጥር ስር ያልሆነ ስርጭት
+286,en,am,,,covid-19 vaccine,የኮቪድ-19 ክትባት
+287,en,am,,,covid-19 vaccines,የኮቪድ-19 ክትባቶች
+288,en,am,,,COVID-19 virus,የኮቪድ-19 ቫይረስ
+289,en,am,,,covid-19 virus outbreak,የኮቪድ-19 መስፋፋት
+290,en,am,,,covid-19 virus transmission,የኮቪድ-19 ቫይረስ መተላለፍ
+291,en,am,,,covid-19 WHO,ኮቪድ-19 የአለም ጤና ድርጅት
+292,en,am,,,covid19,ኮቪድ19
+293,en,am,,,covid19 alert,የኮቪድ19 ማስጠንቀቂያ
+294,en,am,,,covid19 cases,የኮቪድ19 ኬዞች
+295,en,am,,,covid19 CDC,ኮቪድ19 CDC
+301,en,am,,,covid19 deaths,የኮቪድ19 ሞቶች
+302,en,am,,,covid19 domestic travel,ኮቪድ19 የሃገር ውስጥ ጉዞ
+303,en,am,,,covid19 effects,የኮቪድ19 ውጤቶች
+304,en,am,,,covid19 epidemic,የኮቪድ19 ወረርሽኝ
+305,en,am,,,covid19 exposure,የኮቪድ19 ተጋላጭነት
+306,en,am,,,covid19 fatal,የኮቪድ19 ህልፈት
+307,en,am,,,covid19 fever,የኮቪድ19 ትኩሳት
+308,en,am,,,covid19 illness,የኮቪድ19 ህመም
+309,en,am,,,covid19 incubation,የኮቪድ19 ምልክት መታየት
+310,en,am,,,covid19 incubation period,የኮቪድ19 ምልክት እስከሚታይ ያለው ጊዜ
+311,en,am,,,covid19 infection,የኮቪድ19 ኢንፌክሽን
+312,en,am,,,covid19 international spread,የኮቪድ19 አለም አቀፍ ስርጭት
+313,en,am,,,covid19 international travel,ኮቪድ19 አለም አቀፍ ጉዞ
+314,en,am,,,covid19 isolation,የኮቪድ19 ማግለያ
+315,en,am,,,covid19 lockdown,ኮቪድ19 መዘጋት
+316,en,am,,,covid19 map,የኮቪድ19 ካርታ
+317,en,am,,,covid19 medicine,የኮቪድ19 መድሃኒት
+318,en,am,,,covid19 medicines,የኮቪድ19 መድሃኒቶች
+319,en,am,,,covid19 news,የኮቪድ19 ዜና
+320,en,am,,,covid19 outbreak,የኮቪድ19 መስፋፋት
+321,en,am,,,covid19 pandemic,የኮቪድ19 ወረርሽኝ
+324,en,am,,,covid19 precautions,የኮቪድ19 ቅድመ ጥንቃቄዎች
+325,en,am,,,covid19 protection,የኮቪድ19 መከላከያ
+326,en,am,,,covid19 quarantine,የኮቪድ19 ለይቶ ማቆያ
+327,en,am,,,covid19 SOS Alert,የኮቪድ19 SOS ማስጠንቀቂያ
+328,en,am,,,covid19 spread,የኮቪድ19 ስርጭት
+329,en,am,,,covid19 symptoms,የኮቪድ19 ምልክቶች
+330,en,am,,,covid19 transmission,የኮቪድ19 መተላለፍ
+331,en,am,,,covid19 travel ban,ኮቪድ19 የጉዞ አገዳ
+332,en,am,,,covid19 travel restrictions,ኮቪድ19 የጉዞ ገደቦች
+333,en,am,,,covid19 treatment,የኮቪድ19 ህክምና
+335,en,am,,,covid19 vaccine,የኮቪድ19 ክትባት
+336,en,am,,,covid19 vaccines,የኮቪድ19 ክትባቶች
+337,en,am,,,covid19 virus,የኮቪድ19 ቫይረስ
+338,en,am,,,covid19 virus outbreak,የኮቪድ19 ቫይረስ መስፋፋት
+339,en,am,,,covid19 virus transmission,የኮቪድ19 ቫይረስ መተላለፍ
+342,en,am,,,current outbreak,የአሁኑ መስፋፋት
+343,en,am,,,deadly outbreak,ገዳይ መስፋፋት
+345,en,am,,,disease outbreak,የበሽታ ስርጭት
+346,en,am,,,Disposable hand sanitizer,የሚጣል የእጅ ሳኒታይዘር
+348,en,am,,,domestic travel,የሃገር ውስጥ ጉዞ
+351,en,am,,,droplets,ጠብታዎች
+357,en,am,,,Effects of coronavirus,የኮሮናቫይረስ ውጤቶች
+359,en,am,,,epidemic,ተላላፊ በሽታ
+360,en,am,,,epidemic and pandemic,ተላላፊ እና ወረርሽኝ
+362,en,am,,,epidemic disease,ተላላፊ በሽታ
+364,en,am,,,epidemic outbreak,ተላላፊ ስርጭት
+365,en,am,,,epidemic period,የተላላፊ ወቅት
+366,en,am,,,epidemic prevention,የተላላፊ በሽታ መከላከያ
+368,en,am,,,epidemic season,የተላላፊ በሽታ ወቅት
+369,en,am,,,epidemic situation,የተላላፊ በሽታ ሁኔታ
+371,en,am,,,exposure,ተጋላጭነት
+375,en,am,,,exposure time,የተጋላጭነት ጊዜ
+379,en,am,,,fever,ትኩሳት
+380,en,am,,,fight the virus,ቫይረሱን መዋጋት
+381,en,am,,,Fighting the outbreak,መስፋፋቱን መዋጋት
+382,en,am,,,flu epidemic,የኢንፍሎዌንዛ ተላላፊ በሽታ
+385,en,am,,,fomites,ቫይረሱን ተሸክመው ሊቆዩ የሚችሉ ቁሳቁሶች
+392,en,am,,,global health emergency,የዓለም አቀፍ ጤና ድንገተኛ
+393,en,am,,,global outbreak,ዓለም አቀፍ መስፋፋት
+394,en,am,,,global pandemic,ዓለም አቀፍ ወረርሽኝ
+396,en,am,,,hand sanitizer,የእጅ ሳኒታይዘር
+397,en,am,,,hand sanitizer dispenser,የእጅ ሳኒታይዘር አስተላላፊ
+398,en,am,,,hand sanitizer gel,የእጅ ሳኒታይዘር ጄል
+399,en,am,,,hand sanitizer spray,የእጅ ሳኒታይዘር መርጫ
+403,en,am,,,home isolation,በቤት ውስጥ መነጠል
+404,en,am,,,home quarantine,በቤት ውስጥ ለይቶ ማስቀመጥ
+410,en,am,,,illness,ህመም
+415,en,am,,,incubation period,የበሽታው ምልክት እስከሚታይ ያለው ጊዜ
+418,en,am,,,infected,የተያዘ
+424,en,am,,,instant hand sanitizer,አስቸኳይ የእጅ ሳኒታይዘር
+425,en,am,,,international spread,አለም-አቀፋዊ ስርጭት
+426,en,am,,,international travel,የአለም-አቀፋዊ ጉዞ
+427,en,am,,,isolation,ነጠላ
+428,en,am,,,isolation period,የማግለያ ወቅት
+430,en,am,,,isolation room,የማግለያ ክፍል
+431,en,am,,,isolation valve,የማግለያ በር
+432,en,am,,,isolation ward,የማግለያ ተራ ክፍል
+434,en,am,,,lockdown,መዝጋት
+438,en,am,,,major outbreak,ከፍተኛ መስፋፋት
+439,en,am,,,mandatory quarantine,የግዴታ ለይቶ ማቆያ
+440,en,am,,,mass gathering,የብዙዎች ስብስብ
+444,en,am,,,medicine,መድሃኒት
+445,en,am,,,medicines,መድሃኒቶች
+448,en,am,,,n95,ኖ95
+449,en,am,,,n95 mask,ኤን95 ጭምብል
+450,en,am,,,n95 respirator,ኤን95 መተንፈሻ
+451,en,am,,,ncov,ኖኮቭ
+452,en,am,,,ncov-2019,ኖኮቭ-2019
+453,en,am,,,new coronavirus,አዲስ ኮሮናቫይረስ
+454,en,am,,,new coronavirus pneumonia,አዲስ የኮሮናቫይረስ ሳንባ ምች
+460,en,am,,,novel coronavirus,ኖቬል ቫይረስ
+462,en,am,,,novel coronavirus infection,ኖቬል ኮሮናቫይረስ ኢንፌክሽን
+463,en,am,,,novel coronavirus outbreak,ኖቬል ኮሮናቫይረስ መስፋፋት
+464,en,am,,,novel coronavirus pneumonia,የኖቬል ኮሮናቫይረስ የሳንባ ምች
+470,en,am,,,ongoing outbreak,በመስፋፋት ላይ
+472,en,am,,,outbreak,መስፋፋት
+474,en,am,,,outbreak of coronavirus,የኮሮናቫይረስ መስፋፋት
+475,en,am,,,outbreak of disease,የበሽታ መስፋፋት
+482,en,am,,,pandemic,ወረርሽኝ
+485,en,am,,,pandemic influenza,የወረርሽኝ ኢንፍሎዌንዛ
+486,en,am,,,pandemic outbreak,የወረርሽኝ መስፋፋት
+487,en,am,,,pandemic plan,የወረርሽኝ እቅድ
+488,en,am,,,pandemic potential,የወረርሽኝ አቅም
+495,en,am,,,pneumonia,የሳንባ ምች
+496,en,am,,,pneumonia epidemic,የሳንባ ምች ተላላፊ በሽታ
+497,en,am,,,potential exposure,እድል ተጋላጭነት
+498,en,am,,,precautions,ቅድመ ጥንቃቄዎች
+499,en,am,,,prevent virus,ቫይረስ መከላከል
+500,en,am,,,prolonged exposure,የተራዘመ ተጋላጭነት
+504,en,am,,,quarantine,ለብቻ መለየት
+505,en,am,,,quarantine area,ለይቶ ማቆያ ቦታ
+506,en,am,,,quarantine facility,ለይቶ ማቆያ ተቋም
+507,en,am,,,quarantine measures,የለይቶ ማቆያ እርምጃዎች
+508,en,am,,,quarantine period,የለይቶ ማቆያ ጊዜ
+509,en,am,,,quarantine room,ለይቶ ማቆያ ክፍል
+510,en,am,,,quarantine zone,ለይቶ ማቆያ ክልል
+512,en,am,,,Recovered coronavirus patient,ያገገሙ የኮሮናቫይረስ ታማሚዎች
+514,en,am,,,repatriate,ወደ ሃገር መልሶ መላክ
+515,en,am,,,repeated exposure,የተደጋገመ ተጋላጭነት
+516,en,am,,,respiratory syncytial virus,የመተንፈሻ አካላት ተመሳሳይ ቫይረስ
+517,en,am,,,respiratory virus,የመተንፈሻ አካላት ቫይረስ
+519,en,am,,,Sanitizing hand sanitizer,ፈሳሽ ማጽጃ የእጅ ሳኒታይዘር
+520,en,am,,,SARS-CoV-2,ሳርስ-ኮቭ-2
+521,en,am,,,self isolation,የራስ ማግለያ
+522,en,am,,,self quarantine,የራስ ለይቶ ማቆያ
+523,en,am,,,Severe outbreak,ከባድ መስፋፋት
+525,en,am,,,social distancing,የማህበራዊ ርቀት
+526,en,am,,,social distancing measures,የማህበራዊ ርቀት እርምጃዎች
+527,en,am,,,social isolation,የማህበራዊ ማግለያ
+528,en,am,,,SOS Alert,SOS ማስጠንቀቂያ
+529,en,am,,,spread,ስርጭት
+530,en,am,,,spread of coronavirus,የኮሮናቫይረስ መስፋፋት
+531,en,am,,,spread of virus,የቫይረስ ስርጭት
+535,en,am,,,strain of virus,የቫይረስ ጫና
+541,en,am,,,the incubation period,ምልክቱ እስከሚታይ ያለው ጊዜ
+544,en,am,,,the novel coronavirus,የኖቬል ኮሮናቫይረስ
+558,en,am,,,touching face,መነካካት ፊት
+559,en,am,,,travel advisory,የጉዞ አማካሪ
+560,en,am,,,travel ban,የጉዝ እገዳ
+561,en,am,,,travel restrictions,የጉዞ ገደቦች
+565,en,am,,,use hand sanitizer,የእጅ ሳኒታይዘር ይጠቀሙ
+566,en,am,,,vaccines,ክትባቶች
+567,en,am,,,viral outbreak,የቫይረስ መስፋፋት
+568,en,am,,,virtual lockdown,ቨርቹዋል መዘጋት
+569,en,am,,,virus,ቫይረስ
+570,en,am,,,virus carrier,ቫይረስ ተሸካሚ
+573,en,am,,,virus infection,ቫይረስ ኢንፌክሽን
+575,en,am,,,virus mask,ቫይረስ ጭምብል
+576,en,am,,,virus outbreak,ቫይረስ መስፋፋት
+577,en,am,,,virus prevention,ቫይረስ መከላከል
+578,en,am,,,virus protection,ቫይረስ መከላከያ
+580,en,am,,,virus spread,የቫይረስ ስርጭት
+582,en,am,,,virus spreads,ቫይረስ ይሰራጫል
+583,en,am,,,virus strain,ቫይረስ ጫና
+584,en,am,,,virus transmission,የቫይረስ መተላለፍ
+586,en,am,,,wash your hands,እጅዎን ይታጠቡ
+587,en,am,,,washing hands,እጆችን መታጠብ
+589,en,am,,,WHO,የአለም ጤና ድርጅት
+590,en,am,,,WHO Confirmed,የአለም ጤና ድርጅት አረጋግጧል
+591,en,am,,,WHO Deaths,የአለም ጤና ድርጅት ሞቶች
+592,en,am,,,widespread outbreak,የተስፋፋ ስርጭት
+597,en,am,,,World Health Organization,የአለም ጤና ድርጅት
+600,en,am,,,zoonotic disease,ዙኖቲክ በሽታ
+601,en,am,,,zoonotic virus,ዙኖቲክ ቫይረስ

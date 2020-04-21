@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,eo,,,14 days in isolation,14 tagoj en izolo
+26,en,eo,,,14 days quarantine,14-taga kvaranteno
+27,en,eo,,,2019 coronavirus,2019-a kronviruso
+28,en,eo,,,2019 novel coronavirus,nova kronviruso el 2019
+29,en,eo,,,2019-nCoV,2019-nCoV
+30,en,eo,,,2020 coronavirus,2020-a kronviruso
+31,en,eo,,,2020 novel coronavirus,nova kronviruso el 2020
+33,en,eo,,,about coronavirus,pri kronviruso
+39,en,eo,,,acute respiratory distress syndrome,akuta spir-malkomforta sindromo
+40,en,eo,,,advanced hand sanitizer,supera manpurigilo
+41,en,eo,,,Affected by coronavirus,Atingita de kronviruso
+42,en,eo,,,after exposure,post elmetiĝo
+43,en,eo,,,After the epidemic,Post la epidemio
+44,en,eo,,,After the outbreak,Post la eksplodo
+47,en,eo,,,airborne virus,traaera viruso
+48,en,eo,,,alcohol based hand sanitizer,alkohol-devena manpurigilo
+49,en,eo,,,alcohol hand sanitizer,alkohola manpurigilo
+51,en,eo,,,alcohol-based hand sanitizer,alkohol-devena manpurigilo
+59,en,eo,,,Anti-Corona virus spray,Kontraŭkronvirusa ŝprucigilo
+60,en,eo,,,antibacterial hand sanitizer,kontraŭbakteria manpurigilo
+61,en,eo,,,ARDS,Akuta Spir-malkomforta Sindromo
+64,en,eo,,,avoid exposure,evitu elmetiĝon
+65,en,eo,,,be infected,esti infektita
+75,en,eo,,,Beware of coronavirus,Atentu pri la kronviruso
+76,en,eo,,,bilateral interstitial pneumonia,duflanka interstica pneŭmonio
+77,en,eo,,,CDC,Kontrol-Centro pri Malsano
+78,en,eo,,,Center for Disease Control,Centro pri Malsan-Kontrolo
+83,en,eo,,,community spread,komunume disvastiĝinta
+84,en,eo,,,compulsory quarantine,deviga kvaranteno
+85,en,eo,,,contagious,kontaĝa
+135,en,eo,,,coronavirus,kronviruso
+136,en,eo,,,coronavirus (COVID-19),kronviruso (COVID-19)
+137,en,eo,,,coronavirus alert,kronvirusa atentigo
+139,en,eo,,,coronavirus cases,kronvirusaj kazoj
+141,en,eo,,,coronavirus concerns,zorgoj pri kronviruso
+143,en,eo,,,coronavirus crisis,kronvirusa krizo
+149,en,eo,,,coronavirus disease,kronvirus-malsano
+150,en,eo,,,Coronavirus disease (COVID-19) outbreak,Eksplodo de la kronvirus-malsano (COVID-19)
+153,en,eo,,,coronavirus early symptoms,fruaj simptomoj de kronviruso
+155,en,eo,,,coronavirus epidemic,kronvirusa epidemio
+156,en,eo,,,coronavirus exposure,kronvirusa elmetiĝo
+161,en,eo,,,coronavirus incubation,kronvirusa inkubacio
+162,en,eo,,,coronavirus incubation period,kronvirusa inkubacia periodo
+163,en,eo,,,coronavirus infection,kronvirusa infekto
+168,en,eo,,,coronavirus map,kronvirusa mapo
+170,en,eo,,,coronavirus medicine,kronvirusa medikamento
+171,en,eo,,,coronavirus medicines,kronvirusaj medikamentoj
+172,en,eo,,,coronavirus news,novaĵoj pri kronviruso
+173,en,eo,,,coronavirus outbreak,kronvirusa eksplodo
+174,en,eo,,,coronavirus pandemic,kronvirusa pandemio
+176,en,eo,,,coronavirus pneumonia,kronvirusa pneŭmonio
+177,en,eo,,,coronavirus precautions,kronvirusaj antaŭzorgoj
+178,en,eo,,,coronavirus prevention,kronvirus-preventado
+179,en,eo,,,coronavirus protection,kronvirus-protekto
+180,en,eo,,,coronavirus quarantine,kvaranteno pro kronviruso
+182,en,eo,,,coronavirus SOS Alert,kronvirusa SOS-atentigo
+183,en,eo,,,coronavirus spread,kronvirusa disvastiĝo
+184,en,eo,,,coronavirus symptoms,kronvirusaj simptomoj
+185,en,eo,,,coronavirus transmission,kronvirus-transdono
+186,en,eo,,,coronavirus travel ban,vojaĝ-malpermeso pro kronviruso
+187,en,eo,,,coronavirus travel restrictions,vojaĝ-limigoj pro kronviruso
+188,en,eo,,,coronavirus treatment,traktado pri kronviruso
+190,en,eo,,,coronavirus update,aktualigo pri kronviruso
+191,en,eo,,,coronavirus vaccine,kronvirusa vakcino
+192,en,eo,,,coronavirus vaccines,kronvirusaj vakcinoj
+198,en,eo,,,covid cases,kazoj de COVID
+205,en,eo,,,covid early symptoms,fruaj simptomoj de COVID
+213,en,eo,,,covid incubation period,inkubacia periodo de COVID
+215,en,eo,,,covid international spread,internacia disvastiĝo de COVID
+216,en,eo,,,covid international travel,internacia vojaĝo dum COVID
+217,en,eo,,,covid isolation,izolo pro COVID
+219,en,eo,,,covid map,mapo de COVID
+220,en,eo,,,covid medicine,medikamento kontraŭ COVID
+221,en,eo,,,covid medicines,medikamentoj kontraŭ COVID
+222,en,eo,,,covid news,novaĵoj pri COVID
+223,en,eo,,,covid outbreak,eksplodo de COVID
+224,en,eo,,,covid pandemic,pandemio de COVID
+225,en,eo,,,covid panic,paniko pro COVID
+228,en,eo,,,covid SOS Alert,SOS-atentigo pri COVID
+230,en,eo,,,covid symptoms,simptomoj pri COVID
+231,en,eo,,,covid transmission,transdono de COVID
+232,en,eo,,,covid travel ban,vojaĝ-malpermeso pro COVID
+233,en,eo,,,covid travel restrictions,vojaĝ-limigoj pro COVID
+234,en,eo,,,covid treatment,traktado pri COVID
+236,en,eo,,,covid vaccine,vakcino kontraŭ COVID
+237,en,eo,,,covid vaccines,vakcinoj kontraŭ COVID
+242,en,eo,,,covid-19,COVID-19
+243,en,eo,,,covid-19 alert,atentigo pri COVID-19
+244,en,eo,,,covid-19 cases,kazoj de COVID-19
+245,en,eo,,,covid-19 CDC,Kontrol-Centro pri COVID-19
+246,en,eo,,,covid-19 contagious,kontaĝa por COVID-19
+247,en,eo,,,covid-19 cure,kuraco de COVID-19
+248,en,eo,,,covid-19 dangerous,danĝera pro COVID-19
+249,en,eo,,,covid-19 deadly,mortiga pro COVID-19
+250,en,eo,,,covid-19 death,morto pro COVID-19
+251,en,eo,,,covid-19 deaths,mortoj pro COVID-19
+252,en,eo,,,covid-19 domestic travel,enlanda vojaĝo dum COVID-19
+253,en,eo,,,covid-19 early symptoms,fruaj simptomoj de COVID-19
+254,en,eo,,,covid-19 effects,efektoj de COVID-19
+255,en,eo,,,covid-19 epidemic,epidemio de COVID-19
+256,en,eo,,,covid-19 exposure,elmetiĝo al COVID-19
+257,en,eo,,,covid-19 fatal,fatala pro COVID-19
+258,en,eo,,,covid-19 fever,febro pro COVID-19
+259,en,eo,,,covid-19 illness,COVID-19
+260,en,eo,,,covid-19 incubation,inkubacio de COVID-19
+261,en,eo,,,covid-19 incubation period,inkubacia periodo de COVID-19
+262,en,eo,,,covid-19 infection,infekto de COVID-19
+263,en,eo,,,covid-19 international spread,internacia disvastiĝo de COVID-19
+264,en,eo,,,covid-19 international travel,internacia vojaĝo dum COVID-19
+265,en,eo,,,covid-19 isolation,izolo pro COVID-19
+266,en,eo,,,covid-19 lockdown,ŝtopado pro COVID-19
+267,en,eo,,,covid-19 map,mapo de COVID-19
+268,en,eo,,,covid-19 medicine,medikamento kontraŭ COVID-19
+269,en,eo,,,covid-19 medicines,medikamentoj kontraŭ COVID-19
+270,en,eo,,,covid-19 news,novaĵoj pri COVID-19
+271,en,eo,,,covid-19 outbreak,eksplodo de COVID-19
+272,en,eo,,,covid-19 pandemic,pandemio de COVID-19
+273,en,eo,,,covid-19 panic,paniko pro COVID-19
+275,en,eo,,,covid-19 precautions,antaŭzorgoj pri COVID-19
+276,en,eo,,,covid-19 protection,protekto kontraŭ COVID-19
+277,en,eo,,,covid-19 quarantine,kvaranteno pro COVID-19
+278,en,eo,,,covid-19 SOS Alert,SOS-atentigo pri COVID-19
+279,en,eo,,,covid-19 spread,disvastiĝo de COVID-19
+280,en,eo,,,covid-19 symptoms,simptomoj pri COVID-19
+281,en,eo,,,covid-19 transmission,transdono de COVID-19
+282,en,eo,,,covid-19 travel ban,vojaĝ-malpermeso pro COVID-19
+283,en,eo,,,covid-19 travel restrictions,vojaĝ-limigoj pro COVID-19
+284,en,eo,,,covid-19 treatment,traktado pri COVID-19
+285,en,eo,,,covid-19 uncontrolled spread,neregata disvastiĝo de COVID-19
+286,en,eo,,,covid-19 vaccine,vakcino kontraŭ COVID-19
+287,en,eo,,,covid-19 vaccines,vakcinoj kontraŭ COVID-19
+288,en,eo,,,COVID-19 virus,viruso de COVID-19
+289,en,eo,,,covid-19 virus outbreak,eksplodo de la viruso de COVID-19
+290,en,eo,,,covid-19 virus transmission,transdono de la viruso de COVID-19
+291,en,eo,,,covid-19 WHO,MOS pri COVID-19
+292,en,eo,,,covid19,COVID-19
+293,en,eo,,,covid19 alert,atentigo pri COVID-19
+294,en,eo,,,covid19 cases,kazoj de COVID-19
+295,en,eo,,,covid19 CDC,Kontrol-Centro pri COVID-19
+301,en,eo,,,covid19 deaths,mortoj pro COVID-19
+302,en,eo,,,covid19 domestic travel,enlanda vojaĝo dum COVID-19
+303,en,eo,,,covid19 effects,efektoj de COVID-19
+304,en,eo,,,covid19 epidemic,epidemio de COVID-19
+305,en,eo,,,covid19 exposure,elmetiĝo al COVID-19
+306,en,eo,,,covid19 fatal,fatala pro COVID-19
+307,en,eo,,,covid19 fever,febro pro COVID-19
+308,en,eo,,,covid19 illness,COVID-19
+309,en,eo,,,covid19 incubation,inkubacio de COVID-19
+310,en,eo,,,covid19 incubation period,inkubacia periodo de COVID-19
+311,en,eo,,,covid19 infection,infekto de COVID-19
+312,en,eo,,,covid19 international spread,internacia disvastiĝo de COVID-19
+313,en,eo,,,covid19 international travel,internacia vojaĝo dum COVID-19
+314,en,eo,,,covid19 isolation,izolo pro COVID-19
+315,en,eo,,,covid19 lockdown,ŝtopado pro COVID-19
+316,en,eo,,,covid19 map,mapo de COVID-19
+317,en,eo,,,covid19 medicine,medikamento kontraŭ COVID-19
+318,en,eo,,,covid19 medicines,medikamentoj kontraŭ COVID-19
+319,en,eo,,,covid19 news,novaĵoj pri COVID-19
+320,en,eo,,,covid19 outbreak,eksplodo de COVID-19
+321,en,eo,,,covid19 pandemic,pandemio de COVID-19
+324,en,eo,,,covid19 precautions,antaŭzorgoj pri COVID-19
+325,en,eo,,,covid19 protection,protekto kontraŭ COVID-19
+326,en,eo,,,covid19 quarantine,kvaranteno pro COVID-19
+327,en,eo,,,covid19 SOS Alert,SOS-atentigo pri COVID-19
+328,en,eo,,,covid19 spread,disvastiĝo de COVID-19
+329,en,eo,,,covid19 symptoms,simptomoj pri COVID-19
+330,en,eo,,,covid19 transmission,transdono de COVID-19
+331,en,eo,,,covid19 travel ban,vojaĝ-malpermeso pro COVID-19
+332,en,eo,,,covid19 travel restrictions,vojaĝ-limigoj pro COVID-19
+333,en,eo,,,covid19 treatment,traktado de COVID-19
+335,en,eo,,,covid19 vaccine,vakcino kontraŭ COVID-19
+336,en,eo,,,covid19 vaccines,vakcinoj kontraŭ COVID-19
+337,en,eo,,,covid19 virus,viruso de COVID-19
+338,en,eo,,,covid19 virus outbreak,eksplodo de la viruso de COVID-19
+339,en,eo,,,covid19 virus transmission,transdono de la viruso de COVID-19
+342,en,eo,,,current outbreak,aktuala eksplodo
+343,en,eo,,,deadly outbreak,mortiga eksplodo
+345,en,eo,,,disease outbreak,malsan-eksplodo
+346,en,eo,,,Disposable hand sanitizer,Aplikebla manpurigilo
+348,en,eo,,,domestic travel,enlanda vojaĝo
+351,en,eo,,,droplets,gutetoj
+357,en,eo,,,Effects of coronavirus,Efektoj de la kronviruso
+359,en,eo,,,epidemic,epidemia
+360,en,eo,,,epidemic and pandemic,epidemio kaj pandemio
+362,en,eo,,,epidemic disease,epidemia malsano
+364,en,eo,,,epidemic outbreak,epidemia eksplodo
+365,en,eo,,,epidemic period,epidemia periodo
+366,en,eo,,,epidemic prevention,epidemio-preventado
+368,en,eo,,,epidemic season,epidemio-sezono
+369,en,eo,,,epidemic situation,epidemio-situacio
+371,en,eo,,,exposure,elmeto
+375,en,eo,,,exposure time,elmetiĝo-tempo
+379,en,eo,,,fever,febro
+380,en,eo,,,fight the virus,luktu kontraŭ la viruso
+381,en,eo,,,Fighting the outbreak,En lukto kontraŭ la eksplodo
+382,en,eo,,,flu epidemic,gripo-epidemio
+385,en,eo,,,fomites,fomitoj
+392,en,eo,,,global health emergency,tutmonda san-krizo
+393,en,eo,,,global outbreak,tutmonda eksplodo
+394,en,eo,,,global pandemic,tutmonda pandemio
+396,en,eo,,,hand sanitizer,manpurigilo
+397,en,eo,,,hand sanitizer dispenser,manpurigila aplikilo
+398,en,eo,,,hand sanitizer gel,manpurigila gelato
+399,en,eo,,,hand sanitizer spray,manpurigila ŝprucigilo
+403,en,eo,,,home isolation,hejmizolo
+404,en,eo,,,home quarantine,hejmkvaranteno
+410,en,eo,,,illness,malsano
+415,en,eo,,,incubation period,inkubacia periodo
+418,en,eo,,,infected,infektita
+424,en,eo,,,instant hand sanitizer,tujpreta manpurigilo
+425,en,eo,,,international spread,internacia disvastiĝo
+426,en,eo,,,international travel,internacia vojaĝo
+427,en,eo,,,isolation,izolo
+428,en,eo,,,isolation period,izolperiodo
+430,en,eo,,,isolation room,izol-ĉambro
+431,en,eo,,,isolation valve,izol-valvo
+432,en,eo,,,isolation ward,izolejo
+434,en,eo,,,lockdown,ŝtopado
+438,en,eo,,,major outbreak,grava eksplodo
+439,en,eo,,,mandatory quarantine,deviga kvaranteno
+440,en,eo,,,mass gathering,amaskunveno
+444,en,eo,,,medicine,medikamento
+445,en,eo,,,medicines,medikamentoj
+448,en,eo,,,n95,masko n95
+449,en,eo,,,n95 mask,masko n95
+450,en,eo,,,n95 respirator,spirmasko n95
+451,en,eo,,,ncov,ncov
+452,en,eo,,,ncov-2019,nkov-2019
+453,en,eo,,,new coronavirus,nova kronviruso
+454,en,eo,,,new coronavirus pneumonia,nova kronvirusa pneŭmonio
+460,en,eo,,,novel coronavirus,nova kronviruso
+462,en,eo,,,novel coronavirus infection,nova kronvirus-infekto
+463,en,eo,,,novel coronavirus outbreak,nova kronvirus-eksplodo
+464,en,eo,,,novel coronavirus pneumonia,nova kronvirusa pneŭmonio
+470,en,eo,,,ongoing outbreak,kuranta eksplodo
+472,en,eo,,,outbreak,eksplodo
+474,en,eo,,,outbreak of coronavirus,eksplodo de kronviruso
+475,en,eo,,,outbreak of disease,eksplodo de malsano
+482,en,eo,,,pandemic,pandemia
+485,en,eo,,,pandemic influenza,pandemia gripo
+486,en,eo,,,pandemic outbreak,pandemia eksplodo
+487,en,eo,,,pandemic plan,pandemia plano
+488,en,eo,,,pandemic potential,pandemia potencialo
+495,en,eo,,,pneumonia,pneŭmonio
+496,en,eo,,,pneumonia epidemic,pneŭmonio-epidemio
+497,en,eo,,,potential exposure,potenciala elmeto
+498,en,eo,,,precautions,antaŭzorgoj
+499,en,eo,,,prevent virus,preventu viruson
+500,en,eo,,,prolonged exposure,longdaŭra elmeto
+504,en,eo,,,quarantine,kvaranteno
+505,en,eo,,,quarantine area,kvarantena areo
+506,en,eo,,,quarantine facility,kvarantenejo
+507,en,eo,,,quarantine measures,kvarantenaj procedoj
+508,en,eo,,,quarantine period,kvarantena periodo
+509,en,eo,,,quarantine room,kvarantena ĉambro
+510,en,eo,,,quarantine zone,kvarantena zono
+512,en,eo,,,Recovered coronavirus patient,Resanigita kronvirusa paciento
+514,en,eo,,,repatriate,rehejmigi
+515,en,eo,,,repeated exposure,ripeta elmeto
+516,en,eo,,,respiratory syncytial virus,spira sincitia viruso
+517,en,eo,,,respiratory virus,spir-viruso
+519,en,eo,,,Sanitizing hand sanitizer,Manpurigilo
+520,en,eo,,,SARS-CoV-2,SARS-CoV-2
+521,en,eo,,,self isolation,izoliĝo
+522,en,eo,,,self quarantine,kvaranteniĝo
+523,en,eo,,,Severe outbreak,severa eksplodo
+525,en,eo,,,social distancing,socia malproksimiĝo
+526,en,eo,,,social distancing measures,sociaj malproksimigaj procedoj
+527,en,eo,,,social isolation,socia izoliĝo
+528,en,eo,,,SOS Alert,SOS-atentigo
+529,en,eo,,,spread,disvastigi
+530,en,eo,,,spread of coronavirus,disvastiĝo de kronviruso
+531,en,eo,,,spread of virus,disvastiĝo de viruso
+535,en,eo,,,strain of virus,generlinio de viruso
+541,en,eo,,,the incubation period,la inkubacia periodo
+544,en,eo,,,the novel coronavirus,la nova kronviruso
+558,en,eo,,,touching face,tuŝi la vizaĝon
+559,en,eo,,,travel advisory,vojaĝ-rekomendo
+560,en,eo,,,travel ban,vojaĝ-malpermeso
+561,en,eo,,,travel restrictions,vojaĝ-limigoj
+565,en,eo,,,use hand sanitizer,uzu manpurigilon
+566,en,eo,,,vaccines,vakcinoj
+567,en,eo,,,viral outbreak,virusa eksplodo
+568,en,eo,,,virtual lockdown,virtuala ŝtopado
+569,en,eo,,,virus,viruso
+570,en,eo,,,virus carrier,virus-portanto
+573,en,eo,,,virus infection,virusa infekto
+575,en,eo,,,virus mask,kontraŭvirusa masko
+576,en,eo,,,virus outbreak,virus-eksplodo
+577,en,eo,,,virus prevention,virus-prevento
+578,en,eo,,,virus protection,kontraŭvirusa protekto
+580,en,eo,,,virus spread,virus-disvastiĝo
+582,en,eo,,,virus spreads,viruso disvastiĝas
+583,en,eo,,,virus strain,virus-generlinio
+584,en,eo,,,virus transmission,virus-transdono
+586,en,eo,,,wash your hands,lavu viajn manojn
+587,en,eo,,,washing hands,lavante la manojn
+589,en,eo,,,WHO,Monda Organizaĵo pri Sano
+590,en,eo,,,WHO Confirmed,MOS Konfirmis
+591,en,eo,,,WHO Deaths,Mortoj laŭ MOS
+592,en,eo,,,widespread outbreak,ampleksa eksplodo
+597,en,eo,,,World Health Organization,Monda Organizaĵo pri Sano
+600,en,eo,,,zoonotic disease,bestodevena malsano
+601,en,eo,,,zoonotic virus,bestodevena viruso

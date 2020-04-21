@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,sw,,,14 days in isolation,kujitenga kwa siku 14
+26,en,sw,,,14 days quarantine,karantini ya siku 14
+27,en,sw,,,2019 coronavirus,virusi vya korona 2019
+28,en,sw,,,2019 novel coronavirus,virusi vipya vya korona 2019
+29,en,sw,,,2019-nCoV,2019-nCoV
+30,en,sw,,,2020 coronavirus,virusi vya korona 2020
+31,en,sw,,,2020 novel coronavirus,virusi vipya vya korona vya 2020
+33,en,sw,,,about coronavirus,kuhusu virusi vya korona
+39,en,sw,,,acute respiratory distress syndrome,ugonjwa wa matatizo mabaya ya kupumua
+40,en,sw,,,advanced hand sanitizer,kieuzi cha ubora wa juu
+41,en,sw,,,Affected by coronavirus,Kuathirika na virusi vya korona
+42,en,sw,,,after exposure,baada kuwepo hatarini
+43,en,sw,,,After the epidemic,Baada ya janga
+44,en,sw,,,After the outbreak,Baada ya mkurupuko
+47,en,sw,,,airborne virus,virusi vinavyoenea kupitia hewa
+48,en,sw,,,alcohol based hand sanitizer,kieuzi kilicho na alkoholi
+49,en,sw,,,alcohol hand sanitizer,kieuzi chenye alkoholi
+51,en,sw,,,alcohol-based hand sanitizer,kieuzi kilicho na alkoholi
+59,en,sw,,,Anti-Corona virus spray,Kufukiza dawa ya kuuwa virusi vya korona
+60,en,sw,,,antibacterial hand sanitizer,kieuzi kinachopambana na viini
+61,en,sw,,,ARDS,ARDS
+64,en,sw,,,avoid exposure,epuka kujiweka hatarini
+65,en,sw,,,be infected,kupata maambukizi
+75,en,sw,,,Beware of coronavirus,Fahamu kuhusu virusi vya korona
+76,en,sw,,,bilateral interstitial pneumonia,nimonia inayoathiri tishu za mapafu
+77,en,sw,,,CDC,CDC
+78,en,sw,,,Center for Disease Control,Kituo cha Udhibiti wa Magonjwa
+83,en,sw,,,community spread,kuenea katika jamii
+84,en,sw,,,compulsory quarantine,karantini ya lazima
+85,en,sw,,,contagious,ya kuambukiza
+135,en,sw,,,coronavirus,virusi vya korona
+136,en,sw,,,coronavirus (COVID-19),virusi vya korona (COVID-19)
+137,en,sw,,,coronavirus alert,arifa kuhusu virusi vya korona
+139,en,sw,,,coronavirus cases,visa vya virusi vya korona
+141,en,sw,,,coronavirus concerns,wasiwasi kuhusu virusi vya korona
+143,en,sw,,,coronavirus crisis,janga la virusi vya korona
+149,en,sw,,,coronavirus disease,maradhi ya virusi vya korona
+150,en,sw,,,Coronavirus disease (COVID-19) outbreak,"Mkurupuko wa ugonjwa wa (COVID-19), virusi vya korona"
+153,en,sw,,,coronavirus early symptoms,dalili za awali za virusi vya korona
+155,en,sw,,,coronavirus epidemic,janga la virusi vya korona
+156,en,sw,,,coronavirus exposure,kuwepo hatarini kupata virusi vya korona
+161,en,sw,,,coronavirus incubation,kuatamia kwa virusi vya korona
+162,en,sw,,,coronavirus incubation period,kipindi cha kuatama kwa virusi vya korona
+163,en,sw,,,coronavirus infection,maambukizi ya virusi vya korona
+168,en,sw,,,coronavirus map,ramani ya virusi vya korona
+170,en,sw,,,coronavirus medicine,dawa ya kutibu virusi vya korona
+171,en,sw,,,coronavirus medicines,dawa za kutibu virusi vya korona
+172,en,sw,,,coronavirus news,habari kuhusu virusi vya korona
+173,en,sw,,,coronavirus outbreak,mkurupuko wa virusi vya korona
+174,en,sw,,,coronavirus pandemic,janga kubwa la virusi vya korona
+176,en,sw,,,coronavirus pneumonia,nimonia inayosababishwa na virusi vya korona
+177,en,sw,,,coronavirus precautions,tahadhari kuhusu virusi vya korona
+178,en,sw,,,coronavirus prevention,kuzuia virusi vya korona
+179,en,sw,,,coronavirus protection,kinga dhidi ya virusi vya korona
+180,en,sw,,,coronavirus quarantine,karantini kutokana na virusi vya korona
+182,en,sw,,,coronavirus SOS Alert,Arifa ya SOS kuhusu virusi vya korona
+183,en,sw,,,coronavirus spread,kuenea kwa virusi vya korona
+184,en,sw,,,coronavirus symptoms,dalili za virusi vya korona
+185,en,sw,,,coronavirus transmission,kusambaa kwa virusi vya korona
+186,en,sw,,,coronavirus travel ban,marufuku ya kusafiri kutokana na virusi vya korona
+187,en,sw,,,coronavirus travel restrictions,vikwazo dhidi ya kusafiri kutokana na virusi vya korona
+188,en,sw,,,coronavirus treatment,matibabu ya virusi vya korona
+190,en,sw,,,coronavirus update,taarifa kuhusu virusi vya korona
+191,en,sw,,,coronavirus vaccine,chanjo ya virusi vya korona
+192,en,sw,,,coronavirus vaccines,chanjo za virusi vya korona
+198,en,sw,,,covid cases,visa vya covid
+205,en,sw,,,covid early symptoms,dalili za awali za covid
+213,en,sw,,,covid incubation period,kipindi cha kuatamia kwa covid
+215,en,sw,,,covid international spread,kuenea kwa covid kote ulimwenguni
+216,en,sw,,,covid international travel,safari za kimataifa kutokana na covid
+217,en,sw,,,covid isolation,kujitenga kutokana na covid
+219,en,sw,,,covid map,ramani ya covid
+220,en,sw,,,covid medicine,dawa ya kutibu covid
+221,en,sw,,,covid medicines,dawa za kutibu covid
+222,en,sw,,,covid news,habari kuhusu covid
+223,en,sw,,,covid outbreak,mkurupuko wa covid
+224,en,sw,,,covid pandemic,janga kubwa la covid
+225,en,sw,,,covid panic,wasiwasi kuhusu covid
+228,en,sw,,,covid SOS Alert,arifa kuhusu covid SOS
+230,en,sw,,,covid symptoms,dalili za covid
+231,en,sw,,,covid transmission,kusambaa kwa covid
+232,en,sw,,,covid travel ban,kupigwa marufuku wa safari kutokana na covid
+233,en,sw,,,covid travel restrictions,vikwazo vya kusafiri kutokana na covid
+234,en,sw,,,covid treatment,matibabu ya covid
+236,en,sw,,,covid vaccine,chanjo ya covid
+237,en,sw,,,covid vaccines,chanjo za covid
+242,en,sw,,,covid-19,covid-19
+243,en,sw,,,covid-19 alert,arifa ya covid-19
+244,en,sw,,,covid-19 cases,visa vya covid-19
+245,en,sw,,,covid-19 CDC,covid-19 CDC
+246,en,sw,,,covid-19 contagious,covid-19 ni maradhi ya kuambukizana
+247,en,sw,,,covid-19 cure,tiba ya covid-19
+248,en,sw,,,covid-19 dangerous,covid-19 ni hatari
+249,en,sw,,,covid-19 deadly,covid-19 inauwa
+250,en,sw,,,covid-19 death,kifo kilichosababishwa na covid-19
+251,en,sw,,,covid-19 deaths,vifo vilivyosababishwa na covid-19
+252,en,sw,,,covid-19 domestic travel,safari za ndani ya nchi kutokana na covid-19
+253,en,sw,,,covid-19 early symptoms,dalili za awali za covid-19
+254,en,sw,,,covid-19 effects,athari za covid-19
+255,en,sw,,,covid-19 epidemic,janga la covid-19
+256,en,sw,,,covid-19 exposure,kuwepo hatarini kupata covid-19
+257,en,sw,,,covid-19 fatal,covid-19 inasababisha vifo
+258,en,sw,,,covid-19 fever,homa inayosababishwa na covid-19
+259,en,sw,,,covid-19 illness,ugonjwa unaosababishwa na covid-19
+260,en,sw,,,covid-19 incubation,kuatamia kwa covid-19
+261,en,sw,,,covid-19 incubation period,kipindi cha kuatamia kwa covid-19
+262,en,sw,,,covid-19 infection,maambukizi ya covid-19
+263,en,sw,,,covid-19 international spread,kuenea kwa covid-19 kote ulimwenguni
+264,en,sw,,,covid-19 international travel,safari za kimataifa kutokana na covid-19
+265,en,sw,,,covid-19 isolation,kujitenga kutokana na covid-19
+266,en,sw,,,covid-19 lockdown,kusitishwa kwa shughuli za kawaida kutokana na covid-19
+267,en,sw,,,covid-19 map,ramani ya covid-19
+268,en,sw,,,covid-19 medicine,dawa ya covid-19
+269,en,sw,,,covid-19 medicines,dawa za covid-19
+270,en,sw,,,covid-19 news,habari kuhusu covid-19
+271,en,sw,,,covid-19 outbreak,mkurupuko wa covid-19
+272,en,sw,,,covid-19 pandemic,janga kubwa la covid-19
+273,en,sw,,,covid-19 panic,wasiwasi kutokana na covid-19
+275,en,sw,,,covid-19 precautions,tahadhari kutokana na covid-19
+276,en,sw,,,covid-19 protection,kinga dhidi ya covid-19
+277,en,sw,,,covid-19 quarantine,karantini kutokana na covid-19
+278,en,sw,,,covid-19 SOS Alert,Arifa kuhusu covid-19 SOS
+279,en,sw,,,covid-19 spread,kuenea kwa covid-19
+280,en,sw,,,covid-19 symptoms,dalili za covid-19
+281,en,sw,,,covid-19 transmission,kusambaa kwa covid-19
+282,en,sw,,,covid-19 travel ban,kupigwa marufuku kwa safari kutokana na covid-19
+283,en,sw,,,covid-19 travel restrictions,vikwazo vya kusafiri kutokana na covid-19
+284,en,sw,,,covid-19 treatment,matibabu ya covid-19
+285,en,sw,,,covid-19 uncontrolled spread,kutodhibitiwa kwa maenezi ya covid-19
+286,en,sw,,,covid-19 vaccine,chanjo ya covid-19
+287,en,sw,,,covid-19 vaccines,chanjo za covid-19
+288,en,sw,,,COVID-19 virus,virusi vya covid-19
+289,en,sw,,,covid-19 virus outbreak,mkurupuko wa virusi vya covid-19
+290,en,sw,,,covid-19 virus transmission,usambazaji wa virusi vya covid-19
+291,en,sw,,,covid-19 WHO,covid-19 WHO
+292,en,sw,,,covid19,covid19
+293,en,sw,,,covid19 alert,arifa ya covid19
+294,en,sw,,,covid19 cases,visa vya covid19
+295,en,sw,,,covid19 CDC,covid19 CDC
+301,en,sw,,,covid19 deaths,vifo vilivyosababishwa na covid19
+302,en,sw,,,covid19 domestic travel,safari za ndani kutokana na covid19
+303,en,sw,,,covid19 effects,athari za covid19
+304,en,sw,,,covid19 epidemic,janga la covid19
+305,en,sw,,,covid19 exposure,kuwepo hatarini kupata covid19
+306,en,sw,,,covid19 fatal,covid19 inauwa
+307,en,sw,,,covid19 fever,homa inayosababishwa na covid19
+308,en,sw,,,covid19 illness,ugonjwa unaosababishwa na covid19
+309,en,sw,,,covid19 incubation,kuatamia kwa covid19
+310,en,sw,,,covid19 incubation period,kipindi cha kuatamia kwa covid19
+311,en,sw,,,covid19 infection,maambukizi ya covid19
+312,en,sw,,,covid19 international spread,kuenea kwa covid19 kote ulimwenguni
+313,en,sw,,,covid19 international travel,safari za kimataifa kutokana na covid19
+314,en,sw,,,covid19 isolation,kujitenga kutokana na covid19
+315,en,sw,,,covid19 lockdown,kusitishwa kwa shughuli za kawaida kutokana na covid19
+316,en,sw,,,covid19 map,ramani ya covid19
+317,en,sw,,,covid19 medicine,dawa ya covid19
+318,en,sw,,,covid19 medicines,dawa za covid19
+319,en,sw,,,covid19 news,habari kuhusu covid19
+320,en,sw,,,covid19 outbreak,mkurupuko wa covid19
+321,en,sw,,,covid19 pandemic,janga kubwa la covid19
+324,en,sw,,,covid19 precautions,tahadhari kutokana na covid19
+325,en,sw,,,covid19 protection,kinga dhidi ya covid19
+326,en,sw,,,covid19 quarantine,karantini kutokana na covid19
+327,en,sw,,,covid19 SOS Alert,Arifa ya covid19 SOS
+328,en,sw,,,covid19 spread,kuenea kwa covid19
+329,en,sw,,,covid19 symptoms,dalili za covid19
+330,en,sw,,,covid19 transmission,kusambaa kwa covid19
+331,en,sw,,,covid19 travel ban,kupigwa marufuku kwa safari kutokana na covid19
+332,en,sw,,,covid19 travel restrictions,vikwazo vya safari kutokana na covid19
+333,en,sw,,,covid19 treatment,matibabu ya covid19
+335,en,sw,,,covid19 vaccine,chanjo ya covid19
+336,en,sw,,,covid19 vaccines,chanjo za covid19
+337,en,sw,,,covid19 virus,virusi vya covid19
+338,en,sw,,,covid19 virus outbreak,mkurupuko wa virusi vya covid19
+339,en,sw,,,covid19 virus transmission,usambazaji wa virusi vya covid19
+342,en,sw,,,current outbreak,mkurupuko wa sasa
+343,en,sw,,,deadly outbreak,mkurupuko hatari
+345,en,sw,,,disease outbreak,mkurupuko wa maradhi
+346,en,sw,,,Disposable hand sanitizer,Kieuzi kinachoweza kutupwa
+348,en,sw,,,domestic travel,safari ya ndani ya nchi
+351,en,sw,,,droplets,matone
+357,en,sw,,,Effects of coronavirus,Athari za virusi vya korona
+359,en,sw,,,epidemic,janga
+360,en,sw,,,epidemic and pandemic,janga na janga kubwa
+362,en,sw,,,epidemic disease,maradhi ya kuenea
+364,en,sw,,,epidemic outbreak,mkurupuko wa janga
+365,en,sw,,,epidemic period,kipindi cha janga
+366,en,sw,,,epidemic prevention,kuzuia janga
+368,en,sw,,,epidemic season,msimu wa janga
+369,en,sw,,,epidemic situation,hali ya janga
+371,en,sw,,,exposure,kuwemo hatarini
+375,en,sw,,,exposure time,muda kwa kuwepo hatarini
+379,en,sw,,,fever,homa
+380,en,sw,,,fight the virus,pambana na virusi
+381,en,sw,,,Fighting the outbreak,Kupambana na mkurupuko
+382,en,sw,,,flu epidemic,janga la homa ya mafua
+385,en,sw,,,fomites,vyombo vinavyoweza kubeba virusi
+392,en,sw,,,global health emergency,dharura ya afya ulimwenguni
+393,en,sw,,,global outbreak,mkurupuko wa kimataifa
+394,en,sw,,,global pandemic,janga kubwa la kimataifa
+396,en,sw,,,hand sanitizer,kitakasa mikono
+397,en,sw,,,hand sanitizer dispenser,kimiminio cha kieuzi
+398,en,sw,,,hand sanitizer gel,dawa ya kupaka ili kutakasa mikono
+399,en,sw,,,hand sanitizer spray,dawa ya kupuliza ili kutakasa mikono
+403,en,sw,,,home isolation,kujitenga nyumbani
+404,en,sw,,,home quarantine,karantini nyumbani
+410,en,sw,,,illness,ugonjwa
+415,en,sw,,,incubation period,kipindi cha kuatema
+418,en,sw,,,infected,aliyeathirika
+424,en,sw,,,instant hand sanitizer,kieuzi cha kutumia papo hapo
+425,en,sw,,,international spread,kuenea kote ulimwenguni
+426,en,sw,,,international travel,safari za kimataifa
+427,en,sw,,,isolation,kujitenga
+428,en,sw,,,isolation period,kipindi cha kujitenga
+430,en,sw,,,isolation room,chumba cha kujitenga
+431,en,sw,,,isolation valve,valvu ya kujitenga
+432,en,sw,,,isolation ward,wadi ya kujitenga
+434,en,sw,,,lockdown,kusitishwa katikhuli za kawaida
+438,en,sw,,,major outbreak,mkurupuko mkubwa
+439,en,sw,,,mandatory quarantine,karantini ya lazima
+440,en,sw,,,mass gathering,mkusanyiko wa watu wengi
+444,en,sw,,,medicine,dawa
+445,en,sw,,,medicines,dawa
+448,en,sw,,,n95,n95
+449,en,sw,,,n95 mask,barakao aina ya n95
+450,en,sw,,,n95 respirator,kisaidizi cha kupumua cha n95
+451,en,sw,,,ncov,ncov
+452,en,sw,,,ncov-2019,ncov-2019
+453,en,sw,,,new coronavirus,virusi vipya vya korona
+454,en,sw,,,new coronavirus pneumonia,nimonia ya virusi vipya vya korona
+460,en,sw,,,novel coronavirus,virusi vipya vya korona
+462,en,sw,,,novel coronavirus infection,maambukizi ya virusi vipya vya korona
+463,en,sw,,,novel coronavirus outbreak,mkurupuko wa virusi vipya vya korona
+464,en,sw,,,novel coronavirus pneumonia,nimonia ya virusi vipya vya korona
+470,en,sw,,,ongoing outbreak,mrukupuko unaoendelea
+472,en,sw,,,outbreak,mkurupuko
+474,en,sw,,,outbreak of coronavirus,mkurupuko wa virusi vya korona
+475,en,sw,,,outbreak of disease,mkurupuko wa ugonjwa
+482,en,sw,,,pandemic,janga kubwa
+485,en,sw,,,pandemic influenza,janga kubwa la influenza
+486,en,sw,,,pandemic outbreak,mkurupuko wa janga kubwa
+487,en,sw,,,pandemic plan,mpango wa janga kubwa
+488,en,sw,,,pandemic potential,uwezekano wa kuwepo kwa janga kubwa
+495,en,sw,,,pneumonia,nimonia
+496,en,sw,,,pneumonia epidemic,janga la nimonia
+497,en,sw,,,potential exposure,uwezekano wa kuwepo hatarini
+498,en,sw,,,precautions,tahadhari
+499,en,sw,,,prevent virus,zuia virusi
+500,en,sw,,,prolonged exposure,kuwepo hatarini kwa muda mrefu
+504,en,sw,,,quarantine,karantini
+505,en,sw,,,quarantine area,eneo la karantini
+506,en,sw,,,quarantine facility,kituo cha karantini
+507,en,sw,,,quarantine measures,hatua za karantini
+508,en,sw,,,quarantine period,kipindi cha karantini
+509,en,sw,,,quarantine room,chumba cha karantini
+510,en,sw,,,quarantine zone,sehemu ya karantini
+512,en,sw,,,Recovered coronavirus patient,Mgonjwa wa virusi vya korona aliyepona
+514,en,sw,,,repatriate,kurejesha watu makwao
+515,en,sw,,,repeated exposure,kuwepo hatarini mara kwa mara
+516,en,sw,,,respiratory syncytial virus,virusi vinavyosababisha nimonia
+517,en,sw,,,respiratory virus,virusi vinavyosababisha matitizo ya kupumua
+519,en,sw,,,Sanitizing hand sanitizer,Kusafisha kieuzi
+520,en,sw,,,SARS-CoV-2,SARS-CoV-2
+521,en,sw,,,self isolation,kujitenga mwenyewe
+522,en,sw,,,self quarantine,kujiweka mwenyewe chini ya karantini
+523,en,sw,,,Severe outbreak,Mkurupuko mbaya
+525,en,sw,,,social distancing,kutotangamana na watu
+526,en,sw,,,social distancing measures,hatua za kutotangamana na watu
+527,en,sw,,,social isolation,kujitenga dhidi ya kutangamana na watu
+528,en,sw,,,SOS Alert,Arifa ya SOS
+529,en,sw,,,spread,kuenea
+530,en,sw,,,spread of coronavirus,kuenea kwa virusi vya korona
+531,en,sw,,,spread of virus,kuenea kwa virusi
+535,en,sw,,,strain of virus,chembe za virusi
+541,en,sw,,,the incubation period,kipindi cha kuatamia
+544,en,sw,,,the novel coronavirus,virusi vipya vya korona
+558,en,sw,,,touching face,kugusa uso
+559,en,sw,,,travel advisory,ushauri wa kusafiri
+560,en,sw,,,travel ban,kupigwa marufuku kwa safari
+561,en,sw,,,travel restrictions,vikwazo vya kusafiri
+565,en,sw,,,use hand sanitizer,tumia kieuzi
+566,en,sw,,,vaccines,chanjo
+567,en,sw,,,viral outbreak,mkurupuko ulioenea
+568,en,sw,,,virtual lockdown,kufungwa kwa shughuli za kawaida hasa
+569,en,sw,,,virus,virusi
+570,en,sw,,,virus carrier,kibeba virusi
+573,en,sw,,,virus infection,maambukizi ya virusi
+575,en,sw,,,virus mask,barakoa ya kujikinga dhidi ya virusi
+576,en,sw,,,virus outbreak,mkurupuko wa virusi
+577,en,sw,,,virus prevention,kuzuia virusi
+578,en,sw,,,virus protection,ulinzi dhidi ya virusi
+580,en,sw,,,virus spread,kuenea kwa virusi
+582,en,sw,,,virus spreads,virusi huenea
+583,en,sw,,,virus strain,chembe za virusi
+584,en,sw,,,virus transmission,usambazaji wa virusi
+586,en,sw,,,wash your hands,nawa mikono yako
+587,en,sw,,,washing hands,kuosha mikono
+589,en,sw,,,WHO,WHO
+590,en,sw,,,WHO Confirmed,Kuthibitishwa na WHO
+591,en,sw,,,WHO Deaths,Vifo vilivyotangazwa na WHO
+592,en,sw,,,widespread outbreak,mkurupuko ulioenea kwingi
+597,en,sw,,,World Health Organization,Shirika la Afya Ulimwenguni
+600,en,sw,,,zoonotic disease,ugonjwa unaosababishwa na wanyama wasio binadamu
+601,en,sw,,,zoonotic virus,virusi vinavyosababishwa na wanyama wasio binadamu

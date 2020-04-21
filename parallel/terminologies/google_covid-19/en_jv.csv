@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,jv,,,14 days in isolation,ing isolasi 14 dina
+26,en,jv,,,14 days quarantine,karantina 14 dina
+27,en,jv,,,2019 coronavirus,viruscorona 2019
+28,en,jv,,,2019 novel coronavirus,viruscorona novel 2019
+29,en,jv,,,2019-nCoV,2019-nCoV
+30,en,jv,,,2020 coronavirus,viruscorona 2020
+31,en,jv,,,2020 novel coronavirus,viruscorona novel 2019
+33,en,jv,,,about coronavirus,babagan viruscorona
+39,en,jv,,,acute respiratory distress syndrome,sindrom kesusahan alat pernapasan
+40,en,jv,,,advanced hand sanitizer,larutan kanggo ngresiki tangan sing luwih apik
+41,en,jv,,,Affected by coronavirus,kena pengaruh viruscorona
+42,en,jv,,,after exposure,sakwise paparan
+43,en,jv,,,After the epidemic,sakwise epidemi
+44,en,jv,,,After the outbreak,sakwise wabah
+47,en,jv,,,airborne virus,virus sing ana ing udara
+48,en,jv,,,alcohol based hand sanitizer,larutan kanggo ngresiki tangan saka alkohol
+49,en,jv,,,alcohol hand sanitizer,larutan kanggo ngresiki tangan saka alkohol
+51,en,jv,,,alcohol-based hand sanitizer,larutan kanggo ngresiki tangan saka alkohol
+59,en,jv,,,Anti-Corona virus spray,semprotan anti virus corona
+60,en,jv,,,antibacterial hand sanitizer,larutan kanggo ngresiki tangan anti bakteri
+61,en,jv,,,ARDS,ARDS
+64,en,jv,,,avoid exposure,ngadohi paparan
+65,en,jv,,,be infected,ketularan
+75,en,jv,,,Beware of coronavirus,Ati-ati karo viruscorona
+76,en,jv,,,bilateral interstitial pneumonia,pneumonia pengantara bilateral
+77,en,jv,,,CDC,CDC
+78,en,jv,,,Center for Disease Control,Pusat kanggo Kontrol Penyakit
+83,en,jv,,,community spread,penyebaran masarakat
+84,en,jv,,,compulsory quarantine,karantina wajib
+85,en,jv,,,contagious,nular
+135,en,jv,,,coronavirus,viruscorona
+136,en,jv,,,coronavirus (COVID-19),viruscorona (COVID-19)
+137,en,jv,,,coronavirus alert,waspada viruscorona
+139,en,jv,,,coronavirus cases,kasus-kasus viruscorona
+141,en,jv,,,coronavirus concerns,urusan-urusan viruscorona
+143,en,jv,,,coronavirus crisis,krisis viruscorona
+149,en,jv,,,coronavirus disease,penyakit viruscorona
+150,en,jv,,,Coronavirus disease (COVID-19) outbreak,wabah penyakit viruscorona (COVID-19)
+153,en,jv,,,coronavirus early symptoms,gejala-gejala awal viruscorona
+155,en,jv,,,coronavirus epidemic,epidemi viruscorona
+156,en,jv,,,coronavirus exposure,paparan viruscorona
+161,en,jv,,,coronavirus incubation,inkubasi viruscorona
+162,en,jv,,,coronavirus incubation period,wanci inkubasi viruscorona
+163,en,jv,,,coronavirus infection,infeksi viruscorona
+168,en,jv,,,coronavirus map,peta viruscorona
+170,en,jv,,,coronavirus medicine,obat viruscorona
+171,en,jv,,,coronavirus medicines,ibat-obatan viruscorona
+172,en,jv,,,coronavirus news,kabar viruscorona
+173,en,jv,,,coronavirus outbreak,wabah viruscorona
+174,en,jv,,,coronavirus pandemic,pandemi viruscorona
+176,en,jv,,,coronavirus pneumonia,pneumonia viruscorona
+177,en,jv,,,coronavirus precautions,cegahane viruscorona
+178,en,jv,,,coronavirus prevention,nyegah viruscorona
+179,en,jv,,,coronavirus protection,pangayoman saka viruscorona
+180,en,jv,,,coronavirus quarantine,karantina viruscorona
+182,en,jv,,,coronavirus SOS Alert,waspada SOS viruscorona
+183,en,jv,,,coronavirus spread,penyebaran viruscorona
+184,en,jv,,,coronavirus symptoms,gejala-gejala viruscorona
+185,en,jv,,,coronavirus transmission,transmisi viruscorona
+186,en,jv,,,coronavirus travel ban,larangan lelungan viruscorona
+187,en,jv,,,coronavirus travel restrictions,matesi lelungan viruscorona
+188,en,jv,,,coronavirus treatment,perawatan viruscorona
+190,en,jv,,,coronavirus update,update viruscorona
+191,en,jv,,,coronavirus vaccine,vaksin viruscorona
+192,en,jv,,,coronavirus vaccines,vaksin-vaksin viruscorona
+198,en,jv,,,covid cases,kasus-kasus covid
+205,en,jv,,,covid early symptoms,gejala-gejala awal covid
+213,en,jv,,,covid incubation period,wanci inkubasi covid
+215,en,jv,,,covid international spread,penyebaran internasional covid
+216,en,jv,,,covid international travel,lelungan internasional covid
+217,en,jv,,,covid isolation,isolasi covid
+219,en,jv,,,covid map,peta covid
+220,en,jv,,,covid medicine,obat covid
+221,en,jv,,,covid medicines,obat-obatan covid
+222,en,jv,,,covid news,kabar covid
+223,en,jv,,,covid outbreak,wabah covid
+224,en,jv,,,covid pandemic,pandemi covid
+225,en,jv,,,covid panic,geger covid
+228,en,jv,,,covid SOS Alert,waspada SOS covid
+230,en,jv,,,covid symptoms,gejala-gejala covid
+231,en,jv,,,covid transmission,transmisi covid
+232,en,jv,,,covid travel ban,larangan lelungancovid
+233,en,jv,,,covid travel restrictions,matesi lelungan covid
+234,en,jv,,,covid treatment,perawatan covid
+236,en,jv,,,covid vaccine,vaksin covid
+237,en,jv,,,covid vaccines,vaksin-vaksin covid
+242,en,jv,,,covid-19,covid-19
+243,en,jv,,,covid-19 alert,waspada covid-19
+244,en,jv,,,covid-19 cases,kasus-kasus covid-19
+245,en,jv,,,covid-19 CDC,CDC covid-19
+246,en,jv,,,covid-19 contagious,covid-19 nular
+247,en,jv,,,covid-19 cure,tamba covid-19
+248,en,jv,,,covid-19 dangerous,bebaya covid-19
+249,en,jv,,,covid-19 deadly,covid-19 mateni
+250,en,jv,,,covid-19 death,pati amarga covid-19
+251,en,jv,,,covid-19 deaths,pati amarga covid-19
+252,en,jv,,,covid-19 domestic travel,lelungan domestik covid-19
+253,en,jv,,,covid-19 early symptoms,gejala-gejala awal covid-19
+254,en,jv,,,covid-19 effects,efek covid-19
+255,en,jv,,,covid-19 epidemic,epidemi covid-19
+256,en,jv,,,covid-19 exposure,paparan covid-19
+257,en,jv,,,covid-19 fatal,covid-19 mateni
+258,en,jv,,,covid-19 fever,mriyang covid-19
+259,en,jv,,,covid-19 illness,penyakit covid-19
+260,en,jv,,,covid-19 incubation,inkubasi covid-19
+261,en,jv,,,covid-19 incubation period,wanci inkubasi covid-19
+262,en,jv,,,covid-19 infection,infeksi covid-19
+263,en,jv,,,covid-19 international spread,penyebaran internasional covid-19
+264,en,jv,,,covid-19 international travel,lelungan internasional covid-19
+265,en,jv,,,covid-19 isolation,isolasi covid-19
+266,en,jv,,,covid-19 lockdown,kunci total covid-19
+267,en,jv,,,covid-19 map,peta covid-19
+268,en,jv,,,covid-19 medicine,obat covid-19
+269,en,jv,,,covid-19 medicines,obat-obatan covid-19
+270,en,jv,,,covid-19 news,kabar covid-19
+271,en,jv,,,covid-19 outbreak,wabah covid-19
+272,en,jv,,,covid-19 pandemic,pandemi covid-19
+273,en,jv,,,covid-19 panic,geger covid-19
+275,en,jv,,,covid-19 precautions,cegahan-cegahane covid-19
+276,en,jv,,,covid-19 protection,pangayoman saka covid-19
+277,en,jv,,,covid-19 quarantine,karantina covid-19
+278,en,jv,,,covid-19 SOS Alert,waspada SOS covid-19
+279,en,jv,,,covid-19 spread,penyebaran covid-19
+280,en,jv,,,covid-19 symptoms,gejala-gejala covid-19
+281,en,jv,,,covid-19 transmission,transmisi covid-19
+282,en,jv,,,covid-19 travel ban,larangan lelungan covid-19
+283,en,jv,,,covid-19 travel restrictions,matesi lelungan covid-19
+284,en,jv,,,covid-19 treatment,perawatan covid-19
+285,en,jv,,,covid-19 uncontrolled spread,penyebaran covid-19 sing ora kekontrol
+286,en,jv,,,covid-19 vaccine,vaksin covid-19
+287,en,jv,,,covid-19 vaccines,vaksin-vaksin covid-19
+288,en,jv,,,COVID-19 virus,virus covid-19
+289,en,jv,,,covid-19 virus outbreak,wabah virus covid-19
+290,en,jv,,,covid-19 virus transmission,transmisi virus covid-19
+291,en,jv,,,covid-19 WHO,WHO covid-19
+292,en,jv,,,covid19,covid19
+293,en,jv,,,covid19 alert,waspada covid-19
+294,en,jv,,,covid19 cases,kasus-kasus covid-19
+295,en,jv,,,covid19 CDC,covid19 CDC
+301,en,jv,,,covid19 deaths,pati amarga covid19
+302,en,jv,,,covid19 domestic travel,lelungan domestik covid19
+303,en,jv,,,covid19 effects,efek covid19
+304,en,jv,,,covid19 epidemic,epidemi covid19
+305,en,jv,,,covid19 exposure,paparan covid19
+306,en,jv,,,covid19 fatal,bebaya covid19
+307,en,jv,,,covid19 fever,mriyang covid19
+308,en,jv,,,covid19 illness,penyakit covid19
+309,en,jv,,,covid19 incubation,inkubasi covid19
+310,en,jv,,,covid19 incubation period,wanci inkubasi covid19
+311,en,jv,,,covid19 infection,infeksi covid19
+312,en,jv,,,covid19 international spread,penyebaran internasional covid19
+313,en,jv,,,covid19 international travel,lelungan internasional covid19
+314,en,jv,,,covid19 isolation,isolasi covid19
+315,en,jv,,,covid19 lockdown,kunci total covid19
+316,en,jv,,,covid19 map,peta covid19
+317,en,jv,,,covid19 medicine,obat covid19
+318,en,jv,,,covid19 medicines,obat-obatan covid19
+319,en,jv,,,covid19 news,kabar covid19
+320,en,jv,,,covid19 outbreak,wabah covid19
+321,en,jv,,,covid19 pandemic,pandemi covid19
+324,en,jv,,,covid19 precautions,cegahan-cegahane covid19
+325,en,jv,,,covid19 protection,pengayoman covid19
+326,en,jv,,,covid19 quarantine,karantina covid19
+327,en,jv,,,covid19 SOS Alert,waspada SOS covid19
+328,en,jv,,,covid19 spread,penyebaran covid19
+329,en,jv,,,covid19 symptoms,gejala-gejala covid19
+330,en,jv,,,covid19 transmission,transmisi covid19
+331,en,jv,,,covid19 travel ban,larangan lelungan covid19
+332,en,jv,,,covid19 travel restrictions,matesi lelungan covid19
+333,en,jv,,,covid19 treatment,perawatan covid19
+335,en,jv,,,covid19 vaccine,vaksin covid19
+336,en,jv,,,covid19 vaccines,vaksin-vaksin covid19
+337,en,jv,,,covid19 virus,virus covid19
+338,en,jv,,,covid19 virus outbreak,wabah virus covid19
+339,en,jv,,,covid19 virus transmission,transmisi virus covid19
+342,en,jv,,,current outbreak,wabah saiki
+343,en,jv,,,deadly outbreak,wabah sing mateni
+345,en,jv,,,disease outbreak,wabah penyakit
+346,en,jv,,,Disposable hand sanitizer,larutan kanggo ngresiki tangan sing dinggo pisan
+348,en,jv,,,domestic travel,lelungan domestik
+351,en,jv,,,droplets,tetes
+357,en,jv,,,Effects of coronavirus,efek saka viruscorona
+359,en,jv,,,epidemic,wabah
+360,en,jv,,,epidemic and pandemic,epidemi lan pandemi
+362,en,jv,,,epidemic disease,penyakit epidemi
+364,en,jv,,,epidemic outbreak,wabah epidemi
+365,en,jv,,,epidemic period,wanci epidemi
+366,en,jv,,,epidemic prevention,pencegahane epidemi
+368,en,jv,,,epidemic season,musim epidemi
+369,en,jv,,,epidemic situation,kahanan epidemi
+371,en,jv,,,exposure,paparan
+375,en,jv,,,exposure time,wanci paparan
+379,en,jv,,,fever,mriyang
+380,en,jv,,,fight the virus,lawan viruse
+381,en,jv,,,Fighting the outbreak,ngelawan wabah
+382,en,jv,,,flu epidemic,epidemi flu
+385,en,jv,,,fomites,barang sing bisa gawa penyakit
+392,en,jv,,,global health emergency,kahanan darurat sehat global
+393,en,jv,,,global outbreak,wabah donya
+394,en,jv,,,global pandemic,pandemi donya
+396,en,jv,,,hand sanitizer,larutan kanggo ngresiki tangan
+397,en,jv,,,hand sanitizer dispenser,wadhah larutan kanggo ngresiki tanagan
+398,en,jv,,,hand sanitizer gel,gel kanggo ngresiki tangan
+399,en,jv,,,hand sanitizer spray,semprotan kanggo ngresiki tangan
+403,en,jv,,,home isolation,isolasi omah
+404,en,jv,,,home quarantine,karantina omah
+410,en,jv,,,illness,penyakit
+415,en,jv,,,incubation period,wanci inkubasi
+418,en,jv,,,infected,ketularan
+424,en,jv,,,instant hand sanitizer,larutan kanggo ngresiki tangan instan
+425,en,jv,,,international spread,penyebaran internasional
+426,en,jv,,,international travel,lelungan internasional
+427,en,jv,,,isolation,isolasi
+428,en,jv,,,isolation period,wanci isolasi
+430,en,jv,,,isolation room,kamar isolasi
+431,en,jv,,,isolation valve,katup isolasi
+432,en,jv,,,isolation ward,bangsal isolasi
+434,en,jv,,,lockdown,kunci total
+438,en,jv,,,major outbreak,wabah gedhe
+439,en,jv,,,mandatory quarantine,karantina wajib
+440,en,jv,,,mass gathering,kumpul masal
+444,en,jv,,,medicine,obat
+445,en,jv,,,medicines,obat-obatan
+448,en,jv,,,n95,n95
+449,en,jv,,,n95 mask,makser n95
+450,en,jv,,,n95 respirator,alat pernapasan n95
+451,en,jv,,,ncov,ncov
+452,en,jv,,,ncov-2019,ncov-2019
+453,en,jv,,,new coronavirus,viruscorona anyar
+454,en,jv,,,new coronavirus pneumonia,pneumonia viruscorona anyar
+460,en,jv,,,novel coronavirus,viruscorona novel
+462,en,jv,,,novel coronavirus infection,infeksi viruscorona novel
+463,en,jv,,,novel coronavirus outbreak,wabah viruscorona novel
+464,en,jv,,,novel coronavirus pneumonia,pneumonia viruscorona novel
+470,en,jv,,,ongoing outbreak,wabah sing lagi kedadeyan
+472,en,jv,,,outbreak,wabah
+474,en,jv,,,outbreak of coronavirus,wabah viruscorona
+475,en,jv,,,outbreak of disease,penyakit wabah
+482,en,jv,,,pandemic,pandemi
+485,en,jv,,,pandemic influenza,influenza pandemi
+486,en,jv,,,pandemic outbreak,wabah pandemi
+487,en,jv,,,pandemic plan,rencana pandemi
+488,en,jv,,,pandemic potential,potensi pandemi
+495,en,jv,,,pneumonia,pneumonia
+496,en,jv,,,pneumonia epidemic,epidemi pneumonia
+497,en,jv,,,potential exposure,paparan potensi
+498,en,jv,,,precautions,cegahan
+499,en,jv,,,prevent virus,nyegah virus
+500,en,jv,,,prolonged exposure,paparan suwe
+504,en,jv,,,quarantine,karantina
+505,en,jv,,,quarantine area,area karantina
+506,en,jv,,,quarantine facility,fasilitas karantina
+507,en,jv,,,quarantine measures,tumindak kanggo karantina
+508,en,jv,,,quarantine period,wanci karantina
+509,en,jv,,,quarantine room,kamar karantina
+510,en,jv,,,quarantine zone,zona karantina
+512,en,jv,,,Recovered coronavirus patient,pasien viruscorona mari
+514,en,jv,,,repatriate,ngulihake
+515,en,jv,,,repeated exposure,paparan sing dibaleni
+516,en,jv,,,respiratory syncytial virus,virus syncytial alat pernapasan
+517,en,jv,,,respiratory virus,virus alat pernapasan
+519,en,jv,,,Sanitizing hand sanitizer,larutan kanggo ngresiki tangan sing kanggo ngresiki
+520,en,jv,,,SARS-CoV-2,SARS-CoV-2
+521,en,jv,,,self isolation,isolasi dhewe
+522,en,jv,,,self quarantine,karantina dhewe
+523,en,jv,,,Severe outbreak,wabah parah
+525,en,jv,,,social distancing,ngadoh saka sosial
+526,en,jv,,,social distancing measures,tumindak ngadoh saka sosial
+527,en,jv,,,social isolation,isolasi sosial
+528,en,jv,,,SOS Alert,waspada SOS
+529,en,jv,,,spread,penyebaran
+530,en,jv,,,spread of coronavirus,penyebaran saka viruscorona
+531,en,jv,,,spread of virus,penyebaran saka virus
+535,en,jv,,,strain of virus,jenis saka virus
+541,en,jv,,,the incubation period,wanci inkubasi
+544,en,jv,,,the novel coronavirus,viruscorona novel
+558,en,jv,,,touching face,ndemok rai
+559,en,jv,,,travel advisory,pituduh lelungan
+560,en,jv,,,travel ban,larangan lelungan
+561,en,jv,,,travel restrictions,matesi lelungan
+565,en,jv,,,use hand sanitizer,nggunakake larutan kanggo ngresiki tangan
+566,en,jv,,,vaccines,vaksin
+567,en,jv,,,viral outbreak,wabah amarga virus
+568,en,jv,,,virtual lockdown,kunci total maya
+569,en,jv,,,virus,virus
+570,en,jv,,,virus carrier,sing nggawa virus
+573,en,jv,,,virus infection,infeksi virus
+575,en,jv,,,virus mask,masker virus
+576,en,jv,,,virus outbreak,wabah virus
+577,en,jv,,,virus prevention,pencegahane virus
+578,en,jv,,,virus protection,pangayoman saka virus
+580,en,jv,,,virus spread,penyebaran virus
+582,en,jv,,,virus spreads,penyebaran-penyebaran virus
+583,en,jv,,,virus strain,jenis virus
+584,en,jv,,,virus transmission,transmisi virus
+586,en,jv,,,wash your hands,kumbah tanganmu
+587,en,jv,,,washing hands,wasuh asta sampeyan
+589,en,jv,,,WHO,WHO
+590,en,jv,,,WHO Confirmed,dipesthekake WHO
+591,en,jv,,,WHO Deaths,pati WHO
+592,en,jv,,,widespread outbreak,wabah sing nyebar wiyar
+597,en,jv,,,World Health Organization,Organisasi Kesehatan Donya
+600,en,jv,,,zoonotic disease,penyakit zoonosis
+601,en,jv,,,zoonotic virus,virus zoonosis

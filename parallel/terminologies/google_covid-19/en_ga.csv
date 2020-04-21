@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,ga,,,14 days in isolation,14 lá ag leithlisiú
+26,en,ga,,,14 days quarantine,14 lá coraintín
+27,en,ga,,,2019 coronavirus,coróinvíreas 2019
+28,en,ga,,,2019 novel coronavirus,Coróinvíreas núíosach 2019
+29,en,ga,,,2019-nCoV,2019-nCoV
+30,en,ga,,,2020 coronavirus,coróinvíreas 2020
+31,en,ga,,,2020 novel coronavirus,Coróinvíreas núíosach 2020
+33,en,ga,,,about coronavirus,maidir le coróinvíreas
+39,en,ga,,,acute respiratory distress syndrome,géarshiondróm anacair riospráide
+40,en,ga,,,advanced hand sanitizer,ard-díghalrán lámh
+41,en,ga,,,Affected by coronavirus,Éifeacht ag an gcoróinvíreas air
+42,en,ga,,,after exposure,i ndiaidh an nochta
+43,en,ga,,,After the epidemic,I ndiaidh na heipidéime
+44,en,ga,,,After the outbreak,I ndiaidh na ráige
+47,en,ga,,,airborne virus,víreas aeriompartha
+48,en,ga,,,alcohol based hand sanitizer,díghalrán lámh alcólbhunaithe
+49,en,ga,,,alcohol hand sanitizer,díghalrán lámh alcóil
+51,en,ga,,,alcohol-based hand sanitizer,díghalrán lámh alcólbhunaithe
+59,en,ga,,,Anti-Corona virus spray,Sprae frith-choróinvíris
+60,en,ga,,,antibacterial hand sanitizer,díghalrán lámh frithbhaictéarach
+61,en,ga,,,ARDS,ARDS
+64,en,ga,,,avoid exposure,seachain nochtadh
+65,en,ga,,,be infected,bheith ionfhabhtaithe
+75,en,ga,,,Beware of coronavirus,Seachain an coróinvíreas
+76,en,ga,,,bilateral interstitial pneumonia,niúmóine scáineach déthaobhach
+77,en,ga,,,CDC,CDC
+78,en,ga,,,Center for Disease Control,An Lárionad um Ghalair a Chosc
+83,en,ga,,,community spread,scaipeadh pobail
+84,en,ga,,,compulsory quarantine,coraintín éigeantach
+85,en,ga,,,contagious,tógálach
+135,en,ga,,,coronavirus,coróinvíreas
+136,en,ga,,,coronavirus (COVID-19),coróinvíreas (COVID-19)
+137,en,ga,,,coronavirus alert,foláireamh coróinvíris
+139,en,ga,,,coronavirus cases,cásanna coróinvíris
+141,en,ga,,,coronavirus concerns,cúraimí coróinvíris
+143,en,ga,,,coronavirus crisis,géarchéim coróinvíris
+149,en,ga,,,coronavirus disease,galar coróinvíris
+150,en,ga,,,Coronavirus disease (COVID-19) outbreak,Ráig de ghalar an choróinvíris (COVID-19)
+153,en,ga,,,coronavirus early symptoms,luathshiomptóim an choróinvíris
+155,en,ga,,,coronavirus epidemic,eipidéim coróinvíris
+156,en,ga,,,coronavirus exposure,nochtadh coróinvíris
+161,en,ga,,,coronavirus incubation,gor coróinvíris
+162,en,ga,,,coronavirus incubation period,tréimhse ghoir an choróinvíris
+163,en,ga,,,coronavirus infection,ionfhabhtú coróinvíris
+168,en,ga,,,coronavirus map,léarscáil den choróinvíreas
+170,en,ga,,,coronavirus medicine,cógas coróinvíris
+171,en,ga,,,coronavirus medicines,cógais coróinvíris
+172,en,ga,,,coronavirus news,nuacht faoi choróinvíreas
+173,en,ga,,,coronavirus outbreak,ráig coróinvíris
+174,en,ga,,,coronavirus pandemic,paindéim coróinvíris
+176,en,ga,,,coronavirus pneumonia,niúmóine coróinvíris
+177,en,ga,,,coronavirus precautions,réamhchúraimí coróinvíris
+178,en,ga,,,coronavirus prevention,cosc ar choróinvíreas
+179,en,ga,,,coronavirus protection,cosaint ar choróinvíreas
+180,en,ga,,,coronavirus quarantine,coraintín coróinvíris
+182,en,ga,,,coronavirus SOS Alert,foláireamh SOS maidir leis an gcoróinvíreas
+183,en,ga,,,coronavirus spread,scaipeadh coróinvíris
+184,en,ga,,,coronavirus symptoms,comharthaí coróinvíris
+185,en,ga,,,coronavirus transmission,tarchur an choróinvíris
+186,en,ga,,,coronavirus travel ban,cosc ar thaisteal i rith an choróinvíris
+187,en,ga,,,coronavirus travel restrictions,srianta taistil i rith an choróinvíris
+188,en,ga,,,coronavirus treatment,cóireáil coróinvíris
+190,en,ga,,,coronavirus update,an nuacht is déanaí faoi choróinvíreas
+191,en,ga,,,coronavirus vaccine,vacsaín coróinvíris
+192,en,ga,,,coronavirus vaccines,vacsaíní coróinvíris
+198,en,ga,,,covid cases,cásanna covid
+205,en,ga,,,covid early symptoms,luathshiomptóim covid
+213,en,ga,,,covid incubation period,tréimhse ghoir covid
+215,en,ga,,,covid international spread,scaipeadh idirnáisiúnta covid
+216,en,ga,,,covid international travel,taisteal idirnáisiúnta i rith covid
+217,en,ga,,,covid isolation,leithlis covid
+219,en,ga,,,covid map,léarscáil de covid
+220,en,ga,,,covid medicine,cógas covid
+221,en,ga,,,covid medicines,cógais covid
+222,en,ga,,,covid news,nuacht faoi covid
+223,en,ga,,,covid outbreak,ráig covid
+224,en,ga,,,covid pandemic,paindéim covid
+225,en,ga,,,covid panic,scaoll covid
+228,en,ga,,,covid SOS Alert,foláireamh SOS maidir le covid
+230,en,ga,,,covid symptoms,comharthaí covid
+231,en,ga,,,covid transmission,tarchur covid
+232,en,ga,,,covid travel ban,cosc ar thaisteal i rith covid
+233,en,ga,,,covid travel restrictions,srianta taistil i rith covid
+234,en,ga,,,covid treatment,cóireáil covid
+236,en,ga,,,covid vaccine,vacsaín covid
+237,en,ga,,,covid vaccines,vacsaíní covid
+242,en,ga,,,covid-19,covid-19
+243,en,ga,,,covid-19 alert,foláireamh covid-19
+244,en,ga,,,covid-19 cases,cásanna covid-19
+245,en,ga,,,covid-19 CDC,CDC covid-19
+246,en,ga,,,covid-19 contagious,covid-19 tógálach
+247,en,ga,,,covid-19 cure,leigheas covid-19
+248,en,ga,,,covid-19 dangerous,covid-19 contúirteach
+249,en,ga,,,covid-19 deadly,covid-19 marfach
+250,en,ga,,,covid-19 death,bás covid-19
+251,en,ga,,,covid-19 deaths,básanna covid-19
+252,en,ga,,,covid-19 domestic travel,taisteal intíre i rith covid-19
+253,en,ga,,,covid-19 early symptoms,luathshiomptóim covid-19
+254,en,ga,,,covid-19 effects,iarmhairtí covid-19
+255,en,ga,,,covid-19 epidemic,eipidéim covid-19
+256,en,ga,,,covid-19 exposure,nochtadh covid-19
+257,en,ga,,,covid-19 fatal,covid-19 marfach
+258,en,ga,,,covid-19 fever,fiabhras covid-19
+259,en,ga,,,covid-19 illness,tinneas covid-19
+260,en,ga,,,covid-19 incubation,gor covid-19
+261,en,ga,,,covid-19 incubation period,tréimhse ghoir covid-19
+262,en,ga,,,covid-19 infection,ionfhabhtú covid-19
+263,en,ga,,,covid-19 international spread,scaipeadh idirnáisiúnta covid-19
+264,en,ga,,,covid-19 international travel,taisteal idirnáisiúnta i rith covid-19
+265,en,ga,,,covid-19 isolation,leithlis covid-19
+266,en,ga,,,covid-19 lockdown,dianghlasáil covid-19
+267,en,ga,,,covid-19 map,léarscáil de covid-19
+268,en,ga,,,covid-19 medicine,cógas covid-19
+269,en,ga,,,covid-19 medicines,cógais covid-19
+270,en,ga,,,covid-19 news,nuacht faoi covid-19
+271,en,ga,,,covid-19 outbreak,ráig covid-19
+272,en,ga,,,covid-19 pandemic,paindéim covid-19
+273,en,ga,,,covid-19 panic,scaoll covid-19
+275,en,ga,,,covid-19 precautions,réamhchúraimí covid-19
+276,en,ga,,,covid-19 protection,cosaint ar covid-19
+277,en,ga,,,covid-19 quarantine,coraintín covid-19
+278,en,ga,,,covid-19 SOS Alert,foláireamh SOS covid-19
+279,en,ga,,,covid-19 spread,scaipeadh covid-19
+280,en,ga,,,covid-19 symptoms,comharthaí covid-19
+281,en,ga,,,covid-19 transmission,tarchur covid-19
+282,en,ga,,,covid-19 travel ban,cosc taisteal i rith covid-19
+283,en,ga,,,covid-19 travel restrictions,srianta taistil i rith covid-19
+284,en,ga,,,covid-19 treatment,cóireáil covid-19
+285,en,ga,,,covid-19 uncontrolled spread,scaipeadh neamhrialaithe covid-19
+286,en,ga,,,covid-19 vaccine,vacsaín covid-19
+287,en,ga,,,covid-19 vaccines,vacsaíní covid-19
+288,en,ga,,,COVID-19 virus,víreas covid-19
+289,en,ga,,,covid-19 virus outbreak,ráig de víreas covid-19
+290,en,ga,,,covid-19 virus transmission,tras-seoladh víreas covid-19
+291,en,ga,,,covid-19 WHO,covid-19 EDS
+292,en,ga,,,covid19,covid19
+293,en,ga,,,covid19 alert,foláireamh covid19
+294,en,ga,,,covid19 cases,cásanna covid19
+295,en,ga,,,covid19 CDC,CDC covid19
+301,en,ga,,,covid19 deaths,básanna covid19
+302,en,ga,,,covid19 domestic travel,taisteal intíre i rith covid19
+303,en,ga,,,covid19 effects,iarmhairtí covid19
+304,en,ga,,,covid19 epidemic,eipidéim covid19
+305,en,ga,,,covid19 exposure,nochtadh covid19
+306,en,ga,,,covid19 fatal,covid19 marfach
+307,en,ga,,,covid19 fever,fiabhras covid19
+308,en,ga,,,covid19 illness,tinneas covid19
+309,en,ga,,,covid19 incubation,gor covid19
+310,en,ga,,,covid19 incubation period,tréimhse ghoir covid19
+311,en,ga,,,covid19 infection,ionfhabhtú covid19
+312,en,ga,,,covid19 international spread,scaipeadh idirnáisiúnta covid19
+313,en,ga,,,covid19 international travel,taisteal idirnáisiúnta i rith covid19
+314,en,ga,,,covid19 isolation,leithlis covid19
+315,en,ga,,,covid19 lockdown,dianghlasáil covid19
+316,en,ga,,,covid19 map,léarscáil de covid19
+317,en,ga,,,covid19 medicine,cógas covid19
+318,en,ga,,,covid19 medicines,cógais covid19
+319,en,ga,,,covid19 news,nuacht faoi covid19
+320,en,ga,,,covid19 outbreak,ráig covid19
+321,en,ga,,,covid19 pandemic,paindéim covid19
+324,en,ga,,,covid19 precautions,réamhchúraimí covid19
+325,en,ga,,,covid19 protection,cosaint ar covid19
+326,en,ga,,,covid19 quarantine,coraintín covid19
+327,en,ga,,,covid19 SOS Alert,foláireamh SOS covid19
+328,en,ga,,,covid19 spread,scaipeadh covid19
+329,en,ga,,,covid19 symptoms,comharthaí covid19
+330,en,ga,,,covid19 transmission,tarchur covid19
+331,en,ga,,,covid19 travel ban,cosc ar thaisteal i rith covid19
+332,en,ga,,,covid19 travel restrictions,srianta taistil i rith covid19
+333,en,ga,,,covid19 treatment,cóireáil covid19
+335,en,ga,,,covid19 vaccine,vacsaín covid19
+336,en,ga,,,covid19 vaccines,vacsaíní covid19
+337,en,ga,,,covid19 virus,víreas covid19
+338,en,ga,,,covid19 virus outbreak,ráig de víreas covid19
+339,en,ga,,,covid19 virus transmission,tras-seoladh víreas covid19
+342,en,ga,,,current outbreak,ráig reatha
+343,en,ga,,,deadly outbreak,ráig mharfach
+345,en,ga,,,disease outbreak,ráig de ghalar
+346,en,ga,,,Disposable hand sanitizer,Díghalrán lámh aon uaire
+348,en,ga,,,domestic travel,taisteal intíre
+351,en,ga,,,droplets,braoiníní
+357,en,ga,,,Effects of coronavirus,Éifeachtaí an choróinvíris
+359,en,ga,,,epidemic,eipidéim
+360,en,ga,,,epidemic and pandemic,eipidéim agus paindéim
+362,en,ga,,,epidemic disease,galar eipidéime
+364,en,ga,,,epidemic outbreak,ráig eipidéime
+365,en,ga,,,epidemic period,tréimhse na heipidéime
+366,en,ga,,,epidemic prevention,eipidéim a chosc
+368,en,ga,,,epidemic season,séasúr eipidéimí
+369,en,ga,,,epidemic situation,staid eipidéime
+371,en,ga,,,exposure,nochtadh
+375,en,ga,,,exposure time,aga nochta
+379,en,ga,,,fever,fiabhras
+380,en,ga,,,fight the virus,comhrac an víreas
+381,en,ga,,,Fighting the outbreak,An ráig á comhrac
+382,en,ga,,,flu epidemic,eipidéim fliú
+385,en,ga,,,fomites,fomites
+392,en,ga,,,global health emergency,éigeandáil dhomhanda sláinte
+393,en,ga,,,global outbreak,ráig dhomhanda
+394,en,ga,,,global pandemic,paindéim dhomhanda
+396,en,ga,,,hand sanitizer,díghalrán lámh
+397,en,ga,,,hand sanitizer dispenser,dáileoir díghalrán lámh
+398,en,ga,,,hand sanitizer gel,glóthach díghalrán lámh
+399,en,ga,,,hand sanitizer spray,sprae díghalrán lámh
+403,en,ga,,,home isolation,leithlis sa bhaile
+404,en,ga,,,home quarantine,coraintín sa bhaile
+410,en,ga,,,illness,tinneas
+415,en,ga,,,incubation period,tréimhse ghoir
+418,en,ga,,,infected,ionfhabhtaithe
+424,en,ga,,,instant hand sanitizer,díghalrán lámh láithreach
+425,en,ga,,,international spread,scaipeadh idirnáisiúnta
+426,en,ga,,,international travel,taisteal idirnáisiúnta
+427,en,ga,,,isolation,leithlis
+428,en,ga,,,isolation period,tréimhse leithlise
+430,en,ga,,,isolation room,seomra leithlise
+431,en,ga,,,isolation valve,comhla leithlise
+432,en,ga,,,isolation ward,barda leithlise
+434,en,ga,,,lockdown,dianghlasáil
+438,en,ga,,,major outbreak,ráig ollmhór
+439,en,ga,,,mandatory quarantine,coraintín éigeantach
+440,en,ga,,,mass gathering,tionól ollmhór
+444,en,ga,,,medicine,cógas
+445,en,ga,,,medicines,cógais
+448,en,ga,,,n95,n95
+449,en,ga,,,n95 mask,masc n95
+450,en,ga,,,n95 respirator,análaitheoir n95
+451,en,ga,,,ncov,ncov
+452,en,ga,,,ncov-2019,ncov-1019
+453,en,ga,,,new coronavirus,coróinvíreas nua
+454,en,ga,,,new coronavirus pneumonia,niúmóine coróinvíris nua
+460,en,ga,,,novel coronavirus,coróinvíreas nua
+462,en,ga,,,novel coronavirus infection,ionfhabhtú coróinvíris núíosach
+463,en,ga,,,novel coronavirus outbreak,ráig de choróinvíreas núíosach
+464,en,ga,,,novel coronavirus pneumonia,niúmóine coróinvíris núíosach
+470,en,ga,,,ongoing outbreak,ráig leanúnach
+472,en,ga,,,outbreak,ráig
+474,en,ga,,,outbreak of coronavirus,ráig den choróinvíreas
+475,en,ga,,,outbreak of disease,ráig de ghalar
+482,en,ga,,,pandemic,paindéim
+485,en,ga,,,pandemic influenza,fliú paindéimeach
+486,en,ga,,,pandemic outbreak,ráig phaindéimeach
+487,en,ga,,,pandemic plan,plean paindéimeach
+488,en,ga,,,pandemic potential,poitéinseal paindéimeach
+495,en,ga,,,pneumonia,niúmóine
+496,en,ga,,,pneumonia epidemic,eipidéim niúmóine
+497,en,ga,,,potential exposure,nochtadh féideartha
+498,en,ga,,,precautions,réamhchúraimí
+499,en,ga,,,prevent virus,cosc víreas
+500,en,ga,,,prolonged exposure,nochtadh fada
+504,en,ga,,,quarantine,coraintín
+505,en,ga,,,quarantine area,limistéar coraintín
+506,en,ga,,,quarantine facility,áis choraintín
+507,en,ga,,,quarantine measures,bearta coraintín
+508,en,ga,,,quarantine period,tréimhse choraintín
+509,en,ga,,,quarantine room,seomra coraintín
+510,en,ga,,,quarantine zone,crios coraintín
+512,en,ga,,,Recovered coronavirus patient,Othar coróinvíris atá ceart go leor anois
+514,en,ga,,,repatriate,fill ar do thír dhúchais
+515,en,ga,,,repeated exposure,nochtadh atriallach
+516,en,ga,,,respiratory syncytial virus,víreas sincítiach riospráide
+517,en,ga,,,respiratory virus,víreas riospráide
+519,en,ga,,,Sanitizing hand sanitizer,Díghalrán lámh díghalraithe
+520,en,ga,,,SARS-CoV-2,SARS-CoV-2
+521,en,ga,,,self isolation,féinleithlisiú
+522,en,ga,,,self quarantine,féinchoraintín
+523,en,ga,,,Severe outbreak,dianráig
+525,en,ga,,,social distancing,scaradh sóisialta
+526,en,ga,,,social distancing measures,bearta scaradh sóisialta
+527,en,ga,,,social isolation,leithlisiú sóisialta
+528,en,ga,,,SOS Alert,Foláireamh SOS
+529,en,ga,,,spread,scaipeadh
+530,en,ga,,,spread of coronavirus,scaipeadh an choróinvíris
+531,en,ga,,,spread of virus,scaipeadh an víris
+535,en,ga,,,strain of virus,tréithchineál an víris
+541,en,ga,,,the incubation period,an tréimhse ghoir
+544,en,ga,,,the novel coronavirus,am coróinvíreas núíosach
+558,en,ga,,,touching face,lámh á leagan ar aghaidh
+559,en,ga,,,travel advisory,comhairle taistil
+560,en,ga,,,travel ban,cosc ar thaisteal
+561,en,ga,,,travel restrictions,srianta taistil
+565,en,ga,,,use hand sanitizer,úsáid díghalrán lámh
+566,en,ga,,,vaccines,vacsaíní
+567,en,ga,,,viral outbreak,ráig víreasach
+568,en,ga,,,virtual lockdown,ordú dianghlasála fíorúil
+569,en,ga,,,virus,víreas
+570,en,ga,,,virus carrier,iompróir víris
+573,en,ga,,,virus infection,ionfhabhtú víris
+575,en,ga,,,virus mask,masc víris
+576,en,ga,,,virus outbreak,ráig víris
+577,en,ga,,,virus prevention,cosc víris
+578,en,ga,,,virus protection,cosaint ar víreas
+580,en,ga,,,virus spread,scaipeadh víris
+582,en,ga,,,virus spreads,scaipeann víreas
+583,en,ga,,,virus strain,tréithchineál víris
+584,en,ga,,,virus transmission,tras-seoladh víris
+586,en,ga,,,wash your hands,nigh do lámha
+587,en,ga,,,washing hands,lámha á ní
+589,en,ga,,,WHO,EDS
+590,en,ga,,,WHO Confirmed,Deimhnithe ag an WHO
+591,en,ga,,,WHO Deaths,Básanna WHO
+592,en,ga,,,widespread outbreak,ráig fhorleathan
+597,en,ga,,,World Health Organization,An Eagraíocht Dhomhanda Sláinte
+600,en,ga,,,zoonotic disease,galar zónóiseach
+601,en,ga,,,zoonotic virus,víreas zónóiseach

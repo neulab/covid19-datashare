@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,sl,,,14 days in isolation,14 dni v izolaciji
+26,en,sl,,,14 days quarantine,14 dni karantene
+27,en,sl,,,2019 coronavirus,koronavirus 2019
+28,en,sl,,,2019 novel coronavirus,novi koronavirus 2019
+29,en,sl,,,2019-nCoV,2019-nCov
+30,en,sl,,,2020 coronavirus,koronavirus 2020
+31,en,sl,,,2020 novel coronavirus,novi koronavirus 2020
+33,en,sl,,,about coronavirus,o koronavirusu
+39,en,sl,,,acute respiratory distress syndrome,akutni respiratorni distresni sindrom
+40,en,sl,,,advanced hand sanitizer,napredno razkužilo za roke
+41,en,sl,,,Affected by coronavirus,Prizadet zaradi koronavirusa
+42,en,sl,,,after exposure,po izpostavljenosti
+43,en,sl,,,After the epidemic,Po epidemiji
+44,en,sl,,,After the outbreak,Po izbruhu
+47,en,sl,,,airborne virus,"virus, ki se prenaša po zraku"
+48,en,sl,,,alcohol based hand sanitizer,razkužilo za roke na osnovi alkohola
+49,en,sl,,,alcohol hand sanitizer,alkoholno razkužilo za roke
+51,en,sl,,,alcohol-based hand sanitizer,razkužilo za roke na osnovi alkohola
+59,en,sl,,,Anti-Corona virus spray,pršilo proti koronavirusu
+60,en,sl,,,antibacterial hand sanitizer,antibakterijsko razkužilo za roke
+61,en,sl,,,ARDS,ARDS
+64,en,sl,,,avoid exposure,izogibam se izpostavljenosti
+65,en,sl,,,be infected,sem okužen
+75,en,sl,,,Beware of coronavirus,Pazite se koronavirusa
+76,en,sl,,,bilateral interstitial pneumonia,bilateralna intersticijska pljučnica
+77,en,sl,,,CDC,CDC
+78,en,sl,,,Center for Disease Control,Center za nadzor bolezni
+83,en,sl,,,community spread,širjenje v skupnosti
+84,en,sl,,,compulsory quarantine,obvezna karantena
+85,en,sl,,,contagious,nalezljiv
+135,en,sl,,,coronavirus,koronavirus
+136,en,sl,,,coronavirus (COVID-19),koronavirus (COVID-19)
+137,en,sl,,,coronavirus alert,opozorilo o koronavirusu
+139,en,sl,,,coronavirus cases,primeri koronavirusa
+141,en,sl,,,coronavirus concerns,pomisleki glede koronavirusa
+143,en,sl,,,coronavirus crisis,koronavirus kriza
+149,en,sl,,,coronavirus disease,koronavirusna bolezen
+150,en,sl,,,Coronavirus disease (COVID-19) outbreak,Izbruh koronavirusne bolezni (COVID-19)
+153,en,sl,,,coronavirus early symptoms,zgodnji simptomi koronavirusa
+155,en,sl,,,coronavirus epidemic,epidemija koronavirusa
+156,en,sl,,,coronavirus exposure,izpostavljenost koronavirusu
+161,en,sl,,,coronavirus incubation,inkubacijska doba koronavirusa
+162,en,sl,,,coronavirus incubation period,inkubacijska doba koronavirusa
+163,en,sl,,,coronavirus infection,okužba s koronavirusom
+168,en,sl,,,coronavirus map,zemljevid koronavirusa
+170,en,sl,,,coronavirus medicine,zdravilo za koronavirus
+171,en,sl,,,coronavirus medicines,zdravila za koronavirus
+172,en,sl,,,coronavirus news,novice o koronavirusu
+173,en,sl,,,coronavirus outbreak,izbruh koronavirusa
+174,en,sl,,,coronavirus pandemic,pandemija koronavirusa
+176,en,sl,,,coronavirus pneumonia,pljučnica pri koronavirusu
+177,en,sl,,,coronavirus precautions,previdnostni ukrepi v primeru koronavirusa
+178,en,sl,,,coronavirus prevention,preventiva v primeru koronavirusa
+179,en,sl,,,coronavirus protection,zaščita pred koronavirusom
+180,en,sl,,,coronavirus quarantine,karantena v primeru koronavirusa
+182,en,sl,,,coronavirus SOS Alert,Alarm SOS za koronavirus
+183,en,sl,,,coronavirus spread,širjenje koronavirusa
+184,en,sl,,,coronavirus symptoms,simptomi koronavirusa
+185,en,sl,,,coronavirus transmission,prenos koronavirusa
+186,en,sl,,,coronavirus travel ban,prepoved potovanj zaradi koronavirusa
+187,en,sl,,,coronavirus travel restrictions,omejitve potovanj zaradi koronavirusa
+188,en,sl,,,coronavirus treatment,zdravljenje koronavirusa
+190,en,sl,,,coronavirus update,novice o koronavirusu
+191,en,sl,,,coronavirus vaccine,cepivo proti koronavirusu
+192,en,sl,,,coronavirus vaccines,cepiva proti koronavirusu
+198,en,sl,,,covid cases,primeri covida
+205,en,sl,,,covid early symptoms,zgodnji simptomi covida
+213,en,sl,,,covid incubation period,inkubacijska doba covida
+215,en,sl,,,covid international spread,mednarodno širjenje covida
+216,en,sl,,,covid international travel,mednarodna potovanja zaradi covida
+217,en,sl,,,covid isolation,izolacija pri covidu
+219,en,sl,,,covid map,zemljevid covida
+220,en,sl,,,covid medicine,zdravilo za covid
+221,en,sl,,,covid medicines,zdravila za covid
+222,en,sl,,,covid news,novice o covidu
+223,en,sl,,,covid outbreak,izbruh covida
+224,en,sl,,,covid pandemic,pandemija covida
+225,en,sl,,,covid panic,panika zaradi covida
+228,en,sl,,,covid SOS Alert,alarm SOS zaradi covida
+230,en,sl,,,covid symptoms,simptomi covida
+231,en,sl,,,covid transmission,prenos covida
+232,en,sl,,,covid travel ban,prepoved potovanj zaradi covida
+233,en,sl,,,covid travel restrictions,omejitve potovanj zaradi covida
+234,en,sl,,,covid treatment,zdravljenje covida
+236,en,sl,,,covid vaccine,cepivo za covid
+237,en,sl,,,covid vaccines,cepiva za covid
+242,en,sl,,,covid-19,covid-19
+243,en,sl,,,covid-19 alert,opozorilo o covidu-19
+244,en,sl,,,covid-19 cases,primeri covida-19
+245,en,sl,,,covid-19 CDC,covid-19 CDC
+246,en,sl,,,covid-19 contagious,nalezljiv covid-19
+247,en,sl,,,covid-19 cure,zdravilo za covid-19
+248,en,sl,,,covid-19 dangerous,nevaren covid-19
+249,en,sl,,,covid-19 deadly,smrtonosen covid-19
+250,en,sl,,,covid-19 death,smrt zaradi covida-19
+251,en,sl,,,covid-19 deaths,smrti zaradi covida-19
+252,en,sl,,,covid-19 domestic travel,potovanja znotraj države zaradi covida-19
+253,en,sl,,,covid-19 early symptoms,zgodnji simptomi covida-19
+254,en,sl,,,covid-19 effects,učinki covida-19
+255,en,sl,,,covid-19 epidemic,epidemija covida-19
+256,en,sl,,,covid-19 exposure,izpostavljenost covidu-19
+257,en,sl,,,covid-19 fatal,usoden covid-19
+258,en,sl,,,covid-19 fever,vročina pri covidu-19
+259,en,sl,,,covid-19 illness,bolezen covid-19
+260,en,sl,,,covid-19 incubation,inkubacijska doba covida-19
+261,en,sl,,,covid-19 incubation period,inkubacijska doba covida-19
+262,en,sl,,,covid-19 infection,okužba s covidom-19
+263,en,sl,,,covid-19 international spread,mednarodno širjenje covida-19
+264,en,sl,,,covid-19 international travel,mednarodna potovanja zaradi covida-19
+265,en,sl,,,covid-19 isolation,izolacija pri covidu-19
+266,en,sl,,,covid-19 lockdown,zaprtje zaradi covida-19
+267,en,sl,,,covid-19 map,zemljevid covida-19
+268,en,sl,,,covid-19 medicine,zdravilo za covid-19
+269,en,sl,,,covid-19 medicines,zdravila za covid-19
+270,en,sl,,,covid-19 news,novice o covidu-19
+271,en,sl,,,covid-19 outbreak,izbruh covida-19
+272,en,sl,,,covid-19 pandemic,pandemija covida-19
+273,en,sl,,,covid-19 panic,panika zaradi covida-19
+275,en,sl,,,covid-19 precautions,previdnostni ukrepi zaradi covida-19
+276,en,sl,,,covid-19 protection,zaščita pred covidom-19
+277,en,sl,,,covid-19 quarantine,karantena pri covidu-19
+278,en,sl,,,covid-19 SOS Alert,alarm SOS zaradi covida-19
+279,en,sl,,,covid-19 spread,širjenje covida-19
+280,en,sl,,,covid-19 symptoms,simptomi covida-19
+281,en,sl,,,covid-19 transmission,prenos covida-19
+282,en,sl,,,covid-19 travel ban,prepoved potovanj zaradi covida-19
+283,en,sl,,,covid-19 travel restrictions,omejitve potovanj zaradi covida-19
+284,en,sl,,,covid-19 treatment,zdravljenje covida-19
+285,en,sl,,,covid-19 uncontrolled spread,nenadzorovano širjenje covida-19
+286,en,sl,,,covid-19 vaccine,cepivo za covid-19
+287,en,sl,,,covid-19 vaccines,cepiva za covid-19
+288,en,sl,,,COVID-19 virus,virus covid-19
+289,en,sl,,,covid-19 virus outbreak,izbruh virusa covid-19
+290,en,sl,,,covid-19 virus transmission,prenos virusa covid-19
+291,en,sl,,,covid-19 WHO,covid-19 WHO
+292,en,sl,,,covid19,covid19
+293,en,sl,,,covid19 alert,opozorilo o covidu-19
+294,en,sl,,,covid19 cases,primeri covida-19
+295,en,sl,,,covid19 CDC,covid19 CDC
+301,en,sl,,,covid19 deaths,smrti zaradi covida19
+302,en,sl,,,covid19 domestic travel,potovanja znotraj države zaradi covida19
+303,en,sl,,,covid19 effects,učinki covida19
+304,en,sl,,,covid19 epidemic,epidemija covida19
+305,en,sl,,,covid19 exposure,izpostavljenost covidu19
+306,en,sl,,,covid19 fatal,smrtonosen covid19
+307,en,sl,,,covid19 fever,vročina pri covidu19
+308,en,sl,,,covid19 illness,bolezen covid19
+309,en,sl,,,covid19 incubation,inkubacijska doba covida19
+310,en,sl,,,covid19 incubation period,inkubacijska doba covida19
+311,en,sl,,,covid19 infection,okužba s covidom19
+312,en,sl,,,covid19 international spread,mednarodno širjenje covida19
+313,en,sl,,,covid19 international travel,mednarodna potovanja zaradi covida19
+314,en,sl,,,covid19 isolation,izolacija pri covidu19
+315,en,sl,,,covid19 lockdown,zaprtje zaradi covida19
+316,en,sl,,,covid19 map,zemljevid covida19
+317,en,sl,,,covid19 medicine,zdravilo za covid19
+318,en,sl,,,covid19 medicines,zdravila za covid19
+319,en,sl,,,covid19 news,novice o covidu19
+320,en,sl,,,covid19 outbreak,izbruh covida19
+321,en,sl,,,covid19 pandemic,pandemija covid19
+324,en,sl,,,covid19 precautions,previdnostni ukrepi pri covidu19
+325,en,sl,,,covid19 protection,zaščita pred covidom19
+326,en,sl,,,covid19 quarantine,karatena pri covidu19
+327,en,sl,,,covid19 SOS Alert,alarm SOS zaradi covida19
+328,en,sl,,,covid19 spread,širjenje covida19
+329,en,sl,,,covid19 symptoms,simptomi covida19
+330,en,sl,,,covid19 transmission,prenos covida19
+331,en,sl,,,covid19 travel ban,prepoved potovanj zaradi covida19
+332,en,sl,,,covid19 travel restrictions,omejitve potovanje zaradi covida19
+333,en,sl,,,covid19 treatment,zdravljenje covida19
+335,en,sl,,,covid19 vaccine,cepivo za covid19
+336,en,sl,,,covid19 vaccines,cepiva za covid19
+337,en,sl,,,covid19 virus,virus covid19
+338,en,sl,,,covid19 virus outbreak,izbruh virusa covid19
+339,en,sl,,,covid19 virus transmission,prenos virusa covid19
+342,en,sl,,,current outbreak,izbruh covida19
+343,en,sl,,,deadly outbreak,smrtonosen izbruh
+345,en,sl,,,disease outbreak,izbruh bolezni
+346,en,sl,,,Disposable hand sanitizer,Razkužilo za roke za enkratno uporabo
+348,en,sl,,,domestic travel,potovanje znotraj države
+351,en,sl,,,droplets,kapljice
+357,en,sl,,,Effects of coronavirus,Učinki koronavirusa
+359,en,sl,,,epidemic,epidemija
+360,en,sl,,,epidemic and pandemic,epidemija in pandemija
+362,en,sl,,,epidemic disease,epidemična bolezen
+364,en,sl,,,epidemic outbreak,epidemičen izbruh
+365,en,sl,,,epidemic period,obdobje epidemije
+366,en,sl,,,epidemic prevention,preventiva pri epidemiji
+368,en,sl,,,epidemic season,sezona epidemije
+369,en,sl,,,epidemic situation,epidemična situacija
+371,en,sl,,,exposure,izpostavljenost
+375,en,sl,,,exposure time,čas izpostavljenosti
+379,en,sl,,,fever,vročina
+380,en,sl,,,fight the virus,boj z virusom
+381,en,sl,,,Fighting the outbreak,Boj z izbruhom
+382,en,sl,,,flu epidemic,epidemija gripe
+385,en,sl,,,fomites,izbruhki
+392,en,sl,,,global health emergency,izredno zdravstveno stanje po svetu
+393,en,sl,,,global outbreak,svetovni izbruh
+394,en,sl,,,global pandemic,svetovna pandemija
+396,en,sl,,,hand sanitizer,razkužilo za roke
+397,en,sl,,,hand sanitizer dispenser,dozirnik za razkužilo za roke
+398,en,sl,,,hand sanitizer gel,gel za razkuževanje rok
+399,en,sl,,,hand sanitizer spray,razkužilo za roke v pršilu
+403,en,sl,,,home isolation,izolacija na domu
+404,en,sl,,,home quarantine,karantena na domu
+410,en,sl,,,illness,bolezen
+415,en,sl,,,incubation period,inkubacijska doba
+418,en,sl,,,infected,okužen
+424,en,sl,,,instant hand sanitizer,sredstvo za takojšnjo razkužitev rok
+425,en,sl,,,international spread,mednarodno širjenje
+426,en,sl,,,international travel,mednarodna potovanja
+427,en,sl,,,isolation,izolacija
+428,en,sl,,,isolation period,obdobje izolacije
+430,en,sl,,,isolation room,izolacijska soba
+431,en,sl,,,isolation valve,izolacijski ventil
+432,en,sl,,,isolation ward,oddelek za izolacijo
+434,en,sl,,,lockdown,zaprtje
+438,en,sl,,,major outbreak,večji izbruh
+439,en,sl,,,mandatory quarantine,obvezna karantena
+440,en,sl,,,mass gathering,množično zborovanje
+444,en,sl,,,medicine,zdravilo
+445,en,sl,,,medicines,zdravila
+448,en,sl,,,n95,n95
+449,en,sl,,,n95 mask,maska n95
+450,en,sl,,,n95 respirator,respirator n95
+451,en,sl,,,ncov,ncov
+452,en,sl,,,ncov-2019,ncov-2019
+453,en,sl,,,new coronavirus,novi koronavirus
+454,en,sl,,,new coronavirus pneumonia,pljučnica pri novem koronavirusu
+460,en,sl,,,novel coronavirus,novi koronavirus
+462,en,sl,,,novel coronavirus infection,okužba z novim koronavirusom
+463,en,sl,,,novel coronavirus outbreak,izbruh novega koronavirusa
+464,en,sl,,,novel coronavirus pneumonia,pljučnica pri novem koronavirusu
+470,en,sl,,,ongoing outbreak,sedanji izbruh
+472,en,sl,,,outbreak,izbruh
+474,en,sl,,,outbreak of coronavirus,izbruh koronavirusa
+475,en,sl,,,outbreak of disease,izbruh bolezni
+482,en,sl,,,pandemic,pandemija
+485,en,sl,,,pandemic influenza,pandemična gripa
+486,en,sl,,,pandemic outbreak,izbruh pandemije
+487,en,sl,,,pandemic plan,načrt pandemije
+488,en,sl,,,pandemic potential,potencial pandemije
+495,en,sl,,,pneumonia,pljučnica
+496,en,sl,,,pneumonia epidemic,epidemija pljučnice
+497,en,sl,,,potential exposure,potencialna izpostavljenost
+498,en,sl,,,precautions,previdnostni ukrepi
+499,en,sl,,,prevent virus,preprečim virus
+500,en,sl,,,prolonged exposure,dolgotrajna izpostavljenost
+504,en,sl,,,quarantine,karantena
+505,en,sl,,,quarantine area,območje karantene
+506,en,sl,,,quarantine facility,objekt za karanteno
+507,en,sl,,,quarantine measures,ukrepi za karanteno
+508,en,sl,,,quarantine period,obdobje karantene
+509,en,sl,,,quarantine room,soba za karanteno
+510,en,sl,,,quarantine zone,cona karantene
+512,en,sl,,,Recovered coronavirus patient,Ozdravljen bolnik s koronavirusom
+514,en,sl,,,repatriate,vrnem se domov
+515,en,sl,,,repeated exposure,večkratna izpostavljenost
+516,en,sl,,,respiratory syncytial virus,respiratorni sincicijski virus
+517,en,sl,,,respiratory virus,respiratorni virus
+519,en,sl,,,Sanitizing hand sanitizer,razkuževalno razkužilo za roke
+520,en,sl,,,SARS-CoV-2,SARS-CoV-2
+521,en,sl,,,self isolation,samoizolacija
+522,en,sl,,,self quarantine,samokarantena
+523,en,sl,,,Severe outbreak,večji izbruh
+525,en,sl,,,social distancing,socialna distanca
+526,en,sl,,,social distancing measures,ukrepi za socialno distanco
+527,en,sl,,,social isolation,socialna izolacija
+528,en,sl,,,SOS Alert,Alarm SOS
+529,en,sl,,,spread,širjenje
+530,en,sl,,,spread of coronavirus,širjenje koronavirusa
+531,en,sl,,,spread of virus,širjenje virusa
+535,en,sl,,,strain of virus,sev virusa
+541,en,sl,,,the incubation period,inkubacijska doba
+544,en,sl,,,the novel coronavirus,novi koronavirus
+558,en,sl,,,touching face,dotikanje obraza
+559,en,sl,,,travel advisory,nasveti glede potovanj
+560,en,sl,,,travel ban,prepoved potovanj
+561,en,sl,,,travel restrictions,omejitve potovanj
+565,en,sl,,,use hand sanitizer,uporabim razkužilo za roke
+566,en,sl,,,vaccines,cepiva
+567,en,sl,,,viral outbreak,virusni izbruh
+568,en,sl,,,virtual lockdown,virtualno zaprtje
+569,en,sl,,,virus,virus
+570,en,sl,,,virus carrier,prenašalec virusa
+573,en,sl,,,virus infection,virusna okužba
+575,en,sl,,,virus mask,maska za zaščito pred virusi
+576,en,sl,,,virus outbreak,izbruh virusa
+577,en,sl,,,virus prevention,preventiva pred virusi
+578,en,sl,,,virus protection,zaščita pred virusom
+580,en,sl,,,virus spread,širjenje virusa
+582,en,sl,,,virus spreads,širitve virusa
+583,en,sl,,,virus strain,sev virusa
+584,en,sl,,,virus transmission,prenos virusa
+586,en,sl,,,wash your hands,umivajte si roke
+587,en,sl,,,washing hands,umivanje rok
+589,en,sl,,,WHO,WHO
+590,en,sl,,,WHO Confirmed,potrjeno s strani WHO
+591,en,sl,,,WHO Deaths,potrjene smrti WHO
+592,en,sl,,,widespread outbreak,razširjen izbruh
+597,en,sl,,,World Health Organization,Svetovna zdravstvena organizacija
+600,en,sl,,,zoonotic disease,zoonotska bolezen
+601,en,sl,,,zoonotic virus,zoonotski virus

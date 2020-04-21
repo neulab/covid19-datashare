@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,sk,,,14 days in isolation,14 dní v izolácii
+26,en,sk,,,14 days quarantine,14-dňová karanténa
+27,en,sk,,,2019 coronavirus,koronavírus 2019
+28,en,sk,,,2019 novel coronavirus,nový koronavírus 2019
+29,en,sk,,,2019-nCoV,2019-nCoV
+30,en,sk,,,2020 coronavirus,koronavírus 2020
+31,en,sk,,,2020 novel coronavirus,nový koronavírus 2020
+33,en,sk,,,about coronavirus,o koronavíruse
+39,en,sk,,,acute respiratory distress syndrome,syndróm akútneho respiračného zlyhania
+40,en,sk,,,advanced hand sanitizer,vylepšený prípravok na dezinfekciu rúk
+41,en,sk,,,Affected by coronavirus,Postihnutý koronavírusom
+42,en,sk,,,after exposure,po vystavení
+43,en,sk,,,After the epidemic,Po epidémii
+44,en,sk,,,After the outbreak,Po vypuknutí
+47,en,sk,,,airborne virus,vírus prenášaný vzduchom
+48,en,sk,,,alcohol based hand sanitizer,prípravok na dezinfekciu rúk na báze alkoholu
+49,en,sk,,,alcohol hand sanitizer,alkoholový prípravok na dezinfekciu rúk
+51,en,sk,,,alcohol-based hand sanitizer,prípravok na dezinfekciu rúk na báze alkoholu
+59,en,sk,,,Anti-Corona virus spray,Sprej proti koronavírusu
+60,en,sk,,,antibacterial hand sanitizer,antibakteriálny prípravok na dezinfekciu rúk
+61,en,sk,,,ARDS,ARDS
+64,en,sk,,,avoid exposure,vyhýbajte sa vystaveniu
+65,en,sk,,,be infected,byť nakazený
+75,en,sk,,,Beware of coronavirus,Dávajte si pozor na koronavírus
+76,en,sk,,,bilateral interstitial pneumonia,obojstranný intersticiálny zápal pľúc
+77,en,sk,,,CDC,CDC
+78,en,sk,,,Center for Disease Control,Centrum pre sledovanie chorôb
+83,en,sk,,,community spread,šírenie v komunite
+84,en,sk,,,compulsory quarantine,povinná karanténa
+85,en,sk,,,contagious,nákazlivý
+135,en,sk,,,coronavirus,koronavírus
+136,en,sk,,,coronavirus (COVID-19),koronavírus (COVID-19)
+137,en,sk,,,coronavirus alert,upozornenie na koronavírus
+139,en,sk,,,coronavirus cases,prípady výskytu koronavírusu
+141,en,sk,,,coronavirus concerns,obavy z koronavírusu
+143,en,sk,,,coronavirus crisis,kríza spôsobená koronavírusom
+149,en,sk,,,coronavirus disease,ochorenie na koronavírus
+150,en,sk,,,Coronavirus disease (COVID-19) outbreak,Prepuknutie ochorenia spôsobeného koronavírusom (COVID-19)
+153,en,sk,,,coronavirus early symptoms,prvé symptómy koronavírusu
+155,en,sk,,,coronavirus epidemic,epidémia koronavírusu
+156,en,sk,,,coronavirus exposure,vystavenie koronavírusu
+161,en,sk,,,coronavirus incubation,inkubačná doba koronavírusu
+162,en,sk,,,coronavirus incubation period,inkubačná doba koronavírusu
+163,en,sk,,,coronavirus infection,infekcia spôsobená koronavírusom
+168,en,sk,,,coronavirus map,mapa koronavírusu
+170,en,sk,,,coronavirus medicine,liek na koronavírus
+171,en,sk,,,coronavirus medicines,lieky na koronavírus
+172,en,sk,,,coronavirus news,novinky o koronavíruse
+173,en,sk,,,coronavirus outbreak,epidémia koronavírusu
+174,en,sk,,,coronavirus pandemic,pandémia koronavírusu
+176,en,sk,,,coronavirus pneumonia,zápal pľúc spôsobený koronavírusom
+177,en,sk,,,coronavirus precautions,preventívne opatrenia týkajúce sa koronavírusu
+178,en,sk,,,coronavirus prevention,prechádzanie koronavírusu
+179,en,sk,,,coronavirus protection,ochrana pred koronavírusom
+180,en,sk,,,coronavirus quarantine,karanténa z dôvodu koronavírusu
+182,en,sk,,,coronavirus SOS Alert,SOS upozornenie na koronavírus
+183,en,sk,,,coronavirus spread,šírenie koronavírusu
+184,en,sk,,,coronavirus symptoms,symptómy koronavírusu
+185,en,sk,,,coronavirus transmission,prenos koronavírusu
+186,en,sk,,,coronavirus travel ban,zákaz cestovania počas výskytu koronavírusu
+187,en,sk,,,coronavirus travel restrictions,cestovné obmedzenia počas výskytu koronavírusu
+188,en,sk,,,coronavirus treatment,liečba koronavírusu
+190,en,sk,,,coronavirus update,informácie o koronavíruse
+191,en,sk,,,coronavirus vaccine,vakcína proti koronavírusu
+192,en,sk,,,coronavirus vaccines,vakcíny proti koronavírusu
+198,en,sk,,,covid cases,prípady koronavírusu
+205,en,sk,,,covid early symptoms,prvé symptómy ochorenia covid
+213,en,sk,,,covid incubation period,inkubačná doba ochorenia covid
+215,en,sk,,,covid international spread,medzinárodné šírenie ochorenia covid
+216,en,sk,,,covid international travel,medzinárodné cestovanie počas výskytu ochorenia covid
+217,en,sk,,,covid isolation,izolácia pri ochorení covid
+219,en,sk,,,covid map,mapa ochorenia covid
+220,en,sk,,,covid medicine,liek na ochorenie covid
+221,en,sk,,,covid medicines,lieky na ochorenie covid
+222,en,sk,,,covid news,novinky týkajúce sa ochorenia covid
+223,en,sk,,,covid outbreak,epidémia ochorenia covid
+224,en,sk,,,covid pandemic,pandémia ochorenia covid
+225,en,sk,,,covid panic,panika pri ochorení covid
+228,en,sk,,,covid SOS Alert,SOS upozornenie na ochorenie covid
+230,en,sk,,,covid symptoms,symptómy ochorenia covid
+231,en,sk,,,covid transmission,prenos ochorenia covid
+232,en,sk,,,covid travel ban,zákaz cestovania počas výskytu ochorenia covid
+233,en,sk,,,covid travel restrictions,cestovné obmedzenia počas výskytu ochorenia covid
+234,en,sk,,,covid treatment,liečba ochorenia covid
+236,en,sk,,,covid vaccine,vakcína proti ochoreniu covid
+237,en,sk,,,covid vaccines,vakcíny proti ochoreniu covid
+242,en,sk,,,covid-19,covid-19
+243,en,sk,,,covid-19 alert,upozornenie na ochorenie covid-19
+244,en,sk,,,covid-19 cases,prípady ochorenia covid-19
+245,en,sk,,,covid-19 CDC,covid-19 CDC
+246,en,sk,,,covid-19 contagious,nákazlivé ochorenie covid-19
+247,en,sk,,,covid-19 cure,liečba ochorenia covid-19
+248,en,sk,,,covid-19 dangerous,nebezpečné ochorenie covid-19
+249,en,sk,,,covid-19 deadly,smrteľné ochorenie covid-19
+250,en,sk,,,covid-19 death,úmrtie na ochorenie covid-19
+251,en,sk,,,covid-19 deaths,úmrtia na ochorenie covid-19
+252,en,sk,,,covid-19 domestic travel,domáce cestovanie počas výskytu ochorenia covid-19
+253,en,sk,,,covid-19 early symptoms,prvé symptómy ochorenia covid-19
+254,en,sk,,,covid-19 effects,vplyvy ochorenia covid-19
+255,en,sk,,,covid-19 epidemic,epidémia ochorenia covid-19
+256,en,sk,,,covid-19 exposure,vystavenie ochoreniu covid-19
+257,en,sk,,,covid-19 fatal,smrteľné ochorenie covid-19
+258,en,sk,,,covid-19 fever,horúčka pri ochorení covid-19
+259,en,sk,,,covid-19 illness,choroba covid-19
+260,en,sk,,,covid-19 incubation,inkubačná doba pri ochorení covid-19
+261,en,sk,,,covid-19 incubation period,inkubačná doba ochorenia covid-19
+262,en,sk,,,covid-19 infection,infekcia spôsobená ochorením covid-19
+263,en,sk,,,covid-19 international spread,medzinárodné šírenie ochorenia covid-19
+264,en,sk,,,covid-19 international travel,medzinárodné cestovanie počas ochorenia covid-19
+265,en,sk,,,covid-19 isolation,izolácia pri ochorení covid-19
+266,en,sk,,,covid-19 lockdown,obmedzenie pohybu pri ochorení covid-19
+267,en,sk,,,covid-19 map,mapa ochorenia covid-19
+268,en,sk,,,covid-19 medicine,liek na ochorenie covid-19
+269,en,sk,,,covid-19 medicines,lieky na ochorenie covid-19
+270,en,sk,,,covid-19 news,novinky o ochorení covid-19
+271,en,sk,,,covid-19 outbreak,epidémia ochorenia covid-19
+272,en,sk,,,covid-19 pandemic,pandémia ochorenia covid-19
+273,en,sk,,,covid-19 panic,panika pri ochorení covid-19
+275,en,sk,,,covid-19 precautions,preventívne opatrenia pri ochorení covid-19
+276,en,sk,,,covid-19 protection,ochrana pred ochorením covid-19
+277,en,sk,,,covid-19 quarantine,karanténa pri ochorení covid-19
+278,en,sk,,,covid-19 SOS Alert,SOS upozornenie na ochorenie covid-19
+279,en,sk,,,covid-19 spread,šírenie ochorenia covid-19
+280,en,sk,,,covid-19 symptoms,symptómy pri ochorení covid-19
+281,en,sk,,,covid-19 transmission,prenos ochorenia covid-19
+282,en,sk,,,covid-19 travel ban,zákaz cestovania počas ochorenia covid-19
+283,en,sk,,,covid-19 travel restrictions,cestovné obmedzenia počas ochorenia covid-19
+284,en,sk,,,covid-19 treatment,liečba ochorenia covid-19
+285,en,sk,,,covid-19 uncontrolled spread,nekontrolované šírenie ochorenia covid-19
+286,en,sk,,,covid-19 vaccine,vakcína proti ochoreniu covid-19
+287,en,sk,,,covid-19 vaccines,vakcíny proti ochoreniu covid-19
+288,en,sk,,,COVID-19 virus,vírus covid-19
+289,en,sk,,,covid-19 virus outbreak,prepuknutie vírusu covid-19
+290,en,sk,,,covid-19 virus transmission,prenos vírusu covid-19
+291,en,sk,,,covid-19 WHO,covid-19 SZO
+292,en,sk,,,covid19,covid19
+293,en,sk,,,covid19 alert,upozornenie na ochorenie covid19
+294,en,sk,,,covid19 cases,prípady ochorenia covid19
+295,en,sk,,,covid19 CDC,covid19 CDC
+301,en,sk,,,covid19 deaths,úmrtia na ochorenie covid19
+302,en,sk,,,covid19 domestic travel,domáce cestovanie počas výskytu ochorenia covid19
+303,en,sk,,,covid19 effects,vplyvy ochorenia covid19
+304,en,sk,,,covid19 epidemic,epidémia ochorenia covid19
+305,en,sk,,,covid19 exposure,vystavenie ochoreniu covid19
+306,en,sk,,,covid19 fatal,smrteľné ochorenie covid19
+307,en,sk,,,covid19 fever,horúčka pri ochorení covid19
+308,en,sk,,,covid19 illness,choroba covid19
+309,en,sk,,,covid19 incubation,inkubačná doba pri ochorení covid19
+310,en,sk,,,covid19 incubation period,inkubačná doba ochorenia covid19
+311,en,sk,,,covid19 infection,infekcia spôsobená ochorením covid19
+312,en,sk,,,covid19 international spread,medzinárodné šírenie ochorenia covid19
+313,en,sk,,,covid19 international travel,medzinárodné cestovanie počas výskytu ochorenia covid19
+314,en,sk,,,covid19 isolation,izolácia pri ochorení covid19
+315,en,sk,,,covid19 lockdown,obmedzenie pohybu pri ochorení covid19
+316,en,sk,,,covid19 map,mapa ochorenia covid19
+317,en,sk,,,covid19 medicine,liek na ochorenie covid19
+318,en,sk,,,covid19 medicines,lieky na ochorenie covid19
+319,en,sk,,,covid19 news,novinky o ochorení covid19
+320,en,sk,,,covid19 outbreak,epidémia ochorenia covid19
+321,en,sk,,,covid19 pandemic,pandémia ochorenia covid19
+324,en,sk,,,covid19 precautions,preventívna opatrenia pri ochorení covid19
+325,en,sk,,,covid19 protection,ochrana pred ochorením covid19
+326,en,sk,,,covid19 quarantine,karanténa pri ochorení covid19
+327,en,sk,,,covid19 SOS Alert,SOS upozornenie na ochorenie covid19
+328,en,sk,,,covid19 spread,šírenie ochorenia covid19
+329,en,sk,,,covid19 symptoms,symptómy pri ochorení covid19
+330,en,sk,,,covid19 transmission,prenos ochorenia covid19
+331,en,sk,,,covid19 travel ban,zákaz cestovania počas výskytu ochorenia covid19
+332,en,sk,,,covid19 travel restrictions,cestovné obmedzenia počas výskytu ochorenia covid19
+333,en,sk,,,covid19 treatment,liečba ochorenia covid19
+335,en,sk,,,covid19 vaccine,vakcína proti ochoreniu covid19
+336,en,sk,,,covid19 vaccines,vakcíny proti ochoreniu covid19
+337,en,sk,,,covid19 virus,vírus covid19
+338,en,sk,,,covid19 virus outbreak,prepuknutie vírusu covid19
+339,en,sk,,,covid19 virus transmission,prenos vírusu covid19
+342,en,sk,,,current outbreak,aktuálna epidémia
+343,en,sk,,,deadly outbreak,smrteľná epidémia
+345,en,sk,,,disease outbreak,epidémia ochorenia
+346,en,sk,,,Disposable hand sanitizer,Jednorazový prípravok na dezinfekciu rúk
+348,en,sk,,,domestic travel,domáce cestovanie
+351,en,sk,,,droplets,kvapôčky
+357,en,sk,,,Effects of coronavirus,Vplyvy koronavírusu
+359,en,sk,,,epidemic,epidémia
+360,en,sk,,,epidemic and pandemic,epidemický a pandemický
+362,en,sk,,,epidemic disease,ochorenie spôsobujúce epidémiu
+364,en,sk,,,epidemic outbreak,prepuknutie epidémie
+365,en,sk,,,epidemic period,obdobie epidémie
+366,en,sk,,,epidemic prevention,prevencia pred epidémiou
+368,en,sk,,,epidemic season,obdobie epidémie
+369,en,sk,,,epidemic situation,stav epidémie
+371,en,sk,,,exposure,vystavenie
+375,en,sk,,,exposure time,doba vystavenia
+379,en,sk,,,fever,horúčka
+380,en,sk,,,fight the virus,boj proti vírusu
+381,en,sk,,,Fighting the outbreak,Boj proti epidémii
+382,en,sk,,,flu epidemic,epidémia chrípky
+385,en,sk,,,fomites,kontaminované predmety
+392,en,sk,,,global health emergency,globálna mimoriadna situácia v oblasti zdravia
+393,en,sk,,,global outbreak,globálna epidémia
+394,en,sk,,,global pandemic,globálna pandémia
+396,en,sk,,,hand sanitizer,prípravok na dezinfekciu rúk
+397,en,sk,,,hand sanitizer dispenser,automat na prípravok na dezinfekciu rúk
+398,en,sk,,,hand sanitizer gel,gél na dezinfekciu rúk
+399,en,sk,,,hand sanitizer spray,sprej na dezinfekciu rúk
+403,en,sk,,,home isolation,domáca izolácia
+404,en,sk,,,home quarantine,domáce karanténa
+410,en,sk,,,illness,choroba
+415,en,sk,,,incubation period,inkubačná doba
+418,en,sk,,,infected,infikovaný
+424,en,sk,,,instant hand sanitizer,instantný prípravok na dezinfekciu rúk
+425,en,sk,,,international spread,medzinárodné šírenie
+426,en,sk,,,international travel,medzinárodné cestovanie
+427,en,sk,,,isolation,izolácia
+428,en,sk,,,isolation period,obdobie izolácie
+430,en,sk,,,isolation room,izolovaná miestnosť
+431,en,sk,,,isolation valve,izolačný ventil
+432,en,sk,,,isolation ward,izolačné oddelenie
+434,en,sk,,,lockdown,obmedzenie pohybu
+438,en,sk,,,major outbreak,rozsiahly výskyt
+439,en,sk,,,mandatory quarantine,povinné karanténa
+440,en,sk,,,mass gathering,masová akcia
+444,en,sk,,,medicine,liek
+445,en,sk,,,medicines,lieky
+448,en,sk,,,n95,n95
+449,en,sk,,,n95 mask,maska n95
+450,en,sk,,,n95 respirator,respirátor n95
+451,en,sk,,,ncov,ncov
+452,en,sk,,,ncov-2019,ncov-2019
+453,en,sk,,,new coronavirus,nový koronavírus
+454,en,sk,,,new coronavirus pneumonia,zápal pľúc spôsobený novým koronavírusom
+460,en,sk,,,novel coronavirus,nový koronavírus
+462,en,sk,,,novel coronavirus infection,nákaza novým koronavírusom
+463,en,sk,,,novel coronavirus outbreak,epidémia nového koronavírusu
+464,en,sk,,,novel coronavirus pneumonia,zápal pľúc spôsobený novým koronavírusom
+470,en,sk,,,ongoing outbreak,pretrvávajúca epidémia
+472,en,sk,,,outbreak,epidémia
+474,en,sk,,,outbreak of coronavirus,epidémia koronavírusu
+475,en,sk,,,outbreak of disease,epidémia ochorenia
+482,en,sk,,,pandemic,pandemický
+485,en,sk,,,pandemic influenza,pandemická chrípka
+486,en,sk,,,pandemic outbreak,vypuknutie pandémie
+487,en,sk,,,pandemic plan,plán pandémie
+488,en,sk,,,pandemic potential,potenciál pandémie
+495,en,sk,,,pneumonia,zápal pľúc
+496,en,sk,,,pneumonia epidemic,epidémia zápalu pľúc
+497,en,sk,,,potential exposure,potenciálne vystavenie
+498,en,sk,,,precautions,prevencia
+499,en,sk,,,prevent virus,ochrana pred vírusom
+500,en,sk,,,prolonged exposure,dlhotrvajúce vystavenie
+504,en,sk,,,quarantine,karanténa
+505,en,sk,,,quarantine area,oblasť karantény
+506,en,sk,,,quarantine facility,zariadenie na karanténu
+507,en,sk,,,quarantine measures,karanténne opatrenia
+508,en,sk,,,quarantine period,trvanie karantény
+509,en,sk,,,quarantine room,miestnosť na karanténu
+510,en,sk,,,quarantine zone,oblasť karantény
+512,en,sk,,,Recovered coronavirus patient,Uzdravený pacient s koronavírusom
+514,en,sk,,,repatriate,vraciam sa domov
+515,en,sk,,,repeated exposure,opakované vystavenie
+516,en,sk,,,respiratory syncytial virus,respiračný syncyciálny vírus
+517,en,sk,,,respiratory virus,respiračný vírus
+519,en,sk,,,Sanitizing hand sanitizer,Dezinfekčný prípravok na dezinfekciu rúk
+520,en,sk,,,SARS-CoV-2,SARS-CoV-2
+521,en,sk,,,self isolation,sebaizolácia
+522,en,sk,,,self quarantine,domáca karanténa
+523,en,sk,,,Severe outbreak,Vážne prepuknutie
+525,en,sk,,,social distancing,sociálny odstup
+526,en,sk,,,social distancing measures,Opatrenia sociálnej izolácie
+527,en,sk,,,social isolation,sociálna izolácia
+528,en,sk,,,SOS Alert,SOS varovanie
+529,en,sk,,,spread,šírenie
+530,en,sk,,,spread of coronavirus,šírenie koronavírusu
+531,en,sk,,,spread of virus,šírenie vírusu
+535,en,sk,,,strain of virus,kmeň vírusu
+541,en,sk,,,the incubation period,inkubačná doba
+544,en,sk,,,the novel coronavirus,nový koronavírus
+558,en,sk,,,touching face,dotýkanie sa tváre
+559,en,sk,,,travel advisory,cestovný poradca
+560,en,sk,,,travel ban,zákaz cestovania
+561,en,sk,,,travel restrictions,cestovné obmedzenia
+565,en,sk,,,use hand sanitizer,používajte prípravok na dezinfekciu rúk
+566,en,sk,,,vaccines,vakcíny
+567,en,sk,,,viral outbreak,prepuknutie vírusu
+568,en,sk,,,virtual lockdown,virtuálny dohľad
+569,en,sk,,,virus,vírus
+570,en,sk,,,virus carrier,nosič vírusu
+573,en,sk,,,virus infection,infekcia vírusom
+575,en,sk,,,virus mask,maska proti vírusu
+576,en,sk,,,virus outbreak,prepuknutie vírusu
+577,en,sk,,,virus prevention,prevencia vírusu
+578,en,sk,,,virus protection,ochrana pred vírusom
+580,en,sk,,,virus spread,šírenie vírusu
+582,en,sk,,,virus spreads,vírus sa šíri
+583,en,sk,,,virus strain,kmeň vírusu
+584,en,sk,,,virus transmission,prenos vírusu
+586,en,sk,,,wash your hands,umývajte si ruky
+587,en,sk,,,washing hands,umývanie rúk
+589,en,sk,,,WHO,SZO
+590,en,sk,,,WHO Confirmed,SZO potvrdila
+591,en,sk,,,WHO Deaths,SZO úmrtia
+592,en,sk,,,widespread outbreak,hromadný výskyt
+597,en,sk,,,World Health Organization,Svetová zdravotnícka organizácia
+600,en,sk,,,zoonotic disease,zoonotické ochorenie
+601,en,sk,,,zoonotic virus,zoonotický vírus

@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,az,,,14 days in isolation,14 gün izolədə
+26,en,az,,,14 days quarantine,14 günlük karantin
+27,en,az,,,2019 coronavirus,2019 koronavirus
+28,en,az,,,2019 novel coronavirus,2019-cu ilin yeni koronavirusu
+29,en,az,,,2019-nCoV,2019-nCoV
+30,en,az,,,2020 coronavirus,2020 koronavirus
+31,en,az,,,2020 novel coronavirus,2020 ilin yeni koronavirusu
+33,en,az,,,about coronavirus,koronavirus haqqında
+39,en,az,,,acute respiratory distress syndrome,kəskin nəfəs yollarında pozulma sindromu
+40,en,az,,,advanced hand sanitizer,müasir əl üçün dezinfeksiya vasitəsi
+41,en,az,,,Affected by coronavirus,Koronavirusun təsirinə məruz qalmış
+42,en,az,,,after exposure,təsirə məruz qaldıqdan sonra
+43,en,az,,,After the epidemic,Epidemiyadan sonra
+44,en,az,,,After the outbreak,Yayılmadan sonra
+47,en,az,,,airborne virus,hava ilə yayılan virus
+48,en,az,,,alcohol based hand sanitizer,spirt əsaslı əl üçün dezinfeksiya vasitəsi
+49,en,az,,,alcohol hand sanitizer,əl üçün spirtli dezinfeksiya vasitəsi
+51,en,az,,,alcohol-based hand sanitizer,əl üçün spirt əsaslı dezinfeksiya vasitəsi
+59,en,az,,,Anti-Corona virus spray,Korona virusa qarşı püskürmə
+60,en,az,,,antibacterial hand sanitizer,əl üçün bakteriyalara qarşı dezinfeksiya vasitəsi
+61,en,az,,,ARDS,ARDS
+64,en,az,,,avoid exposure,təsirdən qaçma
+65,en,az,,,be infected,yoluxma
+75,en,az,,,Beware of coronavirus,Koronavirusdan özünüzü qoruyun
+76,en,az,,,bilateral interstitial pneumonia,İkitərəfli aralıq pnevmoniya
+77,en,az,,,CDC,XNM
+78,en,az,,,Center for Disease Control,Xəstəliyə Nəzarət Mərkəzi
+83,en,az,,,community spread,icma daxilində yayılma
+84,en,az,,,compulsory quarantine,məcburi karantin
+85,en,az,,,contagious,yoluxucu
+135,en,az,,,coronavirus,koronavirus
+136,en,az,,,coronavirus (COVID-19),koronavirus (COVİD-19)
+137,en,az,,,coronavirus alert,koronavirus barədə xəbərdarlıq
+139,en,az,,,coronavirus cases,koronavirus hadisələri
+141,en,az,,,coronavirus concerns,koronavirusla bağlı narahatlıq
+143,en,az,,,coronavirus crisis,koronavirus böhranı
+149,en,az,,,coronavirus disease,koronavirus xəstəliyi
+150,en,az,,,Coronavirus disease (COVID-19) outbreak,Koronavirus xəstəliyinin (COVİD-19) yayılması
+153,en,az,,,coronavirus early symptoms,koronavirusun erkən əlamətləri
+155,en,az,,,coronavirus epidemic,koronavirus epidemiyası
+156,en,az,,,coronavirus exposure,koronavirusun təsirinə məruz qalma
+161,en,az,,,coronavirus incubation,koronavirusun inkubasiya vaxtı
+162,en,az,,,coronavirus incubation period,koronavirusun inkubasiya müddəti
+163,en,az,,,coronavirus infection,koronavirus infeksiyası
+168,en,az,,,coronavirus map,koronavirus xəritəsi
+170,en,az,,,coronavirus medicine,koronavirus dərmanı
+171,en,az,,,coronavirus medicines,koronavirus dərmanları
+172,en,az,,,coronavirus news,koronavirus xəbərləri
+173,en,az,,,coronavirus outbreak,koronavirus yayılması
+174,en,az,,,coronavirus pandemic,koronavirus pandemiyası
+176,en,az,,,coronavirus pneumonia,koronavirus sətəlcəmi
+177,en,az,,,coronavirus precautions,koronavirsla bağlı ehtiyat tədbirləri
+178,en,az,,,coronavirus prevention,koronavirusun qarşısının alınması
+179,en,az,,,coronavirus protection,koronavirusdan mühafizə
+180,en,az,,,coronavirus quarantine,koronavirusla bağlı karantin
+182,en,az,,,coronavirus SOS Alert,koronavirusla bağlı SOS xəbərdarlıq
+183,en,az,,,coronavirus spread,koronavirusun yayılması
+184,en,az,,,coronavirus symptoms,koronavirus əlamətləri
+185,en,az,,,coronavirus transmission,koronavirusun yayılması
+186,en,az,,,coronavirus travel ban,koronavirusla bağlı səyahətin qadağan edilməsi
+187,en,az,,,coronavirus travel restrictions,koronavirusla bağlı səyahətin məhdudlaşdırılması
+188,en,az,,,coronavirus treatment,koronavirusun müalicəsi
+190,en,az,,,coronavirus update,koronavirusla bağlı məlumatın yenilənməsi
+191,en,az,,,coronavirus vaccine,koronavirus vaksini
+192,en,az,,,coronavirus vaccines,koronavirus vaksinləri
+198,en,az,,,covid cases,covid halları
+205,en,az,,,covid early symptoms,covid erkən əlamətləri
+213,en,az,,,covid incubation period,covid inkubasiya müddəti
+215,en,az,,,covid international spread,covid-in beynəlxalq miqyasda yayılması
+216,en,az,,,covid international travel,covid beynəlxalq sayəhət
+217,en,az,,,covid isolation,covid izoləsi
+219,en,az,,,covid map,covid xəritəsi
+220,en,az,,,covid medicine,covid dərmanı
+221,en,az,,,covid medicines,covid dərmanları
+222,en,az,,,covid news,covid xəvbərləri
+223,en,az,,,covid outbreak,covid yayılması
+224,en,az,,,covid pandemic,covid pandemiyası
+225,en,az,,,covid panic,covid təlaşı
+228,en,az,,,covid SOS Alert,covid SOS xəbərdarlığı
+230,en,az,,,covid symptoms,covid əlamətləri
+231,en,az,,,covid transmission,covid ötürülməsi
+232,en,az,,,covid travel ban,covid səyahətin qadağan edilməsi
+233,en,az,,,covid travel restrictions,covid səyahətin məhdudlaşdırılması
+234,en,az,,,covid treatment,covid müalicəsi
+236,en,az,,,covid vaccine,covid vaksini
+237,en,az,,,covid vaccines,covid vaksinləri
+242,en,az,,,covid-19,covid-19
+243,en,az,,,covid-19 alert,covid-19 ilə bağlı xəbərdarlıq
+244,en,az,,,covid-19 cases,covid-19 halları
+245,en,az,,,covid-19 CDC,covid-19 XNM
+246,en,az,,,covid-19 contagious,yoluxucu covid-19
+247,en,az,,,covid-19 cure,covid-19-dan müalicə
+248,en,az,,,covid-19 dangerous,təhlükəli covid-19
+249,en,az,,,covid-19 deadly,ölümcül covid-19
+250,en,az,,,covid-19 death,covid-19 ölümü
+251,en,az,,,covid-19 deaths,covid-19 ölümləri
+252,en,az,,,covid-19 domestic travel,covid-19 yerli səyahət
+253,en,az,,,covid-19 early symptoms,covid-19 erkən əlamətləri
+254,en,az,,,covid-19 effects,covid-19 təsirləri
+255,en,az,,,covid-19 epidemic,covid-19 epidemiyası
+256,en,az,,,covid-19 exposure,covid-19 təsirinə məruz qalma
+257,en,az,,,covid-19 fatal,ölümcül covid-19
+258,en,az,,,covid-19 fever,covid-19 hərarəti
+259,en,az,,,covid-19 illness,covid-19 xəstəliyi
+260,en,az,,,covid-19 incubation,covid-19 inkubasiya dövrü
+261,en,az,,,covid-19 incubation period,covid-19 inkubasiya müddəti
+262,en,az,,,covid-19 infection,covid-19 infeksiyası
+263,en,az,,,covid-19 international spread,covid-19 beynəlxalq səviyyədə yayılması
+264,en,az,,,covid-19 international travel,covid-19 beynəlxalq səyahət
+265,en,az,,,covid-19 isolation,covid-19 izoləsi
+266,en,az,,,covid-19 lockdown,covid-19 ilə bağlı kilidləmə
+267,en,az,,,covid-19 map,covid-19 xəritəsi
+268,en,az,,,covid-19 medicine,covid-19 dərmanı
+269,en,az,,,covid-19 medicines,covid-19 dərmanları
+270,en,az,,,covid-19 news,covid-19 xəbərləri
+271,en,az,,,covid-19 outbreak,covid-19 yayılması
+272,en,az,,,covid-19 pandemic,covid-19 pandemiyası
+273,en,az,,,covid-19 panic,covid-19 təlaşı
+275,en,az,,,covid-19 precautions,covid-19 ehtiyat tədbirləri
+276,en,az,,,covid-19 protection,covid-19-dan mühafizə
+277,en,az,,,covid-19 quarantine,covid-19 karantini
+278,en,az,,,covid-19 SOS Alert,covid-19 SOS xəbərdarlığı
+279,en,az,,,covid-19 spread,covid-19 yayılması
+280,en,az,,,covid-19 symptoms,covid-19 əlamətləri
+281,en,az,,,covid-19 transmission,covid-19 ötürülməsi
+282,en,az,,,covid-19 travel ban,covid-19 səyahətin qadağan edilməsi
+283,en,az,,,covid-19 travel restrictions,covid-19 səyahət məhdudiyyətləri
+284,en,az,,,covid-19 treatment,covid-19 müalicəsi
+285,en,az,,,covid-19 uncontrolled spread,covid-19 nəzarət edilməyən yayılma
+286,en,az,,,covid-19 vaccine,covid-19 vaksini
+287,en,az,,,covid-19 vaccines,covid-19 vaksinləri
+288,en,az,,,COVID-19 virus,covid-19 virusu
+289,en,az,,,covid-19 virus outbreak,covid-19 virusunun yayılması
+290,en,az,,,covid-19 virus transmission,covid-19 virusunun ötürülməsi
+291,en,az,,,covid-19 WHO,covid-19 ÜST
+292,en,az,,,covid19,covid19
+293,en,az,,,covid19 alert,covid19 ilə bağlı xəbərdarlıq
+294,en,az,,,covid19 cases,covid19 halları
+295,en,az,,,covid19 CDC,covid19 XNM
+301,en,az,,,covid19 deaths,covid19 ölümləri
+302,en,az,,,covid19 domestic travel,covid19 yerli səyahət
+303,en,az,,,covid19 effects,covid19 təsirləri
+304,en,az,,,covid19 epidemic,covid19 epidemiyası
+305,en,az,,,covid19 exposure,covid19 təsirinə məruz qalma
+306,en,az,,,covid19 fatal,ölümcül covid19
+307,en,az,,,covid19 fever,covid19 hərarəti
+308,en,az,,,covid19 illness,covid19 xəstəliyi
+309,en,az,,,covid19 incubation,covid19 inkubasiya dövrü
+310,en,az,,,covid19 incubation period,covid19 inkubasiya müddəti
+311,en,az,,,covid19 infection,covid19 infeksiyası
+312,en,az,,,covid19 international spread,covid19 beynəlxalq səviyyədə yayılması
+313,en,az,,,covid19 international travel,covid19 beynəlxalq səyahət
+314,en,az,,,covid19 isolation,covid19 izoləsi
+315,en,az,,,covid19 lockdown,covid19 ilə bağlı kilidləmə
+316,en,az,,,covid19 map,covid19 xəritəsi
+317,en,az,,,covid19 medicine,covid19 dərmanı
+318,en,az,,,covid19 medicines,covid19 dərmanları
+319,en,az,,,covid19 news,covid19 xəbərləri
+320,en,az,,,covid19 outbreak,covid19 yayılması
+321,en,az,,,covid19 pandemic,covid19 pandemiyası
+324,en,az,,,covid19 precautions,covid19 ilə bağlı ehtiyat tədbirləri
+325,en,az,,,covid19 protection,covid19-dan mühafizə
+326,en,az,,,covid19 quarantine,covid19 karantini
+327,en,az,,,covid19 SOS Alert,covid19 SOS Həyəcanı
+328,en,az,,,covid19 spread,covid19 yayılması
+329,en,az,,,covid19 symptoms,covid19 əlamətləri
+330,en,az,,,covid19 transmission,covid19 ötürülməsi
+331,en,az,,,covid19 travel ban,covid19 səyahətin qadağan edilməsi
+332,en,az,,,covid19 travel restrictions,covid19 səyahətin məhdudlaşdırılması
+333,en,az,,,covid19 treatment,covid19 müalicəsi
+335,en,az,,,covid19 vaccine,covid19 vaksini
+336,en,az,,,covid19 vaccines,covid19 vaksinləri
+337,en,az,,,covid19 virus,covid19 virusu
+338,en,az,,,covid19 virus outbreak,covid19 virusunun yayılması
+339,en,az,,,covid19 virus transmission,covid19 virusunun ötürülməsi
+342,en,az,,,current outbreak,cari yayılma
+343,en,az,,,deadly outbreak,ölümcül yayılma
+345,en,az,,,disease outbreak,xəstəliyin yayılması
+346,en,az,,,Disposable hand sanitizer,Bir-dəfəlik əl üçün dezinfeksiya vasitəsi
+348,en,az,,,domestic travel,yerli səyahət
+351,en,az,,,droplets,damcılar
+357,en,az,,,Effects of coronavirus,Koronavirusun təsirləri
+359,en,az,,,epidemic,epidemiya
+360,en,az,,,epidemic and pandemic,epidemiya və pandemiya
+362,en,az,,,epidemic disease,epidemik xəstəlik
+364,en,az,,,epidemic outbreak,epidemiyanın yayılması
+365,en,az,,,epidemic period,epidemiya müddəti
+366,en,az,,,epidemic prevention,epidemiyanın qarşısının alınması
+368,en,az,,,epidemic season,epidemiya mövsümü
+369,en,az,,,epidemic situation,epidemiya vəziyyəti
+371,en,az,,,exposure,məruz qalma
+375,en,az,,,exposure time,təsir vaxtı
+379,en,az,,,fever,hərarət
+380,en,az,,,fight the virus,virusla mübarizə apar
+381,en,az,,,Fighting the outbreak,Yayılma ilə mübarizə
+382,en,az,,,flu epidemic,qrip epidemiyası
+385,en,az,,,fomites,fomitlər
+392,en,az,,,global health emergency,səhiyyə sahəsində qlobal fövqəladə hal
+393,en,az,,,global outbreak,qlobal yayılma
+394,en,az,,,global pandemic,qlobal pandemiya
+396,en,az,,,hand sanitizer,əl üçün dezinfeksiya vasitəsi
+397,en,az,,,hand sanitizer dispenser,əl üçün dezinfeksiya vasitəsinin qabı
+398,en,az,,,hand sanitizer gel,əl üçün dezinfeksiyaedici gel
+399,en,az,,,hand sanitizer spray,əl üçün dezinfeksiya şırnağı
+403,en,az,,,home isolation,evin izoləsi
+404,en,az,,,home quarantine,evin karantini
+410,en,az,,,illness,xəstəlik
+415,en,az,,,incubation period,inkubasiya müddəti
+418,en,az,,,infected,yoluxmuş
+424,en,az,,,instant hand sanitizer,ani əl üçün dezinfeksiya vasitəsi
+425,en,az,,,international spread,beynəlxalq yayılma
+426,en,az,,,international travel,beynəlxalq səyahət
+427,en,az,,,isolation,izolə
+428,en,az,,,isolation period,izolə müddəti
+430,en,az,,,isolation room,izolə otağı
+431,en,az,,,isolation valve,izolə klapanı
+432,en,az,,,isolation ward,izolə palatası
+434,en,az,,,lockdown,kilidləmə
+438,en,az,,,major outbreak,iri miqyaslı yayılma
+439,en,az,,,mandatory quarantine,məcburi karantin
+440,en,az,,,mass gathering,kütləvi tolanma
+444,en,az,,,medicine,dərman
+445,en,az,,,medicines,dərmanlar
+448,en,az,,,n95,n95
+449,en,az,,,n95 mask,n95 maskası
+450,en,az,,,n95 respirator,n96 respiratoru
+451,en,az,,,ncov,ncov
+452,en,az,,,ncov-2019,ncov-2019
+453,en,az,,,new coronavirus,yeni koronavirs
+454,en,az,,,new coronavirus pneumonia,yeni koronavirus sətəlcəmi
+460,en,az,,,novel coronavirus,yeni koronavirus
+462,en,az,,,novel coronavirus infection,yeni koronavirus yoluxması
+463,en,az,,,novel coronavirus outbreak,yeni koronavirus yayılması
+464,en,az,,,novel coronavirus pneumonia,yeni koronavirus sətəlcəmi
+470,en,az,,,ongoing outbreak,davam edən yayılma
+472,en,az,,,outbreak,yayılma
+474,en,az,,,outbreak of coronavirus,koronavirusun yayılması
+475,en,az,,,outbreak of disease,xəstəliyin yayılması
+482,en,az,,,pandemic,pandemiya
+485,en,az,,,pandemic influenza,pandemik influenza
+486,en,az,,,pandemic outbreak,pandemik yayılma
+487,en,az,,,pandemic plan,pandemiya planı
+488,en,az,,,pandemic potential,pandemiya potensialı
+495,en,az,,,pneumonia,sətəlcəm
+496,en,az,,,pneumonia epidemic,sətəlcəm epidemiyası
+497,en,az,,,potential exposure,mümkün təsirə məruz qalma
+498,en,az,,,precautions,ehtiyat tədbirləri
+499,en,az,,,prevent virus,virusun qarşısını alma
+500,en,az,,,prolonged exposure,uzun müddətli təsir
+504,en,az,,,quarantine,karantin
+505,en,az,,,quarantine area,karantin sahəsi
+506,en,az,,,quarantine facility,karantin tikilisi
+507,en,az,,,quarantine measures,karantin tədbirləri
+508,en,az,,,quarantine period,karantin müddəti
+509,en,az,,,quarantine room,karantin otağı
+510,en,az,,,quarantine zone,karantin zonası
+512,en,az,,,Recovered coronavirus patient,Sağalmış koronavirus xəstəsi
+514,en,az,,,repatriate,vətənə qayıtmaq
+515,en,az,,,repeated exposure,təkrarlanan təsir
+516,en,az,,,respiratory syncytial virus,nəfəs yollarında və burunda virus
+517,en,az,,,respiratory virus,nəfəs yolları virusu
+519,en,az,,,Sanitizing hand sanitizer,Əl üçün dezinfeksiya vasitəsilə təmizləmə
+520,en,az,,,SARS-CoV-2,SARS-CoV-2
+521,en,az,,,self isolation,özünü-izolə
+522,en,az,,,self quarantine,özünü-karantin
+523,en,az,,,Severe outbreak,Kəskin yayılma
+525,en,az,,,social distancing,sosial uzaqlaşma
+526,en,az,,,social distancing measures,sosial aralanma tədbirləri
+527,en,az,,,social isolation,sosial izolə
+528,en,az,,,SOS Alert,SOS həyəcanı
+529,en,az,,,spread,yayılma
+530,en,az,,,spread of coronavirus,koronavirusun yayılması
+531,en,az,,,spread of virus,virusun yayılması
+535,en,az,,,strain of virus,virus ştammı
+541,en,az,,,the incubation period,inkubasiya müddəti
+544,en,az,,,the novel coronavirus,yeni koronavirus
+558,en,az,,,touching face,üzə toxunma
+559,en,az,,,travel advisory,səyahətlə bağlı məsləhət
+560,en,az,,,travel ban,səyahət qadağası
+561,en,az,,,travel restrictions,səyahət məhdudiyyətləri
+565,en,az,,,use hand sanitizer,əl dezinfeksiya vasitəsindən istifadə edin
+566,en,az,,,vaccines,vaksinlər
+567,en,az,,,viral outbreak,virusun yayılması
+568,en,az,,,virtual lockdown,virtual kilidləmə
+569,en,az,,,virus,virus
+570,en,az,,,virus carrier,virus daşıyıcı
+573,en,az,,,virus infection,virus infeksiyası
+575,en,az,,,virus mask,virus maskası
+576,en,az,,,virus outbreak,virusun yayılması
+577,en,az,,,virus prevention,virusun qarşısının alınması
+578,en,az,,,virus protection,virusdan mühafizə
+580,en,az,,,virus spread,virusu yayma
+582,en,az,,,virus spreads,virus yayılır
+583,en,az,,,virus strain,virus ştammı
+584,en,az,,,virus transmission,virusun ötürülməsi
+586,en,az,,,wash your hands,əllərinizi yuyun
+587,en,az,,,washing hands,əllərin yuyulması
+589,en,az,,,WHO,ÜST
+590,en,az,,,WHO Confirmed,ÜST tərəfindən təsdiq edilmiş
+591,en,az,,,WHO Deaths,ÜST Ölümləri
+592,en,az,,,widespread outbreak,geniş yayılmış epidemiya
+597,en,az,,,World Health Organization,Ümumdünya Səhiyyə Təşkilatı
+600,en,az,,,zoonotic disease,zoonotik xəstəlik
+601,en,az,,,zoonotic virus,zoonotik virus

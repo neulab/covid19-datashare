@@ -1,0 +1,50 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+xx_702,ms,en,,,2019-nCoV,2019-nCoV
+xx_703,ms,en,,,Virus Korona,Corona Virus
+xx_704,ms,en,,,kuarantin,Quarantine
+xx_705,ms,en,,,masa inkubasi,incubation period
+xx_706,ms,en,,,wabak,epidemic
+xx_707,ms,en,,,kluster,cluster
+xx_708,ms,en,,,ujian kapas kesat,swab test
+xx_709,ms,en,,,topeng muka N-95,N-95 face mask
+xx_710,ms,en,,,sanitasi,sanitation
+xx_711,ms,en,,,bergejala,present symptoms
+xx_712,ms,en,,,krisis,crisis
+xx_713,ms,en,,,penularan aktif,active infection
+xx_714,ms,en,,,jarakan sosial,social distancing
+xx_715,ms,en,,,perintah berkurung,curfew
+xx_716,ms,en,,,belian panik,panic buying
+xx_717,ms,en,,,kecemasan,emergency
+xx_718,ms,en,,,ventilator,ventilator
+xx_719,ms,en,,,kadar kematian,mortality rate
+xx_720,ms,en,,,moratorium,moratorium
+xx_721,ms,en,,,petugas kesihatan,health official
+xx_722,ms,en,,,unit rawatan rapi,intensive care unit
+xx_723,ms,en,,,batuk,cough
+xx_724,ms,en,,,bersin,sneeze
+xx_725,ms,en,,,titisan,drip
+xx_726,ms,en,,,selesema,common cold
+xx_727,ms,en,,,jangkitan,infection
+xx_728,ms,en,,,sesak nafas,breathing difficulties
+xx_729,ms,en,,,kelawar,bat
+xx_730,ms,en,,,berjangkit,contagious
+xx_731,ms,en,,,penyembuhan,healing
+xx_732,ms,en,,,kes positif,positive case
+xx_733,ms,en,,,epidemiologi,epidemiology
+xx_734,ms,en,,,rekod perjalanan,movement record
+xx_735,ms,en,,,pernafasan akut,acute respiration
+xx_736,ms,en,,,kontak rapat,close contact
+xx_737,ms,en,,,pengasingan,isolation
+xx_738,ms,en,,,disinfeksi,disinfection
+xx_739,ms,en,,,keluk jangkitan,infection curve
+xx_740,ms,en,,,kesiapsagaan,preparedness
+xx_741,ms,en,,,pencegahan,prevention
+xx_742,ms,en,,,pengamal perubatan,medical practitioner
+xx_743,ms,en,,,fisioterapi dada,chest physiotherapy
+xx_744,ms,en,,,gelombang,wave
+xx_745,ms,en,,,pengangkutan awam,public transportation
+xx_746,ms,en,,,vaksin,vaccine
+xx_747,ms,en,,,pintu sempadan,borders
+xx_748,ms,en,,,sekatan jalan raya,roadblock
+xx_749,ms,en,,,penyelenggaraan mayat,corpse preparation
+xx_750,ms,en,,,radang paru-paru,pneumonia

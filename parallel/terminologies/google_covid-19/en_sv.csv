@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,sv,,,14 days in isolation,14 dagar i isolering
+26,en,sv,,,14 days quarantine,14 dagars karantän
+27,en,sv,,,2019 coronavirus,2019 coronavirus
+28,en,sv,,,2019 novel coronavirus,2019 nytt coronavirus
+29,en,sv,,,2019-nCoV,2019-nCoV
+30,en,sv,,,2020 coronavirus,2020 coronavirus
+31,en,sv,,,2020 novel coronavirus,2020 nytt coronavirus
+33,en,sv,,,about coronavirus,om coronavirus
+39,en,sv,,,acute respiratory distress syndrome,akut respiratoriskt distress-syndrom
+40,en,sv,,,advanced hand sanitizer,avancerad handsprit
+41,en,sv,,,Affected by coronavirus,Påverkad av coronavirus
+42,en,sv,,,after exposure,efter exponering
+43,en,sv,,,After the epidemic,Efter epidemin
+44,en,sv,,,After the outbreak,Efter utbrottet
+47,en,sv,,,airborne virus,luftburet virus
+48,en,sv,,,alcohol based hand sanitizer,alkoholbaserad handsprit
+49,en,sv,,,alcohol hand sanitizer,handsprit
+51,en,sv,,,alcohol-based hand sanitizer,alkohol-baserad handsprit
+59,en,sv,,,Anti-Corona virus spray,Anticoronavirus-spray
+60,en,sv,,,antibacterial hand sanitizer,bakteriedödande handsprit
+61,en,sv,,,ARDS,ARDS
+64,en,sv,,,avoid exposure,undvik exponering
+65,en,sv,,,be infected,bli infekterad
+75,en,sv,,,Beware of coronavirus,Akta dig för coronavirus
+76,en,sv,,,bilateral interstitial pneumonia,bilateral interstitiell lunginflammation
+77,en,sv,,,CDC,CDC
+78,en,sv,,,Center for Disease Control,Center för sjukdomskontroll
+83,en,sv,,,community spread,spridning i samhället
+84,en,sv,,,compulsory quarantine,obligatorisk karantän
+85,en,sv,,,contagious,smittsam
+135,en,sv,,,coronavirus,coronavirus
+136,en,sv,,,coronavirus (COVID-19),coronavirus (COVID-19)
+137,en,sv,,,coronavirus alert,coronavirus-varning
+139,en,sv,,,coronavirus cases,fall av coronavirus
+141,en,sv,,,coronavirus concerns,oro för coronavirus
+143,en,sv,,,coronavirus crisis,coronavirus-kris
+149,en,sv,,,coronavirus disease,coronavirus-sjukdom
+150,en,sv,,,Coronavirus disease (COVID-19) outbreak,Utbrott av coronavirus-sjukdom (COVID-19)
+153,en,sv,,,coronavirus early symptoms,coronavirus tidiga symptom
+155,en,sv,,,coronavirus epidemic,coronavirus-epidemi
+156,en,sv,,,coronavirus exposure,coronavirus-exponering
+161,en,sv,,,coronavirus incubation,coronavirus inkubation
+162,en,sv,,,coronavirus incubation period,coronavirus inkubationsperiod
+163,en,sv,,,coronavirus infection,coronavirus-infektion
+168,en,sv,,,coronavirus map,coronavirus karta
+170,en,sv,,,coronavirus medicine,coronavirus medicin
+171,en,sv,,,coronavirus medicines,coronavirus mediciner
+172,en,sv,,,coronavirus news,coronavirus nyheter
+173,en,sv,,,coronavirus outbreak,coronavirus utbrott
+174,en,sv,,,coronavirus pandemic,coronavirus pandemi
+176,en,sv,,,coronavirus pneumonia,coronavirus lunginflammation
+177,en,sv,,,coronavirus precautions,coronavirus försiktighetsåtgärder
+178,en,sv,,,coronavirus prevention,coronavirus prevention
+179,en,sv,,,coronavirus protection,coronavirus skydd
+180,en,sv,,,coronavirus quarantine,coronavirus karantän
+182,en,sv,,,coronavirus SOS Alert,coronavirus SOS-varning
+183,en,sv,,,coronavirus spread,coronavirus spridning
+184,en,sv,,,coronavirus symptoms,coronavirus symptom
+185,en,sv,,,coronavirus transmission,coronavirus överföring
+186,en,sv,,,coronavirus travel ban,coronavirus reseförbud
+187,en,sv,,,coronavirus travel restrictions,coronavirus reserestriktioner
+188,en,sv,,,coronavirus treatment,coronavirus behandling
+190,en,sv,,,coronavirus update,coronavirus uppdatering
+191,en,sv,,,coronavirus vaccine,coronavirus vaccin
+192,en,sv,,,coronavirus vaccines,coronavirus vacciner
+198,en,sv,,,covid cases,covid-fall
+205,en,sv,,,covid early symptoms,covid tidiga symptom
+213,en,sv,,,covid incubation period,covid inkubationsperiod
+215,en,sv,,,covid international spread,covid international spread
+216,en,sv,,,covid international travel,covid internationella resor
+217,en,sv,,,covid isolation,covid isolering
+219,en,sv,,,covid map,covid karta
+220,en,sv,,,covid medicine,covid medicin
+221,en,sv,,,covid medicines,covid mediciner
+222,en,sv,,,covid news,covid nyheter
+223,en,sv,,,covid outbreak,covid utbrott
+224,en,sv,,,covid pandemic,covid pandemi
+225,en,sv,,,covid panic,covid panik
+228,en,sv,,,covid SOS Alert,covid SOS -varning
+230,en,sv,,,covid symptoms,covid symptom
+231,en,sv,,,covid transmission,covid överföring
+232,en,sv,,,covid travel ban,covid reseförbud
+233,en,sv,,,covid travel restrictions,covid reserestriktioner
+234,en,sv,,,covid treatment,covid behandling
+236,en,sv,,,covid vaccine,covid vaccin
+237,en,sv,,,covid vaccines,covid vacciner
+242,en,sv,,,covid-19,covid-19
+243,en,sv,,,covid-19 alert,covid-19-varning
+244,en,sv,,,covid-19 cases,covid-19-fall
+245,en,sv,,,covid-19 CDC,covid-19 CDC
+246,en,sv,,,covid-19 contagious,covid-19 smittsam
+247,en,sv,,,covid-19 cure,covid-19 botemedel
+248,en,sv,,,covid-19 dangerous,covid-19 farlig
+249,en,sv,,,covid-19 deadly,covid-19 dödlig
+250,en,sv,,,covid-19 death,covid-19 dödsfall
+251,en,sv,,,covid-19 deaths,covid-19 dödsfall
+252,en,sv,,,covid-19 domestic travel,covid-19 inrikesresor
+253,en,sv,,,covid-19 early symptoms,covid-19 tidiga symptom
+254,en,sv,,,covid-19 effects,covid-19 effekter
+255,en,sv,,,covid-19 epidemic,covid-19 epidemi
+256,en,sv,,,covid-19 exposure,covid-19 exponering
+257,en,sv,,,covid-19 fatal,covid-19 dödlig
+258,en,sv,,,covid-19 fever,covid-19 feber
+259,en,sv,,,covid-19 illness,covid-19 sjukdom
+260,en,sv,,,covid-19 incubation,covid-19 inkubation
+261,en,sv,,,covid-19 incubation period,covid-19 inkubationsperiod
+262,en,sv,,,covid-19 infection,covid-19 infektion
+263,en,sv,,,covid-19 international spread,covid-19 internationell spridning
+264,en,sv,,,covid-19 international travel,covid-19 internationella resor
+265,en,sv,,,covid-19 isolation,covid-19 isolering
+266,en,sv,,,covid-19 lockdown,covid-19 nedstängning
+267,en,sv,,,covid-19 map,covid-19 karta
+268,en,sv,,,covid-19 medicine,covid-19 medicin
+269,en,sv,,,covid-19 medicines,covid-19 mediciner
+270,en,sv,,,covid-19 news,covid-19 nyheter
+271,en,sv,,,covid-19 outbreak,covid-19 utbrott
+272,en,sv,,,covid-19 pandemic,covid-19 pandemi
+273,en,sv,,,covid-19 panic,covid-19 panik
+275,en,sv,,,covid-19 precautions,covid-19 försiktighetsåtgärder
+276,en,sv,,,covid-19 protection,covid-19 skydd
+277,en,sv,,,covid-19 quarantine,covid-19 karantän
+278,en,sv,,,covid-19 SOS Alert,covid-19 SOS-varning
+279,en,sv,,,covid-19 spread,covid-19 spridning
+280,en,sv,,,covid-19 symptoms,covid-19 symptom
+281,en,sv,,,covid-19 transmission,covid-19 överföring
+282,en,sv,,,covid-19 travel ban,covid-19 reseförbud
+283,en,sv,,,covid-19 travel restrictions,covid-19 reserestriktioner
+284,en,sv,,,covid-19 treatment,covid-19 behandling
+285,en,sv,,,covid-19 uncontrolled spread,covid-19 okontrollerad spridning
+286,en,sv,,,covid-19 vaccine,covid-19 vaccin
+287,en,sv,,,covid-19 vaccines,covid-19 vacciner
+288,en,sv,,,COVID-19 virus,covid-19 virus
+289,en,sv,,,covid-19 virus outbreak,covid-19 virusutbrott
+290,en,sv,,,covid-19 virus transmission,covid-19 virusöverföring
+291,en,sv,,,covid-19 WHO,covid-19 WHO
+292,en,sv,,,covid19,covid19
+293,en,sv,,,covid19 alert,covid19-varning
+294,en,sv,,,covid19 cases,covid19-fall
+295,en,sv,,,covid19 CDC,covid19 CDC
+301,en,sv,,,covid19 deaths,covid19 dödsfall
+302,en,sv,,,covid19 domestic travel,covid19 inrikesresor
+303,en,sv,,,covid19 effects,covid19 effekter
+304,en,sv,,,covid19 epidemic,covid19 epidemi
+305,en,sv,,,covid19 exposure,covid19 exponering
+306,en,sv,,,covid19 fatal,covid19 dödlig
+307,en,sv,,,covid19 fever,covid19 feber
+308,en,sv,,,covid19 illness,covid19 sjukdom
+309,en,sv,,,covid19 incubation,covid19 inkubation
+310,en,sv,,,covid19 incubation period,covid19 inkubationsperiod
+311,en,sv,,,covid19 infection,covid19 infektion
+312,en,sv,,,covid19 international spread,covid19 internationell spridning
+313,en,sv,,,covid19 international travel,covid19 internationella resor
+314,en,sv,,,covid19 isolation,covid19 isolering
+315,en,sv,,,covid19 lockdown,covid19 nedstängning
+316,en,sv,,,covid19 map,covid19 karta
+317,en,sv,,,covid19 medicine,covid19 medicin
+318,en,sv,,,covid19 medicines,covid19 mediciner
+319,en,sv,,,covid19 news,covid19 nyheter
+320,en,sv,,,covid19 outbreak,covid19 utbrott
+321,en,sv,,,covid19 pandemic,covid19 pandemi
+324,en,sv,,,covid19 precautions,covid19 försiktighetsåtgärder
+325,en,sv,,,covid19 protection,covid19 skydd
+326,en,sv,,,covid19 quarantine,covid19 karantän
+327,en,sv,,,covid19 SOS Alert,covid19 SOS-varning
+328,en,sv,,,covid19 spread,covid19 spridning
+329,en,sv,,,covid19 symptoms,covid19 symptom
+330,en,sv,,,covid19 transmission,covid19 överföring
+331,en,sv,,,covid19 travel ban,covid19 reseförbud
+332,en,sv,,,covid19 travel restrictions,covid19 reserestriktioner
+333,en,sv,,,covid19 treatment,covid19 behandling
+335,en,sv,,,covid19 vaccine,covid19 vaccin
+336,en,sv,,,covid19 vaccines,covid19 vacciner
+337,en,sv,,,covid19 virus,covid19 virus
+338,en,sv,,,covid19 virus outbreak,covid19 virusutbrott
+339,en,sv,,,covid19 virus transmission,covid19 virusöverföring
+342,en,sv,,,current outbreak,nuvarande utbrott
+343,en,sv,,,deadly outbreak,dödligt utbrott
+345,en,sv,,,disease outbreak,sjukdomsutbrott
+346,en,sv,,,Disposable hand sanitizer,Handsprit av engångstyp
+348,en,sv,,,domestic travel,inrikesresor
+351,en,sv,,,droplets,droppar
+357,en,sv,,,Effects of coronavirus,Effekte av coronavirus
+359,en,sv,,,epidemic,epidemi
+360,en,sv,,,epidemic and pandemic,epidemi och pandemi
+362,en,sv,,,epidemic disease,epidemisk sjukdom
+364,en,sv,,,epidemic outbreak,epidemiskt utbrott
+365,en,sv,,,epidemic period,epidemisk period
+366,en,sv,,,epidemic prevention,epidemisk prevention
+368,en,sv,,,epidemic season,epidemisk säsong
+369,en,sv,,,epidemic situation,epidemisk situation
+371,en,sv,,,exposure,exponering
+375,en,sv,,,exposure time,exponeringstid
+379,en,sv,,,fever,feber
+380,en,sv,,,fight the virus,bekämpa viruset
+381,en,sv,,,Fighting the outbreak,Bekämpa utbrottet
+382,en,sv,,,flu epidemic,influensaepidemi
+385,en,sv,,,fomites,smittförande föremål
+392,en,sv,,,global health emergency,global hälsorisk
+393,en,sv,,,global outbreak,globalt utbrott
+394,en,sv,,,global pandemic,global pandemi
+396,en,sv,,,hand sanitizer,handsprit
+397,en,sv,,,hand sanitizer dispenser,handspritfördelare
+398,en,sv,,,hand sanitizer gel,handspritgel
+399,en,sv,,,hand sanitizer spray,handsprit-spray
+403,en,sv,,,home isolation,isolering i hemmet
+404,en,sv,,,home quarantine,karantän i hemmet
+410,en,sv,,,illness,sjukdom
+415,en,sv,,,incubation period,inkubationsperiod
+418,en,sv,,,infected,infekterad
+424,en,sv,,,instant hand sanitizer,snabbhandsprit
+425,en,sv,,,international spread,internationell spridning
+426,en,sv,,,international travel,internationella resor
+427,en,sv,,,isolation,isolering
+428,en,sv,,,isolation period,isoleringsperiod
+430,en,sv,,,isolation room,isoleringsrum
+431,en,sv,,,isolation valve,isoleringsventil
+432,en,sv,,,isolation ward,isoleringssal
+434,en,sv,,,lockdown,nedstängning
+438,en,sv,,,major outbreak,stort utbrott
+439,en,sv,,,mandatory quarantine,obligatorisk karantän
+440,en,sv,,,mass gathering,mass-sammankomster
+444,en,sv,,,medicine,medicin
+445,en,sv,,,medicines,mediciner
+448,en,sv,,,n95,n95
+449,en,sv,,,n95 mask,n95-mask
+450,en,sv,,,n95 respirator,n95-respirator
+451,en,sv,,,ncov,ncov
+452,en,sv,,,ncov-2019,ncov-2019
+453,en,sv,,,new coronavirus,nytt coronavirus
+454,en,sv,,,new coronavirus pneumonia,ny lunginflammation av coronavirus
+460,en,sv,,,novel coronavirus,nytt coronavirus
+462,en,sv,,,novel coronavirus infection,ny infektion orsakad coronavirus
+463,en,sv,,,novel coronavirus outbreak,nytt utbrott av coronavirus
+464,en,sv,,,novel coronavirus pneumonia,ny lunginflammation av coronavirus
+470,en,sv,,,ongoing outbreak,pågående utbrott
+472,en,sv,,,outbreak,utbrott
+474,en,sv,,,outbreak of coronavirus,utbrott av coronavirus
+475,en,sv,,,outbreak of disease,sjukdomsutbrott
+482,en,sv,,,pandemic,pandemisk
+485,en,sv,,,pandemic influenza,pandemisk influensa
+486,en,sv,,,pandemic outbreak,pandemiutbrott
+487,en,sv,,,pandemic plan,pandemiplan
+488,en,sv,,,pandemic potential,pandemipotential
+495,en,sv,,,pneumonia,lunginflammation
+496,en,sv,,,pneumonia epidemic,influensaepidemi
+497,en,sv,,,potential exposure,potentiell exponering
+498,en,sv,,,precautions,försiktighetsåtgärder
+499,en,sv,,,prevent virus,förhindra virus
+500,en,sv,,,prolonged exposure,lång exponering
+504,en,sv,,,quarantine,karantän
+505,en,sv,,,quarantine area,karantänområde
+506,en,sv,,,quarantine facility,karantänanläggning
+507,en,sv,,,quarantine measures,karantänåtgärder
+508,en,sv,,,quarantine period,karantänperiod
+509,en,sv,,,quarantine room,karantänrum
+510,en,sv,,,quarantine zone,karantänzon
+512,en,sv,,,Recovered coronavirus patient,Återställd coronaviruspatient
+514,en,sv,,,repatriate,repatriera
+515,en,sv,,,repeated exposure,upprepad exponering
+516,en,sv,,,respiratory syncytial virus,respiratoriskt synkytialt virus
+517,en,sv,,,respiratory virus,respiratoriskt virus
+519,en,sv,,,Sanitizing hand sanitizer,Desinficerande handsprit
+520,en,sv,,,SARS-CoV-2,SARS-CoV-2
+521,en,sv,,,self isolation,självisolering
+522,en,sv,,,self quarantine,självkarantän
+523,en,sv,,,Severe outbreak,Svårt utbrott
+525,en,sv,,,social distancing,social distansering
+526,en,sv,,,social distancing measures,sociala distanseringsåtgärder
+527,en,sv,,,social isolation,social isolering
+528,en,sv,,,SOS Alert,SOS-varning
+529,en,sv,,,spread,sprida
+530,en,sv,,,spread of coronavirus,spridning av coronavirus
+531,en,sv,,,spread of virus,spridning av virus
+535,en,sv,,,strain of virus,stam av virus
+541,en,sv,,,the incubation period,inkubationsperioden
+544,en,sv,,,the novel coronavirus,det nya coronaviruset
+558,en,sv,,,touching face,röra ansiktet
+559,en,sv,,,travel advisory,reseråd
+560,en,sv,,,travel ban,reseförbud
+561,en,sv,,,travel restrictions,reserestriktioner
+565,en,sv,,,use hand sanitizer,använd handsprit
+566,en,sv,,,vaccines,vacciner
+567,en,sv,,,viral outbreak,viralt utbrott
+568,en,sv,,,virtual lockdown,virtuell nedstängning
+569,en,sv,,,virus,virus
+570,en,sv,,,virus carrier,virusbärare
+573,en,sv,,,virus infection,virusinfektion
+575,en,sv,,,virus mask,virusmask
+576,en,sv,,,virus outbreak,virusutbrott
+577,en,sv,,,virus prevention,virusprevention
+578,en,sv,,,virus protection,virusskydd
+580,en,sv,,,virus spread,virusspridning
+582,en,sv,,,virus spreads,virus sprider sig
+583,en,sv,,,virus strain,virusstam
+584,en,sv,,,virus transmission,virusöverföring
+586,en,sv,,,wash your hands,tvätta händerna
+587,en,sv,,,washing hands,tvätta händerna
+589,en,sv,,,WHO,WHO
+590,en,sv,,,WHO Confirmed,WHO-har bekräftat
+591,en,sv,,,WHO Deaths,WHO dödsfall
+592,en,sv,,,widespread outbreak,utbrett utbrott
+597,en,sv,,,World Health Organization,Världshälsoorganisationen
+600,en,sv,,,zoonotic disease,zoonotisk sjukdom
+601,en,sv,,,zoonotic virus,zoonotiskt virus

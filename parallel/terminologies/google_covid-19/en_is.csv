@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,is,,,14 days in isolation,14 dagar í einangrun
+26,en,is,,,14 days quarantine,14 daga sóttkví
+27,en,is,,,2019 coronavirus,2019 kórónuveiran
+28,en,is,,,2019 novel coronavirus,2019 kórónuveira novel
+29,en,is,,,2019-nCoV,2019-nCoV
+30,en,is,,,2020 coronavirus,2020 kórónuveiran
+31,en,is,,,2020 novel coronavirus,2020 kórónuveira novel
+33,en,is,,,about coronavirus,um kórónuveiruna
+39,en,is,,,acute respiratory distress syndrome,brátt andnauðarheilkenni
+40,en,is,,,advanced hand sanitizer,vandað handhreinsiefni
+41,en,is,,,Affected by coronavirus,Verða fyrir áhrifum kórónuveirunnar
+42,en,is,,,after exposure,eftir smit
+43,en,is,,,After the epidemic,Eftir faraldurinn
+44,en,is,,,After the outbreak,Eftir útbreiðsluna
+47,en,is,,,airborne virus,loftborin veira
+48,en,is,,,alcohol based hand sanitizer,handhreinsiefni sem inniheldur alkóhól
+49,en,is,,,alcohol hand sanitizer,handspritt með alkóhóli
+51,en,is,,,alcohol-based hand sanitizer,handspritt sem inniheldur alkóhól
+59,en,is,,,Anti-Corona virus spray,Úði sem ver gegn kórónuveirunni
+60,en,is,,,antibacterial hand sanitizer,bakteríudrepandi handhreinsiefni
+61,en,is,,,ARDS,ARDS
+64,en,is,,,avoid exposure,forðast smit
+65,en,is,,,be infected,vera sýktur
+75,en,is,,,Beware of coronavirus,Varast kórónuveiruna
+76,en,is,,,bilateral interstitial pneumonia,tvíhliða millivefslungnabólga
+77,en,is,,,CDC,CDC
+78,en,is,,,Center for Disease Control,Sóttvarnarstofnun
+83,en,is,,,community spread,samfélagssmit
+84,en,is,,,compulsory quarantine,skyldusóttkví
+85,en,is,,,contagious,smitandi
+135,en,is,,,coronavirus,kórónuveiran
+136,en,is,,,coronavirus (COVID-19),kórónuveiran (COVID-19)
+137,en,is,,,coronavirus alert,kórónuveiruviðvörun
+139,en,is,,,coronavirus cases,kórónuveirutilfelli
+141,en,is,,,coronavirus concerns,áhyggjur vegna kórónuveirunnar
+143,en,is,,,coronavirus crisis,hættuástand vegna kórónuveiru
+149,en,is,,,coronavirus disease,kórónuveiran sjúkdómur
+150,en,is,,,Coronavirus disease (COVID-19) outbreak,Útbreiðsla kórónuveirusjúkdómsins (COVID-19)
+153,en,is,,,coronavirus early symptoms,kórónuveiran fyrstu einkenni
+155,en,is,,,coronavirus epidemic,kórónuveirufaraldur
+156,en,is,,,coronavirus exposure,kórónuveirusmit
+161,en,is,,,coronavirus incubation,kórónuveiran meðgöngutími
+162,en,is,,,coronavirus incubation period,meðgöngutími kórónuveirunnar
+163,en,is,,,coronavirus infection,kórónuveirusýking
+168,en,is,,,coronavirus map,kórónuveiran kort
+170,en,is,,,coronavirus medicine,kórónuveiran lyf
+171,en,is,,,coronavirus medicines,kórónuveiran lyf
+172,en,is,,,coronavirus news,kórónuveiran fréttir
+173,en,is,,,coronavirus outbreak,útbreiðsla kórónuveirunnar
+174,en,is,,,coronavirus pandemic,kórónuveiru heimsfaraldurinn
+176,en,is,,,coronavirus pneumonia,kórónuveiran lungnabólga
+177,en,is,,,coronavirus precautions,varúðarráðstafanir vegna kórónuveirunnar
+178,en,is,,,coronavirus prevention,fyrirbyggjandi fyrir kórónuveiruna
+179,en,is,,,coronavirus protection,vörn gegn kórónuveirunni
+180,en,is,,,coronavirus quarantine,kórónuveiru sóttkví
+182,en,is,,,coronavirus SOS Alert,neyðarviðvörun fyrir kórónuveiruna
+183,en,is,,,coronavirus spread,dreifing kórónuveirunnar
+184,en,is,,,coronavirus symptoms,einkenni kórónuveirunnar
+185,en,is,,,coronavirus transmission,dreifing kórónuveirunnar
+186,en,is,,,coronavirus travel ban,ferðabann kórónuveiran
+187,en,is,,,coronavirus travel restrictions,ferðatakmarkanir kórónuveiran
+188,en,is,,,coronavirus treatment,meðferð kórónuveirunnar
+190,en,is,,,coronavirus update,uppfærsla kórónuveiran
+191,en,is,,,coronavirus vaccine,bóluefni kórónuveirunnar
+192,en,is,,,coronavirus vaccines,bóluefni kórónuveirunnar
+198,en,is,,,covid cases,covid tilfelli
+205,en,is,,,covid early symptoms,covid fyrstu einkenni
+213,en,is,,,covid incubation period,meðgöngutími covid
+215,en,is,,,covid international spread,alþjóðleg dreifing covid
+216,en,is,,,covid international travel,alþjóðleg ferðalög covid
+217,en,is,,,covid isolation,covid einangrun
+219,en,is,,,covid map,covid kort
+220,en,is,,,covid medicine,covid lyf
+221,en,is,,,covid medicines,covid lyf
+222,en,is,,,covid news,covid fréttir
+223,en,is,,,covid outbreak,útbreiðsla covid
+224,en,is,,,covid pandemic,covid heimsfaraldurinn
+225,en,is,,,covid panic,covid hræðsla
+228,en,is,,,covid SOS Alert,neyðarviðvörun fyrir covid
+230,en,is,,,covid symptoms,einkenni covid
+231,en,is,,,covid transmission,dreifing covid
+232,en,is,,,covid travel ban,ferðabann covid
+233,en,is,,,covid travel restrictions,ferðatakmarkanir covid
+234,en,is,,,covid treatment,covid meðferð
+236,en,is,,,covid vaccine,covid bóluefni
+237,en,is,,,covid vaccines,covid bóluefni
+242,en,is,,,covid-19,covid-19
+243,en,is,,,covid-19 alert,covid-19 viðvörun
+244,en,is,,,covid-19 cases,covid-19 tilfelli
+245,en,is,,,covid-19 CDC,covid-19 Sóttvarnastofnun Evrópu
+246,en,is,,,covid-19 contagious,covid-19 smitandi
+247,en,is,,,covid-19 cure,covid-19 lækning
+248,en,is,,,covid-19 dangerous,covid-19 hættuleg
+249,en,is,,,covid-19 deadly,covid-19 banvæn
+250,en,is,,,covid-19 death,covid-19 dauðsfall
+251,en,is,,,covid-19 deaths,covid-19 dauðsföll
+252,en,is,,,covid-19 domestic travel,ferðalög innanlands covid-19
+253,en,is,,,covid-19 early symptoms,covid-19 fyrstu einkenni
+254,en,is,,,covid-19 effects,áhrif covid-19
+255,en,is,,,covid-19 epidemic,covid-19 faraldur
+256,en,is,,,covid-19 exposure,covid-19 smit
+257,en,is,,,covid-19 fatal,covid-19 banvænt
+258,en,is,,,covid-19 fever,covid-19 hiti
+259,en,is,,,covid-19 illness,covid-19 veikindi
+260,en,is,,,covid-19 incubation,covid-19 meðgöngutími
+261,en,is,,,covid-19 incubation period,meðgöngutími covid-19
+262,en,is,,,covid-19 infection,covid-19 sýking
+263,en,is,,,covid-19 international spread,alþjóðleg dreifing covid-19
+264,en,is,,,covid-19 international travel,alþjóðleg ferðalög covid-19
+265,en,is,,,covid-19 isolation,covid-19 einangrun
+266,en,is,,,covid-19 lockdown,útgöngubann vegna covid-19
+267,en,is,,,covid-19 map,covid-19 kort
+268,en,is,,,covid-19 medicine,covid-19 lyf
+269,en,is,,,covid-19 medicines,covid-19 lyf
+270,en,is,,,covid-19 news,covid-19 fréttir
+271,en,is,,,covid-19 outbreak,útbreiðsla covid-19
+272,en,is,,,covid-19 pandemic,covid-19 heimsfaraldurinn
+273,en,is,,,covid-19 panic,covid-19 hræðsla
+275,en,is,,,covid-19 precautions,varúðarráðstafanir covid-19
+276,en,is,,,covid-19 protection,vörn gegn covid-19
+277,en,is,,,covid-19 quarantine,covid-19 sóttkví
+278,en,is,,,covid-19 SOS Alert,neyðarviðvörun fyrir covid-19
+279,en,is,,,covid-19 spread,covid-19 dreifing
+280,en,is,,,covid-19 symptoms,einkenni covid-19
+281,en,is,,,covid-19 transmission,dreifing covid-19
+282,en,is,,,covid-19 travel ban,ferðabann covid-19
+283,en,is,,,covid-19 travel restrictions,ferðatakmarkanir covid-19
+284,en,is,,,covid-19 treatment,covid-19 meðferð
+285,en,is,,,covid-19 uncontrolled spread,stjórnlaus dreifing covid-19
+286,en,is,,,covid-19 vaccine,covid-19 bóluefni
+287,en,is,,,covid-19 vaccines,covid-19 bóluefni
+288,en,is,,,COVID-19 virus,covid-19 veiran
+289,en,is,,,covid-19 virus outbreak,útbreiðsla covid-19 veiru
+290,en,is,,,covid-19 virus transmission,smitun covid-19 veirunnar
+291,en,is,,,covid-19 WHO,Alþjóðaheilbrigðismálastofnunin covid-19
+292,en,is,,,covid19,covid19
+293,en,is,,,covid19 alert,covid19 viðvörun
+294,en,is,,,covid19 cases,covid19 tilfelli
+295,en,is,,,covid19 CDC,covid19 Sóttvarnastofnun Evrópu
+301,en,is,,,covid19 deaths,covid19 dauðsföll
+302,en,is,,,covid19 domestic travel,ferðalög innanlands covid19
+303,en,is,,,covid19 effects,áhrif covid19
+304,en,is,,,covid19 epidemic,covid19 faraldur
+305,en,is,,,covid19 exposure,covid19 smit
+306,en,is,,,covid19 fatal,covid19 banvænt
+307,en,is,,,covid19 fever,covid19 hiti
+308,en,is,,,covid19 illness,covid19 veikindi
+309,en,is,,,covid19 incubation,covid19 meðgöngutími
+310,en,is,,,covid19 incubation period,meðgöngutími covid19
+311,en,is,,,covid19 infection,covid19 sýking
+312,en,is,,,covid19 international spread,alþjóðleg dreifing covid19
+313,en,is,,,covid19 international travel,alþjóðleg ferðalög covid19
+314,en,is,,,covid19 isolation,covid19 einangrun
+315,en,is,,,covid19 lockdown,útgöngubann vegna covid19
+316,en,is,,,covid19 map,covid19 kort
+317,en,is,,,covid19 medicine,covid19 lyf
+318,en,is,,,covid19 medicines,covid19 lyf
+319,en,is,,,covid19 news,covid19 fréttir
+320,en,is,,,covid19 outbreak,útbreiðsla covid19
+321,en,is,,,covid19 pandemic,covid19 heimsfaraldurinn
+324,en,is,,,covid19 precautions,varúðarráðstafanir covid19
+325,en,is,,,covid19 protection,vörn gegn covid19
+326,en,is,,,covid19 quarantine,covid19 sóttkví
+327,en,is,,,covid19 SOS Alert,neyðarviðvörun fyrir covid19
+328,en,is,,,covid19 spread,covid19 dreifing
+329,en,is,,,covid19 symptoms,einkenni covid19
+330,en,is,,,covid19 transmission,dreifing covid19
+331,en,is,,,covid19 travel ban,ferðabann covid19
+332,en,is,,,covid19 travel restrictions,ferðatakmarkanir covid19
+333,en,is,,,covid19 treatment,covid19 meðferð
+335,en,is,,,covid19 vaccine,covid19 bóluefni
+336,en,is,,,covid19 vaccines,covid19 bóluefni
+337,en,is,,,covid19 virus,covid19 veiran
+338,en,is,,,covid19 virus outbreak,útbreiðsla covid19 veiru
+339,en,is,,,covid19 virus transmission,smitun covid19 veirunnar
+342,en,is,,,current outbreak,núverandi útbreiðsla
+343,en,is,,,deadly outbreak,banvæn útbreiðsla
+345,en,is,,,disease outbreak,útbreiðsla sjúkdóms
+346,en,is,,,Disposable hand sanitizer,einnota handhreinsiklútar
+348,en,is,,,domestic travel,ferðalög innanlands
+351,en,is,,,droplets,dropar
+357,en,is,,,Effects of coronavirus,Áhrif kórónuveirunnar
+359,en,is,,,epidemic,faraldur
+360,en,is,,,epidemic and pandemic,faraldur og heimsfaraldur
+362,en,is,,,epidemic disease,faraldssjúkdómur
+364,en,is,,,epidemic outbreak,útbreiðsla faraldurs
+365,en,is,,,epidemic period,tímabil faraldurs
+366,en,is,,,epidemic prevention,fyrirbyggjandi fyrir faraldur
+368,en,is,,,epidemic season,árstími faraldurs
+369,en,is,,,epidemic situation,staða faraldurs
+371,en,is,,,exposure,smit
+375,en,is,,,exposure time,smitunartími
+379,en,is,,,fever,hiti
+380,en,is,,,fight the virus,berjast gegn veirunni
+381,en,is,,,Fighting the outbreak,Berjast gegn útbreiðslu
+382,en,is,,,flu epidemic,flensufaraldur
+385,en,is,,,fomites,smitberandi hlutir
+392,en,is,,,global health emergency,alþjóðlegt heilsufarslegt neyðarástand
+393,en,is,,,global outbreak,alþjóðleg útbreiðsla
+394,en,is,,,global pandemic,heimsfaraldur
+396,en,is,,,hand sanitizer,handhreinsiefni
+397,en,is,,,hand sanitizer dispenser,handhreinsiklútaskammtari
+398,en,is,,,hand sanitizer gel,handhreinsigel
+399,en,is,,,hand sanitizer spray,hreinsiúði fyrir hendur
+403,en,is,,,home isolation,heimaeinangrun
+404,en,is,,,home quarantine,heimasóttkví
+410,en,is,,,illness,veikindi
+415,en,is,,,incubation period,meðgöngutími
+418,en,is,,,infected,sýktur
+424,en,is,,,instant hand sanitizer,hraðvirkt handhreinsiefni
+425,en,is,,,international spread,alþjóðleg dreifing
+426,en,is,,,international travel,alþjóðleg ferðalög
+427,en,is,,,isolation,einangrun
+428,en,is,,,isolation period,einangrunartímabil
+430,en,is,,,isolation room,einangrunarherbergi
+431,en,is,,,isolation valve,einangrunarloki
+432,en,is,,,isolation ward,einangrunardeild
+434,en,is,,,lockdown,útgöngubann
+438,en,is,,,major outbreak,alvarleg útbreiðsla
+439,en,is,,,mandatory quarantine,fyrirskipuð sóttkví
+440,en,is,,,mass gathering,fjöldasamkomur
+444,en,is,,,medicine,lyf
+445,en,is,,,medicines,lyf
+448,en,is,,,n95,n95
+449,en,is,,,n95 mask,n95 gríma
+450,en,is,,,n95 respirator,n95 öndunargríma
+451,en,is,,,ncov,ncov
+452,en,is,,,ncov-2019,ncov-2019
+453,en,is,,,new coronavirus,nýja kórónuveiran
+454,en,is,,,new coronavirus pneumonia,lungnabólga nýju kórónuveirunnar
+460,en,is,,,novel coronavirus,kórónuveiran novel
+462,en,is,,,novel coronavirus infection,sýking kórónuveiru novel
+463,en,is,,,novel coronavirus outbreak,útbreiðsla kórónuveiru novel
+464,en,is,,,novel coronavirus pneumonia,lungnabólga kórónuveiru novel
+470,en,is,,,ongoing outbreak,áframhaldandi útbreiðsla
+472,en,is,,,outbreak,útbreiðsla
+474,en,is,,,outbreak of coronavirus,útbreiðsla kórónuveiru
+475,en,is,,,outbreak of disease,útbreiðsla sjúkdóms
+482,en,is,,,pandemic,heimsfaraldur
+485,en,is,,,pandemic influenza,heimsfaraldur inflúensa
+486,en,is,,,pandemic outbreak,heimsfaraldur útbreiðsla
+487,en,is,,,pandemic plan,heimsfaraldur áætlun
+488,en,is,,,pandemic potential,heimsfaraldur möguleiki
+495,en,is,,,pneumonia,lungnabólga
+496,en,is,,,pneumonia epidemic,lungnabólgufaraldur
+497,en,is,,,potential exposure,mögulegt smit
+498,en,is,,,precautions,varúðarráðstafanir
+499,en,is,,,prevent virus,að verjast veiru
+500,en,is,,,prolonged exposure,smit til lengri tíma
+504,en,is,,,quarantine,sóttkví
+505,en,is,,,quarantine area,sóttkvíarsvæði
+506,en,is,,,quarantine facility,sóttkvíarstöð
+507,en,is,,,quarantine measures,sóttkvíaraðgerðir
+508,en,is,,,quarantine period,sóttkvíartímabil
+509,en,is,,,quarantine room,sóttkvíarherbergi
+510,en,is,,,quarantine zone,sóttkvíarsvæði
+512,en,is,,,Recovered coronavirus patient,Sjúklingar sem hafa náð sér eftir kórónuveiruna
+514,en,is,,,repatriate,sendi heim
+515,en,is,,,repeated exposure,endurtekin smit
+516,en,is,,,respiratory syncytial virus,öndunarfærasamfrymisveira
+517,en,is,,,respiratory virus,öndunarfæraveira
+519,en,is,,,Sanitizing hand sanitizer,Sótthreinsandi handhreinsiefni
+520,en,is,,,SARS-CoV-2,SARS-CoV-2
+521,en,is,,,self isolation,sjálfskipuð einangrun
+522,en,is,,,self quarantine,sjálfskipuð sóttkví
+523,en,is,,,Severe outbreak,alvarleg útbreiðsla
+525,en,is,,,social distancing,félagsforðun
+526,en,is,,,social distancing measures,félagsforðunarúrræði
+527,en,is,,,social isolation,félagsleg einangrun
+528,en,is,,,SOS Alert,Neyðarviðvörun
+529,en,is,,,spread,dreifing
+530,en,is,,,spread of coronavirus,dreifing kórónuveirunnar
+531,en,is,,,spread of virus,dreifing veirunnar
+535,en,is,,,strain of virus,stofn veirunnar
+541,en,is,,,the incubation period,meðgöngutíminn
+544,en,is,,,the novel coronavirus,kórónuveiran novel
+558,en,is,,,touching face,snerti andlit
+559,en,is,,,travel advisory,ferðaráðleggingar
+560,en,is,,,travel ban,ferðabann
+561,en,is,,,travel restrictions,ferðatakmarkanir
+565,en,is,,,use hand sanitizer,nota handhreinsiefni
+566,en,is,,,vaccines,bóluefni
+567,en,is,,,viral outbreak,veiruútbreiðsla
+568,en,is,,,virtual lockdown,nánast útgöngubann
+569,en,is,,,virus,veira
+570,en,is,,,virus carrier,smitberi
+573,en,is,,,virus infection,veirusýking
+575,en,is,,,virus mask,veirugríma
+576,en,is,,,virus outbreak,útbreiðsla veiru
+577,en,is,,,virus prevention,veiruforvarnir
+578,en,is,,,virus protection,veiruvarnir
+580,en,is,,,virus spread,dreifing veirunnar
+582,en,is,,,virus spreads,veira dreifist
+583,en,is,,,virus strain,veirustofn
+584,en,is,,,virus transmission,veirusmitun
+586,en,is,,,wash your hands,Þvo sér um hendurnar
+587,en,is,,,washing hands,þvo hendur
+589,en,is,,,WHO,WHO
+590,en,is,,,WHO Confirmed,Alþjóðaheilbrigðismálastofnunin staðfesti
+591,en,is,,,WHO Deaths,Alþjóðaheilbrigðismálastofnunin dauðsföll
+592,en,is,,,widespread outbreak,útbreidd útbreiðsla
+597,en,is,,,World Health Organization,Alþjóðaheilbrigðismálastofnunin
+600,en,is,,,zoonotic disease,sjúkdómur sem berst milli manna og dýra
+601,en,is,,,zoonotic virus,veira sem berst milli manna og dýra

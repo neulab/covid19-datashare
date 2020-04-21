@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,ig,,,14 days in isolation,Ụbọchị 14 na nnọpụ iche
+26,en,ig,,,14 days quarantine,idebe iche ụbọchị 14
+27,en,ig,,,2019 coronavirus,2019 coronavirus
+28,en,ig,,,2019 novel coronavirus,2019 coronavirus dị ọhụrụ
+29,en,ig,,,2019-nCoV,2019-nCoV
+30,en,ig,,,2020 coronavirus,2020 coronavirus
+31,en,ig,,,2020 novel coronavirus,2020 coronavirus dị ọhụrụ
+33,en,ig,,,about coronavirus,gbasara coronavirus
+39,en,ig,,,acute respiratory distress syndrome,ihe ngosipụta nnukwu nsogbu okuku ume
+40,en,ig,,,advanced hand sanitizer,ihe eji egbu nje dị n'aka dị elu
+41,en,ig,,,Affected by coronavirus,Nke coronavirus metụtara
+42,en,ig,,,after exposure,ka ekpughepuchara
+43,en,ig,,,After the epidemic,Ka ntiwapụ ọrịa ahụ gachara
+44,en,ig,,,After the outbreak,Ka ntiwapụ ahụ gachara
+47,en,ig,,,airborne virus,nje dị n'ikuku
+48,en,ig,,,alcohol based hand sanitizer,ihe nsacha aka eji mmanya ọkụ eme
+49,en,ig,,,alcohol hand sanitizer,ihe eji egbu nje dị n'aka nwere mmanya ọkụ
+51,en,ig,,,alcohol-based hand sanitizer,ihe eji egbu nje dị n'aka eji mmanya ọkụ eme
+59,en,ig,,,Anti-Corona virus spray,Ihe ọgbụgba na egbochi coronavirus
+60,en,ig,,,antibacterial hand sanitizer,ihe eji egbu nje dị n'aka na egbochi bakterịa
+61,en,ig,,,ARDS,ARDS
+64,en,ig,,,avoid exposure,zere mkpughepu
+65,en,ig,,,be infected,nweta ọrịa
+75,en,ig,,,Beware of coronavirus,Kpachapụ anya maka coronavirus
+76,en,ig,,,bilateral interstitial pneumonia,ọrịa oyi bilateral interstitial
+77,en,ig,,,CDC,CDC
+78,en,ig,,,Center for Disease Control,Ama maka Njikwa Ọrịa
+83,en,ig,,,community spread,nkesa n'ogbe
+84,en,ig,,,compulsory quarantine,ndebe iche amanyere n'iwu
+85,en,ig,,,contagious,na efe efe
+135,en,ig,,,coronavirus,coronavirus
+136,en,ig,,,coronavirus (COVID-19),coronavirus (COVID-19)
+137,en,ig,,,coronavirus alert,ihe mgbaama coronavirus
+139,en,ig,,,coronavirus cases,okwu coronavirus
+141,en,ig,,,coronavirus concerns,ihe nchekasị maka coronavirus
+143,en,ig,,,coronavirus crisis,nsogbu coronavirus
+149,en,ig,,,coronavirus disease,ọrịa coronavirus
+150,en,ig,,,Coronavirus disease (COVID-19) outbreak,Ntiwapụ ọrịa coronavirus (COVID-19)
+153,en,ig,,,coronavirus early symptoms,ihe ngosipụta mbido nke coronavirus
+155,en,ig,,,coronavirus epidemic,ntiwapụ ọrịa coronavirus
+156,en,ig,,,coronavirus exposure,mkpughepu coronavirus
+161,en,ig,,,coronavirus incubation,ọbụbụ coronavirus
+162,en,ig,,,coronavirus incubation period,oge ọbụbụ coronavirus
+163,en,ig,,,coronavirus infection,ọfụfe coronavirus
+168,en,ig,,,coronavirus map,maapụ coronavirus
+170,en,ig,,,coronavirus medicine,ọgwụ coronavirus
+171,en,ig,,,coronavirus medicines,ọgwụ coronavirus
+172,en,ig,,,coronavirus news,akụkọ coronavirus
+173,en,ig,,,coronavirus outbreak,ntiwapụ coronavirus
+174,en,ig,,,coronavirus pandemic,ọgbaghara coronavirus
+176,en,ig,,,coronavirus pneumonia,ọrịa oyi coronavirus
+177,en,ig,,,coronavirus precautions,mkpachapụ anya coronavirus
+178,en,ig,,,coronavirus prevention,mgbochi coronavirus
+179,en,ig,,,coronavirus protection,mkpuchido coronavirus
+180,en,ig,,,coronavirus quarantine,ndebe iche coronavirus
+182,en,ig,,,coronavirus SOS Alert,Ihe mgbaama SOS coronavirus
+183,en,ig,,,coronavirus spread,nkesa coronavirus
+184,en,ig,,,coronavirus symptoms,ihe ngosipụta coronavirus
+185,en,ig,,,coronavirus transmission,nnyefe coronavirus
+186,en,ig,,,coronavirus travel ban,mgbochi njem coronavirus
+187,en,ig,,,coronavirus travel restrictions,mmachi njem coronavirus
+188,en,ig,,,coronavirus treatment,ọgwụgwọ coronavirus
+190,en,ig,,,coronavirus update,mmelite coronavirus
+191,en,ig,,,coronavirus vaccine,ọgwụ mgbochi coronavirus
+192,en,ig,,,coronavirus vaccines,ọgwụ mgbochi coronavirus
+198,en,ig,,,covid cases,okwu covid
+205,en,ig,,,covid early symptoms,ihe ngosipụta mbido nke covid
+213,en,ig,,,covid incubation period,oge ọbụbụ covid
+215,en,ig,,,covid international spread,nkesa mba ofesi covid
+216,en,ig,,,covid international travel,njem mba ofesi covid
+217,en,ig,,,covid isolation,nnọpụ iche covid
+219,en,ig,,,covid map,maapụ covid
+220,en,ig,,,covid medicine,ọgwụ covid
+221,en,ig,,,covid medicines,ọgwụ covid
+222,en,ig,,,covid news,akụkọ covid
+223,en,ig,,,covid outbreak,ntiwapụ covid
+224,en,ig,,,covid pandemic,ọgbaghara covid
+225,en,ig,,,covid panic,ụjọ covid
+228,en,ig,,,covid SOS Alert,ihe mgbaama SOS covid
+230,en,ig,,,covid symptoms,ihe ngosipụta covid
+231,en,ig,,,covid transmission,nnyefe covid
+232,en,ig,,,covid travel ban,mmachibido njem covid
+233,en,ig,,,covid travel restrictions,mmachi njem covid
+234,en,ig,,,covid treatment,ọgwụgwọ covid
+236,en,ig,,,covid vaccine,ọgwụ mgbochi covid
+237,en,ig,,,covid vaccines,ọgwụ mgbochi covid
+242,en,ig,,,covid-19,covid-19
+243,en,ig,,,covid-19 alert,ihe mgbaama covid-19
+244,en,ig,,,covid-19 cases,okwu covid-19
+245,en,ig,,,covid-19 CDC,covid-19 CDC
+246,en,ig,,,covid-19 contagious,covid-19 na efe efe
+247,en,ig,,,covid-19 cure,ọgwụgwọ covid-19
+248,en,ig,,,covid-19 dangerous,covid-19 dị nnukwu njọ
+249,en,ig,,,covid-19 deadly,covid-19 na egbu egbu
+250,en,ig,,,covid-19 death,ọnwụ covid-19 butere
+251,en,ig,,,covid-19 deaths,ọnwụ ndị covid-19 butere
+252,en,ig,,,covid-19 domestic travel,njem mpaghara covid-19
+253,en,ig,,,covid-19 early symptoms,ihe ngosipụta mbido nke covid-19
+254,en,ig,,,covid-19 effects,mmetụta covid-19
+255,en,ig,,,covid-19 epidemic,ntiwapụ ọrịa covid-19
+256,en,ig,,,covid-19 exposure,mkpughepu covid-19
+257,en,ig,,,covid-19 fatal,mmadụ covid-19 gburu
+258,en,ig,,,covid-19 fever,ahụ ọkụ covid-19
+259,en,ig,,,covid-19 illness,ahụ ọnwụnwụ covid-19
+260,en,ig,,,covid-19 incubation,ọbụbụ covid-19
+261,en,ig,,,covid-19 incubation period,oge ọbụbụ covid-19
+262,en,ig,,,covid-19 infection,ọfụfe covid-19
+263,en,ig,,,covid-19 international spread,nkesa mba ofesi covid-19
+264,en,ig,,,covid-19 international travel,njem mba ofesi covid-19
+265,en,ig,,,covid-19 isolation,nnọpụ iche covid-19
+266,en,ig,,,covid-19 lockdown,mkpọchi covid-19
+267,en,ig,,,covid-19 map,maapụ covid-19
+268,en,ig,,,covid-19 medicine,ọgwụ covid-19
+269,en,ig,,,covid-19 medicines,ọgwụ covid-19
+270,en,ig,,,covid-19 news,akụkọ covid-19
+271,en,ig,,,covid-19 outbreak,ntiwapụ covid-19
+272,en,ig,,,covid-19 pandemic,ọgbaghara covid-19
+273,en,ig,,,covid-19 panic,ụjọ covid-19
+275,en,ig,,,covid-19 precautions,mkpachapụ anya covid-19
+276,en,ig,,,covid-19 protection,mkpuchido covid-19
+277,en,ig,,,covid-19 quarantine,ndebe iche covid-19
+278,en,ig,,,covid-19 SOS Alert,ihe mgbaama SOS covid-19
+279,en,ig,,,covid-19 spread,nkesa covid-19
+280,en,ig,,,covid-19 symptoms,ihe ngosipụta covid-19
+281,en,ig,,,covid-19 transmission,nnyefe covid-19
+282,en,ig,,,covid-19 travel ban,mmachibido njem covid-19
+283,en,ig,,,covid-19 travel restrictions,mmachi njem covid-19
+284,en,ig,,,covid-19 treatment,ọgwụgwọ covid-19
+285,en,ig,,,covid-19 uncontrolled spread,nkesa covid-19 ejikwaghị
+286,en,ig,,,covid-19 vaccine,ọgwụ mgbochi covid-19
+287,en,ig,,,covid-19 vaccines,ọgwụ mgbochi covid-19
+288,en,ig,,,COVID-19 virus,nje covid-19
+289,en,ig,,,covid-19 virus outbreak,ntiwapụ nje covid-19
+290,en,ig,,,covid-19 virus transmission,nnyefe nje covid-19
+291,en,ig,,,covid-19 WHO,covid-19 WHO
+292,en,ig,,,covid19,covid19
+293,en,ig,,,covid19 alert,ihe mgbaama covid19
+294,en,ig,,,covid19 cases,okwu covid19
+295,en,ig,,,covid19 CDC,covid19 CDC
+301,en,ig,,,covid19 deaths,ọnwụ ndị covid19 butere
+302,en,ig,,,covid19 domestic travel,njem mpaghara covid19
+303,en,ig,,,covid19 effects,mmetụta covid19
+304,en,ig,,,covid19 epidemic,ntiwapụ ọrịa covid19
+305,en,ig,,,covid19 exposure,mkpughepu covid19
+306,en,ig,,,covid19 fatal,mmadụ covid19 gburu
+307,en,ig,,,covid19 fever,ahụ ọkụ covid19
+308,en,ig,,,covid19 illness,ahụ ọnwụnwụ covid19
+309,en,ig,,,covid19 incubation,ọbụbụ covid19
+310,en,ig,,,covid19 incubation period,oge ọbụbụ covid19
+311,en,ig,,,covid19 infection,ọfụfe covid19
+312,en,ig,,,covid19 international spread,nkesa mba ofesi covid19
+313,en,ig,,,covid19 international travel,njem mba ofesi covid19
+314,en,ig,,,covid19 isolation,nnọpụ iche covid19
+315,en,ig,,,covid19 lockdown,mkpọchi covid19
+316,en,ig,,,covid19 map,maapụ covid19
+317,en,ig,,,covid19 medicine,ọgwụ covid19
+318,en,ig,,,covid19 medicines,ọgwụ covid19
+319,en,ig,,,covid19 news,akụkọ covid19
+320,en,ig,,,covid19 outbreak,ntiwapụ covid19
+321,en,ig,,,covid19 pandemic,ọgbaghara covid19
+324,en,ig,,,covid19 precautions,mkpachapụ anya covid19
+325,en,ig,,,covid19 protection,mkpuchido covid19
+326,en,ig,,,covid19 quarantine,ndebe iche covid19
+327,en,ig,,,covid19 SOS Alert,ihe mgbaama SOS covid19
+328,en,ig,,,covid19 spread,nkesa covid19
+329,en,ig,,,covid19 symptoms,ihe ngosipụta covid19
+330,en,ig,,,covid19 transmission,nnyefe covid19
+331,en,ig,,,covid19 travel ban,mmachibido njem covid19
+332,en,ig,,,covid19 travel restrictions,mmachi njem covid19
+333,en,ig,,,covid19 treatment,ọgwụgwọ covid19
+335,en,ig,,,covid19 vaccine,ọgwụ mgbochi covid19
+336,en,ig,,,covid19 vaccines,ọgwụ mgbochi covid19
+337,en,ig,,,covid19 virus,nje covid19
+338,en,ig,,,covid19 virus outbreak,ntiwapụ nje covid19
+339,en,ig,,,covid19 virus transmission,nnyefe nje covid19
+342,en,ig,,,current outbreak,ntiwapụ dị ugbu a
+343,en,ig,,,deadly outbreak,ntiwapụ na egbu egbu
+345,en,ig,,,disease outbreak,ntiwapụ ọrịa
+346,en,ig,,,Disposable hand sanitizer,Ihe eji egbu nje dị n'aka a na eji otu ugboro
+348,en,ig,,,domestic travel,ngagharị njem n'ime obodo
+351,en,ig,,,droplets,ihe ntụsa
+357,en,ig,,,Effects of coronavirus,Mmetụta nke coronavirus
+359,en,ig,,,epidemic,ntiwapụ ọrịa
+360,en,ig,,,epidemic and pandemic,ntiwapụ ọrịa na ọgbaghara
+362,en,ig,,,epidemic disease,ọrịa ntiwapụ
+364,en,ig,,,epidemic outbreak,ntiwapụ ọrịa
+365,en,ig,,,epidemic period,oge ntiwapụ ọrịa
+366,en,ig,,,epidemic prevention,mgbochi ntiwapụ ọrịa
+368,en,ig,,,epidemic season,oge ntiwapụ ọrịa
+369,en,ig,,,epidemic situation,ọnọdụ ntiwapụ ọrịa
+371,en,ig,,,exposure,mkpughepụ
+375,en,ig,,,exposure time,oge mkpughepu
+379,en,ig,,,fever,ahụ ọkụ
+380,en,ig,,,fight the virus,ịkwụsị nje ahụ
+381,en,ig,,,Fighting the outbreak,Ịkwụsị ntiwapụ ahụ
+382,en,ig,,,flu epidemic,ntiwapụ ọrịa flu
+385,en,ig,,,fomites,ihe mbugharị
+392,en,ig,,,global health emergency,ihe mberede ahụike gburugburu ụwa
+393,en,ig,,,global outbreak,ntiwapụ ozuru ụwa
+394,en,ig,,,global pandemic,ọgbaghara ozuru ụwa
+396,en,ig,,,hand sanitizer,ihe eji egbu nje dị n'aka
+397,en,ig,,,hand sanitizer dispenser,ihe mmịpụta ihe eji egbu nje dị n'aka
+398,en,ig,,,hand sanitizer gel,jel ihe eji egbu nje dị n'aka
+399,en,ig,,,hand sanitizer spray,ihe ọgbụgba ihe eji egbu nje dị n'aka
+403,en,ig,,,home isolation,nnọpụ iche n'ụlọ
+404,en,ig,,,home quarantine,ndebe iche n'ụlọ
+410,en,ig,,,illness,ọrịa
+415,en,ig,,,incubation period,oge ọbụbụ
+418,en,ig,,,infected,nwere ọrịa
+424,en,ig,,,instant hand sanitizer,ihe egbu nje dị n'aka ngwangwa
+425,en,ig,,,international spread,nkesa mba ofesi
+426,en,ig,,,international travel,njem mba ofesi
+427,en,ig,,,isolation,nnọpụ iche
+428,en,ig,,,isolation period,oge nnọpụ iche
+430,en,ig,,,isolation room,ime ụlọ nnọpụ iche
+431,en,ig,,,isolation valve,valvụ nnọpụ iche
+432,en,ig,,,isolation ward,ụlọ nnọpụ iche
+434,en,ig,,,lockdown,mkpọchi
+438,en,ig,,,major outbreak,nnukwu ntiwapụ
+439,en,ig,,,mandatory quarantine,ndebe iche amanyere n'iwu
+440,en,ig,,,mass gathering,mbịakọ ọhaneze
+444,en,ig,,,medicine,ọgwụ
+445,en,ig,,,medicines,ọgwụ
+448,en,ig,,,n95,n95
+449,en,ig,,,n95 mask,mkpuchi ihu n95
+450,en,ig,,,n95 respirator,igwe eji eku ume n95
+451,en,ig,,,ncov,ncov
+452,en,ig,,,ncov-2019,ncov-2019
+453,en,ig,,,new coronavirus,coronavirus ọhụrụ
+454,en,ig,,,new coronavirus pneumonia,ọrịa oyi coronavirus ọhụrụ
+460,en,ig,,,novel coronavirus,coronavirus dị ọhụrụ
+462,en,ig,,,novel coronavirus infection,ọrịa coronavirus dị ọhụrụ
+463,en,ig,,,novel coronavirus outbreak,ntiwapụ coronavirus dị ọhụrụ
+464,en,ig,,,novel coronavirus pneumonia,ọrịa oyi coronavirus dị ọhụrụ
+470,en,ig,,,ongoing outbreak,ntiwapụ na eme ugbu a
+472,en,ig,,,outbreak,ntiwapụ
+474,en,ig,,,outbreak of coronavirus,ntiwapụ nke coronavirus
+475,en,ig,,,outbreak of disease,ntiwapụ nke ọrịa
+482,en,ig,,,pandemic,ọgbaghara
+485,en,ig,,,pandemic influenza,influenza ọgbaghara
+486,en,ig,,,pandemic outbreak,ntiwapụ ọgbaghara
+487,en,ig,,,pandemic plan,atụmatụ ọgbaghara
+488,en,ig,,,pandemic potential,enwemike ọgbaghara
+495,en,ig,,,pneumonia,ọrịa oyi
+496,en,ig,,,pneumonia epidemic,ntiwapụ ọrịa oyi
+497,en,ig,,,potential exposure,enwemike mkpughepu
+498,en,ig,,,precautions,mkpachapụ anya
+499,en,ig,,,prevent virus,gbochi nje
+500,en,ig,,,prolonged exposure,mkpughepu toro ogologo
+504,en,ig,,,quarantine,ndebe iche
+505,en,ig,,,quarantine area,mpaghara ndebe iche
+506,en,ig,,,quarantine facility,ewumewu ndebe iche
+507,en,ig,,,quarantine measures,ụkpụrụ ndebe iche
+508,en,ig,,,quarantine period,oge ndebe iche
+509,en,ig,,,quarantine room,ime ụlọ ndebe iche
+510,en,ig,,,quarantine zone,ogige ndebe iche
+512,en,ig,,,Recovered coronavirus patient,Onye ọrịa coronavirus gbakere
+514,en,ig,,,repatriate,weghachite
+515,en,ig,,,repeated exposure,mkpughepu na emegharị
+516,en,ig,,,respiratory syncytial virus,nje syncytial okuku ume
+517,en,ig,,,respiratory virus,nje okuku ume
+519,en,ig,,,Sanitizing hand sanitizer,Ihe egbu nje dị n'aka na asachapụ aka
+520,en,ig,,,SARS-CoV-2,SARS-CoV-2
+521,en,ig,,,self isolation,nnọpụ iche n'onwe
+522,en,ig,,,self quarantine,ndebe iche n'onwe
+523,en,ig,,,Severe outbreak,Nnukwu ntiwapụ
+525,en,ig,,,social distancing,nọpụga
+526,en,ig,,,social distancing measures,ụkpụrụ nnọpụga iche
+527,en,ig,,,social isolation,nnọpụga iche
+528,en,ig,,,SOS Alert,Ihe mgbaama SOS
+529,en,ig,,,spread,kesaa
+530,en,ig,,,spread of coronavirus,nkesa nke coronavirus
+531,en,ig,,,spread of virus,nkesa nke nje
+535,en,ig,,,strain of virus,usoro nke nje
+541,en,ig,,,the incubation period,oge ọbụbụ ahụ
+544,en,ig,,,the novel coronavirus,coronavirus ahụ dị ọhụrụ
+558,en,ig,,,touching face,ịmetụ ihu aka
+559,en,ig,,,travel advisory,ndụmọdụ njem
+560,en,ig,,,travel ban,mgbochi njegharị
+561,en,ig,,,travel restrictions,mmachi njegharị
+565,en,ig,,,use hand sanitizer,jiri ihe nsacha aka
+566,en,ig,,,vaccines,ọgwụ mgbochi
+567,en,ig,,,viral outbreak,ntiwapụ nje
+568,en,ig,,,virtual lockdown,mkpochi kpamkpam
+569,en,ig,,,virus,nje
+570,en,ig,,,virus carrier,ihe bu nje
+573,en,ig,,,virus infection,ọfụfe nje
+575,en,ig,,,virus mask,mkpuchi nje
+576,en,ig,,,virus outbreak,ntiwapụ nje
+577,en,ig,,,virus prevention,mgbochi nje
+578,en,ig,,,virus protection,mkpuchido nje
+580,en,ig,,,virus spread,nkesa nje
+582,en,ig,,,virus spreads,nje na ekesa
+583,en,ig,,,virus strain,usoro nje
+584,en,ig,,,virus transmission,nnyefe nje
+586,en,ig,,,wash your hands,sachaa aka gị
+587,en,ig,,,washing hands,ịsacha aka
+589,en,ig,,,WHO,WHO
+590,en,ig,,,WHO Confirmed,WHO Kwenyere
+591,en,ig,,,WHO Deaths,Ọnwụ WHO
+592,en,ig,,,widespread outbreak,ntiwapụ gbasara agbasa
+597,en,ig,,,World Health Organization,World Health Organization
+600,en,ig,,,zoonotic disease,ọrịa zoonotic
+601,en,ig,,,zoonotic virus,nje zoonotic

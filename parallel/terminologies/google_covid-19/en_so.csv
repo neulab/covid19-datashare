@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,so,,,14 days in isolation,14 cisho oo karantiil ah
+26,en,so,,,14 days quarantine,karantiil 14 maalin ah
+27,en,so,,,2019 coronavirus,2019 fayruuska corona
+28,en,so,,,2019 novel coronavirus,buuga fayruuska corona 2019
+29,en,so,,,2019-nCoV,2019-nCoV
+30,en,so,,,2020 coronavirus,fayruuska corona 2020
+31,en,so,,,2020 novel coronavirus,buuga fayruuska corona 2020
+33,en,so,,,about coronavirus,kusaabsan fayruuska corona
+39,en,so,,,acute respiratory distress syndrome,calaamada habka neefsashada ee ba'an
+40,en,so,,,advanced hand sanitizer,gacmo nadiifiye la hormariyay
+41,en,so,,,Affected by coronavirus,Waxaa saameeyay fayruuska corona
+42,en,so,,,after exposure,u nuglaanshaha kadib
+43,en,so,,,After the epidemic,Kadib cudurka saf-marka ah
+44,en,so,,,After the outbreak,Kadib dilaacista
+47,en,so,,,airborne virus,fayruuska neefta lagu kala qaado
+48,en,so,,,alcohol based hand sanitizer,nadiifiyaha gamca ha oo kasamaysan khamri
+49,en,so,,,alcohol hand sanitizer,gacmo nadiifiye kasamaysan khamro
+51,en,so,,,alcohol-based hand sanitizer,gacmo nadiifiye kasamaysan khamro
+59,en,so,,,Anti-Corona virus spray,Buufin lagu dilayo fayruuska corona
+60,en,so,,,antibacterial hand sanitizer,gacmo nadiifiye bakteeriyada dila
+61,en,so,,,ARDS,ARDS
+64,en,so,,,avoid exposure,ka fogaw u nuglaanshaha
+65,en,so,,,be infected,noqo mid qaadey cudurka
+75,en,so,,,Beware of coronavirus,Ka war hay fayruuska corona
+76,en,so,,,bilateral interstitial pneumonia,iswaydaarsiga burunkiitada ee duleelada unugyada
+77,en,so,,,CDC,CDC
+78,en,so,,,Center for Disease Control,Xarunta loogu talagay Xakamaynta Cudurka
+83,en,so,,,community spread,ku faafitaanka bulshada
+84,en,so,,,compulsory quarantine,karantill waajib ah
+85,en,so,,,contagious,faafitaan badan
+135,en,so,,,coronavirus,Fayruuska corona
+136,en,so,,,coronavirus (COVID-19),fayruuska corona (COVID-19)
+137,en,so,,,coronavirus alert,feejignaanta fayruuska corona
+139,en,so,,,coronavirus cases,kiisaska fayruuska corona
+141,en,so,,,coronavirus concerns,walaacyada fayruuska corona
+143,en,so,,,coronavirus crisis,dhibaatada fayruuska corona
+149,en,so,,,coronavirus disease,cudurka corona fayruuska
+150,en,so,,,Coronavirus disease (COVID-19) outbreak,Dilaacitaanka cudurka fayruuska corona (COVID-19)
+153,en,so,,,coronavirus early symptoms,calaamadaha hore ee fayruuska corona
+155,en,so,,,coronavirus epidemic,fayruuska saf-mareen ka ah ee corona
+156,en,so,,,coronavirus exposure,u nuglaanshaha fayruuska corona
+161,en,so,,,coronavirus incubation,xananayta fayruuska corona
+162,en,so,,,coronavirus incubation period,mudada xanaanayta fayruuska corona
+163,en,so,,,coronavirus infection,qaadida fayruuska corona
+168,en,so,,,coronavirus map,Khariirada fayruuska corona
+170,en,so,,,coronavirus medicine,daawada fayruuska corona
+171,en,so,,,coronavirus medicines,daawooyinka fayruuska corona
+172,en,so,,,coronavirus news,wararka fayruuska corona
+173,en,so,,,coronavirus outbreak,dilaacitaanka fayruuska corona
+174,en,so,,,coronavirus pandemic,fayruuska xanuunka musiibada ah ee corona
+176,en,so,,,coronavirus pneumonia,burunkiitada fayruuska corona
+177,en,so,,,coronavirus precautions,kataxadarista fayruuska corona
+178,en,so,,,coronavirus prevention,ka hor-tagida fayruuska corona
+179,en,so,,,coronavirus protection,iska ilaalinta fayruuska corona
+180,en,so,,,coronavirus quarantine,karantiilida fayruuska corona
+182,en,so,,,coronavirus SOS Alert,Feejignaanta fayruuska corona SOS
+183,en,so,,,coronavirus spread,faafitaanka fayruuska corona
+184,en,so,,,coronavirus symptoms,calaamadaha fayruuska corona
+185,en,so,,,coronavirus transmission,gudbitaanka fayruuska corona
+186,en,so,,,coronavirus travel ban,xayiraada safar ee fayruuska corona
+187,en,so,,,coronavirus travel restrictions,xayiraadaha safar ee fayruuska corona
+188,en,so,,,coronavirus treatment,daaweynta fayruuska corona
+190,en,so,,,coronavirus update,waxyaalaha ka cusub fayruuska corona
+191,en,so,,,coronavirus vaccine,talaalka fayruuska corona
+192,en,so,,,coronavirus vaccines,talaalaha fayruuska corona
+198,en,so,,,covid cases,kiisaska covid
+205,en,so,,,covid early symptoms,calaamada hore ee covid
+213,en,so,,,covid incubation period,mudada xanaanaynta covid
+215,en,so,,,covid international spread,faafitaanka caalami ah ee covid
+216,en,so,,,covid international travel,safarada caalamiga ah ee covid
+217,en,so,,,covid isolation,karantiilida covid
+219,en,so,,,covid map,Khariirada covid
+220,en,so,,,covid medicine,daawada covid
+221,en,so,,,covid medicines,daawooyinka covid
+222,en,so,,,covid news,wararka covid
+223,en,so,,,covid outbreak,dilaacitaan ka covid
+224,en,so,,,covid pandemic,musiibada covid
+225,en,so,,,covid panic,cabsida covid
+228,en,so,,,covid SOS Alert,Feejignaanta covid SOS
+230,en,so,,,covid symptoms,calaamada covid
+231,en,so,,,covid transmission,gudbinta covid
+232,en,so,,,covid travel ban,xayiraada safarka ee covid
+233,en,so,,,covid travel restrictions,xayiraadaha safarka ee covid
+234,en,so,,,covid treatment,daaweynta covid
+236,en,so,,,covid vaccine,talaalka covid
+237,en,so,,,covid vaccines,talaalada covid
+242,en,so,,,covid-19,covid-19
+243,en,so,,,covid-19 alert,feejignaanta covid-19
+244,en,so,,,covid-19 cases,kiisaska covid-19
+245,en,so,,,covid-19 CDC,covid-19 CDC
+246,en,so,,,covid-19 contagious,covid-19 faafitaan badan
+247,en,so,,,covid-19 cure,daawada covid-19
+248,en,so,,,covid-19 dangerous,covid-19 kharat ah
+249,en,so,,,covid-19 deadly,covid-19 dilaaga ah
+250,en,so,,,covid-19 death,dhimashada covid-19
+251,en,so,,,covid-19 deaths,dhimashooyinka civid-19
+252,en,so,,,covid-19 domestic travel,safarada qoyska covid
+253,en,so,,,covid-19 early symptoms,calaamadaha hore ee covid-19
+254,en,so,,,covid-19 effects,saamaynaha covid-19
+255,en,so,,,covid-19 epidemic,cudurka saf-marka ah covid-19
+256,en,so,,,covid-19 exposure,u nuglaanshaha covid-19
+257,en,so,,,covid-19 fatal,khatarta covid-19
+258,en,so,,,covid-19 fever,qandhada covid-19
+259,en,so,,,covid-19 illness,jirada covid-19
+260,en,so,,,covid-19 incubation,xanaanaynta covid-19
+261,en,so,,,covid-19 incubation period,mudada xanaanayta ee covid-19
+262,en,so,,,covid-19 infection,caabuqa covid-19
+263,en,so,,,covid-19 international spread,faafitaan caalami ah ee covid-19
+264,en,so,,,covid-19 international travel,safar caalami ah ee covid-19
+265,en,so,,,covid-19 isolation,karantiilida covid-19
+266,en,so,,,covid-19 lockdown,xiritaanka covid-19
+267,en,so,,,covid-19 map,khariirada covid-19
+268,en,so,,,covid-19 medicine,daawada covid-19
+269,en,so,,,covid-19 medicines,daawooyinka covid-19
+270,en,so,,,covid-19 news,wararka covid-19
+271,en,so,,,covid-19 outbreak,dilaacitaanka covid-19
+272,en,so,,,covid-19 pandemic,cudurka caalamiga ah covid-19
+273,en,so,,,covid-19 panic,cabsida covid-19
+275,en,so,,,covid-19 precautions,ka taxadaritaanada covid-19
+276,en,so,,,covid-19 protection,iska ilaalinta covid-19
+277,en,so,,,covid-19 quarantine,karantiilida covid-19
+278,en,so,,,covid-19 SOS Alert,feejignaanta covid-19 SOS
+279,en,so,,,covid-19 spread,faafitaanka covid-19
+280,en,so,,,covid-19 symptoms,calaamadaha covid-19
+281,en,so,,,covid-19 transmission,gudbinta covid-19
+282,en,so,,,covid-19 travel ban,xayiraada safar ee covid-19
+283,en,so,,,covid-19 travel restrictions,xayiraadaha safar ee covid-19
+284,en,so,,,covid-19 treatment,daawaynta covid-19
+285,en,so,,,covid-19 uncontrolled spread,faafitaan aan la xakamaynin ee covid-19
+286,en,so,,,covid-19 vaccine,talaalka covid-19
+287,en,so,,,covid-19 vaccines,talaalada covid-19
+288,en,so,,,COVID-19 virus,fayruuska covid-19
+289,en,so,,,covid-19 virus outbreak,dilaaca fayruuska covid-19
+290,en,so,,,covid-19 virus transmission,gudbinta fayruuska covid-19
+291,en,so,,,covid-19 WHO,Hay'ada Caafimaadka Aduunka covid-19
+292,en,so,,,covid19,covid19
+293,en,so,,,covid19 alert,fejignaanta covid19
+294,en,so,,,covid19 cases,kiisaska covid19
+295,en,so,,,covid19 CDC,covid19 CDC
+301,en,so,,,covid19 deaths,dhimashooyinka covid19
+302,en,so,,,covid19 domestic travel,safar qoys ee covid19
+303,en,so,,,covid19 effects,saamaynaha covid19
+304,en,so,,,covid19 epidemic,cudurka saf-marka ah covid19
+305,en,so,,,covid19 exposure,u nuglaanshaha covid19
+306,en,so,,,covid19 fatal,khatarta covid19
+307,en,so,,,covid19 fever,qandhada covid19
+308,en,so,,,covid19 illness,jirada covid19
+309,en,so,,,covid19 incubation,xanaanayta covid19
+310,en,so,,,covid19 incubation period,mudada xanaanayta covid19
+311,en,so,,,covid19 infection,caaabuqa covid19
+312,en,so,,,covid19 international spread,faafitaanka caalamiga ah ee covid19
+313,en,so,,,covid19 international travel,safar caalami ah covid19
+314,en,so,,,covid19 isolation,karantiilida covid19
+315,en,so,,,covid19 lockdown,xiritaanka covid19
+316,en,so,,,covid19 map,khariirada covid19
+317,en,so,,,covid19 medicine,daawada covid19
+318,en,so,,,covid19 medicines,daawooyinka covid19
+319,en,so,,,covid19 news,wararka covid19
+320,en,so,,,covid19 outbreak,dilaacitaanka covid19
+321,en,so,,,covid19 pandemic,cudurka caalamiga ah covid19
+324,en,so,,,covid19 precautions,ka taxadaritaanada covid19
+325,en,so,,,covid19 protection,iska ilaalinta covid19
+326,en,so,,,covid19 quarantine,karantiilida covid19
+327,en,so,,,covid19 SOS Alert,feejignaanta covid19 SOS
+328,en,so,,,covid19 spread,faaftitaanka covid19
+329,en,so,,,covid19 symptoms,calaamadaha covid19
+330,en,so,,,covid19 transmission,gudbinta covid19
+331,en,so,,,covid19 travel ban,xayiraada safar ee covid19
+332,en,so,,,covid19 travel restrictions,xayiraada safar ee covid19
+333,en,so,,,covid19 treatment,daawaynta covid19
+335,en,so,,,covid19 vaccine,talaalka covid19
+336,en,so,,,covid19 vaccines,talaalada covid19
+337,en,so,,,covid19 virus,fayruuska covid19
+338,en,so,,,covid19 virus outbreak,dilaacista fayruuska covid19
+339,en,so,,,covid19 virus transmission,gudbinta fayruuska covid19
+342,en,so,,,current outbreak,cudur dilaacitaanka waqti xaadirkan
+343,en,so,,,deadly outbreak,cudur dilaacitaanka dilaaga ah
+345,en,so,,,disease outbreak,cudur dilaacis
+346,en,so,,,Disposable hand sanitizer,Gamco nadiifiye hal mar la isticmaali karo
+348,en,so,,,domestic travel,safarka qoys
+351,en,so,,,droplets,dhibco
+357,en,so,,,Effects of coronavirus,Saamaynaha fayruuska corona
+359,en,so,,,epidemic,xanuun saf-mar ah
+360,en,so,,,epidemic and pandemic,cudur saf-mar ah oo caalami ah
+362,en,so,,,epidemic disease,xanuunka saf-marka ah
+364,en,so,,,epidemic outbreak,dilaacitaanka cudurka saf-marka ah
+365,en,so,,,epidemic period,waqtiga cudurka saf-marka ah
+366,en,so,,,epidemic prevention,ka hortaga cudurka saf-marka ah
+368,en,so,,,epidemic season,xilliga cudurka saf-marka ah
+369,en,so,,,epidemic situation,xaalada cudurka saf-marka ah
+371,en,so,,,exposure,u nuglaansho
+375,en,so,,,exposure time,waqtiga u nuglaanshaha
+379,en,so,,,fever,qandho
+380,en,so,,,fight the virus,la dagaalan ka fayruuska
+381,en,so,,,Fighting the outbreak,la dagaalayama cudur dilaacay
+382,en,so,,,flu epidemic,hargabka saf-marka ah
+385,en,so,,,fomites,jeermis side
+392,en,so,,,global health emergency,xaalad caafimaad oo dagdag ah oo caalami ah
+393,en,so,,,global outbreak,dilaacitaan aduunka oo dhan ah
+394,en,so,,,global pandemic,cudur caalami ah
+396,en,so,,,hand sanitizer,gamco nadiifiye
+397,en,so,,,hand sanitizer dispenser,qaybiyaha nadiifiyaha gacmaha
+398,en,so,,,hand sanitizer gel,gacmo nadiifiye jeel ah
+399,en,so,,,hand sanitizer spray,gacmo nadiifiye lagu buufiyo
+403,en,so,,,home isolation,go'doominta guriga ah
+404,en,so,,,home quarantine,karantiilka guriga ah
+410,en,so,,,illness,jiro
+415,en,so,,,incubation period,mudada xanaanayta
+418,en,so,,,infected,qaadey
+424,en,so,,,instant hand sanitizer,gacmo nadiifiye joogta ah
+425,en,so,,,international spread,faafitaan caalami ah
+426,en,so,,,international travel,safar caalami ah
+427,en,so,,,isolation,karantiil
+428,en,so,,,isolation period,mudada karantiilida
+430,en,so,,,isolation room,qolka karantiilida
+431,en,so,,,isolation valve,tuubooyinka karantiilida
+432,en,so,,,isolation ward,waadh ka karantiilka
+434,en,so,,,lockdown,xiritaan
+438,en,so,,,major outbreak,dilaaacitaanka ugu waaweyn
+439,en,so,,,mandatory quarantine,karantiilka waajib ka ah
+440,en,so,,,mass gathering,goob isugu imaansho
+444,en,so,,,medicine,daawo
+445,en,so,,,medicines,daawooyin
+448,en,so,,,n95,n95
+449,en,so,,,n95 mask,marada afka lagu daboosho ee n95
+450,en,so,,,n95 respirator,n95 lagu neefsado
+451,en,so,,,ncov,ncoV
+452,en,so,,,ncov-2019,ncov-2019
+453,en,so,,,new coronavirus,fayruus cusub corona
+454,en,so,,,new coronavirus pneumonia,burunkiitada fayruuska cusub ee corona
+460,en,so,,,novel coronavirus,buuga fayruuska corona
+462,en,so,,,novel coronavirus infection,buuga caabuqa fayruuska corona
+463,en,so,,,novel coronavirus outbreak,buuga dilaacitaanka fayruuska corona
+464,en,so,,,novel coronavirus pneumonia,buuga fayruuska burunkiitada corona
+470,en,so,,,ongoing outbreak,dilaacitaanka socda
+472,en,so,,,outbreak,xanuun dilaacitaan
+474,en,so,,,outbreak of coronavirus,dilaacitaanka fayruuska corona
+475,en,so,,,outbreak of disease,dilaacitaanka cudur
+482,en,so,,,pandemic,cudur calaami ah
+485,en,so,,,pandemic influenza,haragab caalami ah
+486,en,so,,,pandemic outbreak,dilaacista cudur caalami ah
+487,en,so,,,pandemic plan,qorshaha cudurka caalamiga ah
+488,en,so,,,pandemic potential,awooda cudurka caalamiga
+495,en,so,,,pneumonia,burunkiito
+496,en,so,,,pneumonia epidemic,burunkiito saf-mar ah
+497,en,so,,,potential exposure,awoodida u nuglaanshaha
+498,en,so,,,precautions,ka taxadaritaan
+499,en,so,,,prevent virus,ka hor tag fayruuska
+500,en,so,,,prolonged exposure,u nuglaansho daba dheeraatay
+504,en,so,,,quarantine,karantiil
+505,en,so,,,quarantine area,goobta karantiilka
+506,en,so,,,quarantine facility,agabka karantiilka
+507,en,so,,,quarantine measures,talaabooyinka karantiilka
+508,en,so,,,quarantine period,mudada karantiilka
+509,en,so,,,quarantine room,qolka karantiilka
+510,en,so,,,quarantine zone,aaga karantiilka
+512,en,so,,,Recovered coronavirus patient,Bukaanka ka bogsaday fayruuska corona
+514,en,so,,,repatriate,dib u dajin
+515,en,so,,,repeated exposure,u nuglaansho soo noqnoqotay
+516,en,so,,,respiratory syncytial virus,fayruuska unugyada neefsasha
+517,en,so,,,respiratory virus,fayruuska habka neefsashada
+519,en,so,,,Sanitizing hand sanitizer,Fayadhowrka nadiifinta gamcaha
+520,en,so,,,SARS-CoV-2,SARS-CoV-2
+521,en,so,,,self isolation,karantiil shakhsi ahaaneed
+522,en,so,,,self quarantine,karantiil shakhsi ahaaneed
+523,en,so,,,Severe outbreak,Dilaacist aad u ba'an
+525,en,so,,,social distancing,kala fogaanshaha bulshada
+526,en,so,,,social distancing measures,talaabooyinka kala fogaanshaha bulshada
+527,en,so,,,social isolation,karantiilida bulshada
+528,en,so,,,SOS Alert,Feejignaanta SOS
+529,en,so,,,spread,faafitaan
+530,en,so,,,spread of coronavirus,faaafitaanka fayruuska corona
+531,en,so,,,spread of virus,faafitaanka fayruuska
+535,en,so,,,strain of virus,nooca fayruuska
+541,en,so,,,the incubation period,mudada xanaanaynta
+544,en,so,,,the novel coronavirus,buuga fayruuska corona
+558,en,so,,,touching face,taabashada wajiga
+559,en,so,,,travel advisory,talooyinka safareed
+560,en,so,,,travel ban,xayiraada safareed
+561,en,so,,,travel restrictions,xayiraadaha safareed
+565,en,so,,,use hand sanitizer,isticmaal gamco nadiifiye
+566,en,so,,,vaccines,Talaalo
+567,en,so,,,viral outbreak,dilaaca fayruus
+568,en,so,,,virtual lockdown,xiritaan guud udhaw
+569,en,so,,,virus,fayruus
+570,en,so,,,virus carrier,sidaha fayruuska
+573,en,so,,,virus infection,caabuqa fayruuska
+575,en,so,,,virus mask,marada afka looga duubto fayruuska
+576,en,so,,,virus outbreak,dilaacafayruuska
+577,en,so,,,virus prevention,ka hortaga fayruuska
+578,en,so,,,virus protection,iska ilaalinta fayruuska
+580,en,so,,,virus spread,faafitaanka fayruuska
+582,en,so,,,virus spreads,fayruus faafa
+583,en,so,,,virus strain,nooca fayruus
+584,en,so,,,virus transmission,gudbinta fayruuska
+586,en,so,,,wash your hands,xiritaanka fayruus
+587,en,so,,,washing hands,gacmo dhaqitaankta
+589,en,so,,,WHO,Hay'ada Caafimaadka Aduunka
+590,en,so,,,WHO Confirmed,Hay'ada Caafimaadka Aduunka
+591,en,so,,,WHO Deaths,Dhimashooyinka Hay'ada Caafimaadka Aduunka
+592,en,so,,,widespread outbreak,dilaacis siaad ufaaftay
+597,en,so,,,World Health Organization,Hay'ada Caafimaadka Aduunka
+600,en,so,,,zoonotic disease,cudurka xoolaha u gudbiyaan bina adamka
+601,en,so,,,zoonotic virus,fayruuska xooloha u gudbiyaan bina adamka

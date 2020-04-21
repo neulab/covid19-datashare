@@ -1,0 +1,51 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+xx_1151,zh-Hans,en,,,境外输入病例,Cases imported from overseas
+xx_1152,zh-Hans,en,,,无症状感染者,Asymptomatic infection
+xx_1153,zh-Hans,en,,,每日疫情通报,Daily briefing on the epidemic
+xx_1154,zh-Hans,en,,,重型、危重型病例诊疗方案,Treatment protocol for severe and critical cases
+xx_1155,zh-Hans,en,,,新冠肺炎聚集性疫情,Clustered outbreaks of COVID-19
+xx_1156,zh-Hans,en,,,援鄂抗疫医疗队,Medical teams helping to fight the epidemic in Hubei
+xx_1157,zh-Hans,en,,,"""三错开""原则","""Three staggered"" principle"
+xx_1158,zh-Hans,en,,,"""三不""原则","""Three don'ts"" principle"
+xx_1159,zh-Hans,en,,,疫情地图,Epidemic map
+xx_1160,zh-Hans,en,,,疫情拐点,Epidemic inflection point
+xx_1161,zh-Hans,en,,,封闭管理,Closed-off management
+xx_1162,zh-Hans,en,,,方舱医院,Modular hospital
+xx_1163,zh-Hans,en,,,复工复产,Resumption of work and production
+xx_1164,zh-Hans,en,,,停课不停学,Suspension of classes without suspending school
+xx_1165,zh-Hans,en,,,直播教学,Remote learning
+xx_1166,zh-Hans,en,,,粪口传播,Fecal-oral route of transmission
+xx_1167,zh-Hans,en,,,飞沫,Droplets
+xx_1168,zh-Hans,en,,,密切接触者,Close contacts
+xx_1169,zh-Hans,en,,,家庭聚集,Family clusters
+xx_1170,zh-Hans,en,,,平均潜伏期,Average incubation period
+xx_1171,zh-Hans,en,,,冠状病毒基因序列变异,Coronavirus gene sequence mutations
+xx_1172,zh-Hans,en,,,咽拭子,Throat swab
+xx_1173,zh-Hans,en,,,心理危机干预,Psychological crisis intervention
+xx_1174,zh-Hans,en,,,气溶胶传播,Aerosol transmission
+xx_1175,zh-Hans,en,,,旅行限制,Travel restrictions
+xx_1176,zh-Hans,en,,,旅行史,Travel history
+xx_1177,zh-Hans,en,,,活动轨迹,Movement tracking
+xx_1178,zh-Hans,en,,,入境隔离,Quarantine upon entering a country
+xx_1179,zh-Hans,en,,,旅行禁令,Travel ban
+xx_1180,zh-Hans,en,,,核酸检测,Nucleic acid amplification testing
+xx_1181,zh-Hans,en,,,新冠病毒变异,Novel coronavirus mutations
+xx_1182,zh-Hans,en,,,新冠病毒毒株,Novel coronavirus strains
+xx_1183,zh-Hans,en,,,阴性,Negative
+xx_1184,zh-Hans,en,,,阳性,Positive
+xx_1185,zh-Hans,en,,,变异,Mutations
+xx_1186,zh-Hans,en,,,双重感染者,Dual infections
+xx_1187,zh-Hans,en,,,新冠特效药,Specific medication for novel coronavirus
+xx_1188,zh-Hans,en,,,法匹拉韦,Favipiravir
+xx_1189,zh-Hans,en,,,抗体,Antibody
+xx_1190,zh-Hans,en,,,试剂盒,Reagent test kit
+xx_1191,zh-Hans,en,,,复阳,Re-detectable positive
+xx_1192,zh-Hans,en,,,亚型,Subtype
+xx_1193,zh-Hans,en,,,元凶,Prime culprit
+xx_1194,zh-Hans,en,,,社交距离,Social distancing
+xx_1195,zh-Hans,en,,,索拉诺县,Solano County
+xx_1196,zh-Hans,en,,,新冠病毒抑制剂,Novel coronavirus inhibitor
+xx_1197,zh-Hans,en,,,宿主,Host
+xx_1198,zh-Hans,en,,,中间宿主,Intermediate host
+xx_1199,zh-Hans,en,,,早期症状,Early symptoms
+xx_1200,zh-Hans,en,,,呼吸机,Ventilator

@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,mk,,,14 days in isolation,14 дена во изолација
+26,en,mk,,,14 days quarantine,14-дневен карантин
+27,en,mk,,,2019 coronavirus,коронавирус 2019
+28,en,mk,,,2019 novel coronavirus,нов коронавирус 2019
+29,en,mk,,,2019-nCoV,2019-nCoV
+30,en,mk,,,2020 coronavirus,коронавирус 2020
+31,en,mk,,,2020 novel coronavirus,нов коронавирус 2020
+33,en,mk,,,about coronavirus,за коронавирус
+39,en,mk,,,acute respiratory distress syndrome,синдром на акутно респираторно нарушување
+40,en,mk,,,advanced hand sanitizer,напредно средство за дезинфекција на раце
+41,en,mk,,,Affected by coronavirus,Погодени од коронавирус
+42,en,mk,,,after exposure,по изложеност
+43,en,mk,,,After the epidemic,По епидемијата
+44,en,mk,,,After the outbreak,По избивањето на заразата
+47,en,mk,,,airborne virus,вирус кој се пренесува преку воздухот
+48,en,mk,,,alcohol based hand sanitizer,средство за дезинфекција на раце на база на алкохол
+49,en,mk,,,alcohol hand sanitizer,алкохолно средство за дезинфекција на раце
+51,en,mk,,,alcohol-based hand sanitizer,средство за дезинфекција на раце на база на алкохол
+59,en,mk,,,Anti-Corona virus spray,Спреј против вирус Анти-Корона
+60,en,mk,,,antibacterial hand sanitizer,антибактериско средство за дезинфекција на раце
+61,en,mk,,,ARDS,АРДС
+64,en,mk,,,avoid exposure,избегнува изложеност
+65,en,mk,,,be infected,да биде заразен
+75,en,mk,,,Beware of coronavirus,Чувајте се од коронавирус
+76,en,mk,,,bilateral interstitial pneumonia,билатерална интерстицијална пневмонија
+77,en,mk,,,CDC,ЦДЦ
+78,en,mk,,,Center for Disease Control,Центар за контрола на болести
+83,en,mk,,,community spread,ширење во заедницата
+84,en,mk,,,compulsory quarantine,задолжителен карантин
+85,en,mk,,,contagious,заразен
+135,en,mk,,,coronavirus,коронавирус
+136,en,mk,,,coronavirus (COVID-19),коронавирус (КОВИД-19)
+137,en,mk,,,coronavirus alert,предупредување за коронавирус
+139,en,mk,,,coronavirus cases,случаи на коронавирус
+141,en,mk,,,coronavirus concerns,прашања за коронавирус
+143,en,mk,,,coronavirus crisis,криза од коронавирус
+149,en,mk,,,coronavirus disease,болест од коронавирус
+150,en,mk,,,Coronavirus disease (COVID-19) outbreak,Избивање на болест од коронавирус (КОВИД-19)
+153,en,mk,,,coronavirus early symptoms,првични симптоми на коронавирус
+155,en,mk,,,coronavirus epidemic,епидемија на коронавирус
+156,en,mk,,,coronavirus exposure,изложеност на коронавирус
+161,en,mk,,,coronavirus incubation,инкубација на коронавирус
+162,en,mk,,,coronavirus incubation period,период на инкубација на коронавирус
+163,en,mk,,,coronavirus infection,инфекција со коронавирус
+168,en,mk,,,coronavirus map,мапа на коронавирус
+170,en,mk,,,coronavirus medicine,лек за коронавирус
+171,en,mk,,,coronavirus medicines,лекови за коронавирус
+172,en,mk,,,coronavirus news,вести за коронавирус
+173,en,mk,,,coronavirus outbreak,избивање на коронавирус
+174,en,mk,,,coronavirus pandemic,пандемија на коронавирус
+176,en,mk,,,coronavirus pneumonia,пневмонија од коронавирус
+177,en,mk,,,coronavirus precautions,мерки на претпазливост од коронавирус
+178,en,mk,,,coronavirus prevention,превенција од коронавирус
+179,en,mk,,,coronavirus protection,заштита од коронавирус
+180,en,mk,,,coronavirus quarantine,карантин поради коронавирус
+182,en,mk,,,coronavirus SOS Alert,коронавирус СОС предупредување
+183,en,mk,,,coronavirus spread,ширење на коронавирус
+184,en,mk,,,coronavirus symptoms,симптоми на коронавирус
+185,en,mk,,,coronavirus transmission,пренесување на коронавирус
+186,en,mk,,,coronavirus travel ban,коронавирус забрана за патување
+187,en,mk,,,coronavirus travel restrictions,коронавирус ограничување на патувањата
+188,en,mk,,,coronavirus treatment,лекување од коронавирус
+190,en,mk,,,coronavirus update,новости за коронавирус
+191,en,mk,,,coronavirus vaccine,вакцина за коронавирус
+192,en,mk,,,coronavirus vaccines,вакцини за коронавирус
+198,en,mk,,,covid cases,случаи на ковид
+205,en,mk,,,covid early symptoms,првични симптоми на ковид
+213,en,mk,,,covid incubation period,период на инкубација на ковид
+215,en,mk,,,covid international spread,меѓународно ширење на ковид
+216,en,mk,,,covid international travel,ковид меѓународно патување
+217,en,mk,,,covid isolation,изолација поради ковид
+219,en,mk,,,covid map,мапа на ковид
+220,en,mk,,,covid medicine,лек за ковид
+221,en,mk,,,covid medicines,лекови за ковид
+222,en,mk,,,covid news,вести за ковид
+223,en,mk,,,covid outbreak,избивање на ковид
+224,en,mk,,,covid pandemic,пандемија на ковид
+225,en,mk,,,covid panic,паника поради ковид
+228,en,mk,,,covid SOS Alert,ковид СОС Предупредување
+230,en,mk,,,covid symptoms,симптоми на ковид
+231,en,mk,,,covid transmission,пренесување на ковид
+232,en,mk,,,covid travel ban,ковид забрана за патување
+233,en,mk,,,covid travel restrictions,ковид ограничување на патувањата
+234,en,mk,,,covid treatment,лекување од ковид
+236,en,mk,,,covid vaccine,вакцина за ковид
+237,en,mk,,,covid vaccines,вакцини за ковид
+242,en,mk,,,covid-19,ковид-19
+243,en,mk,,,covid-19 alert,предупредување за ковид-19
+244,en,mk,,,covid-19 cases,случаи на ковид-19
+245,en,mk,,,covid-19 CDC,ковид-19 ЦДЦ
+246,en,mk,,,covid-19 contagious,ковид-19 заразен
+247,en,mk,,,covid-19 cure,лек за ковид-19
+248,en,mk,,,covid-19 dangerous,ковид-19 опасен
+249,en,mk,,,covid-19 deadly,ковид-19 смртоносен
+250,en,mk,,,covid-19 death,ковид-19 смрт
+251,en,mk,,,covid-19 deaths,смртни случаи од ковид-19
+252,en,mk,,,covid-19 domestic travel,ковид-19 патување во земјата
+253,en,mk,,,covid-19 early symptoms,првични симптоми на ковид-19
+254,en,mk,,,covid-19 effects,последици од ковид-19
+255,en,mk,,,covid-19 epidemic,епидемија на ковид-19
+256,en,mk,,,covid-19 exposure,изложеност на ковид-19
+257,en,mk,,,covid-19 fatal,ковид-19 фатална
+258,en,mk,,,covid-19 fever,ковид-19 треска
+259,en,mk,,,covid-19 illness,заболување ковид-19
+260,en,mk,,,covid-19 incubation,инкубација на ковид-19
+261,en,mk,,,covid-19 incubation period,период на инкубација на ковид-19
+262,en,mk,,,covid-19 infection,инфекција со ковид-19
+263,en,mk,,,covid-19 international spread,меѓународно ширење на ковид-19
+264,en,mk,,,covid-19 international travel,ковид-19 меѓународно патување
+265,en,mk,,,covid-19 isolation,изолација поради ковид-19
+266,en,mk,,,covid-19 lockdown,целосно затворање поради ковид-19
+267,en,mk,,,covid-19 map,мапа на ковид-19
+268,en,mk,,,covid-19 medicine,лек за ковид-19
+269,en,mk,,,covid-19 medicines,лекови за ковид-19
+270,en,mk,,,covid-19 news,вести за ковид-19
+271,en,mk,,,covid-19 outbreak,избивање на ковид-19
+272,en,mk,,,covid-19 pandemic,пандемија на ковид-19
+273,en,mk,,,covid-19 panic,паника поради ковид-19
+275,en,mk,,,covid-19 precautions,ковид-19 мерки на претпазливост
+276,en,mk,,,covid-19 protection,заштита од ковид-19
+277,en,mk,,,covid-19 quarantine,ковид-19 карантин
+278,en,mk,,,covid-19 SOS Alert,ковид-19 СОС Предупредување
+279,en,mk,,,covid-19 spread,ширење на ковид-19
+280,en,mk,,,covid-19 symptoms,симптоми на ковид-19
+281,en,mk,,,covid-19 transmission,пренесување на ковид-19
+282,en,mk,,,covid-19 travel ban,ковид-19 забрана за патување
+283,en,mk,,,covid-19 travel restrictions,ковид-19 ограничување на патувањата
+284,en,mk,,,covid-19 treatment,лекување на ковид-19
+285,en,mk,,,covid-19 uncontrolled spread,ковид-19 неконтролирано ширење
+286,en,mk,,,covid-19 vaccine,вакцина за ковид-19
+287,en,mk,,,covid-19 vaccines,вакцини за ковид-19
+288,en,mk,,,COVID-19 virus,ковид-19 вирус
+289,en,mk,,,covid-19 virus outbreak,ковид-19 избивање на вирус
+290,en,mk,,,covid-19 virus transmission,ковид-19 пренесување на вирус
+291,en,mk,,,covid-19 WHO,ковид-19 СЗО
+292,en,mk,,,covid19,ковид19
+293,en,mk,,,covid19 alert,ковид19 предупредување
+294,en,mk,,,covid19 cases,ковид19 случаи
+295,en,mk,,,covid19 CDC,ковид19 ЦДЦ
+301,en,mk,,,covid19 deaths,смртни случаи од ковид19
+302,en,mk,,,covid19 domestic travel,ковид19 патување во земјата
+303,en,mk,,,covid19 effects,последици од ковид19
+304,en,mk,,,covid19 epidemic,епидемија на ковид19
+305,en,mk,,,covid19 exposure,изложеност на ковид19
+306,en,mk,,,covid19 fatal,ковид19 фатален
+307,en,mk,,,covid19 fever,ковид19 треска
+308,en,mk,,,covid19 illness,заболување ковид19
+309,en,mk,,,covid19 incubation,инкубација на ковид19
+310,en,mk,,,covid19 incubation period,ковид19 период на инкубација
+311,en,mk,,,covid19 infection,инфекција со ковид19
+312,en,mk,,,covid19 international spread,ковид19 меѓународно ширење
+313,en,mk,,,covid19 international travel,ковид19 меѓународно патување
+314,en,mk,,,covid19 isolation,изолација поради ковид19
+315,en,mk,,,covid19 lockdown,целосно затворање поради ковид19
+316,en,mk,,,covid19 map,мапа на ковид19
+317,en,mk,,,covid19 medicine,лек за ковид19
+318,en,mk,,,covid19 medicines,лекови за ковид19
+319,en,mk,,,covid19 news,вести за ковид19
+320,en,mk,,,covid19 outbreak,избивање на ковид19
+321,en,mk,,,covid19 pandemic,пандемија на ковид19
+324,en,mk,,,covid19 precautions,ковид19 мерки на претпазливост
+325,en,mk,,,covid19 protection,заштита од ковид19
+326,en,mk,,,covid19 quarantine,ковид19 карантин
+327,en,mk,,,covid19 SOS Alert,ковид19 СОС Предупредување
+328,en,mk,,,covid19 spread,ширење на ковид19
+329,en,mk,,,covid19 symptoms,симптоми на ковид19
+330,en,mk,,,covid19 transmission,пренесување на ковид19
+331,en,mk,,,covid19 travel ban,ковид19 забрана за патување
+332,en,mk,,,covid19 travel restrictions,ковид19 ограничување на патувањата
+333,en,mk,,,covid19 treatment,лекување на ковид19
+335,en,mk,,,covid19 vaccine,вакцина за ковид19
+336,en,mk,,,covid19 vaccines,вакцини за ковид19
+337,en,mk,,,covid19 virus,вирус на ковид19
+338,en,mk,,,covid19 virus outbreak,ковид19 избивање на вирус
+339,en,mk,,,covid19 virus transmission,ковид19 пренесување на вирус
+342,en,mk,,,current outbreak,избивање на зараза во моментот
+343,en,mk,,,deadly outbreak,избивање на смртоносна зараза
+345,en,mk,,,disease outbreak,избивање на болест
+346,en,mk,,,Disposable hand sanitizer,Средство за дезинфекција на раце за една употреба
+348,en,mk,,,domestic travel,патување во земјата
+351,en,mk,,,droplets,капки
+357,en,mk,,,Effects of coronavirus,Последици од коронавирус
+359,en,mk,,,epidemic,епидемиски
+360,en,mk,,,epidemic and pandemic,епидемија и пандемија
+362,en,mk,,,epidemic disease,епидемиска болест
+364,en,mk,,,epidemic outbreak,избивање на епидемија
+365,en,mk,,,epidemic period,период на епидемија
+366,en,mk,,,epidemic prevention,превенција на епидемија
+368,en,mk,,,epidemic season,сезона на епидемија
+369,en,mk,,,epidemic situation,состојба со епидемија
+371,en,mk,,,exposure,изложеност
+375,en,mk,,,exposure time,време на изложеност
+379,en,mk,,,fever,треска
+380,en,mk,,,fight the virus,се бори со вирусот
+381,en,mk,,,Fighting the outbreak,Во борба со заразата
+382,en,mk,,,flu epidemic,епидемија на грип
+385,en,mk,,,fomites,контаминирани предмети
+392,en,mk,,,global health emergency,вонредна здравствена состојба на глобално ниво
+393,en,mk,,,global outbreak,избивање на зараза на глобално ниво
+394,en,mk,,,global pandemic,глобална пандемија
+396,en,mk,,,hand sanitizer,средство за дезинфекција на раце
+397,en,mk,,,hand sanitizer dispenser,дозатор за средство за дезинфекција на раце
+398,en,mk,,,hand sanitizer gel,гел за дезинфекција на раце
+399,en,mk,,,hand sanitizer spray,спреј за дезинфекција на раце
+403,en,mk,,,home isolation,домашна изолација
+404,en,mk,,,home quarantine,домашен карантин
+410,en,mk,,,illness,заболување
+415,en,mk,,,incubation period,период на инкубација
+418,en,mk,,,infected,заразен
+424,en,mk,,,instant hand sanitizer,инстант средство за дезинфекција на раце
+425,en,mk,,,international spread,меѓународно ширење
+426,en,mk,,,international travel,меѓународно патување
+427,en,mk,,,isolation,изолација
+428,en,mk,,,isolation period,период на изолација
+430,en,mk,,,isolation room,соба за изолација
+431,en,mk,,,isolation valve,вентил за изолација
+432,en,mk,,,isolation ward,одделение за изолација
+434,en,mk,,,lockdown,целосно затворање
+438,en,mk,,,major outbreak,избивање на голема зараза
+439,en,mk,,,mandatory quarantine,задолжителен карантин
+440,en,mk,,,mass gathering,масовен собир
+444,en,mk,,,medicine,лек
+445,en,mk,,,medicines,лекови
+448,en,mk,,,n95,n95
+449,en,mk,,,n95 mask,маска n95
+450,en,mk,,,n95 respirator,респиратор n95
+451,en,mk,,,ncov,ncov
+452,en,mk,,,ncov-2019,ncov-2019
+453,en,mk,,,new coronavirus,нов коронавирус
+454,en,mk,,,new coronavirus pneumonia,пневмонија од новиот коронавирус
+460,en,mk,,,novel coronavirus,нов коронавирус
+462,en,mk,,,novel coronavirus infection,инфекција со нов коронавирус
+463,en,mk,,,novel coronavirus outbreak,избивање на нов коронавирус
+464,en,mk,,,novel coronavirus pneumonia,пневмонија од новиот коронавирус
+470,en,mk,,,ongoing outbreak,тековна зараза
+472,en,mk,,,outbreak,избивање на зараза
+474,en,mk,,,outbreak of coronavirus,избивање на коронавирус
+475,en,mk,,,outbreak of disease,избивање на болест
+482,en,mk,,,pandemic,пандемски
+485,en,mk,,,pandemic influenza,пандемска инфлуенца
+486,en,mk,,,pandemic outbreak,избивање на пандемија
+487,en,mk,,,pandemic plan,план за пандемија
+488,en,mk,,,pandemic potential,потенцијал на пандемија
+495,en,mk,,,pneumonia,пневмонија
+496,en,mk,,,pneumonia epidemic,епидемија на пневмонија
+497,en,mk,,,potential exposure,можна изложеност
+498,en,mk,,,precautions,мерки на претпазливост
+499,en,mk,,,prevent virus,да спречам вирус
+500,en,mk,,,prolonged exposure,долготрајна изложеност
+504,en,mk,,,quarantine,карантин
+505,en,mk,,,quarantine area,област за карантин
+506,en,mk,,,quarantine facility,објект за карантин
+507,en,mk,,,quarantine measures,мерки за карантин
+508,en,mk,,,quarantine period,период во карантин
+509,en,mk,,,quarantine room,соба за карантин
+510,en,mk,,,quarantine zone,зона за карантин
+512,en,mk,,,Recovered coronavirus patient,Пациент со коронавирус кој оздравел
+514,en,mk,,,repatriate,репатрирам
+515,en,mk,,,repeated exposure,повторена изложеност
+516,en,mk,,,respiratory syncytial virus,респираторен синцитијален вирус
+517,en,mk,,,respiratory virus,респираторен вирус
+519,en,mk,,,Sanitizing hand sanitizer,Средство за дезинфекција на раце
+520,en,mk,,,SARS-CoV-2,САРС-КоВ-2
+521,en,mk,,,self isolation,самоизолација
+522,en,mk,,,self quarantine,самокарантин
+523,en,mk,,,Severe outbreak,Избивање на голема зараза
+525,en,mk,,,social distancing,социјално дистанцирање
+526,en,mk,,,social distancing measures,мерки за социјално дистанцирање
+527,en,mk,,,social isolation,социјална изолација
+528,en,mk,,,SOS Alert,СОС Предупредување
+529,en,mk,,,spread,ширење
+530,en,mk,,,spread of coronavirus,ширење на коронавирус
+531,en,mk,,,spread of virus,ширење на вирус
+535,en,mk,,,strain of virus,тип на вирус
+541,en,mk,,,the incubation period,периодот на инкубација
+544,en,mk,,,the novel coronavirus,новиот коронавирус
+558,en,mk,,,touching face,допирање на лицето
+559,en,mk,,,travel advisory,совети за патување
+560,en,mk,,,travel ban,забрана за патување
+561,en,mk,,,travel restrictions,ограничување на патувањата
+565,en,mk,,,use hand sanitizer,користи средство за дезинфекција на раце
+566,en,mk,,,vaccines,вакцини
+567,en,mk,,,viral outbreak,избивање на вирус
+568,en,mk,,,virtual lockdown,речиси целосно затворање
+569,en,mk,,,virus,вирус
+570,en,mk,,,virus carrier,носител на вирус
+573,en,mk,,,virus infection,вирусна инфекција
+575,en,mk,,,virus mask,маска за вирус
+576,en,mk,,,virus outbreak,избивање на вирус
+577,en,mk,,,virus prevention,превенција од вирус
+578,en,mk,,,virus protection,заштита од вирус
+580,en,mk,,,virus spread,ширење на вирус
+582,en,mk,,,virus spreads,вирусот се шири
+583,en,mk,,,virus strain,тип на вирус
+584,en,mk,,,virus transmission,пренесување на вирус
+586,en,mk,,,wash your hands,миј ги рацете
+587,en,mk,,,washing hands,миење раце
+589,en,mk,,,WHO,СЗО
+590,en,mk,,,WHO Confirmed,СЗО Потврдено
+591,en,mk,,,WHO Deaths,СЗО Смртни случаи
+592,en,mk,,,widespread outbreak,распространета зараза
+597,en,mk,,,World Health Organization,Светска здравствена организација
+600,en,mk,,,zoonotic disease,зоонотска болест
+601,en,mk,,,zoonotic virus,зоонотски вирус

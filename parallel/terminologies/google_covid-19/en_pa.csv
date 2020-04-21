@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,pa,,,14 days in isolation,ਇਕਾਂਤਵਾਸ ਵਿੱਚ 14 ਦਿਨ
+26,en,pa,,,14 days quarantine,14 ਦਿਨ ਦੀ ਅਲਹਿਦਗੀ
+27,en,pa,,,2019 coronavirus,2019 ਕੋਰੋਨਾਵਾਇਰਸ
+28,en,pa,,,2019 novel coronavirus,2019 ਨੋਵਲ ਕੋਰੋਨਾਵਾਇਰਸ
+29,en,pa,,,2019-nCoV,2019-nCoV
+30,en,pa,,,2020 coronavirus,2020 ਕੋਰੋਨਾਵਾਇਰਸ
+31,en,pa,,,2020 novel coronavirus,2020 ਨੋਵਲ ਕੋਰੋਨਾਵਾਇਰਸ
+33,en,pa,,,about coronavirus,ਕੋਰੋਨਾਵਾਇਰਸ ਬਾਰੇ
+39,en,pa,,,acute respiratory distress syndrome,ਐਕਿਊਟ ਰੈਸਪੀਰੇਟਰੀ ਡਿਸਟ੍ਰੈਸ ਸਿੰਡਰੋਮ
+40,en,pa,,,advanced hand sanitizer,ਉੱਨਤ ਹੈਂਡ ਸੈਨੀਟਾਈਜ਼ਰ
+41,en,pa,,,Affected by coronavirus,ਕੋਰੋਨਾਵਾਇਰਸ ਤੋਂ ਪ੍ਰਭਾਵਿਤ
+42,en,pa,,,after exposure,ਸੰਪਰਕ ਤੋਂ ਬਾਅਦ
+43,en,pa,,,After the epidemic,ਮਹਾਂਮਾਰੀ ਤੋਂ ਬਾਅਦ
+44,en,pa,,,After the outbreak,ਪ੍ਰਕੋਪ ਤੋਂ ਬਾਅਦ
+47,en,pa,,,airborne virus,ਹਵਾ ਵਿੱਚ ਫੌਲਣ ਵਾਲਾ ਵਾਇਰਸ
+48,en,pa,,,alcohol based hand sanitizer,ਅਲਕੋਹਲ ਆਧਾਰਿਤ ਹੈਂਡ ਸੈਨੀਟਾਈਜ਼ਰ
+49,en,pa,,,alcohol hand sanitizer,ਅਲਕੋਹਲ ਵਾਲਾ ਹੈਂਡ ਸੈਨੀਟਾਈਜ਼ਰ
+51,en,pa,,,alcohol-based hand sanitizer,ਅਲਕੋਹਲ-ਆਧਾਰਿਤ ਹੈਂਡ ਸੈਨੀਟਾਈਜ਼ਰ
+59,en,pa,,,Anti-Corona virus spray,ਐਂਟੀ-ਕੋਰੋਨਾ ਵਾਇਰਸ ਛਿੜਕਾਅ
+60,en,pa,,,antibacterial hand sanitizer,ਜੀਵਾਣੂ-ਨਾਸ਼ਕ ਹੈਂਡ ਸੈਨੀਟਾਈਜ਼ਰ
+61,en,pa,,,ARDS,ARDS
+64,en,pa,,,avoid exposure,ਸੰਪਰਕ 'ਚ ਆਉਣ ਤੋਂ ਪਰਹੇਜ਼ ਕਰੋ
+65,en,pa,,,be infected,ਸੰਕਰਮਿਤ ਹੋਣਾ
+75,en,pa,,,Beware of coronavirus,ਕੋਰੋਨਾਵਾਇਰਸ ਤੋਂ ਸਾਵਧਾਨ ਰਹੋ
+76,en,pa,,,bilateral interstitial pneumonia,ਬਾਈਲੇਟ੍ਰਲ ਇੰਟਰਸਟੀਸ਼ਿਅਲ ਨਿਮੋਨੀਆ
+77,en,pa,,,CDC,CDC
+78,en,pa,,,Center for Disease Control,ਬਿਮਾਰੀ ਨਿਯੰਤਰਣ ਕੇਂਦਰ
+83,en,pa,,,community spread,ਭਾਈਚਾਰਕ ਫੈਲਾਅ
+84,en,pa,,,compulsory quarantine,ਲਾਜ਼ਮੀ ਅਲਹਿਦਗੀ
+85,en,pa,,,contagious,ਛੂਤਕਾਰੀ
+135,en,pa,,,coronavirus,ਕੋਰੋਨਾਵਾਇਰਸ
+136,en,pa,,,coronavirus (COVID-19),ਕੋਰੋਨਾਵਾਇਰਸ (ਕੋਵਿਡ-19)
+137,en,pa,,,coronavirus alert,ਕੋਰੋਨਾਵਾਇਰਸ ਸੰਬੰਧੀ ਸੁਚੇਤਨਾ
+139,en,pa,,,coronavirus cases,ਕੋਰੋਨਾਵਾਇਰਸ ਦੇ ਮਾਮਲੇ
+141,en,pa,,,coronavirus concerns,ਕੋਰੋਨਾਵਾਇਰਸ ਸੰਬੰਧੀ ਚਿੰਤਾਵਾਂ
+143,en,pa,,,coronavirus crisis,ਕੋਰੋਨਾਵਾਇਰਸ ਦਾ ਸੰਕਟ
+149,en,pa,,,coronavirus disease,ਕੋਰੋਨਾਵਾਇਰਸ ਬਿਮਾਰੀ
+150,en,pa,,,Coronavirus disease (COVID-19) outbreak,ਕੋਰੋਨਾਵਾਇਰਸ ਬਿਮਾਰੀ (ਕੋਵਿਡ-19) ਪ੍ਰਕੋਪ
+153,en,pa,,,coronavirus early symptoms,ਕੋਰੋਨਾਵਾਇਰਸ ਦੇ ਮੁੱਢਲੇ ਲੱਛਣ
+155,en,pa,,,coronavirus epidemic,ਕੋਰੋਨਾਵਾਇਰਸ ਮਹਾਂਮਾਰੀ
+156,en,pa,,,coronavirus exposure,ਕੋਰੋਨਾਵਾਇਰਸ ਸੰਪਰਕ
+161,en,pa,,,coronavirus incubation,ਕੋਰੋਨਾਵਾਇਰਸ ਪਣਪਣਾ
+162,en,pa,,,coronavirus incubation period,ਕੋਰੋਨਾਵਾਇਰਸ ਦੇ ਪਣਪਣ ਦਾ ਸਮਾਂ
+163,en,pa,,,coronavirus infection,ਕੋਰੋਨਾਵਾਇਰਸ ਸੰਕਰਮਣ
+168,en,pa,,,coronavirus map,ਕੋਰੋਨਾਵਾਇਰਸ ਦਾ ਨਕਸ਼ਾ
+170,en,pa,,,coronavirus medicine,ਕੋਰੋਨਾਵਾਇਰਸ ਦੀ ਦਵਾਈ
+171,en,pa,,,coronavirus medicines,ਕੋਰੋਨਾਵਾਇਰਸ ਦੀਆਂ ਦਵਾਈਆਂ
+172,en,pa,,,coronavirus news,ਕੋਰੋਨਾਵਾਇਰਸ ਸੰਬੰਧੀ ਖਬਰਾਂ
+173,en,pa,,,coronavirus outbreak,ਕੋਰੋਨਾਵਾਇਰਸ ਦਾ ਪ੍ਰਕੋਪ
+174,en,pa,,,coronavirus pandemic,ਕੋਰੋਨਾਵਾਇਰਸ ਸਰਬਵਿਆਪੀ ਮਹਾਂਮਾਰੀ
+176,en,pa,,,coronavirus pneumonia,ਕੋਰੋਨਾਵਾਇਰਸ ਨਿਮੋਨੀਆ
+177,en,pa,,,coronavirus precautions,ਕੋਰੋਨਾਵਾਇਰਸ ਸੰਬੰਧੀ ਸਾਵਧਾਨੀਆਂ
+178,en,pa,,,coronavirus prevention,ਕੋਰੋਨਾਵਾਇਰਸ ਸੰਬੰਧੀ ਰੋਕਥਾਮ
+179,en,pa,,,coronavirus protection,ਕੋਰੋਨਾਵਾਇਰਸ ਸੰਬੰਧੀ ਸੁਰੱਖਿਆ
+180,en,pa,,,coronavirus quarantine,ਕੋਰੋਨਾਵਾਇਰਸ ਅਲਹਿਦਗੀ
+182,en,pa,,,coronavirus SOS Alert,ਕੋਰੋਨਾਵਾਇਰਸ ਐਸ.ਓ.ਐਸ ਸੁਚੇਤਨਾ
+183,en,pa,,,coronavirus spread,ਕੋਰੋਨਾਵਾਇਰਸ ਦਾ ਫੈਲਾਅ
+184,en,pa,,,coronavirus symptoms,ਕੋਰੋਨਾਵਾਇਰਸ ਦੇ ਲੱਛਣ
+185,en,pa,,,coronavirus transmission,ਕੋਰੋਨਾਵਾਇਰਸ ਦਾ ਸੰਚਾਰ
+186,en,pa,,,coronavirus travel ban,ਕੋਰੋਨਾਵਾਇਰਸ ਕਰਕੇ ਯਾਤਰਾ ਦੀ ਮਨਾਹੀ
+187,en,pa,,,coronavirus travel restrictions,ਕੋਰੋਨਾਵਾਇਰਸ ਕਰਕੇ ਯਾਤਰਾ 'ਤੇ ਪਾਬੰਦੀਆਂ
+188,en,pa,,,coronavirus treatment,ਕੋਰੋਨਾਵਾਇਰਸ ਦਾ ਇਲਾਜ
+190,en,pa,,,coronavirus update,ਕੋਰੋਨਾਵਾਇਰਸ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ
+191,en,pa,,,coronavirus vaccine,ਕੋਰੋਨਾਵਾਇਰਸ ਦਾ ਟੀਕਾ
+192,en,pa,,,coronavirus vaccines,ਕੋਰੋਨਾਵਾਇਰਸ ਦੇ ਟੀਕੇ
+198,en,pa,,,covid cases,ਕੋਵਿਡ ਦੇ ਮਾਮਲੇ
+205,en,pa,,,covid early symptoms,ਕੋਵਿਡ ਦੇ ਮੁੱਢਲੇ ਲੱਛਣ
+213,en,pa,,,covid incubation period,ਕੋਵਿਡ ਦੇ ਪਣਪਣ ਦਾ ਸਮਾਂ
+215,en,pa,,,covid international spread,ਕੋਵਿਡ ਦਾ ਅੰਤਰਰਾਸ਼ਟਰੀ ਪੱਧਰ 'ਤੇ ਫੈਲਾਅ
+216,en,pa,,,covid international travel,ਕੋਵਿਡ ਅੰਤਰਰਾਸ਼ਟਰੀ ਯਾਤਰਾ
+217,en,pa,,,covid isolation,ਕੋਵਿਡ ਇਕਾਂਤਵਾਸ
+219,en,pa,,,covid map,ਕੋਵਿਡ ਦਾ ਨਕਸ਼ਾ
+220,en,pa,,,covid medicine,ਕੋਵਿਡ ਦੀ ਦਵਾਈ
+221,en,pa,,,covid medicines,ਕੋਵਿਡ ਦੀਆਂ ਦਵਾਈਆਂ
+222,en,pa,,,covid news,ਕੋਵਿਡ ਸੰਬੰਧੀ ਖਬਰਾਂ
+223,en,pa,,,covid outbreak,ਕੋਵਿਡ ਦਾ ਪ੍ਰਕੋਪ
+224,en,pa,,,covid pandemic,ਕੋਵਿਡ ਸਰਬਵਿਆਪੀ ਮਹਾਂਮਾਰੀ
+225,en,pa,,,covid panic,ਕੋਵਿਡ ਸੰਬੰਧੀ ਘਬਰਾਹਟ
+228,en,pa,,,covid SOS Alert,ਕੋਵਿਡ ਐਸ.ਓ.ਐਸ ਸੁਚੇਤਨਾ
+230,en,pa,,,covid symptoms,ਕੋਵਿਡ ਦੇ ਲੱਛਣ
+231,en,pa,,,covid transmission,ਕੋਵਿਡ ਦਾ ਸੰਚਾਰ
+232,en,pa,,,covid travel ban,ਕੋਵਿਡ ਕਰਕੇ ਯਾਤਰਾ ਦੀ ਮਨਾਹੀ
+233,en,pa,,,covid travel restrictions,ਕੋਵਿਡ ਕਰਕੇ ਯਾਤਰਾ 'ਤੇ ਪਾਬੰਦੀਆਂ
+234,en,pa,,,covid treatment,ਕੋਵਿਡ ਦਾ ਇਲਾਜ
+236,en,pa,,,covid vaccine,ਕੋਵਿਡ ਦਾ ਟੀਕਾ
+237,en,pa,,,covid vaccines,ਕੋਵਿਡ ਦੇ ਟੀਕੇ
+242,en,pa,,,covid-19,ਕੋਵਿਡ-19
+243,en,pa,,,covid-19 alert,ਕੋਵਿਡ-19 ਸੰਬੰਧੀ ਸੁਚੇਤਨਾ
+244,en,pa,,,covid-19 cases,ਕੋਵਿਡ-19 ਦੇ ਮਾਮਲੇ
+245,en,pa,,,covid-19 CDC,ਕੋਵਿਡ-19 CDC
+246,en,pa,,,covid-19 contagious,ਕੋਵਿਡ-19 ਛੂਤਕਾਰੀ
+247,en,pa,,,covid-19 cure,ਕੋਵਿਡ-19 ਦਾ ਇਲਾਜ
+248,en,pa,,,covid-19 dangerous,ਕੋਵਿਡ-19 ਖਤਰਨਾਕ ਹੈ
+249,en,pa,,,covid-19 deadly,ਕੋਵਿਡ-19 ਮਾਰੂ ਹੈ
+250,en,pa,,,covid-19 death,ਕੋਵਿਡ-19 ਨਾਲ ਮੌਤ
+251,en,pa,,,covid-19 deaths,ਕੋਵਿਡ ਨਾਲ ਮੌਤਾਂ
+252,en,pa,,,covid-19 domestic travel,ਕੋਵਿਡ-19 ਘਰੇਲੂ ਯਾਤਰਾ
+253,en,pa,,,covid-19 early symptoms,ਕੋਵਿਡ-19 ਦੇ ਮੁੱਢਲੇ ਲੱਛਣ
+254,en,pa,,,covid-19 effects,ਕੋਵਿਡ-19 ਦੇ ਪ੍ਰਭਾਵ
+255,en,pa,,,covid-19 epidemic,ਕੋਵਿਡ-19 ਮਹਾਂਮਾਰੀ
+256,en,pa,,,covid-19 exposure,ਕੋਵਿਡ-19 ਸੰਪਰਕ
+257,en,pa,,,covid-19 fatal,ਕੋਵਿਡ-19 ਘਾਤਕਾਰੀ ਹੈ
+258,en,pa,,,covid-19 fever,ਕੋਵਿਡ-19 ਬੁਖਾਰ
+259,en,pa,,,covid-19 illness,ਕੋਵਿਡ-19 ਬਿਮਾਰੀ
+260,en,pa,,,covid-19 incubation,ਕੋਵਿਡ-19 ਪਣਪਣਾ
+261,en,pa,,,covid-19 incubation period,ਕੋਵਿਡ-19 ਦੇ ਪਣਪਣ ਦਾ ਸਮਾਂ
+262,en,pa,,,covid-19 infection,ਕੋਵਿਡ-19 ਸੰਕਰਮਣ
+263,en,pa,,,covid-19 international spread,ਕੋਵਿਡ-19 ਦਾ ਅੰਤਰਰਾਸ਼ਟਰੀ ਪੱਧਰ 'ਤੇ ਫੈਲਾਅ
+264,en,pa,,,covid-19 international travel,ਕੋਵਿਡ-19 ਅੰਤਰਰਾਸ਼ਟਰੀ ਯਾਤਰਾ
+265,en,pa,,,covid-19 isolation,ਕੋਵਿਡ-19 ਇਕਾਂਤਵਾਸ
+266,en,pa,,,covid-19 lockdown,ਕੋਵਿਡ-19 ਤਾਲਾਬੰਦੀ
+267,en,pa,,,covid-19 map,ਕੋਵਿਡ-19 ਦਾ ਨਕਸ਼ਾ
+268,en,pa,,,covid-19 medicine,ਕੋਵਿਡ-19 ਦੀ ਦਵਾਈ
+269,en,pa,,,covid-19 medicines,ਕੋਵਿਡ-19 ਦੀਆਂ ਦਵਾਈਆਂ
+270,en,pa,,,covid-19 news,ਕੋਵਿਡ-19 ਸੰਬੰਧੀ ਖਬਰਾਂ
+271,en,pa,,,covid-19 outbreak,ਕੋਵਿਡ-19 ਦਾ ਪ੍ਰਕੋਪ
+272,en,pa,,,covid-19 pandemic,ਕੋਵਿਡ-19 ਸਰਬਵਿਆਪੀ ਮਹਾਂਮਾਰੀ
+273,en,pa,,,covid-19 panic,ਕੋਵਿਡ-19 ਸੰਬੰਧੀ ਘਬਰਾਹਟ
+275,en,pa,,,covid-19 precautions,ਕੋਵਿਡ-19 ਸੰਬੰਧੀ ਸਾਵਧਾਨੀਆਂ
+276,en,pa,,,covid-19 protection,ਕੋਵਿਡ-19 ਸੰਬੰਧੀ ਸੁਰੱਖਿਆ
+277,en,pa,,,covid-19 quarantine,ਕੋਵਿਡ-19 ਅਲਹਿਦਗੀ
+278,en,pa,,,covid-19 SOS Alert,ਕੋਵਿਡ-19 ਐਸ.ਓ.ਐਸ ਸੁਚੇਤਨਾ
+279,en,pa,,,covid-19 spread,ਕੋਵਿਡ-19 ਦਾ ਫੈਲਾਅ
+280,en,pa,,,covid-19 symptoms,ਕੋਵਿਡ-19 ਦੇ ਲੱਛਣ
+281,en,pa,,,covid-19 transmission,ਕੋਵਿਡ-19 ਦਾ ਸੰਚਾਰ
+282,en,pa,,,covid-19 travel ban,ਕੋਵਿਡ-19 ਕਰਕੇ ਯਾਤਰਾ ਦੀ ਮਨਾਹੀ
+283,en,pa,,,covid-19 travel restrictions,ਕੋਵਿਡ-19 ਕਰਕੇ ਯਾਤਰਾ 'ਤੇ ਪਾਬੰਦੀਆਂ
+284,en,pa,,,covid-19 treatment,ਕੋਵਿਡ-19 ਦਾ ਇਲਾਜ
+285,en,pa,,,covid-19 uncontrolled spread,ਕੋਵਿਡ-19 ਦਾ ਬੇਕਾਬੂ ਫੈਲਾਅ
+286,en,pa,,,covid-19 vaccine,ਕੋਵਿਡ-19 ਦਾ ਟੀਕਾ
+287,en,pa,,,covid-19 vaccines,ਕੋਵਿਡ-19 ਦੇ ਟੀਕੇ
+288,en,pa,,,COVID-19 virus,ਕੋਵਿਡ-19 ਵਾਇਰਸ
+289,en,pa,,,covid-19 virus outbreak,ਕੋਵਿਡ-19 ਵਾਇਰਸ ਦਾ ਪ੍ਰਕੋਪ
+290,en,pa,,,covid-19 virus transmission,ਕੋਵਿਡ-19 ਵਾਇਰਸ ਦਾ ਸੰਚਾਰ
+291,en,pa,,,covid-19 WHO,ਕੋਵਿਡ-19 WHO
+292,en,pa,,,covid19,ਕੋਵਿਡ19
+293,en,pa,,,covid19 alert,ਕੋਵਿਡ19 ਸੰਬੰਧੀ ਸੁਚੇਤਨਾ
+294,en,pa,,,covid19 cases,ਕੋਵਿਡ19 ਦੇ ਮਾਮਲੇ
+295,en,pa,,,covid19 CDC,ਕੋਵਿਡ19 CDC
+301,en,pa,,,covid19 deaths,ਕੋਵਿਡ19 ਨਾਲ ਮੌਤਾਂ
+302,en,pa,,,covid19 domestic travel,ਕੋਵਿਡ19 ਘਰੇਲੂ ਯਾਤਰਾ
+303,en,pa,,,covid19 effects,ਕੋਵਿਡ19 ਦੇ ਪ੍ਰਭਾਵ
+304,en,pa,,,covid19 epidemic,ਕੋਵਿਡ19 ਮਹਾਂਮਾਰੀ
+305,en,pa,,,covid19 exposure,ਕੋਵਿਡ19 ਸੰਪਰਕ
+306,en,pa,,,covid19 fatal,ਕੋਵਿਡ19 ਘਾਤਕਾਰੀ ਹੈ
+307,en,pa,,,covid19 fever,ਕੋਵਿਡ19 ਬੁਖਾਰ
+308,en,pa,,,covid19 illness,ਕੋਵਿਡ19 ਬਿਮਾਰੀ
+309,en,pa,,,covid19 incubation,ਕੋਵਿਡ19 ਪਣਪਣਾ
+310,en,pa,,,covid19 incubation period,ਕੋਵਿਡ19 ਦੇ ਪਣਪਣ ਦਾ ਸਮਾਂ
+311,en,pa,,,covid19 infection,ਕੋਵਿਡ19 ਸੰਕਰਮਣ
+312,en,pa,,,covid19 international spread,ਕੋਵਿਡ19 ਦਾ ਅੰਤਰਰਾਸ਼ਟਰੀ ਪੱਧਰ 'ਤੇ ਫੈਲਾਅ
+313,en,pa,,,covid19 international travel,ਕੋਵਿਡ19 ਅੰਤਰਰਾਸ਼ਟਰੀ ਯਾਤਰਾ
+314,en,pa,,,covid19 isolation,ਕੋਵਿਡ19 ਇਕਾਂਤਵਾਸ
+315,en,pa,,,covid19 lockdown,ਕੋਵਿਡ19 ਤਾਲਾਬੰਦੀ
+316,en,pa,,,covid19 map,ਕੋਵਿਡ19 ਦਾ ਨਕਸ਼ਾ
+317,en,pa,,,covid19 medicine,ਕੋਵਿਡ19 ਦੀ ਦਵਾਈ
+318,en,pa,,,covid19 medicines,ਕੋਵਿਡ19 ਦੀਆਂ ਦਵਾਈਆਂ
+319,en,pa,,,covid19 news,ਕੋਵਿਡ19 ਸੰਬੰਧੀ ਖਬਰਾਂ
+320,en,pa,,,covid19 outbreak,ਕੋਵਿਡ19 ਦਾ ਪ੍ਰਕੋਪ
+321,en,pa,,,covid19 pandemic,ਕੋਵਿਡ19 ਸਰਬਵਿਆਪੀ ਮਹਾਂਮਾਰੀ
+324,en,pa,,,covid19 precautions,ਕੋਵਿਡ19 ਸੰਬੰਧੀ ਸਾਵਧਾਨੀਆਂ
+325,en,pa,,,covid19 protection,ਕੋਵਿਡ19 ਸੰਬੰਧੀ ਸੁਰੱਖਿਆ
+326,en,pa,,,covid19 quarantine,ਕੋਵਿਡ19 ਅਲਹਿਦਗੀ
+327,en,pa,,,covid19 SOS Alert,ਕੋਵਿਡ19 ਐਸ.ਓ.ਐਸ ਸੁਚੇਤਨਾ
+328,en,pa,,,covid19 spread,ਕੋਵਿਡ19 ਫੈਲਾਅ
+329,en,pa,,,covid19 symptoms,ਕੋਵਿਡ19 ਦੇ ਲੱਛਣ
+330,en,pa,,,covid19 transmission,ਕੋਵਿਡ19 ਦਾ ਸੰਚਾਰ
+331,en,pa,,,covid19 travel ban,ਕੋਵਿਡ19 ਕਰਕੇ ਯਾਤਰਾ ਦੀ ਮਨਾਹੀ
+332,en,pa,,,covid19 travel restrictions,ਕੋਵਿਡ19 ਕਰਕੇ ਯਾਤਰਾ 'ਤੇ ਪਾਬੰਦੀਆਂ
+333,en,pa,,,covid19 treatment,ਕੋਵਿਡ19 ਇਲਾਜ
+335,en,pa,,,covid19 vaccine,ਕੋਵਿਡ19 ਦਾ ਟੀਕਾ
+336,en,pa,,,covid19 vaccines,ਕੋਵਿਡ19 ਦੇ ਟੀਕੇ
+337,en,pa,,,covid19 virus,ਕੋਵਿਡ19 ਵਾਇਰਸ
+338,en,pa,,,covid19 virus outbreak,ਕੋਵਿਡ19 ਵਾਇਰਸ ਦਾ ਪ੍ਰਕੋਪ
+339,en,pa,,,covid19 virus transmission,ਕੋਵਿਡ19 ਵਾਇਰਸ ਦਾ ਸੰਚਾਰ
+342,en,pa,,,current outbreak,ਮੌਜੂਦਾ ਪ੍ਰਕੋਪ
+343,en,pa,,,deadly outbreak,ਮਾਰੂ ਪ੍ਰਕੋਪ
+345,en,pa,,,disease outbreak,ਬਿਮਾਰੀ ਦਾ ਪ੍ਰਕੋਪ
+346,en,pa,,,Disposable hand sanitizer,ਇਕਹਿਰੀ ਵਰਤੋਂ ਵਾਲਾ ਹੈਂਡ ਸੈਨੀਟਾਈਜ਼ਰ
+348,en,pa,,,domestic travel,ਘਰੇਲੂ ਯਾਤਰਾ
+351,en,pa,,,droplets,ਛਿੱਟੇ
+357,en,pa,,,Effects of coronavirus,ਕੋਰੋਨਾਵਾਇਰਸ ਦੇ ਪ੍ਰਭਾਵ
+359,en,pa,,,epidemic,ਮਹਾਂਮਾਰੀ
+360,en,pa,,,epidemic and pandemic,ਮਹਾਂਮਾਰੀ ਅਤੇ ਸਰਬਵਿਆਪੀ ਮਹਾਂਮਾਰੀ
+362,en,pa,,,epidemic disease,ਮਹਾਂਮਾਰੀ ਵਾਲੀ ਬਿਮਾਰੀ
+364,en,pa,,,epidemic outbreak,ਮਹਾਂਮਾਰੀ ਦਾ ਪ੍ਰਕੋਪ
+365,en,pa,,,epidemic period,ਮਹਾਂਮਾਰੀ ਦਾ ਸਮਾਂ
+366,en,pa,,,epidemic prevention,ਮਹਾਂਮਾਰੀ ਦੀ ਰੋਕਥਾਮ
+368,en,pa,,,epidemic season,ਮਹਾਂਮਾਰੀ ਦਾ ਸਮਾਂ
+369,en,pa,,,epidemic situation,ਮਹਾਂਮਾਰੀ ਦੀ ਸਥਿਤੀ
+371,en,pa,,,exposure,ਸੰਪਰਕ
+375,en,pa,,,exposure time,ਸੰਪਰਕ ਦਾ ਸਮਾਂ
+379,en,pa,,,fever,ਬੁਖ਼ਾਰ
+380,en,pa,,,fight the virus,ਵਾਇਰਸ ਨਾਲ ਮੁਕਾਬਲਾ ਕਰੋ
+381,en,pa,,,Fighting the outbreak,ਪ੍ਰਕੋਪ ਦਾ ਮੁਕਾਬਲਾ ਕਰਨਾ
+382,en,pa,,,flu epidemic,ਫਲੂ ਮਹਾਂਮਾਰੀ
+385,en,pa,,,fomites,ਛੂਤਕਾਰੀ ਵਸਤਾਂ
+392,en,pa,,,global health emergency,ਵਿਸ਼ਵ-ਪੱਧਰੀ ਸਿਹਤ ਸੰਬੰਧੀ ਸੰਕਟਕਾਲ
+393,en,pa,,,global outbreak,ਵਿਸ਼ਵ-ਵਿਆਪੀ ਪ੍ਰਕੋਪ
+394,en,pa,,,global pandemic,ਵਿਸ਼ਵ-ਵਿਆਪੀ ਮਹਾਂਮਾਰੀ
+396,en,pa,,,hand sanitizer,ਹੱਥਾਂ ਦਾ ਸੈਨੀਟਾਈਜ਼ਰ
+397,en,pa,,,hand sanitizer dispenser,ਹੈਂਡ ਸੈਨੀਟਾਈਜ਼ਰ ਡਿਸਪੈਂਸਰ
+398,en,pa,,,hand sanitizer gel,ਹੈਂਡ ਸੈਨੀਟਾਈਜ਼ਰ ਜੈੱਲ
+399,en,pa,,,hand sanitizer spray,ਹੈਂਡ ਸੈਨੀਟਾਈਜ਼ਰ ਦਾ ਛਿੜਕਾਅ
+403,en,pa,,,home isolation,ਘਰੇਲੂ ਇਕਾਂਤਵਾਸ
+404,en,pa,,,home quarantine,ਘਰੇਲੂ ਅਲਹਿਦਗੀ
+410,en,pa,,,illness,ਬਿਮਾਰੀ
+415,en,pa,,,incubation period,ਪਣਪਣ ਦਾ ਸਮਾਂ
+418,en,pa,,,infected,ਸੰਕਰਮਿਤ
+424,en,pa,,,instant hand sanitizer,ਇੰਸਟੈਂਟ ਹੈਂਡ ਸੈਨੀਟਾਈਜ਼ਰ
+425,en,pa,,,international spread,ਅੰਤਰਰਾਸ਼ਟਰੀ ਫੈਲਾਅ
+426,en,pa,,,international travel,ਅੰਤਰਰਾਸ਼ਟਰੀ ਯਾਤਰਾ
+427,en,pa,,,isolation,ਇਕਾਂਤਵਾਸ
+428,en,pa,,,isolation period,ਇਕਾਂਤਵਾਸ ਦਾ ਸਮਾਂ
+430,en,pa,,,isolation room,ਇਕਾਂਤਵਾਸ ਦਾ ਕਮਰਾ
+431,en,pa,,,isolation valve,ਇਕਾਂਤਵਾਸ ਵਾਲਵ
+432,en,pa,,,isolation ward,ਇਕਾਂਤਵਾਸ ਨਿਗਰਾਨੀ
+434,en,pa,,,lockdown,ਤਾਲਾਬੰਦੀ
+438,en,pa,,,major outbreak,ਭਾਰੀ ਪ੍ਰਕੋਪ
+439,en,pa,,,mandatory quarantine,ਲਾਜ਼ਮੀ ਅਲਹਿਦਗੀ
+440,en,pa,,,mass gathering,ਬਹੁ-ਗਿਣਤੀ ਇਕੱਠ
+444,en,pa,,,medicine,ਦਵਾਈ
+445,en,pa,,,medicines,ਦਵਾਈਆਂ
+448,en,pa,,,n95,n95
+449,en,pa,,,n95 mask,n95 ਮਾਸਕ
+450,en,pa,,,n95 respirator,n95 ਸਾਹ-ਯੰਤਰ
+451,en,pa,,,ncov,ncov
+452,en,pa,,,ncov-2019,ncov-2019
+453,en,pa,,,new coronavirus,ਨਵਾਂ ਕੋਰੋਨਾਵਾਇਰਸ
+454,en,pa,,,new coronavirus pneumonia,ਨਵਾਂ ਕੋਰੋਨਾਵਾਇਰਸ ਨਿਮੋਨੀਆ
+460,en,pa,,,novel coronavirus,ਨੋਵਲ ਕੋਰੋਨਾਵਾਇਰਸ
+462,en,pa,,,novel coronavirus infection,ਨੋਵਲ ਕੋਰੋਨਾਵਾਇਰਸ ਸੰਕਰਮਣ
+463,en,pa,,,novel coronavirus outbreak,ਨੋਵਲ ਕੋਰੋਨਾਵਾਇਰਸ ਦਾ ਪ੍ਰਕੋਪ
+464,en,pa,,,novel coronavirus pneumonia,ਨੋਵਲ ਕੋਰੋਨਾਵਾਇਰਸ ਨਿਮੋਨੀਆ
+470,en,pa,,,ongoing outbreak,ਜਾਰੀ ਪ੍ਰਕੋਪ
+472,en,pa,,,outbreak,ਪ੍ਰਕੋਪ
+474,en,pa,,,outbreak of coronavirus,ਕੋਰੋਨਾਵਾਇਰਸ ਦਾ ਪ੍ਰਕੋਪ
+475,en,pa,,,outbreak of disease,ਬਿਮਾਰੀ ਦਾ ਪ੍ਰਕੋਪ
+482,en,pa,,,pandemic,ਸਰਬਵਿਆਪੀ ਮਹਾਂਮਾਰੀ
+485,en,pa,,,pandemic influenza,ਸਰਬਵਿਆਪੀ ਇਨਫਲੂਐਨਜ਼ਾ
+486,en,pa,,,pandemic outbreak,ਸਰਬਵਿਆਪੀ ਮਹਾਂਮਾਰੀ ਦਾ ਪ੍ਰਕੋਪ
+487,en,pa,,,pandemic plan,ਸਰਬਵਿਆਪੀ ਮਹਾਂਮਾਰੀ ਸੰਬੰਧੀ ਯੋਜਨਾ
+488,en,pa,,,pandemic potential,ਸਰਬਵਿਆਪੀ ਮਹਾਂਮਾਰੀ ਦੇ ਪ੍ਰਭਾਵ
+495,en,pa,,,pneumonia,ਨਿਮੋਨੀਆ
+496,en,pa,,,pneumonia epidemic,ਨਿਮੋਨੀਆ ਮਹਾਂਮਾਰੀ
+497,en,pa,,,potential exposure,ਸੰਭਾਵੀ ਸੰਪਰਕ
+498,en,pa,,,precautions,ਸਾਵਧਾਨੀਆਂ
+499,en,pa,,,prevent virus,ਵਾਇਰਸ ਨੂੰ ਰੋਕਣ ਲਈ
+500,en,pa,,,prolonged exposure,ਲੰਬੇ ਸਮੇਂ ਦਾ ਸੰਪਰਕ
+504,en,pa,,,quarantine,ਅਲਹਿਦਗੀ
+505,en,pa,,,quarantine area,ਅਲਹਿਦਗੀ ਦਾ ਖੇਤਰ
+506,en,pa,,,quarantine facility,ਅਲਹਿਦਗੀ ਸੰਬੰਧੀ ਸਹੂਲਤ
+507,en,pa,,,quarantine measures,ਅਲਹਿਦਗੀ ਸੰਬੰਧੀ ਉਪਾਅ
+508,en,pa,,,quarantine period,ਅਲਹਿਦਗੀ ਦਾ ਸਮਾਂ
+509,en,pa,,,quarantine room,ਅਲਹਿਦਗੀ ਦਾ ਕਮਰਾ
+510,en,pa,,,quarantine zone,ਅਲਹਿਦਗੀ ਜ਼ੋਨ
+512,en,pa,,,Recovered coronavirus patient,ਕੋਰੋਨਾਵਾਇਰਸ ਤੋਂ ਠੀਕ ਹੋਇਆ ਮਰੀਜ਼
+514,en,pa,,,repatriate,ਮੈਂ ਦੇਸ਼ ਵਾਪਸ ਆਇਆ
+515,en,pa,,,repeated exposure,ਵਾਰ-ਵਾਰ ਦਾ ਸੰਪਰਕ
+516,en,pa,,,respiratory syncytial virus,ਰੈਸਪੀਰੇਟਰੀ ਸਿਨਸੀਸ਼ਿਅਲ ਵਾਇਰਸ
+517,en,pa,,,respiratory virus,ਸਾਹ ਸੰਬੰਧੀ ਵਾਇਰਸ
+519,en,pa,,,Sanitizing hand sanitizer,ਹੈਂਡ ਸੈਨੀਟਾਈਜ਼ਰ ਨੂੰ ਸਾਫ਼ ਕਰਨਾ
+520,en,pa,,,SARS-CoV-2,SARS-CoV-2
+521,en,pa,,,self isolation,ਸਵੈ-ਇਕਾਂਤਵਾਸ
+522,en,pa,,,self quarantine,ਸਵੈ-ਅਲਹਿਦਗੀ
+523,en,pa,,,Severe outbreak,ਭਾਰੀ ਪ੍ਰਕੋਪ
+525,en,pa,,,social distancing,ਸਮਾਜਿਕ ਦੂਰੀ
+526,en,pa,,,social distancing measures,ਸਮਾਜਿਕ ਦੂਰੀ ਸੰਬੰਧੀ ਉਪਾਅ
+527,en,pa,,,social isolation,ਸਮਾਜਿਕ ਇਕਾਂਤਵਾਸ
+528,en,pa,,,SOS Alert,ਐਸ.ਓ.ਐਸ ਸੁਚੇਤਨਾ
+529,en,pa,,,spread,ਫੈਲਣਾ
+530,en,pa,,,spread of coronavirus,ਕੋਰੋਨਾਵਾਇਰਸ ਫੈਲਾਉਂਦਾ ਹੈ
+531,en,pa,,,spread of virus,ਵਾਇਰਸ ਦਾ ਫੈਲਾਅ
+535,en,pa,,,strain of virus,ਵਾਇਰਸ ਦਾ ਜ਼ੋਰ
+541,en,pa,,,the incubation period,ਪਣਪਣ ਦਾ ਸਮਾਂ
+544,en,pa,,,the novel coronavirus,ਨੋਵਲ ਕੋਰੋਨਾਵਾਇਰਸ
+558,en,pa,,,touching face,ਚਿਹਰੇ ਨੂੰ ਛੂਹਣਾ
+559,en,pa,,,travel advisory,ਯਾਤਰਾ ਸੰਬੰਧੀ ਸਲਾਹ
+560,en,pa,,,travel ban,ਯਾਤਰਾ ਦੀ ਮਨਾਹੀ
+561,en,pa,,,travel restrictions,ਯਾਤਰਾ ਸੰਬੰਧੀ ਪਾਬੰਦੀਆਂ
+565,en,pa,,,use hand sanitizer,ਹੈਂਡ ਸੈਨੀਟਾਈਜ਼ਰ ਵਰਤੋ
+566,en,pa,,,vaccines,ਟੀਕੇ
+567,en,pa,,,viral outbreak,ਵਿਆਪਕ ਪ੍ਰਕੋਪ
+568,en,pa,,,virtual lockdown,ਆਭਾਸੀ ਤਾਲਾਬੰਦੀ
+569,en,pa,,,virus,ਵਾਇਰਸ
+570,en,pa,,,virus carrier,ਵਾਇਰਸ ਫੈਲਾਉਣ ਵਾਲਾ
+573,en,pa,,,virus infection,ਵਾਇਰਸ ਸੰਕਰਮਿਤ
+575,en,pa,,,virus mask,ਵਾਇਰਸ ਮਾਸਕ
+576,en,pa,,,virus outbreak,ਵਾਇਰਸ ਦਾ ਪ੍ਰਕੋਪ
+577,en,pa,,,virus prevention,ਵਾਇਰਸ ਸੰਬੰਧੀ ਰੋਕਥਾਮ
+578,en,pa,,,virus protection,ਵਾਇਰਸ ਸੰਬੰਧੀ ਸੁਰੱਖਿਆ
+580,en,pa,,,virus spread,ਵਾਇਰਸ ਦਾ ਫੈਲਾਅ
+582,en,pa,,,virus spreads,ਵਾਇਰਸ ਫੈਲਦਾ ਹੈ
+583,en,pa,,,virus strain,ਵਾਇਰਸ ਦਾ ਜ਼ੋਰ
+584,en,pa,,,virus transmission,ਵਾਇਰਸ ਦਾ ਸੰਚਾਰ
+586,en,pa,,,wash your hands,ਆਪਣੇ ਹੱਥ ਧੋਵੋ
+587,en,pa,,,washing hands,ਹੱਥਾਂ ਨੂੰ ਧੋਣਾ
+589,en,pa,,,WHO,WHO
+590,en,pa,,,WHO Confirmed,WHO ਵੱਲੋਂ ਤਸਦੀਕਸ਼ੁਦਾ
+591,en,pa,,,WHO Deaths,WHO ਵੱਲੋਂ ਤਸਦੀਕ ਮੌਤਾਂ
+592,en,pa,,,widespread outbreak,ਵਿਸਤ੍ਰਿਤ ਪ੍ਰਕੋਪ
+597,en,pa,,,World Health Organization,ਵਿਸ਼ਵ ਸਿਹਤ ਸੰਸਥਾ
+600,en,pa,,,zoonotic disease,ਜਾਨਵਰਾਂ ਤੋਂ ਫੈਲਣ ਵਾਲੀ ਬਿਮਾਰੀ
+601,en,pa,,,zoonotic virus,ਜਾਨਵਰਾਂ ਤੋਂ ਫੈਲਣ ਵਾਲਾ ਵਾਇਰਸ

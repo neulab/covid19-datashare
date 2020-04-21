@@ -1,0 +1,51 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+xx_101,cs,en,,,epidemiologická situace,epidemiological situation
+xx_102,cs,en,,,akutní respirační syndrom,acute respiratory syndrome
+xx_103,cs,en,,,izolace,isolation
+xx_104,cs,en,,,specifická léčba,specific treatment
+xx_105,cs,en,,,algoritmus testování,algorithm for testing
+xx_106,cs,en,,,imunochromatografická reakce,immunochromatographic reaction
+xx_107,cs,en,,,remdesivir,remdesivir
+xx_108,cs,en,,,extrakorporální membránová oxygenace (ECMO),extracorporeal membrane oxygenation (ECMO)
+xx_109,cs,en,,,nesteroidní protizánětlivé léky,nonsteroidal anti-inflammatory drugs
+xx_110,cs,en,,,neinvazivní ventilační podpora,non-invasive ventilation support
+xx_111,cs,en,,,nouzový stav,state of emergency
+xx_112,cs,en,,,volný pohyb osob,free movement of people
+xx_113,cs,en,,,ochranná rouška,protective mask
+xx_114,cs,en,,,vycestování,travelling abroad
+xx_115,cs,en,,,trasování,tracing
+xx_116,cs,en,,,chytrá karanténa,smart quarantine
+xx_117,cs,en,,,ochrana vnitřních hranic,protection of internal borders
+xx_118,cs,en,,,zákaz školní docházky,prohibition on school attendance
+xx_119,cs,en,,,mimořádná opatření,emergency measures
+xx_120,cs,en,,,pandemický plán,pandemic plan
+xx_121,cs,en,,,promořenost,immunity rate
+xx_122,cs,en,,,míra nakažlivosti,communicability rate
+xx_123,cs,en,,,kurzarbeit,short time
+xx_124,cs,en,,,počet nakažených,the number of infected people
+xx_125,cs,en,,,vrchol pandemie,the peak pandemic period
+xx_126,cs,en,,,živnostenská podpora,the economic aid package for the self-employed
+xx_127,cs,en,,,krizový štáb,task force
+xx_128,cs,en,,,karanténa,quarantine
+xx_129,cs,en,,,kontroly na hranicích,border checks
+xx_130,cs,en,,,počet provedených testů,the number of tests performed
+xx_131,cs,en,,,suchý kašel,dry cough
+xx_132,cs,en,,,dezinfekce,disinfection
+xx_133,cs,en,,,bezpečný pozdrav,safe greetings
+xx_134,cs,en,,,používání ústní roušky,the use of a face mask
+xx_135,cs,en,,,chronicky nemocní,the chronically ill
+xx_136,cs,en,,,doporučení pro domácí karanténu,recommendations for home quarantine
+xx_137,cs,en,,,nošení brýlí,wearing glasses
+xx_138,cs,en,,,psychické potíže,mental health problems
+xx_139,cs,en,,,dekontaminace nákupních vozíků,decontamination of shopping trolleys
+xx_140,cs,en,,,dezinfekce domácnosti,household disinfection
+xx_141,cs,en,,,rizikové země,at-risk countries
+xx_142,cs,en,,,omezení cestování,travel restrictions
+xx_143,cs,en,,,pozastavení provozu letů,suspension of flight operations
+xx_144,cs,en,,,zákaz vycestování,prohibition on travel abroad
+xx_145,cs,en,,,změna zájezdu,change to a package tour
+xx_146,cs,en,,,zahraniční turistika,foreign tourism
+xx_147,cs,en,,,cestování za prací,commuting
+xx_148,cs,en,,,repatriační let,repatriation flight
+xx_149,cs,en,,,dopad na cestovní ruch,impact on the travel industry
+xx_150,cs,en,,,přeshraniční pracovník,cross-border worker

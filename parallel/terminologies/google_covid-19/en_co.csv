@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,co,,,14 days in isolation,14 ghjorni in isulamentu
+26,en,co,,,14 days quarantine,quarantana di 14 ghjorni
+27,en,co,,,2019 coronavirus,2019 coronavirus
+28,en,co,,,2019 novel coronavirus,coronavirus novu 2019
+29,en,co,,,2019-nCoV,2019-nCoV
+30,en,co,,,2020 coronavirus,2020 coronavirus
+31,en,co,,,2020 novel coronavirus,coronavirus novu 2020
+33,en,co,,,about coronavirus,à prupositu di u coronavirus
+39,en,co,,,acute respiratory distress syndrome,sindromi di difficultà respiratorii acuta
+40,en,co,,,advanced hand sanitizer,disinfettanti pà i mani sviluppatu
+41,en,co,,,Affected by coronavirus,Cuntaminatu da u coronavirus
+42,en,co,,,after exposure,dopu à l'espusizioni
+43,en,co,,,After the epidemic,Dopu à l'epidemia
+44,en,co,,,After the outbreak,Dopu à l'epidemia
+47,en,co,,,airborne virus,virus in l'aria
+48,en,co,,,alcohol based hand sanitizer,disinfettanti pà i mani fattu cù alcolu
+49,en,co,,,alcohol hand sanitizer,disinfettanti pà i mani cù alcolu
+51,en,co,,,alcohol-based hand sanitizer,disinfettanti pà i mani fattu cù alcolu
+59,en,co,,,Anti-Corona virus spray,Spray anti-corona virus
+60,en,co,,,antibacterial hand sanitizer,disinfettanti pà i mani antibattericu
+61,en,co,,,ARDS,ARDS
+64,en,co,,,avoid exposure,eviteghju l'espusizioni
+65,en,co,,,be infected,essa cuntaminatu
+75,en,co,,,Beware of coronavirus,Attenti à u coronavirus
+76,en,co,,,bilateral interstitial pneumonia,puntura bilaterali interstiziali
+77,en,co,,,CDC,CDC
+78,en,co,,,Center for Disease Control,Center for Disease Control
+83,en,co,,,community spread,prupagazioni à mezu à a cummunità
+84,en,co,,,compulsory quarantine,quarantana furzata
+85,en,co,,,contagious,cuntagiosu
+135,en,co,,,coronavirus,coronavirus
+136,en,co,,,coronavirus (COVID-19),coronavirus (COVID-19)
+137,en,co,,,coronavirus alert,alerta coronavirus
+139,en,co,,,coronavirus cases,casi di coronavirus
+141,en,co,,,coronavirus concerns,prioccupazioni nantu à u coronavirus
+143,en,co,,,coronavirus crisis,crisa di u coronavirus
+149,en,co,,,coronavirus disease,coronavirus malatia
+150,en,co,,,Coronavirus disease (COVID-19) outbreak,Epidemia di a malatia di u coronavirus (COVID-19)
+153,en,co,,,coronavirus early symptoms,coronavirus primi sintimi
+155,en,co,,,coronavirus epidemic,coronavirus epidemia
+156,en,co,,,coronavirus exposure,coronavirus espusizioni
+161,en,co,,,coronavirus incubation,coronavirus incubazioni
+162,en,co,,,coronavirus incubation period,coronavirus piriodu d'incubazioni
+163,en,co,,,coronavirus infection,coronavirus infezzioni
+168,en,co,,,coronavirus map,coronavirus carta
+170,en,co,,,coronavirus medicine,coronavirus midicina
+171,en,co,,,coronavirus medicines,coronavirus midicini
+172,en,co,,,coronavirus news,coronavirus nutizia
+173,en,co,,,coronavirus outbreak,coronavirus epidemia
+174,en,co,,,coronavirus pandemic,coronavirus pandemia
+176,en,co,,,coronavirus pneumonia,coronavirus puntura
+177,en,co,,,coronavirus precautions,coronavirus precauzioni
+178,en,co,,,coronavirus prevention,coronavirus privenimentu
+179,en,co,,,coronavirus protection,coronavirus prutezzioni
+180,en,co,,,coronavirus quarantine,coronavirus quarantana
+182,en,co,,,coronavirus SOS Alert,Alerta SOS coronavirus
+183,en,co,,,coronavirus spread,coronavirus prupagazioni
+184,en,co,,,coronavirus symptoms,coronavirus sintimi
+185,en,co,,,coronavirus transmission,coronavirus trasmissioni
+186,en,co,,,coronavirus travel ban,coronavirus interdizzioni di viaghjà
+187,en,co,,,coronavirus travel restrictions,coronavirus restrizzioni di i viaghji
+188,en,co,,,coronavirus treatment,coronavirus trattamentu
+190,en,co,,,coronavirus update,coronavirus nutizia
+191,en,co,,,coronavirus vaccine,coronavirus vaccinu
+192,en,co,,,coronavirus vaccines,coronavirus vaccini
+198,en,co,,,covid cases,casi covid
+205,en,co,,,covid early symptoms,covid primi sintimi
+213,en,co,,,covid incubation period,covid piriodu d'incubazioni
+215,en,co,,,covid international spread,covid prupagazioni internaziunali
+216,en,co,,,covid international travel,covid viaghji internaziunali
+217,en,co,,,covid isolation,covid isulamentu
+219,en,co,,,covid map,covid carta
+220,en,co,,,covid medicine,covid midicina
+221,en,co,,,covid medicines,covid midicini
+222,en,co,,,covid news,covid nutizia
+223,en,co,,,covid outbreak,covid epidemia
+224,en,co,,,covid pandemic,covid pandemia
+225,en,co,,,covid panic,covid panicu
+228,en,co,,,covid SOS Alert,Alerta SOS covid
+230,en,co,,,covid symptoms,covid sintimi
+231,en,co,,,covid transmission,covid trasmissioni
+232,en,co,,,covid travel ban,covid interdizzioni di viaghjà
+233,en,co,,,covid travel restrictions,covid restrizzioni di i viaghji
+234,en,co,,,covid treatment,covid trattamentu
+236,en,co,,,covid vaccine,covid vaccinu
+237,en,co,,,covid vaccines,covid vaccini
+242,en,co,,,covid-19,covid-19
+243,en,co,,,covid-19 alert,covid-19 alerta
+244,en,co,,,covid-19 cases,covid-19 casi
+245,en,co,,,covid-19 CDC,covid-19 CDC
+246,en,co,,,covid-19 contagious,covid-19 cuntagiosu
+247,en,co,,,covid-19 cure,covid-19 trattamentu
+248,en,co,,,covid-19 dangerous,covid-19 piriculosu
+249,en,co,,,covid-19 deadly,covid-19 murtali
+250,en,co,,,covid-19 death,covid-19 morti
+251,en,co,,,covid-19 deaths,covid-19 morti
+252,en,co,,,covid-19 domestic travel,covid-19 viaghji interiori
+253,en,co,,,covid-19 early symptoms,covid-19 primi sintimi
+254,en,co,,,covid-19 effects,covid-19 effetti
+255,en,co,,,covid-19 epidemic,covid-19 epidemia
+256,en,co,,,covid-19 exposure,covid-19 espusizioni
+257,en,co,,,covid-19 fatal,covid-19 fatali
+258,en,co,,,covid-19 fever,covid-19 frebba
+259,en,co,,,covid-19 illness,covid-19 malatia
+260,en,co,,,covid-19 incubation,covid-19 incubazioni
+261,en,co,,,covid-19 incubation period,cvodi-19 piriodu d'incubazioni
+262,en,co,,,covid-19 infection,covid-19 infezzioni
+263,en,co,,,covid-19 international spread,covid-19 prupagazioni internaziunali
+264,en,co,,,covid-19 international travel,covid-19 viaghji internaziunali
+265,en,co,,,covid-19 isolation,covid-19 isulamentu
+266,en,co,,,covid-19 lockdown,covid-19 ritiru
+267,en,co,,,covid-19 map,covid-19 carta
+268,en,co,,,covid-19 medicine,covid-19 midicina
+269,en,co,,,covid-19 medicines,covid-19 midicini
+270,en,co,,,covid-19 news,covid-19 nutizia
+271,en,co,,,covid-19 outbreak,covid-19 epidemia
+272,en,co,,,covid-19 pandemic,covid-19 pandemia
+273,en,co,,,covid-19 panic,covid-19 panicu
+275,en,co,,,covid-19 precautions,covid-19 precauzioni
+276,en,co,,,covid-19 protection,covid-19 prutezzioni
+277,en,co,,,covid-19 quarantine,covid-19 quarantana
+278,en,co,,,covid-19 SOS Alert,Alerta SOS covid-19
+279,en,co,,,covid-19 spread,covid-19 prupagazioni
+280,en,co,,,covid-19 symptoms,covid-19 sintimi
+281,en,co,,,covid-19 transmission,covid-19 trasmissioni
+282,en,co,,,covid-19 travel ban,covid-19 interdizzioni di viaghjà
+283,en,co,,,covid-19 travel restrictions,covid-19 restrizzioni di i viaghji
+284,en,co,,,covid-19 treatment,covid-19 trattamentu
+285,en,co,,,covid-19 uncontrolled spread,covid-19 prupagazioni incuntrollata
+286,en,co,,,covid-19 vaccine,covid-19 vaccinu
+287,en,co,,,covid-19 vaccines,covid-19 vaccini
+288,en,co,,,COVID-19 virus,covid-19 virus
+289,en,co,,,covid-19 virus outbreak,covid-19 epidemia di u virus
+290,en,co,,,covid-19 virus transmission,covid-19 trasmissioni di u virus
+291,en,co,,,covid-19 WHO,covid-19 WHO
+292,en,co,,,covid19,covid19
+293,en,co,,,covid19 alert,covid19 alerta
+294,en,co,,,covid19 cases,covid19 casi
+295,en,co,,,covid19 CDC,covid19 CDC
+301,en,co,,,covid19 deaths,covid19 morti
+302,en,co,,,covid19 domestic travel,covid19 viaghji interiori
+303,en,co,,,covid19 effects,covid19 effetti
+304,en,co,,,covid19 epidemic,covid19 epidemia
+305,en,co,,,covid19 exposure,covid19 espusizioni
+306,en,co,,,covid19 fatal,covid19 fatali
+307,en,co,,,covid19 fever,covid19 frebba
+308,en,co,,,covid19 illness,covid19 malatia
+309,en,co,,,covid19 incubation,covid19 incubazioni
+310,en,co,,,covid19 incubation period,covid19 piriodu d'incubazioni
+311,en,co,,,covid19 infection,covid19 infezzioni
+312,en,co,,,covid19 international spread,covid19 prupagazioni internaziunali
+313,en,co,,,covid19 international travel,covid19 viaghji internaziunali
+314,en,co,,,covid19 isolation,covid19 isulamentu
+315,en,co,,,covid19 lockdown,covid19 ritiru
+316,en,co,,,covid19 map,covid19 carta
+317,en,co,,,covid19 medicine,covid19 midicina
+318,en,co,,,covid19 medicines,covid19 midicini
+319,en,co,,,covid19 news,covid19 nutizia
+320,en,co,,,covid19 outbreak,covid19 epidemia
+321,en,co,,,covid19 pandemic,covid19 pandemia
+324,en,co,,,covid19 precautions,covid19 precauzioni
+325,en,co,,,covid19 protection,covid19 prutezzioni
+326,en,co,,,covid19 quarantine,covid19 quarantana
+327,en,co,,,covid19 SOS Alert,Alerta SOS covid19
+328,en,co,,,covid19 spread,covid19 prupagazioni
+329,en,co,,,covid19 symptoms,covid19 sintimi
+330,en,co,,,covid19 transmission,covid19 trasmissioni
+331,en,co,,,covid19 travel ban,covid19 interdizzioni di viaghjà
+332,en,co,,,covid19 travel restrictions,covid19 restrizzioni di i viaghji
+333,en,co,,,covid19 treatment,covid19 trattamentu
+335,en,co,,,covid19 vaccine,covid19 vaccinu
+336,en,co,,,covid19 vaccines,covid10 vaccini
+337,en,co,,,covid19 virus,covid19 virus
+338,en,co,,,covid19 virus outbreak,covid19 epidemia di u virus
+339,en,co,,,covid19 virus transmission,covid19 trasmissioni di u virus
+342,en,co,,,current outbreak,epidemia attuali
+343,en,co,,,deadly outbreak,epidemia murtali
+345,en,co,,,disease outbreak,epidemia di a malatia
+346,en,co,,,Disposable hand sanitizer,disinfettanti pà i mani dispunibuli
+348,en,co,,,domestic travel,viaghju interiori
+351,en,co,,,droplets,gucciuletti
+357,en,co,,,Effects of coronavirus,L'effetti di u coronavirus
+359,en,co,,,epidemic,epidemia
+360,en,co,,,epidemic and pandemic,epidemia è pandemia
+362,en,co,,,epidemic disease,malatia epidemica
+364,en,co,,,epidemic outbreak,epidemia
+365,en,co,,,epidemic period,piriodu epidemicu
+366,en,co,,,epidemic prevention,privenimentu epidemicu
+368,en,co,,,epidemic season,staghjoni epidemica
+369,en,co,,,epidemic situation,situazioni epidemica
+371,en,co,,,exposure,espusizioni
+375,en,co,,,exposure time,piriodu d'espusizioni
+379,en,co,,,fever,frebba
+380,en,co,,,fight the virus,cumbattu u virus
+381,en,co,,,Fighting the outbreak,Cumbattendu l'epidemia
+382,en,co,,,flu epidemic,epidemia d'influenza
+385,en,co,,,fomites,fomiti
+392,en,co,,,global health emergency,urgenza sanitaria mundiali
+393,en,co,,,global outbreak,epidemia mundiali
+394,en,co,,,global pandemic,pandemia mundiali
+396,en,co,,,hand sanitizer,disinfittanti pà i mani
+397,en,co,,,hand sanitizer dispenser,distributori di disinfettanti pà i mani
+398,en,co,,,hand sanitizer gel,ghjelu disinfettanti pà i mani
+399,en,co,,,hand sanitizer spray,spray disinfettanti pà i mani
+403,en,co,,,home isolation,isulamentu in casa
+404,en,co,,,home quarantine,quarantana in casa
+410,en,co,,,illness,malatia
+415,en,co,,,incubation period,piriodu d'incubazioni
+418,en,co,,,infected,cuntaminatu
+424,en,co,,,instant hand sanitizer,disinfettanti pà i mani istantaneu
+425,en,co,,,international spread,prupagazioni internaziunali
+426,en,co,,,international travel,viaghju internaziunali
+427,en,co,,,isolation,isulamentu
+428,en,co,,,isolation period,piriodu d'isulamentu
+430,en,co,,,isolation room,stanza d'isulamentu
+431,en,co,,,isolation valve,valvula d'isulamentu
+432,en,co,,,isolation ward,sirviziu d'isulamentu
+434,en,co,,,lockdown,ritiru
+438,en,co,,,major outbreak,epidemia di primura
+439,en,co,,,mandatory quarantine,quarantana furzata
+440,en,co,,,mass gathering,addunita di massa
+444,en,co,,,medicine,midicina
+445,en,co,,,medicines,midicini
+448,en,co,,,n95,n95
+449,en,co,,,n95 mask,mascara n95
+450,en,co,,,n95 respirator,respiratori n95
+451,en,co,,,ncov,ncov
+452,en,co,,,ncov-2019,ncov-2019
+453,en,co,,,new coronavirus,coronavirus novu
+454,en,co,,,new coronavirus pneumonia,puntura nova coronavirus
+460,en,co,,,novel coronavirus,coronavirus sfarenti
+462,en,co,,,novel coronavirus infection,coronavirus infezzioni nova
+463,en,co,,,novel coronavirus outbreak,epidemia nova di coronavirus
+464,en,co,,,novel coronavirus pneumonia,puntura nova coronavirus
+470,en,co,,,ongoing outbreak,epidemia attuali
+472,en,co,,,outbreak,epidemia
+474,en,co,,,outbreak of coronavirus,epidemia di coronavirus
+475,en,co,,,outbreak of disease,epidemia di malatia
+482,en,co,,,pandemic,pandemia
+485,en,co,,,pandemic influenza,influenza pandemica
+486,en,co,,,pandemic outbreak,epidemia pandemica
+487,en,co,,,pandemic plan,pianu pandemicu
+488,en,co,,,pandemic potential,putinziali pandemicu
+495,en,co,,,pneumonia,puntura
+496,en,co,,,pneumonia epidemic,puntura pandemica
+497,en,co,,,potential exposure,espusizioni putinziali
+498,en,co,,,precautions,precauzioni
+499,en,co,,,prevent virus,privenimentu di u virus
+500,en,co,,,prolonged exposure,espusizioni prulungata
+504,en,co,,,quarantine,quarantana
+505,en,co,,,quarantine area,rughjoni in quarantana
+506,en,co,,,quarantine facility,struttura di quarantana
+507,en,co,,,quarantine measures,misuri di quarantana
+508,en,co,,,quarantine period,piriodu di quarantana
+509,en,co,,,quarantine room,stanza di quarantana
+510,en,co,,,quarantine zone,rughjoni in quarantana
+512,en,co,,,Recovered coronavirus patient,Pazienti guaritu da u coronavirus
+514,en,co,,,repatriate,rimpatrieghju
+515,en,co,,,repeated exposure,espusizioni ripetuta
+516,en,co,,,respiratory syncytial virus,virus rispiratoriu sincitiali
+517,en,co,,,respiratory virus,virus rispiratoriu
+519,en,co,,,Sanitizing hand sanitizer,Disinfettanti pà i mani disinfettanti
+520,en,co,,,SARS-CoV-2,SARS-CoV-2
+521,en,co,,,self isolation,auto isulamentu
+522,en,co,,,self quarantine,metta si in quarantana
+523,en,co,,,Severe outbreak,epidemia gravi
+525,en,co,,,social distancing,distanziazioni suciali
+526,en,co,,,social distancing measures,misuri di distanziazioni suciali
+527,en,co,,,social isolation,isulamentu suciali
+528,en,co,,,SOS Alert,Alerta SOS
+529,en,co,,,spread,prupagazioni
+530,en,co,,,spread of coronavirus,prupagazioni di u coronavirus
+531,en,co,,,spread of virus,prupagazioni di u virus
+535,en,co,,,strain of virus,forma di u virus
+541,en,co,,,the incubation period,u piriodu d'incubazioni
+544,en,co,,,the novel coronavirus,u coronavirus novu
+558,en,co,,,touching face,tuccà a faccia
+559,en,co,,,travel advisory,avisu pà i viaghji
+560,en,co,,,travel ban,interdizzioni di viaghjà
+561,en,co,,,travel restrictions,ristrizzioni di i viaghji
+565,en,co,,,use hand sanitizer,utilizà un disinfettanti pà i mani
+566,en,co,,,vaccines,vaccini
+567,en,co,,,viral outbreak,epidemia virali
+568,en,co,,,virtual lockdown,ritiru virtuali
+569,en,co,,,virus,virus
+570,en,co,,,virus carrier,vettori di u virus
+573,en,co,,,virus infection,infezzioni virali
+575,en,co,,,virus mask,mascara pà u virus
+576,en,co,,,virus outbreak,epidemia di u virus
+577,en,co,,,virus prevention,privenimentu di u virus
+578,en,co,,,virus protection,prutezzioni da u virus
+580,en,co,,,virus spread,prupagazioni di u virus
+582,en,co,,,virus spreads,u virus si prupaga
+583,en,co,,,virus strain,forma di u virus
+584,en,co,,,virus transmission,trasmissioni di u virus
+586,en,co,,,wash your hands,laveti vi i mani
+587,en,co,,,washing hands,lavà si i mani
+589,en,co,,,WHO,WHO
+590,en,co,,,WHO Confirmed,WHO hà cunfirmatu
+591,en,co,,,WHO Deaths,WHO Morti
+592,en,co,,,widespread outbreak,epidemia diffusa
+597,en,co,,,World Health Organization,World Health Organization
+600,en,co,,,zoonotic disease,malatia zoonotica
+601,en,co,,,zoonotic virus,virus zoonoticu

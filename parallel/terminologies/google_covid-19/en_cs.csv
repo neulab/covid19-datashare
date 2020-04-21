@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,cs,,,14 days in isolation,14 dní v izolaci
+26,en,cs,,,14 days quarantine,14denní karanténa
+27,en,cs,,,2019 coronavirus,2019 koronavirus
+28,en,cs,,,2019 novel coronavirus,nový koronavirus 2019
+29,en,cs,,,2019-nCoV,2019-nCoV
+30,en,cs,,,2020 coronavirus,2020 koronavirus
+31,en,cs,,,2020 novel coronavirus,nový koronavirus 2020
+33,en,cs,,,about coronavirus,o koronaviru
+39,en,cs,,,acute respiratory distress syndrome,syndrom akutní dechové tísně
+40,en,cs,,,advanced hand sanitizer,pokročilý dezinfekční prostředek na ruce
+41,en,cs,,,Affected by coronavirus,Postižený koronavirem
+42,en,cs,,,after exposure,po vystavení
+43,en,cs,,,After the epidemic,Po epidemii
+44,en,cs,,,After the outbreak,Po propuknutí nákazy
+47,en,cs,,,airborne virus,virus přenášený vzduchem
+48,en,cs,,,alcohol based hand sanitizer,dezinfekční prostředek na ruce na bázi alkoholu
+49,en,cs,,,alcohol hand sanitizer,alkoholový dezinfekční prostředek na ruce
+51,en,cs,,,alcohol-based hand sanitizer,dezinfekční prostředek na ruce na bázi alkoholu
+59,en,cs,,,Anti-Corona virus spray,Sprej proti koronaviru
+60,en,cs,,,antibacterial hand sanitizer,antibakteriální dezinfekční prostředek na ruce
+61,en,cs,,,ARDS,ARDS
+64,en,cs,,,avoid exposure,vyhýbat se vystavení
+65,en,cs,,,be infected,být infikovaný
+75,en,cs,,,Beware of coronavirus,Pozor na koronavirus
+76,en,cs,,,bilateral interstitial pneumonia,oboustranný intersticiální zápal plic
+77,en,cs,,,CDC,CDC
+78,en,cs,,,Center for Disease Control,Centrum pro kontrolu nemocí
+83,en,cs,,,community spread,komunitní šíření
+84,en,cs,,,compulsory quarantine,povinná karanténa
+85,en,cs,,,contagious,nakažlivý
+135,en,cs,,,coronavirus,koronavirus
+136,en,cs,,,coronavirus (COVID-19),koronavirus (COVID-19)
+137,en,cs,,,coronavirus alert,koronavirová hrozba
+139,en,cs,,,coronavirus cases,případy koronaviru
+141,en,cs,,,coronavirus concerns,obavy z koronaviru
+143,en,cs,,,coronavirus crisis,koronavirová krize
+149,en,cs,,,coronavirus disease,koronavirové onemocnění
+150,en,cs,,,Coronavirus disease (COVID-19) outbreak,Nákaza koronavirem (COVID-19)
+153,en,cs,,,coronavirus early symptoms,prvotní příznaky koronaviru
+155,en,cs,,,coronavirus epidemic,koronavirová epidemie
+156,en,cs,,,coronavirus exposure,vystavení koronaviru
+161,en,cs,,,coronavirus incubation,inkubační doba koronaviru
+162,en,cs,,,coronavirus incubation period,inkubační doba koronaviru
+163,en,cs,,,coronavirus infection,koronavirová infekce
+168,en,cs,,,coronavirus map,mapa koronaviru
+170,en,cs,,,coronavirus medicine,lék na koronavirus
+171,en,cs,,,coronavirus medicines,léky na koronavirus
+172,en,cs,,,coronavirus news,novinky ohledně koronaviru
+173,en,cs,,,coronavirus outbreak,koronavirová nákaza
+174,en,cs,,,coronavirus pandemic,koronavirová pandemie
+176,en,cs,,,coronavirus pneumonia,zápal plic v důsledku koronaviru
+177,en,cs,,,coronavirus precautions,koronavirová opatření
+178,en,cs,,,coronavirus prevention,prevence koronaviru
+179,en,cs,,,coronavirus protection,ochrana proti koronaviru
+180,en,cs,,,coronavirus quarantine,karanténa v důsledku koronaviru
+182,en,cs,,,coronavirus SOS Alert,SOS upozornění na koronavirus
+183,en,cs,,,coronavirus spread,šíření koronaviru
+184,en,cs,,,coronavirus symptoms,příznaky koronaviru
+185,en,cs,,,coronavirus transmission,přenos koronaviru
+186,en,cs,,,coronavirus travel ban,koronavirus zákaz cestování
+187,en,cs,,,coronavirus travel restrictions,koronavirus omezení cestování
+188,en,cs,,,coronavirus treatment,léčba koronaviru
+190,en,cs,,,coronavirus update,aktuality ohledně koronaviru
+191,en,cs,,,coronavirus vaccine,vakcína na koronavirus
+192,en,cs,,,coronavirus vaccines,vakcíny na koronavirus
+198,en,cs,,,covid cases,případy covid
+205,en,cs,,,covid early symptoms,prvotní příznaky covid
+213,en,cs,,,covid incubation period,inkubační doba covid
+215,en,cs,,,covid international spread,mezinárodní šíření covid
+216,en,cs,,,covid international travel,covid mezinárodní cestování
+217,en,cs,,,covid isolation,izolace v důsledku covid
+219,en,cs,,,covid map,mapa covid
+220,en,cs,,,covid medicine,lék na covid
+221,en,cs,,,covid medicines,léky na covid
+222,en,cs,,,covid news,novinky ohledně covid
+223,en,cs,,,covid outbreak,nákaza covid
+224,en,cs,,,covid pandemic,pandemie covid
+225,en,cs,,,covid panic,panika v důsledku covid
+228,en,cs,,,covid SOS Alert,SOS upozornění na covid
+230,en,cs,,,covid symptoms,příznaky covid
+231,en,cs,,,covid transmission,přenos covid
+232,en,cs,,,covid travel ban,covid zákaz cestování
+233,en,cs,,,covid travel restrictions,covid omezení cestování
+234,en,cs,,,covid treatment,léčba covid
+236,en,cs,,,covid vaccine,vakcína na covid
+237,en,cs,,,covid vaccines,vakcíny na covid
+242,en,cs,,,covid-19,covid-19
+243,en,cs,,,covid-19 alert,hrozba covid-19
+244,en,cs,,,covid-19 cases,případy covid-19
+245,en,cs,,,covid-19 CDC,covid-19 CDC
+246,en,cs,,,covid-19 contagious,covid-19 nakažlivý
+247,en,cs,,,covid-19 cure,léčba covid-19
+248,en,cs,,,covid-19 dangerous,covid-19 nebezpečný
+249,en,cs,,,covid-19 deadly,covid-19 smrtící
+250,en,cs,,,covid-19 death,smrt na covid-19
+251,en,cs,,,covid-19 deaths,úmrtí na covid-19
+252,en,cs,,,covid-19 domestic travel,covid-19 vnitrostátní cestování
+253,en,cs,,,covid-19 early symptoms,prvotní příznaky covid-19
+254,en,cs,,,covid-19 effects,dopady covid-19
+255,en,cs,,,covid-19 epidemic,epidemie covid-19
+256,en,cs,,,covid-19 exposure,vystavení covid-19
+257,en,cs,,,covid-19 fatal,covid-19 smrtelný
+258,en,cs,,,covid-19 fever,horečka covid-19
+259,en,cs,,,covid-19 illness,onemocnění covid-19
+260,en,cs,,,covid-19 incubation,inkubační doba covid-19
+261,en,cs,,,covid-19 incubation period,inkubační doba covid-19
+262,en,cs,,,covid-19 infection,infekce covid-19
+263,en,cs,,,covid-19 international spread,mezinárodní šíření covid-19
+264,en,cs,,,covid-19 international travel,covid-19 mezinárodní cestování
+265,en,cs,,,covid-19 isolation,izolace v důsledku covid-19
+266,en,cs,,,covid-19 lockdown,izolování v důsledku covid-19
+267,en,cs,,,covid-19 map,mapa covid-19
+268,en,cs,,,covid-19 medicine,lék na covid-19
+269,en,cs,,,covid-19 medicines,léky na covid-19
+270,en,cs,,,covid-19 news,novinky ohledně covid-19
+271,en,cs,,,covid-19 outbreak,nákaza covid-19
+272,en,cs,,,covid-19 pandemic,pandemie covid-19
+273,en,cs,,,covid-19 panic,panika v důsledku covid-19
+275,en,cs,,,covid-19 precautions,opatření proti covid-19
+276,en,cs,,,covid-19 protection,ochrana před covid-19
+277,en,cs,,,covid-19 quarantine,karanténa v důsledku covid-19
+278,en,cs,,,covid-19 SOS Alert,SOS upozornění na covid-19
+279,en,cs,,,covid-19 spread,šíření covid-19
+280,en,cs,,,covid-19 symptoms,příznaky covid-19
+281,en,cs,,,covid-19 transmission,přenos covid-19
+282,en,cs,,,covid-19 travel ban,covid-19 zákaz cestování
+283,en,cs,,,covid-19 travel restrictions,covid-19 omezení cestování
+284,en,cs,,,covid-19 treatment,léčba covid-19
+285,en,cs,,,covid-19 uncontrolled spread,nekontrolované šíření covid-19
+286,en,cs,,,covid-19 vaccine,vakcína na covid-19
+287,en,cs,,,covid-19 vaccines,vakcíny na covid-19
+288,en,cs,,,COVID-19 virus,virus covid-19
+289,en,cs,,,covid-19 virus outbreak,virová nákaza covid-19
+290,en,cs,,,covid-19 virus transmission,přenos viru covid-19
+291,en,cs,,,covid-19 WHO,covid-19 SZO
+292,en,cs,,,covid19,covid19
+293,en,cs,,,covid19 alert,hrozba covid19
+294,en,cs,,,covid19 cases,případy covid19
+295,en,cs,,,covid19 CDC,covid19 CDC
+301,en,cs,,,covid19 deaths,úmrtí na covid19
+302,en,cs,,,covid19 domestic travel,covid19 vnitrostátní cestování
+303,en,cs,,,covid19 effects,dopady covid19
+304,en,cs,,,covid19 epidemic,epidemie covid19
+305,en,cs,,,covid19 exposure,vystavení covid19
+306,en,cs,,,covid19 fatal,covid19 smrtelný
+307,en,cs,,,covid19 fever,horečka v důsledku covid19
+308,en,cs,,,covid19 illness,onemocnění covid19
+309,en,cs,,,covid19 incubation,inkubační doba covid19
+310,en,cs,,,covid19 incubation period,inkubační doba covid19
+311,en,cs,,,covid19 infection,infekce covid19
+312,en,cs,,,covid19 international spread,mezinárodní šíření covid19
+313,en,cs,,,covid19 international travel,covid19 mezinárodní cestování
+314,en,cs,,,covid19 isolation,izolace v důsledku covid19
+315,en,cs,,,covid19 lockdown,izolování v důsledku covid19
+316,en,cs,,,covid19 map,mapa covid19
+317,en,cs,,,covid19 medicine,lék na covid19
+318,en,cs,,,covid19 medicines,léky na covid19
+319,en,cs,,,covid19 news,novinky ohledně covid19
+320,en,cs,,,covid19 outbreak,nákaza covid19
+321,en,cs,,,covid19 pandemic,pandemie covid19
+324,en,cs,,,covid19 precautions,opatření proti covid19
+325,en,cs,,,covid19 protection,ochrana před covid19
+326,en,cs,,,covid19 quarantine,karanténa v důsledku covid19
+327,en,cs,,,covid19 SOS Alert,SOS upozornění na covid19
+328,en,cs,,,covid19 spread,šíření covid19
+329,en,cs,,,covid19 symptoms,příznaky covid19
+330,en,cs,,,covid19 transmission,přenos covid19
+331,en,cs,,,covid19 travel ban,covid19 zákaz cestování
+332,en,cs,,,covid19 travel restrictions,covid19 omezení cestování
+333,en,cs,,,covid19 treatment,léčba covid19
+335,en,cs,,,covid19 vaccine,vakcína na covid19
+336,en,cs,,,covid19 vaccines,vakcíny na covid19
+337,en,cs,,,covid19 virus,virus covid19
+338,en,cs,,,covid19 virus outbreak,virová nákaza covid19
+339,en,cs,,,covid19 virus transmission,přenos viru covid19
+342,en,cs,,,current outbreak,aktuální nákaza
+343,en,cs,,,deadly outbreak,smrtelná nákaza
+345,en,cs,,,disease outbreak,propuknutí nákazy
+346,en,cs,,,Disposable hand sanitizer,Jednorázový dezinfekční prostředek na ruce
+348,en,cs,,,domestic travel,vnitrostátní cestování
+351,en,cs,,,droplets,kapénky
+357,en,cs,,,Effects of coronavirus,Dopady koronaviru
+359,en,cs,,,epidemic,epidemický
+360,en,cs,,,epidemic and pandemic,epidemie a pandemie
+362,en,cs,,,epidemic disease,epidemické onemocnění
+364,en,cs,,,epidemic outbreak,epidemická nákaza
+365,en,cs,,,epidemic period,doba trvání epidemie
+366,en,cs,,,epidemic prevention,prevence epidemie
+368,en,cs,,,epidemic season,období epidemie
+369,en,cs,,,epidemic situation,epidemická situace
+371,en,cs,,,exposure,vystavení
+375,en,cs,,,exposure time,doba vystavení
+379,en,cs,,,fever,horečka
+380,en,cs,,,fight the virus,boj proti viru
+381,en,cs,,,Fighting the outbreak,Boj proti nákaze
+382,en,cs,,,flu epidemic,epidemie chřipky
+385,en,cs,,,fomites,kontaminované předměty
+392,en,cs,,,global health emergency,globální zdravotní krize
+393,en,cs,,,global outbreak,globální nákaza
+394,en,cs,,,global pandemic,globální pandemie
+396,en,cs,,,hand sanitizer,dezinfekční prostředek na ruce
+397,en,cs,,,hand sanitizer dispenser,dávkovač dezinfekčního prostředku na ruce
+398,en,cs,,,hand sanitizer gel,dezinfekční gel na ruce
+399,en,cs,,,hand sanitizer spray,dezinfekční sprej na ruce
+403,en,cs,,,home isolation,domácí izolace
+404,en,cs,,,home quarantine,domácí karanténa
+410,en,cs,,,illness,nemoc
+415,en,cs,,,incubation period,inkubační doba
+418,en,cs,,,infected,infikovaný
+424,en,cs,,,instant hand sanitizer,instantní dezinfekční prostředek na ruce
+425,en,cs,,,international spread,mezinárodní šíření
+426,en,cs,,,international travel,mezinárodní cestování
+427,en,cs,,,isolation,izolace
+428,en,cs,,,isolation period,doba izolace
+430,en,cs,,,isolation room,izolační místnost
+431,en,cs,,,isolation valve,izolační ventil
+432,en,cs,,,isolation ward,izolační oddělení
+434,en,cs,,,lockdown,izolování
+438,en,cs,,,major outbreak,velká nákaza
+439,en,cs,,,mandatory quarantine,povinná karanténa
+440,en,cs,,,mass gathering,hromadné setkávání
+444,en,cs,,,medicine,lék
+445,en,cs,,,medicines,léky
+448,en,cs,,,n95,n95
+449,en,cs,,,n95 mask,respirátor n95
+450,en,cs,,,n95 respirator,respirátor n95
+451,en,cs,,,ncov,ncov
+452,en,cs,,,ncov-2019,ncov-2019
+453,en,cs,,,new coronavirus,nový koronavirus
+454,en,cs,,,new coronavirus pneumonia,zápal plic způsobený novým koronavirem
+460,en,cs,,,novel coronavirus,nový koronavirus
+462,en,cs,,,novel coronavirus infection,nová koronavirová infekce
+463,en,cs,,,novel coronavirus outbreak,nová koronavirová nákaza
+464,en,cs,,,novel coronavirus pneumonia,zápal plic způsobený novým koronavirem
+470,en,cs,,,ongoing outbreak,pokračující nákaza
+472,en,cs,,,outbreak,nákaza
+474,en,cs,,,outbreak of coronavirus,nákaza koronavirem
+475,en,cs,,,outbreak of disease,propuknutí nákazy
+482,en,cs,,,pandemic,pandemický
+485,en,cs,,,pandemic influenza,pandemie chřipky
+486,en,cs,,,pandemic outbreak,pandemická nákaza
+487,en,cs,,,pandemic plan,pandemický plán
+488,en,cs,,,pandemic potential,pandemický potenciál
+495,en,cs,,,pneumonia,zápal plic
+496,en,cs,,,pneumonia epidemic,epidemie zápalu plic
+497,en,cs,,,potential exposure,potenciální vystavení
+498,en,cs,,,precautions,opatření
+499,en,cs,,,prevent virus,zabránit viru
+500,en,cs,,,prolonged exposure,delší doba vystavení
+504,en,cs,,,quarantine,karanténa
+505,en,cs,,,quarantine area,karanténní oblast
+506,en,cs,,,quarantine facility,karanténní zařízení
+507,en,cs,,,quarantine measures,karanténní opatření
+508,en,cs,,,quarantine period,období karantény
+509,en,cs,,,quarantine room,karanténní místnost
+510,en,cs,,,quarantine zone,karanténní zóna
+512,en,cs,,,Recovered coronavirus patient,Pacienti vyléčení z koronaviru
+514,en,cs,,,repatriate,repatriuji
+515,en,cs,,,repeated exposure,opakované vystavení
+516,en,cs,,,respiratory syncytial virus,respirační syncytiální virus
+517,en,cs,,,respiratory virus,respirační virus
+519,en,cs,,,Sanitizing hand sanitizer,Dezinfekční prostředek na ruce
+520,en,cs,,,SARS-CoV-2,SARS-CoV-2
+521,en,cs,,,self isolation,vlastní izolace
+522,en,cs,,,self quarantine,vlastní karanténa
+523,en,cs,,,Severe outbreak,Vážná nákaza
+525,en,cs,,,social distancing,společenský odstup
+526,en,cs,,,social distancing measures,opatření pro zajištění společenského odstupu
+527,en,cs,,,social isolation,společenská izolace
+528,en,cs,,,SOS Alert,SOS upozornění
+529,en,cs,,,spread,šíření
+530,en,cs,,,spread of coronavirus,šíření koronaviru
+531,en,cs,,,spread of virus,šíření viru
+535,en,cs,,,strain of virus,kmen viru
+541,en,cs,,,the incubation period,inkubační doba
+544,en,cs,,,the novel coronavirus,nový koronavirus
+558,en,cs,,,touching face,dotýkání se obličeje
+559,en,cs,,,travel advisory,cestovní poradenství
+560,en,cs,,,travel ban,zákaz cestování
+561,en,cs,,,travel restrictions,omezení cestování
+565,en,cs,,,use hand sanitizer,použít dezinfekční prostředek na ruce
+566,en,cs,,,vaccines,vakcíny
+567,en,cs,,,viral outbreak,virová nákaza
+568,en,cs,,,virtual lockdown,virtuální izolování
+569,en,cs,,,virus,virus
+570,en,cs,,,virus carrier,přenašeč viru
+573,en,cs,,,virus infection,virová infekce
+575,en,cs,,,virus mask,respirátor proti viru
+576,en,cs,,,virus outbreak,virová nákaza
+577,en,cs,,,virus prevention,prevence proti viru
+578,en,cs,,,virus protection,ochrana proti viru
+580,en,cs,,,virus spread,šíření viru
+582,en,cs,,,virus spreads,virus se šíří
+583,en,cs,,,virus strain,kmen viru
+584,en,cs,,,virus transmission,přenos viru
+586,en,cs,,,wash your hands,myjte si ruce
+587,en,cs,,,washing hands,mytí rukou
+589,en,cs,,,WHO,SZO
+590,en,cs,,,WHO Confirmed,Potvrzeno SZO
+591,en,cs,,,WHO Deaths,Úmrtí podle SZO
+592,en,cs,,,widespread outbreak,rozšířená nákaza
+597,en,cs,,,World Health Organization,Světová zdravotnická organizace
+600,en,cs,,,zoonotic disease,zoonotické onemocnění
+601,en,cs,,,zoonotic virus,zoonotický virus

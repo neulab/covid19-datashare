@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,sr,,,14 days in isolation,14 дана у изолацији
+26,en,sr,,,14 days quarantine,14-дневни карантин
+27,en,sr,,,2019 coronavirus,2019. вирус корона
+28,en,sr,,,2019 novel coronavirus,2019. новооткривени вирус корона
+29,en,sr,,,2019-nCoV,2019-nCoV
+30,en,sr,,,2020 coronavirus,2020. вирус корона
+31,en,sr,,,2020 novel coronavirus,2020. новооткривени вирус корона
+33,en,sr,,,about coronavirus,о вирусу корона
+39,en,sr,,,acute respiratory distress syndrome,акутни респираторни дистрес синдром
+40,en,sr,,,advanced hand sanitizer,напредно средство за дезинфекцију руку
+41,en,sr,,,Affected by coronavirus,Захваћено вирусом корона
+42,en,sr,,,after exposure,након излагања
+43,en,sr,,,After the epidemic,После епидемије
+44,en,sr,,,After the outbreak,После избијања
+47,en,sr,,,airborne virus,вирус који се преноси путем ваздуха
+48,en,sr,,,alcohol based hand sanitizer,средство за дезинфекцију руку на бази алкохола
+49,en,sr,,,alcohol hand sanitizer,алкохолно средство за дезинфекцију руку
+51,en,sr,,,alcohol-based hand sanitizer,средство за дезинфекцију руку на бази алкохола
+59,en,sr,,,Anti-Corona virus spray,Спреј против вируса корона
+60,en,sr,,,antibacterial hand sanitizer,антибактеријско средство за дезинфекцију руку
+61,en,sr,,,ARDS,АРДС
+64,en,sr,,,avoid exposure,избегавајте излагање
+65,en,sr,,,be infected,бити заражен
+75,en,sr,,,Beware of coronavirus,Чувајте се вируса корона
+76,en,sr,,,bilateral interstitial pneumonia,билатерална интерстицијумска упала плућа
+77,en,sr,,,CDC,CDC
+78,en,sr,,,Center for Disease Control,Центар за контролу болести
+83,en,sr,,,community spread,ширење у заједници
+84,en,sr,,,compulsory quarantine,обавезни карантин
+85,en,sr,,,contagious,заразан
+135,en,sr,,,coronavirus,вирус корона
+136,en,sr,,,coronavirus (COVID-19),вирус корона (КОВИД-19)
+137,en,sr,,,coronavirus alert,вирус корона обавештење
+139,en,sr,,,coronavirus cases,вирус корона случајеви
+141,en,sr,,,coronavirus concerns,вирус корона забринутости
+143,en,sr,,,coronavirus crisis,вирус корона криза
+149,en,sr,,,coronavirus disease,вирус корона болест
+150,en,sr,,,Coronavirus disease (COVID-19) outbreak,Избијање обољења вируса корона (КОВИД-19)
+153,en,sr,,,coronavirus early symptoms,вирус корона рани симптоми
+155,en,sr,,,coronavirus epidemic,вирус корона епидемија
+156,en,sr,,,coronavirus exposure,вирус корона изложеност
+161,en,sr,,,coronavirus incubation,вирус корона инкубација
+162,en,sr,,,coronavirus incubation period,вирус корона период инкубације
+163,en,sr,,,coronavirus infection,вирус корона зараза
+168,en,sr,,,coronavirus map,вирус корона мапа
+170,en,sr,,,coronavirus medicine,вирус корона лек
+171,en,sr,,,coronavirus medicines,вирус корона лекови
+172,en,sr,,,coronavirus news,вирус корона вести
+173,en,sr,,,coronavirus outbreak,вирус корона избијање
+174,en,sr,,,coronavirus pandemic,вирус корона пандемија
+176,en,sr,,,coronavirus pneumonia,вирус корона упала плућа
+177,en,sr,,,coronavirus precautions,вирус корона превентивне мере
+178,en,sr,,,coronavirus prevention,вирус корона спречавање
+179,en,sr,,,coronavirus protection,вирус корона заштита
+180,en,sr,,,coronavirus quarantine,вирус корона карантин
+182,en,sr,,,coronavirus SOS Alert,вирус корона SOS обавештење
+183,en,sr,,,coronavirus spread,вирус корона ширење
+184,en,sr,,,coronavirus symptoms,вирус корона симптоми
+185,en,sr,,,coronavirus transmission,вирус корона преношење
+186,en,sr,,,coronavirus travel ban,вирус корона забрана путовања
+187,en,sr,,,coronavirus travel restrictions,вирус корона ограничења путовања
+188,en,sr,,,coronavirus treatment,вирус корона лечење
+190,en,sr,,,coronavirus update,вирус корона ажурирање
+191,en,sr,,,coronavirus vaccine,вирус корона вакцина
+192,en,sr,,,coronavirus vaccines,вирус корона вакцине
+198,en,sr,,,covid cases,ковид случајеви
+205,en,sr,,,covid early symptoms,ковид рани симптоми
+213,en,sr,,,covid incubation period,ковид период инкубације
+215,en,sr,,,covid international spread,ковид међународно ширење
+216,en,sr,,,covid international travel,ковид међународно путовање
+217,en,sr,,,covid isolation,ковид изолација
+219,en,sr,,,covid map,ковид мапа
+220,en,sr,,,covid medicine,ковид лек
+221,en,sr,,,covid medicines,ковид лекови
+222,en,sr,,,covid news,ковид вести
+223,en,sr,,,covid outbreak,ковид избијање
+224,en,sr,,,covid pandemic,ковид пандемија
+225,en,sr,,,covid panic,ковид паника
+228,en,sr,,,covid SOS Alert,ковид SOS обавештење
+230,en,sr,,,covid symptoms,ковид симптоми
+231,en,sr,,,covid transmission,ковид преношење
+232,en,sr,,,covid travel ban,ковид забрана путовања
+233,en,sr,,,covid travel restrictions,ковид ограничења путовања
+234,en,sr,,,covid treatment,ковид лечење
+236,en,sr,,,covid vaccine,ковид вакцина
+237,en,sr,,,covid vaccines,ковид вакцине
+242,en,sr,,,covid-19,ковид-19
+243,en,sr,,,covid-19 alert,ковид-19 обавештење
+244,en,sr,,,covid-19 cases,ковид-19 случајеви
+245,en,sr,,,covid-19 CDC,ковид-19 CDC
+246,en,sr,,,covid-19 contagious,ковид-19 заразан
+247,en,sr,,,covid-19 cure,ковид-19 лек
+248,en,sr,,,covid-19 dangerous,ковид-19 опасан
+249,en,sr,,,covid-19 deadly,ковид-19 смртоносан
+250,en,sr,,,covid-19 death,ковид-19 смрт
+251,en,sr,,,covid-19 deaths,ковид-19 смрти
+252,en,sr,,,covid-19 domestic travel,ковид-19 путовање у земљи
+253,en,sr,,,covid-19 early symptoms,ковид-19 рани симптоми
+254,en,sr,,,covid-19 effects,ковид-19 ефекти
+255,en,sr,,,covid-19 epidemic,ковид-19 епидемија
+256,en,sr,,,covid-19 exposure,ковид-19 изложеност
+257,en,sr,,,covid-19 fatal,ковид-19 смртоносан
+258,en,sr,,,covid-19 fever,ковид-19 грозница
+259,en,sr,,,covid-19 illness,ковид-19 болест
+260,en,sr,,,covid-19 incubation,ковид-19 инкубација
+261,en,sr,,,covid-19 incubation period,ковид-19 период инкубације
+262,en,sr,,,covid-19 infection,ковид-19 инфекција
+263,en,sr,,,covid-19 international spread,ковид-19 међународно ширење
+264,en,sr,,,covid-19 international travel,ковид-19 међународно путовање
+265,en,sr,,,covid-19 isolation,ковид-19 изолација
+266,en,sr,,,covid-19 lockdown,ковид-19 изолација
+267,en,sr,,,covid-19 map,ковид-19 мапа
+268,en,sr,,,covid-19 medicine,ковид-19 лек
+269,en,sr,,,covid-19 medicines,ковид-19 лекови
+270,en,sr,,,covid-19 news,ковид-19 вести
+271,en,sr,,,covid-19 outbreak,ковид-19 избијање
+272,en,sr,,,covid-19 pandemic,ковид-19 пандемија
+273,en,sr,,,covid-19 panic,ковид-19 паника
+275,en,sr,,,covid-19 precautions,ковид-19 превентивне мере
+276,en,sr,,,covid-19 protection,ковид-19 заштита
+277,en,sr,,,covid-19 quarantine,ковид-19 карантин
+278,en,sr,,,covid-19 SOS Alert,ковид-19 SOS обавештење
+279,en,sr,,,covid-19 spread,ковид-19 ширење
+280,en,sr,,,covid-19 symptoms,ковид-19 симптоми
+281,en,sr,,,covid-19 transmission,ковид-19 преношење
+282,en,sr,,,covid-19 travel ban,ковид-19 забрана путовања
+283,en,sr,,,covid-19 travel restrictions,ковид-19 ограничења путовања
+284,en,sr,,,covid-19 treatment,ковид-19 лечење
+285,en,sr,,,covid-19 uncontrolled spread,ковид-19 неконтролисано ширење
+286,en,sr,,,covid-19 vaccine,ковид-19 вакцина
+287,en,sr,,,covid-19 vaccines,ковид-19 вакцине
+288,en,sr,,,COVID-19 virus,ковид-19 вирус
+289,en,sr,,,covid-19 virus outbreak,ковид-19 избијање вируса
+290,en,sr,,,covid-19 virus transmission,ковид-19 преношење вируса
+291,en,sr,,,covid-19 WHO,ковид-19 СЗО
+292,en,sr,,,covid19,ковид19
+293,en,sr,,,covid19 alert,ковид-19 обавештење
+294,en,sr,,,covid19 cases,ковид-19 случајеви
+295,en,sr,,,covid19 CDC,ковид19 CDC
+301,en,sr,,,covid19 deaths,ковид19 смрти
+302,en,sr,,,covid19 domestic travel,ковид19 путовање у земљи
+303,en,sr,,,covid19 effects,ковид19 ефекти
+304,en,sr,,,covid19 epidemic,ковид19 епидемија
+305,en,sr,,,covid19 exposure,ковид19 изложеност
+306,en,sr,,,covid19 fatal,ковид19 смртоносан
+307,en,sr,,,covid19 fever,ковид19 грозница
+308,en,sr,,,covid19 illness,ковид19 болест
+309,en,sr,,,covid19 incubation,ковид19 инкубација
+310,en,sr,,,covid19 incubation period,ковид19 период инкубације
+311,en,sr,,,covid19 infection,ковид19 зараза
+312,en,sr,,,covid19 international spread,ковид19 међународно ширење
+313,en,sr,,,covid19 international travel,ковид19 међународно путовање
+314,en,sr,,,covid19 isolation,ковид19 изолација
+315,en,sr,,,covid19 lockdown,ковид19 изолација
+316,en,sr,,,covid19 map,ковид19 мапа
+317,en,sr,,,covid19 medicine,ковид19 лек
+318,en,sr,,,covid19 medicines,ковид19 лекови
+319,en,sr,,,covid19 news,ковид19 вести
+320,en,sr,,,covid19 outbreak,ковид19 избијање
+321,en,sr,,,covid19 pandemic,ковид19 пандемија
+324,en,sr,,,covid19 precautions,ковид19 превентивне мере
+325,en,sr,,,covid19 protection,ковид19 заштита
+326,en,sr,,,covid19 quarantine,ковид19 карантин
+327,en,sr,,,covid19 SOS Alert,ковид19 SOS обавештење
+328,en,sr,,,covid19 spread,ковид19 ширење
+329,en,sr,,,covid19 symptoms,ковид19 симптоми
+330,en,sr,,,covid19 transmission,ковид19 преношење
+331,en,sr,,,covid19 travel ban,ковид19 забрана путовања
+332,en,sr,,,covid19 travel restrictions,ковид19 ограничења путовања
+333,en,sr,,,covid19 treatment,ковид19 лечење
+335,en,sr,,,covid19 vaccine,ковид19 вакцина
+336,en,sr,,,covid19 vaccines,ковид19 вакцине
+337,en,sr,,,covid19 virus,ковид19 вирус
+338,en,sr,,,covid19 virus outbreak,ковид19 избијање вируса
+339,en,sr,,,covid19 virus transmission,ковид19 преношење вируса
+342,en,sr,,,current outbreak,тренутно избијање
+343,en,sr,,,deadly outbreak,смртоносно избијање
+345,en,sr,,,disease outbreak,избијање болести
+346,en,sr,,,Disposable hand sanitizer,Средство за дезинфекцију руку за једнократну употребу
+348,en,sr,,,domestic travel,путовање у земљи
+351,en,sr,,,droplets,капљице
+357,en,sr,,,Effects of coronavirus,Последице вируса корона
+359,en,sr,,,epidemic,епидемија
+360,en,sr,,,epidemic and pandemic,епидемија и пандемија
+362,en,sr,,,epidemic disease,епидемијска болест
+364,en,sr,,,epidemic outbreak,избијање епидемије
+365,en,sr,,,epidemic period,период епидемије
+366,en,sr,,,epidemic prevention,спречавање епидемије
+368,en,sr,,,epidemic season,сезона епидемије
+369,en,sr,,,epidemic situation,епидемиолошка ситуација
+371,en,sr,,,exposure,изложеност
+375,en,sr,,,exposure time,време излагања
+379,en,sr,,,fever,грозница
+380,en,sr,,,fight the virus,борити се против вируса
+381,en,sr,,,Fighting the outbreak,Супротстављање избијању
+382,en,sr,,,flu epidemic,епидемија грипа
+385,en,sr,,,fomites,носиоци заразе
+392,en,sr,,,global health emergency,светска здравствена криза
+393,en,sr,,,global outbreak,глобално избијање
+394,en,sr,,,global pandemic,глобална пандемија
+396,en,sr,,,hand sanitizer,средство за дезинфекцију руку
+397,en,sr,,,hand sanitizer dispenser,дозатор за средство за дезинфекцију руку
+398,en,sr,,,hand sanitizer gel,гел за дезинфекцију руку
+399,en,sr,,,hand sanitizer spray,спреј за дезинфекцију руку
+403,en,sr,,,home isolation,кућна изолација
+404,en,sr,,,home quarantine,кућни карантин
+410,en,sr,,,illness,болест
+415,en,sr,,,incubation period,период инкубације
+418,en,sr,,,infected,заражен
+424,en,sr,,,instant hand sanitizer,средство за дезинфекцију руку с тренутним дејством
+425,en,sr,,,international spread,међународно ширење
+426,en,sr,,,international travel,међународно путовање
+427,en,sr,,,isolation,изолација
+428,en,sr,,,isolation period,период изолације
+430,en,sr,,,isolation room,просторија за изолацију
+431,en,sr,,,isolation valve,изолациони вентил
+432,en,sr,,,isolation ward,одељење за изолацију
+434,en,sr,,,lockdown,изолација
+438,en,sr,,,major outbreak,избијање широких размера
+439,en,sr,,,mandatory quarantine,обавезни карантин
+440,en,sr,,,mass gathering,масовно окупљање
+444,en,sr,,,medicine,лек
+445,en,sr,,,medicines,лекови
+448,en,sr,,,n95,n95
+449,en,sr,,,n95 mask,n95 маска
+450,en,sr,,,n95 respirator,n95 респиратор
+451,en,sr,,,ncov,ncov
+452,en,sr,,,ncov-2019,ncov-2019
+453,en,sr,,,new coronavirus,нови вирус корона
+454,en,sr,,,new coronavirus pneumonia,нови вирус корона упала плућа
+460,en,sr,,,novel coronavirus,новооткривени вирус корона
+462,en,sr,,,novel coronavirus infection,новооткривени вирус корона зараза
+463,en,sr,,,novel coronavirus outbreak,новооткривени вирус корона избијање
+464,en,sr,,,novel coronavirus pneumonia,новооткривени вирус корона упала плућа
+470,en,sr,,,ongoing outbreak,непрекидно избијање
+472,en,sr,,,outbreak,избијање
+474,en,sr,,,outbreak of coronavirus,избијање вируса корона
+475,en,sr,,,outbreak of disease,избијање болести
+482,en,sr,,,pandemic,пандемија
+485,en,sr,,,pandemic influenza,пандемични грип
+486,en,sr,,,pandemic outbreak,избијање пандемије
+487,en,sr,,,pandemic plan,план за пандемију
+488,en,sr,,,pandemic potential,могућност пандемије
+495,en,sr,,,pneumonia,упала плућа
+496,en,sr,,,pneumonia epidemic,епидемија упале плућа
+497,en,sr,,,potential exposure,могућа изложеност
+498,en,sr,,,precautions,превентивне мере
+499,en,sr,,,prevent virus,спречити вирус
+500,en,sr,,,prolonged exposure,продужена изложеност
+504,en,sr,,,quarantine,карантин
+505,en,sr,,,quarantine area,област карантина
+506,en,sr,,,quarantine facility,објекат за карантин
+507,en,sr,,,quarantine measures,мере карантина
+508,en,sr,,,quarantine period,карантински период
+509,en,sr,,,quarantine room,просторија за карантин
+510,en,sr,,,quarantine zone,зона карантина
+512,en,sr,,,Recovered coronavirus patient,Пацијент излечен од вируса корона
+514,en,sr,,,repatriate,репатрирам
+515,en,sr,,,repeated exposure,учестала изложеност
+516,en,sr,,,respiratory syncytial virus,респираторни синцицијални вирус
+517,en,sr,,,respiratory virus,респираторни вирус
+519,en,sr,,,Sanitizing hand sanitizer,Средство за дезинфекцију руку
+520,en,sr,,,SARS-CoV-2,SARS-CoV-2
+521,en,sr,,,self isolation,самоизолација
+522,en,sr,,,self quarantine,добровољни карантин
+523,en,sr,,,Severe outbreak,Озбиљно избијање
+525,en,sr,,,social distancing,социјално дистанцирање
+526,en,sr,,,social distancing measures,мере социјалног дистанцирања
+527,en,sr,,,social isolation,друштвена изолација
+528,en,sr,,,SOS Alert,SOS обавештење
+529,en,sr,,,spread,ширење
+530,en,sr,,,spread of coronavirus,ширење вируса корона
+531,en,sr,,,spread of virus,ширење вируса
+535,en,sr,,,strain of virus,сој вируса
+541,en,sr,,,the incubation period,период инкубације
+544,en,sr,,,the novel coronavirus,новооткривени вирус корона
+558,en,sr,,,touching face,додиривати лице
+559,en,sr,,,travel advisory,препорука за путовање
+560,en,sr,,,travel ban,забрана путовања
+561,en,sr,,,travel restrictions,ограничења путовања
+565,en,sr,,,use hand sanitizer,користите средство за дезинфекцију руку
+566,en,sr,,,vaccines,вакцине
+567,en,sr,,,viral outbreak,избијање вируса
+568,en,sr,,,virtual lockdown,ефективна изолација
+569,en,sr,,,virus,вирус
+570,en,sr,,,virus carrier,преносилац вируса
+573,en,sr,,,virus infection,вирусна инфекција
+575,en,sr,,,virus mask,маска против вируса
+576,en,sr,,,virus outbreak,избијање вируса
+577,en,sr,,,virus prevention,превенција вируса
+578,en,sr,,,virus protection,заштита од вируса
+580,en,sr,,,virus spread,ширење вируса
+582,en,sr,,,virus spreads,вирус се шири
+583,en,sr,,,virus strain,сој вируса
+584,en,sr,,,virus transmission,преношење вируса
+586,en,sr,,,wash your hands,перите руке
+587,en,sr,,,washing hands,прање руку
+589,en,sr,,,WHO,СЗО
+590,en,sr,,,WHO Confirmed,Потврђено од стране СЗО
+591,en,sr,,,WHO Deaths,СЗО Смрти
+592,en,sr,,,widespread outbreak,велика распрострањеност
+597,en,sr,,,World Health Organization,Светска здравствена организација
+600,en,sr,,,zoonotic disease,зоонотско обољење
+601,en,sr,,,zoonotic virus,зоонотски вирус

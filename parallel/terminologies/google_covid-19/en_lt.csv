@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,lt,,,14 days in isolation,14 dienų izoliacijoje
+26,en,lt,,,14 days quarantine,14 dienų karantinas
+27,en,lt,,,2019 coronavirus,2019 koronavirusas
+28,en,lt,,,2019 novel coronavirus,2019 m. nežinomas koronavirusas
+29,en,lt,,,2019-nCoV,2019-nCoV
+30,en,lt,,,2020 coronavirus,2020 koronavirusas
+31,en,lt,,,2020 novel coronavirus,2020 m. nežinomas koronavirusas
+33,en,lt,,,about coronavirus,apie koronavirusą
+39,en,lt,,,acute respiratory distress syndrome,ūminis respiracinio distreso sindromas
+40,en,lt,,,advanced hand sanitizer,patobulintas rankų dezinfekantas
+41,en,lt,,,Affected by coronavirus,Paveiktas koronaviruso
+42,en,lt,,,after exposure,po kontakto
+43,en,lt,,,After the epidemic,Po epidemijos
+44,en,lt,,,After the outbreak,Po protrūkio
+47,en,lt,,,airborne virus,per orą plintantis virusas
+48,en,lt,,,alcohol based hand sanitizer,alkoholinis rankų dezinfekantas
+49,en,lt,,,alcohol hand sanitizer,rankų dezinfekantas su alkoholiu
+51,en,lt,,,alcohol-based hand sanitizer,alkoholinis rankų dezinfekantas
+59,en,lt,,,Anti-Corona virus spray,Antivirusinis purškalas
+60,en,lt,,,antibacterial hand sanitizer,antibakterinis rankų dezinfekantas
+61,en,lt,,,ARDS,SŪRS
+64,en,lt,,,avoid exposure,vengti kontakto
+65,en,lt,,,be infected,užsikrėsti
+75,en,lt,,,Beware of coronavirus,Saugokitės koronaviruso
+76,en,lt,,,bilateral interstitial pneumonia,abipusis tarpaudininis plaučių uždegimas
+77,en,lt,,,CDC,CDC
+78,en,lt,,,Center for Disease Control,Ligų Kontrolės Centras
+83,en,lt,,,community spread,plitimas visuomenėje
+84,en,lt,,,compulsory quarantine,privalomas karantinas
+85,en,lt,,,contagious,užkrečiama
+135,en,lt,,,coronavirus,koronavirusas
+136,en,lt,,,coronavirus (COVID-19),koronavirusas (COVID-19)
+137,en,lt,,,coronavirus alert,perspėjimas dėl koronaviruso
+139,en,lt,,,coronavirus cases,koronaviruso atvejai
+141,en,lt,,,coronavirus concerns,koronavirusas kelia nerimą
+143,en,lt,,,coronavirus crisis,koronaviruso krizė
+149,en,lt,,,coronavirus disease,koronaviruso liga
+150,en,lt,,,Coronavirus disease (COVID-19) outbreak,Koronaviruso ligos (COVID-19) protrūkis
+153,en,lt,,,coronavirus early symptoms,ankstyvieji koronaviruso simptomai
+155,en,lt,,,coronavirus epidemic,koronaviruso epidemija
+156,en,lt,,,coronavirus exposure,kontaktas su užsikrėtusiu koronavirusu
+161,en,lt,,,coronavirus incubation,koronaviruso inkubacinis periodas
+162,en,lt,,,coronavirus incubation period,inkubacinis koronaviruso periodas
+163,en,lt,,,coronavirus infection,koronaviruso infekcija
+168,en,lt,,,coronavirus map,koronaviruso plitimo žemėlapis
+170,en,lt,,,coronavirus medicine,vaistas nuo koronaviruso
+171,en,lt,,,coronavirus medicines,vaistai nuo koronaviruso
+172,en,lt,,,coronavirus news,naujienos apie koronavirusą
+173,en,lt,,,coronavirus outbreak,koronaviruso protrūkis
+174,en,lt,,,coronavirus pandemic,koronaviruso pandemija
+176,en,lt,,,coronavirus pneumonia,koronaviruso sukeltas plaučių uždegimas
+177,en,lt,,,coronavirus precautions,atsargumo priemonės dėl koronaviruso
+178,en,lt,,,coronavirus prevention,koronaviruso prevencija
+179,en,lt,,,coronavirus protection,apsauga nuo koronaviruso
+180,en,lt,,,coronavirus quarantine,karantinas dėl koronaviruso
+182,en,lt,,,coronavirus SOS Alert,SOS koronaviruso perspėjimas
+183,en,lt,,,coronavirus spread,koronaviruso plitimas
+184,en,lt,,,coronavirus symptoms,koronaviruso simptomai
+185,en,lt,,,coronavirus transmission,koronaviruso perdavimas
+186,en,lt,,,coronavirus travel ban,draudimas keliauti dėl koronaviruso
+187,en,lt,,,coronavirus travel restrictions,kelionių apribojimai per koronavirusą
+188,en,lt,,,coronavirus treatment,koronaviruso gydymas
+190,en,lt,,,coronavirus update,naujienos apie koronavirusą
+191,en,lt,,,coronavirus vaccine,skiepas nuo koronaviruso
+192,en,lt,,,coronavirus vaccines,skiepai nuo koronaviruso
+198,en,lt,,,covid cases,covid atvejai
+205,en,lt,,,covid early symptoms,ankstyvieji covid simptomai
+213,en,lt,,,covid incubation period,covid inkubacinis periodas
+215,en,lt,,,covid international spread,covid tarptautinis plitimas
+216,en,lt,,,covid international travel,tarptautinės kelionės per covid
+217,en,lt,,,covid isolation,izoliacija dėl covid
+219,en,lt,,,covid map,covid plitimo žemėlapis
+220,en,lt,,,covid medicine,vaistas nuo covid
+221,en,lt,,,covid medicines,vaistai nuo covid
+222,en,lt,,,covid news,naujienos apie covid
+223,en,lt,,,covid outbreak,covid protrūkis
+224,en,lt,,,covid pandemic,covid pandemija
+225,en,lt,,,covid panic,panika dėl covid
+228,en,lt,,,covid SOS Alert,covid SOS perspėjimas
+230,en,lt,,,covid symptoms,covid simptomai
+231,en,lt,,,covid transmission,covid perdavimas
+232,en,lt,,,covid travel ban,draudimas keliauti dėl covid
+233,en,lt,,,covid travel restrictions,kelionių apribojimai dėl covid
+234,en,lt,,,covid treatment,covid gydymas
+236,en,lt,,,covid vaccine,skiepas nuo covid
+237,en,lt,,,covid vaccines,skiepai nuo covid
+242,en,lt,,,covid-19,covid-19
+243,en,lt,,,covid-19 alert,perspėjimas dėl covid-19
+244,en,lt,,,covid-19 cases,covid-19 atvejai
+245,en,lt,,,covid-19 CDC,covid-19 CDC
+246,en,lt,,,covid-19 contagious,covid-19 užkrečiamas
+247,en,lt,,,covid-19 cure,covid-19 vaistai
+248,en,lt,,,covid-19 dangerous,covid-19 pavojingas
+249,en,lt,,,covid-19 deadly,covid-19 mirtinas
+250,en,lt,,,covid-19 death,covid-19 auka
+251,en,lt,,,covid-19 deaths,covid-19 aukos
+252,en,lt,,,covid-19 domestic travel,covid-19 kelionės šalies viduje
+253,en,lt,,,covid-19 early symptoms,ankstyvieji covid-19 simptomai
+254,en,lt,,,covid-19 effects,covid-19 padariniai
+255,en,lt,,,covid-19 epidemic,covid-19 epidemija
+256,en,lt,,,covid-19 exposure,kontaktas su užsikrėtusiu covid-19
+257,en,lt,,,covid-19 fatal,covid-19 mirtinas
+258,en,lt,,,covid-19 fever,covid-19 sukeltas karščiavimas
+259,en,lt,,,covid-19 illness,covid-19 liga
+260,en,lt,,,covid-19 incubation,covid-19 inkubacinis periodas
+261,en,lt,,,covid-19 incubation period,covid-19 inkubacinis periodas
+262,en,lt,,,covid-19 infection,covid-19 infekcija
+263,en,lt,,,covid-19 international spread,tarptautinis covid-19 plitimas
+264,en,lt,,,covid-19 international travel,tarptautinės kelionės per covid-19
+265,en,lt,,,covid-19 isolation,izoliacija dėl covid-19
+266,en,lt,,,covid-19 lockdown,izoliacija dėl covid-19
+267,en,lt,,,covid-19 map,covid-19 plitimo žemėlapis
+268,en,lt,,,covid-19 medicine,vaistas nuo covid-19
+269,en,lt,,,covid-19 medicines,vaistai nuo covid-19
+270,en,lt,,,covid-19 news,naujienos apie covid-19
+271,en,lt,,,covid-19 outbreak,covid-19 protrūkis
+272,en,lt,,,covid-19 pandemic,covid-19 pandemija
+273,en,lt,,,covid-19 panic,panika dėl covid-19
+275,en,lt,,,covid-19 precautions,covid-19 atsargumo priemonės
+276,en,lt,,,covid-19 protection,apsauga nuo covid-19
+277,en,lt,,,covid-19 quarantine,karantinas dėl covid-19
+278,en,lt,,,covid-19 SOS Alert,covid-19 SOS perspėjimas
+279,en,lt,,,covid-19 spread,covid-19 plitimas
+280,en,lt,,,covid-19 symptoms,covid-19 simptomai
+281,en,lt,,,covid-19 transmission,covid-19 perdavimas
+282,en,lt,,,covid-19 travel ban,draudimas keliauti dėl covid-19
+283,en,lt,,,covid-19 travel restrictions,kelionių apribojimai dėl covid-19
+284,en,lt,,,covid-19 treatment,covid-19 gydymas
+285,en,lt,,,covid-19 uncontrolled spread,nekontroliuojamas covid-19 plitimas
+286,en,lt,,,covid-19 vaccine,skiepas nuo covid-19
+287,en,lt,,,covid-19 vaccines,skiepai nuo covid-19
+288,en,lt,,,COVID-19 virus,covid-19 virusas
+289,en,lt,,,covid-19 virus outbreak,covid-19 viruso protrūkis
+290,en,lt,,,covid-19 virus transmission,covid-19 viruso perdavimas
+291,en,lt,,,covid-19 WHO,covid-19 PSO
+292,en,lt,,,covid19,covid19
+293,en,lt,,,covid19 alert,perspėjimas dėl covid19
+294,en,lt,,,covid19 cases,covid19 atvejai
+295,en,lt,,,covid19 CDC,covid19 CDC
+301,en,lt,,,covid19 deaths,covid19 aukos
+302,en,lt,,,covid19 domestic travel,kelionės šalies viduje per covid19
+303,en,lt,,,covid19 effects,covid19 padariniai
+304,en,lt,,,covid19 epidemic,covid19 epidemija
+305,en,lt,,,covid19 exposure,kontaktas su užsikrėtusiu covid19
+306,en,lt,,,covid19 fatal,covid19 mirtinas
+307,en,lt,,,covid19 fever,covid19 sukeltas karščiavimas
+308,en,lt,,,covid19 illness,covid19 liga
+309,en,lt,,,covid19 incubation,covid19 inkubacinis periodas
+310,en,lt,,,covid19 incubation period,covid19 inkubacinis periodas
+311,en,lt,,,covid19 infection,covid19 infekcija
+312,en,lt,,,covid19 international spread,tarptautinis covid19 plitimas
+313,en,lt,,,covid19 international travel,tarptautinės kelionės per covid19
+314,en,lt,,,covid19 isolation,izoliacija dėl covid19
+315,en,lt,,,covid19 lockdown,izoliacija dėl covid19
+316,en,lt,,,covid19 map,covid19 plitimo žemėlapis
+317,en,lt,,,covid19 medicine,vaistas nuo covid19
+318,en,lt,,,covid19 medicines,vaistai nuo covid19
+319,en,lt,,,covid19 news,naujienos apie covid19
+320,en,lt,,,covid19 outbreak,covid19 protrūkis
+321,en,lt,,,covid19 pandemic,covid19 pandemija
+324,en,lt,,,covid19 precautions,covid19 atsargumo priemonės
+325,en,lt,,,covid19 protection,apsauga nuo covid19
+326,en,lt,,,covid19 quarantine,karantinas dėl covid19
+327,en,lt,,,covid19 SOS Alert,covid19 SOS perspėjimas
+328,en,lt,,,covid19 spread,covid19 plitimas
+329,en,lt,,,covid19 symptoms,covid19 simptomai
+330,en,lt,,,covid19 transmission,covid19 perdavimas
+331,en,lt,,,covid19 travel ban,draudimas keliauti dėl covid19
+332,en,lt,,,covid19 travel restrictions,kelionių apribojimai dėl covid19
+333,en,lt,,,covid19 treatment,covid19 gydymas
+335,en,lt,,,covid19 vaccine,skiepas nuo covid19
+336,en,lt,,,covid19 vaccines,skiepai nuo covid19
+337,en,lt,,,covid19 virus,covid19 virusas
+338,en,lt,,,covid19 virus outbreak,covid19 viruso protrūkis
+339,en,lt,,,covid19 virus transmission,covid19 viruso perdavimas
+342,en,lt,,,current outbreak,dabartinis protrūkis
+343,en,lt,,,deadly outbreak,mirtinas protrūkis
+345,en,lt,,,disease outbreak,ligos protrūkis
+346,en,lt,,,Disposable hand sanitizer,Vienkartinis rankų dezinfekantas
+348,en,lt,,,domestic travel,kelionės šalies viduje
+351,en,lt,,,droplets,lašeliai
+357,en,lt,,,Effects of coronavirus,Koronaviruso padariniai
+359,en,lt,,,epidemic,epidemija
+360,en,lt,,,epidemic and pandemic,epidemija ir pandemija
+362,en,lt,,,epidemic disease,epideminė liga
+364,en,lt,,,epidemic outbreak,epidemijos protrūkis
+365,en,lt,,,epidemic period,epidemijos trukmė
+366,en,lt,,,epidemic prevention,epidemijos prevencija
+368,en,lt,,,epidemic season,epidemijos sezonas
+369,en,lt,,,epidemic situation,epidemijos situacija
+371,en,lt,,,exposure,poveikis
+375,en,lt,,,exposure time,kontakto trukmė
+379,en,lt,,,fever,karščiavimas
+380,en,lt,,,fight the virus,kovoju su virusu
+381,en,lt,,,Fighting the outbreak,Kova su protrūkiu
+382,en,lt,,,flu epidemic,gripo epidemija
+385,en,lt,,,fomites,užkratą pernešančios medžiagos
+392,en,lt,,,global health emergency,visuotinė sveikatos problema
+393,en,lt,,,global outbreak,pasaulinis protrūkis
+394,en,lt,,,global pandemic,pasaulinė pandemija
+396,en,lt,,,hand sanitizer,rankų dezinfekantas
+397,en,lt,,,hand sanitizer dispenser,rankų dezinfekanto dozatorius
+398,en,lt,,,hand sanitizer gel,antibakterinis rankų gelis
+399,en,lt,,,hand sanitizer spray,purškiamas rankų dezinfekantas
+403,en,lt,,,home isolation,izoliacija namuose
+404,en,lt,,,home quarantine,karantinas namuose
+410,en,lt,,,illness,liga
+415,en,lt,,,incubation period,inkubacinis periodas
+418,en,lt,,,infected,užkrėstas
+424,en,lt,,,instant hand sanitizer,greito veikimo rankų dezinfekantas
+425,en,lt,,,international spread,tarptautinis plitimas
+426,en,lt,,,international travel,tarptautinės kelionės
+427,en,lt,,,isolation,isolation
+428,en,lt,,,isolation period,izoliacijos trukmė
+430,en,lt,,,isolation room,izoliacijos kambarys
+431,en,lt,,,isolation valve,izoliacinis vožtuvas
+432,en,lt,,,isolation ward,izoliacijos palata
+434,en,lt,,,lockdown,izoliacija
+438,en,lt,,,major outbreak,didžiulis protrūkis
+439,en,lt,,,mandatory quarantine,privalomas karantinas
+440,en,lt,,,mass gathering,masinis susibūrimas
+444,en,lt,,,medicine,vaistas
+445,en,lt,,,medicines,vaistai
+448,en,lt,,,n95,n95
+449,en,lt,,,n95 mask,n95 apsauginė kaukė
+450,en,lt,,,n95 respirator,n95 respiratorius
+451,en,lt,,,ncov,ncov
+452,en,lt,,,ncov-2019,ncov-2019
+453,en,lt,,,new coronavirus,naujas koronavirusas
+454,en,lt,,,new coronavirus pneumonia,naujo koronaviruso sukeltas plaučių uždegimas
+460,en,lt,,,novel coronavirus,nežinomas koronavirusas
+462,en,lt,,,novel coronavirus infection,nežinomo koronaviruso infekcija
+463,en,lt,,,novel coronavirus outbreak,nežinomo koronaviruso protrūkis
+464,en,lt,,,novel coronavirus pneumonia,nežinomo koronaviruso sukeltas plaučių uždegimas
+470,en,lt,,,ongoing outbreak,besitęsiantis protrūkis
+472,en,lt,,,outbreak,protrūkis
+474,en,lt,,,outbreak of coronavirus,koronaviruso protrūkis
+475,en,lt,,,outbreak of disease,ligos protrūkis
+482,en,lt,,,pandemic,pandemija
+485,en,lt,,,pandemic influenza,gripo pandemija
+486,en,lt,,,pandemic outbreak,pandemijos protrūkis
+487,en,lt,,,pandemic plan,pandemijos planas
+488,en,lt,,,pandemic potential,pandemijos tikimybė
+495,en,lt,,,pneumonia,plaučių uždegimas
+496,en,lt,,,pneumonia epidemic,plaučių uždegimo epidemija
+497,en,lt,,,potential exposure,galimas kontaktas
+498,en,lt,,,precautions,atsargumo priemonės
+499,en,lt,,,prevent virus,išvengti viruso
+500,en,lt,,,prolonged exposure,užsitęsęs kontaktas
+504,en,lt,,,quarantine,karantinas
+505,en,lt,,,quarantine area,karantino teritorija
+506,en,lt,,,quarantine facility,karantinavimo įstaiga
+507,en,lt,,,quarantine measures,karantino priemonės
+508,en,lt,,,quarantine period,karantino trukmė
+509,en,lt,,,quarantine room,karantino kambarys
+510,en,lt,,,quarantine zone,karantino zona
+512,en,lt,,,Recovered coronavirus patient,Nuo koronaviruso pasveikęs pacientas
+514,en,lt,,,repatriate,grįžtu į tėvynę
+515,en,lt,,,repeated exposure,pasikartojęs kontaktas
+516,en,lt,,,respiratory syncytial virus,respiracinis sincitinis virusas
+517,en,lt,,,respiratory virus,respiracinis virusas
+519,en,lt,,,Sanitizing hand sanitizer,Dezinfekuojantis rankų dezinfekantas
+520,en,lt,,,SARS-CoV-2,SARS-CoV-2
+521,en,lt,,,self isolation,saviizoliacija
+522,en,lt,,,self quarantine,savęs karantinavimas
+523,en,lt,,,Severe outbreak,Milžiniškas protrūkis
+525,en,lt,,,social distancing,socialinis atsiribojimas
+526,en,lt,,,social distancing measures,socialinio atsiribojimo priemonės
+527,en,lt,,,social isolation,socialinė izoliacija
+528,en,lt,,,SOS Alert,SOS perspėjimas
+529,en,lt,,,spread,plisti
+530,en,lt,,,spread of coronavirus,koronaviruso plitimas
+531,en,lt,,,spread of virus,viruso plitimas
+535,en,lt,,,strain of virus,viruso atmaina
+541,en,lt,,,the incubation period,inkubacinis periodas
+544,en,lt,,,the novel coronavirus,nežinomas koronavirusas
+558,en,lt,,,touching face,liesti veidą
+559,en,lt,,,travel advisory,kelionių patarimai
+560,en,lt,,,travel ban,draudimas keliauti
+561,en,lt,,,travel restrictions,kelionių apribojimai
+565,en,lt,,,use hand sanitizer,naudokite rankų dezinfekantą
+566,en,lt,,,vaccines,skiepai
+567,en,lt,,,viral outbreak,virusinis protrūkis
+568,en,lt,,,virtual lockdown,virtuali izoliacija
+569,en,lt,,,virus,virusas
+570,en,lt,,,virus carrier,viruso nešiotojas
+573,en,lt,,,virus infection,viruso infekcija
+575,en,lt,,,virus mask,apsauginė kaukė nuo viruso
+576,en,lt,,,virus outbreak,viruso protrūkis
+577,en,lt,,,virus prevention,viruso prevencija
+578,en,lt,,,virus protection,apsauga nuo viruso
+580,en,lt,,,virus spread,viruso plitimas
+582,en,lt,,,virus spreads,virusas plinta
+583,en,lt,,,virus strain,viruso atmaina
+584,en,lt,,,virus transmission,viruso perdavimas
+586,en,lt,,,wash your hands,plaukite rankas
+587,en,lt,,,washing hands,rankų plovimas
+589,en,lt,,,WHO,PSO
+590,en,lt,,,WHO Confirmed,Patvirtinta PSO
+591,en,lt,,,WHO Deaths,PSO mirtys
+592,en,lt,,,widespread outbreak,plačiai paplitęs protrūkis
+597,en,lt,,,World Health Organization,Pasaulio Sveikatos Organizacija
+600,en,lt,,,zoonotic disease,zoonozinė liga
+601,en,lt,,,zoonotic virus,zoonozinis virusas

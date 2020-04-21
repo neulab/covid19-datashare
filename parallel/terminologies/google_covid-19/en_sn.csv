@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,sn,,,14 days in isolation,mazuva 14 uri kwako wega
+26,en,sn,,,14 days quarantine,mazuva 14 kunzvimbo yausingafaniri kusangana nevamwe
+27,en,sn,,,2019 coronavirus,2019 coronavirus
+28,en,sn,,,2019 novel coronavirus,2019 coronavirus itsva uye ine ngozi
+29,en,sn,,,2019-nCoV,2019-nCoV
+30,en,sn,,,2020 coronavirus,2020 coronavirus
+31,en,sn,,,2020 novel coronavirus,2020 coronavirus itsva uye ine ngozi
+33,en,sn,,,about coronavirus,nezve coronavirus
+39,en,sn,,,acute respiratory distress syndrome,chirwere chekuzvimba kwemapapu zvakanyanya
+40,en,sn,,,advanced hand sanitizer,mushonga unouraya utachiona mumaoko wemhando yepamusoro
+41,en,sn,,,Affected by coronavirus,Kukanganiswa necoronavirus
+42,en,sn,,,after exposure,pashure pekubatira
+43,en,sn,,,After the epidemic,Mushure mechirwere
+44,en,sn,,,After the outbreak,Mushure mekunyuka nekupararira
+47,en,sn,,,airborne virus,utachiona hunotapuriranwa mumhepo
+48,en,sn,,,alcohol based hand sanitizer,mushonga unouraya utachiona mumaoko une sipiriti
+49,en,sn,,,alcohol hand sanitizer,mushonga unouraya utachiona mumaoko une sipiriti
+51,en,sn,,,alcohol-based hand sanitizer,mushonga wakagadzirwa nesipiriti unouraya utachiona mumaoko
+59,en,sn,,,Anti-Corona virus spray,Mushonga wokufafaidza unouraya utachiona hwe corona
+60,en,sn,,,antibacterial hand sanitizer,mushonga unouraya hutachiona mumaoko
+61,en,sn,,,ARDS,ARDS
+64,en,sn,,,avoid exposure,dzivisa kubatira
+65,en,sn,,,be infected,tapurirwa
+75,en,sn,,,Beware of coronavirus,Ngwarira coronavirus
+76,en,sn,,,bilateral interstitial pneumonia,kuzvimba kwemapapu
+77,en,sn,,,CDC,CDC
+78,en,sn,,,Center for Disease Control,Muzinda weKuDzivirirwa kweZvirwere
+83,en,sn,,,community spread,kupararira munharaunda
+84,en,sn,,,compulsory quarantine,kuiswa kunzvimbo yausingasangani nevamwe zviri pamutemo
+85,en,sn,,,contagious,kutapukira nyore nyore
+135,en,sn,,,coronavirus,coronavirus
+136,en,sn,,,coronavirus (COVID-19),coronavirus (COVID-19)
+137,en,sn,,,coronavirus alert,chenjedzo nezve coronavirus
+139,en,sn,,,coronavirus cases,vabatwa necoronavirus
+141,en,sn,,,coronavirus concerns,zviri kuchirwa nezve coronavirus
+143,en,sn,,,coronavirus crisis,dambudziko recoronavirus
+149,en,sn,,,coronavirus disease,chirwere chinonzi coronavirus
+150,en,sn,,,Coronavirus disease (COVID-19) outbreak,Kunyuka nekupararira kwechirwere checoronavirus (COVID-19)
+153,en,sn,,,coronavirus early symptoms,zviratidzo zvekutanga zvecoronavurus
+155,en,sn,,,coronavirus epidemic,chirwere checoronavirus chapararira munzvimbo
+156,en,sn,,,coronavirus exposure,kusadziviririka kucoronavirus
+161,en,sn,,,coronavirus incubation,kuberekana kwecoronavirus
+162,en,sn,,,coronavirus incubation period,nhambo yekuberekana kunoita coronavirus
+163,en,sn,,,coronavirus infection,kutapurirwa kwecoronavirus
+168,en,sn,,,coronavirus map,mepu yekune coronavirus
+170,en,sn,,,coronavirus medicine,mushonga unorapa coronavirus
+171,en,sn,,,coronavirus medicines,mishonga inorapa coronavirus
+172,en,sn,,,coronavirus news,nhau dzine chokuita nezve coronavirus
+173,en,sn,,,coronavirus outbreak,kunyuka nekupararira kwecoronavirus
+174,en,sn,,,coronavirus pandemic,denda rinonzi coronavirus
+176,en,sn,,,coronavirus pneumonia,coronavirus inokonzera mabayo
+177,en,sn,,,coronavirus precautions,zvekungwaririra nezve coronavirus
+178,en,sn,,,coronavirus prevention,madzivirirwo anoitwa coronavirus
+179,en,sn,,,coronavirus protection,madzivisirwo anoitwa coronavirus
+180,en,sn,,,coronavirus quarantine,kuitwa kuti vane coronavirus vasasangana nevamwe
+182,en,sn,,,coronavirus SOS Alert,Chenjedzo yeSOS nezve coronavirus
+183,en,sn,,,coronavirus spread,kupararira kunoita coronavirus
+184,en,sn,,,coronavirus symptoms,zviratidzo zvecoronavirus
+185,en,sn,,,coronavirus transmission,kutapukira kunoita coronavirus
+186,en,sn,,,coronavirus travel ban,kurambidzwa kushanya nekuda kwecoronavirus
+187,en,sn,,,coronavirus travel restrictions,mitemo pakushanya nekuda kwecoronavirus
+188,en,sn,,,coronavirus treatment,nzira yemarapirwo anoitwa coronavirus
+190,en,sn,,,coronavirus update,zvizere nezve coronavirus
+191,en,sn,,,coronavirus vaccine,mushonga unobetsera kudzivirira coronavirus
+192,en,sn,,,coronavirus vaccines,mishonga inobetsera kudzivirira coronavirus
+198,en,sn,,,covid cases,vabatwa necovid
+205,en,sn,,,covid early symptoms,zviratidzo zvekutanga zvecovid
+213,en,sn,,,covid incubation period,nhambo yekuberekana kunoita covid
+215,en,sn,,,covid international spread,kupararira kuri kuita covid pasi rese
+216,en,sn,,,covid international travel,kushanya pasi rose nekuda kwecovid
+217,en,sn,,,covid isolation,kuiswa kwevarwere vane covid kwavo vega.
+219,en,sn,,,covid map,mepu yekune covid
+220,en,sn,,,covid medicine,mushonga unorapa covid
+221,en,sn,,,covid medicines,mishonga inorapa covid
+222,en,sn,,,covid news,nhau dzine chokuita nezve covid
+223,en,sn,,,covid outbreak,kunyuka nekupararira kwecovid
+224,en,sn,,,covid pandemic,denda rinonzi covid
+225,en,sn,,,covid panic,kutya covid
+228,en,sn,,,covid SOS Alert,Chenjedzo yeSOS nezve covid
+230,en,sn,,,covid symptoms,zviratidzo zvecovid
+231,en,sn,,,covid transmission,kupararira kunoita covid
+232,en,sn,,,covid travel ban,kurambidzwa kushanya nekuda kwecovid
+233,en,sn,,,covid travel restrictions,mitemo pakushanya maererano necovid
+234,en,sn,,,covid treatment,nzira yemarapirwo anoitwa covid
+236,en,sn,,,covid vaccine,mushonga unobetsera kudzivirira covid
+237,en,sn,,,covid vaccines,mishonga inobetsera kudzivirira covid
+242,en,sn,,,covid-19,covid-19
+243,en,sn,,,covid-19 alert,chenjedzo nezve covid-19
+244,en,sn,,,covid-19 cases,vabatwa necovid-19
+245,en,sn,,,covid-19 CDC,covid-19 CDC
+246,en,sn,,,covid-19 contagious,covid-19 inotapukira nyore nyore
+247,en,sn,,,covid-19 cure,marapirwo anoitwa covid-19
+248,en,sn,,,covid-19 dangerous,covid-19 ine ngozi
+249,en,sn,,,covid-19 deadly,covid-19 inouraya zvakanyanya
+250,en,sn,,,covid-19 death,rufu nekuda kwecovid-19
+251,en,sn,,,covid-19 deaths,ndufu nekuda kwecovid-19
+252,en,sn,,,covid-19 domestic travel,kushanya mukati menyika nekuda kwecovid-19
+253,en,sn,,,covid-19 early symptoms,zviratidzo zvekutanga zvecovid-19
+254,en,sn,,,covid-19 effects,covid-19 zvayakanganisa
+255,en,sn,,,covid-19 epidemic,chirwere chinonzi covid-19
+256,en,sn,,,covid-19 exposure,kusadziviririka kucovid-19
+257,en,sn,,,covid-19 fatal,civid-19 inouraya
+258,en,sn,,,covid-19 fever,covid-19 inoita kuti upindwe nechando
+259,en,sn,,,covid-19 illness,urwere hwecovid-19
+260,en,sn,,,covid-19 incubation,kuberekana kunoita covid-19
+261,en,sn,,,covid-19 incubation period,nhambo yekuberekana kunoita covid-19
+262,en,sn,,,covid-19 infection,kubatira kunoita covid-19
+263,en,sn,,,covid-19 international spread,kupararira kuri kuita covid-19 pasi rese
+264,en,sn,,,covid-19 international travel,kushanya pasi rese nekuda kwecovid-19
+265,en,sn,,,covid-19 isolation,kuiswa kwevane covid-19 kwavo vega
+266,en,sn,,,covid-19 lockdown,kuita kuti covid-19 irambe iri panzvimbo imwe isaparararire
+267,en,sn,,,covid-19 map,mepu yekune covid-19
+268,en,sn,,,covid-19 medicine,mushonga unorapa covid-19
+269,en,sn,,,covid-19 medicines,mishonga inorapa covid-19
+270,en,sn,,,covid-19 news,nhau dzine chokuita nezve covid-19
+271,en,sn,,,covid-19 outbreak,kunyuka nekupararira kwecovid-19
+272,en,sn,,,covid-19 pandemic,denda rinonzi covid-19
+273,en,sn,,,covid-19 panic,kutya nekuda kwecovid-19
+275,en,sn,,,covid-19 precautions,chenjedzo zhinji nezve covid-19
+276,en,sn,,,covid-19 protection,kudziviririka kune covid-19
+277,en,sn,,,covid-19 quarantine,kuiswa kunzvimbo yausingasangani nevamwe kwevane covid-19
+278,en,sn,,,covid-19 SOS Alert,Chenjedzo yeSOS nezve covid-19
+279,en,sn,,,covid-19 spread,covid-19 inopararira
+280,en,sn,,,covid-19 symptoms,zviratidzo zvecovid-19
+281,en,sn,,,covid-19 transmission,kutapukira kunoita covid-19
+282,en,sn,,,covid-19 travel ban,kurambidzwa kushanya nekuda kwecovid-19
+283,en,sn,,,covid-19 travel restrictions,mitemo pakushanya nekuda kwecovid-19
+284,en,sn,,,covid-19 treatment,nzira yemarapirwo anoitwa covid-19
+285,en,sn,,,covid-19 uncontrolled spread,kupararira kusingadzoreki kuri kuita covid-19
+286,en,sn,,,covid-19 vaccine,mushonga unobetsera kudzivirira covid-19
+287,en,sn,,,covid-19 vaccines,mishonga inobetsera kudzivirira covid-19
+288,en,sn,,,COVID-19 virus,utachiona hunokonzera covid-19
+289,en,sn,,,covid-19 virus outbreak,kunyuka nekupararira kweutachiona hunokonzera covid-19
+290,en,sn,,,covid-19 virus transmission,kutapukira kweutachiona hunokonzera covid-19
+291,en,sn,,,covid-19 WHO,covid-19 WHO
+292,en,sn,,,covid19,covid19
+293,en,sn,,,covid19 alert,chenjedzo nezve covid19
+294,en,sn,,,covid19 cases,vabatwa necovid19
+295,en,sn,,,covid19 CDC,covid19 CDC
+301,en,sn,,,covid19 deaths,ndufu nekuda kwe covid19
+302,en,sn,,,covid19 domestic travel,kushanya mukati menyika nekuda kwecovid19
+303,en,sn,,,covid19 effects,zvakonzerwa necovid19
+304,en,sn,,,covid19 epidemic,chirwere checovid19
+305,en,sn,,,covid19 exposure,kusadziviririka kucovid19
+306,en,sn,,,covid19 fatal,covid19 inouraya
+307,en,sn,,,covid19 fever,covid19 inoita kuti upindwe nechando
+308,en,sn,,,covid19 illness,urwere hunonzi covid19
+309,en,sn,,,covid19 incubation,kuberekana kunoita covid19
+310,en,sn,,,covid19 incubation period,nhambo yekuberekana kunoita covid19
+311,en,sn,,,covid19 infection,kubatira kunoita covid19
+312,en,sn,,,covid19 international spread,kupararira kuri kuita covid19 pasi rose
+313,en,sn,,,covid19 international travel,kushanya munyika yose nekuda kwecovid19
+314,en,sn,,,covid19 isolation,kuiswa kwavo vega kwevane covid19
+315,en,sn,,,covid19 lockdown,kuita kuti covid19 irambe iri munzvimbo imwe isaparararire
+316,en,sn,,,covid19 map,mepu yekune covid19
+317,en,sn,,,covid19 medicine,mushonga unorapa covid19
+318,en,sn,,,covid19 medicines,mishonga inorapa covid19
+319,en,sn,,,covid19 news,nhau dzine chokuita nezve covid19
+320,en,sn,,,covid19 outbreak,kunyuka nekupararira kwecovid19
+321,en,sn,,,covid19 pandemic,denda recovid19
+324,en,sn,,,covid19 precautions,chenjedzo zhinji nezve covid19
+325,en,sn,,,covid19 protection,kudzivirirwa kune covid19
+326,en,sn,,,covid19 quarantine,kuiswa kwevane covid19 kunzvimbo yavo vega
+327,en,sn,,,covid19 SOS Alert,Chenjedzo yeSOS nezve covid19
+328,en,sn,,,covid19 spread,covid19 inopararira
+329,en,sn,,,covid19 symptoms,zviratidzo zvecovid19
+330,en,sn,,,covid19 transmission,kutapukira kunoita covid19
+331,en,sn,,,covid19 travel ban,kurambidzwa kushanya nekuda kwecovid19
+332,en,sn,,,covid19 travel restrictions,mitemo pakushanya iri maererano necovid19
+333,en,sn,,,covid19 treatment,nzira yemarapirwo anoitwa covid19
+335,en,sn,,,covid19 vaccine,mushonga unobetsera kudzivirira covid19
+336,en,sn,,,covid19 vaccines,mishonga inobetsera kudzivirira covid19
+337,en,sn,,,covid19 virus,utachiona hunokonzera covid19
+338,en,sn,,,covid19 virus outbreak,kunyuka nekupararira kweutachiona hunokonzera covid19
+339,en,sn,,,covid19 virus transmission,kutapukira kweutachiona hunokonzera covid19
+342,en,sn,,,current outbreak,kupararira kuripo zvino
+343,en,sn,,,deadly outbreak,kupararira kune ngozi
+345,en,sn,,,disease outbreak,kupararira kwechirwere
+346,en,sn,,,Disposable hand sanitizer,Chokupukuta pakuuraya utachiona mumaoko choraswa pashure
+348,en,sn,,,domestic travel,kushanya mukati menyika
+351,en,sn,,,droplets,twumadonhwe
+357,en,sn,,,Effects of coronavirus,Zvakakanganisika nekuda kwecoronavirus
+359,en,sn,,,epidemic,chirwere chapararira munzvimbo
+360,en,sn,,,epidemic and pandemic,urwere nedenda
+362,en,sn,,,epidemic disease,chirwere chapararira zvakanyanya
+364,en,sn,,,epidemic outbreak,kunyuka nekupararira kwechirwere
+365,en,sn,,,epidemic period,nguva yekupararira zvakanyanya kwechirwere
+366,en,sn,,,epidemic prevention,kudzivirira chirwere
+368,en,sn,,,epidemic season,mwaka wechirwere
+369,en,sn,,,epidemic situation,mamiriro akaita kupararira kwechirwere
+371,en,sn,,,exposure,kusadziviririka
+375,en,sn,,,exposure time,nguva yekusadzivirirwa
+379,en,sn,,,fever,kupindwa nechando
+380,en,sn,,,fight the virus,rwisa utachiona
+381,en,sn,,,Fighting the outbreak,Kurwisana nekunyuka uye kupararira
+382,en,sn,,,flu epidemic,chirwere chechidzihwa
+385,en,sn,,,fomites,nzira yekufamba kweutachiona
+392,en,sn,,,global health emergency,rubatsiro rwekukurumidzira pane zveutano pasi rese
+393,en,sn,,,global outbreak,kupararira munyika yose
+394,en,sn,,,global pandemic,denda renyika yose
+396,en,sn,,,hand sanitizer,mushonga unouraya utachiona mumaoko
+397,en,sn,,,hand sanitizer dispenser,muchina unosvipa mushonga unouraya utachiona mumaoko
+398,en,sn,,,hand sanitizer gel,mafuta ane mushonga unouraya utachiona mumaoko
+399,en,sn,,,hand sanitizer spray,mushonga wokufafaidza unouraya utachiona mumaoko
+403,en,sn,,,home isolation,kugara kumba kwemurwere kuti asatapurire vamwe
+404,en,sn,,,home quarantine,kugariswa kumba kuti usasangane nevamwe
+410,en,sn,,,illness,urwere
+415,en,sn,,,incubation period,nhambo yekuberekana
+418,en,sn,,,infected,akatapurira
+424,en,sn,,,instant hand sanitizer,mushonga unouraya pakarepo utachiona huri mumaoko
+425,en,sn,,,international spread,kupararira munyika yose
+426,en,sn,,,international travel,kushanya munyika yose
+427,en,sn,,,isolation,kuiswa kwemurwere kwake ega
+428,en,sn,,,isolation period,nhambo yekuiswa kwemurwere kwake ega
+430,en,sn,,,isolation room,kamuri revarwere vaiswa kwavo vega.
+431,en,sn,,,isolation valve,vharuvhu yokuparadzanisa
+432,en,sn,,,isolation ward,wadhi yevarwere vaiswa kwavo vega
+434,en,sn,,,lockdown,kusabvumirwa kufamba
+438,en,sn,,,major outbreak,kupararira kukuru
+439,en,sn,,,mandatory quarantine,kuiswa kunzvimbo yausingasangani nevamwe zviri pamutemo
+440,en,sn,,,mass gathering,kuungana kweveruzhinji
+444,en,sn,,,medicine,mushonga
+445,en,sn,,,medicines,mishonga
+448,en,sn,,,n95,n95
+449,en,sn,,,n95 mask,chokuvharisa kumeso chinonzi n95
+450,en,sn,,,n95 respirator,chekufemesa chinonzi n95
+451,en,sn,,,ncov,ncov
+452,en,sn,,,ncov-2019,ncov-2019
+453,en,sn,,,new coronavirus,coronavirus itsva
+454,en,sn,,,new coronavirus pneumonia,coronavirus itsva inokonzeresa mabayo
+460,en,sn,,,novel coronavirus,coronavirus ine ngozi
+462,en,sn,,,novel coronavirus infection,coronavirus chirwere chitsva uye chine ngozi
+463,en,sn,,,novel coronavirus outbreak,kunyuka nekupararira kwecoronavirus
+464,en,sn,,,novel coronavirus pneumonia,coronavirus itsva inouya nemabayo
+470,en,sn,,,ongoing outbreak,kupararira kuri kuramba kuchienderera
+472,en,sn,,,outbreak,kunyuka nekupararira
+474,en,sn,,,outbreak of coronavirus,kunyuka nekupararira kunoita coronavirus
+475,en,sn,,,outbreak of disease,kunyuka nekupararira kwechirwere
+482,en,sn,,,pandemic,denda
+485,en,sn,,,pandemic influenza,denda refuruwenza
+486,en,sn,,,pandemic outbreak,kunyuka nekupararira kwedenda
+487,en,sn,,,pandemic plan,zvarongwa kupedza denda
+488,en,sn,,,pandemic potential,kusimba kwedenda
+495,en,sn,,,pneumonia,chirwere chemabayo
+496,en,sn,,,pneumonia epidemic,chirwere chemabayo chapararira
+497,en,sn,,,potential exposure,mukana wekutapurira
+498,en,sn,,,precautions,zvekungwaririra
+499,en,sn,,,prevent virus,dzivirira utachiona
+500,en,sn,,,prolonged exposure,kusadzivirirwa kwenguva refu
+504,en,sn,,,quarantine,kuiswa kunzvimbo yausingasangani nevamwe
+505,en,sn,,,quarantine area,nzvimbo yevasingafaniri kusangana nevamwe
+506,en,sn,,,quarantine facility,chivako chinoiswa vasingafaniri kusangana nevamwe
+507,en,sn,,,quarantine measures,matanho pakuita kuti vamwe vasasangana nevamwe
+508,en,sn,,,quarantine period,nguva yekuva kunzvimbo yavasingafaniri kusangana nevamwe
+509,en,sn,,,quarantine room,kamuri revasingafanire kusangana nevamwe
+510,en,sn,,,quarantine zone,dunhu revasingafanire kusangana nevamwe
+512,en,sn,,,Recovered coronavirus patient,Murwere wecoronavirus apora
+514,en,sn,,,repatriate,dzosa munhu kunyika kwake
+515,en,sn,,,repeated exposure,kuramba usina kudziviririka
+516,en,sn,,,respiratory syncytial virus,utachiona hunokanganisa zvakanyanya nhengo dzekufema nadzo
+517,en,sn,,,respiratory virus,utachiona hunokanganisa nzira yekufema nayo
+519,en,sn,,,Sanitizing hand sanitizer,Kuuraya utachiona pamushonga unouraya utachiona mumaoko
+520,en,sn,,,SARS-CoV-2,SARS-CoV-2
+521,en,sn,,,self isolation,kuzvibvisa kwemurwere kune vasina chirwere kuti asatapurire
+522,en,sn,,,self quarantine,kuzvigarisa wega kunzvimbo yausingasangane nevamwe
+523,en,sn,,,Severe outbreak,Kupararira zvakanyanya
+525,en,sn,,,social distancing,kusaungana kwevanhu
+526,en,sn,,,social distancing measures,matanho ekuti vanhu vasasangana
+527,en,sn,,,social isolation,kusasangana kwevanhu panzvimbo imwe
+528,en,sn,,,SOS Alert,Chenjedzo yeSOS
+529,en,sn,,,spread,paradzira
+530,en,sn,,,spread of coronavirus,kupararira kunoita coronavirus
+531,en,sn,,,spread of virus,kupararira kweutachiona
+535,en,sn,,,strain of virus,mhando yeutachiona
+541,en,sn,,,the incubation period,nhambo yekuberekana
+544,en,sn,,,the novel coronavirus,coronavirus itsva uye ine ngozi
+558,en,sn,,,touching face,kubatabata kumeso
+559,en,sn,,,travel advisory,mashoko nezvekwauri kushanya
+560,en,sn,,,travel ban,kurambidzwa kushanya
+561,en,sn,,,travel restrictions,mitemo pakushanya
+565,en,sn,,,use hand sanitizer,shandisa mushonga unouraya utachiona mumaoko
+566,en,sn,,,vaccines,mishonga
+567,en,sn,,,viral outbreak,kupararira kweunye hweutachiona
+568,en,sn,,,virtual lockdown,kusabvumirwa kubuda kana kupinda
+569,en,sn,,,virus,utachiona
+570,en,sn,,,virus carrier,chinotapurira vamwe utachiona
+573,en,sn,,,virus infection,urwere hwakonzerwa neutachiona
+575,en,sn,,,virus mask,chinovharidzira utachiona kumeso
+576,en,sn,,,virus outbreak,kunyuka nekupararira kweutachiona
+577,en,sn,,,virus prevention,kudzivirira utachiona
+578,en,sn,,,virus protection,kudzivisa utachiona
+580,en,sn,,,virus spread,utachiona hunopararira
+582,en,sn,,,virus spreads,utachiona hunoramba huchipararira
+583,en,sn,,,virus strain,rudzi rweutachiona
+584,en,sn,,,virus transmission,kutapukira kweutachiona
+586,en,sn,,,wash your hands,hands geza maoko ako
+587,en,sn,,,washing hands,kugeza maoko
+589,en,sn,,,WHO,WHO
+590,en,sn,,,WHO Confirmed,WHO Yasimbisira
+591,en,sn,,,WHO Deaths,Vafa mukuwirirana neve WHO
+592,en,sn,,,widespread outbreak,kupararira munzvimbo yakakura
+597,en,sn,,,World Health Organization,Sangano Rinoona nezve Utano Pasi pose
+600,en,sn,,,zoonotic disease,chirwere chakabva kumhuka
+601,en,sn,,,zoonotic virus,utachiona hwakabva kumhuka

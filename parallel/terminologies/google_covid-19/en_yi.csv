@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,yi,,,14 days in isolation,14 טעג אין איזאלאציע
+26,en,yi,,,14 days quarantine,14 טעג קווארענטיין
+27,en,yi,,,2019 coronavirus,2019 קאראנעוויירוס
+28,en,yi,,,2019 novel coronavirus,2019 נייע קאראנעוויירוס
+29,en,yi,,,2019-nCoV,2019-ען.סי.או.ווי.
+30,en,yi,,,2020 coronavirus,2020 קאראנעוויירוס
+31,en,yi,,,2020 novel coronavirus,2020 נייע קאראנעוויירוס
+33,en,yi,,,about coronavirus,איבער קאראנעוויירוס
+39,en,yi,,,acute respiratory distress syndrome,אקיוט רעספיראטארי דיסטרעס סינדראום
+40,en,yi,,,advanced hand sanitizer,פארגעשריטענע האנט סאניטייזער
+41,en,yi,,,Affected by coronavirus,באווירקט דורך די קאראנעוויירוס
+42,en,yi,,,after exposure,נאכן זיין אויסגעשטעלט
+43,en,yi,,,After the epidemic,נאך די עפידעמיע
+44,en,yi,,,After the outbreak,נאך דעם אויסברוך
+47,en,yi,,,airborne virus,וויירוס דורך די לופט
+48,en,yi,,,alcohol based hand sanitizer,אלקאהאל באזירטע האנט סאניטייזער
+49,en,yi,,,alcohol hand sanitizer,אלקאהאל האנט סאניטייזער
+51,en,yi,,,alcohol-based hand sanitizer,אלקאהאל-באזירטע האנט סאניטייזער
+59,en,yi,,,Anti-Corona virus spray,אנטי-קאראנע וויירוס ספרעי
+60,en,yi,,,antibacterial hand sanitizer,אנטיבאקטעריע האנט סאניטייזער
+61,en,yi,,,ARDS,ארדס
+64,en,yi,,,avoid exposure,פארמיידט אויסגעשטעלטקייט
+65,en,yi,,,be infected,זיין אנגעשטעקט
+75,en,yi,,,Beware of coronavirus,זייט וואך איבער די קאראנעוויירוס
+76,en,yi,,,bilateral interstitial pneumonia,ביילאטערל אינטערסטיטשל נעמאניע
+77,en,yi,,,CDC,סי.די.סי.
+78,en,yi,,,Center for Disease Control,צענטר פאר דיזיז קאנטראל
+83,en,yi,,,community spread,קאמיוניטי צעשפרייטונג
+84,en,yi,,,compulsory quarantine,געצוואונגענע קווארענטיין
+85,en,yi,,,contagious,איבערכאפענד
+135,en,yi,,,coronavirus,קאראנעוויירוס
+136,en,yi,,,coronavirus (COVID-19),קאראנעוויירוס (קאוויד-19)
+137,en,yi,,,coronavirus alert,קאראנעוויירוס אויפמערקזאמקייט
+139,en,yi,,,coronavirus cases,קאראנעוויירוס פעלער
+141,en,yi,,,coronavirus concerns,קאראנעוויירוס פראבלעמען
+143,en,yi,,,coronavirus crisis,קאראנעוויירוס קריזיס
+149,en,yi,,,coronavirus disease,קאראנעוויירוס קראנקהייט
+150,en,yi,,,Coronavirus disease (COVID-19) outbreak,קאראנעוויירוס קראנקהייט (קאוויד-19) אויסברוך
+153,en,yi,,,coronavirus early symptoms,פריע קאראנעוויירוס סימפטאמען
+155,en,yi,,,coronavirus epidemic,קאראנעוויירוס עפידעמיע
+156,en,yi,,,coronavirus exposure,קאראנעוויירוס אויסגעשטעלטקייט
+161,en,yi,,,coronavirus incubation,קאראנעוויירוס אינקיובעישאן
+162,en,yi,,,coronavirus incubation period,קאראנעוויירוס אינקיובאציע פעריאדע
+163,en,yi,,,coronavirus infection,קאראנעוויירוס אינפעקציע
+168,en,yi,,,coronavirus map,קאראנעוויירוס מאפע
+170,en,yi,,,coronavirus medicine,קאראנעוויירוס מעדעצין
+171,en,yi,,,coronavirus medicines,קאראנעוויירוס מעדעצינען
+172,en,yi,,,coronavirus news,קאראנעוויירוס נייעס
+173,en,yi,,,coronavirus outbreak,קאראנעוויירוס אויסברוך
+174,en,yi,,,coronavirus pandemic,קאראנעוויירוס פאנעמיק
+176,en,yi,,,coronavirus pneumonia,קאראנעוויירוס נעמאניע
+177,en,yi,,,coronavirus precautions,קאראנעוויירוס מאסנאמען
+178,en,yi,,,coronavirus prevention,קאראנעוויירוס פארמיידונג
+179,en,yi,,,coronavirus protection,קאראנעוויירוס באשיצונג
+180,en,yi,,,coronavirus quarantine,קאראנעוויירוס קווארענטיין
+182,en,yi,,,coronavirus SOS Alert,קאראנעוויירוס עס.או.עס. וואכזאמקייט
+183,en,yi,,,coronavirus spread,קאראנעוויירוס צעשפרייטונג
+184,en,yi,,,coronavirus symptoms,קאראנעוויירוס סימפטאמען
+185,en,yi,,,coronavirus transmission,קאראנעוויירוס איבערגעבונג
+186,en,yi,,,coronavirus travel ban,קאראנעוויירוס טראוועל פארבאט
+187,en,yi,,,coronavirus travel restrictions,קאראנעוויירוס טראוועל באגרעניצונגען
+188,en,yi,,,coronavirus treatment,קאראנעוויירוס באהאנדלונג
+190,en,yi,,,coronavirus update,קאראנעוויירוס אפדעיט
+191,en,yi,,,coronavirus vaccine,קאראנעוויירוס וואקסין
+192,en,yi,,,coronavirus vaccines,קאראנעוויירוס וואקסינען
+198,en,yi,,,covid cases,קאוויד פעלער
+205,en,yi,,,covid early symptoms,פריע קאוויד סימפטאמען
+213,en,yi,,,covid incubation period,קאוויד אינקיובאציע פעריאדע
+215,en,yi,,,covid international spread,אינטערנאציאנאלע קאוויד צעשפרייטונג
+216,en,yi,,,covid international travel,אינטערנאציאנאלע קאוויד טראוועל
+217,en,yi,,,covid isolation,קאוויד איזאלאציע
+219,en,yi,,,covid map,קאוונד מאפע
+220,en,yi,,,covid medicine,קאוויד מעדעצין
+221,en,yi,,,covid medicines,קאוויד מעדעצינען
+222,en,yi,,,covid news,קאוויד נייעס
+223,en,yi,,,covid outbreak,קאוויד אויסברוך
+224,en,yi,,,covid pandemic,קאוויד פאנדעמיק
+225,en,yi,,,covid panic,קאוויד פאניק
+228,en,yi,,,covid SOS Alert,קאוויד עס.או.עס וואכזאמקייט
+230,en,yi,,,covid symptoms,קאוויד סימפטאמען
+231,en,yi,,,covid transmission,קאוויד איבערגעבונג
+232,en,yi,,,covid travel ban,קאוויד טראוועל פארבאט
+233,en,yi,,,covid travel restrictions,קאוויד טראוועל באגרעניצונגען
+234,en,yi,,,covid treatment,קאוויד באהאנדלונג
+236,en,yi,,,covid vaccine,קאוויד וואקסין
+237,en,yi,,,covid vaccines,קאוויד וואקסינען
+242,en,yi,,,covid-19,קאוויד-19
+243,en,yi,,,covid-19 alert,קאוויד-19 וואכזאמקייט
+244,en,yi,,,covid-19 cases,קאוויד-19 פעלער
+245,en,yi,,,covid-19 CDC,קאוויד-19 סי.די.סי
+246,en,yi,,,covid-19 contagious,קאוויד-19 אנשטעקיג
+247,en,yi,,,covid-19 cure,קאוויד-19 היילונג
+248,en,yi,,,covid-19 dangerous,קאוויד-19 געפארפול
+249,en,yi,,,covid-19 deadly,קאוויד-19 טויטליך
+250,en,yi,,,covid-19 death,קאוויד-19 טויטפאל
+251,en,yi,,,covid-19 deaths,קאוויד-19 טויטפעלער
+252,en,yi,,,covid-19 domestic travel,קאוויד-19 דאמעסטישע טראוועל
+253,en,yi,,,covid-19 early symptoms,פריע קאוויד-19 סימפטאמען
+254,en,yi,,,covid-19 effects,קאוויד-19 ווירקונגען
+255,en,yi,,,covid-19 epidemic,קאוויד-19 עפידעמיע
+256,en,yi,,,covid-19 exposure,קאוויד-19 אויסעגשטעלטקייט
+257,en,yi,,,covid-19 fatal,קאוויד-19 פאטאל
+258,en,yi,,,covid-19 fever,קאוויד-19 פיבער
+259,en,yi,,,covid-19 illness,קאוויד-19 קראנקהייט
+260,en,yi,,,covid-19 incubation,קאוויד-19 אינקיובעישאן
+261,en,yi,,,covid-19 incubation period,קאוויד-19 אינקיובאציע פעריאדע
+262,en,yi,,,covid-19 infection,קאוויד-19 אינפעקציע
+263,en,yi,,,covid-19 international spread,אינטערנאציאנאלע קאוויד-19 צעשפרייטונג
+264,en,yi,,,covid-19 international travel,אינטערנאציאנאלע קאוויד-19 טראוועל
+265,en,yi,,,covid-19 isolation,קאוויד-19 איזאלאציע
+266,en,yi,,,covid-19 lockdown,קאוויד-19 אפגעשלאסענקייט
+267,en,yi,,,covid-19 map,קאוויד-19 מאפע
+268,en,yi,,,covid-19 medicine,קאוויד-19 מעדעצין
+269,en,yi,,,covid-19 medicines,קאוויד-19 מעדעצינען
+270,en,yi,,,covid-19 news,קאוויד-19 נייעס
+271,en,yi,,,covid-19 outbreak,קאוויד-19 אויסברוך
+272,en,yi,,,covid-19 pandemic,קאוויד-19 פאנדעמיק
+273,en,yi,,,covid-19 panic,קאוויד-19 פאניק
+275,en,yi,,,covid-19 precautions,קאוויד-19 מאסנאמען
+276,en,yi,,,covid-19 protection,קאוויד-19 באשיצונג
+277,en,yi,,,covid-19 quarantine,קאוויד-19 קווארענטיין
+278,en,yi,,,covid-19 SOS Alert,קאוויד-19 עס.או.עס. וואכזאמקייט
+279,en,yi,,,covid-19 spread,קאוויד-19 צעשפרייטונג
+280,en,yi,,,covid-19 symptoms,קאוויד-19 סימפטאמען
+281,en,yi,,,covid-19 transmission,קאוויד-19 איבערגעבונג
+282,en,yi,,,covid-19 travel ban,קאוויד-19 טראוועל פארבאט
+283,en,yi,,,covid-19 travel restrictions,קאוויד-19 טראוועל באגרעניצונגען
+284,en,yi,,,covid-19 treatment,קאוויד-19 באהאנדלונג
+285,en,yi,,,covid-19 uncontrolled spread,אומקאנטראלירטע קאוויד-19 צעשפרייטונג
+286,en,yi,,,covid-19 vaccine,קאוויד-19 וואקסין
+287,en,yi,,,covid-19 vaccines,קאוויד-19 וואקסינען
+288,en,yi,,,COVID-19 virus,קאוויד-19 וויירוס
+289,en,yi,,,covid-19 virus outbreak,קאוויד-19 וויירוס אויסברוך
+290,en,yi,,,covid-19 virus transmission,קאוויד-19 וויירוס איבערגעבונג
+291,en,yi,,,covid-19 WHO,קאוויד-19 וועלט געזונטהייט ארגאניזאציע
+292,en,yi,,,covid19,קאוויד19
+293,en,yi,,,covid19 alert,קאוויד19 וואכזאמקייט
+294,en,yi,,,covid19 cases,קאוויד19 פעלער
+295,en,yi,,,covid19 CDC,קאוויד19 סי.די.סי.
+301,en,yi,,,covid19 deaths,קאוויד19 טויטפעלער
+302,en,yi,,,covid19 domestic travel,קאוויד19 דאמעסטישע טראוועל
+303,en,yi,,,covid19 effects,קאוויד19 ווירקונגען
+304,en,yi,,,covid19 epidemic,קאוויד19 עפידעמיע
+305,en,yi,,,covid19 exposure,קאוויד19 אויסגעשטעלטקייט
+306,en,yi,,,covid19 fatal,קאוויד19 פאטאל
+307,en,yi,,,covid19 fever,קאוויד19 פיבער
+308,en,yi,,,covid19 illness,קאוויד19 קראנקהייט
+309,en,yi,,,covid19 incubation,קאוויד19 אינקיובאציע
+310,en,yi,,,covid19 incubation period,קאוויד19 אינקיובאציע פעריאדע
+311,en,yi,,,covid19 infection,קאוויד19 אינפעקציע
+312,en,yi,,,covid19 international spread,אינטערנאציאנאלע קאוויד19 צעשפרייטונג
+313,en,yi,,,covid19 international travel,אינטערנאציאנאלע קאוויד19 טראוועל
+314,en,yi,,,covid19 isolation,קאוויד19 איזאלאציע
+315,en,yi,,,covid19 lockdown,קאוויד19 אפגעשלאסענקייט
+316,en,yi,,,covid19 map,קאוויד19 מאפע
+317,en,yi,,,covid19 medicine,קאוויד19 מעדעצין
+318,en,yi,,,covid19 medicines,קאוויד19 מעדעצינען
+319,en,yi,,,covid19 news,קאוויד19 נייעס
+320,en,yi,,,covid19 outbreak,קאוויד19 אויסברוך
+321,en,yi,,,covid19 pandemic,קאוויד19 פאנדעמיק
+324,en,yi,,,covid19 precautions,קאוויד19 מאסנאמען
+325,en,yi,,,covid19 protection,קאוויד19 באשיצונג
+326,en,yi,,,covid19 quarantine,קאוויד19 קווארענטיין
+327,en,yi,,,covid19 SOS Alert,קאוויד19 עס.או.עס. וואכזאמקייט
+328,en,yi,,,covid19 spread,קאוויד19 צעשפרייטונג
+329,en,yi,,,covid19 symptoms,קאוויד19 סימפטאמען
+330,en,yi,,,covid19 transmission,קאוויד19 איבערגעבונג
+331,en,yi,,,covid19 travel ban,קאוויד19 טראוועל פארבאט
+332,en,yi,,,covid19 travel restrictions,קאוויד19 טראוועל באגרעניצונגען
+333,en,yi,,,covid19 treatment,קאוויד19 באהאנדלונג
+335,en,yi,,,covid19 vaccine,קאוויד19 וואקסין
+336,en,yi,,,covid19 vaccines,קאוויד19 וואקסינען
+337,en,yi,,,covid19 virus,קאוויד19 וויירוס
+338,en,yi,,,covid19 virus outbreak,קאוויד19 וויירוס אויסברוך
+339,en,yi,,,covid19 virus transmission,קאוויד19 וויירוס איבערגעבונג
+342,en,yi,,,current outbreak,יעצטיגע אויסברוך
+343,en,yi,,,deadly outbreak,טויטליכע אויסברוך
+345,en,yi,,,disease outbreak,קראנקהייט אויסברוך
+346,en,yi,,,Disposable hand sanitizer,דעספאזעבל האנט סאניטייזער
+348,en,yi,,,domestic travel,דאמעסטישע טראוועל
+351,en,yi,,,droplets,טראפעלעך
+357,en,yi,,,Effects of coronavirus,ווירוקנגען פון די קאראנעוויירוס
+359,en,yi,,,epidemic,עפידעמיע
+360,en,yi,,,epidemic and pandemic,עפידעמיע און פאנדעמיק
+362,en,yi,,,epidemic disease,עפידעמיע קראנקהייט
+364,en,yi,,,epidemic outbreak,עפידעמיע אויסברוך
+365,en,yi,,,epidemic period,עפידעמיע פעריאדע
+366,en,yi,,,epidemic prevention,עפידעמיע פארמיידונג
+368,en,yi,,,epidemic season,עפידעמיע סעזאן
+369,en,yi,,,epidemic situation,עפידעמיע סיטואציע
+371,en,yi,,,exposure,אויסגעשטעלטקייט
+375,en,yi,,,exposure time,אויסגעשטעלטקייט צייט
+379,en,yi,,,fever,פיבער
+380,en,yi,,,fight the virus,באקעמפט דעם וויירוס
+381,en,yi,,,Fighting the outbreak,באקעמפן דעם אויסברוך
+382,en,yi,,,flu epidemic,פלו עפידעמיע
+385,en,yi,,,fomites,פאמייטעס
+392,en,yi,,,global health emergency,גלאבאלע געזונטהייט עמוירדזשענסי
+393,en,yi,,,global outbreak,גלאבאלע אויסברוך
+394,en,yi,,,global pandemic,גלאבאלע פאנדעמיק
+396,en,yi,,,hand sanitizer,האנט סאניטייזער
+397,en,yi,,,hand sanitizer dispenser,האנט סאניטייזער דיספענסער
+398,en,yi,,,hand sanitizer gel,האנט סאניטייזער דזשעל
+399,en,yi,,,hand sanitizer spray,האנט סאניטייזער ספרעי
+403,en,yi,,,home isolation,היים איזאלאציע
+404,en,yi,,,home quarantine,היים קווארענטיין
+410,en,yi,,,illness,קראנקהייט
+415,en,yi,,,incubation period,אינקיובאציע פעריאדע
+418,en,yi,,,infected,אנגעשטעקט
+424,en,yi,,,instant hand sanitizer,אינסטענט האנט סאניטייזער
+425,en,yi,,,international spread,אינטערנאציאנאלע צעשפרייטונג
+426,en,yi,,,international travel,אינטערנאציאנאלע טראוועל
+427,en,yi,,,isolation,איזאלאציע
+428,en,yi,,,isolation period,איזאלאציע פעריאדע
+430,en,yi,,,isolation room,איזאלאציע צימער
+431,en,yi,,,isolation valve,איזאלאציע וואלוו
+432,en,yi,,,isolation ward,איזאלאציע וואורד
+434,en,yi,,,lockdown,פארשלאסענקייט
+438,en,yi,,,major outbreak,גרויסער אויסברוך
+439,en,yi,,,mandatory quarantine,געצוואונגענע קווארענטיין
+440,en,yi,,,mass gathering,מאסן פארזאמלונג
+444,en,yi,,,medicine,מעדיצין
+445,en,yi,,,medicines,מעדעצינען
+448,en,yi,,,n95,ען.95
+449,en,yi,,,n95 mask,ען.95 מאסק
+450,en,yi,,,n95 respirator,ען.95 רעספירעיטאר
+451,en,yi,,,ncov,ען.סי.או.ווי.
+452,en,yi,,,ncov-2019,ען.סי.או.ווי.-2019
+453,en,yi,,,new coronavirus,נייע קאראנעוויירוס
+454,en,yi,,,new coronavirus pneumonia,נייע קאראנעוויירוס נעמאניע
+460,en,yi,,,novel coronavirus,נייע קאראנעוויירוס
+462,en,yi,,,novel coronavirus infection,נייע קאראנעוויירוס אינפעקציע
+463,en,yi,,,novel coronavirus outbreak,נייע קאראנעוויירוס אויסברוך
+464,en,yi,,,novel coronavirus pneumonia,נייע קאראנעוויירוס נאעמאניע
+470,en,yi,,,ongoing outbreak,אנגייענדיגע אויסברוך
+472,en,yi,,,outbreak,אויסברוך
+474,en,yi,,,outbreak of coronavirus,אויסברוך פון די קאראנעוויירוס
+475,en,yi,,,outbreak of disease,אויסברוך פון די קראנקהייט
+482,en,yi,,,pandemic,פאנדעמיק
+485,en,yi,,,pandemic influenza,פאנדעמיק אינפלוענזא
+486,en,yi,,,pandemic outbreak,פאנדעמישע אויסברוך
+487,en,yi,,,pandemic plan,פאנדעמיק פלאן
+488,en,yi,,,pandemic potential,פאנדעמיק פאטענציאל
+495,en,yi,,,pneumonia,נעמאניע
+496,en,yi,,,pneumonia epidemic,נעמאניע עפידעמיע
+497,en,yi,,,potential exposure,פאטענציאלע אויסגעשטעלטקייט
+498,en,yi,,,precautions,מאסנאמען
+499,en,yi,,,prevent virus,פארמיידט וויירוס
+500,en,yi,,,prolonged exposure,פארלענגערטע אויסגעשטעלטקייט
+504,en,yi,,,quarantine,קווארענטין
+505,en,yi,,,quarantine area,קוורענטיין פלאץ
+506,en,yi,,,quarantine facility,קווארענטיין פאסיליטי
+507,en,yi,,,quarantine measures,קווארענטיין מיטלען
+508,en,yi,,,quarantine period,קווארענטיין פעריאדע
+509,en,yi,,,quarantine room,קווארענטיין צימער
+510,en,yi,,,quarantine zone,קווארענטיין זאנע
+512,en,yi,,,Recovered coronavirus patient,ערהוילטע קאראנעוויירוס פאציענט
+514,en,yi,,,repatriate,אהיים ברענגן
+515,en,yi,,,repeated exposure,נאכאנאנדיגע אויסגעשטעלטקייט
+516,en,yi,,,respiratory syncytial virus,רעספיראטארי סינקסיטיעל וויירוס
+517,en,yi,,,respiratory virus,רעספיראטארי וויירוס
+519,en,yi,,,Sanitizing hand sanitizer,סאניטייזינג האנט סאניטייזער
+520,en,yi,,,SARS-CoV-2,סארס-סי.או.ווי.-2
+521,en,yi,,,self isolation,זעלבסט איזאלאציע
+522,en,yi,,,self quarantine,זעלבסט קווארענטיין
+523,en,yi,,,Severe outbreak,ערנסטע אויסברוך
+525,en,yi,,,social distancing,סאציאלע אפזונדערונג
+526,en,yi,,,social distancing measures,סאציאלע אפזונדערונג מיטלען
+527,en,yi,,,social isolation,סאציאלע איזאלאציע
+528,en,yi,,,SOS Alert,עס.או.עס. וואכזאמקייט
+529,en,yi,,,spread,צעשפרייטן
+530,en,yi,,,spread of coronavirus,צעשפרייטונג פון קאראנוויירוס
+531,en,yi,,,spread of virus,צעשפרייטונג פון וויירוס
+535,en,yi,,,strain of virus,סטרעין פון וויירוס
+541,en,yi,,,the incubation period,די אינקיובאציע פעריאדע
+544,en,yi,,,the novel coronavirus,די נייע קאראנעוויירוס
+558,en,yi,,,touching face,אנרירן דעם פנים
+559,en,yi,,,travel advisory,טראוועל באווארענונג
+560,en,yi,,,travel ban,טראוועל פארבאט
+561,en,yi,,,travel restrictions,טראוועל באגרעניתונגען
+565,en,yi,,,use hand sanitizer,נוצט האנט סאניטייזער
+566,en,yi,,,vaccines,וואקסינען
+567,en,yi,,,viral outbreak,ווירואלע אויסברוך
+568,en,yi,,,virtual lockdown,טאטאלע אפשליסונג
+569,en,yi,,,virus,וויירוס
+570,en,yi,,,virus carrier,וויירוס טראגער
+573,en,yi,,,virus infection,וויירוס אינפעקציע
+575,en,yi,,,virus mask,וויירוס מאסק
+576,en,yi,,,virus outbreak,וויירוס אויסברוך
+577,en,yi,,,virus prevention,וויירוס פארמיידונג
+578,en,yi,,,virus protection,וויירוס באשיצונג
+580,en,yi,,,virus spread,וויירוס צעשפרייט
+582,en,yi,,,virus spreads,וויירוס צעשפרייטונג
+583,en,yi,,,virus strain,וויירוס סטרעין
+584,en,yi,,,virus transmission,וויירוס איבערגעבונג
+586,en,yi,,,wash your hands,וואשט אייערע הענט
+587,en,yi,,,washing hands,וואשן די הענט
+589,en,yi,,,WHO,וועלט געזונטהייט ארגאניזאציע
+590,en,yi,,,WHO Confirmed,וועלט געזונטהייט ארגאניזאציע באשטעטיגט
+591,en,yi,,,WHO Deaths,וועלט געזונטהייט ארגאניזאציע טויטפעלער
+592,en,yi,,,widespread outbreak,ווייט צעשפרייטע אויסברוך
+597,en,yi,,,World Health Organization,וועלט געזונטהייט ארגאניזאציע
+600,en,yi,,,zoonotic disease,זואנאטיק קראנהייט
+601,en,yi,,,zoonotic virus,זואנאטיק וויירוס

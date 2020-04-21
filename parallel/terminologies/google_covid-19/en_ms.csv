@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,ms,,,14 days in isolation,14 hari dalam pengasingan
+26,en,ms,,,14 days quarantine,kuarantin 14 hari
+27,en,ms,,,2019 coronavirus,koronavirus 2019
+28,en,ms,,,2019 novel coronavirus,koronavirus baharu 2019
+29,en,ms,,,2019-nCoV,2019-nCO9
+30,en,ms,,,2020 coronavirus,koronavirus 2020
+31,en,ms,,,2020 novel coronavirus,koronavirus baharu 2020
+33,en,ms,,,about coronavirus,tentang koronavirus
+39,en,ms,,,acute respiratory distress syndrome,sindrom kecemasan respiratori akut
+40,en,ms,,,advanced hand sanitizer,pembersih tangan termaju
+41,en,ms,,,Affected by coronavirus,Terkesan oleh koronavirus
+42,en,ms,,,after exposure,selepas terdedah
+43,en,ms,,,After the epidemic,Selepas epidemik
+44,en,ms,,,After the outbreak,Selepas wabak
+47,en,ms,,,airborne virus,virus bawaan udara
+48,en,ms,,,alcohol based hand sanitizer,pembersih tangan berasaskan alkohol
+49,en,ms,,,alcohol hand sanitizer,pembersih tangan alkohol
+51,en,ms,,,alcohol-based hand sanitizer,pembersih tangan berasaskan alkohol
+59,en,ms,,,Anti-Corona virus spray,semburan antikoronavirus
+60,en,ms,,,antibacterial hand sanitizer,pembersih tangan antibakteria
+61,en,ms,,,ARDS,ARDS
+64,en,ms,,,avoid exposure,elakkan terdedah
+65,en,ms,,,be infected,dijangkiti
+75,en,ms,,,Beware of coronavirus,Berwaspada terhadap koronavirus
+76,en,ms,,,bilateral interstitial pneumonia,pnuemonia iterstitial bilateral
+77,en,ms,,,CDC,CDC
+78,en,ms,,,Center for Disease Control,Pusat Kawalan Penyakit
+83,en,ms,,,community spread,penyebaran komuniti
+84,en,ms,,,compulsory quarantine,kuarantin wajib
+85,en,ms,,,contagious,berjangkit
+135,en,ms,,,coronavirus,koronavirus
+136,en,ms,,,coronavirus (COVID-19),koronavirus (Covid-19)
+137,en,ms,,,coronavirus alert,amaran koronavirus
+139,en,ms,,,coronavirus cases,kes-kes koronavirus
+141,en,ms,,,coronavirus concerns,kebimbangan koronavirus
+143,en,ms,,,coronavirus crisis,krisis koronavirus
+149,en,ms,,,coronavirus disease,penyakit koronavirus
+150,en,ms,,,Coronavirus disease (COVID-19) outbreak,Wabak penyakit koronavirus (COVID-19)
+153,en,ms,,,coronavirus early symptoms,simptom awal koronavirus
+155,en,ms,,,coronavirus epidemic,epidemik koronavirus
+156,en,ms,,,coronavirus exposure,dedahan koronavirus
+161,en,ms,,,coronavirus incubation,pengeraman koronavirus
+162,en,ms,,,coronavirus incubation period,tempoh pengeraman koronavirus
+163,en,ms,,,coronavirus infection,jangkitan koronavirus
+168,en,ms,,,coronavirus map,peta koronavirus
+170,en,ms,,,coronavirus medicine,ubat koronavirus
+171,en,ms,,,coronavirus medicines,ubat-ubatan koronavirus
+172,en,ms,,,coronavirus news,berita koronavirus
+173,en,ms,,,coronavirus outbreak,wabak koronavirus
+174,en,ms,,,coronavirus pandemic,pandemik koronavirus
+176,en,ms,,,coronavirus pneumonia,pneumonia koronavirus
+177,en,ms,,,coronavirus precautions,langkah berjaga-jaga koronavirus
+178,en,ms,,,coronavirus prevention,pencegahan koronavirus
+179,en,ms,,,coronavirus protection,perlindungan koronavirus
+180,en,ms,,,coronavirus quarantine,kuarantin koronavirus
+182,en,ms,,,coronavirus SOS Alert,Amaran SOS koronavirus
+183,en,ms,,,coronavirus spread,sebaran koronavirus
+184,en,ms,,,coronavirus symptoms,simptom koronavirus
+185,en,ms,,,coronavirus transmission,transmisi koronavirus
+186,en,ms,,,coronavirus travel ban,larangan perjalanan koronavirus
+187,en,ms,,,coronavirus travel restrictions,sekatan perjalanan koronavirus
+188,en,ms,,,coronavirus treatment,rawatan koronavirus
+190,en,ms,,,coronavirus update,kemas kini koronavirus
+191,en,ms,,,coronavirus vaccine,vaksin koronavirus
+192,en,ms,,,coronavirus vaccines,vaksin-vaksin koronavirus
+198,en,ms,,,covid cases,kes-kes Covid
+205,en,ms,,,covid early symptoms,simptom awal Covid
+213,en,ms,,,covid incubation period,tempoh pengeraman Covid
+215,en,ms,,,covid international spread,penyebaran antarabangsa Covid
+216,en,ms,,,covid international travel,perjalanan antarabangsa Covid
+217,en,ms,,,covid isolation,pengasingan Covid
+219,en,ms,,,covid map,peta Covid
+220,en,ms,,,covid medicine,ubat Covid
+221,en,ms,,,covid medicines,ubat-ubatan Covid
+222,en,ms,,,covid news,berita Covid
+223,en,ms,,,covid outbreak,wabak Covid
+224,en,ms,,,covid pandemic,pandemik Covid
+225,en,ms,,,covid panic,panik Covid
+228,en,ms,,,covid SOS Alert,Amaran SOS Covid
+230,en,ms,,,covid symptoms,simptom Covid
+231,en,ms,,,covid transmission,transmisi Covid
+232,en,ms,,,covid travel ban,larangan perjalanan Covid
+233,en,ms,,,covid travel restrictions,sekatan perjalanan Covid
+234,en,ms,,,covid treatment,rawatan Covid
+236,en,ms,,,covid vaccine,vaksin Covid
+237,en,ms,,,covid vaccines,vaksin-vaksin Covid
+242,en,ms,,,covid-19,Covid-19
+243,en,ms,,,covid-19 alert,amaran Covid-19
+244,en,ms,,,covid-19 cases,kes-kes Covid-19
+245,en,ms,,,covid-19 CDC,CDC Covid-19
+246,en,ms,,,covid-19 contagious,Covid-19 berjangkit
+247,en,ms,,,covid-19 cure,Covid-19 sembuh
+248,en,ms,,,covid-19 dangerous,Covid-19 bahaya
+249,en,ms,,,covid-19 deadly,Covid-19 membunuh
+250,en,ms,,,covid-19 death,kematian Covid-19
+251,en,ms,,,covid-19 deaths,kematian-kematian Covid-19
+252,en,ms,,,covid-19 domestic travel,perjalanan domestik Covid-19
+253,en,ms,,,covid-19 early symptoms,simptom awal Covid-19
+254,en,ms,,,covid-19 effects,kesan Covid-19
+255,en,ms,,,covid-19 epidemic,epidemik Covid-19
+256,en,ms,,,covid-19 exposure,dedahan Covid-19
+257,en,ms,,,covid-19 fatal,maut Covid-19
+258,en,ms,,,covid-19 fever,demam Covid-19
+259,en,ms,,,covid-19 illness,sakit Covid-19
+260,en,ms,,,covid-19 incubation,pengeraman Covid-19
+261,en,ms,,,covid-19 incubation period,tempoh pengeraman Covid-19
+262,en,ms,,,covid-19 infection,jangkitan Covid-19
+263,en,ms,,,covid-19 international spread,penyebaran antarabangsa Covid-19
+264,en,ms,,,covid-19 international travel,perjalanan antarabangsa Covid-19
+265,en,ms,,,covid-19 isolation,pengasingan Covid-19
+266,en,ms,,,covid-19 lockdown,penutupan dan penyekatan Covid-19
+267,en,ms,,,covid-19 map,peta Covid-19
+268,en,ms,,,covid-19 medicine,ubat Covid-19
+269,en,ms,,,covid-19 medicines,ubat-ubatan Covid-19
+270,en,ms,,,covid-19 news,berita Covid-19
+271,en,ms,,,covid-19 outbreak,wabak Covid-19
+272,en,ms,,,covid-19 pandemic,pandemik Covid-19
+273,en,ms,,,covid-19 panic,panik Covid-19
+275,en,ms,,,covid-19 precautions,langkah-langkah berjaga-jaga Covid-19
+276,en,ms,,,covid-19 protection,perlindungan Covid-19
+277,en,ms,,,covid-19 quarantine,kuarantin Covid-19
+278,en,ms,,,covid-19 SOS Alert,Amaran SOS Covid-19
+279,en,ms,,,covid-19 spread,sebaran Covid-19
+280,en,ms,,,covid-19 symptoms,simptom Covid-19
+281,en,ms,,,covid-19 transmission,transmisi Covid-19
+282,en,ms,,,covid-19 travel ban,larangan perjalanan Covid-19
+283,en,ms,,,covid-19 travel restrictions,sekatan perjalanan Covid-19
+284,en,ms,,,covid-19 treatment,rawatan Covid-19
+285,en,ms,,,covid-19 uncontrolled spread,penyebaran tak terkawal Covid-19
+286,en,ms,,,covid-19 vaccine,vaksin Covid-19
+287,en,ms,,,covid-19 vaccines,vaksin-vaksin Covid-19
+288,en,ms,,,COVID-19 virus,virus Covid-19
+289,en,ms,,,covid-19 virus outbreak,wabak virus Covid-19
+290,en,ms,,,covid-19 virus transmission,transmisi virus Covid-19
+291,en,ms,,,covid-19 WHO,Covid-19 WHO
+292,en,ms,,,covid19,Covid19
+293,en,ms,,,covid19 alert,amaran Covid19
+294,en,ms,,,covid19 cases,kes-kes Covid19
+295,en,ms,,,covid19 CDC,CDC Covid19
+301,en,ms,,,covid19 deaths,kematian-kematian Covid19
+302,en,ms,,,covid19 domestic travel,perjalanan domestik Covid19
+303,en,ms,,,covid19 effects,kesan Covid19
+304,en,ms,,,covid19 epidemic,epidemik Covid19
+305,en,ms,,,covid19 exposure,dedahan Covid19
+306,en,ms,,,covid19 fatal,Covid19 membunuh
+307,en,ms,,,covid19 fever,demam Covid19
+308,en,ms,,,covid19 illness,sakit Covid19
+309,en,ms,,,covid19 incubation,pengeraman Covid19
+310,en,ms,,,covid19 incubation period,tempoh pengeraman Covid19
+311,en,ms,,,covid19 infection,jangkitan Covid19
+312,en,ms,,,covid19 international spread,penyebaran antarabangsa Covid19
+313,en,ms,,,covid19 international travel,perjalanan antarabangsa Covid19
+314,en,ms,,,covid19 isolation,pengasingan Covid19
+315,en,ms,,,covid19 lockdown,penutupan dan penyekatan Covid19
+316,en,ms,,,covid19 map,peta Covid19
+317,en,ms,,,covid19 medicine,ubat Covid19
+318,en,ms,,,covid19 medicines,ubat-ubatan Covid19
+319,en,ms,,,covid19 news,berita Covid19
+320,en,ms,,,covid19 outbreak,wabak Covid19
+321,en,ms,,,covid19 pandemic,pandemik Covid19
+324,en,ms,,,covid19 precautions,langkah-langkah berjaga-jaga Covid19
+325,en,ms,,,covid19 protection,perlindungan Covid19
+326,en,ms,,,covid19 quarantine,kuarantin Covid19
+327,en,ms,,,covid19 SOS Alert,Amaran SOS Covid19
+328,en,ms,,,covid19 spread,sebaran Covid19
+329,en,ms,,,covid19 symptoms,simptom Covid19
+330,en,ms,,,covid19 transmission,transmisi Covid19
+331,en,ms,,,covid19 travel ban,larangan perjalanan Covid19
+332,en,ms,,,covid19 travel restrictions,sekatan perjalanan Covid19
+333,en,ms,,,covid19 treatment,rawatan Covid19
+335,en,ms,,,covid19 vaccine,vaksin Covid19
+336,en,ms,,,covid19 vaccines,vaksin-vaksin Covid19
+337,en,ms,,,covid19 virus,virus Covid19
+338,en,ms,,,covid19 virus outbreak,wabak virus Covid19
+339,en,ms,,,covid19 virus transmission,transmisi virus Covid19
+342,en,ms,,,current outbreak,wabak semasa
+343,en,ms,,,deadly outbreak,wabak membunuh
+345,en,ms,,,disease outbreak,wabak penyakit
+346,en,ms,,,Disposable hand sanitizer,Pembasuh tangan boleh buang
+348,en,ms,,,domestic travel,perjalanan domestik
+351,en,ms,,,droplets,titisan-titisan
+357,en,ms,,,Effects of coronavirus,Kesan koronavirus
+359,en,ms,,,epidemic,epidemik
+360,en,ms,,,epidemic and pandemic,epidemik dan pandemik
+362,en,ms,,,epidemic disease,penyakit epidemik
+364,en,ms,,,epidemic outbreak,wabak epidemik
+365,en,ms,,,epidemic period,tempoh epidemik
+366,en,ms,,,epidemic prevention,pencegahan epidemik
+368,en,ms,,,epidemic season,musim epidemik
+369,en,ms,,,epidemic situation,situasi epidemik
+371,en,ms,,,exposure,dedahan
+375,en,ms,,,exposure time,masa dedahan
+379,en,ms,,,fever,demam
+380,en,ms,,,fight the virus,lawan virus itu
+381,en,ms,,,Fighting the outbreak,Melawan wabak
+382,en,ms,,,flu epidemic,epidemik flu
+385,en,ms,,,fomites,fomit
+392,en,ms,,,global health emergency,darurat kesihatan global
+393,en,ms,,,global outbreak,wabak global
+394,en,ms,,,global pandemic,pandemik global
+396,en,ms,,,hand sanitizer,pembersih tangan
+397,en,ms,,,hand sanitizer dispenser,pendispen pembersih tangan
+398,en,ms,,,hand sanitizer gel,gel pembersih tangan
+399,en,ms,,,hand sanitizer spray,semburan pembersih tangan
+403,en,ms,,,home isolation,pengasingan rumah
+404,en,ms,,,home quarantine,kuarantin rumah
+410,en,ms,,,illness,penyakit
+415,en,ms,,,incubation period,tempoh pengeraman
+418,en,ms,,,infected,dijangkiti
+424,en,ms,,,instant hand sanitizer,pembersih tangan segera
+425,en,ms,,,international spread,sebaran antarabangsa
+426,en,ms,,,international travel,perjalanan antarabangsa
+427,en,ms,,,isolation,pengasingan
+428,en,ms,,,isolation period,tempoh pengasingan
+430,en,ms,,,isolation room,bilik pengasingan
+431,en,ms,,,isolation valve,injap pengasingan
+432,en,ms,,,isolation ward,wad pengasingan
+434,en,ms,,,lockdown,penutupan dan penyekatan
+438,en,ms,,,major outbreak,wabak besar
+439,en,ms,,,mandatory quarantine,kuarantin wajib
+440,en,ms,,,mass gathering,perhimpunan besar-besaran
+444,en,ms,,,medicine,ubat
+445,en,ms,,,medicines,ubat-ubatan
+448,en,ms,,,n95,n95
+449,en,ms,,,n95 mask,topeng n95
+450,en,ms,,,n95 respirator,respirator n95
+451,en,ms,,,ncov,Ncov
+452,en,ms,,,ncov-2019,Ncov-2019
+453,en,ms,,,new coronavirus,koronavirus baharu
+454,en,ms,,,new coronavirus pneumonia,pneumonia koronavirus baharu
+460,en,ms,,,novel coronavirus,koronavirus baharu
+462,en,ms,,,novel coronavirus infection,jangkitan koronavirus baharu
+463,en,ms,,,novel coronavirus outbreak,wabak koronavirus baharu
+464,en,ms,,,novel coronavirus pneumonia,pneumonia koronavirus baharu
+470,en,ms,,,ongoing outbreak,wabak yang sedang berlaku
+472,en,ms,,,outbreak,wabak
+474,en,ms,,,outbreak of coronavirus,wabak koronavirus
+475,en,ms,,,outbreak of disease,wabak penyakit
+482,en,ms,,,pandemic,pandemik
+485,en,ms,,,pandemic influenza,influenza pandemik
+486,en,ms,,,pandemic outbreak,wabak pandemik
+487,en,ms,,,pandemic plan,pelan pandemik
+488,en,ms,,,pandemic potential,potensi pandemik
+495,en,ms,,,pneumonia,pneumonia
+496,en,ms,,,pneumonia epidemic,epidemik pneumonia
+497,en,ms,,,potential exposure,dedahan berpotensi
+498,en,ms,,,precautions,langkah berjaga-berjaga
+499,en,ms,,,prevent virus,elak virus
+500,en,ms,,,prolonged exposure,dedahan berpanjangan
+504,en,ms,,,quarantine,kuarantin
+505,en,ms,,,quarantine area,kawasan kuarantin
+506,en,ms,,,quarantine facility,fasiliti kuarantin
+507,en,ms,,,quarantine measures,langkah-langkah kuarantin
+508,en,ms,,,quarantine period,tempoh kuarantin
+509,en,ms,,,quarantine room,bilik kuarantin
+510,en,ms,,,quarantine zone,zon kuarantin
+512,en,ms,,,Recovered coronavirus patient,Pesakit koronavirus yang pulih
+514,en,ms,,,repatriate,hantar balik
+515,en,ms,,,repeated exposure,dedahan berulang
+516,en,ms,,,respiratory syncytial virus,virus sinsitial respiratori
+517,en,ms,,,respiratory virus,virus pernafasan
+519,en,ms,,,Sanitizing hand sanitizer,Membersih pembersih tangan
+520,en,ms,,,SARS-CoV-2,SARS-CoV-2
+521,en,ms,,,self isolation,pengasingan diri
+522,en,ms,,,self quarantine,kuarantin diri
+523,en,ms,,,Severe outbreak,Wabak teruk
+525,en,ms,,,social distancing,penjarakan sosial
+526,en,ms,,,social distancing measures,langkah-langkah penjarakan sosial
+527,en,ms,,,social isolation,pengasingan sosial
+528,en,ms,,,SOS Alert,Amaran SOS
+529,en,ms,,,spread,sebar
+530,en,ms,,,spread of coronavirus,penyebaran koronavirus
+531,en,ms,,,spread of virus,penyebaran virus
+535,en,ms,,,strain of virus,strain virus
+541,en,ms,,,the incubation period,tempoh pengeraman
+544,en,ms,,,the novel coronavirus,koronavirus baharu
+558,en,ms,,,touching face,menyentuh muka
+559,en,ms,,,travel advisory,nasihat perjalanan
+560,en,ms,,,travel ban,larangan perjalanan
+561,en,ms,,,travel restrictions,sekatan perjalanan
+565,en,ms,,,use hand sanitizer,guna pembersih tangan
+566,en,ms,,,vaccines,vaksin-vaksin
+567,en,ms,,,viral outbreak,wabak penularan
+568,en,ms,,,virtual lockdown,penutupan dan penyekatan maya
+569,en,ms,,,virus,virus
+570,en,ms,,,virus carrier,pembawa virus
+573,en,ms,,,virus infection,jangkitan virus
+575,en,ms,,,virus mask,topeng virus
+576,en,ms,,,virus outbreak,wabak virus
+577,en,ms,,,virus prevention,pencegahan virus
+578,en,ms,,,virus protection,perlindungan virus
+580,en,ms,,,virus spread,penyebaran virus
+582,en,ms,,,virus spreads,virus tersebar
+583,en,ms,,,virus strain,strain virus
+584,en,ms,,,virus transmission,transmisi virus
+586,en,ms,,,wash your hands,cuci tangan anda
+587,en,ms,,,washing hands,membasuh tangan
+589,en,ms,,,WHO,WHO
+590,en,ms,,,WHO Confirmed,Disahkan WHO
+591,en,ms,,,WHO Deaths,Kematian WHO
+592,en,ms,,,widespread outbreak,wabak menyeluruh
+597,en,ms,,,World Health Organization,Pertubuhan Kesihatan Dunia
+600,en,ms,,,zoonotic disease,penyakit zoonotik
+601,en,ms,,,zoonotic virus,virus zoonotik

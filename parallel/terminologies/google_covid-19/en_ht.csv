@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,ht,,,14 days in isolation,14 jou ann izolman
+26,en,ht,,,14 days quarantine,14 jou an karantèn
+27,en,ht,,,2019 coronavirus,kowonaviris 2019
+28,en,ht,,,2019 novel coronavirus,nouvo kowonaviris 2019
+29,en,ht,,,2019-nCoV,2019-nCoV
+30,en,ht,,,2020 coronavirus,kowonaviris 2020
+31,en,ht,,,2020 novel coronavirus,nouvo kowonaviris 2020
+33,en,ht,,,about coronavirus,sou kowonaviris
+39,en,ht,,,acute respiratory distress syndrome,pwoblèm respiratwa ki grav anpil
+40,en,ht,,,advanced hand sanitizer,likid ki gen alkòl pou lave men
+41,en,ht,,,Affected by coronavirus,ki enfekte ak kowonaviris
+42,en,ht,,,after exposure,apre kontak ak viris la
+43,en,ht,,,After the epidemic,Apre epidemi an
+44,en,ht,,,After the outbreak,Apre epidemi an ki gaye
+47,en,ht,,,airborne virus,viris moun pran nan lè
+48,en,ht,,,alcohol based hand sanitizer,sanitayzè a baz alkòl
+49,en,ht,,,alcohol hand sanitizer,likid ki gen alkòl pou lave men
+51,en,ht,,,alcohol-based hand sanitizer,likid ki fèt ak alkòl pou lave men
+59,en,ht,,,Anti-Corona virus spray,sprey ki elimine viris kowona
+60,en,ht,,,antibacterial hand sanitizer,sanitayzè ki elimine bakteri
+61,en,ht,,,ARDS,SDRA
+64,en,ht,,,avoid exposure,evite kontak ak
+65,en,ht,,,be infected,enfekte
+75,en,ht,,,Beware of coronavirus,Veye pou w pa pran kowonaviris
+76,en,ht,,,bilateral interstitial pneumonia,nemoni entèstisyèl bilateral
+77,en,ht,,,CDC,CDC
+78,en,ht,,,Center for Disease Control,Sant kontwòl maladi
+83,en,ht,,,community spread,gaye (verb) nan kominote a
+84,en,ht,,,compulsory quarantine,karantèn obligatwa
+85,en,ht,,,contagious,trapan
+135,en,ht,,,coronavirus,kowonaviris
+136,en,ht,,,coronavirus (COVID-19),kowonaviris (COVID-19)
+137,en,ht,,,coronavirus alert,alèt kont kowonaviris
+139,en,ht,,,coronavirus cases,plizyè ka kowonaviris
+141,en,ht,,,coronavirus concerns,enkyetid akoz kowonaviris
+143,en,ht,,,coronavirus crisis,kriz kowonaviris
+149,en,ht,,,coronavirus disease,maladi kowonaviris
+150,en,ht,,,Coronavirus disease (COVID-19) outbreak,epidemi maladi kowonaviris (Kovid-19)
+153,en,ht,,,coronavirus early symptoms,premye sentom kowonaviris
+155,en,ht,,,coronavirus epidemic,epidemi kowonaviris
+156,en,ht,,,coronavirus exposure,kontak ak kowonaviris
+161,en,ht,,,coronavirus incubation,viris kowona ap ponn
+162,en,ht,,,coronavirus incubation period,peryòd enkibasyon kowonaviris
+163,en,ht,,,coronavirus infection,enfeksyon akoz kowonaviris
+168,en,ht,,,coronavirus map,kat jeyografi pou kowonaviris
+170,en,ht,,,coronavirus medicine,remèd pou kowonaviris
+171,en,ht,,,coronavirus medicines,remèd pou kowonaviris
+172,en,ht,,,coronavirus news,nouvèl sou kowonaviris
+173,en,ht,,,coronavirus outbreak,kowonaviris gaye
+174,en,ht,,,coronavirus pandemic,pandemi kowonaviris
+176,en,ht,,,coronavirus pneumonia,nemoni akoz kowonaviris
+177,en,ht,,,coronavirus precautions,prekosyon kont kowonaviris
+178,en,ht,,,coronavirus prevention,prevansyon kont kowonaviris
+179,en,ht,,,coronavirus protection,pwoteksyon kont kowonaviris
+180,en,ht,,,coronavirus quarantine,an karantèn akoz kowonaviris
+182,en,ht,,,coronavirus SOS Alert,Alèt SOS akoz kowonaviris
+183,en,ht,,,coronavirus spread,pwopagasyon kowonaviris
+184,en,ht,,,coronavirus symptoms,sentom kowonaviris
+185,en,ht,,,coronavirus transmission,transmisyon kowonaviris
+186,en,ht,,,coronavirus travel ban,entèdiksyon sou vwayaj akoz kowonaviris
+187,en,ht,,,coronavirus travel restrictions,restriksyon sou vwayaj akoz kowonaviris
+188,en,ht,,,coronavirus treatment,tretman kowonaviris
+190,en,ht,,,coronavirus update,dènye nouvèl sou kowonaviris
+191,en,ht,,,coronavirus vaccine,vaksen kont kowonaviris
+192,en,ht,,,coronavirus vaccines,vaksen kon kowona viris
+198,en,ht,,,covid cases,ka kovid
+205,en,ht,,,covid early symptoms,premye sentom kovid yo
+213,en,ht,,,covid incubation period,peryòd enkibasyon kovid
+215,en,ht,,,covid international spread,vwayaj entènasyonal ak kovid
+216,en,ht,,,covid international travel,vwayaj entènasyonal ak kovid
+217,en,ht,,,covid isolation,an karantèn akoz kovid
+219,en,ht,,,covid map,kat jeyografi kovid
+220,en,ht,,,covid medicine,remèd kovid
+221,en,ht,,,covid medicines,remèd kovid
+222,en,ht,,,covid news,nouvèl sou kovid
+223,en,ht,,,covid outbreak,pwopagasyon kovid
+224,en,ht,,,covid pandemic,pandemi kovid
+225,en,ht,,,covid panic,panik akoz kovid
+228,en,ht,,,covid SOS Alert,Alèt SOS akoz kovid
+230,en,ht,,,covid symptoms,sentom kovid
+231,en,ht,,,covid transmission,fason moun pran kovid
+232,en,ht,,,covid travel ban,entèdiksyon sou vwayaj
+233,en,ht,,,covid travel restrictions,restriksyon sou vwayaj akoz kovid
+234,en,ht,,,covid treatment,tretman kovid
+236,en,ht,,,covid vaccine,vaksen pou kovid
+237,en,ht,,,covid vaccines,vaksen pou kovid
+242,en,ht,,,covid-19,kovid-19
+243,en,ht,,,covid-19 alert,alèt kont kovid-19
+244,en,ht,,,covid-19 cases,ka kovid-19
+245,en,ht,,,covid-19 CDC,kovid-19 CDC
+246,en,ht,,,covid-19 contagious,kovid-19 trapan
+247,en,ht,,,covid-19 cure,remèd kovid-19
+248,en,ht,,,covid-19 dangerous,kovid-19 danjere
+249,en,ht,,,covid-19 deadly,kovid-19 ka touye moun
+250,en,ht,,,covid-19 death,moun ki mouri akoz kovid-19
+251,en,ht,,,covid-19 deaths,kantite moun ki mouri akoz kovid-19
+252,en,ht,,,covid-19 domestic travel,transpò lokal ak kovid-19
+253,en,ht,,,covid-19 early symptoms,premye sentom kovid-19
+254,en,ht,,,covid-19 effects,sentom kovid-19
+255,en,ht,,,covid-19 epidemic,epidemi kovid-19
+256,en,ht,,,covid-19 exposure,an kontak ak kovid-19
+257,en,ht,,,covid-19 fatal,kovid-19 ka touye moun
+258,en,ht,,,covid-19 fever,lafyèv kovid-19
+259,en,ht,,,covid-19 illness,maladi kovid-19
+260,en,ht,,,covid-19 incubation,enkibasyon kovid-19
+261,en,ht,,,covid-19 incubation period,peryòd enkibasyon kovid-19
+262,en,ht,,,covid-19 infection,enfeksyon kovid-19
+263,en,ht,,,covid-19 international spread,kovid-19 ap gaye sou tout tè a
+264,en,ht,,,covid-19 international travel,vwayaj entènasyonal ak kovid-19
+265,en,ht,,,covid-19 isolation,karantèn akoz kovid-19
+266,en,ht,,,covid-19 lockdown,fèmen (lòk) akoz kovid-19
+267,en,ht,,,covid-19 map,kat jeyografi kovid-19
+268,en,ht,,,covid-19 medicine,remèd pou kovid-19
+269,en,ht,,,covid-19 medicines,remèd pou kovid-19
+270,en,ht,,,covid-19 news,nouvèl sou kovid-19
+271,en,ht,,,covid-19 outbreak,pwopagasyon kovid-19
+272,en,ht,,,covid-19 pandemic,pandemi kovid-19
+273,en,ht,,,covid-19 panic,panik akoz kovid-19
+275,en,ht,,,covid-19 precautions,prekosyon kont kovid-19
+276,en,ht,,,covid-19 protection,pwoteksyon kont kovid-19
+277,en,ht,,,covid-19 quarantine,an karantèn akoz kovid-19
+278,en,ht,,,covid-19 SOS Alert,Alèt SOS akoz kovid-19
+279,en,ht,,,covid-19 spread,pwopagasyon kovid-19
+280,en,ht,,,covid-19 symptoms,sentom kovid-19
+281,en,ht,,,covid-19 transmission,transmisyon kovid-19
+282,en,ht,,,covid-19 travel ban,entèdiksyon sou vwayaj akoz kovid-19
+283,en,ht,,,covid-19 travel restrictions,restriksyon sou vwayaj akoz kovid-19
+284,en,ht,,,covid-19 treatment,tretman pou kovid-19
+285,en,ht,,,covid-19 uncontrolled spread,kovid-19 ap gaye san kontwòl
+286,en,ht,,,covid-19 vaccine,vaksen kont kovid-19
+287,en,ht,,,covid-19 vaccines,vaksen kont kovid-19
+288,en,ht,,,COVID-19 virus,viris kovid-19
+289,en,ht,,,covid-19 virus outbreak,viris kovid-19 la gaye
+290,en,ht,,,covid-19 virus transmission,transmisyon viris covid-19
+291,en,ht,,,covid-19 WHO,kovid-19 OMS
+292,en,ht,,,covid19,kovid19
+293,en,ht,,,covid19 alert,alèt kont kovid19
+294,en,ht,,,covid19 cases,ka kovid19
+295,en,ht,,,covid19 CDC,kovid19 CDC
+301,en,ht,,,covid19 deaths,moun ki mouri akoz kovid19
+302,en,ht,,,covid19 domestic travel,transpò lokal ak kovid19
+303,en,ht,,,covid19 effects,sentom kovid19
+304,en,ht,,,covid19 epidemic,epidemi kovid19
+305,en,ht,,,covid19 exposure,an kontak ak kovid19
+306,en,ht,,,covid19 fatal,kovid19 ka touye moun
+307,en,ht,,,covid19 fever,lafyèv kovid19
+308,en,ht,,,covid19 illness,maladi kovid19
+309,en,ht,,,covid19 incubation,enkibasyon kovid19
+310,en,ht,,,covid19 incubation period,peryòd enkibasyon kovid19
+311,en,ht,,,covid19 infection,enfeksyon kovid19
+312,en,ht,,,covid19 international spread,kovid19 gaye sou tout tè a
+313,en,ht,,,covid19 international travel,vwayaj entènasyonal ak kovid19
+314,en,ht,,,covid19 isolation,karantèn akoz kovid19
+315,en,ht,,,covid19 lockdown,lòk akoz kovid19
+316,en,ht,,,covid19 map,kat jeyografi kovid19
+317,en,ht,,,covid19 medicine,remèd pou kovid19
+318,en,ht,,,covid19 medicines,remèd pou kovid19
+319,en,ht,,,covid19 news,nouvèl sou kovid19
+320,en,ht,,,covid19 outbreak,pwopagasyon kovid19
+321,en,ht,,,covid19 pandemic,pandemi kovid19
+324,en,ht,,,covid19 precautions,prekosyon kont kovid19
+325,en,ht,,,covid19 protection,pwoteksyon kont kovid19
+326,en,ht,,,covid19 quarantine,an karantèn akoz kovid19
+327,en,ht,,,covid19 SOS Alert,Alèt SOS akoz kovid19
+328,en,ht,,,covid19 spread,pwopagasyon kovid19
+329,en,ht,,,covid19 symptoms,sentom kovid19
+330,en,ht,,,covid19 transmission,transmisyon kovid19
+331,en,ht,,,covid19 travel ban,entèdiksyon pou moun vwayaje akoz kovid19
+332,en,ht,,,covid19 travel restrictions,anile vwayaj akoz kovid19
+333,en,ht,,,covid19 treatment,tretman kovid19
+335,en,ht,,,covid19 vaccine,vaksen kont kovid19
+336,en,ht,,,covid19 vaccines,vaksen kont kovid19
+337,en,ht,,,covid19 virus,viris kovid19
+338,en,ht,,,covid19 virus outbreak,pwopagasyon viris kovid19
+339,en,ht,,,covid19 virus transmission,transmisyon viris kovid19
+342,en,ht,,,current outbreak,jan maladi a ap gaye a
+343,en,ht,,,deadly outbreak,pandemi mòtèl
+345,en,ht,,,disease outbreak,maladi a gaye
+346,en,ht,,,Disposable hand sanitizer,dezenfektan pou men ou ka jete apre
+348,en,ht,,,domestic travel,vwayaj lokal
+351,en,ht,,,droplets,ti gout
+357,en,ht,,,Effects of coronavirus,konsekans kowonaviris
+359,en,ht,,,epidemic,trapan
+360,en,ht,,,epidemic and pandemic,epidemi ak pandemi
+362,en,ht,,,epidemic disease,maladi trapan
+364,en,ht,,,epidemic outbreak,epidemi ki gaye
+365,en,ht,,,epidemic period,epòk epidemi an
+366,en,ht,,,epidemic prevention,prevansyon kont epidemi
+368,en,ht,,,epidemic season,epòk epidemi
+369,en,ht,,,epidemic situation,akoz sitiyasyon epidemi an
+371,en,ht,,,exposure,ekspoze
+375,en,ht,,,exposure time,moman kontak la
+379,en,ht,,,fever,lafyèv
+380,en,ht,,,fight the virus,lite kont viris la
+381,en,ht,,,Fighting the outbreak,konbat maladi a
+382,en,ht,,,flu epidemic,epidemi grip
+385,en,ht,,,fomites,matyè kontamine
+392,en,ht,,,global health emergency,ijans medikal entènasyonal
+393,en,ht,,,global outbreak,epidemi mondyal
+394,en,ht,,,global pandemic,pandemi mondyal
+396,en,ht,,,hand sanitizer,sanitayzè
+397,en,ht,,,hand sanitizer dispenser,kote yo bay dezenfektan pou men
+398,en,ht,,,hand sanitizer gel,jèl pou dezenfekte men
+399,en,ht,,,hand sanitizer spray,boutèy sprey sanitayzè
+403,en,ht,,,home isolation,ann izolman lakay
+404,en,ht,,,home quarantine,an karantèn lakay
+410,en,ht,,,illness,maladi
+415,en,ht,,,incubation period,peryòd enkibasyon
+418,en,ht,,,infected,enfekte
+424,en,ht,,,instant hand sanitizer,dezenfektan pou men enstantane
+425,en,ht,,,international spread,gaye sou tout tè a
+426,en,ht,,,international travel,vwayaj entènasyonal
+427,en,ht,,,isolation,an karantèn
+428,en,ht,,,isolation period,peryòd izolman
+430,en,ht,,,isolation room,chanm izolman
+431,en,ht,,,isolation valve,wobinè izolman
+432,en,ht,,,isolation ward,seksyon izolman
+434,en,ht,,,lockdown,lòk
+438,en,ht,,,major outbreak,gwo pwopagasyon
+439,en,ht,,,mandatory quarantine,an karantèn obligatwa
+440,en,ht,,,mass gathering,gwo rasanbleman
+444,en,ht,,,medicine,remèd
+445,en,ht,,,medicines,remèd
+448,en,ht,,,n95,n95
+449,en,ht,,,n95 mask,kachnen n95
+450,en,ht,,,n95 respirator,aparèy respiratwa n95
+451,en,ht,,,ncov,ncov
+452,en,ht,,,ncov-2019,ncov-2019
+453,en,ht,,,new coronavirus,nouvo kowonaviris
+454,en,ht,,,new coronavirus pneumonia,nemoni akoz nouvo kowonaviris
+460,en,ht,,,novel coronavirus,nouvo kowonaviris
+462,en,ht,,,novel coronavirus infection,pran nouvo kowonaviris la
+463,en,ht,,,novel coronavirus outbreak,nouvo kowonaviris la ap gaye
+464,en,ht,,,novel coronavirus pneumonia,nemoni akoz nouvo kowonaviris la
+470,en,ht,,,ongoing outbreak,kontinye ap gaye
+472,en,ht,,,outbreak,pwopagasyon
+474,en,ht,,,outbreak of coronavirus,kowonaviris gaye
+475,en,ht,,,outbreak of disease,maladi ki gaye
+482,en,ht,,,pandemic,trapan
+485,en,ht,,,pandemic influenza,sezon grip pandemi
+486,en,ht,,,pandemic outbreak,pandemi ki gaye
+487,en,ht,,,pandemic plan,plan pou pandemi
+488,en,ht,,,pandemic potential,potansyèl pandemi
+495,en,ht,,,pneumonia,nemoni
+496,en,ht,,,pneumonia epidemic,epidemi nemoni
+497,en,ht,,,potential exposure,potansyèl ekspowisyon
+498,en,ht,,,precautions,prekosyon
+499,en,ht,,,prevent virus,anpeche viris
+500,en,ht,,,prolonged exposure,ekspozisyon pwolonje
+504,en,ht,,,quarantine,karantèn
+505,en,ht,,,quarantine area,zòn karantèn
+506,en,ht,,,quarantine facility,espas karantèn
+507,en,ht,,,quarantine measures,dispozisyon karantèn
+508,en,ht,,,quarantine period,peryòd karnatèn
+509,en,ht,,,quarantine room,chanm karantèn
+510,en,ht,,,quarantine zone,zòn karantèn
+512,en,ht,,,Recovered coronavirus patient,pasyan ki te gen kowonaviris ki geri
+514,en,ht,,,repatriate,rapatriye
+515,en,ht,,,repeated exposure,ekspozisyon repete
+516,en,ht,,,respiratory syncytial virus,viris respiratwa sinsisyal
+517,en,ht,,,respiratory virus,viris respiratwa
+519,en,ht,,,Sanitizing hand sanitizer,sanitayzè espesyal
+520,en,ht,,,SARS-CoV-2,SARS-CoV-2
+521,en,ht,,,self isolation,mete tèt ou an izolman
+522,en,ht,,,self quarantine,mete tèt ou an karantèn
+523,en,ht,,,Severe outbreak,gwo epidemi ki gaye
+525,en,ht,,,social distancing,pran distans ak moun
+526,en,ht,,,social distancing measures,dispozisyon pou moun kenbe distans yo
+527,en,ht,,,social isolation,fèmen tèt ou yon kote apa
+528,en,ht,,,SOS Alert,SOS avètisman
+529,en,ht,,,spread,gaye
+530,en,ht,,,spread of coronavirus,pwopagasyon viris la
+531,en,ht,,,spread of virus,viris la ap gaye
+535,en,ht,,,strain of virus,rasin viris la
+541,en,ht,,,the incubation period,peryòd enkibasyon an
+544,en,ht,,,the novel coronavirus,nouvo kowonaviris la
+558,en,ht,,,touching face,manyen figi
+559,en,ht,,,travel advisory,konsèy pou vwayaj
+560,en,ht,,,travel ban,entèdiksyon pou vwayaje
+561,en,ht,,,travel restrictions,restriksyon pou vwayaje
+565,en,ht,,,use hand sanitizer,sèvi ak sanitayzè
+566,en,ht,,,vaccines,vaksen
+567,en,ht,,,viral outbreak,epidemi ki gaye toupatou
+568,en,ht,,,virtual lockdown,lòk vityèl
+569,en,ht,,,virus,viris
+570,en,ht,,,virus carrier,ki pote viris
+573,en,ht,,,virus infection,enfeksyon viris
+575,en,ht,,,virus mask,mas pou viris
+576,en,ht,,,virus outbreak,viris ki gaye
+577,en,ht,,,virus prevention,prevansyon kont viris
+578,en,ht,,,virus protection,proteksyon kont viris
+580,en,ht,,,virus spread,viris ki gaye
+582,en,ht,,,virus spreads,viris ki gaye
+583,en,ht,,,virus strain,tach viris
+584,en,ht,,,virus transmission,transmisyon viris
+586,en,ht,,,wash your hands,lave men w
+587,en,ht,,,washing hands,lave men
+589,en,ht,,,WHO,OMS
+590,en,ht,,,WHO Confirmed,WHO konfime
+591,en,ht,,,WHO Deaths,moun ki mouri selon WHO
+592,en,ht,,,widespread outbreak,epidemi ki gaye byen lwen
+597,en,ht,,,World Health Organization,Òganizasyon mondyal pou lasante
+600,en,ht,,,zoonotic disease,maladi bèt ka bay
+601,en,ht,,,zoonotic virus,viris bèt ka bay

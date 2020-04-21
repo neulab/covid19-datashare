@@ -1,0 +1,314 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,fa,,,14 days in isolation,14 روز ایزوله سازی
+26,en,fa,,,14 days quarantine,قرنطینه 14 روزه
+27,en,fa,,,2019 coronavirus,ویروس کرونای 2019
+28,en,fa,,,2019 novel coronavirus,ویروس کرونای جدید 2019
+29,en,fa,,,2019-nCoV,2019-nCoV
+30,en,fa,,,2020 coronavirus,ویروس کرونای 2020
+31,en,fa,,,2020 novel coronavirus,ویروس کرونای جدید 2020
+33,en,fa,,,about coronavirus,درباره ویروس کرونا
+39,en,fa,,,acute respiratory distress syndrome,سندرم دیسترس تنفسی حاد
+40,en,fa,,,advanced hand sanitizer,ضدعفونی کننده پیشرفته دست
+41,en,fa,,,Affected by coronavirus,مبتلا به ویروس کرونا
+42,en,fa,,,after exposure,بعد از قرارگیری در معرض بیماری
+43,en,fa,,,After the epidemic,بعد از اپیدمی
+44,en,fa,,,After the outbreak,بعد از شیوع
+47,en,fa,,,airborne virus,ویروس های قابل انتقال در هوا
+48,en,fa,,,alcohol based hand sanitizer,ضد عفونی کننده الکلی دست
+49,en,fa,,,alcohol hand sanitizer,ضدعفونی کننده الکلی دست
+51,en,fa,,,alcohol-based hand sanitizer,ضد عفونی کننده الکلی دست
+59,en,fa,,,Anti-Corona virus spray,اسپری ضد ویروس کرونا
+60,en,fa,,,antibacterial hand sanitizer,ضد عفونی کننده ضد باکتری دست
+61,en,fa,,,ARDS,ARDS
+64,en,fa,,,avoid exposure,در معرض ویروس قرار نگیرید
+65,en,fa,,,be infected,مبتلا شدن
+75,en,fa,,,Beware of coronavirus,مراقب ویروس کرونا باشید
+76,en,fa,,,bilateral interstitial pneumonia,ذات الریه بینابینی دوطرفه
+77,en,fa,,,CDC,CDC
+78,en,fa,,,Center for Disease Control,مرکز کنترل بیماری
+83,en,fa,,,community spread,گسترش در سطح جامعه
+84,en,fa,,,compulsory quarantine,قرنطینه اجباری
+85,en,fa,,,contagious,مسری
+135,en,fa,,,coronavirus,ویروس کرونا
+136,en,fa,,,coronavirus (COVID-19),ویروس کرونا (کووید 19)
+137,en,fa,,,coronavirus alert,هشدار ویروس کرونا
+139,en,fa,,,coronavirus cases,موارد ویروس کرونا
+141,en,fa,,,coronavirus concerns,نگرانی های مربوط به ویروس کرونا
+143,en,fa,,,coronavirus crisis,بحران ویروس کرونا
+149,en,fa,,,coronavirus disease,بیماری ویروس کرونا
+150,en,fa,,,Coronavirus disease (COVID-19) outbreak,شیوع بیماری ویروس کرونا (کووید 19)
+153,en,fa,,,coronavirus early symptoms,علائم اولیه ابتلا به ویروس کرونا
+155,en,fa,,,coronavirus epidemic,اپیدمی ویروس کرونا
+156,en,fa,,,coronavirus exposure,تماس با ویروس کرونا
+161,en,fa,,,coronavirus incubation,دوره نهفتگی ویروس کرونا
+162,en,fa,,,coronavirus incubation period,دوره نهفتگی ویروس کرونا
+163,en,fa,,,coronavirus infection,ابتلا به ویروس کرونا
+168,en,fa,,,coronavirus map,نقشه ویروس کرونا
+170,en,fa,,,coronavirus medicine,داروی ویروس کرونا
+171,en,fa,,,coronavirus medicines,داروهای ویروس کرونا
+172,en,fa,,,coronavirus news,اخبار مربوط به ویروس کرونا
+173,en,fa,,,coronavirus outbreak,شیوع ویروس کرونا
+174,en,fa,,,coronavirus pandemic,پاندمی ویروس کرونا
+176,en,fa,,,coronavirus pneumonia,ذات الریه ناشی از ویروس کرونا
+177,en,fa,,,coronavirus precautions,احتیاط های مربوط به ویروس کرونا
+178,en,fa,,,coronavirus prevention,پیشگیری از ویروس کرونا
+179,en,fa,,,coronavirus protection,محافظت در برابر ویروس کرونا
+180,en,fa,,,coronavirus quarantine,قرنطینه برای ویروس کرونا
+182,en,fa,,,coronavirus SOS Alert,هشدار SOS ویروس کرونا
+183,en,fa,,,coronavirus spread,گسترش ویروس کرونا
+184,en,fa,,,coronavirus symptoms,علائم ابتلا به ویروس کرونا
+185,en,fa,,,coronavirus transmission,انتقال ویروس کرونا
+186,en,fa,,,coronavirus travel ban,ممنوعیت سفر در زمان شیوع ویروس کرونا
+187,en,fa,,,coronavirus travel restrictions,محدودیت های سفر در زمان شیوع ویروس کرونا
+188,en,fa,,,coronavirus treatment,درمان ویروس کرونا
+190,en,fa,,,coronavirus update,به روز رسانی مربوط به ویروس کرونا
+191,en,fa,,,coronavirus vaccine,واکسن ویروس کرونا
+192,en,fa,,,coronavirus vaccines,واکسن های ویروس کرونا
+198,en,fa,,,covid cases,موارد کووید
+205,en,fa,,,covid early symptoms,علائم زودهنگام کووید
+213,en,fa,,,covid incubation period,دوره نهفتگی کووید
+215,en,fa,,,covid international spread,گسترش بین المللی کووید
+216,en,fa,,,covid international travel,سفر بین المللی در زمان انتشار کووید
+217,en,fa,,,covid isolation,ایزوله سازی به دلیل کووید
+219,en,fa,,,covid map,نقشه کووید
+220,en,fa,,,covid medicine,داروی کووید
+221,en,fa,,,covid medicines,داروهای کووید
+222,en,fa,,,covid news,اخبار مربوط به کووید
+223,en,fa,,,covid outbreak,شیوع کووید
+224,en,fa,,,covid pandemic,پاندمی کووید
+225,en,fa,,,covid panic,وحشت ناشی از کووید
+228,en,fa,,,covid SOS Alert,هشدار SOS کووید
+230,en,fa,,,covid symptoms,علائم کووید
+231,en,fa,,,covid transmission,انتقال کووید
+232,en,fa,,,covid travel ban,ممنوعیت سفر در زمان انتشار کووید
+233,en,fa,,,covid travel restrictions,محدودیت های سفر در زمان انتشار کووید
+234,en,fa,,,covid treatment,درمان کووید
+236,en,fa,,,covid vaccine,واکسن کووید
+237,en,fa,,,covid vaccines,واکسن های کووید
+242,en,fa,,,covid-19,کووید 19
+243,en,fa,,,covid-19 alert,هشدار کووید 19
+244,en,fa,,,covid-19 cases,موارد ابتلا به کووید 19
+245,en,fa,,,covid-19 CDC,CDC کووید 19
+246,en,fa,,,covid-19 contagious,کووید 19 مسری
+247,en,fa,,,covid-19 cure,درمان کووید 19
+248,en,fa,,,covid-19 dangerous,کووید 19 خطرناک
+249,en,fa,,,covid-19 deadly,کووید 19 کشنده
+250,en,fa,,,covid-19 death,مرگ ناشی از کووید 19
+251,en,fa,,,covid-19 deaths,موارد مرگ ناشی از کووید 19
+252,en,fa,,,covid-19 domestic travel,سفر خانگی در زمان انتشار کووید 19
+253,en,fa,,,covid-19 early symptoms,علائم اولیه ابتلا به کووید 19
+254,en,fa,,,covid-19 effects,تأثیرات کووید 19
+255,en,fa,,,covid-19 epidemic,اپیدمی کووید 19
+256,en,fa,,,covid-19 exposure,قرارگیری در معرض کووید 19
+257,en,fa,,,covid-19 fatal,کووید 19 کشنده
+258,en,fa,,,covid-19 fever,تب ناشی از کووید 19
+259,en,fa,,,covid-19 illness,بیماری کووید 19
+260,en,fa,,,covid-19 incubation,دوره نهفتگی کووید 19
+261,en,fa,,,covid-19 incubation period,دوره نهفتگی کووید 19
+262,en,fa,,,covid-19 infection,ابتلا به کووید 19
+263,en,fa,,,covid-19 international spread,گسترش بین المللی کووید 19
+264,en,fa,,,covid-19 international travel,سفر بین المللی کووید 19
+265,en,fa,,,covid-19 isolation,ایزوله سازی برای کووید 19
+266,en,fa,,,covid-19 lockdown,تعطیلی ناشی از کووید 19
+267,en,fa,,,covid-19 map,نقشه کووید 19
+268,en,fa,,,covid-19 medicine,داروی کووید 19
+269,en,fa,,,covid-19 medicines,داروهای کووید 19
+270,en,fa,,,covid-19 news,اخبار مربوط به کووید 19
+271,en,fa,,,covid-19 outbreak,شیوع کووید 19
+272,en,fa,,,covid-19 pandemic,پاندمی کووید 19
+273,en,fa,,,covid-19 panic,وحشت ناشی از کووید 19
+275,en,fa,,,covid-19 precautions,موارد احتیاط مربوط به کووید 19
+276,en,fa,,,covid-19 protection,محافظت در برابر کووید 19
+277,en,fa,,,covid-19 quarantine,قرنطینه برای کووید 19
+278,en,fa,,,covid-19 SOS Alert,هشدار SOS کووید 19
+279,en,fa,,,covid-19 spread,گسترش کووید 19
+280,en,fa,,,covid-19 symptoms,علائم کووید 19
+281,en,fa,,,covid-19 transmission,انتقال کووید 19
+282,en,fa,,,covid-19 travel ban,ممنوعیت سفر در زمان شیوع کووید 19
+283,en,fa,,,covid-19 travel restrictions,محدودیت های سفر در زمان شیوع کووید 19
+284,en,fa,,,covid-19 treatment,درمان کووید 19
+285,en,fa,,,covid-19 uncontrolled spread,گسترش بدون کنترل کووید 19
+286,en,fa,,,covid-19 vaccine,واکسن کووید 19
+287,en,fa,,,covid-19 vaccines,واکسن های کووید 19
+288,en,fa,,,COVID-19 virus,ویروس کووید 19
+289,en,fa,,,covid-19 virus outbreak,شیوع ویروس کووید 19
+290,en,fa,,,covid-19 virus transmission,انتقال ویروس کووید 19
+291,en,fa,,,covid-19 WHO,سازمان بهداشت جهانی کووید 19
+292,en,fa,,,covid19,کووید 19
+293,en,fa,,,covid19 alert,هشدار کووید 19
+294,en,fa,,,covid19 cases,موارد ابتلا به کووید 19
+295,en,fa,,,covid19 CDC,CDC کووید 19
+301,en,fa,,,covid19 deaths,موارد مرگ ناشی از کووید 19
+302,en,fa,,,covid19 domestic travel,سفر خانگی در زمان شیوع کووید 19
+303,en,fa,,,covid19 effects,تأثیرات ناشی از کووید 19
+304,en,fa,,,covid19 epidemic,اپیدمی کووید 19
+305,en,fa,,,covid19 exposure,قرارگیری در معرض کووید 19
+306,en,fa,,,covid19 fatal,موارد کشنده کووید 19
+307,en,fa,,,covid19 fever,تب ناشی از کووید 19
+308,en,fa,,,covid19 illness,بیماری کووید 19
+309,en,fa,,,covid19 incubation,دوره نهفتگی کووید 19
+310,en,fa,,,covid19 incubation period,دوره نهفتگی کووید 19
+311,en,fa,,,covid19 infection,ابتلا به کووید 19
+312,en,fa,,,covid19 international spread,گسترش بین المللی کووید 19
+313,en,fa,,,covid19 international travel,سفر بین المللی کووید 19
+314,en,fa,,,covid19 isolation,ایزوله سازی ناشی از کووید 19
+315,en,fa,,,covid19 lockdown,تعطیلی به دلیل کووید 19
+316,en,fa,,,covid19 map,نقشه کووید 19
+317,en,fa,,,covid19 medicine,داروی کووید 19
+318,en,fa,,,covid19 medicines,داروهای کووید 19
+319,en,fa,,,covid19 news,اخبار مربوط به کووید 19
+320,en,fa,,,covid19 outbreak,شیوع کووید 19
+321,en,fa,,,covid19 pandemic,پاندمی کووید 19
+324,en,fa,,,covid19 precautions,موارد احتیاط در مورد کووید 19
+325,en,fa,,,covid19 protection,محافظت در برابر کووید 19
+326,en,fa,,,covid19 quarantine,قرنطینه برای کووید 19
+327,en,fa,,,covid19 SOS Alert,هشدار SOS کووید 19
+328,en,fa,,,covid19 spread,گسترش کووید 19
+329,en,fa,,,covid19 symptoms,علائم کووید 19
+330,en,fa,,,covid19 transmission,انتقال کووید 19
+331,en,fa,,,covid19 travel ban,ممنوعیت سفر در زمان انتشار کووید 19
+332,en,fa,,,covid19 travel restrictions,محدودیت های سفر در زمان انتشار کووید 19
+333,en,fa,,,covid19 treatment,درمان کووید 19
+335,en,fa,,,covid19 vaccine,واکسن کووید 19
+336,en,fa,,,covid19 vaccines,واکسن های کووید 19
+337,en,fa,,,covid19 virus,ویروس کووید 19
+338,en,fa,,,covid19 virus outbreak,شیوع ویروس کووید 19
+339,en,fa,,,covid19 virus transmission,انتقال ویروس کووید 19
+342,en,fa,,,current outbreak,شیوع فعلی
+343,en,fa,,,deadly outbreak,شیوع کشنده
+345,en,fa,,,disease outbreak,شیوع بیماری
+346,en,fa,,,Disposable hand sanitizer,ضد عفونی کننده دست
+348,en,fa,,,domestic travel,سفر داخلی
+351,en,fa,,,droplets,قطره
+357,en,fa,,,Effects of coronavirus,تأثیرات ویروس کرونا
+359,en,fa,,,epidemic,اپیدمی
+360,en,fa,,,epidemic and pandemic,اپیدمی و پاندمی
+362,en,fa,,,epidemic disease,بیماری اپیدمی
+364,en,fa,,,epidemic outbreak,شیوع اپیدمی
+365,en,fa,,,epidemic period,دوره اپیدمی
+366,en,fa,,,epidemic prevention,پیشگیری از حالت اپیدمی
+368,en,fa,,,epidemic season,فصل اپیدمی
+369,en,fa,,,epidemic situation,وضعیت اپیدمی
+371,en,fa,,,exposure,قرار گرفتن در معرض بیماری
+375,en,fa,,,exposure time,مدت زمان قرارگیری در معرض بیماری
+379,en,fa,,,fever,تب
+380,en,fa,,,fight the virus,مبارزه با ویروس
+381,en,fa,,,Fighting the outbreak,مبارزه با ویروس
+382,en,fa,,,flu epidemic,اپیدمی آنفولانزا
+385,en,fa,,,fomites,اقلام ناقل بیماری
+392,en,fa,,,global health emergency,وضعیت اضطراری جهانی در مورد سلامت
+393,en,fa,,,global outbreak,شیوع جهانی
+394,en,fa,,,global pandemic,پاندمی جهانی
+396,en,fa,,,hand sanitizer,ضدعفونی کننده دست
+397,en,fa,,,hand sanitizer dispenser,پخش کننده ضد عفونی کننده دست
+398,en,fa,,,hand sanitizer gel,ژل ضد عفونی کننده دست
+399,en,fa,,,hand sanitizer spray,اسپری ضد عفونی کننده دست
+401,en,fa,,,Hepatitis B virus,ویروس هپاتیت B
+402,en,fa,,,herpes simplex virus,ویروس هرپس سیمپلکس
+403,en,fa,,,home isolation,ایزوله سازی در خانه
+404,en,fa,,,home quarantine,قرنطینه در خانه
+410,en,fa,,,illness,بیماری
+415,en,fa,,,incubation period,دوره نفهتگی
+418,en,fa,,,infected,مبتلا شده
+424,en,fa,,,instant hand sanitizer,ضد عفونی کننده سریع دست
+425,en,fa,,,international spread,گسترش بین المللی
+426,en,fa,,,international travel,سفر بین المللی
+427,en,fa,,,isolation,ایزوله/جداسازی
+428,en,fa,,,isolation period,دوره ایزوله سازی
+430,en,fa,,,isolation room,اتاق ایزوله سازی
+431,en,fa,,,isolation valve,سوپاپ ایزوله سازی
+432,en,fa,,,isolation ward,بخش ایزوله سازی
+434,en,fa,,,lockdown,تعطیلی
+436,en,fa,,,long exposure,قرارگیری طولانی مدت در معرض بیماری
+438,en,fa,,,major outbreak,شیوع بزرگ
+439,en,fa,,,mandatory quarantine,قرنطینه الزامی
+440,en,fa,,,mass gathering,تجمع زیاد
+444,en,fa,,,medicine,دارو
+445,en,fa,,,medicines,داروها
+447,en,fa,,,mumps virus,ویروس اوریون
+448,en,fa,,,n95,n95
+449,en,fa,,,n95 mask,ماسک n95
+450,en,fa,,,n95 respirator,وسیله تنفسی n95
+451,en,fa,,,ncov,ncov
+452,en,fa,,,ncov-2019,ncov-2019
+453,en,fa,,,new coronavirus,ویروس کرونای جدید
+454,en,fa,,,new coronavirus pneumonia,ذات الریه جدید ناشی از ویروس کرونا
+460,en,fa,,,novel coronavirus,ویروس کرونای جدید
+462,en,fa,,,novel coronavirus infection,ابتلا به ویروس کرونای جدید
+463,en,fa,,,novel coronavirus outbreak,شیوع ویروس کرونای جدید
+464,en,fa,,,novel coronavirus pneumonia,ذات الریه ناشی از ویروس کرونای جدید
+470,en,fa,,,ongoing outbreak,ادامه تعطیلی
+472,en,fa,,,outbreak,شیوع
+474,en,fa,,,outbreak of coronavirus,شیوع ویروس کرونا
+475,en,fa,,,outbreak of disease,شیوع بیماری
+482,en,fa,,,pandemic,پاندمی
+485,en,fa,,,pandemic influenza,پاندمی آنفولانزا
+486,en,fa,,,pandemic outbreak,شیوع پاندمی
+487,en,fa,,,pandemic plan,طرح پاندمی
+488,en,fa,,,pandemic potential,احتمال بروز پاندمی
+495,en,fa,,,pneumonia,ذات الریه
+496,en,fa,,,pneumonia epidemic,اپیدمی آنفولانزا
+497,en,fa,,,potential exposure,احتمال قرارگیری در معرض بیماری
+498,en,fa,,,precautions,موارد احتیاط
+499,en,fa,,,prevent virus,پیشگیری از ویروس
+500,en,fa,,,prolonged exposure,قرارگیری طولانی در معرض بیماری
+501,en,fa,,,public exposure,قرارگیری عمومی در معرض بیماری
+502,en,fa,,,purell hand sanitizer,ضد عفونی کننده دست purell
+504,en,fa,,,quarantine,قرنطینه
+505,en,fa,,,quarantine area,منطقه قرنطینه
+506,en,fa,,,quarantine facility,امکانات قرنطینه
+507,en,fa,,,quarantine measures,ابزار قرنطینه
+508,en,fa,,,quarantine period,دوره قرنطینه
+509,en,fa,,,quarantine room,اتاق قرنطینه
+510,en,fa,,,quarantine zone,منطقه قرنطینه
+512,en,fa,,,Recovered coronavirus patient,بیماران بهبود یافته از ویروس کرونا
+514,en,fa,,,repatriate,بازگشت به وطن
+515,en,fa,,,repeated exposure,قرارگیری مکرر در معرض بیماری
+516,en,fa,,,respiratory syncytial virus,ویروس سین سیشال تنفسی
+517,en,fa,,,respiratory virus,ویروس تنفسی
+518,en,fa,,,risk exposure,احتمال قرارگیری در معرض بیماری
+519,en,fa,,,Sanitizing hand sanitizer,ضد عفونی کننده دست
+520,en,fa,,,SARS-CoV-2,SARS-CoV-2
+521,en,fa,,,self isolation,ایزوله سازی شخصی
+522,en,fa,,,self quarantine,قرنطینه شخصی
+523,en,fa,,,Severe outbreak,شیوع شدید
+525,en,fa,,,social distancing,تعیین فاصله از سایر افراد در جامعه
+526,en,fa,,,social distancing measures,اندازه گیری فاصله از سایر افراد در سطح جامعه
+527,en,fa,,,social isolation,ایزوله سازی اجتماعی
+528,en,fa,,,SOS Alert,هشدار SOS
+529,en,fa,,,spread,گسترش
+530,en,fa,,,spread of coronavirus,گسترش ویروس کرونا
+531,en,fa,,,spread of virus,گسترش ویروس
+534,en,fa,,,stomach virus,ویروس شکمی
+535,en,fa,,,strain of virus,نژاد ویروس
+536,en,fa,,,sun exposure,قرارگیری در معرض نور خورشید
+541,en,fa,,,the incubation period,دوره نهفتگی
+544,en,fa,,,the novel coronavirus,ویروس کرونای جدید
+558,en,fa,,,touching face,لمس کردن صورت
+559,en,fa,,,travel advisory,مشاوره در مورد سفر
+560,en,fa,,,travel ban,ممنوعیت سفر
+561,en,fa,,,travel restrictions,محدودیت های سفر
+565,en,fa,,,use hand sanitizer,استفاده از ضد عفونی کننده دست
+566,en,fa,,,vaccines,واکسن ها
+567,en,fa,,,viral outbreak,شیوع ویروس
+568,en,fa,,,virtual lockdown,تعطیلی مجازی
+569,en,fa,,,virus,ویروس
+570,en,fa,,,virus carrier,ناقل ویروس
+573,en,fa,,,virus infection,ابتلا به ویروس
+575,en,fa,,,virus mask,ماسک ویروس
+576,en,fa,,,virus outbreak,شیوع ویروس
+577,en,fa,,,virus prevention,پیشگیری از بروز ویروس
+578,en,fa,,,virus protection,محافظت در برابر ویروس
+580,en,fa,,,virus spread,گسترش ویروس
+582,en,fa,,,virus spreads,موارد گسترش ویروس
+583,en,fa,,,virus strain,نژاد ویروس
+584,en,fa,,,virus transmission,انتقال ویروس
+586,en,fa,,,wash your hands,دست هایتان را بشویید
+587,en,fa,,,washing hands,شستشوی دست ها
+589,en,fa,,,WHO,سازمان بهداشت جهانی
+590,en,fa,,,WHO Confirmed,تأیید شده توسط سازمان بهداشت جهانی
+591,en,fa,,,WHO Deaths,موارد مرگ تأیید شده توسط سازمان بهداشت جهانی
+592,en,fa,,,widespread outbreak,شیوع گسترده
+597,en,fa,,,World Health Organization,سازمان بهداشت جهانی
+600,en,fa,,,zoonotic disease,بیماری قابل انتقال بین انسان و حیوان
+601,en,fa,,,zoonotic virus,ویروس قابل انتقال بین انسان و حیوان

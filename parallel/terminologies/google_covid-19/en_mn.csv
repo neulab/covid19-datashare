@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,mn,,,14 days in isolation,14 хоног тусгаарлана
+26,en,mn,,,14 days quarantine,14 хоногийн хорио цээр
+27,en,mn,,,2019 coronavirus,2019 короравирус
+28,en,mn,,,2019 novel coronavirus,2019 оны шинэ коронавирус
+29,en,mn,,,2019-nCoV,2019-nCoV
+30,en,mn,,,2020 coronavirus,2020 коронавирус
+31,en,mn,,,2020 novel coronavirus,2020 оны шинэ коронавирус
+33,en,mn,,,about coronavirus,коронавирусийн тухай
+39,en,mn,,,acute respiratory distress syndrome,амьсгалын замын цочмог зовуурийн хамшинж
+40,en,mn,,,advanced hand sanitizer,ахисан шатны гар ариутгагч
+41,en,mn,,,Affected by coronavirus,Коронавируст өртсөн
+42,en,mn,,,after exposure,халдвар авсны дараа
+43,en,mn,,,After the epidemic,Голомтот халдварын дараа
+44,en,mn,,,After the outbreak,Дэгдэлтийн дараа
+47,en,mn,,,airborne virus,агаарт тархах вирус
+48,en,mn,,,alcohol based hand sanitizer,спирт суурьтай гар ариутгагч
+49,en,mn,,,alcohol hand sanitizer,спирттэй гар ариутгагч
+51,en,mn,,,alcohol-based hand sanitizer,спиртэд суурилсан гар ариутгагч
+59,en,mn,,,Anti-Corona virus spray,Корона вирусний эсрэг цацлага
+60,en,mn,,,antibacterial hand sanitizer,бактерийн эсрэг гар ариутгагч
+61,en,mn,,,ARDS,АЗХС
+64,en,mn,,,avoid exposure,халдвар авахаас сэргийлэх
+65,en,mn,,,be infected,халдвар авах
+75,en,mn,,,Beware of coronavirus,Коронавируснээс болгоомжил
+76,en,mn,,,bilateral interstitial pneumonia,хоёр талын уушгины завсрын хатгаа
+77,en,mn,,,CDC,CDC
+78,en,mn,,,Center for Disease Control,Өвчний хяналтын төв
+83,en,mn,,,community spread,олон нийтийг хамрах
+84,en,mn,,,compulsory quarantine,албадан хөл хорио
+85,en,mn,,,contagious,халдварладаг
+135,en,mn,,,coronavirus,коронавирус
+136,en,mn,,,coronavirus (COVID-19),коронавирус (КОВИД-19)
+137,en,mn,,,coronavirus alert,коронавирусийн түгшүүр
+139,en,mn,,,coronavirus cases,коронавируст халдварын тохиолдол
+141,en,mn,,,coronavirus concerns,коронавирусийн асуудал
+143,en,mn,,,coronavirus crisis,коронавирусийн хямрал
+149,en,mn,,,coronavirus disease,коронавирусээр өвчлөх
+150,en,mn,,,Coronavirus disease (COVID-19) outbreak,Коронавируст халдвар (COVID-19)-ын дэгдэлт
+153,en,mn,,,coronavirus early symptoms,коронавируст халдварын эхний хамшинжүүд
+155,en,mn,,,coronavirus epidemic,халдварт коронавирус
+156,en,mn,,,coronavirus exposure,коронавирусийн халдвар авах
+161,en,mn,,,coronavirus incubation,коронавирусийн нууц үе
+162,en,mn,,,coronavirus incubation period,коронавируст халдварын далд үе
+163,en,mn,,,coronavirus infection,коронавирусийн халдвар
+168,en,mn,,,coronavirus map,коронавирус газрын зураг
+170,en,mn,,,coronavirus medicine,коронавирусийн эм
+171,en,mn,,,coronavirus medicines,коронавирусийн эм
+172,en,mn,,,coronavirus news,коронавирусийн мэдээ
+173,en,mn,,,coronavirus outbreak,коронавирусийн тархалт
+174,en,mn,,,coronavirus pandemic,коронавирусийн цар тахал
+176,en,mn,,,coronavirus pneumonia,коронавирус уушгины хатгалгаа
+177,en,mn,,,coronavirus precautions,коронавирусээс урьдчилан сэргийлэх
+178,en,mn,,,coronavirus prevention,коронавирусээс сэргийлэх
+179,en,mn,,,coronavirus protection,коронавирусээс хамгаалах
+180,en,mn,,,coronavirus quarantine,коронавирус хөл хорио
+182,en,mn,,,coronavirus SOS Alert,коронавируст халдварын SOS дохио
+183,en,mn,,,coronavirus spread,коронавирус тархах
+184,en,mn,,,coronavirus symptoms,коронавирус шинж тэмдэг
+185,en,mn,,,coronavirus transmission,коронавирусийн халдвар тээх
+186,en,mn,,,coronavirus travel ban,коронавируст халдвартай холбоотой аяллын хориг
+187,en,mn,,,coronavirus travel restrictions,коронавируст халдвартай холбоотой аяллын хязгаарлалт
+188,en,mn,,,coronavirus treatment,коронавирусийн эмчилгээ
+190,en,mn,,,coronavirus update,коронавирусийн мэдээ
+191,en,mn,,,coronavirus vaccine,коронавирусийн вакцин
+192,en,mn,,,coronavirus vaccines,коронавирусийн вакцин
+198,en,mn,,,covid cases,ковидын тохиолдол
+205,en,mn,,,covid early symptoms,covid эхний хамшинжүүд
+213,en,mn,,,covid incubation period,covid далд үе
+215,en,mn,,,covid international spread,covid олон улсын тархалт
+216,en,mn,,,covid international travel,covid олон улсын аялал
+217,en,mn,,,covid isolation,ковидын улмаас тусгаарлах
+219,en,mn,,,covid map,ковид газрын зураг
+220,en,mn,,,covid medicine,ковидын эм
+221,en,mn,,,covid medicines,ковидын эм
+222,en,mn,,,covid news,ковидын тухай мэдээ
+223,en,mn,,,covid outbreak,ковид тархалт
+224,en,mn,,,covid pandemic,ковид цар тахал
+225,en,mn,,,covid panic,ковидын улмаас сандрах
+228,en,mn,,,covid SOS Alert,covid SOS дохио
+230,en,mn,,,covid symptoms,ковид шинж тэмдэг
+231,en,mn,,,covid transmission,ковид халдвар тээх
+232,en,mn,,,covid travel ban,covid аяллын хориг
+233,en,mn,,,covid travel restrictions,covid аяллын хязгаарлалт
+234,en,mn,,,covid treatment,ковидын эмчилгээ
+236,en,mn,,,covid vaccine,ковидын вакцин
+237,en,mn,,,covid vaccines,ковидын вакцин
+242,en,mn,,,covid-19,ковид-19
+243,en,mn,,,covid-19 alert,ковид-19 түгшүүр
+244,en,mn,,,covid-19 cases,ковид-19 тохиолдол
+245,en,mn,,,covid-19 CDC,ковид-19 CDC
+246,en,mn,,,covid-19 contagious,ковид-19 халдвар
+247,en,mn,,,covid-19 cure,ковид-19 эдгэрэлт
+248,en,mn,,,covid-19 dangerous,аюулт ковид-19
+249,en,mn,,,covid-19 deadly,үхлийн аюулт ковид-19
+250,en,mn,,,covid-19 death,ковид-19 улмаас нас барсан
+251,en,mn,,,covid-19 deaths,ковид-19 улмаас нас барсан
+252,en,mn,,,covid-19 domestic travel,covid-19 дотоодын аялал
+253,en,mn,,,covid-19 early symptoms,covid-19 эхний хамшинжүүд
+254,en,mn,,,covid-19 effects,ковид-19 нөлөө
+255,en,mn,,,covid-19 epidemic,халдварт ковид-19
+256,en,mn,,,covid-19 exposure,ковид-19 халдвар авах
+257,en,mn,,,covid-19 fatal,үхлийн аюултай ковид-19
+258,en,mn,,,covid-19 fever,ковид-19 улмаас халуурах
+259,en,mn,,,covid-19 illness,ковид-19 өвчлөл
+260,en,mn,,,covid-19 incubation,ковид-19 нууц үе
+261,en,mn,,,covid-19 incubation period,covid-19 далд үе
+262,en,mn,,,covid-19 infection,ковид-19 халдвар
+263,en,mn,,,covid-19 international spread,covid-19 олон улсын тархалт
+264,en,mn,,,covid-19 international travel,covid-19 олон улсын аялал
+265,en,mn,,,covid-19 isolation,ковид-19 улмаас тусгаарлах
+266,en,mn,,,covid-19 lockdown,ковид-19 тусгаарлалт
+267,en,mn,,,covid-19 map,ковид-19 газрын зураг
+268,en,mn,,,covid-19 medicine,ковид-19 эм
+269,en,mn,,,covid-19 medicines,ковид-19 эм
+270,en,mn,,,covid-19 news,ковид-19 мэдээ
+271,en,mn,,,covid-19 outbreak,ковид-19 тархалт
+272,en,mn,,,covid-19 pandemic,ковид-19 цар тахал
+273,en,mn,,,covid-19 panic,ковид-19 улмаас сандрах
+275,en,mn,,,covid-19 precautions,ковид-19 урьдчилан сэргийлэх
+276,en,mn,,,covid-19 protection,ковид-19 хамгаалах
+277,en,mn,,,covid-19 quarantine,ковид-19 хөл хорио
+278,en,mn,,,covid-19 SOS Alert,covid-19 SOS дохио
+279,en,mn,,,covid-19 spread,ковид-19 тархах
+280,en,mn,,,covid-19 symptoms,ковид-19 шинж тэмдэг
+281,en,mn,,,covid-19 transmission,ковид-19 халдвар тээх
+282,en,mn,,,covid-19 travel ban,covid-19 аяллын хориг
+283,en,mn,,,covid-19 travel restrictions,covid-19 аяллын хязгаарлалт
+284,en,mn,,,covid-19 treatment,ковид-19 эмчилгээ
+285,en,mn,,,covid-19 uncontrolled spread,covid-19 хяналтгүй тархалт
+286,en,mn,,,covid-19 vaccine,ковид-19 вакцин
+287,en,mn,,,covid-19 vaccines,ковид-19 вакцин
+288,en,mn,,,COVID-19 virus,ковид-19 вирус
+289,en,mn,,,covid-19 virus outbreak,covid-19 вирусний дэгдэлт
+290,en,mn,,,covid-19 virus transmission,covid-19 вирус дамжих
+291,en,mn,,,covid-19 WHO,ковид-19 ДЭМБ
+292,en,mn,,,covid19,ковид19
+293,en,mn,,,covid19 alert,ковид19 түгшүүр
+294,en,mn,,,covid19 cases,ковид19 тохиолдол
+295,en,mn,,,covid19 CDC,ковид19 CDC
+301,en,mn,,,covid19 deaths,ковид19 улмаас нас барсан
+302,en,mn,,,covid19 domestic travel,covid19 дотоодын аялал
+303,en,mn,,,covid19 effects,ковид19 нөлөө
+304,en,mn,,,covid19 epidemic,халдварт ковид19
+305,en,mn,,,covid19 exposure,ковид19 халдвар авах
+306,en,mn,,,covid19 fatal,үхлийн аюултай ковид19
+307,en,mn,,,covid19 fever,ковид19 улмаас халуурах
+308,en,mn,,,covid19 illness,ковид19 өвчлөл
+309,en,mn,,,covid19 incubation,ковид-19 нууц үе
+310,en,mn,,,covid19 incubation period,covid19 далд үе
+311,en,mn,,,covid19 infection,ковид19 халдвар
+312,en,mn,,,covid19 international spread,covid19 олон улсын тархалт
+313,en,mn,,,covid19 international travel,covid19 олон улсын аялал
+314,en,mn,,,covid19 isolation,ковид19 тусгаарлах
+315,en,mn,,,covid19 lockdown,ковид19 тусгаарлалт
+316,en,mn,,,covid19 map,ковид19 газрын зураг
+317,en,mn,,,covid19 medicine,ковид19 эм
+318,en,mn,,,covid19 medicines,ковид19 эм
+319,en,mn,,,covid19 news,ковид19 мэдээ
+320,en,mn,,,covid19 outbreak,ковид19 тархалт
+321,en,mn,,,covid19 pandemic,ковид19 цар тахал
+324,en,mn,,,covid19 precautions,ковид19 урьдчилан сэргийлэх
+325,en,mn,,,covid19 protection,ковид19 хамгаалалт
+326,en,mn,,,covid19 quarantine,ковид19 хөл хорио
+327,en,mn,,,covid19 SOS Alert,covid19 SOS дохио
+328,en,mn,,,covid19 spread,ковид19 тархах
+329,en,mn,,,covid19 symptoms,ковид19 шинж тэмдэг
+330,en,mn,,,covid19 transmission,ковид19 халдвар тээх
+331,en,mn,,,covid19 travel ban,covid19 аяллын хориг
+332,en,mn,,,covid19 travel restrictions,covid19 аяллын хязгаарлалт
+333,en,mn,,,covid19 treatment,ковид19 эмчилгээ
+335,en,mn,,,covid19 vaccine,ковид19 вакцин
+336,en,mn,,,covid19 vaccines,ковид19 вакцин
+337,en,mn,,,covid19 virus,ковид19 вирус
+338,en,mn,,,covid19 virus outbreak,covid19 вирусний дэгдэлт
+339,en,mn,,,covid19 virus transmission,covid19 вирус дамжих
+342,en,mn,,,current outbreak,одоогийн тархалт
+343,en,mn,,,deadly outbreak,нас баралт ихсэх
+345,en,mn,,,disease outbreak,өвчлөл ихсэх
+346,en,mn,,,Disposable hand sanitizer,Нэг удаагийн гар ариутгагч
+348,en,mn,,,domestic travel,дотоодод зорчих
+351,en,mn,,,droplets,дусал
+357,en,mn,,,Effects of coronavirus,Коронавирусний нөлөө
+359,en,mn,,,epidemic,халдвар дэгдэлт
+360,en,mn,,,epidemic and pandemic,голомтот халдвар ба цар тахал
+362,en,mn,,,epidemic disease,халдварт өвчин
+364,en,mn,,,epidemic outbreak,халдварт өвчний дэгдэлт
+365,en,mn,,,epidemic period,халдвар дэгдсэн хугацаа
+366,en,mn,,,epidemic prevention,халдвар дэгдэхээс сэргийлэх
+368,en,mn,,,epidemic season,халдварт дэгдэлтийн үе
+369,en,mn,,,epidemic situation,гоц халдварт нөхцөл байдал
+371,en,mn,,,exposure,халдвар авах
+375,en,mn,,,exposure time,халдвар авах хугацаа
+379,en,mn,,,fever,халуурах
+380,en,mn,,,fight the virus,вирустэй тэмцэх
+381,en,mn,,,Fighting the outbreak,Дэгдэлттэй тэмцэх
+382,en,mn,,,flu epidemic,томуугийн халдвар тархалт
+385,en,mn,,,fomites,халдвар
+392,en,mn,,,global health emergency,дэлхий нийтийн эрүүл мэндийн онц байдал
+393,en,mn,,,global outbreak,дэлхий нийтэд тархах
+394,en,mn,,,global pandemic,дэлхий нийтийг хамарсан цар тахал
+396,en,mn,,,hand sanitizer,гар ариутгагч
+397,en,mn,,,hand sanitizer dispenser,гар ариутгагчийн түгээгч сав
+398,en,mn,,,hand sanitizer gel,гар ариутгагч гель
+399,en,mn,,,hand sanitizer spray,гар ариутгагч цацлага
+403,en,mn,,,home isolation,гэртээ тусгаарлагдах
+404,en,mn,,,home quarantine,гэртээ хөл хорих
+410,en,mn,,,illness,өвчлөл
+415,en,mn,,,incubation period,нууц үеийн хугацаа
+418,en,mn,,,infected,халдварласан
+424,en,mn,,,instant hand sanitizer,түргэн гар ариутгагч
+425,en,mn,,,international spread,олон улсад тархах
+426,en,mn,,,international travel,олон улсад зорчих
+427,en,mn,,,isolation,тусгаарлалт
+428,en,mn,,,isolation period,тусгаарлах хугацаа
+430,en,mn,,,isolation room,тусгаарлах өрөө
+431,en,mn,,,isolation valve,тусгаарлах хавхаг
+432,en,mn,,,isolation ward,тусгаарлах тасаг
+434,en,mn,,,lockdown,тусгаарлалт
+438,en,mn,,,major outbreak,үй олноор тархах
+439,en,mn,,,mandatory quarantine,зайлшгүй хөл хорих
+440,en,mn,,,mass gathering,олноор бөөгнөрөх
+444,en,mn,,,medicine,эм
+445,en,mn,,,medicines,эм
+448,en,mn,,,n95,n95
+449,en,mn,,,n95 mask,n95 амны хаалт
+450,en,mn,,,n95 respirator,хорт хийн n95 баг
+451,en,mn,,,ncov,ncov
+452,en,mn,,,ncov-2019,ncov-2019
+453,en,mn,,,new coronavirus,шинэ коронавирус
+454,en,mn,,,new coronavirus pneumonia,шинэ коронавирусний хатгаа
+460,en,mn,,,novel coronavirus,шинэ коронавирус
+462,en,mn,,,novel coronavirus infection,шинэ коронавируст халдвар
+463,en,mn,,,novel coronavirus outbreak,шинэ коронавируст халдварын дэгдэлт
+464,en,mn,,,novel coronavirus pneumonia,шинэ коронавирусний хатгаа
+470,en,mn,,,ongoing outbreak,тархалтын явц
+472,en,mn,,,outbreak,тархалт
+474,en,mn,,,outbreak of coronavirus,коронавируст халдварын дэгдэлт
+475,en,mn,,,outbreak of disease,өвчний дэгдэлт
+482,en,mn,,,pandemic,цар тахал
+485,en,mn,,,pandemic influenza,томуугийн цар тахал
+486,en,mn,,,pandemic outbreak,цар тахлын дэгдэлт
+487,en,mn,,,pandemic plan,цар тахлын төлөвлөгөө
+488,en,mn,,,pandemic potential,цар тахлын бололцоо
+495,en,mn,,,pneumonia,хатгалгаа
+496,en,mn,,,pneumonia epidemic,хатгааны голомтот халдвар
+497,en,mn,,,potential exposure,болзошгүй өртөлт
+498,en,mn,,,precautions,урьдчилан сэргийлэх
+499,en,mn,,,prevent virus,вирусээс урьдчилан сэргийлэх
+500,en,mn,,,prolonged exposure,удаан хугацаанд өртөх
+504,en,mn,,,quarantine,хөл хорио
+505,en,mn,,,quarantine area,хорио цээрийн бүс
+506,en,mn,,,quarantine facility,хорио цээрийн байгууламж
+507,en,mn,,,quarantine measures,хорио цээрийн арга хэмжээ
+508,en,mn,,,quarantine period,хорио цээрийн хугацаа
+509,en,mn,,,quarantine room,хорио цээрийн өрөө
+510,en,mn,,,quarantine zone,хорио цээрийн бүс
+512,en,mn,,,Recovered coronavirus patient,Эдгэсэн коронавируст халдвартай өвчтөн
+514,en,mn,,,repatriate,эх оронд нь авчрах
+515,en,mn,,,repeated exposure,давтан өртөх
+516,en,mn,,,respiratory syncytial virus,амьсгалын замын синцитиал вирус
+517,en,mn,,,respiratory virus,амьсгалын замын вирус
+519,en,mn,,,Sanitizing hand sanitizer,Ариутгах гар ариутгагч
+520,en,mn,,,SARS-CoV-2,SARS-CoV-2
+521,en,mn,,,self isolation,өөрийгөө тусгаарлах
+522,en,mn,,,self quarantine,өөрийгөө хөл хорих
+523,en,mn,,,Severe outbreak,Ноцтой дэгдэлт
+525,en,mn,,,social distancing,нийгмийн харилцаанд зай барих
+526,en,mn,,,social distancing measures,нийгмийн харилцаанд зай барих арга хэмжээ
+527,en,mn,,,social isolation,нийгмийн тусгаарлалт
+528,en,mn,,,SOS Alert,SOS дохио
+529,en,mn,,,spread,тархалт
+530,en,mn,,,spread of coronavirus,коронавируст халдварын тархалт
+531,en,mn,,,spread of virus,вирусний тархалт
+535,en,mn,,,strain of virus,вирусний омог
+541,en,mn,,,the incubation period,далд үе
+544,en,mn,,,the novel coronavirus,шинэ коронавирус
+558,en,mn,,,touching face,нүүрэндээ хүрэх
+559,en,mn,,,travel advisory,аяллын талаарх зөвлөмж
+560,en,mn,,,travel ban,аяллын хориг
+561,en,mn,,,travel restrictions,аяллын хязгаарлалт
+565,en,mn,,,use hand sanitizer,гар ариутгагч хэрэглэх
+566,en,mn,,,vaccines,вакцин
+567,en,mn,,,viral outbreak,вирусний дэгдэлт
+568,en,mn,,,virtual lockdown,бараг бүрэн хөл хорио
+569,en,mn,,,virus,вирус
+570,en,mn,,,virus carrier,вирус тээгч
+573,en,mn,,,virus infection,вирусний халдвар
+575,en,mn,,,virus mask,вирусний маск
+576,en,mn,,,virus outbreak,вирусний дэгдэлт
+577,en,mn,,,virus prevention,вируснээс урьдчилан сэргийлэх
+578,en,mn,,,virus protection,вируснээс хамгаалах
+580,en,mn,,,virus spread,вирусний тархалт
+582,en,mn,,,virus spreads,вирусний тархалтууд
+583,en,mn,,,virus strain,вирусний омог
+584,en,mn,,,virus transmission,вирус дамжих
+586,en,mn,,,wash your hands,гараа угаа
+587,en,mn,,,washing hands,гараа угаах
+589,en,mn,,,WHO,ДЭМБ
+590,en,mn,,,WHO Confirmed,ДЭМБ-ын баталгаажуулсан
+591,en,mn,,,WHO Deaths,ДЭМБ-ын нас баралтын тоо
+592,en,mn,,,widespread outbreak,өргөн тархсан дэгдэлт
+597,en,mn,,,World Health Organization,Дэлхийн Эрүүл Мэндийн Байгууллага
+600,en,mn,,,zoonotic disease,зоонотик өвчин
+601,en,mn,,,zoonotic virus,зоонотик вирус

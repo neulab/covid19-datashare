@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,la,,,14 days in isolation,14 dies in separatione
+26,en,la,,,14 days quarantine,tempus 14 dierum valetudini spectandae praestitutum
+27,en,la,,,2019 coronavirus,2019 coronavirus
+28,en,la,,,2019 novel coronavirus,2019 novissimum coronavirus
+29,en,la,,,2019-nCoV,2019-nCoV
+30,en,la,,,2020 coronavirus,2020 coronavirus
+31,en,la,,,2020 novel coronavirus,2020 novissimum coronavirus
+33,en,la,,,about coronavirus,ad coronavirum
+39,en,la,,,acute respiratory distress syndrome,Syndroma Acris Respiratioriae Defatigationis
+40,en,la,,,advanced hand sanitizer,Novissimum manuum sanificans
+41,en,la,,,Affected by coronavirus,Coronaviro affectus
+42,en,la,,,after exposure,post expositionem
+43,en,la,,,After the epidemic,Post epidemiam
+44,en,la,,,After the outbreak,Post pestilentiam
+47,en,la,,,airborne virus,aere vectum virus
+48,en,la,,,alcohol based hand sanitizer,In temeto consistens sanificans manuum
+49,en,la,,,alcohol hand sanitizer,sanificans manuum de temeto
+51,en,la,,,alcohol-based hand sanitizer,sanificans manuum in temeto consistens
+59,en,la,,,Anti-Corona virus spray,Anti-Coronam virum aspersio
+60,en,la,,,antibacterial hand sanitizer,antibactericum sanificans manuum
+61,en,la,,,ARDS,ARDS
+64,en,la,,,avoid exposure,expositionem fugio
+65,en,la,,,be infected,morbo inficior
+75,en,la,,,Beware of coronavirus,Cave coronavirum
+76,en,la,,,bilateral interstitial pneumonia,bilateralis interstitialis peripneumonia
+77,en,la,,,CDC,CDC
+78,en,la,,,Center for Disease Control,Sedes ad Morborum Custodiam
+83,en,la,,,community spread,propagatio per societatem
+84,en,la,,,compulsory quarantine,tempus valetudini spectandae praestitutum necessarium
+85,en,la,,,contagious,pestilens
+135,en,la,,,coronavirus,coronavirus
+136,en,la,,,coronavirus (COVID-19),coronavirus (COVID-19)
+137,en,la,,,coronavirus alert,coronaviri conclamatio
+139,en,la,,,coronavirus cases,casus coronaviri
+141,en,la,,,coronavirus concerns,curae de coronaviro
+143,en,la,,,coronavirus crisis,discrimen coronaviri
+149,en,la,,,coronavirus disease,coronaviri morbus
+150,en,la,,,Coronavirus disease (COVID-19) outbreak,Coronaviri morbi (COVID-19) pestilentia
+153,en,la,,,coronavirus early symptoms,coronaviri prima signa
+155,en,la,,,coronavirus epidemic,epidemia coronaviri
+156,en,la,,,coronavirus exposure,expositio ad coronavirum
+161,en,la,,,coronavirus incubation,coronaviri incubatio
+162,en,la,,,coronavirus incubation period,coronaviri tempus incubationis
+163,en,la,,,coronavirus infection,coronaviri contagio
+168,en,la,,,coronavirus map,tabula geographica coronaviri
+170,en,la,,,coronavirus medicine,medicamentum ad coronavirum
+171,en,la,,,coronavirus medicines,medicamenta ad coronavirum
+172,en,la,,,coronavirus news,Nuntia de coronaviro
+173,en,la,,,coronavirus outbreak,pestilentia coronaviri
+174,en,la,,,coronavirus pandemic,pandemia ob coronavirum
+176,en,la,,,coronavirus pneumonia,peripneumonia de coronaviro
+177,en,la,,,coronavirus precautions,cautiones contra coronavirum
+178,en,la,,,coronavirus prevention,cautio coronaviri
+179,en,la,,,coronavirus protection,tutela in coronavirum
+180,en,la,,,coronavirus quarantine,tempus valetudini coronaviri spectandae praestitutum
+182,en,la,,,coronavirus SOS Alert,coronaviri SOS Conclamatio
+183,en,la,,,coronavirus spread,propagatio coronaviri
+184,en,la,,,coronavirus symptoms,signa coronaviri
+185,en,la,,,coronavirus transmission,transmissio coronaviri
+186,en,la,,,coronavirus travel ban,prae coronaviro vetitum itineris
+187,en,la,,,coronavirus travel restrictions,prae coronaviro imminutiones itineris
+188,en,la,,,coronavirus treatment,cura ad coronavirum
+190,en,la,,,coronavirus update,dilatio coronaviri
+191,en,la,,,coronavirus vaccine,contra coronavirum vaccinum
+192,en,la,,,coronavirus vaccines,contra coronavirum vaccina
+198,en,la,,,covid cases,casus covid
+205,en,la,,,covid early symptoms,covid prima signa
+213,en,la,,,covid incubation period,covid incubationis tempus
+215,en,la,,,covid international spread,covid internationalis diffusio
+216,en,la,,,covid international travel,covid internationale iter
+217,en,la,,,covid isolation,covid separatio
+219,en,la,,,covid map,tabula geographica covid
+220,en,la,,,covid medicine,medicamentum contra covid
+221,en,la,,,covid medicines,medicamenta contra covid
+222,en,la,,,covid news,nuntia de covid
+223,en,la,,,covid outbreak,covid pestilentia
+224,en,la,,,covid pandemic,pandemia prae covid
+225,en,la,,,covid panic,terror prae covid
+228,en,la,,,covid SOS Alert,covid SOS Conclamatio
+230,en,la,,,covid symptoms,signa covid
+231,en,la,,,covid transmission,transmissio covid
+232,en,la,,,covid travel ban,covid vetitum itineris
+233,en,la,,,covid travel restrictions,covid imminutiones itineris
+234,en,la,,,covid treatment,cura in covid
+236,en,la,,,covid vaccine,vaccinum in covid
+237,en,la,,,covid vaccines,vaccina in covid
+242,en,la,,,covid-19,covid-19
+243,en,la,,,covid-19 alert,conclamatio de covid-19
+244,en,la,,,covid-19 cases,casus covid-19
+245,en,la,,,covid-19 CDC,MCS covid-19
+246,en,la,,,covid-19 contagious,pestilens covid-19
+247,en,la,,,covid-19 cure,curatio in covid-19
+248,en,la,,,covid-19 dangerous,covid-19 periculosum
+249,en,la,,,covid-19 deadly,exitiale covid-19
+250,en,la,,,covid-19 death,mors prae covid-19
+251,en,la,,,covid-19 deaths,mortes prae covid-19
+252,en,la,,,covid-19 domestic travel,covid-19 nationale iter
+253,en,la,,,covid-19 early symptoms,covid-19 prima signa
+254,en,la,,,covid-19 effects,effectus covid-19
+255,en,la,,,covid-19 epidemic,covid-19 epidemia
+256,en,la,,,covid-19 exposure,covid-19 expositio
+257,en,la,,,covid-19 fatal,covid-19 atrox
+258,en,la,,,covid-19 fever,febris covid-19
+259,en,la,,,covid-19 illness,aegrotatio covid-19
+260,en,la,,,covid-19 incubation,incubatio covid-19
+261,en,la,,,covid-19 incubation period,covid-19 incubationis tempus
+262,en,la,,,covid-19 infection,covid-19 contagio
+263,en,la,,,covid-19 international spread,covid-19 internationalis diffusio
+264,en,la,,,covid-19 international travel,covid-19 internationale iter
+265,en,la,,,covid-19 isolation,covid-19 separatio
+266,en,la,,,covid-19 lockdown,covid-19 clausura
+267,en,la,,,covid-19 map,tabula geographica covid-19
+268,en,la,,,covid-19 medicine,medicamentum covid-19
+269,en,la,,,covid-19 medicines,medicamenta covid-19
+270,en,la,,,covid-19 news,nuntia de covid-19
+271,en,la,,,covid-19 outbreak,covid-19 pestilentia
+272,en,la,,,covid-19 pandemic,covid-19 pandemia
+273,en,la,,,covid-19 panic,terror prae covid-19
+275,en,la,,,covid-19 precautions,cautiones in covid-19
+276,en,la,,,covid-19 protection,tutela in covid-19
+277,en,la,,,covid-19 quarantine,tempus valetudini spectandae praestitutum covid-19
+278,en,la,,,covid-19 SOS Alert,covid-19 SOS Conclamatio
+279,en,la,,,covid-19 spread,propagatio covid-19
+280,en,la,,,covid-19 symptoms,signa covid-19
+281,en,la,,,covid-19 transmission,transmissio covid-19
+282,en,la,,,covid-19 travel ban,covid-19 vetitum itineris
+283,en,la,,,covid-19 travel restrictions,covid-19 itineris imminutiones
+284,en,la,,,covid-19 treatment,curatio in covid-19
+285,en,la,,,covid-19 uncontrolled spread,covid-19 inobservata diffusio
+286,en,la,,,covid-19 vaccine,vaccinum covid-19
+287,en,la,,,covid-19 vaccines,vaccina covid-19
+288,en,la,,,COVID-19 virus,covid-19 virus
+289,en,la,,,covid-19 virus outbreak,covid-19 viri pestilentia
+290,en,la,,,covid-19 virus transmission,covid-19 viri transmissio
+291,en,la,,,covid-19 WHO,covid-19 OMS
+292,en,la,,,covid19,covid19
+293,en,la,,,covid19 alert,conclamatio de covid19
+294,en,la,,,covid19 cases,casus de covid19
+295,en,la,,,covid19 CDC,covid19 CDC
+301,en,la,,,covid19 deaths,mortes prae covid19
+302,en,la,,,covid19 domestic travel,covid19 nationale iter
+303,en,la,,,covid19 effects,effectus covid19
+304,en,la,,,covid19 epidemic,epidemia covid19
+305,en,la,,,covid19 exposure,expositio covid-19
+306,en,la,,,covid19 fatal,covid19 atrox
+307,en,la,,,covid19 fever,febris covid19
+308,en,la,,,covid19 illness,covid19 aegrotatio
+309,en,la,,,covid19 incubation,incubatio covid19
+310,en,la,,,covid19 incubation period,covid19 tempus incubationis
+311,en,la,,,covid19 infection,contagio covid19
+312,en,la,,,covid19 international spread,covid19 internationalis diffusio
+313,en,la,,,covid19 international travel,covid19 internationale iter
+314,en,la,,,covid19 isolation,separatio prae covid19
+315,en,la,,,covid19 lockdown,clausura codiv19
+316,en,la,,,covid19 map,tabula geographica covid19
+317,en,la,,,covid19 medicine,covid19 medicamentum
+318,en,la,,,covid19 medicines,covid19 medicamenta
+319,en,la,,,covid19 news,nuntia de covid19
+320,en,la,,,covid19 outbreak,pestilentia covid19
+321,en,la,,,covid19 pandemic,pandemia de covid19
+324,en,la,,,covid19 precautions,cautiones in covid19
+325,en,la,,,covid19 protection,tutela in covid19
+326,en,la,,,covid19 quarantine,covid19 tempus valetudini spectandae praestitutum
+327,en,la,,,covid19 SOS Alert,covid19 SOS Conclamatio
+328,en,la,,,covid19 spread,propagatio covid19
+329,en,la,,,covid19 symptoms,signa covid19
+330,en,la,,,covid19 transmission,transmissio covid19
+331,en,la,,,covid19 travel ban,covid19 vetitum itineris
+332,en,la,,,covid19 travel restrictions,covid19 imminutiones itineris
+333,en,la,,,covid19 treatment,curatio in covid19
+335,en,la,,,covid19 vaccine,vaccinum covid19
+336,en,la,,,covid19 vaccines,vaccina covid19
+337,en,la,,,covid19 virus,covid19 virus
+338,en,la,,,covid19 virus outbreak,pestilentia viri covid19
+339,en,la,,,covid19 virus transmission,covid19 viri transmissio
+342,en,la,,,current outbreak,hodierna pestilentia
+343,en,la,,,deadly outbreak,exitialis pestilentia
+345,en,la,,,disease outbreak,pestilentia morbi
+346,en,la,,,Disposable hand sanitizer,Iterum utibile sanificans manuum
+348,en,la,,,domestic travel,Nationale iter
+351,en,la,,,droplets,guttulae
+357,en,la,,,Effects of coronavirus,Effectus coronaviri
+359,en,la,,,epidemic,epidemia
+360,en,la,,,epidemic and pandemic,epidemia pandemiaque
+362,en,la,,,epidemic disease,morbus pestifer
+364,en,la,,,epidemic outbreak,epidema pestilentia
+365,en,la,,,epidemic period,tempus epidemum
+366,en,la,,,epidemic prevention,cautio epidema
+368,en,la,,,epidemic season,anni tempus epidemum (adective)
+369,en,la,,,epidemic situation,occasio epidema
+371,en,la,,,exposure,expositio
+375,en,la,,,exposure time,tempus expositionis
+379,en,la,,,fever,febris
+380,en,la,,,fight the virus,Virum repugno
+381,en,la,,,Fighting the outbreak,Pestilentiae adversor
+382,en,la,,,flu epidemic,influentia pestifera
+385,en,la,,,fomites,fomites
+392,en,la,,,global health emergency,omnium gentium discrimen ad publicam valetudinem pertinens
+393,en,la,,,global outbreak,omnium pestilentia gentium
+394,en,la,,,global pandemic,omnium pandemia gentium
+396,en,la,,,hand sanitizer,Sanificans manuum
+397,en,la,,,hand sanitizer dispenser,Dispensans sanificantis manuum
+398,en,la,,,hand sanitizer gel,Gelatina manuum sanificans
+399,en,la,,,hand sanitizer spray,Aspersio manuum sanificans
+403,en,la,,,home isolation,domi seperatio
+404,en,la,,,home quarantine,domi tempus valetudini spectandae praestitutum
+410,en,la,,,illness,aegrotatio
+415,en,la,,,incubation period,tempus incubationis
+418,en,la,,,infected,infectus
+424,en,la,,,instant hand sanitizer,Brevissimum sanificans manuum
+425,en,la,,,international spread,internationalis propagatio
+426,en,la,,,international travel,iter internationale
+427,en,la,,,isolation,separatio
+428,en,la,,,isolation period,separationis tempus
+430,en,la,,,isolation room,conclave separationis
+431,en,la,,,isolation valve,valvula separationis
+432,en,la,,,isolation ward,ala separationis
+434,en,la,,,lockdown,clausura
+438,en,la,,,major outbreak,maior pestilentia
+439,en,la,,,mandatory quarantine,mandatum tempus valetudini spectandae praestitutum
+440,en,la,,,mass gathering,concursus turbae
+444,en,la,,,medicine,medicamentum
+445,en,la,,,medicines,medicamenta
+448,en,la,,,n95,n95
+449,en,la,,,n95 mask,persona n95
+450,en,la,,,n95 respirator,machina n95 spiratoria
+451,en,la,,,ncov,ncov
+452,en,la,,,ncov-2019,ncov-2019
+453,en,la,,,new coronavirus,novum coronavirus
+454,en,la,,,new coronavirus pneumonia,coronaviri peripneumonia nova
+460,en,la,,,novel coronavirus,recens coronavirus
+462,en,la,,,novel coronavirus infection,novissima coronaviri contagio
+463,en,la,,,novel coronavirus outbreak,nova coronaviri pestilentia
+464,en,la,,,novel coronavirus pneumonia,novissima peripneumonia coronaviri
+470,en,la,,,ongoing outbreak,pestilentia procedens
+472,en,la,,,outbreak,pestilentia
+474,en,la,,,outbreak of coronavirus,pestilentia coronaviri
+475,en,la,,,outbreak of disease,pestilentia morbi
+482,en,la,,,pandemic,pandemus
+485,en,la,,,pandemic influenza,pandema influentia
+486,en,la,,,pandemic outbreak,pestilentia pandema
+487,en,la,,,pandemic plan,consilium pandemum
+488,en,la,,,pandemic potential,pandemae facultates
+495,en,la,,,pneumonia,peripneumonia
+496,en,la,,,pneumonia epidemic,peripneumoniae pandemia
+497,en,la,,,potential exposure,potentialis expositio
+498,en,la,,,precautions,cautiones
+499,en,la,,,prevent virus,viro occurro
+500,en,la,,,prolonged exposure,expositio producta
+504,en,la,,,quarantine,tempus valetudini spectandae praestitutum
+505,en,la,,,quarantine area,temporis valetudini praestandae praestituti regio
+506,en,la,,,quarantine facility,temporis valetudini praestandae praestituti sedes
+507,en,la,,,quarantine measures,consilia temporis valetudini praestandae praestituti
+508,en,la,,,quarantine period,tempus valetudini praestandae praestitutum
+509,en,la,,,quarantine room,conclave temporis valetudini praestandae praestituti
+510,en,la,,,quarantine zone,locus temporis valetudini praestandae praestituto
+512,en,la,,,Recovered coronavirus patient,hospitio receptus patiens cum coronaviro
+514,en,la,,,repatriate,in patriam revoco
+515,en,la,,,repeated exposure,iterabilis expositio
+516,en,la,,,respiratory syncytial virus,virus syncitii respiratorium
+517,en,la,,,respiratory virus,respirationis virus
+519,en,la,,,Sanitizing hand sanitizer,Sanificans manuum
+520,en,la,,,SARS-CoV-2,SARS-CoV-2
+521,en,la,,,self isolation,voluntaria separatio
+522,en,la,,,self quarantine,tempus voluntarium valetudini praestandae praestitutum
+523,en,la,,,Severe outbreak,gravior pestilentia
+525,en,la,,,social distancing,sociale intervallum
+526,en,la,,,social distancing measures,cautiones ad intervallum sociale
+527,en,la,,,social isolation,socialis separatio
+528,en,la,,,SOS Alert,SOS Conclamatio
+529,en,la,,,spread,propagatio
+530,en,la,,,spread of coronavirus,diffusio coronaviri
+531,en,la,,,spread of virus,viri diffusio
+535,en,la,,,strain of virus,labor viri
+541,en,la,,,the incubation period,illud tempus incubationis
+544,en,la,,,the novel coronavirus,illud novissimum coronavirus
+558,en,la,,,touching face,os tango
+559,en,la,,,travel advisory,admonitio itineris
+560,en,la,,,travel ban,vetitum itineris
+561,en,la,,,travel restrictions,imminutiones itineris
+565,en,la,,,use hand sanitizer,manuum sanificante utor
+566,en,la,,,vaccines,vaccinum
+567,en,la,,,viral outbreak,pestilentia viralis
+568,en,la,,,virtual lockdown,virtualis clausura
+569,en,la,,,virus,virus
+570,en,la,,,virus carrier,viri vector
+573,en,la,,,virus infection,viri contagio
+575,en,la,,,virus mask,persona in virum
+576,en,la,,,virus outbreak,viri pestilentia
+577,en,la,,,virus prevention,cautio viro
+578,en,la,,,virus protection,tutela in virum
+580,en,la,,,virus spread,viri diffusio
+582,en,la,,,virus spreads,diffusiones viri
+583,en,la,,,virus strain,labor viri
+584,en,la,,,virus transmission,transmissio viri
+586,en,la,,,wash your hands,manus tuas lava
+587,en,la,,,washing hands,manus lavo
+589,en,la,,,WHO,OMS
+590,en,la,,,WHO Confirmed,OMS confirmavit
+591,en,la,,,WHO Deaths,OMS mortes
+592,en,la,,,widespread outbreak,pestilentia diffusa
+597,en,la,,,World Health Organization,Ordo Mundi Sanitarius
+600,en,la,,,zoonotic disease,animalibus vectus morbus
+601,en,la,,,zoonotic virus,animalibus vectum virus

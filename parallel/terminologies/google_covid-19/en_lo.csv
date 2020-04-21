@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,lo,,,14 days in isolation,ແຍກຕົວ 14 ມື້
+26,en,lo,,,14 days quarantine,ກັກຕົວ 14 ມື້
+27,en,lo,,,2019 coronavirus,​ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ 2019
+28,en,lo,,,2019 novel coronavirus,2019 ນາວະນິຍາຍ ໂຄໂຣນາໄວຣັສ
+29,en,lo,,,2019-nCoV,2019-nCoV
+30,en,lo,,,2020 coronavirus,ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ 2020
+31,en,lo,,,2020 novel coronavirus,2020 ນາວະນິຍາຍ ໂຄໂຣນາໄວຣັສ
+33,en,lo,,,about coronavirus,​ກ່ຽວ​ກັບ​ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ
+39,en,lo,,,acute respiratory distress syndrome,ອາການລະບົບຫາຍໃຈຍາກແບບຮຸນແຮງ
+40,en,lo,,,advanced hand sanitizer,ອຸປະກອນຂ້າເຊື້ອມືແບບທັນສະໄໝ
+41,en,lo,,,Affected by coronavirus,ໄດ້ຮັບຜົນກະທົບໂດຍ ໂຄໂຣນາໄວຣັສ
+42,en,lo,,,after exposure,ຫຼັງ​ຈາກ​ການ​ສຳ​ຜັດ
+43,en,lo,,,After the epidemic,ຫຼັງຈາກການລະບາດ
+44,en,lo,,,After the outbreak,ຫຼັງຈາກການແຜ່ລະບາດ
+47,en,lo,,,airborne virus,​ໄວ​ຣັ​ສ​ທີ່​ແຜ່​ເຊື້ອ​ທາງ​ອາ​ກາດ
+48,en,lo,,,alcohol based hand sanitizer,ເເຈວທຳຄວາມສະອາດທີ່ມີທາດເຫຼົ້າເກົ້າສິບ
+49,en,lo,,,alcohol hand sanitizer,ອຸປະກອນຂ້າເຊື້ອມືທີ່ມີທາດເຫຼົ້າ
+51,en,lo,,,alcohol-based hand sanitizer,ອຸປະກອນທຳຄວາມສະອາດມືທີ່ມີທາດເຫຼົ້າ
+59,en,lo,,,Anti-Corona virus spray,ສະເປ ຕ້ານ ໂຄໂຣນາໄວຣັສ
+60,en,lo,,,antibacterial hand sanitizer,ຢາລ້າງມືຕ້ານເເບັດເຕີເຣັຍ
+61,en,lo,,,ARDS,ARDS
+64,en,lo,,,avoid exposure,ຫຼີກ​ລ່ຽງ​ການ​ສຳ​ຜັດ​ເຊື້ອ
+65,en,lo,,,be infected,​ໄດ້​ຮັບ​ການ​ຕິດ​ເຊື້ອ
+75,en,lo,,,Beware of coronavirus,ລະມັດລະວັງ ໂຄໂຣນາໄວຣັສ
+76,en,lo,,,bilateral interstitial pneumonia,ປອດບວມທັງສອງຂ້າງຊັ້ນໃນ
+77,en,lo,,,CDC,CDC
+78,en,lo,,,Center for Disease Control,ສູນກາງສຳລັບຄວບຄຸມພະຍາດ
+83,en,lo,,,community spread,​ການ​ແຜ່​ກະ​ຈາຍ​ເຊື້ອ​ໃນ​ຊຸມ​ຊົນ
+84,en,lo,,,compulsory quarantine,​ການ​ກັກ​ຕົວ​ທີ່​​ເປັນ​ການ​ບັງ​ຄັບ
+85,en,lo,,,contagious,​ພະ​ຍາດຕິດ​ຕໍ່
+135,en,lo,,,coronavirus,​ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ
+136,en,lo,,,coronavirus (COVID-19),​ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ (COVID-19)
+137,en,lo,,,coronavirus alert,​ແຈ້ງ​ເຕືອນ​ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ
+139,en,lo,,,coronavirus cases,​ກໍ​ລະ​ນີ​ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ
+141,en,lo,,,coronavirus concerns,ບັນ​ຫາ​ກັງ​ວົນ​ໃຈ​ກ່ຽວ​ກັບ​ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ
+143,en,lo,,,coronavirus crisis,ວິ​ກິດ​ການ​ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ
+149,en,lo,,,coronavirus disease,​​ເຊື້ອພະ​ຍາດ​ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ
+150,en,lo,,,Coronavirus disease (COVID-19) outbreak,ການແຜ່ລະບາດພະຍາດ ໂຄໂຣນາໄວຣັສ (ໂຄວິດ-19)
+153,en,lo,,,coronavirus early symptoms,ອາການຂັ້ນຕົ້ນ ໂຄໂຣນາໄວຣັສ
+155,en,lo,,,coronavirus epidemic,​ໂຣກ​ແຜ່​ລະ​ບາດ​ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ
+156,en,lo,,,coronavirus exposure,​ການ​ສຳ​ຜັດ​ເຊື້ອ​ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ
+161,en,lo,,,coronavirus incubation,ໄລ​ຍະ​ຟັກ​ຕົວ​ຂອງ​ເຊື້ອ​ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ
+162,en,lo,,,coronavirus incubation period,ໄລຍະການບົ່ມພະຍາດ ໂຄໂຣນາໄວຣັສ
+163,en,lo,,,coronavirus infection,​ການ​ຕິດ​ເຊື້ອ​ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ
+168,en,lo,,,coronavirus map,ແຜນ​ທີ່​ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ
+170,en,lo,,,coronavirus medicine,​ຢາ​ຕ້ານ​ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ
+171,en,lo,,,coronavirus medicines,​ຢາ​ຕ້ານ​ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ
+172,en,lo,,,coronavirus news,​ຂ່າວ​ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ
+173,en,lo,,,coronavirus outbreak,​ການ​ລະ​ບາດ​ເຊື້ອ​ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ
+174,en,lo,,,coronavirus pandemic,​ການ​ລະ​ບາດ​ໃຫຍ່​ຂອງ​ເຊື້ອ​ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ
+176,en,lo,,,coronavirus pneumonia,​ໂຣກ​ປອດ​ອັກ​ເສບ​ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ
+177,en,lo,,,coronavirus precautions,​ການ​ປ້ອງ​ກັນ​ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ​ໄວ້​ລ່ວງ​ໜ້າ
+178,en,lo,,,coronavirus prevention,​ກາ​ນ​ປ້ອງ​ກັນ​ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ
+179,en,lo,,,coronavirus protection,​ການ​ປົກ​ປ້ອງ​ຕົວ​ຈາກ​​ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ
+180,en,lo,,,coronavirus quarantine,ການ​​ກັກຕົວ​ປ້ອງ​ກັນ​ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ
+182,en,lo,,,coronavirus SOS Alert,ການແຈ້ງເຕືອນ SOS ໂຄໂຣນາໄວຣັສ
+183,en,lo,,,coronavirus spread,​ການ​ແຜ່​ກະ​ຈາຍ​ເຊື້ອ​ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ
+184,en,lo,,,coronavirus symptoms,​ອາ​ການ​ຕິດ​ເຊື້ອ​ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ
+185,en,lo,,,coronavirus transmission,​ການ​ແຜ່​ເຊື້ອ​ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ
+186,en,lo,,,coronavirus travel ban,ສັ່ງຫ້າມການເດີນທາງ ໂຄໂຣນາໄວຣັສ
+187,en,lo,,,coronavirus travel restrictions,ຈຳກັດການເດີນທາງ ໂຄໂຣນາໄວຣັສ
+188,en,lo,,,coronavirus treatment,​ການ​ປິ່ນ​ປົວ​​ເຊື້ອໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ
+190,en,lo,,,coronavirus update,​ການ​ອັບ​ເດດ​ຂໍ້​ມູນ​ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ
+191,en,lo,,,coronavirus vaccine,​ວັກ​ຊີນ​ປ້ອງ​ກັນ​ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ
+192,en,lo,,,coronavirus vaccines,​ວັກ​ຊີນ​ປ້ອງ​ກັນ​ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ
+198,en,lo,,,covid cases,​ກໍ​ລະ​ນີ​ໂຄວິດ
+205,en,lo,,,covid early symptoms,ອາການຂັ້ນຕົ້ນ ໂຄວິດ
+213,en,lo,,,covid incubation period,ໄລຍະການບົ່ມພະຍາດ ໂຄວິດ
+215,en,lo,,,covid international spread,ການກະຈາຍຂ້າມຊາດ ໂຄວິດ
+216,en,lo,,,covid international travel,ການເດີນທາງນາໆຊາດ ໂຄວິດ
+217,en,lo,,,covid isolation,​ການ​ແຍກ​ດ່ຽວ​ປ້ອງ​ກັນ​ໂຄວິດ
+219,en,lo,,,covid map,​ແຜ່ນ​ທີ່​ໂຄວິດ
+220,en,lo,,,covid medicine,​ຢາ​ຕ້ານ​ໂຄວິດ
+221,en,lo,,,covid medicines,​ຢາ​ຕ້ານ​ໂຄວິດ
+222,en,lo,,,covid news,​ຂ່າວ​ໂຄວິດ
+223,en,lo,,,covid outbreak,​ການ​ລະ​ບາດ​ຂອງ​ເຊື້ອ​ໂຄວິດ
+224,en,lo,,,covid pandemic,​ການ​ລະ​ບາດ​ໃຫຍ່​ຂອງ​ເຊື້ອ​ໂຄວິດ
+225,en,lo,,,covid panic,​ຄວາມ​ຕື່ນ​ຕົກ​ໃຈ​ນຳ​ໂຄວິດ
+228,en,lo,,,covid SOS Alert,ການແຈ້ງເຕືອນ SOS ໂຄວິດ
+230,en,lo,,,covid symptoms,​ອາ​ການ​ຕິດ​ເຊື້ອ​ໂຄວິດ
+231,en,lo,,,covid transmission,​ການ​ແຜ່​ເຊື້ອ​ໂຄວິດ
+232,en,lo,,,covid travel ban,ສັ່ງຫ້າມການເດີນທາງ ໂຄວິດ
+233,en,lo,,,covid travel restrictions,ຈໍາກັດການເດີນທາງ ໂຄວິດ
+234,en,lo,,,covid treatment,​ການ​ປິ່ນ​ປົວ​ໂຄວິດ
+236,en,lo,,,covid vaccine,​ວັກ​ຊີນ​ປ້ອງ​ກັນ​ໂຄວິດ
+237,en,lo,,,covid vaccines,​ວັກ​ຊີນ​ປ້ອງ​ກັນ​ໂຄວິດ
+242,en,lo,,,covid-19,​ໂຄວິດ-19
+243,en,lo,,,covid-19 alert,​ແຈ້ງ​ເຕືອນ​ໂຄວິດ-19
+244,en,lo,,,covid-19 cases,ກໍ​ລະ​ນີ​ໂຄວິດ-19
+245,en,lo,,,covid-19 CDC,CDC ​ໂຄວິດ-19
+246,en,lo,,,covid-19 contagious,ໂຄວິດ-19 ​ທີ່​ເປັນ​ພະ​ຍາ​​ດຕິດ​ຕໍ່
+247,en,lo,,,covid-19 cure,​​ການ​ປິ່ວ​ປົວໂຄວິດ-19
+248,en,lo,,,covid-19 dangerous,​ໂຄວິດ-19 ​ທີ່​ເປັນ​ອັນ​ຕະ​ລາຍ
+249,en,lo,,,covid-19 deadly,​ໂຄວິດ-19 ​ອັນ​ຕະ​ລາຍ​ເຖິງ​ຕາຍ
+250,en,lo,,,covid-19 death,ການ​ເສຍ​ຊີ​ວິດ​ຈາກ​ໂຄວິດ-19
+251,en,lo,,,covid-19 deaths,​ການ​ເສຍ​ຊີ​ວິດ​ຈາກ​ໂຄວິດ-19
+252,en,lo,,,covid-19 domestic travel,ການເດີນທາງພາຍໃນ ໂຄວິດ-19
+253,en,lo,,,covid-19 early symptoms,ອາການຂັ້ນຕົົ້ນ ໂຄວິດ-19
+254,en,lo,,,covid-19 effects,​ຜົນ​ກະ​ທົບ​ຈາກ​ໂຄວິດ-19
+255,en,lo,,,covid-19 epidemic,ໂຣກ​ແຜ່​ລະ​ບາດ​ໂຄວິດ-19
+256,en,lo,,,covid-19 exposure,ການ​ສຳ​ຜັດ​ເຊື້ອ​ໂຄວິດ-19
+257,en,lo,,,covid-19 fatal,ໂຄວິດ-19 ຮ້າຍ​ແຮງ​ເຖິງ​ຕາຍ
+258,en,lo,,,covid-19 fever,ການ​ໄຂ້​ຕິດ​ເຊື້ອ​ໂຄວິດ-19
+259,en,lo,,,covid-19 illness,ການ​ເຈັບ​ປ່ວຍ​ຕິດ​ເຊື້ອ​ໂຄວິດ-19
+260,en,lo,,,covid-19 incubation,ການ​ຟັກ​ໂຕ​ຂອງ​ເຊື້ອ​ໂຄວິດ-19
+261,en,lo,,,covid-19 incubation period,ໄລຍະການບົ່ມພະຍາດ ໂຄວິດ-19
+262,en,lo,,,covid-19 infection,ການ​ຕິດ​ເຊື້ອ​ໂຄວິດ-19
+263,en,lo,,,covid-19 international spread,ການແຜ່ກະຈາຍຂ້າມຊາດ ໂຄວິດ-19
+264,en,lo,,,covid-19 international travel,ການເດີນທາງນາໆຊາດ ໂຄວິດ-19
+265,en,lo,,,covid-19 isolation,ການ​ແຍກ​ດ່ຽວ​ປ້ອງ​ກັນ​ໂຄວິດ-19
+266,en,lo,,,covid-19 lockdown,ການ​ປິດ​ຂັງ​ປ້ອງ​ກັນ​ໂຄວິດ-19
+267,en,lo,,,covid-19 map,ແຜນ​ທີ່​ໂຄວິດ-19
+268,en,lo,,,covid-19 medicine,ຢາ​ຕ້ານ​ໂຄວິດ-19
+269,en,lo,,,covid-19 medicines,​ຢາ​ຕ້ານ​ໂຄວິດ-19
+270,en,lo,,,covid-19 news,ຂ່າວ​ໂຄວິດ-19
+271,en,lo,,,covid-19 outbreak,ການ​ລະ​ບາດ​ຂອງ​ເຊື້ອ​ໂຄວິດ-19
+272,en,lo,,,covid-19 pandemic,​ກາ​ນ​ລະ​ບາດ​ໃຫຍ່​ຂອງ​ເຊື້ອ​ໂຄວິດ-19
+273,en,lo,,,covid-19 panic,ຄວາມ​ຕື່ນ​ຕົກ​ໃຈ​ນຳ​ໂຄວິດ-19
+275,en,lo,,,covid-19 precautions,​ການ​ປ້ອງ​ກັນ​ໂຄວິດ-19ໄວ້​ລ່ວງ​ໜ້າ
+276,en,lo,,,covid-19 protection,​ການ​ປົກ​ປ້ອງ​ຕົວ​ຈາກ​ໂຄວິດ-19
+277,en,lo,,,covid-19 quarantine,ການ​ກັກ​ຕົວ​ປ້ອງ​ກັນ​ໂຄວິດ-19
+278,en,lo,,,covid-19 SOS Alert,ການແຈ້ງເຕືອນ SOS ໂຄວິດ-19
+279,en,lo,,,covid-19 spread,​ການ​ແຜ່​ກະ​ຈາຍ​ເຊື້ອ​ໂຄວິດ-19
+280,en,lo,,,covid-19 symptoms,ອາ​ການ​ຕິດ​ເຊື້ອ​ໂຄວິດ-19
+281,en,lo,,,covid-19 transmission,ການ​ແຜ່​ເຊື້ອ​ໂຄວິດ-19
+282,en,lo,,,covid-19 travel ban,ສັ່ງຫ້າມການເດີນທາງ ໂຄວິດ-19
+283,en,lo,,,covid-19 travel restrictions,ຈໍາກັດການເດີນທາງ ໂຄວິດ-19
+284,en,lo,,,covid-19 treatment,ການ​ປິ່ນ​ປົວ​ໂຄວິດ-19
+285,en,lo,,,covid-19 uncontrolled spread,ບໍ່ສາມາດຄວບຄຸມການແຜ່ກະຈາຍ ໂຄວິດ-19
+286,en,lo,,,covid-19 vaccine,ວັກ​ຊີນ​ປ້ອງ​ກັນ​ໂຄວິ​ດ-19
+287,en,lo,,,covid-19 vaccines,ວັກ​ຊີນ​ປ້ອງ​ກັນ​ໂຄວິດ-19
+288,en,lo,,,COVID-19 virus,ໄວ​ຣັ​ສ​ໂຄວິດ-19
+289,en,lo,,,covid-19 virus outbreak,ໄວຣັສ ໂຄວິດ-19 ແຜ່ລະບາດ
+290,en,lo,,,covid-19 virus transmission,ການຕິດຕໍ່ ໄວຣັສ ໂຄວິດ-19
+291,en,lo,,,covid-19 WHO,WHO ໂຄວິດ-19
+292,en,lo,,,covid19,​ໂຄ​ວິດ19
+293,en,lo,,,covid19 alert,ແຈ້ງ​ເຕືອນ​ໂຄວິດ19
+294,en,lo,,,covid19 cases,ກໍ​ລະ​ນີ​ໂຄວິດ19
+295,en,lo,,,covid19 CDC,CDC ໂຄວິດ19
+301,en,lo,,,covid19 deaths,ການ​ເສຍ​ຊີ​ວິດ​ຈາກ​ໂຄວິດ19
+302,en,lo,,,covid19 domestic travel,ການເດີນທາງພາຍໃນ ໂຄວິ19
+303,en,lo,,,covid19 effects,ຜົນ​ກະ​ທົບ​ຈາກ​ໂຄວິດ19
+304,en,lo,,,covid19 epidemic,ໂຣກ​ແຜ່​ລະ​ບາດ​ໂຄວິດ19
+305,en,lo,,,covid19 exposure,ການ​ສຳ​ຜັດ​ເຊື້ອ​ໂຄວິດ19
+306,en,lo,,,covid19 fatal,ໂຄວິດ19 ຮ້າຍ​ແຮງ​ເຖິງ​ຕາຍ
+307,en,lo,,,covid19 fever,​ການ​ໄຂ້​ຕິດ​ເຊື້ອ​ໂຄວິດ19
+308,en,lo,,,covid19 illness,ການ​ເຈັບ​ປ່ວຍ​ຕິດ​ເຊື້ອ​ໂຄວິດ19
+309,en,lo,,,covid19 incubation,ການ​ຟັກ​ຕົວ​ຂອງ​ເຊື້ອ​ໂຄວິດ19
+310,en,lo,,,covid19 incubation period,ໄລຍະ ການບົ່ມພະຍາດ ໂຄວິດ19
+311,en,lo,,,covid19 infection,ການ​ຕິດ​ເຊື້ອ​ໂຄວິດ19
+312,en,lo,,,covid19 international spread,ການແຜ່ກະຈາຍ ໂຄວິທ19 ຂ້າມຊາ
+313,en,lo,,,covid19 international travel,ການເດີນທາງ ນາໆຊາດ ໂຄວິດ19
+314,en,lo,,,covid19 isolation,ການ​ແຍກ​ດ່ຽວ​ປ້ອງ​ກັນ​ໂຄວິດ19
+315,en,lo,,,covid19 lockdown,ການ​ປິດ​ຂັງ​ປ້ອງ​ກັນ​ໂຄວິດ19
+316,en,lo,,,covid19 map,ແຜນ​ທີ່​ໂຄວິດ19
+317,en,lo,,,covid19 medicine,ຢາ​ຕ້ານ​ໂຄວິດ19
+318,en,lo,,,covid19 medicines,ຢາ​ຕ້ານ​ໂຄວິດ19
+319,en,lo,,,covid19 news,ຂ່າວ​ໂຄວິດ19
+320,en,lo,,,covid19 outbreak,ການ​ລະ​ບາດ​ຂອງ​ເຊື້ອ​ໂຄວິດ19
+321,en,lo,,,covid19 pandemic,ການ​ລະ​ບາດ​ໃຫຍ່​ຂອງ​ເຊື້ອ​ໂຄວິດ19
+324,en,lo,,,covid19 precautions,​ການ​ປ້ອງ​ກັນ​ໂຄວິດ19 ໄວ້​ລ່ວງ​ໜ້າ
+325,en,lo,,,covid19 protection,​ການ​ປົກ​ປ້ອງ​ຕົວ​ຈາກ​ໂຄ​ວິດ19
+326,en,lo,,,covid19 quarantine,ການ​ກັກ​ຕົວ​ປ້ອງກ​ັນ​ໂຄວິດ19
+327,en,lo,,,covid19 SOS Alert,ການແຈ້ງເຕືອນ SOS ໂຄວິດ19
+328,en,lo,,,covid19 spread,ການ​ແຜ່​ກະ​ຈາຍ​ເຊື້ອ​ໂຄວິດ19
+329,en,lo,,,covid19 symptoms,ອາ​ການ​ຕິດ​ເຊື້ອ​ໂຄວິດ19
+330,en,lo,,,covid19 transmission,ການ​ແຜ່​ເຊື້ອ​ໂຄວິດ19
+331,en,lo,,,covid19 travel ban,ສັ່ງຫ້າມການເດີນທາງ ໂຄວິດ19
+332,en,lo,,,covid19 travel restrictions,ຈຳກັດການເດີນທາງ ໂຄວິດ19
+333,en,lo,,,covid19 treatment,ການ​ປິ່ນ​ປົວ​ໂຄວິດ19
+335,en,lo,,,covid19 vaccine,ວັກ​ຊີນ​ຕ້ານ​ໂຄວິດ19
+336,en,lo,,,covid19 vaccines,ວັກ​ຊີນ​ຕ້ານ​ໂຄວິດ19
+337,en,lo,,,covid19 virus,ໄວ​ຣັ​ສ​ໂຄວິດ19
+338,en,lo,,,covid19 virus outbreak,ໄວຣັສ ໂຄວິດ19 ລະບາດ
+339,en,lo,,,covid19 virus transmission,ການຕິດຕໍ່ ໄວຣັສ ໂຄວິດ19
+342,en,lo,,,current outbreak,ການ​ລະ​ບາດ​ໃນ​ປັດ​ຈຸ​ບັນ
+343,en,lo,,,deadly outbreak,​ການ​ລະ​ບາດ​ທີ່​ອັນ​ຕະ​ລາຍ​ເຖິງ​ຕາຍ
+345,en,lo,,,disease outbreak,​ການ​ລະ​ບາດ​ເຊື້ອ​ພະ​ຍາດ
+346,en,lo,,,Disposable hand sanitizer,ອຸປະກອນຂ້າເຊື້ອມືໃຊ້ເທື່ອດຽວ
+348,en,lo,,,domestic travel,​ການ​ເດີນ​ທາງ​ພາຍ​ໃນ​ປະ​ເທດ
+351,en,lo,,,droplets,​ຝອຍ​ລະ​ອອງ
+357,en,lo,,,Effects of coronavirus,ຜົນກະທົບຂອງໂຄໂຣນາໄວຣັສ
+359,en,lo,,,epidemic,ໂຣກ​ແຜ່​ລະ​ບາດ
+360,en,lo,,,epidemic and pandemic,ການລະບາດ ແລະ ໂຣກລະບາດ
+362,en,lo,,,epidemic disease,​ພະ​ຍາດ​ແຜ່​ລະ​ບາດ
+364,en,lo,,,epidemic outbreak,​ການ​ລະ​ບາດ​ຂອງ​ໂຣກ​ແຜ່​ລະ​ບາດ
+365,en,lo,,,epidemic period,​ໄລ​ຍະ​ເວ​ລາ​​ແຜ່​ລະ​ບາດ
+366,en,lo,,,epidemic prevention,​ການ​ປ້ອງ​ກັນ​ໂຣກ​ແຜ່​ລະ​ບາດ
+368,en,lo,,,epidemic season,​ລະ​ດູ​ການ​ແຜ່​ລະ​ບາດ
+369,en,lo,,,epidemic situation,​ສະ​ພາບ​ການ​ໂຣກ​ແຜ່​ລະ​ບາດ
+371,en,lo,,,exposure,​ການ​ສຳ​ຜັດ​ເຊື້ອ
+375,en,lo,,,exposure time,​ເວ​ລາ​ການ​ສຳ​ຜັດ​ເຊື້ອ
+379,en,lo,,,fever,ໄຂ້
+380,en,lo,,,fight the virus,ສູ້ຕົວໄວຣັສ
+381,en,lo,,,Fighting the outbreak,ສູ້ການແຜ່ລະບາດ
+382,en,lo,,,flu epidemic,​ການ​ແຜ່​ລະ​ບາດ​ຂອງ​ໄຂ້​ຫວັດ
+385,en,lo,,,fomites,​ຕິດ​ເຊື້ອ​ຈາກ​ການ​ສຳ​ຜັດ
+392,en,lo,,,global health emergency,ຄວາມສຸກເສີນສຸຂະພາບທັງໂລກ
+393,en,lo,,,global outbreak,​ການ​ລະ​ບາດ​ທົ່ວ​ໂລກ
+394,en,lo,,,global pandemic,​ການ​ລະ​ບາດ​ໃຫຍ່​ທົ່ວ​ໂລກ
+396,en,lo,,,hand sanitizer,​ນ້ຳ​ຢາ​ຂ້າ​ເຊື້ອ​ລ້າງ​ມື
+397,en,lo,,,hand sanitizer dispenser,ເຄື່ອແຈກຢາຍອຸປະກອນຂ້າເຊື້ອມື
+398,en,lo,,,hand sanitizer gel,ແຈວຂ້າເຊື້ອມື
+399,en,lo,,,hand sanitizer spray,ສະເປຂ້າເຊື້ອມື
+403,en,lo,,,home isolation,​ການ​ແຍກ​ດ່ຽວ​ຢູ່​ເຮືອນ
+404,en,lo,,,home quarantine,​ການ​ກັກ​ຕົວ​ຢູ່​ເຮືອນ
+410,en,lo,,,illness,​ການ​ເຈັບ​ປ່ວຍ
+415,en,lo,,,incubation period,​ໄລ​ຍະ​​ເວ​ລາ​ການຟັກ​ຕົວ​ຂອງ​ເຊື້ອ
+418,en,lo,,,infected,ຕິດ​ເຊື້ອ
+424,en,lo,,,instant hand sanitizer,ອຸປະກອນຂ້າເຊື້ອທັນທີ
+425,en,lo,,,international spread,​ການ​ແຜ່​ກະ​ຈາຍ​ເຊື້ອ​ລະ​ຫວ່າງ​ປະ​ເທດ
+426,en,lo,,,international travel,​ການ​ເດີນ​ທາງ​ລະ​ຫວ່າງ​ປະ​ເທດ
+427,en,lo,,,isolation,​ການ​ແຍກ​ດ່ຽວ
+428,en,lo,,,isolation period,​ໄລ​ຍະ​ເວ​ລາ​ການ​ແຍກ​ດ່ຽວ
+430,en,lo,,,isolation room,​ຫ້ອງ​ສຳ​ລັບ​ການ​ແຍກ​ດ່ຽວ
+431,en,lo,,,isolation valve,​ສິ່ງ​ຄ​ວບ​ຄຸມ​ການ​ແຍກ​ດ່ຽວ
+432,en,lo,,,isolation ward,​ຫ້ອງ​ຄົນ​ເຈັບ​ແຍກ​ດ່ຽວ
+434,en,lo,,,lockdown,​ການ​ປິດ​ຂັງ
+438,en,lo,,,major outbreak,​ການ​ລະ​ບາດ​ຮ້າຍ​ແຮງ
+439,en,lo,,,mandatory quarantine,​ການ​ກັກ​ຕົວ​ແບບ​ບັງ​ຄັບ
+440,en,lo,,,mass gathering,​ການ​ຊຸມ​ນຸມມວນ​ຊົນ
+444,en,lo,,,medicine,​ຢາ
+445,en,lo,,,medicines,​ຢາ
+448,en,lo,,,n95,n95
+449,en,lo,,,n95 mask,​ໜ້າ​ກາກ n95
+450,en,lo,,,n95 respirator,ເຄື່ອງ​ຊ່ວຍ​ຫາຍ​ໃຈ n95
+451,en,lo,,,ncov,ncov
+452,en,lo,,,ncov-2019,ncov-2019
+453,en,lo,,,new coronavirus,ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ​​ໃໝ່
+454,en,lo,,,new coronavirus pneumonia,ປອດບວມດ້ວຍໂຄໂຣນາໄວຣັສຊະນິດໃໝ່
+460,en,lo,,,novel coronavirus,ໄວ​ຣັ​ສ​ໂຄ​ໂຣ​ນາ​ສາຍ​ພັນ​ໃໝ່
+462,en,lo,,,novel coronavirus infection,ການຕິດເຊື້ອ ນາວະນິຍາຍ ໂຄໂຣນາໄວຣັສ
+463,en,lo,,,novel coronavirus outbreak,ການແຜ່ລະບາດ ນາວະນິຍາຍ ໂຄໂຣນາໄວຣັສ
+464,en,lo,,,novel coronavirus pneumonia,ປອດບວມ ນາວະນິຍາຍ ໂຄໂຣນາໄວຣັສ
+470,en,lo,,,ongoing outbreak,​ການ​ລະ​ບາດ​ຢ່າງ​ຕໍ່​ເນື່ອງ
+472,en,lo,,,outbreak,​ການ​ລະ​ບາດ
+474,en,lo,,,outbreak of coronavirus,ການແຜ່ລະບາດຂອງໂຄໂຣນາໄວຣັສ
+475,en,lo,,,outbreak of disease,ການແຜ່ລະບາດຂອງພະຍາດ
+482,en,lo,,,pandemic,ການ​ລະ​ບາດ​ໃຫຍ່
+485,en,lo,,,pandemic influenza,ໂຣກໄຂ້ຫວັດໃຫ່ຍລະບາດ
+486,en,lo,,,pandemic outbreak,ໂຣກແຜ່ລະບາດ
+487,en,lo,,,pandemic plan,ແຜນການ ໂຣກລະບາດ
+488,en,lo,,,pandemic potential,ໂຣກລະບາດ ທີ່ສໍາຄັນ
+495,en,lo,,,pneumonia,​ໂຣກປອດ​ອັກ​ເສບ
+496,en,lo,,,pneumonia epidemic,ປອດບວມລະບາດ
+497,en,lo,,,potential exposure,ການສຳຜັດທີ່ສຳຄັນ
+498,en,lo,,,precautions,ການ​ປ້ອງ​ກັນ​ລ່ວງ​ໜ້າ
+499,en,lo,,,prevent virus,ປ້ອງກັນໄວຣັສ
+500,en,lo,,,prolonged exposure,ການສຳຜັດເປັນເວລາດົນນານ
+504,en,lo,,,quarantine,ການ​ກັກ​ຕົວ​
+505,en,lo,,,quarantine area,ສະຖານທີ່ກັກຕົວ
+506,en,lo,,,quarantine facility,ສູນກັກຕົວ
+507,en,lo,,,quarantine measures,ມາດຕະການກັກຕົວ
+508,en,lo,,,quarantine period,ໄລຍະເວລາກັກຕົວ
+509,en,lo,,,quarantine room,ຫ້ອງກັກຕົວ
+510,en,lo,,,quarantine zone,ຂອບເຂດກັກຕົວ
+512,en,lo,,,Recovered coronavirus patient,ຄົນໄຂ້ທີ່ຟື້ນຈາກໂຄໂຣນາໄວຣັສ
+514,en,lo,,,repatriate,ສົ່ງ​ກັບ​ຄືນ​ປະ​ເທດ
+515,en,lo,,,repeated exposure,ການສຳຜັດຊໍ້າແລ້ວຊໍ້າອີກ
+516,en,lo,,,respiratory syncytial virus,ກຸ່ມໄວຣັສລະບົບຫາຍໃຈ
+517,en,lo,,,respiratory virus,ໄວຣັສທາງເດີນຫາຍໃຈ
+519,en,lo,,,Sanitizing hand sanitizer,ທຳຄວາມສະອາດອຸປະກອນຂ້າເຊື້ອມື
+520,en,lo,,,SARS-CoV-2,SARS-CoV-2
+521,en,lo,,,self isolation,ການແຍກຕົນເອງອອກ
+522,en,lo,,,self quarantine,ການກັກຕົວເອງ
+523,en,lo,,,Severe outbreak,ການລະບາດທີ່ຮຸນແຮງ
+525,en,lo,,,social distancing,ການຢູ່ຫ່າງໄກທາງສັງຄົມ
+526,en,lo,,,social distancing measures,ມາດຕະການຢູ່ຫ່າງໄກຈາກສັງຄົມ
+527,en,lo,,,social isolation,ການແຍກອອກຈາກສັງຄົມ
+528,en,lo,,,SOS Alert,SOS ແຈ້ງເຕືອນ
+529,en,lo,,,spread,ແຜ່​ກະ​ຈາຍ​ເຊື້ອ
+530,en,lo,,,spread of coronavirus,ການແຜ່ກະຈາຍຂອງໂຄໂຣນາໄວຣັສ
+531,en,lo,,,spread of virus,ການແຜ່ລະບາດຂອງໄວຣັສ
+535,en,lo,,,strain of virus,ປະເພດຂອງໄວຣັສ
+541,en,lo,,,the incubation period,ໄລຍະການບົ່ມພະຍາດ
+544,en,lo,,,the novel coronavirus,ນາວະນິຍາຍໂຄໂຣນາໄວຣັສ
+558,en,lo,,,touching face,ການແຕະໜ້າ
+559,en,lo,,,travel advisory,ປືກສາການເດີນທາງ
+560,en,lo,,,travel ban,ສັ່ງຫ້າມການເດີນທາງ
+561,en,lo,,,travel restrictions,ຈໍາກັດການເດີນທາງ
+565,en,lo,,,use hand sanitizer,ໃຊ້ນໍ້າຢາຂ້າເຊື້ອໃສ່ມື
+566,en,lo,,,vaccines,​ວັກ​ຊີນ​ປ້ອງ​ກັນ
+567,en,lo,,,viral outbreak,ການແຜ່ລະບາດໄຮຣັສ
+568,en,lo,,,virtual lockdown,ປິດຕົວລົງ ແບບທາງໄກ
+569,en,lo,,,virus,​ໄວ​ຣັ​ສ
+570,en,lo,,,virus carrier,ຜູ້ນໍາສົ່ງໄວຣັສ
+573,en,lo,,,virus infection,ອັກເເສບໄວຣັສ
+575,en,lo,,,virus mask,ຜ້າປິດປ້າປ້ອງກັນໄວຣັສ
+576,en,lo,,,virus outbreak,ໄວຣັສລະບາດ
+577,en,lo,,,virus prevention,ການປ້ອງກັນໄວຣັສ
+578,en,lo,,,virus protection,ການປົກປ້ອງໄວຣັສ
+580,en,lo,,,virus spread,ໄວຣັສແຜ່ກະຈາຍ
+582,en,lo,,,virus spreads,ໄວຣັສກະຈາຍ
+583,en,lo,,,virus strain,ປະເພດໄວຣັສ
+584,en,lo,,,virus transmission,ການຕິດຕໍ່ໄວຣັສ
+586,en,lo,,,wash your hands,ລ້າງມືທັງສອງຂອງທ່ານ
+587,en,lo,,,washing hands,ໃສ່ຜ້າປິດບາກ
+589,en,lo,,,WHO,WHO
+590,en,lo,,,WHO Confirmed,ອົງການອະນາໄມໂລກ ຢືນຢັນ
+591,en,lo,,,WHO Deaths,ອົງການອະນາໄມໂລກ ການຕາຍ
+592,en,lo,,,widespread outbreak,ການແຜ່ລະບາດ ທີ່ກະຈາຍກວ້າງຢ່າງກວ້າງຂວາງ
+597,en,lo,,,World Health Organization,ອົງການອະນາໄມໂລກ
+600,en,lo,,,zoonotic disease,ພະຍາດສັດ
+601,en,lo,,,zoonotic virus,ໄວຣັສສັດ

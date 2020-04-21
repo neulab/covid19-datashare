@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,ca,,,14 days in isolation,14 dies en aïllament
+26,en,ca,,,14 days quarantine,quarantena de 14 dies
+27,en,ca,,,2019 coronavirus,coronavirus del 2019
+28,en,ca,,,2019 novel coronavirus,nou coronavirus del 2019
+29,en,ca,,,2019-nCoV,2019-nCoV
+30,en,ca,,,2020 coronavirus,coronavirus del 2020
+31,en,ca,,,2020 novel coronavirus,nou coronavirus del 2020
+33,en,ca,,,about coronavirus,sobre el coronavirus
+39,en,ca,,,acute respiratory distress syndrome,síndrome del destret respiratori agut
+40,en,ca,,,advanced hand sanitizer,desinfectant de mans avançat
+41,en,ca,,,Affected by coronavirus,Afectats pel coronavirus
+42,en,ca,,,after exposure,després de l'exposició
+43,en,ca,,,After the epidemic,Després de l'epidèmia
+44,en,ca,,,After the outbreak,Després del brot
+47,en,ca,,,airborne virus,virus en suspensió
+48,en,ca,,,alcohol based hand sanitizer,desinfectant de mans amb base d'alcohol
+49,en,ca,,,alcohol hand sanitizer,desinfectant de mans amb alcohol
+51,en,ca,,,alcohol-based hand sanitizer,desinfectant de mans a base d'alcohol
+59,en,ca,,,Anti-Corona virus spray,esprai anticoronavirus
+60,en,ca,,,antibacterial hand sanitizer,desinfectant de mans antibacterià
+61,en,ca,,,ARDS,SDRA
+64,en,ca,,,avoid exposure,evitar l'exposició
+65,en,ca,,,be infected,haver-se infectat
+75,en,ca,,,Beware of coronavirus,Ves amb compte amb el coronavirus
+76,en,ca,,,bilateral interstitial pneumonia,pneumònia intersticial bilateral
+77,en,ca,,,CDC,CDC
+78,en,ca,,,Center for Disease Control,Centre per al Control de Malalties
+83,en,ca,,,community spread,propagació comunitària
+84,en,ca,,,compulsory quarantine,quarantena obligatòria
+85,en,ca,,,contagious,contagiós
+135,en,ca,,,coronavirus,coronavirus
+136,en,ca,,,coronavirus (COVID-19),coronavirus (COVID-19)
+137,en,ca,,,coronavirus alert,alerta per coronavirus
+139,en,ca,,,coronavirus cases,casos de coronavirus
+141,en,ca,,,coronavirus concerns,preocupació pel coronavirus
+143,en,ca,,,coronavirus crisis,crisi del coronavirus
+149,en,ca,,,coronavirus disease,malaltia per coronavirus
+150,en,ca,,,Coronavirus disease (COVID-19) outbreak,Brot de la malaltia per coronavirus (COVID-19)
+153,en,ca,,,coronavirus early symptoms,primers símptomes del coronavirus
+155,en,ca,,,coronavirus epidemic,epidèmia del coronavirus
+156,en,ca,,,coronavirus exposure,exposició al coronavirus
+161,en,ca,,,coronavirus incubation,incubació del coronavirus
+162,en,ca,,,coronavirus incubation period,període d'incubació del coronavirus
+163,en,ca,,,coronavirus infection,infecció per coronavirus
+168,en,ca,,,coronavirus map,mapa del coronavirus
+170,en,ca,,,coronavirus medicine,medicament contra el coronavirus
+171,en,ca,,,coronavirus medicines,medicaments contra el coronavirus
+172,en,ca,,,coronavirus news,notícies sobre el coronavirus
+173,en,ca,,,coronavirus outbreak,brot de coronavirus
+174,en,ca,,,coronavirus pandemic,pandèmia del coronavirus
+176,en,ca,,,coronavirus pneumonia,pneumònia per coronavirus
+177,en,ca,,,coronavirus precautions,precaucions contra el coronavirus
+178,en,ca,,,coronavirus prevention,prevenció contra el coronavirus
+179,en,ca,,,coronavirus protection,protecció contra el coronavirus
+180,en,ca,,,coronavirus quarantine,quarantena per coronavirus
+182,en,ca,,,coronavirus SOS Alert,alerta SOS pel coronavirus
+183,en,ca,,,coronavirus spread,propagació del coronavirus
+184,en,ca,,,coronavirus symptoms,símptomes del coronavirus
+185,en,ca,,,coronavirus transmission,transmissió del coronavirus
+186,en,ca,,,coronavirus travel ban,prohibició de viatjar pel coronavirus
+187,en,ca,,,coronavirus travel restrictions,restriccions per viatjar pel coronavirus
+188,en,ca,,,coronavirus treatment,tractament contra el coronavirus
+190,en,ca,,,coronavirus update,novetat sobre el coronavirus
+191,en,ca,,,coronavirus vaccine,vacuna contra el coronavirus
+192,en,ca,,,coronavirus vaccines,vacunes contra el coronavirus
+198,en,ca,,,covid cases,casos de covid
+205,en,ca,,,covid early symptoms,primers símptomes del covid
+213,en,ca,,,covid incubation period,període d'incubació del covid
+215,en,ca,,,covid international spread,propagació internacional del covid
+216,en,ca,,,covid international travel,viatges internacionals pel covid
+217,en,ca,,,covid isolation,aïllament pel covid
+219,en,ca,,,covid map,mapa del covid
+220,en,ca,,,covid medicine,medicament contra el covid
+221,en,ca,,,covid medicines,medicaments contra el covid
+222,en,ca,,,covid news,notícies sobre el covid
+223,en,ca,,,covid outbreak,brot del covid
+224,en,ca,,,covid pandemic,pandèmia del covid
+225,en,ca,,,covid panic,pànic pel covid
+228,en,ca,,,covid SOS Alert,alerta SOS pel covid
+230,en,ca,,,covid symptoms,símptomes del covid
+231,en,ca,,,covid transmission,transmissió del covid
+232,en,ca,,,covid travel ban,prohibició de viatjar pel covid
+233,en,ca,,,covid travel restrictions,restriccions per viatjar pel covid
+234,en,ca,,,covid treatment,tractament contra el covid
+236,en,ca,,,covid vaccine,vacuna contra el covid
+237,en,ca,,,covid vaccines,vacunes contra el covid
+242,en,ca,,,covid-19,covid-19
+243,en,ca,,,covid-19 alert,alerta pel covid-19
+244,en,ca,,,covid-19 cases,casos de covid-19
+245,en,ca,,,covid-19 CDC,CDC del covid-19
+246,en,ca,,,covid-19 contagious,covid-19 contagiós
+247,en,ca,,,covid-19 cure,cura del covid-19
+248,en,ca,,,covid-19 dangerous,covid-19 perillós
+249,en,ca,,,covid-19 deadly,covid-19 mortal
+250,en,ca,,,covid-19 death,mort per covid-19
+251,en,ca,,,covid-19 deaths,morts per covid-19
+252,en,ca,,,covid-19 domestic travel,viatges nacionals pel covid-19
+253,en,ca,,,covid-19 early symptoms,primers símptomes del covid-19
+254,en,ca,,,covid-19 effects,efectes del covid-19
+255,en,ca,,,covid-19 epidemic,epidèmia del covid-19
+256,en,ca,,,covid-19 exposure,exposició al covid-19
+257,en,ca,,,covid-19 fatal,covid-19 fatal
+258,en,ca,,,covid-19 fever,febre per covid-19
+259,en,ca,,,covid-19 illness,malaltia del covid-19
+260,en,ca,,,covid-19 incubation,incubació del covid-19
+261,en,ca,,,covid-19 incubation period,període d'incubació del covid-19
+262,en,ca,,,covid-19 infection,infecció per covid-19
+263,en,ca,,,covid-19 international spread,propagació internacional del covid-19
+264,en,ca,,,covid-19 international travel,viatges internacionals pel covid-19
+265,en,ca,,,covid-19 isolation,aïllament pel covid-19
+266,en,ca,,,covid-19 lockdown,confinament pel covid-19
+267,en,ca,,,covid-19 map,mapa del covid-19
+268,en,ca,,,covid-19 medicine,medicament contra el covid-19
+269,en,ca,,,covid-19 medicines,medicaments contra el covid-19
+270,en,ca,,,covid-19 news,notícies sobre el covid-19
+271,en,ca,,,covid-19 outbreak,brot del covid-19
+272,en,ca,,,covid-19 pandemic,pandèmia del covid-19
+273,en,ca,,,covid-19 panic,pànic pel covid-19
+275,en,ca,,,covid-19 precautions,precaucions contra el covid-19
+276,en,ca,,,covid-19 protection,protecció contra el covid-19
+277,en,ca,,,covid-19 quarantine,quarantena per covid-19
+278,en,ca,,,covid-19 SOS Alert,alerta SOS pel covid-19
+279,en,ca,,,covid-19 spread,propagació del covid-19
+280,en,ca,,,covid-19 symptoms,símptomes del covid-19
+281,en,ca,,,covid-19 transmission,transmissió del covid-19
+282,en,ca,,,covid-19 travel ban,prohibició de viatjar pel covid-19
+283,en,ca,,,covid-19 travel restrictions,restriccions per viatjar pel covid-19
+284,en,ca,,,covid-19 treatment,tractament contra el covid-19
+285,en,ca,,,covid-19 uncontrolled spread,propagació descontrolada del covid-19
+286,en,ca,,,covid-19 vaccine,vacuna contra el covid-19
+287,en,ca,,,covid-19 vaccines,vacunes contra el covid-19
+288,en,ca,,,COVID-19 virus,virus del covid-19
+289,en,ca,,,covid-19 virus outbreak,brot del virus del covid-19
+290,en,ca,,,covid-19 virus transmission,transmissió del virus del covid-19
+291,en,ca,,,covid-19 WHO,covid-19 OMS
+292,en,ca,,,covid19,covid19
+293,en,ca,,,covid19 alert,alerta per covid19
+294,en,ca,,,covid19 cases,casos de covid19
+295,en,ca,,,covid19 CDC,CDC del covid19
+301,en,ca,,,covid19 deaths,morts per covid19
+302,en,ca,,,covid19 domestic travel,viatges nacionals pel covid19
+303,en,ca,,,covid19 effects,efectes del covid19
+304,en,ca,,,covid19 epidemic,epidèmia del covid19
+305,en,ca,,,covid19 exposure,exposició al covid19
+306,en,ca,,,covid19 fatal,covid19 fatal
+307,en,ca,,,covid19 fever,febre per covid19
+308,en,ca,,,covid19 illness,malaltia del covid19
+309,en,ca,,,covid19 incubation,incubació del covid19
+310,en,ca,,,covid19 incubation period,període d'incubació del covid19
+311,en,ca,,,covid19 infection,infecció per covid19
+312,en,ca,,,covid19 international spread,propagació internacional del covid19
+313,en,ca,,,covid19 international travel,viatges internacionals pel covid19
+314,en,ca,,,covid19 isolation,aïllament pel covid19
+315,en,ca,,,covid19 lockdown,confinament pel covid19
+316,en,ca,,,covid19 map,mapa del covid19
+317,en,ca,,,covid19 medicine,medicament contra el covid19
+318,en,ca,,,covid19 medicines,medicaments contra el covid19
+319,en,ca,,,covid19 news,notícies sobre el covid19
+320,en,ca,,,covid19 outbreak,brot del covid19
+321,en,ca,,,covid19 pandemic,pandèmia del covid19
+324,en,ca,,,covid19 precautions,precaucions contra el covid19
+325,en,ca,,,covid19 protection,protecció contra el covid19
+326,en,ca,,,covid19 quarantine,quarantena per covid19
+327,en,ca,,,covid19 SOS Alert,alerta SOS pel covid19
+328,en,ca,,,covid19 spread,propagació del covid19
+329,en,ca,,,covid19 symptoms,símptomes del covid19
+330,en,ca,,,covid19 transmission,transmissió del covid19
+331,en,ca,,,covid19 travel ban,prohibició de viatjar pel covid19
+332,en,ca,,,covid19 travel restrictions,restriccions per viatjar pel covid19
+333,en,ca,,,covid19 treatment,tractament contra el covid19
+335,en,ca,,,covid19 vaccine,vacuna contra el covid19
+336,en,ca,,,covid19 vaccines,vacunes contra el covid19
+337,en,ca,,,covid19 virus,virus del covid19
+338,en,ca,,,covid19 virus outbreak,brot del virus del covid19
+339,en,ca,,,covid19 virus transmission,transmissió del virus del covid19
+342,en,ca,,,current outbreak,brot actual
+343,en,ca,,,deadly outbreak,brot mortal
+345,en,ca,,,disease outbreak,brot de la malaltia
+346,en,ca,,,Disposable hand sanitizer,desinfectant de mans d'un sol ús
+348,en,ca,,,domestic travel,viatges nacionals
+351,en,ca,,,droplets,gotes
+357,en,ca,,,Effects of coronavirus,Efectes del coronavirus
+359,en,ca,,,epidemic,epidèmia
+360,en,ca,,,epidemic and pandemic,epidèmia i pandèmia
+362,en,ca,,,epidemic disease,malaltia epidèmica
+364,en,ca,,,epidemic outbreak,brot epidèmic
+365,en,ca,,,epidemic period,període de l'epidèmia
+366,en,ca,,,epidemic prevention,prevenció contra l'epidèmia
+368,en,ca,,,epidemic season,temporada d'epidèmies
+369,en,ca,,,epidemic situation,situació epidèmica
+371,en,ca,,,exposure,exposició
+375,en,ca,,,exposure time,temps d'exposició
+379,en,ca,,,fever,febre
+380,en,ca,,,fight the virus,combatre el coronavirus
+381,en,ca,,,Fighting the outbreak,Combatre el brot
+382,en,ca,,,flu epidemic,epidèmia de la grip
+385,en,ca,,,fomites,fòmits
+392,en,ca,,,global health emergency,emergència sanitària mundial
+393,en,ca,,,global outbreak,brot mundial
+394,en,ca,,,global pandemic,pandèmia mundial
+396,en,ca,,,hand sanitizer,desinfectant de mans
+397,en,ca,,,hand sanitizer dispenser,dosificador de desinfectant de mans
+398,en,ca,,,hand sanitizer gel,gel desinfectant de mans
+399,en,ca,,,hand sanitizer spray,esprai desinfectant de mans
+403,en,ca,,,home isolation,aïllament domiciliari
+404,en,ca,,,home quarantine,quarantena domiciliària
+410,en,ca,,,illness,malaltia
+415,en,ca,,,incubation period,període d'incubació
+418,en,ca,,,infected,infectat
+424,en,ca,,,instant hand sanitizer,desinfectant de mans instantani
+425,en,ca,,,international spread,propagació internacional
+426,en,ca,,,international travel,viatges internacionals
+427,en,ca,,,isolation,aïllament
+428,en,ca,,,isolation period,període d'aïllament
+430,en,ca,,,isolation room,sala d'aïllament
+431,en,ca,,,isolation valve,vàlvula d'aïllament
+432,en,ca,,,isolation ward,pavelló d'aïllament
+434,en,ca,,,lockdown,confinament
+438,en,ca,,,major outbreak,brot important
+439,en,ca,,,mandatory quarantine,quarantena necessària
+440,en,ca,,,mass gathering,reunió multitudinària
+444,en,ca,,,medicine,medicament
+445,en,ca,,,medicines,medicaments
+448,en,ca,,,n95,n95
+449,en,ca,,,n95 mask,mascareta n95
+450,en,ca,,,n95 respirator,respirador n95
+451,en,ca,,,ncov,ncov
+452,en,ca,,,ncov-2019,ncov-2019
+453,en,ca,,,new coronavirus,recent coronavirus
+454,en,ca,,,new coronavirus pneumonia,pneumònia pel recent coronavirus
+460,en,ca,,,novel coronavirus,nou coronavirus
+462,en,ca,,,novel coronavirus infection,infecció pel nou coronavirus
+463,en,ca,,,novel coronavirus outbreak,brot pel nou coronavirus
+464,en,ca,,,novel coronavirus pneumonia,pneumònia pel nou coronavirus
+470,en,ca,,,ongoing outbreak,brot en curs
+472,en,ca,,,outbreak,brot
+474,en,ca,,,outbreak of coronavirus,brot de coronavirus
+475,en,ca,,,outbreak of disease,brot de malaltia
+482,en,ca,,,pandemic,pandèmia
+485,en,ca,,,pandemic influenza,influença pandèmica
+486,en,ca,,,pandemic outbreak,brot pandèmic
+487,en,ca,,,pandemic plan,pla de preparació per a la pandèmia
+488,en,ca,,,pandemic potential,potencial pandèmic
+495,en,ca,,,pneumonia,pneumònia
+496,en,ca,,,pneumonia epidemic,epidèmia de pneumònia
+497,en,ca,,,potential exposure,exposició potencial
+498,en,ca,,,precautions,precaucions
+499,en,ca,,,prevent virus,prevenir el virus
+500,en,ca,,,prolonged exposure,exposició prolongada
+504,en,ca,,,quarantine,quarantena
+505,en,ca,,,quarantine area,àrea de quarantena
+506,en,ca,,,quarantine facility,instal·lació de quarantena
+507,en,ca,,,quarantine measures,mesures per a la quarantena
+508,en,ca,,,quarantine period,període de quarantena
+509,en,ca,,,quarantine room,sala de quarantena
+510,en,ca,,,quarantine zone,zona de quarantena
+512,en,ca,,,Recovered coronavirus patient,Pacient recuperat de coronavirus
+514,en,ca,,,repatriate,repatrio
+515,en,ca,,,repeated exposure,exposició repetida
+516,en,ca,,,respiratory syncytial virus,virus respiratori sincicial
+517,en,ca,,,respiratory virus,virus respiratori
+519,en,ca,,,Sanitizing hand sanitizer,Desinfectar un desinfectant de mans
+520,en,ca,,,SARS-CoV-2,SARS-CoV-2
+521,en,ca,,,self isolation,autoaïllament
+522,en,ca,,,self quarantine,autoquarantena
+523,en,ca,,,Severe outbreak,Brot greu
+525,en,ca,,,social distancing,distanciament social
+526,en,ca,,,social distancing measures,mesures de distanciament social
+527,en,ca,,,social isolation,aïllament social
+528,en,ca,,,SOS Alert,alerta SOS
+529,en,ca,,,spread,propagació
+530,en,ca,,,spread of coronavirus,propagació del coronavirus
+531,en,ca,,,spread of virus,propagació del virus
+535,en,ca,,,strain of virus,soca de virus
+541,en,ca,,,the incubation period,el període d'incubació
+544,en,ca,,,the novel coronavirus,el nou coronavirus
+558,en,ca,,,touching face,tocar-se la cara
+559,en,ca,,,travel advisory,avís per a viatgers
+560,en,ca,,,travel ban,prohibició de viatjar
+561,en,ca,,,travel restrictions,restriccions per viatjar
+565,en,ca,,,use hand sanitizer,utilitzar un desinfectant de mans
+566,en,ca,,,vaccines,vacunes
+567,en,ca,,,viral outbreak,brot viral
+568,en,ca,,,virtual lockdown,confinament virtual
+569,en,ca,,,virus,virus
+570,en,ca,,,virus carrier,portador de virus
+573,en,ca,,,virus infection,infecció per virus
+575,en,ca,,,virus mask,mascareta contra virus
+576,en,ca,,,virus outbreak,brot víric
+577,en,ca,,,virus prevention,prevenció contra el virus
+578,en,ca,,,virus protection,protecció contra el virus
+580,en,ca,,,virus spread,propagació del virus
+582,en,ca,,,virus spreads,propagacions de virus
+583,en,ca,,,virus strain,soca del virus
+584,en,ca,,,virus transmission,transmissió del virus
+586,en,ca,,,wash your hands,renta't les mans
+587,en,ca,,,washing hands,rentat de mans
+589,en,ca,,,WHO,OMS
+590,en,ca,,,WHO Confirmed,confirmats segons l'OMS
+591,en,ca,,,WHO Deaths,morts segons l'OMS
+592,en,ca,,,widespread outbreak,brot generalitzat
+597,en,ca,,,World Health Organization,Organització Mundial de la Salut
+600,en,ca,,,zoonotic disease,zoonosi
+601,en,ca,,,zoonotic virus,virus de la zoonosi

@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,he,,,14 days in isolation,14 יום בבידוד
+26,en,he,,,14 days quarantine,בידוד של 14 יום
+27,en,he,,,2019 coronavirus,נגיף הקורונה 2019
+28,en,he,,,2019 novel coronavirus,נגיף הקורונה החדש 2019
+29,en,he,,,2019-nCoV,2019-nCoV
+30,en,he,,,2020 coronavirus,נגיף הקורונה 2020
+31,en,he,,,2020 novel coronavirus,נגיף הקורונה החדש 2020
+33,en,he,,,about coronavirus,אודות נגיף הקורונה
+39,en,he,,,acute respiratory distress syndrome,תסמונת מצוקה נשימתית חריפה
+40,en,he,,,advanced hand sanitizer,חומר מתקדם לחיטוי ידיים
+41,en,he,,,Affected by coronavirus,הושפע על-ידי נגיף הקורונה
+42,en,he,,,after exposure,לאחר חשיפה
+43,en,he,,,After the epidemic,אחרי המגפה
+44,en,he,,,After the outbreak,אחרי ההתפרצות
+47,en,he,,,airborne virus,נגיף שנישא באוויר
+48,en,he,,,alcohol based hand sanitizer,חומר לחיטוי ידיים המבוסס על אלכוהול
+49,en,he,,,alcohol hand sanitizer,חומר לחיטוי ידיים המכיל אלכוהול
+51,en,he,,,alcohol-based hand sanitizer,חומר לחיטוי ידיים המבוסס על אלכוהול
+59,en,he,,,Anti-Corona virus spray,תרסיס נגד נגיף הקורונה
+60,en,he,,,antibacterial hand sanitizer,חומר חיטוי אנטיבקטריאלי לחיטוי ידיים
+61,en,he,,,ARDS,ARDS
+64,en,he,,,avoid exposure,להימנע מחשיפה
+65,en,he,,,be infected,להיות נגוע
+75,en,he,,,Beware of coronavirus,להיזהר מנגיף הקורונה
+76,en,he,,,bilateral interstitial pneumonia,דלקת ריאות אינטרסטיציאלית דו-צדדית
+77,en,he,,,CDC,CDC
+78,en,he,,,Center for Disease Control,המרכזים לבקרת מחלות
+83,en,he,,,community spread,התפשטות בקהילה
+84,en,he,,,compulsory quarantine,חובת בידוד
+85,en,he,,,contagious,מדבק
+135,en,he,,,coronavirus,נגיף הקורונה
+136,en,he,,,coronavirus (COVID-19),נגיף הקורונה (COVID-19)
+137,en,he,,,coronavirus alert,התראה לגבי נגיף הקורונה
+139,en,he,,,coronavirus cases,מקרים של נגיף הקורונה
+141,en,he,,,coronavirus concerns,חששות לגבי נגיף הקורונה
+143,en,he,,,coronavirus crisis,משבר נגיף הקורונה
+149,en,he,,,coronavirus disease,מחלת נגיף הקורונה
+150,en,he,,,Coronavirus disease (COVID-19) outbreak,התפרצות מחלת נגיף הקורונה (COVID-19)
+153,en,he,,,coronavirus early symptoms,תסמינים מוקדמים של נגיף הקורונה
+155,en,he,,,coronavirus epidemic,מגפת הקורונה
+156,en,he,,,coronavirus exposure,חשיפה לנגיף הקורונה
+161,en,he,,,coronavirus incubation,תקופת הדגירה של נגיף הקורונה
+162,en,he,,,coronavirus incubation period,תקופת הדגירה של נגיף הקורונה
+163,en,he,,,coronavirus infection,הידבקות בנגיף הקורונה
+168,en,he,,,coronavirus map,מפת נגיף הקורונה
+170,en,he,,,coronavirus medicine,תרופה לנגיף הקורונה
+171,en,he,,,coronavirus medicines,תרופות לנגיף הקורונה
+172,en,he,,,coronavirus news,חדשות בנושא נגיף הקורונה
+173,en,he,,,coronavirus outbreak,התפרצות נגיף הקורונה
+174,en,he,,,coronavirus pandemic,מגפת הקורונה
+176,en,he,,,coronavirus pneumonia,נגיף הקורונה דלקת ריאות
+177,en,he,,,coronavirus precautions,אמצעי זהירות עבור נגיף הקורונה
+178,en,he,,,coronavirus prevention,מניעת נגיף הקורונה
+179,en,he,,,coronavirus protection,הגנה מפני נגיף הקורונה
+180,en,he,,,coronavirus quarantine,נגיף הקורונה בידוד
+182,en,he,,,coronavirus SOS Alert,התראת SOS לגבי וירוס הקורונה
+183,en,he,,,coronavirus spread,התפשטות נגיף הקורונה
+184,en,he,,,coronavirus symptoms,תסמיני נגיף הקורונה
+185,en,he,,,coronavirus transmission,העברת נגיף הקורונה
+186,en,he,,,coronavirus travel ban,נגיף הקורונה איסור על נסיעות
+187,en,he,,,coronavirus travel restrictions,נגיף הקורונה הגבלות על נסיעות
+188,en,he,,,coronavirus treatment,טיפול בנגיף הקורונה
+190,en,he,,,coronavirus update,עדכון לגבי נגיף הקורונה
+191,en,he,,,coronavirus vaccine,חיסון לנגיף הקורונה
+192,en,he,,,coronavirus vaccines,חיסונים לנגיף הקורונה
+198,en,he,,,covid cases,מקרים של COVID
+205,en,he,,,covid early symptoms,תסמינים מוקדמים של COVID
+213,en,he,,,covid incubation period,תקופת הדגירה של COVID
+215,en,he,,,covid international spread,התפשטות בינלאומית של COVID
+216,en,he,,,covid international travel,COVID נסיעות בינלאומיות
+217,en,he,,,covid isolation,COVID בידוד
+219,en,he,,,covid map,מפת COVID
+220,en,he,,,covid medicine,תרופה ל-COVID
+221,en,he,,,covid medicines,תרופות ל-COVID
+222,en,he,,,covid news,חדשות בנושא COVID
+223,en,he,,,covid outbreak,התפרצות COVID
+224,en,he,,,covid pandemic,מגפת COVID
+225,en,he,,,covid panic,בהלת COVID
+228,en,he,,,covid SOS Alert,התראת SOS לגבי COVID
+230,en,he,,,covid symptoms,תסמיני COVID
+231,en,he,,,covid transmission,העברת COVID
+232,en,he,,,covid travel ban,COVID איסור על נסיעות
+233,en,he,,,covid travel restrictions,COVID הגבלות על נסיעות
+234,en,he,,,covid treatment,טיפול ב-COVID
+236,en,he,,,covid vaccine,חיסון ל-COVID
+237,en,he,,,covid vaccines,חיסונים ל-COVID
+242,en,he,,,covid-19,covid-19
+243,en,he,,,covid-19 alert,התראה לגבי COVID-19
+244,en,he,,,covid-19 cases,מקרים של COVID-19
+245,en,he,,,covid-19 CDC,COVID-19 ‏CDC
+246,en,he,,,covid-19 contagious,COVID-19 מדבק
+247,en,he,,,covid-19 cure,תרופה ל-COVID-19
+248,en,he,,,covid-19 dangerous,COVID-19 מסוכן
+249,en,he,,,covid-19 deadly,COVID-19 קטלני
+250,en,he,,,covid-19 death,מוות מ-COVID-19
+251,en,he,,,covid-19 deaths,מקרי מוות מ-COVID-19
+252,en,he,,,covid-19 domestic travel,COVID-19 נסיעות בתוך המדינה
+253,en,he,,,covid-19 early symptoms,תסמינים מוקדמים של COVID-19
+254,en,he,,,covid-19 effects,השפעות COVID-19
+255,en,he,,,covid-19 epidemic,מגפת COVID-19
+256,en,he,,,covid-19 exposure,חשיפה ל-COVID-19
+257,en,he,,,covid-19 fatal,COVID-19 קטלני
+258,en,he,,,covid-19 fever,COVID-19 חום
+259,en,he,,,covid-19 illness,COVID-19 מחלה
+260,en,he,,,covid-19 incubation,תקופת הדגירה של COVID-19
+261,en,he,,,covid-19 incubation period,תקופת הדגירה של COVID-19
+262,en,he,,,covid-19 infection,הידבקות ב-COVID-19
+263,en,he,,,covid-19 international spread,התפשטות בינלאומית של COVID-19
+264,en,he,,,covid-19 international travel,COVID-19 נסיעות בינלאומיות
+265,en,he,,,covid-19 isolation,COVID-19 בידוד
+266,en,he,,,covid-19 lockdown,COVID-19 סגר
+267,en,he,,,covid-19 map,מפת COVID-19
+268,en,he,,,covid-19 medicine,תרופה ל-COVID-19
+269,en,he,,,covid-19 medicines,תרופות ל-COVID-19
+270,en,he,,,covid-19 news,חדשות בנושא COVID-19
+271,en,he,,,covid-19 outbreak,התפרצות COVID-19
+272,en,he,,,covid-19 pandemic,מגפת COVID-19
+273,en,he,,,covid-19 panic,בהלת COVID-19
+275,en,he,,,covid-19 precautions,אמצעי זהירות עבור COVID-19
+276,en,he,,,covid-19 protection,הגנה מפני COVID-19
+277,en,he,,,covid-19 quarantine,COVID-19 בידוד
+278,en,he,,,covid-19 SOS Alert,התראת SOS לגבי COVID-19
+279,en,he,,,covid-19 spread,התפשטות COVID-19 ‏
+280,en,he,,,covid-19 symptoms,תסמיני COVID-19
+281,en,he,,,covid-19 transmission,העברת COVID-19
+282,en,he,,,covid-19 travel ban,COVID-19 איסור על נסיעות
+283,en,he,,,covid-19 travel restrictions,COVID-19 הגבלות על נסיעות
+284,en,he,,,covid-19 treatment,טיפול ב-COVID-19
+285,en,he,,,covid-19 uncontrolled spread,התפשטות בלתי נשלטת של COVID-19
+286,en,he,,,covid-19 vaccine,חיסון ל-COVID-19
+287,en,he,,,covid-19 vaccines,חיסונים ל-COVID-19
+288,en,he,,,COVID-19 virus,נגיף COVID-19
+289,en,he,,,covid-19 virus outbreak,התפרצות נגיף COVID-19
+290,en,he,,,covid-19 virus transmission,העברת נגיף COVID-19
+291,en,he,,,covid-19 WHO,COVID-19 ‏WHO
+292,en,he,,,covid19,covid19
+293,en,he,,,covid19 alert,התראה לגבי COVID-19
+294,en,he,,,covid19 cases,מקרים של COVID-19
+295,en,he,,,covid19 CDC,COVID-19 ‏CDC
+301,en,he,,,covid19 deaths,מקרי מוות מ-COVID19
+302,en,he,,,covid19 domestic travel,COVID19 נסיעות בתוך המדינה
+303,en,he,,,covid19 effects,השפעות COVID19
+304,en,he,,,covid19 epidemic,מגפת COVID19
+305,en,he,,,covid19 exposure,חשיפה ל-COVID19
+306,en,he,,,covid19 fatal,COVID19 קטלני
+307,en,he,,,covid19 fever,COVID19 חום
+308,en,he,,,covid19 illness,COVID19 מחלה
+309,en,he,,,covid19 incubation,תקופת הדגירה של COVID19
+310,en,he,,,covid19 incubation period,תקופת הדגירה של COVID19
+311,en,he,,,covid19 infection,הידבקות ב-COVID19
+312,en,he,,,covid19 international spread,התפשטות בינלאומית של COVID19
+313,en,he,,,covid19 international travel,COVID19 נסיעות בינלאומיות
+314,en,he,,,covid19 isolation,COVID19 בידוד
+315,en,he,,,covid19 lockdown,COVID19 סגר
+316,en,he,,,covid19 map,מפת COVID19
+317,en,he,,,covid19 medicine,תרופה ל-COVID19
+318,en,he,,,covid19 medicines,תרופות ל-COVID19
+319,en,he,,,covid19 news,חדשות בנושא COVID19
+320,en,he,,,covid19 outbreak,התפרצות COVID19
+321,en,he,,,covid19 pandemic,מגפת COVID19
+324,en,he,,,covid19 precautions,אמצעי זהירות עבור COVID19
+325,en,he,,,covid19 protection,הגנה מפני COVID19
+326,en,he,,,covid19 quarantine,COVID19 בידוד
+327,en,he,,,covid19 SOS Alert,התראת SOS לגבי COVID19
+328,en,he,,,covid19 spread,התפשטות COVID19 ‏
+329,en,he,,,covid19 symptoms,תסמיני COVID19
+330,en,he,,,covid19 transmission,העברת COVID19
+331,en,he,,,covid19 travel ban,COVID19 איסור על נסיעות
+332,en,he,,,covid19 travel restrictions,COVID19 הגבלות על נסיעות
+333,en,he,,,covid19 treatment,טיפול ב-COVID19
+335,en,he,,,covid19 vaccine,חיסון ל-COVID19
+336,en,he,,,covid19 vaccines,חיסונים ל-COVID19
+337,en,he,,,covid19 virus,נגיף COVID19
+338,en,he,,,covid19 virus outbreak,התפרצות נגיף COVID19
+339,en,he,,,covid19 virus transmission,העברת נגיף COVID19
+342,en,he,,,current outbreak,ההתפרצות הנוכחית
+343,en,he,,,deadly outbreak,התפרצות קטלנית
+345,en,he,,,disease outbreak,התפרצות מחלה
+346,en,he,,,Disposable hand sanitizer,חומר חד-פעמי לחיטוי הידיים
+348,en,he,,,domestic travel,נסיעות בתוך המדינה
+351,en,he,,,droplets,טיפות
+357,en,he,,,Effects of coronavirus,השפעות נגיף הקורונה
+359,en,he,,,epidemic,מגפה
+360,en,he,,,epidemic and pandemic,מגפה ומגפה כללית
+362,en,he,,,epidemic disease,מחלת מגפה
+364,en,he,,,epidemic outbreak,התפרצות מגפה
+365,en,he,,,epidemic period,תקופת מגפה
+366,en,he,,,epidemic prevention,מניעת מגפה
+368,en,he,,,epidemic season,עונת מגפה
+369,en,he,,,epidemic situation,מצב מגפה
+371,en,he,,,exposure,חשיפה
+375,en,he,,,exposure time,זמן חשיפה
+379,en,he,,,fever,חום
+380,en,he,,,fight the virus,להילחם בנגיף
+381,en,he,,,Fighting the outbreak,מאבק בהתפרצות
+382,en,he,,,flu epidemic,מגפת שפעת
+385,en,he,,,fomites,עצמים מזוהמים
+392,en,he,,,global health emergency,מצב חירום רפואי עולמי
+393,en,he,,,global outbreak,התפרצות עולמית
+394,en,he,,,global pandemic,מגפה עולמית
+396,en,he,,,hand sanitizer,חומר לחיטוי ידיים
+397,en,he,,,hand sanitizer dispenser,מתקן לחומר חיטוי ידיים
+398,en,he,,,hand sanitizer gel,ג'ל לחיטוי ידיים
+399,en,he,,,hand sanitizer spray,תרסיס לחיטוי ידיים
+403,en,he,,,home isolation,בידוד בבית
+404,en,he,,,home quarantine,בידוד בבית
+410,en,he,,,illness,מחלה
+415,en,he,,,incubation period,תקופת דגירה
+418,en,he,,,infected,נגוע
+424,en,he,,,instant hand sanitizer,חומר לחיטוי הידיים באופן מיידי
+425,en,he,,,international spread,התפרצות בינלאומית
+426,en,he,,,international travel,נסיעות בינלאומיות
+427,en,he,,,isolation,בידוד
+428,en,he,,,isolation period,תקופת בידוד
+430,en,he,,,isolation room,חדר בידוד
+431,en,he,,,isolation valve,שסתום בידוד
+432,en,he,,,isolation ward,מחלקת בידוד
+434,en,he,,,lockdown,סגר
+438,en,he,,,major outbreak,התפרצות בקנה מידה גדול
+439,en,he,,,mandatory quarantine,חובת בידוד
+440,en,he,,,mass gathering,התקהלות
+444,en,he,,,medicine,תרופה
+445,en,he,,,medicines,תרופות
+448,en,he,,,n95,n95
+449,en,he,,,n95 mask,מסיכת N95
+450,en,he,,,n95 respirator,משאף N95
+451,en,he,,,ncov,ncov
+452,en,he,,,ncov-2019,ncov-2019
+453,en,he,,,new coronavirus,נגיף קורונה חדש
+454,en,he,,,new coronavirus pneumonia,נגיף הקורונה החדש דלקת ריאות
+460,en,he,,,novel coronavirus,נגיף קורונה חדש
+462,en,he,,,novel coronavirus infection,הידבקות בנגיף הקורונה החדש
+463,en,he,,,novel coronavirus outbreak,התפרצות נגיף הקורונה החדש
+464,en,he,,,novel coronavirus pneumonia,נגיף הקורונה החדש דלקת ריאות
+470,en,he,,,ongoing outbreak,התפרצות נמשכת
+472,en,he,,,outbreak,התפרצות
+474,en,he,,,outbreak of coronavirus,התפרצות נגיף הקורונה
+475,en,he,,,outbreak of disease,התפרצות מחלה
+482,en,he,,,pandemic,מגפה
+485,en,he,,,pandemic influenza,מגפת השפעת
+486,en,he,,,pandemic outbreak,התפרצות מגפה
+487,en,he,,,pandemic plan,תוכנית מגפה
+488,en,he,,,pandemic potential,פוטנציאל למגפה
+495,en,he,,,pneumonia,דלקת ריאות
+496,en,he,,,pneumonia epidemic,מגפת דלקת ריאות
+497,en,he,,,potential exposure,חשיפה פוטנציאלית
+498,en,he,,,precautions,אמצעי זהירות
+499,en,he,,,prevent virus,מניעת נגיף
+500,en,he,,,prolonged exposure,חשיפה ממושכת
+504,en,he,,,quarantine,בידוד
+505,en,he,,,quarantine area,אזור בידוד
+506,en,he,,,quarantine facility,מתקן בידוד
+507,en,he,,,quarantine measures,אמצעי בידוד
+508,en,he,,,quarantine period,תקופת בידוד
+509,en,he,,,quarantine room,חדר בידוד
+510,en,he,,,quarantine zone,אזור בידוד
+512,en,he,,,Recovered coronavirus patient,חולה שהחלים מנגיף הקורונה
+514,en,he,,,repatriate,החזר למולדת
+515,en,he,,,repeated exposure,חשיפה חוזרת
+516,en,he,,,respiratory syncytial virus,נגיף נשימתי סינציאלי
+517,en,he,,,respiratory virus,נגיף נשימתי
+519,en,he,,,Sanitizing hand sanitizer,חומר לחיטוי ידיים
+520,en,he,,,SARS-CoV-2,SARS-CoV-2
+521,en,he,,,self isolation,בידוד עצמי
+522,en,he,,,self quarantine,בידוד עצמי
+523,en,he,,,Severe outbreak,התפרצות חמורה
+525,en,he,,,social distancing,ריחוק חברתי
+526,en,he,,,social distancing measures,אמצעי ריחוק חברתי
+527,en,he,,,social isolation,בידוד חברתי
+528,en,he,,,SOS Alert,התראת SOS
+529,en,he,,,spread,התפשטות
+530,en,he,,,spread of coronavirus,התפשטות נגיף הקורונה
+531,en,he,,,spread of virus,התפשטות נגיף
+535,en,he,,,strain of virus,זן נגיף
+541,en,he,,,the incubation period,תקופת הדגירה
+544,en,he,,,the novel coronavirus,נגיף הקורונה החדש
+558,en,he,,,touching face,לגעת בפנים
+559,en,he,,,travel advisory,אזהרת נסיעה
+560,en,he,,,travel ban,איסור על נסיעות
+561,en,he,,,travel restrictions,הגבלות על נסיעות
+565,en,he,,,use hand sanitizer,להשתמש בחומר לחיטוי ידיים
+566,en,he,,,vaccines,חיסונים
+567,en,he,,,viral outbreak,התפרצות נגיף
+568,en,he,,,virtual lockdown,סגר וירטואלי
+569,en,he,,,virus,נגיף
+570,en,he,,,virus carrier,נשא נגיף
+573,en,he,,,virus infection,הידבקות בנגיף
+575,en,he,,,virus mask,מסיכה נגד הנגיף
+576,en,he,,,virus outbreak,התפרצות נגיף
+577,en,he,,,virus prevention,מניעת נגיף
+578,en,he,,,virus protection,הגנה מפני נגיף
+580,en,he,,,virus spread,התפשטות נגיף
+582,en,he,,,virus spreads,התפשטות נגיף
+583,en,he,,,virus strain,זן נגיף
+584,en,he,,,virus transmission,העברת נגיף
+586,en,he,,,wash your hands,שטוף את הידיים
+587,en,he,,,washing hands,שטיפת ידיים
+589,en,he,,,WHO,WHO
+590,en,he,,,WHO Confirmed,אושר על-ידי WHO
+591,en,he,,,WHO Deaths,מקרי מוות על-פי WHO
+592,en,he,,,widespread outbreak,התפרצות נרחבת
+597,en,he,,,World Health Organization,ארגון הבריאות העולמי
+600,en,he,,,zoonotic disease,מחלה זואונוטית
+601,en,he,,,zoonotic virus,נגיף זואונוטי

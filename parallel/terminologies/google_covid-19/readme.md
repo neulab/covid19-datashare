@@ -36,7 +36,8 @@ Example:
 en_af.csv | Draft
 en_ms.csv | Revised
 
-Translation Quality
+Translation Quality:
+
 Translations have been created by professional translators. 
 
 Some translations have not gone through independent review and are marked as draft, and translations with additional reviews have been marked as revised. 

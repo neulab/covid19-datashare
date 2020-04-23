@@ -35,3 +35,12 @@ index.csv file has headers: file_name | status
 Example: 
 en_af.csv | Draft
 en_ms.csv | Revised
+
+Translation Quality
+Translations have been created by professional translators. 
+
+Some translations have not gone through independent review and are marked as draft, and translations with additional reviews have been marked as revised. 
+
+All translations are provided as-is without warranty or any guarantees of correctness. 
+
+

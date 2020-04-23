@@ -34,4 +34,4 @@ index.csv file has headers: file_name | status
 
 Example: 
 en_af.csv | Draft
-en_ms.csv | Final
+en_ms.csv | Revised

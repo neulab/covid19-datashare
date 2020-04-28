@@ -12,6 +12,7 @@ Parallel:
 * [Canadian Government Public Service Announcements](https://www.sac-isc.gc.ca/eng/1583781906998/1583781926813) (21 languages)
 * [King County (WA) fact sheet](https://welcoming.seattle.gov/covid-19/?utm_source=WASCLA+Members&utm_campaign=f9ef53ee9b-EMAIL_CAMPAIGN_2020_03_04_10_45&utm_medium=email&utm_term=0_ec7c02e82f-f9ef53ee9b-47852315&mc_cid=f9ef53ee9b&mc_eid=6e5511a48a#top) (12 languages)
 * Crowd Sourced Translations from [source 1](https://drive.google.com/file/d/12KBKTLwHcBDIO5zV7nuOk2MtuaQ9FNPy/view?fbclid=IwAR01nqJu6DN_RIsoJSfCSCCR-vxPkmzLN8UKmeyIB_ORdWX6rTK795i6Pi8) and [source 2](https://docs.google.com/document/d/1JiBETtDgl1Y2defcjAALBB9-bCSKOMSFUC_0P_G9mAM/edit#) for the languages of the Philippines (13 and 8 languages) 
+* Translations related to COVID-19 originally created by [https://translatorswithoutborders.org/covid-19](https://translatorswithoutborders.org/covid-19) and [https://better.sg/migrantworkertranslations/](https://better.sg/migrantworkertranslations/). Taken from [this Kaggle Dataset](https://www.kaggle.com/alvations/covid19-translations/) created and shared by [Liling Tang](https://www.kaggle.com/alvations).
 
 Monolingual/Comparable:
 * Wikipedia
@@ -24,6 +25,7 @@ Monolingual/Comparable:
 Other Collections from our friends:
 * The [Translators Without Borders](https://translatorswithoutborders.org/) have compiled [glossaries](https://translatorswithoutborders.org/twb-glossary-for-covid-19/) and are starting to provide [translations](https://translatorswithoutborders.org/translations-covid-19/).
 * [TAUS](https://www.taus.net/) has compiled a corpus of COVID-19-related parallel sentences. Available [here](https://md.taus.net/corona). Note that these corpora are published under the CC BY-NC 4.0 license which means the data can be shared and modified only for non-commercial purposes.  
+* Microsoft has collected covid19-related bing search logs (desktop users only) over the period of Jan 1st, 2020 – April 18th, 2020. They are [here](https://github.com/microsoft/BingCoronavirusQuerySet)
 
 
 ## Directory Organization

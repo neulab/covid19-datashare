@@ -1,6 +1,31 @@
 # covid19-datashare
 A repo for sharing language resources related to the outbreak (in machine readable format)
 
+## Sources we have already scraped/collected
+
+Parallel Terminologies:
+* Translations of covid19-related terms in dozens of languages and locales, provided by Facebook and Google.
+
+Parallel:
+* The [Zhejiang handbook](https://covid-19.alibabacloud.com/) (10 languages)
+* International SOS Need-to-know slides [vietnamese example](https://pandemic.internationalsos.com/-/media/pandemic/files/pan-comms-new-corona-virus/intlsos_coronavirus_disease_2019_talk_simplified_v3_vi_vn.pptx) (6 languages)
+* [Canadian Government Public Service Announcements](https://www.sac-isc.gc.ca/eng/1583781906998/1583781926813) (21 languages)
+* [King County (WA) fact sheet](https://welcoming.seattle.gov/covid-19/?utm_source=WASCLA+Members&utm_campaign=f9ef53ee9b-EMAIL_CAMPAIGN_2020_03_04_10_45&utm_medium=email&utm_term=0_ec7c02e82f-f9ef53ee9b-47852315&mc_cid=f9ef53ee9b&mc_eid=6e5511a48a#top) (12 languages)
+* Crowd Sourced Translations from [source 1](https://drive.google.com/file/d/12KBKTLwHcBDIO5zV7nuOk2MtuaQ9FNPy/view?fbclid=IwAR01nqJu6DN_RIsoJSfCSCCR-vxPkmzLN8UKmeyIB_ORdWX6rTK795i6Pi8) and [source 2](https://docs.google.com/document/d/1JiBETtDgl1Y2defcjAALBB9-bCSKOMSFUC_0P_G9mAM/edit#) for the languages of the Philippines (13 and 8 languages) 
+
+Monolingual/Comparable:
+* Wikipedia
+* BBC World Service (22 languages)
+* Voice of America (31 languages)
+* [Deutsche Welle](https://www.dw.com/) (29 languages)
+* [El Diario](diario.aw) (Papiamento language)
+
+
+Other Collections from our friends:
+* The [Translators Without Borders](https://translatorswithoutborders.org/) have compiled [glossaries](https://translatorswithoutborders.org/twb-glossary-for-covid-19/) and are starting to provide [translations](https://translatorswithoutborders.org/translations-covid-19/).
+* [TAUS](https://www.taus.net/) has compiled a corpus of COVID-19-related parallel sentences. Available [here](https://md.taus.net/corona). Note that these corpora are published under the CC BY-NC 4.0 license which means the data can be shared and modified only for non-commercial purposes.  
+
+
 ## Directory Organization
 This is the suggested organization. Hopefully some content will move from one bucket to another, as we keep refining it.
 Additional information (eg. metadata) can be added through xml tags (see below).
@@ -64,22 +89,3 @@ If we manage to align documents at the sentence level, we can add 'sent_id' info
 If you can't or don't want to convert your data into this xml, you could also share plain text files, but also add a README that will provide information on the source of the data, the type, etc etc
 
 For sharing large files, you can also upload a compressed archive. The current repo tracks `.zip` and `.tar.gz` files and stores them using [git-lfs](https://git-lfs.github.com/).
-
-## Sources we have already scraped/collected
-
-Parallel:
-* The [Zhejiang handbook](https://covid-19.alibabacloud.com/) (10 languages)
-* International SOS Need-to-know slides [vietnamese example](https://pandemic.internationalsos.com/-/media/pandemic/files/pan-comms-new-corona-virus/intlsos_coronavirus_disease_2019_talk_simplified_v3_vi_vn.pptx) (6 languages)
-* [Canadian Government Public Service Announcements](https://www.sac-isc.gc.ca/eng/1583781906998/1583781926813) (21 languages)
-* [King County (WA) fact sheet](https://welcoming.seattle.gov/covid-19/?utm_source=WASCLA+Members&utm_campaign=f9ef53ee9b-EMAIL_CAMPAIGN_2020_03_04_10_45&utm_medium=email&utm_term=0_ec7c02e82f-f9ef53ee9b-47852315&mc_cid=f9ef53ee9b&mc_eid=6e5511a48a#top) (12 languages)
-* Crowd Sourced Translations from [source 1](https://drive.google.com/file/d/12KBKTLwHcBDIO5zV7nuOk2MtuaQ9FNPy/view?fbclid=IwAR01nqJu6DN_RIsoJSfCSCCR-vxPkmzLN8UKmeyIB_ORdWX6rTK795i6Pi8) and [source 2](https://docs.google.com/document/d/1JiBETtDgl1Y2defcjAALBB9-bCSKOMSFUC_0P_G9mAM/edit#) for the languages of the Philippines (13 and 8 languages) 
-
-Monolingual/Comparable:
-* Wikipedia
-* BBC World Service (22 languages)
-* Voice of America (31 languages)
-* [Deutsche Welle](https://www.dw.com/) (29 languages)
-* [El Diario](diario.aw) (Papiamento language)
-
-Other Collections:
-* [TAUS](https://www.taus.net/) has compiled a corpus of COVID-19-related parallel sentences. Available [here](https://md.taus.net/corona). Note that these corpora are published under the CC BY-NC 4.0 license which means the data can be shared and modified only for non-commercial purposes.  

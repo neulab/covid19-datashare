@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,zu,,,14 days in isolation,izinsuku ezingu-14 zokuzihlukanisa
+26,en,zu,,,14 days quarantine,ukuzivalela izinsuku ezingu-14
+27,en,zu,,,2019 coronavirus,2019 coronavirus
+28,en,zu,,,2019 novel coronavirus,i-novel coronavirus ka-2019
+29,en,zu,,,2019-nCoV,2019-nCoV
+30,en,zu,,,2020 coronavirus,2020 coronavirus
+31,en,zu,,,2020 novel coronavirus,i-novel coronavirus ka-2020
+33,en,zu,,,about coronavirus,mayelana ne-coronavirus
+39,en,zu,,,acute respiratory distress syndrome,isifo sengcindezi ephathelene nenkinga yokuphefumula engamahlalakhona
+40,en,zu,,,advanced hand sanitizer,isanithayiza yesandla ethuthukisiwe
+41,en,zu,,,Affected by coronavirus,Abathintwe i-coronavirus
+42,en,zu,,,after exposure,ngemva kokuchayeka
+43,en,zu,,,After the epidemic,Ngemva komqedazwe
+44,en,zu,,,After the outbreak,Ngemva kokubheduka
+47,en,zu,,,airborne virus,igciwane elitholakala ngomoya
+48,en,zu,,,alcohol based hand sanitizer,isanithayiza yesandla esebenzisa i-alcohol
+49,en,zu,,,alcohol hand sanitizer,isanithayiza yesandla ene-alcohol
+51,en,zu,,,alcohol-based hand sanitizer,isanithayiza yesandla esebenzisa i-alcohol
+59,en,zu,,,Anti-Corona virus spray,Isifutho esilwa negciwane le-Corona
+60,en,zu,,,antibacterial hand sanitizer,isanithayiza yesandla elwa namagciwane
+61,en,zu,,,ARDS,I-ARDS
+64,en,zu,,,avoid exposure,gwema ukuchayeka
+65,en,zu,,,be infected,utheleleke
+75,en,zu,,,Beware of coronavirus,Qapha i-coronavirus
+76,en,zu,,,bilateral interstitial pneumonia,i-bilateral interstitial pneumonia
+77,en,zu,,,CDC,I-CDC
+78,en,zu,,,Center for Disease Control,Isikhungo Sokulawulwa Kwesifo
+83,en,zu,,,community spread,ukubhebhetheka emphakathini
+84,en,zu,,,compulsory quarantine,ukuzivalela okuyimpoqo
+85,en,zu,,,contagious,iyathathelana
+135,en,zu,,,coronavirus,i-coronavirus
+136,en,zu,,,coronavirus (COVID-19),i-coronavirus (COVID-19)
+137,en,zu,,,coronavirus alert,isixwayiso se-coronavirus
+139,en,zu,,,coronavirus cases,izigameko ze-coronavirus
+141,en,zu,,,coronavirus concerns,ukukhathazeka nge-coronavirus
+143,en,zu,,,coronavirus crisis,isimo esibucayi se-coronavirus
+149,en,zu,,,coronavirus disease,isifo se-coronavirus
+150,en,zu,,,Coronavirus disease (COVID-19) outbreak,Ukubheduka kwesifo se-coronavirus (COVID-19)
+153,en,zu,,,coronavirus early symptoms,izimpawu zokuqala ze-coronavirus
+155,en,zu,,,coronavirus epidemic,umqedazwe we-coronavirus
+156,en,zu,,,coronavirus exposure,ukuchayeka ku-coronavirus
+161,en,zu,,,coronavirus incubation,ukufukanyelwa kwe-coronavirus
+162,en,zu,,,coronavirus incubation period,inkathi yokufukanyelwa ye-coronavirus
+163,en,zu,,,coronavirus infection,ukungenwa isifo se-coronavirus
+168,en,zu,,,coronavirus map,imephu ye-coronavirus
+170,en,zu,,,coronavirus medicine,umuthi we-coronavirus
+171,en,zu,,,coronavirus medicines,imithi ye-coronavirus
+172,en,zu,,,coronavirus news,izindaba ze-coronavirus
+173,en,zu,,,coronavirus outbreak,ukubheduka kwe-coronavirus
+174,en,zu,,,coronavirus pandemic,ubhubhane lwe-coronavirus
+176,en,zu,,,coronavirus pneumonia,inyumoniya ye-coronavirus
+177,en,zu,,,coronavirus precautions,izinyathelo zokuzivikela ku-coronavirus
+178,en,zu,,,coronavirus prevention,ukuvinjwa kwe-coronavirus
+179,en,zu,,,coronavirus protection,ukuvikeleka ku-coronavirus
+180,en,zu,,,coronavirus quarantine,ukuzivalela ngenxa ye-coronavirus
+182,en,zu,,,coronavirus SOS Alert,Isixwayiso Se-SOS esiphathelene ne-coronavirus
+183,en,zu,,,coronavirus spread,ukubhebhetheka kwe-coronavirus
+184,en,zu,,,coronavirus symptoms,izimpawu ze-coronavirus
+185,en,zu,,,coronavirus transmission,ukudluliswa kwe-coronavirus
+186,en,zu,,,coronavirus travel ban,ukuvinjwa kokuhamba ngenxa ye-coronavirus
+187,en,zu,,,coronavirus travel restrictions,imikhawulo yokuhamba ngenxa ye-coronavirus
+188,en,zu,,,coronavirus treatment,ukwelashwa kwe-coronavirus
+190,en,zu,,,coronavirus update,isibuyekezo se-coronavirus
+191,en,zu,,,coronavirus vaccine,umgomo we-coronavirus
+192,en,zu,,,coronavirus vaccines,imigomo ye-coronavirus
+198,en,zu,,,covid cases,izigameko ze-covid
+205,en,zu,,,covid early symptoms,izimpawu zokuqala ze-covid
+213,en,zu,,,covid incubation period,inkathi yokufukanyelwa ye-covid
+215,en,zu,,,covid international spread,ukubhebhetheka kwe-covid emazweni omhlaba
+216,en,zu,,,covid international travel,ukuhamba emazweni omhlaba ngenxa ye-covid
+217,en,zu,,,covid isolation,ukuzihlukanisa ngenxa ye-covid
+219,en,zu,,,covid map,imephu ye-covid
+220,en,zu,,,covid medicine,umuthi we-covid
+221,en,zu,,,covid medicines,imithi ye-covid
+222,en,zu,,,covid news,izindaba ze-covid
+223,en,zu,,,covid outbreak,ukubheduka kwe-covid
+224,en,zu,,,covid pandemic,ubhubhane lwe-covid
+225,en,zu,,,covid panic,uvalo nge-covid
+228,en,zu,,,covid SOS Alert,Isixwayiso Se-SOS esiphathelene ne-covid
+230,en,zu,,,covid symptoms,izimpawu ze-covid
+231,en,zu,,,covid transmission,ukudluliswa kwe-covid
+232,en,zu,,,covid travel ban,ukuvinjwa kokuhamba ngenxa ye-covid
+233,en,zu,,,covid travel restrictions,imikhawulo yokuhamba ngenxa ye-covid
+234,en,zu,,,covid treatment,ukwelashwa kwe-covid
+236,en,zu,,,covid vaccine,umgomo we-covid
+237,en,zu,,,covid vaccines,imigomo ye-covid
+242,en,zu,,,covid-19,i-covid-19
+243,en,zu,,,covid-19 alert,isixwayiso se-covid-19
+244,en,zu,,,covid-19 cases,izigameko ze-covid-19
+245,en,zu,,,covid-19 CDC,i-covid-19 CDC
+246,en,zu,,,covid-19 contagious,i-covid-19 iyathathelana
+247,en,zu,,,covid-19 cure,ikhambi le-covid-19
+248,en,zu,,,covid-19 dangerous,i-covid-19 iyingozi
+249,en,zu,,,covid-19 deadly,i-covid-19 ebulalayo
+250,en,zu,,,covid-19 death,ukufa ngenxa ye-covid-19
+251,en,zu,,,covid-19 deaths,ukubulawa i-covid-19
+252,en,zu,,,covid-19 domestic travel,ukuhamba ezweni ngenxa ye-covid-19
+253,en,zu,,,covid-19 early symptoms,izimpawu zokuqala ze-covid-19
+254,en,zu,,,covid-19 effects,imiphumela ye-covid-19
+255,en,zu,,,covid-19 epidemic,umqedazwe we-covid-19
+256,en,zu,,,covid-19 exposure,ukuchayeka ku-covid-19
+257,en,zu,,,covid-19 fatal,i-covid-19 iyabulala
+258,en,zu,,,covid-19 fever,imfiva ye-covid-19
+259,en,zu,,,covid-19 illness,ukugula ngenxa ye-covid-19
+260,en,zu,,,covid-19 incubation,ukufukanyelwa kwe-covid-19
+261,en,zu,,,covid-19 incubation period,inkathi yokufukanyelwa ye-covid-19
+262,en,zu,,,covid-19 infection,ukungenwa isifo se-covid-19
+263,en,zu,,,covid-19 international spread,ukubhebhetheka kwe-covid-19 emazweni omhlaba
+264,en,zu,,,covid-19 international travel,ukuhamba emazweni omhlaba ngenxa ye-covid-19
+265,en,zu,,,covid-19 isolation,ukuzihlukanisa ngenxa ye-covid-19
+266,en,zu,,,covid-19 lockdown,ukuvalwa thaqa kwezwe ngenxa ye-covid-19
+267,en,zu,,,covid-19 map,imephu ye-covid-19
+268,en,zu,,,covid-19 medicine,umuthi we-covid-19
+269,en,zu,,,covid-19 medicines,imithi ye-covid-19
+270,en,zu,,,covid-19 news,izindaba ze-covid-19
+271,en,zu,,,covid-19 outbreak,ukubheduka kwe-covid-19
+272,en,zu,,,covid-19 pandemic,ubhubhane lwe-covid-19
+273,en,zu,,,covid-19 panic,uvalo nge-covid-19
+275,en,zu,,,covid-19 precautions,izinyathelo zokuzivikela ku-covid-19
+276,en,zu,,,covid-19 protection,ukuvikeleka ku-covid-19
+277,en,zu,,,covid-19 quarantine,ukuzivalela ngenxa ye-covid-19
+278,en,zu,,,covid-19 SOS Alert,Isixwayiso Se-SOS esiphathelene ne-covid-19
+279,en,zu,,,covid-19 spread,ukubhebhetheka kwe-covid-19
+280,en,zu,,,covid-19 symptoms,izimpawu ze-covid-19
+281,en,zu,,,covid-19 transmission,ukudluliswa kwe-covid-19
+282,en,zu,,,covid-19 travel ban,ukuvinjwa kokuhamba ngenxa ye-covid-19
+283,en,zu,,,covid-19 travel restrictions,imikhawulo yokuhamba ngenxa ye-covid-19
+284,en,zu,,,covid-19 treatment,ukwelashwa kwe-covid-19
+285,en,zu,,,covid-19 uncontrolled spread,ukubhebhetheka okungalawuliwe kwe-covid-19
+286,en,zu,,,covid-19 vaccine,umgomo we-covid-19
+287,en,zu,,,covid-19 vaccines,imigomo ye-covid-19
+288,en,zu,,,COVID-19 virus,igciwane le-covid-19
+289,en,zu,,,covid-19 virus outbreak,ukubheduka kwegciwane le-covid-19
+290,en,zu,,,covid-19 virus transmission,ukudluliswa kwegciwane le-covid-19
+291,en,zu,,,covid-19 WHO,i-covid-19 WHO
+292,en,zu,,,covid19,i-covid19
+293,en,zu,,,covid19 alert,isixwayiso se-covid19
+294,en,zu,,,covid19 cases,izigameko ze-covid19
+295,en,zu,,,covid19 CDC,i-covid19 CDC
+301,en,zu,,,covid19 deaths,ukubulawa i-covid19
+302,en,zu,,,covid19 domestic travel,ukuhamba ezweni ngenxa ye-covid19
+303,en,zu,,,covid19 effects,imiphumela ye-covid19
+304,en,zu,,,covid19 epidemic,umqedazwe we-covid19
+305,en,zu,,,covid19 exposure,ukuchayeka ku-covid19
+306,en,zu,,,covid19 fatal,i-covid19 iyabulala
+307,en,zu,,,covid19 fever,imfiva ye-covid19
+308,en,zu,,,covid19 illness,ukugula ngenxa ye-covid19
+309,en,zu,,,covid19 incubation,ukufukanyelwa kwe-covid19
+310,en,zu,,,covid19 incubation period,inkathi yokufukanyelwa ye-covid19
+311,en,zu,,,covid19 infection,ukungenwa isifo se-covid19
+312,en,zu,,,covid19 international spread,ukubhebhetheka kwe-covid19 emazweni omhlaba
+313,en,zu,,,covid19 international travel,ukuhamba emazweni omhlaba ngenxa ye-covid19
+314,en,zu,,,covid19 isolation,ukuzihlukanisa ngenxa ye-covid19
+315,en,zu,,,covid19 lockdown,ukuvalwa thaqa kwezwe ngenxa ye-covid19
+316,en,zu,,,covid19 map,imephu ye-covid19
+317,en,zu,,,covid19 medicine,umuthi we-covid19
+318,en,zu,,,covid19 medicines,imithi ye-covid19
+319,en,zu,,,covid19 news,izindaba ze-covid19
+320,en,zu,,,covid19 outbreak,ukubheduka kwe-covid19
+321,en,zu,,,covid19 pandemic,ubhubhane lwe-covid19
+324,en,zu,,,covid19 precautions,izinyathelo zokuzivikela ku-covid19
+325,en,zu,,,covid19 protection,ukuvikeleka ku-covid19
+326,en,zu,,,covid19 quarantine,ukuzivalela ngenxa ye-covid19
+327,en,zu,,,covid19 SOS Alert,Isixwayiso Se-SOS esiphathelene ne-covid19
+328,en,zu,,,covid19 spread,ukubhebhetheka kwe-covid19
+329,en,zu,,,covid19 symptoms,izimpawu ze-covid19
+330,en,zu,,,covid19 transmission,ukudluliswa kwe-covid19
+331,en,zu,,,covid19 travel ban,ukuvinjwa kokuhamba ngenxa ye-covid19
+332,en,zu,,,covid19 travel restrictions,imikhawulo yokuhamba ngenxa ye-covid19
+333,en,zu,,,covid19 treatment,ukwelashwa kwe-covid19
+335,en,zu,,,covid19 vaccine,umgomo we-covid19
+336,en,zu,,,covid19 vaccines,imigomo ye-covid19
+337,en,zu,,,covid19 virus,igciwane le-covid19
+338,en,zu,,,covid19 virus outbreak,ukubheduka kwegciwane le-covid19
+339,en,zu,,,covid19 virus transmission,ukudluliswa kwegciwane le-covid19
+342,en,zu,,,current outbreak,ukubheduka kwamanje
+343,en,zu,,,deadly outbreak,ukubheduka okubulalayo
+345,en,zu,,,disease outbreak,ukubheduka kwesifo
+346,en,zu,,,Disposable hand sanitizer,Isanithayiza yesandla elahlwayo
+348,en,zu,,,domestic travel,ukuhamba ngaphakathi nezwe
+351,en,zu,,,droplets,amaconsi
+357,en,zu,,,Effects of coronavirus,Imiphumela ye-coronavirus
+359,en,zu,,,epidemic,umqedazwe
+360,en,zu,,,epidemic and pandemic,umqedazwe nobhubhane
+362,en,zu,,,epidemic disease,isifo esingumqedazwe
+364,en,zu,,,epidemic outbreak,ukubheduka kobhubhane
+365,en,zu,,,epidemic period,inkathi yomqedazwe
+366,en,zu,,,epidemic prevention,ukuvinjwa komqedazwe
+368,en,zu,,,epidemic season,inkathi yonyaka yomqedazwe
+369,en,zu,,,epidemic situation,isimo somqedazwe
+371,en,zu,,,exposure,ukuchayeka
+375,en,zu,,,exposure time,isikhathi sokuchayeka
+379,en,zu,,,fever,imfiva
+380,en,zu,,,fight the virus,ilwa negciwane
+381,en,zu,,,Fighting the outbreak,Ukulwa nokubheduka
+382,en,zu,,,flu epidemic,umqedazwe weflu
+385,en,zu,,,fomites,izinto ezidlulisa isifo
+392,en,zu,,,global health emergency,isimo esiphuthumayo sezempilo sembulunga yonke
+393,en,zu,,,global outbreak,ukubheduka kwembulunga yonke
+394,en,zu,,,global pandemic,ubhubhane lwembulunga yonke
+396,en,zu,,,hand sanitizer,i-sanitizer yesandla
+397,en,zu,,,hand sanitizer dispenser,isitsha sesanithayiza yesandla
+398,en,zu,,,hand sanitizer gel,ijeli yesanithayiza yesandla
+399,en,zu,,,hand sanitizer spray,isifutho sesanithayiza yesandla
+403,en,zu,,,home isolation,ukuzihlukanisa ekhaya
+404,en,zu,,,home quarantine,ukuzivalela ekhaya
+410,en,zu,,,illness,ukugula
+415,en,zu,,,incubation period,inkathi yokufukanyelwa
+418,en,zu,,,infected,uthelelekile
+424,en,zu,,,instant hand sanitizer,isanithayiza yesandla esheshayo
+425,en,zu,,,international spread,ukubhebhetheka komhlaba wonke
+426,en,zu,,,international travel,uhambo lamazwe aphesheya
+427,en,zu,,,isolation,ukuzihlukanisa
+428,en,zu,,,isolation period,inkathi yokuzihlukanisa
+430,en,zu,,,isolation room,igumbi lokuzihlukanisa
+431,en,zu,,,isolation valve,ivalvu yokuzihlukanisa
+432,en,zu,,,isolation ward,iwodi lokuzihlukanisa
+434,en,zu,,,lockdown,ukuvalwa thaqa kwezwe
+438,en,zu,,,major outbreak,ukubheduka okukhulu
+439,en,zu,,,mandatory quarantine,ukuzivalela okusemqoka
+440,en,zu,,,mass gathering,ukuhlangana kweningi
+444,en,zu,,,medicine,umuthi
+445,en,zu,,,medicines,imithi
+448,en,zu,,,n95,i-n95
+449,en,zu,,,n95 mask,imaski ye-n95
+450,en,zu,,,n95 respirator,i-n95 respirator
+451,en,zu,,,ncov,i-ncov
+452,en,zu,,,ncov-2019,i-ncov-2019
+453,en,zu,,,new coronavirus,i-coronavirus entsha
+454,en,zu,,,new coronavirus pneumonia,inyumoniya entsha ye-coronavirus
+460,en,zu,,,novel coronavirus,i-novel coronavirus
+462,en,zu,,,novel coronavirus infection,ukungenwa isifo se-novel coronavirus
+463,en,zu,,,novel coronavirus outbreak,ukubheduka kwe-novel coronavirus
+464,en,zu,,,novel coronavirus pneumonia,inyumoniya ye-novel coronavirus
+470,en,zu,,,ongoing outbreak,okubheduka okuqhubekayo
+472,en,zu,,,outbreak,ukubheduka
+474,en,zu,,,outbreak of coronavirus,ukubheduka kwe-coronavirus
+475,en,zu,,,outbreak of disease,ukubheduka kwesifo
+482,en,zu,,,pandemic,ubhubhane
+485,en,zu,,,pandemic influenza,imfuluwenza ewubhubhane
+486,en,zu,,,pandemic outbreak,ukubheduka kobhubhane
+487,en,zu,,,pandemic plan,uhlelo lobhubhane
+488,en,zu,,,pandemic potential,okungafezwa ubhubhane
+495,en,zu,,,pneumonia,inyumoniya
+496,en,zu,,,pneumonia epidemic,umqedazwe wenyumoniya
+497,en,zu,,,potential exposure,okungase kube ukuchayeka
+498,en,zu,,,precautions,izinyathelo zokuzivikela
+499,en,zu,,,prevent virus,vimba igciwane
+500,en,zu,,,prolonged exposure,ukuchayeka isikhathi eside
+504,en,zu,,,quarantine,ukuzivalela
+505,en,zu,,,quarantine area,indawo yokuzivalela
+506,en,zu,,,quarantine facility,isikhungo sokuzivalela
+507,en,zu,,,quarantine measures,izinyathelo zokuzivalela
+508,en,zu,,,quarantine period,inkathi yokuzivalela
+509,en,zu,,,quarantine room,igumbi lokuzivalela
+510,en,zu,,,quarantine zone,izoni yokuzivalela
+512,en,zu,,,Recovered coronavirus patient,Iziguli ze-coronavirus eziluleme
+514,en,zu,,,repatriate,ukubuyiselwa ezweni lakini
+515,en,zu,,,repeated exposure,ukuchayeka okuphindayo
+516,en,zu,,,respiratory syncytial virus,i-respiratory syncytial virus
+517,en,zu,,,respiratory virus,igciwane lokuphefumula
+519,en,zu,,,Sanitizing hand sanitizer,Isanithayiza yesandla ekhucululayo
+520,en,zu,,,SARS-CoV-2,I-SARS-CoV-2
+521,en,zu,,,self isolation,ukuzihlukanisa
+522,en,zu,,,self quarantine,ukuzivalela ngokwakho
+523,en,zu,,,Severe outbreak,Ukubheduka okubucayi
+525,en,zu,,,social distancing,ukuziqhelelanisa nomphakathi
+526,en,zu,,,social distancing measures,izinyathelo zokuziqhelelanisa nomphakathi
+527,en,zu,,,social isolation,ukuzihlukanisa emphakathini
+528,en,zu,,,SOS Alert,Isixwayiso Se-SOS
+529,en,zu,,,spread,ukubhebhetheka
+530,en,zu,,,spread of coronavirus,ukubhebhetheka kwe-coronavirus
+531,en,zu,,,spread of virus,ukubhebhetheka kwegciwane
+535,en,zu,,,strain of virus,uhlobo lwegciwane
+541,en,zu,,,the incubation period,inkathi yokufukanyelwa
+544,en,zu,,,the novel coronavirus,i-novel coronavirus
+558,en,zu,,,touching face,ukuthinta ubuso
+559,en,zu,,,travel advisory,iseluleko sokuthatha uhambo
+560,en,zu,,,travel ban,ukuvinjwa kokuhamba
+561,en,zu,,,travel restrictions,imikhawulo yokuhamba
+565,en,zu,,,use hand sanitizer,sebenzisa isanithayiza yesandla
+566,en,zu,,,vaccines,imigomo
+567,en,zu,,,viral outbreak,ukubheduka kwegciwane
+568,en,zu,,,virtual lockdown,ukuvalwa thaqa kwezwe okudingekile
+569,en,zu,,,virus,igciwane
+570,en,zu,,,virus carrier,isithwali segciwane
+573,en,zu,,,virus infection,isifo segciwane
+575,en,zu,,,virus mask,imaski yegciwane
+576,en,zu,,,virus outbreak,ukubheduka kwegciwane
+577,en,zu,,,virus prevention,ukuvinjwa kwegciwane
+578,en,zu,,,virus protection,ukuvikeleka kugciwane
+580,en,zu,,,virus spread,ukubhebhetheka kwegciwane
+582,en,zu,,,virus spreads,ukusakazeka kwegciwane
+583,en,zu,,,virus strain,uhlobo lwegciwane
+584,en,zu,,,virus transmission,ukudluliswa kwegciwane
+586,en,zu,,,wash your hands,geza izandla zakho
+587,en,zu,,,washing hands,ukugeza izandla
+589,en,zu,,,WHO,I-WHO
+590,en,zu,,,WHO Confirmed,Iqinisekiswe Yi-WHO
+591,en,zu,,,WHO Deaths,Ukufa Kwe-WHO
+592,en,zu,,,widespread outbreak,ukubheduka okusabalele
+597,en,zu,,,World Health Organization,I-World Health Organization
+600,en,zu,,,zoonotic disease,isifo segciwane elisuka ezilwaneni liye kubantu
+601,en,zu,,,zoonotic virus,igciwane elisuka ezilwaneni liye kubantu

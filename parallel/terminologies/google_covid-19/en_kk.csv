@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,kk,,,14 days in isolation,оқшаулауда 14 күн
+26,en,kk,,,14 days quarantine,14 күндік карантин
+27,en,kk,,,2019 coronavirus,2019 коронавирус
+28,en,kk,,,2019 novel coronavirus,2019 жылғы жаңа коронавирус
+29,en,kk,,,2019-nCoV,2019-nCoV
+30,en,kk,,,2020 coronavirus,2020 коронавирус
+31,en,kk,,,2020 novel coronavirus,2020 жылғы жаңа коронавирус
+33,en,kk,,,about coronavirus,коронавирус туралы
+39,en,kk,,,acute respiratory distress syndrome,шұғыл респираторлық ауытқу синдромы
+40,en,kk,,,advanced hand sanitizer,озық қол санитайзері
+41,en,kk,,,Affected by coronavirus,Коронавирус әсері тиген
+42,en,kk,,,after exposure,экспозициядан кейін
+43,en,kk,,,After the epidemic,Эпидемиядан кейін
+44,en,kk,,,After the outbreak,Жайылудан кейін
+47,en,kk,,,airborne virus,ауа-тамшылы вирус
+48,en,kk,,,alcohol based hand sanitizer,спирт негізіндегі қол санитайзері
+49,en,kk,,,alcohol hand sanitizer,спиртті қол санитайзері
+51,en,kk,,,alcohol-based hand sanitizer,спирт негізіндегі қол санитайзері
+59,en,kk,,,Anti-Corona virus spray,Коронавирусқа қарсы спрей
+60,en,kk,,,antibacterial hand sanitizer,бактерияға қарсы қол санитайзері
+61,en,kk,,,ARDS,ARDS
+64,en,kk,,,avoid exposure,экспозицияны болдырмау
+65,en,kk,,,be infected,жұқтыру
+75,en,kk,,,Beware of coronavirus,Коронавирустан сақ болыңыз
+76,en,kk,,,bilateral interstitial pneumonia,екіжақты аралық пневмония
+77,en,kk,,,CDC,CDC
+78,en,kk,,,Center for Disease Control,Індетті бақылау және алдын алу орталығы
+83,en,kk,,,community spread,қауымда таралу
+84,en,kk,,,compulsory quarantine,мәжбүрлі карантин
+85,en,kk,,,contagious,жұқпалы
+135,en,kk,,,coronavirus,коронавирус
+136,en,kk,,,coronavirus (COVID-19),коронавирус (COVID-19)
+137,en,kk,,,coronavirus alert,коронавирус туралы ескерту
+139,en,kk,,,coronavirus cases,коронавирус жағдайлары
+141,en,kk,,,coronavirus concerns,коронавирус мәселелері
+143,en,kk,,,coronavirus crisis,коронавирус дағдарысы
+149,en,kk,,,coronavirus disease,коронавирус кеселі
+150,en,kk,,,Coronavirus disease (COVID-19) outbreak,Коронавирус індетінің (COVID-19) жайылуы
+153,en,kk,,,coronavirus early symptoms,коронавирустың алғашқы белгілері
+155,en,kk,,,coronavirus epidemic,коронавирус эпидемиясы
+156,en,kk,,,coronavirus exposure,коронавирус экспозициясы
+161,en,kk,,,coronavirus incubation,коронавирус инкубациясы
+162,en,kk,,,coronavirus incubation period,коронавирустың инкубациялық кезеңі
+163,en,kk,,,coronavirus infection,коронавирус инфекциясы
+168,en,kk,,,coronavirus map,коронавирус картасы
+170,en,kk,,,coronavirus medicine,коронавирус дәрісі
+171,en,kk,,,coronavirus medicines,коронавирус дәрілері
+172,en,kk,,,coronavirus news,коронавирус жаңалықтары
+173,en,kk,,,coronavirus outbreak,коронавирус індеті
+174,en,kk,,,coronavirus pandemic,коронавирус пандемиясы
+176,en,kk,,,coronavirus pneumonia,коронавирус пневмониясы
+177,en,kk,,,coronavirus precautions,коронавирус бойынша сақтық шаралар
+178,en,kk,,,coronavirus prevention,коронавирустың алдын алу
+179,en,kk,,,coronavirus protection,коронавирустан қорғау
+180,en,kk,,,coronavirus quarantine,коронавирус карантині
+182,en,kk,,,coronavirus SOS Alert,коронавирус SOS дабылы
+183,en,kk,,,coronavirus spread,коронавирустың таралуы
+184,en,kk,,,coronavirus symptoms,коронавирус белгілері
+185,en,kk,,,coronavirus transmission,коронавирустың тасымалдануы
+186,en,kk,,,coronavirus travel ban,коронавирус себебінен сапар шегуге тыйым
+187,en,kk,,,coronavirus travel restrictions,коронавирус себебінен сапар шегу шектеулері
+188,en,kk,,,coronavirus treatment,коронавирус емі
+190,en,kk,,,coronavirus update,коронавирустың жаңа деректері
+191,en,kk,,,coronavirus vaccine,коронавирус вакцинасы
+192,en,kk,,,coronavirus vaccines,коронавирус вакциналары
+198,en,kk,,,covid cases,covid жағдайлары
+205,en,kk,,,covid early symptoms,COVID алғашқы белгілері
+213,en,kk,,,covid incubation period,COVID инкубациялық кезеңі
+215,en,kk,,,covid international spread,COVID мемлекеттер арасында таралуы
+216,en,kk,,,covid international travel,COVID кезінде халықаралық сапар шегу
+217,en,kk,,,covid isolation,covid оқшаулауы
+219,en,kk,,,covid map,covid картасы
+220,en,kk,,,covid medicine,covid дәрісі
+221,en,kk,,,covid medicines,covid дәрілері
+222,en,kk,,,covid news,covid жаңалықтары
+223,en,kk,,,covid outbreak,covid індеті
+224,en,kk,,,covid pandemic,covid пандемиясы
+225,en,kk,,,covid panic,covid дүрбелеңі
+228,en,kk,,,covid SOS Alert,COVID SOS дабылы
+230,en,kk,,,covid symptoms,covid белгілері
+231,en,kk,,,covid transmission,covid тасымалдануы
+232,en,kk,,,covid travel ban,COVID себебінен сапар шегуге тыйым
+233,en,kk,,,covid travel restrictions,COVID себебінен сапар шегу шектеулері
+234,en,kk,,,covid treatment,covid емі
+236,en,kk,,,covid vaccine,covid вакцинасы
+237,en,kk,,,covid vaccines,covid вакциналары
+242,en,kk,,,covid-19,covid-19
+243,en,kk,,,covid-19 alert,covid-19 ескертуі
+244,en,kk,,,covid-19 cases,covid-19 жағдайлары
+245,en,kk,,,covid-19 CDC,covid-19 CDC
+246,en,kk,,,covid-19 contagious,covid-19 жұқпалы
+247,en,kk,,,covid-19 cure,covid-19 емі
+248,en,kk,,,covid-19 dangerous,covid-19 қауіпті
+249,en,kk,,,covid-19 deadly,covid-19 өлімшіл
+250,en,kk,,,covid-19 death,covid-19 өлімі
+251,en,kk,,,covid-19 deaths,covid-19 өлімдері
+252,en,kk,,,covid-19 domestic travel,COVID-19 кезінде ел ішінде сапар шегу
+253,en,kk,,,covid-19 early symptoms,COVID-19 алғашқы белгілері
+254,en,kk,,,covid-19 effects,covid-19 әсерлері
+255,en,kk,,,covid-19 epidemic,covid-19 эпидемиясы
+256,en,kk,,,covid-19 exposure,covid-19 экспозициясы
+257,en,kk,,,covid-19 fatal,covid-19 өлімшіл
+258,en,kk,,,covid-19 fever,covid-19 безгегі
+259,en,kk,,,covid-19 illness,covid-19 ауруы
+260,en,kk,,,covid-19 incubation,covid-19 инкубациясы
+261,en,kk,,,covid-19 incubation period,COVID-19 инкубациялық кезеңі
+262,en,kk,,,covid-19 infection,covid-19 инфекциясы
+263,en,kk,,,covid-19 international spread,COVID-19 мемлекеттер арасында таралуы
+264,en,kk,,,covid-19 international travel,COVID-19 кезінде халықаралық сапар шегу
+265,en,kk,,,covid-19 isolation,covid-19 оқшаулауы
+266,en,kk,,,covid-19 lockdown,covid-19 карантині
+267,en,kk,,,covid-19 map,covid-19 картасы
+268,en,kk,,,covid-19 medicine,covid-19 дәрісі
+269,en,kk,,,covid-19 medicines,covid-19 дәрілері
+270,en,kk,,,covid-19 news,covid-19 жаңалықтары
+271,en,kk,,,covid-19 outbreak,covid-19 індеті
+272,en,kk,,,covid-19 pandemic,covid-19 пандемиясы
+273,en,kk,,,covid-19 panic,covid-19 дүрбелеңі
+275,en,kk,,,covid-19 precautions,covid-19 сақтық шаралары
+276,en,kk,,,covid-19 protection,covid-19 қорғанысы
+277,en,kk,,,covid-19 quarantine,covid-19 карантині
+278,en,kk,,,covid-19 SOS Alert,COVID-19 SOS дабылы
+279,en,kk,,,covid-19 spread,covid-19 таралуы (verb)
+280,en,kk,,,covid-19 symptoms,covid-19 белгілері
+281,en,kk,,,covid-19 transmission,covid-19 тасымалдануы
+282,en,kk,,,covid-19 travel ban,COVID-19 себебінен сапар шегуге тыйым
+283,en,kk,,,covid-19 travel restrictions,COVID-19 себебінен сапар шегу шектеулері
+284,en,kk,,,covid-19 treatment,covid-19 емі
+285,en,kk,,,covid-19 uncontrolled spread,COVID-19 бақылаусыз таралуы
+286,en,kk,,,covid-19 vaccine,covid-19 вакцинасы
+287,en,kk,,,covid-19 vaccines,covid-19 вакциналары
+288,en,kk,,,COVID-19 virus,covid-19 вирусы
+289,en,kk,,,covid-19 virus outbreak,COVID-19 вирусының жайылуы
+290,en,kk,,,covid-19 virus transmission,COVID-19 вирусының берілуі
+291,en,kk,,,covid-19 WHO,covid-19 ДДСҰ
+292,en,kk,,,covid19,covid19
+293,en,kk,,,covid19 alert,covid19 ескертуі
+294,en,kk,,,covid19 cases,covid19 жағдайлары
+295,en,kk,,,covid19 CDC,covid19 CDC
+301,en,kk,,,covid19 deaths,covid19 өлімдері
+302,en,kk,,,covid19 domestic travel,COVID19 кезінде ел ішінде сапар шегу
+303,en,kk,,,covid19 effects,covid19 әсерлері
+304,en,kk,,,covid19 epidemic,covid19 эпидемиясы
+305,en,kk,,,covid19 exposure,covid19 экспозициясы
+306,en,kk,,,covid19 fatal,covid19 өлімшіл
+307,en,kk,,,covid19 fever,covid19 безгегі
+308,en,kk,,,covid19 illness,covid19 ауруы
+309,en,kk,,,covid19 incubation,covid19 инкубациясы
+310,en,kk,,,covid19 incubation period,COVID19 инкубациялық кезеңі
+311,en,kk,,,covid19 infection,covid19 инфекциясы
+312,en,kk,,,covid19 international spread,COVID19 мемлекеттер арасында таралуы
+313,en,kk,,,covid19 international travel,COVID19 кезінде халықаралық сапар шегу
+314,en,kk,,,covid19 isolation,covid19 оқшаулауы
+315,en,kk,,,covid19 lockdown,covid19 карантині
+316,en,kk,,,covid19 map,covid19 картасы
+317,en,kk,,,covid19 medicine,covid19 дәрісі
+318,en,kk,,,covid19 medicines,covid19 дәрілері
+319,en,kk,,,covid19 news,covid19 жаңалықтары
+320,en,kk,,,covid19 outbreak,covid19 індеті
+321,en,kk,,,covid19 pandemic,covid19 пандемиясы
+324,en,kk,,,covid19 precautions,covid19 сақтық шаралары
+325,en,kk,,,covid19 protection,covid19 қорғанысы
+326,en,kk,,,covid19 quarantine,covid19 карантині
+327,en,kk,,,covid19 SOS Alert,COVID19 SOS дабылы
+328,en,kk,,,covid19 spread,covid19 таралуы
+329,en,kk,,,covid19 symptoms,covid19 белгілері
+330,en,kk,,,covid19 transmission,covid19 тасымалдануы
+331,en,kk,,,covid19 travel ban,COVID19 себебінен сапар шегуге тыйым
+332,en,kk,,,covid19 travel restrictions,COVID19 себебінен сапар шегу шектеулері
+333,en,kk,,,covid19 treatment,covid19 емі
+335,en,kk,,,covid19 vaccine,covid19 вакцинасы
+336,en,kk,,,covid19 vaccines,covid19 вакциналары
+337,en,kk,,,covid19 virus,covid19 вирусы
+338,en,kk,,,covid19 virus outbreak,COVID19 вирусының жайылуы
+339,en,kk,,,covid19 virus transmission,COVID19 вирусының берілуі
+342,en,kk,,,current outbreak,ағымдағы індет
+343,en,kk,,,deadly outbreak,өлімшіл індет
+345,en,kk,,,disease outbreak,аурудың өршуі
+346,en,kk,,,Disposable hand sanitizer,Бір реттік қол санитайзері
+348,en,kk,,,domestic travel,ішкі сапар
+351,en,kk,,,droplets,тамшылар
+357,en,kk,,,Effects of coronavirus,Коронавирустың салдары
+359,en,kk,,,epidemic,эпидемия
+360,en,kk,,,epidemic and pandemic,эпидемия және пандемия
+362,en,kk,,,epidemic disease,эпидемиялық ауру
+364,en,kk,,,epidemic outbreak,эпидемиялық өршу
+365,en,kk,,,epidemic period,эпидемиялық мерзім
+366,en,kk,,,epidemic prevention,эпидемиялық сақтық шарасы
+368,en,kk,,,epidemic season,эпидемия мезгілі
+369,en,kk,,,epidemic situation,эпидемия ахуалы
+371,en,kk,,,exposure,экспозиция
+375,en,kk,,,exposure time,экспозиция уақыты
+379,en,kk,,,fever,безгек
+380,en,kk,,,fight the virus,вируспен күресіңіз
+381,en,kk,,,Fighting the outbreak,Жайылумен күресу
+382,en,kk,,,flu epidemic,тұмау эпидемиясы
+385,en,kk,,,fomites,фомиттер
+392,en,kk,,,global health emergency,бүкіләлемдік денсаулыққа қатысты төтенше жағдай
+393,en,kk,,,global outbreak,ғаламдық індет
+394,en,kk,,,global pandemic,ғаламдық пандемия
+396,en,kk,,,hand sanitizer,қол антисептигі
+397,en,kk,,,hand sanitizer dispenser,қол санитайзерінің диспенсері
+398,en,kk,,,hand sanitizer gel,гель түріндегі қол санитайзері
+399,en,kk,,,hand sanitizer spray,спрей түріндегі қол санитайзері
+403,en,kk,,,home isolation,үй оқшаулауы
+404,en,kk,,,home quarantine,үй карантині
+410,en,kk,,,illness,ауру
+415,en,kk,,,incubation period,инкубация мерзімі
+418,en,kk,,,infected,инфекцияланған
+424,en,kk,,,instant hand sanitizer,лездік қол санитайзері
+425,en,kk,,,international spread,халықаралық таралу
+426,en,kk,,,international travel,халықаралық сапар
+427,en,kk,,,isolation,оқшаулау
+428,en,kk,,,isolation period,оқшаулау мерзімі
+430,en,kk,,,isolation room,оқшаулау бөлмесі
+431,en,kk,,,isolation valve,оқшаулау клапаны
+432,en,kk,,,isolation ward,оқшаулау палатасы
+434,en,kk,,,lockdown,карантин
+438,en,kk,,,major outbreak,ірі көлемде өршу
+439,en,kk,,,mandatory quarantine,міндетті карантин
+440,en,kk,,,mass gathering,жаппай жиналу
+444,en,kk,,,medicine,дәрі
+445,en,kk,,,medicines,дәрілер
+448,en,kk,,,n95,n95
+449,en,kk,,,n95 mask,n95 маскасы
+450,en,kk,,,n95 respirator,n95 респираторы
+451,en,kk,,,ncov,ncov
+452,en,kk,,,ncov-2019,ncov-2019
+453,en,kk,,,new coronavirus,жаңа коронавирус
+454,en,kk,,,new coronavirus pneumonia,жаңа коронавирустық пневмония
+460,en,kk,,,novel coronavirus,жаңа коронавирус
+462,en,kk,,,novel coronavirus infection,жаңа коронавирус инфекциясы
+463,en,kk,,,novel coronavirus outbreak,жаңа коронавирустың жайылуы
+464,en,kk,,,novel coronavirus pneumonia,жаңа коронавирустық пневмония
+470,en,kk,,,ongoing outbreak,ағымдағы карантин
+472,en,kk,,,outbreak,індет
+474,en,kk,,,outbreak of coronavirus,коронавирустың жайылуы
+475,en,kk,,,outbreak of disease,індеттің жайылуы
+482,en,kk,,,pandemic,пандемия
+485,en,kk,,,pandemic influenza,пандемиялық тұмау
+486,en,kk,,,pandemic outbreak,пандемияның жайылуы
+487,en,kk,,,pandemic plan,пандемияға қарсы жоспар
+488,en,kk,,,pandemic potential,пандемия қатері
+495,en,kk,,,pneumonia,пневмония
+496,en,kk,,,pneumonia epidemic,пневмония эпидемиясы
+497,en,kk,,,potential exposure,жұқтыру ықтималдығы
+498,en,kk,,,precautions,сақтық шаралары
+499,en,kk,,,prevent virus,вирустың алдын алу
+500,en,kk,,,prolonged exposure,ұзақ мерзімді әсер
+504,en,kk,,,quarantine,карантин
+505,en,kk,,,quarantine area,карантин аумағы
+506,en,kk,,,quarantine facility,карантин жабдығы
+507,en,kk,,,quarantine measures,карантин шаралары
+508,en,kk,,,quarantine period,карантин мерзімі
+509,en,kk,,,quarantine room,карантин бөлмесі
+510,en,kk,,,quarantine zone,карантин аймағы
+512,en,kk,,,Recovered coronavirus patient,Коронавирустен сауыққан пациенттер
+514,en,kk,,,repatriate,еліме қайтамын
+515,en,kk,,,repeated exposure,қайта ұшырау
+516,en,kk,,,respiratory syncytial virus,респираторлық синцитиалды вирус
+517,en,kk,,,respiratory virus,респираторлық вирус
+519,en,kk,,,Sanitizing hand sanitizer,Қол санитейзерін дезинфекциялау
+520,en,kk,,,SARS-CoV-2,SARS-CoV-2
+521,en,kk,,,self isolation,өзін-өзі оқшаулау
+522,en,kk,,,self quarantine,өзін-өзі карантинге жабу
+523,en,kk,,,Severe outbreak,Жедел жайылу
+525,en,kk,,,social distancing,әлеуметтік қашықтықты сақтау
+526,en,kk,,,social distancing measures,әлеуметтік қашықтықты сақтау шаралары
+527,en,kk,,,social isolation,қоғамнан оқшаулану
+528,en,kk,,,SOS Alert,SOS дабылы
+529,en,kk,,,spread,таратамын
+530,en,kk,,,spread of coronavirus,коронавирустың таралуы
+531,en,kk,,,spread of virus,вирустың таралуы
+535,en,kk,,,strain of virus,вирус штаммы
+541,en,kk,,,the incubation period,инкубациялық кезең
+544,en,kk,,,the novel coronavirus,жаңа коронавирус
+558,en,kk,,,touching face,бетті ұстау
+559,en,kk,,,travel advisory,сапар шегу туралы ақпарат
+560,en,kk,,,travel ban,сапар шегуге тыйым
+561,en,kk,,,travel restrictions,сапар шегу шектеулері
+565,en,kk,,,use hand sanitizer,қол санитайзерін пайдалану
+566,en,kk,,,vaccines,вакциналар
+567,en,kk,,,viral outbreak,кеңінен жайылу
+568,en,kk,,,virtual lockdown,виртуалды жабу
+569,en,kk,,,virus,вирус
+570,en,kk,,,virus carrier,вирус тасушысы
+573,en,kk,,,virus infection,вирустық инфекция
+575,en,kk,,,virus mask,вирусқа қарсы маска
+576,en,kk,,,virus outbreak,вирустың жайылуы
+577,en,kk,,,virus prevention,вирустың таралуына жол бермеу
+578,en,kk,,,virus protection,вирустан қорғау
+580,en,kk,,,virus spread,вирустың таралуы
+582,en,kk,,,virus spreads,вирус тарау аймақтары
+583,en,kk,,,virus strain,вирус штаммы
+584,en,kk,,,virus transmission,вирустың берілуі
+586,en,kk,,,wash your hands,қолыңызды жуыңыз
+587,en,kk,,,washing hands,қолды жуу
+589,en,kk,,,WHO,ДДСҰ
+590,en,kk,,,WHO Confirmed,ДДҰ растаған
+591,en,kk,,,WHO Deaths,ДДҰ растаған өлім жағдайлары
+592,en,kk,,,widespread outbreak,кең жайылу
+597,en,kk,,,World Health Organization,Дүниежүзілік денсаулық сақтау ұйымы
+600,en,kk,,,zoonotic disease,зоонозды індет
+601,en,kk,,,zoonotic virus,зоонозды вирус

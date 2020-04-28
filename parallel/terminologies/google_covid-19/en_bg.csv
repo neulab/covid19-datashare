@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,bg,,,14 days in isolation,14 дни в изолация
+26,en,bg,,,14 days quarantine,14-дневна карантина
+27,en,bg,,,2019 coronavirus,2019 коронавирус
+28,en,bg,,,2019 novel coronavirus,2019 нов коронавирус
+29,en,bg,,,2019-nCoV,2019-nCoV
+30,en,bg,,,2020 coronavirus,2020 коронавирус
+31,en,bg,,,2020 novel coronavirus,2020 нов коронавирус
+33,en,bg,,,about coronavirus,за коронавирус
+39,en,bg,,,acute respiratory distress syndrome,остър респираторен дистрес синдром
+40,en,bg,,,advanced hand sanitizer,подобрен дезинфектант за ръце
+41,en,bg,,,Affected by coronavirus,Засегнат от коронавирус
+42,en,bg,,,after exposure,след излагане
+43,en,bg,,,After the epidemic,След епидемията
+44,en,bg,,,After the outbreak,След избухването
+47,en,bg,,,airborne virus,"вирус, предаван по въздуха"
+48,en,bg,,,alcohol based hand sanitizer,дезинфектант за ръце на базата на алкохол
+49,en,bg,,,alcohol hand sanitizer,дезинфектант за ръце с алкохол
+51,en,bg,,,alcohol-based hand sanitizer,дезинфектант за ръце на базата на алкохол
+59,en,bg,,,Anti-Corona virus spray,Спрей против коронавирус
+60,en,bg,,,antibacterial hand sanitizer,антибактериален дезинфектант за ръце
+61,en,bg,,,ARDS,ARDS
+64,en,bg,,,avoid exposure,избягвам излагане
+65,en,bg,,,be infected,бъда заразен
+75,en,bg,,,Beware of coronavirus,Пазете се от коронавирус
+76,en,bg,,,bilateral interstitial pneumonia,двустранна интерстициална пневмония
+77,en,bg,,,CDC,CDC
+78,en,bg,,,Center for Disease Control,Център за контрол на заболяванията
+83,en,bg,,,community spread,разпространение в общност
+84,en,bg,,,compulsory quarantine,задължителна карантина
+85,en,bg,,,contagious,заразен
+135,en,bg,,,coronavirus,коронавирус
+136,en,bg,,,coronavirus (COVID-19),коронавирус (COVID-19)
+137,en,bg,,,coronavirus alert,предупреждение за коронавирус
+139,en,bg,,,coronavirus cases,случаи на коронавирус
+141,en,bg,,,coronavirus concerns,опасения за коронавирус
+143,en,bg,,,coronavirus crisis,коронавирус криза
+149,en,bg,,,coronavirus disease,коронавирусна болест
+150,en,bg,,,Coronavirus disease (COVID-19) outbreak,Избухване на коронавирусна болест (COVID-19)
+153,en,bg,,,coronavirus early symptoms,ранни симптоми на коронавирус
+155,en,bg,,,coronavirus epidemic,епидемия от коронавирус
+156,en,bg,,,coronavirus exposure,излагане на коронавирус
+161,en,bg,,,coronavirus incubation,инкубационен период на коронавирус
+162,en,bg,,,coronavirus incubation period,инкубационен период на коронавирус
+163,en,bg,,,coronavirus infection,инфекция с коронавирус
+168,en,bg,,,coronavirus map,карта за коронавирус
+170,en,bg,,,coronavirus medicine,лекарство за коронавирус
+171,en,bg,,,coronavirus medicines,лекарства за коронавирус
+172,en,bg,,,coronavirus news,новини за коронавирус
+173,en,bg,,,coronavirus outbreak,избухване на коронавирус
+174,en,bg,,,coronavirus pandemic,пандемия от коронавирус
+176,en,bg,,,coronavirus pneumonia,пневмония от коронавирус
+177,en,bg,,,coronavirus precautions,предпазни мерки срещу коронавирус
+178,en,bg,,,coronavirus prevention,предпазване от коронавирус
+179,en,bg,,,coronavirus protection,защита от коронавирус
+180,en,bg,,,coronavirus quarantine,карантина при коронавирус
+182,en,bg,,,coronavirus SOS Alert,SOS предупреждение за коронавирус
+183,en,bg,,,coronavirus spread,разпространение на коронавирус
+184,en,bg,,,coronavirus symptoms,симптоми на коронавирус
+185,en,bg,,,coronavirus transmission,предаване на коронавирус
+186,en,bg,,,coronavirus travel ban,коронавирус забрана за пътуване
+187,en,bg,,,coronavirus travel restrictions,коронавирус ограничения за пътуване
+188,en,bg,,,coronavirus treatment,лечение на коронавирус
+190,en,bg,,,coronavirus update,актуална информация за коронавирус
+191,en,bg,,,coronavirus vaccine,ваксина срещу коронавирус
+192,en,bg,,,coronavirus vaccines,ваксини срещу коронавирус
+198,en,bg,,,covid cases,случаи на covid
+205,en,bg,,,covid early symptoms,covid ранни симптоми
+213,en,bg,,,covid incubation period,инкубационен период на covid
+215,en,bg,,,covid international spread,международно разпространение на covid
+216,en,bg,,,covid international travel,covid международно пътуване
+217,en,bg,,,covid isolation,covid изолация
+219,en,bg,,,covid map,covid карта
+220,en,bg,,,covid medicine,лекарство за covid
+221,en,bg,,,covid medicines,лекарства за covid
+222,en,bg,,,covid news,новини за covid
+223,en,bg,,,covid outbreak,избухване на covid
+224,en,bg,,,covid pandemic,пандемия от covid
+225,en,bg,,,covid panic,covid паника
+228,en,bg,,,covid SOS Alert,covid SOS предупреждение
+230,en,bg,,,covid symptoms,covid симптоми
+231,en,bg,,,covid transmission,covid предаване
+232,en,bg,,,covid travel ban,covid забрана за пътуване
+233,en,bg,,,covid travel restrictions,covid ограничения за пътуване
+234,en,bg,,,covid treatment,covid лечение
+236,en,bg,,,covid vaccine,covid ваксина
+237,en,bg,,,covid vaccines,covid ваксини
+242,en,bg,,,covid-19,covid-19
+243,en,bg,,,covid-19 alert,covid-19 предупреждение
+244,en,bg,,,covid-19 cases,covid-19 случаи
+245,en,bg,,,covid-19 CDC,covid-19 CDC
+246,en,bg,,,covid-19 contagious,covid-19 заразен
+247,en,bg,,,covid-19 cure,covid-19 лекарство
+248,en,bg,,,covid-19 dangerous,covid-19 опасен
+249,en,bg,,,covid-19 deadly,covid-19 смъртоносен
+250,en,bg,,,covid-19 death,covid-19 смърт
+251,en,bg,,,covid-19 deaths,covid-19 смъртни случаи
+252,en,bg,,,covid-19 domestic travel,covid-19 пътуване в страната
+253,en,bg,,,covid-19 early symptoms,covid-19 ранни симптоми
+254,en,bg,,,covid-19 effects,covid-19 ефекти
+255,en,bg,,,covid-19 epidemic,covid-19 епидемия
+256,en,bg,,,covid-19 exposure,covid-19 излагане
+257,en,bg,,,covid-19 fatal,covid-19 фатален
+258,en,bg,,,covid-19 fever,covid-19 треска
+259,en,bg,,,covid-19 illness,covid-19 болест
+260,en,bg,,,covid-19 incubation,covid-19 инкубационен период
+261,en,bg,,,covid-19 incubation period,covid-19 инкубационен период
+262,en,bg,,,covid-19 infection,covid-19 инфекция
+263,en,bg,,,covid-19 international spread,covid-19 международно разпространение
+264,en,bg,,,covid-19 international travel,covid-19 международно пътуване
+265,en,bg,,,covid-19 isolation,covid-19 изолация
+266,en,bg,,,covid-19 lockdown,covid-19 затваряне
+267,en,bg,,,covid-19 map,covid-19 карта
+268,en,bg,,,covid-19 medicine,covid-19 лекарство
+269,en,bg,,,covid-19 medicines,covid-19 лекарства
+270,en,bg,,,covid-19 news,covid-19 новини
+271,en,bg,,,covid-19 outbreak,covid-19 избухване
+272,en,bg,,,covid-19 pandemic,covid-19 пандемия
+273,en,bg,,,covid-19 panic,covid-19 паника
+275,en,bg,,,covid-19 precautions,covid-19 предпазни мерки
+276,en,bg,,,covid-19 protection,covid-19 защита
+277,en,bg,,,covid-19 quarantine,covid-19 карантина
+278,en,bg,,,covid-19 SOS Alert,covid-19 SOS предупреждение
+279,en,bg,,,covid-19 spread,covid-19 разпространение
+280,en,bg,,,covid-19 symptoms,covid-19 симптоми
+281,en,bg,,,covid-19 transmission,covid-19 предаване
+282,en,bg,,,covid-19 travel ban,covid-19 забрана за пътуване
+283,en,bg,,,covid-19 travel restrictions,covid-19 ограничения за пътуване
+284,en,bg,,,covid-19 treatment,covid-19 лечение
+285,en,bg,,,covid-19 uncontrolled spread,covid-19 неконтролирано разпространение
+286,en,bg,,,covid-19 vaccine,covid-19 ваксина
+287,en,bg,,,covid-19 vaccines,covid-19 ваксини
+288,en,bg,,,COVID-19 virus,covid-19 вирус
+289,en,bg,,,covid-19 virus outbreak,covid-19 избухване на вирус
+290,en,bg,,,covid-19 virus transmission,covid-19 предаване на вирус
+291,en,bg,,,covid-19 WHO,covid-19 СЗО
+292,en,bg,,,covid19,covid19
+293,en,bg,,,covid19 alert,covid19 предупреждение
+294,en,bg,,,covid19 cases,covid19 случаи
+295,en,bg,,,covid19 CDC,covid19 CDC
+301,en,bg,,,covid19 deaths,covid19 смъртни случаи
+302,en,bg,,,covid19 domestic travel,covid19 пътуване в страната
+303,en,bg,,,covid19 effects,covid19 ефекти
+304,en,bg,,,covid19 epidemic,covid19 епидемия
+305,en,bg,,,covid19 exposure,covid19 излагане
+306,en,bg,,,covid19 fatal,covid19 фатален
+307,en,bg,,,covid19 fever,covid19 треска
+308,en,bg,,,covid19 illness,covid19 болест
+309,en,bg,,,covid19 incubation,covid19 инкубационен период
+310,en,bg,,,covid19 incubation period,covid19 инкубационен период
+311,en,bg,,,covid19 infection,covid19 инфекция
+312,en,bg,,,covid19 international spread,covid19 международно разпространение
+313,en,bg,,,covid19 international travel,covid19 международно пътуване
+314,en,bg,,,covid19 isolation,covid19 изолация
+315,en,bg,,,covid19 lockdown,covid19 затваряне
+316,en,bg,,,covid19 map,covid19 карта
+317,en,bg,,,covid19 medicine,covid19 лекарство
+318,en,bg,,,covid19 medicines,covid19 лекарства
+319,en,bg,,,covid19 news,covid19 новини
+320,en,bg,,,covid19 outbreak,covid19 избухване
+321,en,bg,,,covid19 pandemic,covid19 пандемия
+324,en,bg,,,covid19 precautions,covid19 предпазни мерки
+325,en,bg,,,covid19 protection,covid19 защита
+326,en,bg,,,covid19 quarantine,covid19 карантина
+327,en,bg,,,covid19 SOS Alert,covid19 SOS предупреждение
+328,en,bg,,,covid19 spread,covid19 разпространение
+329,en,bg,,,covid19 symptoms,covid19 симптоми
+330,en,bg,,,covid19 transmission,covid19 предаване
+331,en,bg,,,covid19 travel ban,covid19 забрана за пътуване
+332,en,bg,,,covid19 travel restrictions,covid19 ограничения за пътуване
+333,en,bg,,,covid19 treatment,covid19 лечение
+335,en,bg,,,covid19 vaccine,covid19 ваксина
+336,en,bg,,,covid19 vaccines,covid19 ваксини
+337,en,bg,,,covid19 virus,covid19 вирус
+338,en,bg,,,covid19 virus outbreak,covid19 избухване на вирус
+339,en,bg,,,covid19 virus transmission,covid19 предаване на вирус
+342,en,bg,,,current outbreak,настоящо избухване
+343,en,bg,,,deadly outbreak,смъртоносно избухване
+345,en,bg,,,disease outbreak,избухване на болест
+346,en,bg,,,Disposable hand sanitizer,Дезинфектант за ръце за еднократна употреба
+348,en,bg,,,domestic travel,пътуване в страната
+351,en,bg,,,droplets,капчици
+357,en,bg,,,Effects of coronavirus,Ефекти от коронавирус
+359,en,bg,,,epidemic,епидемия
+360,en,bg,,,epidemic and pandemic,епидемия и пандемия
+362,en,bg,,,epidemic disease,епидемична болест
+364,en,bg,,,epidemic outbreak,епидемичен взрив
+365,en,bg,,,epidemic period,епидемичен период
+366,en,bg,,,epidemic prevention,предотвратяване на епидемия
+368,en,bg,,,epidemic season,епидемичен сезон
+369,en,bg,,,epidemic situation,епидемична ситуация
+371,en,bg,,,exposure,излагане
+375,en,bg,,,exposure time,време на излагане
+379,en,bg,,,fever,треска
+380,en,bg,,,fight the virus,боря се с вируса
+381,en,bg,,,Fighting the outbreak,Боря се с избухването
+382,en,bg,,,flu epidemic,грипна епидемия
+385,en,bg,,,fomites,фомити
+392,en,bg,,,global health emergency,глобална здравна извънредна ситуация
+393,en,bg,,,global outbreak,глобално избухване
+394,en,bg,,,global pandemic,глобална пандемия
+396,en,bg,,,hand sanitizer,дезинфектант за ръце
+397,en,bg,,,hand sanitizer dispenser,дозиращо устройство за дезинфектант за ръце
+398,en,bg,,,hand sanitizer gel,гел за дезинфекция на ръце
+399,en,bg,,,hand sanitizer spray,спрей за дезинфекция на ръце
+403,en,bg,,,home isolation,домашна изолация
+404,en,bg,,,home quarantine,домашна карантина
+410,en,bg,,,illness,болест
+415,en,bg,,,incubation period,инкубационен период
+418,en,bg,,,infected,заразен
+424,en,bg,,,instant hand sanitizer,моментален дезинфектант за ръце
+425,en,bg,,,international spread,международно разпространение
+426,en,bg,,,international travel,международно пътуване
+427,en,bg,,,isolation,изолация
+428,en,bg,,,isolation period,период на изолация
+430,en,bg,,,isolation room,изолационна стая
+431,en,bg,,,isolation valve,изолационен вентил
+432,en,bg,,,isolation ward,изолационно отделение
+434,en,bg,,,lockdown,затваряне
+438,en,bg,,,major outbreak,голямо избухване
+439,en,bg,,,mandatory quarantine,задължителна карантина
+440,en,bg,,,mass gathering,масово събиране
+444,en,bg,,,medicine,лекарство
+445,en,bg,,,medicines,лекарства
+448,en,bg,,,n95,n95
+449,en,bg,,,n95 mask,маска n95
+450,en,bg,,,n95 respirator,респиратор n95
+451,en,bg,,,ncov,ncov
+452,en,bg,,,ncov-2019,ncov-2019
+453,en,bg,,,new coronavirus,нов коронавирус
+454,en,bg,,,new coronavirus pneumonia,нов коронавирус пневмония
+460,en,bg,,,novel coronavirus,нов коронавирус
+462,en,bg,,,novel coronavirus infection,заразяване с нов коронавирус
+463,en,bg,,,novel coronavirus outbreak,избухване на нов коронавирус
+464,en,bg,,,novel coronavirus pneumonia,нов коронавирус пневмония
+470,en,bg,,,ongoing outbreak,настоящо избухване
+472,en,bg,,,outbreak,избухване
+474,en,bg,,,outbreak of coronavirus,избухване на коронавирус
+475,en,bg,,,outbreak of disease,избухване на болест
+482,en,bg,,,pandemic,пандемия
+485,en,bg,,,pandemic influenza,пандемична инфлуенца
+486,en,bg,,,pandemic outbreak,избухване на пандемия
+487,en,bg,,,pandemic plan,план при пандемия
+488,en,bg,,,pandemic potential,възможност за пандемия
+495,en,bg,,,pneumonia,пневмония
+496,en,bg,,,pneumonia epidemic,епидемия от пневмония
+497,en,bg,,,potential exposure,потенциално излагане
+498,en,bg,,,precautions,предпазни мерки
+499,en,bg,,,prevent virus,предотвратявам вирус
+500,en,bg,,,prolonged exposure,продължително излагане
+504,en,bg,,,quarantine,карантина
+505,en,bg,,,quarantine area,област под карантина
+506,en,bg,,,quarantine facility,карантинен център
+507,en,bg,,,quarantine measures,карантинни мерки
+508,en,bg,,,quarantine period,период на карантина
+509,en,bg,,,quarantine room,стая за карантина
+510,en,bg,,,quarantine zone,зона под карантина
+512,en,bg,,,Recovered coronavirus patient,"Пациент, излекуван от коронавирус"
+514,en,bg,,,repatriate,репатрирам
+515,en,bg,,,repeated exposure,повторно излагане
+516,en,bg,,,respiratory syncytial virus,респираторен синцитиален вирус
+517,en,bg,,,respiratory virus,респираторен вирус
+519,en,bg,,,Sanitizing hand sanitizer,Дезинфектиращ дезинфектант за ръце
+520,en,bg,,,SARS-CoV-2,SARS-CoV-2
+521,en,bg,,,self isolation,самоизолация
+522,en,bg,,,self quarantine,самостоятелна карантина
+523,en,bg,,,Severe outbreak,Сериозно избухване
+525,en,bg,,,social distancing,социално дистанциране
+526,en,bg,,,social distancing measures,мерки за социално дистанциране
+527,en,bg,,,social isolation,социална изолация
+528,en,bg,,,SOS Alert,SOS предупреждение
+529,en,bg,,,spread,разпространение
+530,en,bg,,,spread of coronavirus,разпространение на коронавирус
+531,en,bg,,,spread of virus,разпространение на вирус
+535,en,bg,,,strain of virus,щам на вирус
+541,en,bg,,,the incubation period,инкубационния период
+544,en,bg,,,the novel coronavirus,новия коронавирус
+558,en,bg,,,touching face,докосване на лице
+559,en,bg,,,travel advisory,информация за пътуване
+560,en,bg,,,travel ban,забрана за пътуване
+561,en,bg,,,travel restrictions,ограничения за пътуване
+565,en,bg,,,use hand sanitizer,използвайте дезинфектант за ръце
+566,en,bg,,,vaccines,ваксини
+567,en,bg,,,viral outbreak,вирусно огнище
+568,en,bg,,,virtual lockdown,фактическа изолация
+569,en,bg,,,virus,вирус
+570,en,bg,,,virus carrier,преносител на вирус
+573,en,bg,,,virus infection,вирусна инфекция
+575,en,bg,,,virus mask,маска против вируси
+576,en,bg,,,virus outbreak,избухване на вирус
+577,en,bg,,,virus prevention,предотвратяване на вирус
+578,en,bg,,,virus protection,защита от вирус
+580,en,bg,,,virus spread,разпространение на вирус
+582,en,bg,,,virus spreads,вирус се разпространява
+583,en,bg,,,virus strain,щам на вирус
+584,en,bg,,,virus transmission,предаване на вирус
+586,en,bg,,,wash your hands,мийте ръцете си
+587,en,bg,,,washing hands,миене на ръце
+589,en,bg,,,WHO,СЗО
+590,en,bg,,,WHO Confirmed,Потвърден от СЗО
+591,en,bg,,,WHO Deaths,СЗО смъртни случаи
+592,en,bg,,,widespread outbreak,широко разпространено избухване
+597,en,bg,,,World Health Organization,Световна здравна организация
+600,en,bg,,,zoonotic disease,зоонозна болест
+601,en,bg,,,zoonotic virus,зоонозен вирус

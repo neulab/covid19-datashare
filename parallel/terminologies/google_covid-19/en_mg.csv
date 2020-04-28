@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,mg,,,14 days in isolation,fitokana-toerana mandritra ny 14 andro
+26,en,mg,,,14 days quarantine,fitokana-toerana mandritra ny 14 andro
+27,en,mg,,,2019 coronavirus,coronavirus 2019
+28,en,mg,,,2019 novel coronavirus,coronavirus 2019 vaovao
+29,en,mg,,,2019-nCoV,Covid-19 vaovao
+30,en,mg,,,2020 coronavirus,coronavirus 2020
+31,en,mg,,,2020 novel coronavirus,coronavirus 2020 vaovao
+33,en,mg,,,about coronavirus,momba ny coronavirus
+39,en,mg,,,acute respiratory distress syndrome,syndrome de détresse respiratoire aiguë
+40,en,mg,,,advanced hand sanitizer,fanadiovana tànana tena raitra
+41,en,mg,,,Affected by coronavirus,Voan'ny coronavirus
+42,en,mg,,,after exposure,aorian'ny fifampikasohana
+43,en,mg,,,After the epidemic,Aorian'ny valan'aretina
+44,en,mg,,,After the outbreak,Aorian'ny valan'aretina
+47,en,mg,,,airborne virus,viriosy entin-drivotra
+48,en,mg,,,alcohol based hand sanitizer,fanadiovana tànana misy alikaola
+49,en,mg,,,alcohol hand sanitizer,fanadiovana tànana misy alikaola
+51,en,mg,,,alcohol-based hand sanitizer,fanadiovana tànana avy amin'ny alikaola
+59,en,mg,,,Anti-Corona virus spray,Tsifotra miady amin'ny viriosy Corona
+60,en,mg,,,antibacterial hand sanitizer,fanadiovana tànana mamono bakteria
+61,en,mg,,,ARDS,SDRA
+64,en,mg,,,avoid exposure,sorohy ny fifampikasohana
+65,en,mg,,,be infected,voan'ny aretina
+75,en,mg,,,Beware of coronavirus,Mitandrema amin'ny coronavirus
+76,en,mg,,,bilateral interstitial pneumonia,tevika mpahazo ny avokavoka roa
+77,en,mg,,,CDC,CDC
+78,en,mg,,,Center for Disease Control,Center for Disease Control
+83,en,mg,,,community spread,fifindran'ny aretina eo anivon'ny fiaraha-monina
+84,en,mg,,,compulsory quarantine,fitokana-toerana tsy maintsy atao
+85,en,mg,,,contagious,mifindra
+135,en,mg,,,coronavirus,coronavirus
+136,en,mg,,,coronavirus (COVID-19),Coronavirus (COVID-19)
+137,en,mg,,,coronavirus alert,fampitandremana momba ny coronavirus
+139,en,mg,,,coronavirus cases,trangana coronavirus
+141,en,mg,,,coronavirus concerns,olana ateraky ny coronavirus
+143,en,mg,,,coronavirus crisis,krizy ateraky ny coronavirus
+149,en,mg,,,coronavirus disease,aretina coronavirus
+150,en,mg,,,Coronavirus disease (COVID-19) outbreak,Valan'aretina coronavirus (COVID-19)
+153,en,mg,,,coronavirus early symptoms,fiseho voalohan'ny coronavirus
+155,en,mg,,,coronavirus epidemic,valan'aretina coronavirus
+156,en,mg,,,coronavirus exposure,fifampikasohana tamin'ny coronavirus
+161,en,mg,,,coronavirus incubation,fihombon'ny coronavirus
+162,en,mg,,,coronavirus incubation period,fe-potoana ihomboan'ny coronavirus
+163,en,mg,,,coronavirus infection,fifindran'ny coronavirus
+168,en,mg,,,coronavirus map,coronavirus an-tsarintany
+170,en,mg,,,coronavirus medicine,fanafody coronavirus
+171,en,mg,,,coronavirus medicines,fanafody coronavirus
+172,en,mg,,,coronavirus news,vaovao momba ny coronavirus
+173,en,mg,,,coronavirus outbreak,fiparitahan'ny coronavirus
+174,en,mg,,,coronavirus pandemic,valan'aretina coronavirus
+176,en,mg,,,coronavirus pneumonia,tevika noho ny coronavirus
+177,en,mg,,,coronavirus precautions,fepetra isorohana ny coronavirus
+178,en,mg,,,coronavirus prevention,fisorohana ny coronavirus
+179,en,mg,,,coronavirus protection,fiarovana amin'ny coronavirus
+180,en,mg,,,coronavirus quarantine,fitokana-toerana noho ny coronavirus
+182,en,mg,,,coronavirus SOS Alert,Antso vonjy coronavirus
+183,en,mg,,,coronavirus spread,fiparitahan'ny coronavirus
+184,en,mg,,,coronavirus symptoms,fisehon'ny coronavirus
+185,en,mg,,,coronavirus transmission,fifindran'ny coronavirus
+186,en,mg,,,coronavirus travel ban,fandraràna ny fivezivezena sy ny coronavirus
+187,en,mg,,,coronavirus travel restrictions,famerana ny fivezivezena sy ny coronavirus
+188,en,mg,,,coronavirus treatment,fitsaboana ny coronavirus
+190,en,mg,,,coronavirus update,vaovao farany momba ny coronavirus
+191,en,mg,,,coronavirus vaccine,vaksiny coronavirus
+192,en,mg,,,coronavirus vaccines,vaksiny coronavirus
+198,en,mg,,,covid cases,ireo voan'ny covid
+205,en,mg,,,covid early symptoms,fiseho voalohan'ny covid
+213,en,mg,,,covid incubation period,fe-potoana ihomboan'ny covid
+215,en,mg,,,covid international spread,fiparitahan'ny covid manerantany
+216,en,mg,,,covid international travel,fivezivezena manerantany sy ny covid
+217,en,mg,,,covid isolation,fitokana-toerana noho ny covid
+219,en,mg,,,covid map,covid an-tsarintany
+220,en,mg,,,covid medicine,fanafody covid
+221,en,mg,,,covid medicines,fanafody covid
+222,en,mg,,,covid news,vaovao momba ny covid
+223,en,mg,,,covid outbreak,fiparitahan'ny covid
+224,en,mg,,,covid pandemic,valan'aretina covid
+225,en,mg,,,covid panic,horohoro ateraky ny covid
+228,en,mg,,,covid SOS Alert,Antso vonjy covid
+230,en,mg,,,covid symptoms,fisehon'ny covid
+231,en,mg,,,covid transmission,fifindran'ny covid
+232,en,mg,,,covid travel ban,fandraràna ny fivezivezena sy ny covid
+233,en,mg,,,covid travel restrictions,famerana ny fivezivezena sy ny covid
+234,en,mg,,,covid treatment,fitsaboana ny covid
+236,en,mg,,,covid vaccine,vaksiny fanefitra covid
+237,en,mg,,,covid vaccines,vaksiny fanefitra covid
+242,en,mg,,,covid-19,covid-19
+243,en,mg,,,covid-19 alert,fampitandremana momba ny covid-19
+244,en,mg,,,covid-19 cases,olona voan'ny covid-19
+245,en,mg,,,covid-19 CDC,CDC covid-19
+246,en,mg,,,covid-19 contagious,areti-mifindra ny covid-19
+247,en,mg,,,covid-19 cure,fitsaboana ny covid-19
+248,en,mg,,,covid-19 dangerous,mandoza ny covid-19
+249,en,mg,,,covid-19 deadly,mahafaty ny covid-19
+250,en,mg,,,covid-19 death,maty voan'ny covid-19
+251,en,mg,,,covid-19 deaths,maty voan'ny covid-19
+252,en,mg,,,covid-19 domestic travel,fivezivezena anatiny sy ny covid-19
+253,en,mg,,,covid-19 early symptoms,fiseho voalohan'ny covid-19
+254,en,mg,,,covid-19 effects,fisehon'ny covid-19
+255,en,mg,,,covid-19 epidemic,valan'aretina covid-19
+256,en,mg,,,covid-19 exposure,fifampikasohana amin'ny covid-19
+257,en,mg,,,covid-19 fatal,mahafaty ny covid-19
+258,en,mg,,,covid-19 fever,tazo vokatry ny covid-19
+259,en,mg,,,covid-19 illness,faharariana ateraky ny covid-19
+260,en,mg,,,covid-19 incubation,fihombon'ny covid-19
+261,en,mg,,,covid-19 incubation period,fe-potoana ihomboan'ny covid-19
+262,en,mg,,,covid-19 infection,fifindran'ny covid-19
+263,en,mg,,,covid-19 international spread,fiparitahan'ny covid-19 manerantany
+264,en,mg,,,covid-19 international travel,fivezivezena manerantany sy ny covid-19
+265,en,mg,,,covid-19 isolation,fitokana-toerana noho ny covid-19
+266,en,mg,,,covid-19 lockdown,fitokana-monina noho ny covid-19
+267,en,mg,,,covid-19 map,covid-19 an-tsaritany
+268,en,mg,,,covid-19 medicine,fanafody covid-19
+269,en,mg,,,covid-19 medicines,fanafody covid-19
+270,en,mg,,,covid-19 news,vaovao momba ny covid-19
+271,en,mg,,,covid-19 outbreak,fihanaky ny covid-19
+272,en,mg,,,covid-19 pandemic,valan'aretina covid-19
+273,en,mg,,,covid-19 panic,horohoro noho ny covid-19
+275,en,mg,,,covid-19 precautions,fisorohana ny covid-19
+276,en,mg,,,covid-19 protection,fiarovana amin'ny covid-19
+277,en,mg,,,covid-19 quarantine,fitokana-toerana noho ny covid-19
+278,en,mg,,,covid-19 SOS Alert,Antso vonjy Covid-19
+279,en,mg,,,covid-19 spread,fiparitahan'ny covid-19
+280,en,mg,,,covid-19 symptoms,fisehon'ny covid-19
+281,en,mg,,,covid-19 transmission,fifindran'ny covid-19
+282,en,mg,,,covid-19 travel ban,tsy fahazoana mivezivezy sy ny covid-19
+283,en,mg,,,covid-19 travel restrictions,famerana ny fivezivezena sy ny covid-19
+284,en,mg,,,covid-19 treatment,fitsaboana ny covid-19
+285,en,mg,,,covid-19 uncontrolled spread,tsy fahafehezana ny fiparitahan'ny covid-19
+286,en,mg,,,covid-19 vaccine,vaksiny fanefitra covid-19
+287,en,mg,,,covid-19 vaccines,vaksiny covid-19
+288,en,mg,,,COVID-19 virus,viriosy covid-19
+289,en,mg,,,covid-19 virus outbreak,valan'aretina avy amin'ny viriosy covid-19
+290,en,mg,,,covid-19 virus transmission,fifindran'ny viriosy covid-19
+291,en,mg,,,covid-19 WHO,OMS covid-19
+292,en,mg,,,covid19,covid19
+293,en,mg,,,covid19 alert,fampitandremana momba ny covid19
+294,en,mg,,,covid19 cases,olona voan'ny covid19
+295,en,mg,,,covid19 CDC,CDC covid19
+301,en,mg,,,covid19 deaths,olona matin'ny covid19
+302,en,mg,,,covid19 domestic travel,fivezivezena anatiny sy ny covid19
+303,en,mg,,,covid19 effects,fiatraikan'ny covid19
+304,en,mg,,,covid19 epidemic,valan'aretina covid19
+305,en,mg,,,covid19 exposure,fifampikasohana amin'ny covid19
+306,en,mg,,,covid19 fatal,mahafaty ny covid19
+307,en,mg,,,covid19 fever,tazo ateraky ny covid19
+308,en,mg,,,covid19 illness,faharariana ateraky ny covid19
+309,en,mg,,,covid19 incubation,fihombon'ny covid19
+310,en,mg,,,covid19 incubation period,fe-potoana ihomboan'ny covid19
+311,en,mg,,,covid19 infection,fifindran'ny covid19
+312,en,mg,,,covid19 international spread,fiparitahan'ny covid19 manerantany
+313,en,mg,,,covid19 international travel,fivezivezena manerantany sy ny covid19
+314,en,mg,,,covid19 isolation,fitokana-toerana noho ny covid19
+315,en,mg,,,covid19 lockdown,fitokana-monina noho ny covid19
+316,en,mg,,,covid19 map,covid19 an-tsarintany
+317,en,mg,,,covid19 medicine,fanafody covid19
+318,en,mg,,,covid19 medicines,fanafody covid19
+319,en,mg,,,covid19 news,vaovao momba ny covid19
+320,en,mg,,,covid19 outbreak,valan'aretina covid19
+321,en,mg,,,covid19 pandemic,valan'aretina covid19
+324,en,mg,,,covid19 precautions,fisorohana ny covid19
+325,en,mg,,,covid19 protection,fiarovana amin'ny covid19
+326,en,mg,,,covid19 quarantine,fitokana-toerana noho ny covid19
+327,en,mg,,,covid19 SOS Alert,Antso vonjy Covid19
+328,en,mg,,,covid19 spread,fiparitahan'ny covid19
+329,en,mg,,,covid19 symptoms,fisehon'ny covid19
+330,en,mg,,,covid19 transmission,fifindran'ny covid19
+331,en,mg,,,covid19 travel ban,tsy fahazoana mivezivezy sy ny covid19
+332,en,mg,,,covid19 travel restrictions,famerana ny fivezivezena sy ny covid19
+333,en,mg,,,covid19 treatment,fitsaboana ny covid19
+335,en,mg,,,covid19 vaccine,vaksiny fanefitra covid19
+336,en,mg,,,covid19 vaccines,vaksiny fanefitra covid19
+337,en,mg,,,covid19 virus,viriosy covid19
+338,en,mg,,,covid19 virus outbreak,valan'aretina avy amin'ny viriosy covid19
+339,en,mg,,,covid19 virus transmission,fifindran'ny viriosy covid19
+342,en,mg,,,current outbreak,valan'aretina amin'izao
+343,en,mg,,,deadly outbreak,valan'aretina mahafaty
+345,en,mg,,,disease outbreak,aretina mihanaka
+346,en,mg,,,Disposable hand sanitizer,fanadiovana tànana fanary
+348,en,mg,,,domestic travel,fitaterana anatiny
+351,en,mg,,,droplets,piti-drora
+357,en,mg,,,Effects of coronavirus,Fiatraikan'ny coronavirus
+359,en,mg,,,epidemic,areti-mifindra
+360,en,mg,,,epidemic and pandemic,areti-mifindra sy valan'aretina
+362,en,mg,,,epidemic disease,areti-mifindra miparitaka
+364,en,mg,,,epidemic outbreak,valan'aretina miparitaka
+365,en,mg,,,epidemic period,fotoana iparitahan'ny aretina
+366,en,mg,,,epidemic prevention,fisorohana ny areti-mifindra
+368,en,mg,,,epidemic season,vanin-taona fiparitahan'ny aretina
+369,en,mg,,,epidemic situation,toe-draharaha momba ilay valan'aretina
+371,en,mg,,,exposure,fifampikasohana
+375,en,mg,,,exposure time,faharetan'ny fifampikasohana
+379,en,mg,,,fever,tazo
+380,en,mg,,,fight the virus,miady amin'ny viriosy
+381,en,mg,,,Fighting the outbreak,Miady amin'ny valan'aretina
+382,en,mg,,,flu epidemic,valan'aretina gripa
+385,en,mg,,,fomites,fitaovana voaloto
+392,en,mg,,,global health emergency,vonjy taitra ho an'ny fahasalamana manerantany
+393,en,mg,,,global outbreak,valan'aretina manerantany
+394,en,mg,,,global pandemic,valan'aretina manerantany
+396,en,mg,,,hand sanitizer,fanadiovana tànana
+397,en,mg,,,hand sanitizer dispenser,fitaovana enti-manadio tànana
+398,en,mg,,,hand sanitizer gel,ranomandry fanadiovana tànana
+399,en,mg,,,hand sanitizer spray,tsifotra fanadiovana tànana
+403,en,mg,,,home isolation,fitokana-monina ao an-trano
+404,en,mg,,,home quarantine,fitokana-monina ao an-trano
+410,en,mg,,,illness,faharariana
+415,en,mg,,,incubation period,fotoana ihomboan'ny aretina
+418,en,mg,,,infected,voan'ny aretina
+424,en,mg,,,instant hand sanitizer,fanadiovana tànana eo noho eo
+425,en,mg,,,international spread,fiparitahana manerantany
+426,en,mg,,,international travel,fitaterana manerantany
+427,en,mg,,,isolation,fitokana-monina
+428,en,mg,,,isolation period,fe-potoana itokana-toerana
+430,en,mg,,,isolation room,efi-trano itokana-monina
+431,en,mg,,,isolation valve,fantsona fampisarahana
+432,en,mg,,,isolation ward,efi-trano fanokana-monina
+434,en,mg,,,lockdown,fanokana-monina
+438,en,mg,,,major outbreak,valan'aretina lehibe
+439,en,mg,,,mandatory quarantine,fitokana-toerana tsy maintsy atao
+440,en,mg,,,mass gathering,famoriam-bahoaka
+444,en,mg,,,medicine,fanafody
+445,en,mg,,,medicines,fanafody
+448,en,mg,,,n95,N95
+449,en,mg,,,n95 mask,aro-vava N95
+450,en,mg,,,n95 respirator,fitaovana enti-miaina N95
+451,en,mg,,,ncov,nCov
+452,en,mg,,,ncov-2019,nCov-2019
+453,en,mg,,,new coronavirus,coronavirus vaovao
+454,en,mg,,,new coronavirus pneumonia,tevika avy amin'ny coronavirus vaovao
+460,en,mg,,,novel coronavirus,coronavirus vaovao
+462,en,mg,,,novel coronavirus infection,fifindran'ny coronavirus vaovao
+463,en,mg,,,novel coronavirus outbreak,valan'aretina coronavirus vaovao
+464,en,mg,,,novel coronavirus pneumonia,tevika avy amin'ny coronavirus vaovao
+470,en,mg,,,ongoing outbreak,valan'aretina miseho izao
+472,en,mg,,,outbreak,fihanaky ny aretina
+474,en,mg,,,outbreak of coronavirus,firongatry ny coronavirus
+475,en,mg,,,outbreak of disease,firongatry ny aretina
+482,en,mg,,,pandemic,valan'aretina
+485,en,mg,,,pandemic influenza,valan'aretina gripa mahery
+486,en,mg,,,pandemic outbreak,valan'aretina miparitaka
+487,en,mg,,,pandemic plan,tetikady iadiana amin'ny valan'aretina
+488,en,mg,,,pandemic potential,tombatomban'ny valan'aretina
+495,en,mg,,,pneumonia,tevika
+496,en,mg,,,pneumonia epidemic,valan'aretina tevika
+497,en,mg,,,potential exposure,fifampikasohana mety nahazo
+498,en,mg,,,precautions,fisorohana
+499,en,mg,,,prevent virus,misoroka viriosy
+500,en,mg,,,prolonged exposure,fifampikasohana naharitra
+504,en,mg,,,quarantine,fanokana-toerana
+505,en,mg,,,quarantine area,faritra itokana-monina
+506,en,mg,,,quarantine facility,trano itokana-monina
+507,en,mg,,,quarantine measures,fepetra fitokana-monina
+508,en,mg,,,quarantine period,fe-potoana itokana-monina
+509,en,mg,,,quarantine room,efi-trano itokana-monina
+510,en,mg,,,quarantine zone,faritra mitoka-monina
+512,en,mg,,,Recovered coronavirus patient,olona voan'ny coronavirus ka sitrana
+514,en,mg,,,repatriate,mampody
+515,en,mg,,,repeated exposure,fifampikasohana niverimberina
+516,en,mg,,,respiratory syncytial virus,viriosin'ny taovam-pisefoan'ny zaza
+517,en,mg,,,respiratory virus,viriosina mahazo ny taovam-pisefoana
+519,en,mg,,,Sanitizing hand sanitizer,savony fanadiovana tànana
+520,en,mg,,,SARS-CoV-2,SARS-CoV-2
+521,en,mg,,,self isolation,fitokana-toerana ataon'ny tena
+522,en,mg,,,self quarantine,fitokana-toerana ataon'ny tena
+523,en,mg,,,Severe outbreak,valan'aretina mandoza
+525,en,mg,,,social distancing,fanalavirana ny fiseraserana aman'olona
+526,en,mg,,,social distancing measures,fepetra tsy ifampikasihan'ny samy olona
+527,en,mg,,,social isolation,fitokana-monina ara-tsosialy
+528,en,mg,,,SOS Alert,Antso vonjy
+529,en,mg,,,spread,mihanaka
+530,en,mg,,,spread of coronavirus,fiparitahan'ny coronavirus
+531,en,mg,,,spread of virus,fiparitahan'ny viriosy
+535,en,mg,,,strain of virus,sela-tambatra ana viriosy
+541,en,mg,,,the incubation period,fe-potoana ihomboany
+544,en,mg,,,the novel coronavirus,ilay coronavirus vaovao
+558,en,mg,,,touching face,fikasihana ny tarehy
+559,en,mg,,,travel advisory,fampitandremana ho an'ny mpandeha
+560,en,mg,,,travel ban,tsy fahazoana mivezivezy
+561,en,mg,,,travel restrictions,famerana ny fivezivezena
+565,en,mg,,,use hand sanitizer,mampiasa savony fanadiovana tànana
+566,en,mg,,,vaccines,vaksiny
+567,en,mg,,,viral outbreak,valan'aretina avy amin'ny viriosy
+568,en,mg,,,virtual lockdown,fitokana-monina vonjy maika
+569,en,mg,,,virus,viriosy
+570,en,mg,,,virus carrier,mpitondra ny viriosy
+573,en,mg,,,virus infection,fifindran'ny viriosy
+575,en,mg,,,virus mask,aro-vava amin'ny viriosy
+576,en,mg,,,virus outbreak,valan'aretina avy amin'ny viriosy
+577,en,mg,,,virus prevention,fisorohana ny viriosy
+578,en,mg,,,virus protection,fiarovana amin'ny viriosy
+580,en,mg,,,virus spread,fiparitahan'ny viriosy
+582,en,mg,,,virus spreads,fiparitahan'ny viriosy
+583,en,mg,,,virus strain,sela-tambatra ana viriosy
+584,en,mg,,,virus transmission,fifindran'ny viriosy
+586,en,mg,,,wash your hands,manasà tànana
+587,en,mg,,,washing hands,misasa tànana
+589,en,mg,,,WHO,OMS
+590,en,mg,,,WHO Confirmed,nohamarinin'ny OMS
+591,en,mg,,,WHO Deaths,Isan'ny maty araka ny OMS
+592,en,mg,,,widespread outbreak,fiparitahana manerantany
+597,en,mg,,,World Health Organization,Fikambanambe Iraisam-pirenena momba ny Fahasalamana
+600,en,mg,,,zoonotic disease,aretina avy amin'ny biby
+601,en,mg,,,zoonotic virus,viriosy avy amin'ny biby

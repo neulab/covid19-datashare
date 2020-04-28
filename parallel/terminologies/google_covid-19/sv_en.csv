@@ -1,0 +1,51 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+xx_1001,sv,en,,,slopat karensavdrag,expired qualifying deduction
+xx_1002,sv,en,,,folkhälsa,people's health
+xx_1003,sv,en,,,smittspridningen av coronaviruset,infectious spreading of the corona virus
+xx_1004,sv,en,,,amorteringsuppskov,suspension of repayments
+xx_1005,sv,en,,,bidragsansökningar,applications for assistance
+xx_1006,sv,en,,,samhällsspridningen,community spread
+xx_1007,sv,en,,,sjuklöneansvar,responsibility for sick leave
+xx_1008,sv,en,,,statens budget,the national budget
+xx_1009,sv,en,,,arbetsrätt,labor law
+xx_1010,sv,en,,,statens hjälp,the nation's assistance
+xx_1011,sv,en,,,vårdmaterial,care material
+xx_1012,sv,en,,,sjukvårdsmaterial,healthcare material
+xx_1013,sv,en,,,spridningen,spreading
+xx_1014,sv,en,,,sjukvårdspersonal,healthcare personnel
+xx_1015,sv,en,,,skyddsutrustning,protective equipment
+xx_1016,sv,en,,,arbetslöshet,unemployment
+xx_1017,sv,en,,,svenska modellen,the Swedish model
+xx_1018,sv,en,,,utegångsförbud,curfew
+xx_1019,sv,en,,,permitterar,permit
+xx_1020,sv,en,,,export,export
+xx_1021,sv,en,,,30 sekunder,30 seconds
+xx_1022,sv,en,,,distansutbildning,remote learning
+xx_1023,sv,en,,,tvätta händer,wash hands
+xx_1024,sv,en,,,tvål,soap
+xx_1025,sv,en,,,handsprit,hand alcohol
+xx_1026,sv,en,,,tvål och vatten,soap and water
+xx_1027,sv,en,,,spridningen av virus,spreading of the virus
+xx_1028,sv,en,,,barn hemma,children home
+xx_1029,sv,en,,,vårdnadshavare,caregiver
+xx_1030,sv,en,,,elever hemma,students home
+xx_1031,sv,en,,,droppinfektion,droplet infection
+xx_1032,sv,en,,,smittämnen,infectious agent
+xx_1033,sv,en,,,respiratorer,respirators
+xx_1034,sv,en,,,hygieniska åtgärder,hygienic steps
+xx_1035,sv,en,,,influensa,influenza
+xx_1036,sv,en,,,infektioner,infections
+xx_1037,sv,en,,,smittoöverföring,disease transmission
+xx_1038,sv,en,,,smitta,infection
+xx_1039,sv,en,,,feber,fever
+xx_1040,sv,en,,,bronkit,bronchitis
+xx_1041,sv,en,,,reseförbud,travel prohibition
+xx_1042,sv,en,,,utegångsförbud,curfew
+xx_1043,sv,en,,,packa,pack
+xx_1044,sv,en,,,farligt att resa,dangerous to travel
+xx_1045,sv,en,,,vård utomlands,foreign care
+xx_1046,sv,en,,,sjukvård utomlands,foreign healthcare
+xx_1047,sv,en,,,flyga,fly
+xx_1048,sv,en,,,boka om,rebook
+xx_1049,sv,en,,,avboka,cancel
+xx_1050,sv,en,,,undantagstillstånd,state of emergency

@@ -1,0 +1,49 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+xx_801,no,en,,,debutsymptom,onset symptoms
+xx_802,no,en,,,covid-19 forløp,covid-19 course
+xx_803,no,en,,,luftveisinfeksjon,respiratory infection
+xx_804,no,en,,,kronisk sykdom covid-19,Chronic illness covid-19
+xx_805,no,en,,,cytokinstorm covid 19,cytokine storm covid-19
+xx_806,no,en,,,luftveissymptomer,respiratory symptoms
+xx_807,no,en,,,luftveissmitte,respiratory infection
+xx_808,no,en,,,smittevernsrutiner,infection control procedures
+xx_809,no,en,,,smittevernsutstyr,personal protective equipment
+xx_810,no,en,,,pandemi,pandemic
+xx_811,no,en,,,inkubasjon,incubation
+xx_812,no,en,,,karantene,quarantine
+xx_813,no,en,,,korona isolasjon,coronavirus isolation
+xx_814,no,en,,,hjemmekarantene,home quarantine
+xx_815,no,en,,,behandling korona,treatment coronavirus
+xx_816,no,en,,,vaksine korona,vaccine coronavirus
+xx_817,no,en,,,korona smitte,coronavirus transmission
+xx_818,no,en,,,koronavirus gravid,coronavirus pregnant
+xx_819,no,en,,,antall smittede,number infected
+xx_820,no,en,,,korona kollektivtrafikk,coronavirus public transport
+xx_821,no,en,,,respirator korona,ventilator coronavirus
+xx_822,no,en,,,korona død,coronavirus deaths
+xx_823,no,en,,,korona dødelighet,coronavirus death rate
+xx_824,no,en,,,risikogruppe,risk group
+xx_825,no,en,,,sverige korona,sweden coronavirus
+xx_826,no,en,,,korona test,coronavirus test
+xx_829,no,en,,,helsevesen korona,health service coronavirus
+xx_830,no,en,,,pasient,patient
+xx_831,no,en,,,avbestille korona,cancel booking coronavirus
+xx_832,no,en,,,korona hjemreise,coronavirus repatriation
+xx_833,no,en,,,kansellere reise korona,cancel travel coronavirus
+xx_834,no,en,,,refusjon korona,refund coronavirus
+xx_835,no,en,,,evakuere korona,evacuate coronavirus
+xx_836,no,en,,,reiserestriksjoner korona,travel restrictions coronavirus
+xx_837,no,en,,,erstatning korona,compensation coronavirus
+xx_838,no,en,,,ombooking korona,rebook coronavirus
+xx_839,no,en,,,reiseforsikring korona,travel insurance coronavirus
+xx_840,no,en,,,reise hjem korona,travel home coronavirus
+xx_841,no,en,,,tiltak,measures
+xx_842,no,en,,,reiseråd korona,travel advice coronavirus
+xx_843,no,en,,,dagpenger korona,unemployment benefits coronavirus
+xx_844,no,en,,,hytteforbud,ban on visiting second homes
+xx_845,no,en,,,permittert korona,furloughed coronavirus
+xx_846,no,en,,,sykemeldt korona,sick leave coronavirus
+xx_847,no,en,,,krisepakke,crisis package
+xx_848,no,en,,,koronatiltak,coronavirus measures
+xx_849,no,en,,,garantiordning korona,guarantee scheme coronavirus
+xx_850,no,en,,,samfunnskritiske funksjoner,key services

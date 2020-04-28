@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,da,,,14 days in isolation,14 dage i isolation
+26,en,da,,,14 days quarantine,14 dages karantæne
+27,en,da,,,2019 coronavirus,2019 coronavirus
+28,en,da,,,2019 novel coronavirus,2019 ny coronavirus
+29,en,da,,,2019-nCoV,2019-nCoV
+30,en,da,,,2020 coronavirus,2020 coronavirus
+31,en,da,,,2020 novel coronavirus,2020 ny coronavirus
+33,en,da,,,about coronavirus,om coronavirus
+39,en,da,,,acute respiratory distress syndrome,acute respiratory distress syndrom
+40,en,da,,,advanced hand sanitizer,avanceret hånddesinfektion
+41,en,da,,,Affected by coronavirus,Påvirket af coronavirus
+42,en,da,,,after exposure,efter eksponering
+43,en,da,,,After the epidemic,Efter epidemien
+44,en,da,,,After the outbreak,Efter udbruddet
+47,en,da,,,airborne virus,luftbåren virus
+48,en,da,,,alcohol based hand sanitizer,alkoholbaseret hånddesinfektion
+49,en,da,,,alcohol hand sanitizer,hånddesinfektion med alkohol
+51,en,da,,,alcohol-based hand sanitizer,alkoholbaseret hånddesinfektion
+59,en,da,,,Anti-Corona virus spray,Spray mod coronavirus
+60,en,da,,,antibacterial hand sanitizer,antibakteriel hånddesinfektion
+61,en,da,,,ARDS,ARDS
+64,en,da,,,avoid exposure,undgå eksponering
+65,en,da,,,be infected,være inficeret
+75,en,da,,,Beware of coronavirus,Tag dig i agt for coronavirus
+76,en,da,,,bilateral interstitial pneumonia,bilateral interstitiel pneumoni
+77,en,da,,,CDC,CDC
+78,en,da,,,Center for Disease Control,Center for Disease Control
+83,en,da,,,community spread,spredning i samfundet
+84,en,da,,,compulsory quarantine,tvungen karantæne
+85,en,da,,,contagious,smitsom
+135,en,da,,,coronavirus,coronavirus
+136,en,da,,,coronavirus (COVID-19),coronavirus (COVID-19)
+137,en,da,,,coronavirus alert,coronavirusalarm
+139,en,da,,,coronavirus cases,coronavirustilfælde
+141,en,da,,,coronavirus concerns,coronavirusbekymringer
+143,en,da,,,coronavirus crisis,coronaviruskrise
+149,en,da,,,coronavirus disease,coronavirussygdom
+150,en,da,,,Coronavirus disease (COVID-19) outbreak,Udbrud af coronavirussygdom (COVID-19)
+153,en,da,,,coronavirus early symptoms,tidlige symptomer på coronavirus
+155,en,da,,,coronavirus epidemic,coronavirusepidemi
+156,en,da,,,coronavirus exposure,eksponering for coronavirus
+161,en,da,,,coronavirus incubation,inkubationstid for coronavirus
+162,en,da,,,coronavirus incubation period,inkubationsperiode for coronavirus
+163,en,da,,,coronavirus infection,coronavirusinfektion
+168,en,da,,,coronavirus map,kort over coronavirus
+170,en,da,,,coronavirus medicine,coronavirusmedicin
+171,en,da,,,coronavirus medicines,coronaviruslægemidler
+172,en,da,,,coronavirus news,nyheder om coronavirus
+173,en,da,,,coronavirus outbreak,udbrud af coronavirus
+174,en,da,,,coronavirus pandemic,coronaviruspandemi
+176,en,da,,,coronavirus pneumonia,lungebetændelse på grund af coronavirus
+177,en,da,,,coronavirus precautions,forholdsregler mod coronavirus
+178,en,da,,,coronavirus prevention,forebyggelse af coronavirus
+179,en,da,,,coronavirus protection,beskyttelse mod coronavirus
+180,en,da,,,coronavirus quarantine,coronaviruskarantæne
+182,en,da,,,coronavirus SOS Alert,SOS-advarsel om coronavirus
+183,en,da,,,coronavirus spread,spredning af coronavirus
+184,en,da,,,coronavirus symptoms,symptomer på coronavirus
+185,en,da,,,coronavirus transmission,overførsel af coronavirus
+186,en,da,,,coronavirus travel ban,rejseforbud på grund af coronavirus
+187,en,da,,,coronavirus travel restrictions,rejsebegrænsninger på grund af coronavirus
+188,en,da,,,coronavirus treatment,behandling af coronavirus
+190,en,da,,,coronavirus update,opdatering om coronavirus
+191,en,da,,,coronavirus vaccine,vaccine mod coronavirus
+192,en,da,,,coronavirus vaccines,vacciner mod coronavirus
+198,en,da,,,covid cases,covid-tilfælde
+205,en,da,,,covid early symptoms,tidlige symptomer på covid
+213,en,da,,,covid incubation period,inkubationsperiode for covid
+215,en,da,,,covid international spread,international spredning af covid
+216,en,da,,,covid international travel,covid - internationale rejser
+217,en,da,,,covid isolation,covid-isolation
+219,en,da,,,covid map,kort over covid
+220,en,da,,,covid medicine,covid-medicin
+221,en,da,,,covid medicines,covid-lægemidler
+222,en,da,,,covid news,nyheder om covid
+223,en,da,,,covid outbreak,udbrud af covid
+224,en,da,,,covid pandemic,covid-pandemi
+225,en,da,,,covid panic,covid-panik
+228,en,da,,,covid SOS Alert,SOS-advarsel om covid
+230,en,da,,,covid symptoms,covid-symptomer
+231,en,da,,,covid transmission,overførsel af covid
+232,en,da,,,covid travel ban,rejseforbud på grund af covid
+233,en,da,,,covid travel restrictions,rejsebegrænsninger på grund af covid
+234,en,da,,,covid treatment,behandling af covid
+236,en,da,,,covid vaccine,vaccine mod covid
+237,en,da,,,covid vaccines,vacciner mod covid
+242,en,da,,,covid-19,covid-19
+243,en,da,,,covid-19 alert,covid-19-advarsel
+244,en,da,,,covid-19 cases,covid-19-tilfælde
+245,en,da,,,covid-19 CDC,covid-19 CDC
+246,en,da,,,covid-19 contagious,smitsom covid-19
+247,en,da,,,covid-19 cure,kur mod covid-19
+248,en,da,,,covid-19 dangerous,farlig covid-19
+249,en,da,,,covid-19 deadly,dødbringende covid-19
+250,en,da,,,covid-19 death,covid-19-dødsfald
+251,en,da,,,covid-19 deaths,covid-19-dødsfald
+252,en,da,,,covid-19 domestic travel,covid-19 - indenlandske rejser
+253,en,da,,,covid-19 early symptoms,tidlige symptomer på covid-19
+254,en,da,,,covid-19 effects,virkninger af covid-19
+255,en,da,,,covid-19 epidemic,covid-19-epidemi
+256,en,da,,,covid-19 exposure,eksponering for covid-19
+257,en,da,,,covid-19 fatal,dødelig covid-19
+258,en,da,,,covid-19 fever,covid-19-feber
+259,en,da,,,covid-19 illness,covid-19-sygdom
+260,en,da,,,covid-19 incubation,inkubationstid for covid-19
+261,en,da,,,covid-19 incubation period,inkubationsperiode for covid-19
+262,en,da,,,covid-19 infection,covid-19-infektion
+263,en,da,,,covid-19 international spread,international spredning af covid-19
+264,en,da,,,covid-19 international travel,covid-19 internationale rejser
+265,en,da,,,covid-19 isolation,covid-19-isolation
+266,en,da,,,covid-19 lockdown,nedlukning på grund af covid-19
+267,en,da,,,covid-19 map,kort over covid-19
+268,en,da,,,covid-19 medicine,covid-19-medicin
+269,en,da,,,covid-19 medicines,covid-19-lægemidler
+270,en,da,,,covid-19 news,nyheder om covid-19
+271,en,da,,,covid-19 outbreak,udbrud af covid-19
+272,en,da,,,covid-19 pandemic,covid-19-pandemi
+273,en,da,,,covid-19 panic,covid-19-panik
+275,en,da,,,covid-19 precautions,forholdsregler mod covid-19
+276,en,da,,,covid-19 protection,beskyttelse mod covid-19
+277,en,da,,,covid-19 quarantine,covid-19-karantæne
+278,en,da,,,covid-19 SOS Alert,SOS-advarsel om covid-19
+279,en,da,,,covid-19 spread,spredning af covid-19
+280,en,da,,,covid-19 symptoms,symptomer på covid-19
+281,en,da,,,covid-19 transmission,overførsel af covid-19
+282,en,da,,,covid-19 travel ban,rejseforbud på grund af covid-19
+283,en,da,,,covid-19 travel restrictions,rejsebegrænsninger på grund af covid-19
+284,en,da,,,covid-19 treatment,behandling af covid-19
+285,en,da,,,covid-19 uncontrolled spread,ukontrolleret spredning af covid-19
+286,en,da,,,covid-19 vaccine,vaccine mod covid-19
+287,en,da,,,covid-19 vaccines,vacciner mod covid-19
+288,en,da,,,COVID-19 virus,covid-19-virus
+289,en,da,,,covid-19 virus outbreak,udbrud af covid-19-virus
+290,en,da,,,covid-19 virus transmission,overførsel af covid-19-virus
+291,en,da,,,covid-19 WHO,covid-19 WHO
+292,en,da,,,covid19,covid19
+293,en,da,,,covid19 alert,covid-19-advarsel
+294,en,da,,,covid19 cases,covid-19-tilfælde
+295,en,da,,,covid19 CDC,covid-19 CDC
+301,en,da,,,covid19 deaths,covid-19-dødsfald
+302,en,da,,,covid19 domestic travel,covid-19 indenlandske rejser
+303,en,da,,,covid19 effects,virkninger af covid-19
+304,en,da,,,covid19 epidemic,covid19-epidemi
+305,en,da,,,covid19 exposure,eksponering for covid-19
+306,en,da,,,covid19 fatal,dødelig covid-19
+307,en,da,,,covid19 fever,covid-19-feber
+308,en,da,,,covid19 illness,covid-19-sygdom
+309,en,da,,,covid19 incubation,inkubationstid for covid-19
+310,en,da,,,covid19 incubation period,inkubationsperiode for covid-19
+311,en,da,,,covid19 infection,covid-19-infektion
+312,en,da,,,covid19 international spread,international spredning af covid-19
+313,en,da,,,covid19 international travel,covid-19 internationale rejser
+314,en,da,,,covid19 isolation,covid-19-isolation
+315,en,da,,,covid19 lockdown,nedlukning på grund af covid-19
+316,en,da,,,covid19 map,kort over covid-19
+317,en,da,,,covid19 medicine,covid-19-medicin
+318,en,da,,,covid19 medicines,covid-19-lægemidler
+319,en,da,,,covid19 news,nyheder om covid-19
+320,en,da,,,covid19 outbreak,udbrud af covid-19
+321,en,da,,,covid19 pandemic,covid19-pandemi
+324,en,da,,,covid19 precautions,forholdsregler mod covid-19
+325,en,da,,,covid19 protection,beskyttelse mod covid-19
+326,en,da,,,covid19 quarantine,covid-19-karantæne
+327,en,da,,,covid19 SOS Alert,SOS-alarm om covid-19
+328,en,da,,,covid19 spread,spredning af covid19
+329,en,da,,,covid19 symptoms,symptomer på covid-19
+330,en,da,,,covid19 transmission,overførsel af covid-19
+331,en,da,,,covid19 travel ban,rejseforbud på grund af covid-19
+332,en,da,,,covid19 travel restrictions,rejsebegrænsninger på grund af covid-19
+333,en,da,,,covid19 treatment,behandling af covid-19
+335,en,da,,,covid19 vaccine,vaccine mod covid-19
+336,en,da,,,covid19 vaccines,vacciner mod covid-19
+337,en,da,,,covid19 virus,covid-19-virus
+338,en,da,,,covid19 virus outbreak,udbrud af covid-19-virus
+339,en,da,,,covid19 virus transmission,overførsel af covid-19-virus
+342,en,da,,,current outbreak,nuværende udbrud
+343,en,da,,,deadly outbreak,dødbringende udbrud
+345,en,da,,,disease outbreak,sygdomsudbrud
+346,en,da,,,Disposable hand sanitizer,Hånddesinfektion til engangsbrug
+348,en,da,,,domestic travel,indenlandske rejser
+351,en,da,,,droplets,dråber
+357,en,da,,,Effects of coronavirus,Virkninger af coronavirus
+359,en,da,,,epidemic,epidemi
+360,en,da,,,epidemic and pandemic,epidemi og pandemi
+362,en,da,,,epidemic disease,epidemisk sygdom
+364,en,da,,,epidemic outbreak,epidemisk udbrud
+365,en,da,,,epidemic period,epidemiperiode
+366,en,da,,,epidemic prevention,forebyggelse af epidemi
+368,en,da,,,epidemic season,epidemisæson
+369,en,da,,,epidemic situation,epidemisk situation
+371,en,da,,,exposure,eksponering
+375,en,da,,,exposure time,eksponeringstid
+379,en,da,,,fever,feber
+380,en,da,,,fight the virus,bekæmp virussen
+381,en,da,,,Fighting the outbreak,Bekæmpelse af udbruddet
+382,en,da,,,flu epidemic,influenzaepidemi
+385,en,da,,,fomites,smittespredende genstande
+392,en,da,,,global health emergency,global sundhedsmæssig krisesituation
+393,en,da,,,global outbreak,globalt udbrud
+394,en,da,,,global pandemic,global pandemi
+396,en,da,,,hand sanitizer,hånddesinfektion
+397,en,da,,,hand sanitizer dispenser,dispenser til hånddesinfektion
+398,en,da,,,hand sanitizer gel,hånddesinfektionsgel
+399,en,da,,,hand sanitizer spray,hånddesinfektionsspray
+403,en,da,,,home isolation,hjemmeisolation
+404,en,da,,,home quarantine,hjemmekarantæne
+410,en,da,,,illness,sygdom
+415,en,da,,,incubation period,inkubationsperiode
+418,en,da,,,infected,inficeret
+424,en,da,,,instant hand sanitizer,effektiv hånddesinfektion
+425,en,da,,,international spread,international spredning
+426,en,da,,,international travel,internationale rejser
+427,en,da,,,isolation,isolation
+428,en,da,,,isolation period,isolationsperiode
+430,en,da,,,isolation room,isolationsrum
+431,en,da,,,isolation valve,isolationsforanstaltning
+432,en,da,,,isolation ward,isolationsafdeling
+434,en,da,,,lockdown,nedlukning
+438,en,da,,,major outbreak,større udbrud
+439,en,da,,,mandatory quarantine,tvungen karantæne
+440,en,da,,,mass gathering,store menneskemængder
+444,en,da,,,medicine,medicin
+445,en,da,,,medicines,lægemidler
+448,en,da,,,n95,n95
+449,en,da,,,n95 mask,n95-maske
+450,en,da,,,n95 respirator,n95-respirator
+451,en,da,,,ncov,ncov
+452,en,da,,,ncov-2019,ncov-2019
+453,en,da,,,new coronavirus,ny coronavirus
+454,en,da,,,new coronavirus pneumonia,lungebetændelse på grund af ny coronavirus
+460,en,da,,,novel coronavirus,ny coronavirus
+462,en,da,,,novel coronavirus infection,infektion med ny coronavirus
+463,en,da,,,novel coronavirus outbreak,udbrud af ny coronavirus
+464,en,da,,,novel coronavirus pneumonia,lungebetændelse på grund af ny coronavirus
+470,en,da,,,ongoing outbreak,igangværende udbrud
+472,en,da,,,outbreak,udbrud
+474,en,da,,,outbreak of coronavirus,udbrud af coronavirus
+475,en,da,,,outbreak of disease,udbrud af sygdom
+482,en,da,,,pandemic,pandemi
+485,en,da,,,pandemic influenza,influenzapandemi
+486,en,da,,,pandemic outbreak,pandemiudbrud
+487,en,da,,,pandemic plan,pandemiplan
+488,en,da,,,pandemic potential,pandemipotentiale
+495,en,da,,,pneumonia,lungebetændelse
+496,en,da,,,pneumonia epidemic,epidemi af lungebetændelse
+497,en,da,,,potential exposure,potentiel eksponering
+498,en,da,,,precautions,forholdsregler
+499,en,da,,,prevent virus,forebyg virus
+500,en,da,,,prolonged exposure,langvarig eksponering
+504,en,da,,,quarantine,karantæne
+505,en,da,,,quarantine area,karantæneområde
+506,en,da,,,quarantine facility,karantænefacilitet
+507,en,da,,,quarantine measures,karantæneforholdsregler
+508,en,da,,,quarantine period,karantæneperiode
+509,en,da,,,quarantine room,karantænerum
+510,en,da,,,quarantine zone,karantænezone
+512,en,da,,,Recovered coronavirus patient,Raskmeldt coronaviruspatient
+514,en,da,,,repatriate,hjemsender
+515,en,da,,,repeated exposure,gentaget eksponering
+516,en,da,,,respiratory syncytial virus,respiratorisk syncytialvirus
+517,en,da,,,respiratory virus,respiratorisk virus
+519,en,da,,,Sanitizing hand sanitizer,Desinficerende hånddesinfektion
+520,en,da,,,SARS-CoV-2,SARS-CoV-2
+521,en,da,,,self isolation,selvisolation
+522,en,da,,,self quarantine,selvkarantæne
+523,en,da,,,Severe outbreak,Alvorligt udbrud
+525,en,da,,,social distancing,social afstand
+526,en,da,,,social distancing measures,forholdsregler til social afstand
+527,en,da,,,social isolation,social isolation
+528,en,da,,,SOS Alert,SOS-advarsel
+529,en,da,,,spread,spredning
+530,en,da,,,spread of coronavirus,spredning af coronavirus
+531,en,da,,,spread of virus,spredning af virus
+535,en,da,,,strain of virus,virusstamme
+541,en,da,,,the incubation period,inkubationsperioden
+544,en,da,,,the novel coronavirus,den nye coronavirus
+558,en,da,,,touching face,berøring af ansigt
+559,en,da,,,travel advisory,rejsevejledning
+560,en,da,,,travel ban,rejseforbud
+561,en,da,,,travel restrictions,rejsebegrænsninger
+565,en,da,,,use hand sanitizer,brug hånddesinfektion
+566,en,da,,,vaccines,vacciner
+567,en,da,,,viral outbreak,viralt udbrud
+568,en,da,,,virtual lockdown,virtuel nedlukning
+569,en,da,,,virus,virus
+570,en,da,,,virus carrier,virusbærer
+573,en,da,,,virus infection,virusinfektion
+575,en,da,,,virus mask,virusmaske
+576,en,da,,,virus outbreak,virusudbrud
+577,en,da,,,virus prevention,virusforebyggelse
+578,en,da,,,virus protection,virusbeskyttelse
+580,en,da,,,virus spread,virusspredning
+582,en,da,,,virus spreads,virusspredninger
+583,en,da,,,virus strain,virusstamme
+584,en,da,,,virus transmission,virusoverførsel
+586,en,da,,,wash your hands,vask hænder
+587,en,da,,,washing hands,vask af hænder
+589,en,da,,,WHO,WHO
+590,en,da,,,WHO Confirmed,Bekræftet af WHO
+591,en,da,,,WHO Deaths,Dødsfald ifølge WHO
+592,en,da,,,widespread outbreak,omfattende udbrud
+597,en,da,,,World Health Organization,Verdenssundhedsorganisationen
+600,en,da,,,zoonotic disease,zoonotisk sygdom
+601,en,da,,,zoonotic virus,zoonotisk virus

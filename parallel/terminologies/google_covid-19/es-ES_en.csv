@@ -1,0 +1,51 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+xx_251,es-ES,en,,,fase de ralentización,delay phase
+xx_252,es-ES,en,,,pico de la curva,peak of the curve
+xx_253,es-ES,en,,,curva de casos y muertes,infection and death curve
+xx_254,es-ES,en,,,aplanar la curva,flatten the curve
+xx_255,es-ES,en,,,crecimiento exponencial,exponential growth
+xx_256,es-ES,en,,,contagio supermercado,supermarket contagion
+xx_257,es-ES,en,,,distancia de seguridad,safety distance
+xx_258,es-ES,en,,,distanciamiento social,social distancing
+xx_259,es-ES,en,,,confinamiento,lockdown
+xx_260,es-ES,en,,,estado de alarma,state of alarm
+xx_261,es-ES,en,,,documentos técnicos para profesionales,technical documents for professionals
+xx_262,es-ES,en,,,aislamiento domiciliario,home isolation
+xx_263,es-ES,en,,,medidas económicas y sociales,economic and social measures
+xx_264,es-ES,en,,,salud pública,public health
+xx_265,es-ES,en,,,atención médica,medical attention
+xx_266,es-ES,en,,,líneas de teléfono,telephone lines
+xx_267,es-ES,en,,,medidas de emergencia,emergency measures
+xx_268,es-ES,en,,,suministros y equipos,supplies and equipment
+xx_269,es-ES,en,,,autoevaluación del COVID-19,COVID-19 self-assessment
+xx_270,es-ES,en,,,teletrabajo,telecommuting
+xx_271,es-ES,en,,,propagación del COVID-19,spread of COVID-19
+xx_272,es-ES,en,,,recomendaciones para pacientes,patient recommendations
+xx_273,es-ES,en,,,síndromes respiratorios agudos,acute respiratory disorders
+xx_274,es-ES,en,,,riesgo de infectarse,risk of infection
+xx_275,es-ES,en,,,dolor de garganta,sore throat
+xx_276,es-ES,en,,,tos,cough
+xx_277,es-ES,en,,,fiebre,fever
+xx_278,es-ES,en,,,falta de aire,shortness of breath
+xx_279,es-ES,en,,,cansancio,fatigue
+xx_280,es-ES,en,,,test de coronavirus,corona virus test
+xx_281,es-ES,en,,,restricciones de viaje,travel restriction
+xx_282,es-ES,en,,,cancelaciones de viajes,cancelation of trips
+xx_283,es-ES,en,,,fuerza mayor,Force Majeure
+xx_284,es-ES,en,,,reembolso de las reservas,booking refund
+xx_285,es-ES,en,,,suspensión de vuelos,suspension of flights
+xx_286,es-ES,en,,,gastos de cancelación,cancellation fees
+xx_287,es-ES,en,,,recomendaciones de viaje,travel recommendations
+xx_288,es-ES,en,,,viajar a los países infectados,travel to infected countries
+xx_289,es-ES,en,,,medidas preventivas para viajeros,preventive measures for travelers
+xx_290,es-ES,en,,,zona de riesgo,area of risk
+xx_291,es-ES,en,,,transmisión entre humanos,transmission between humans
+xx_292,es-ES,en,,,manejo clínico,clinical management
+xx_293,es-ES,en,,,impacto macroeconómico,macroeconomic impact
+xx_294,es-ES,en,,,uso de ibuprofeno,ibuprofen use
+xx_295,es-ES,en,,,impacto en salud global,impact on global health
+xx_296,es-ES,en,,,características de los pacientes,characteristics of the patients
+xx_297,es-ES,en,,,causante de la pandemia,cause of the pandemic
+xx_298,es-ES,en,,,anticuerpos,antibodies
+xx_299,es-ES,en,,,trabajadores sanitarios,healthcare workers
+xx_300,es-ES,en,,,vigilancia epidemiológica,epidemiological surveillance

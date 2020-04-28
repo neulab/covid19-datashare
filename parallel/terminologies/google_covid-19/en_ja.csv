@@ -1,0 +1,314 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,ja,,,14 days in isolation,14日間の隔離
+26,en,ja,,,14 days quarantine,14日間の隔離
+27,en,ja,,,2019 coronavirus,2019 コロナウイルス
+28,en,ja,,,2019 novel coronavirus,2019年新型コロナウイルス
+29,en,ja,,,2019-nCoV,2019-nCoV
+30,en,ja,,,2020 coronavirus,2020 コロナウイルス
+31,en,ja,,,2020 novel coronavirus,2020年新型コロナウイルス
+33,en,ja,,,about coronavirus,コロナウイルスについて
+39,en,ja,,,acute respiratory distress syndrome,急性呼吸促拍症候群
+40,en,ja,,,advanced hand sanitizer,強力な手指消毒剤
+41,en,ja,,,Affected by coronavirus,コロナウイルスの影響
+42,en,ja,,,after exposure,曝露後
+43,en,ja,,,After the epidemic,エピデミックの後
+44,en,ja,,,After the outbreak,アウトブレイクの後
+47,en,ja,,,airborne virus,空中伝播ウイルス
+48,en,ja,,,alcohol based hand sanitizer,アルコールベースの手指消毒剤
+49,en,ja,,,alcohol hand sanitizer,アルコール手指消毒剤
+51,en,ja,,,alcohol-based hand sanitizer,アルコールベースの手指消毒剤
+59,en,ja,,,Anti-Corona virus spray,抗コロナウイルススプレー
+60,en,ja,,,antibacterial hand sanitizer,抗菌手指消毒剤
+61,en,ja,,,ARDS,ARDS
+64,en,ja,,,avoid exposure,曝露を避ける
+65,en,ja,,,be infected,感染した
+75,en,ja,,,Beware of coronavirus,コロナウイルスに注意する
+76,en,ja,,,bilateral interstitial pneumonia,間質性肺炎
+77,en,ja,,,CDC,CDC
+78,en,ja,,,Center for Disease Control,アメリカ疾病予防管理センター
+83,en,ja,,,community spread,コミュニティへの拡大
+84,en,ja,,,compulsory quarantine,強制隔離
+85,en,ja,,,contagious,伝染性
+135,en,ja,,,coronavirus,コロナウイルス
+136,en,ja,,,coronavirus (COVID-19),コロナウイルス（COVID-19）
+137,en,ja,,,coronavirus alert,コロナウイルス アラート
+139,en,ja,,,coronavirus cases,コロナウイルス 事例
+141,en,ja,,,coronavirus concerns,コロナウイルス 懸念事項
+143,en,ja,,,coronavirus crisis,コロナウイルス 危機
+149,en,ja,,,coronavirus disease,コロナウイルス 病気
+150,en,ja,,,Coronavirus disease (COVID-19) outbreak,コロナウイルス感染症（COVID-19）のアウトブレイク
+153,en,ja,,,coronavirus early symptoms,コロナウイルス 初期症状
+155,en,ja,,,coronavirus epidemic,コロナウイルス エピデミック
+156,en,ja,,,coronavirus exposure,コロナウイルス 曝露
+161,en,ja,,,coronavirus incubation,コロナウイルス 潜伏
+162,en,ja,,,coronavirus incubation period,コロナウイルス 潜伏期間
+163,en,ja,,,coronavirus infection,コロナウイルス 感染
+168,en,ja,,,coronavirus map,コロナウイルス マップ
+170,en,ja,,,coronavirus medicine,コロナウイルス 薬
+171,en,ja,,,coronavirus medicines,コロナウイルス 薬
+172,en,ja,,,coronavirus news,コロナウイルス ニュース
+173,en,ja,,,coronavirus outbreak,コロナウイルス アウトブレイク
+174,en,ja,,,coronavirus pandemic,コロナウイルス パンデミック
+176,en,ja,,,coronavirus pneumonia,コロナウイルス 肺炎
+177,en,ja,,,coronavirus precautions,コロナウイルス 予防
+178,en,ja,,,coronavirus prevention,コロナウイロス 防止
+179,en,ja,,,coronavirus protection,コロナウイルス 防止
+180,en,ja,,,coronavirus quarantine,コロナウイルス 検疫
+182,en,ja,,,coronavirus SOS Alert,コロナウイルス SOSアラート
+183,en,ja,,,coronavirus spread,コロナウイルス 拡大
+184,en,ja,,,coronavirus symptoms,コロナウイルス 症状
+185,en,ja,,,coronavirus transmission,コロナウイルス 伝染
+186,en,ja,,,coronavirus travel ban,コロナウイルス 渡航禁止
+187,en,ja,,,coronavirus travel restrictions,コロナウイルス 渡航制限
+188,en,ja,,,coronavirus treatment,コロナウイルス 治療
+190,en,ja,,,coronavirus update,コロナウイルス 最新情報
+191,en,ja,,,coronavirus vaccine,コロナウイルス ワクチン
+192,en,ja,,,coronavirus vaccines,コロナウイルス ワクチン
+198,en,ja,,,covid cases,COVID 事例
+205,en,ja,,,covid early symptoms,COVID 初期症状
+213,en,ja,,,covid incubation period,COVID 潜伏期間
+215,en,ja,,,covid international spread,COVID 世界的な拡大
+216,en,ja,,,covid international travel,COVID 国外旅行
+217,en,ja,,,covid isolation,COVID 隔離
+219,en,ja,,,covid map,COVID マップ
+220,en,ja,,,covid medicine,COVID 薬
+221,en,ja,,,covid medicines,COVID 薬
+222,en,ja,,,covid news,COVID ニュース
+223,en,ja,,,covid outbreak,COVID アウトブレイク
+224,en,ja,,,covid pandemic,COVID パンデミック
+225,en,ja,,,covid panic,COVID パニック
+228,en,ja,,,covid SOS Alert,COVID SOSアラート
+230,en,ja,,,covid symptoms,COVID 症状
+231,en,ja,,,covid transmission,COVID 伝染
+232,en,ja,,,covid travel ban,COVID 渡航禁止
+233,en,ja,,,covid travel restrictions,COVID 渡航制限
+234,en,ja,,,covid treatment,COVID 治療
+236,en,ja,,,covid vaccine,COVID ワクチン
+237,en,ja,,,covid vaccines,COVID ワクチン
+242,en,ja,,,covid-19,COVID-19
+243,en,ja,,,covid-19 alert,COVID-19 アラート
+244,en,ja,,,covid-19 cases,COVID-19 事例
+245,en,ja,,,covid-19 CDC,COVID-19 CDC
+246,en,ja,,,covid-19 contagious,COVID-19 伝染性
+247,en,ja,,,covid-19 cure,COVID-19 治療
+248,en,ja,,,covid-19 dangerous,COVID-19 危険性
+249,en,ja,,,covid-19 deadly,COVID-19 致死率
+250,en,ja,,,covid-19 death,COVID-19 死亡
+251,en,ja,,,covid-19 deaths,COVID-19 死亡者数
+252,en,ja,,,covid-19 domestic travel,COVID-19 国内旅行
+253,en,ja,,,covid-19 early symptoms,COVID-19 初期症状
+254,en,ja,,,covid-19 effects,COVID-19 影響
+255,en,ja,,,covid-19 epidemic,COVID-19 エピデミック
+256,en,ja,,,covid-19 exposure,COVID-19 曝露
+257,en,ja,,,covid-19 fatal,COVID-19 致死率
+258,en,ja,,,covid-19 fever,COVID-19 熱
+259,en,ja,,,covid-19 illness,COVID-19 病気
+260,en,ja,,,covid-19 incubation,COVID-19 潜伏
+261,en,ja,,,covid-19 incubation period,COVID-19 潜伏期間
+262,en,ja,,,covid-19 infection,COVID-19 感染
+263,en,ja,,,covid-19 international spread,COVID-19 世界的な拡大
+264,en,ja,,,covid-19 international travel,COVID-19 国外旅行
+265,en,ja,,,covid-19 isolation,COVID-19 隔離
+266,en,ja,,,covid-19 lockdown,COVID-19 封鎖
+267,en,ja,,,covid-19 map,COVID-19 マップ
+268,en,ja,,,covid-19 medicine,COVID-19 薬
+269,en,ja,,,covid-19 medicines,COVID-19 薬
+270,en,ja,,,covid-19 news,COVID-19 ニュース
+271,en,ja,,,covid-19 outbreak,COVID-19 アウトブレイク
+272,en,ja,,,covid-19 pandemic,COVID-19 パンデミック
+273,en,ja,,,covid-19 panic,COVID-19 パニック
+275,en,ja,,,covid-19 precautions,COVID-19 予防
+276,en,ja,,,covid-19 protection,COVID-19 防止
+277,en,ja,,,covid-19 quarantine,COVID-19 検疫
+278,en,ja,,,covid-19 SOS Alert,COVID-19 SOSアラート
+279,en,ja,,,covid-19 spread,COVID-19 拡大
+280,en,ja,,,covid-19 symptoms,COVID-19 症状
+281,en,ja,,,covid-19 transmission,COVID-19 感染
+282,en,ja,,,covid-19 travel ban,COVID-19 渡航禁止
+283,en,ja,,,covid-19 travel restrictions,COVID-19 渡航制限
+284,en,ja,,,covid-19 treatment,COVID-19 治療
+285,en,ja,,,covid-19 uncontrolled spread,COVID-19 コントロールできない拡大
+286,en,ja,,,covid-19 vaccine,COVID-19 ワクチン
+287,en,ja,,,covid-19 vaccines,COVID-19 ワクチン
+288,en,ja,,,COVID-19 virus,COVID-19 ウイルス
+289,en,ja,,,covid-19 virus outbreak,COVID-19 ウイルス アウトブレイク
+290,en,ja,,,covid-19 virus transmission,COVID-19 ウイルス感染
+291,en,ja,,,covid-19 WHO,COVID-19 WHO
+292,en,ja,,,covid19,COVID19
+293,en,ja,,,covid19 alert,COVID19 アラート
+294,en,ja,,,covid19 cases,COVID19 事例
+295,en,ja,,,covid19 CDC,COVID19 CDC
+301,en,ja,,,covid19 deaths,COVID19 死亡者数
+302,en,ja,,,covid19 domestic travel,COVID19 国内旅行
+303,en,ja,,,covid19 effects,COVID19 影響
+304,en,ja,,,covid19 epidemic,COVID19 エピデミック
+305,en,ja,,,covid19 exposure,COVID19 曝露
+306,en,ja,,,covid19 fatal,COVID19 致死率
+307,en,ja,,,covid19 fever,COVID19 熱
+308,en,ja,,,covid19 illness,COVID19 病気
+309,en,ja,,,covid19 incubation,COVID19 潜伏
+310,en,ja,,,covid19 incubation period,COVID19 潜伏期間
+311,en,ja,,,covid19 infection,COVID19 感染
+312,en,ja,,,covid19 international spread,COVID19 世界的な拡大
+313,en,ja,,,covid19 international travel,COVID19 国外旅行
+314,en,ja,,,covid19 isolation,COVID19 隔離
+315,en,ja,,,covid19 lockdown,COVID19 封鎖
+316,en,ja,,,covid19 map,COVID19 マップ
+317,en,ja,,,covid19 medicine,COVID19 薬
+318,en,ja,,,covid19 medicines,COVID19 薬
+319,en,ja,,,covid19 news,COVID19 ニュース
+320,en,ja,,,covid19 outbreak,COVID19 アウトブレイク
+321,en,ja,,,covid19 pandemic,COVID19 パンデミック
+324,en,ja,,,covid19 precautions,COVID19 予防
+325,en,ja,,,covid19 protection,COVID19 防止
+326,en,ja,,,covid19 quarantine,COVID19 検疫
+327,en,ja,,,covid19 SOS Alert,COVID19 SOSアラート
+328,en,ja,,,covid19 spread,COVID19 拡大
+329,en,ja,,,covid19 symptoms,COVID19 症状
+330,en,ja,,,covid19 transmission,COVID19 伝染
+331,en,ja,,,covid19 travel ban,COVID19 渡航禁止
+332,en,ja,,,covid19 travel restrictions,COVID19 渡航制限
+333,en,ja,,,covid19 treatment,COVID19 治療
+335,en,ja,,,covid19 vaccine,COVID19 ワクチン
+336,en,ja,,,covid19 vaccines,COVID19 ワクチン
+337,en,ja,,,covid19 virus,COVID19 ウイルス
+338,en,ja,,,covid19 virus outbreak,COVID19 ウイルス アウトブレイク
+339,en,ja,,,covid19 virus transmission,COVID19 ウイルス感染
+342,en,ja,,,current outbreak,現在のアウトブレイク
+343,en,ja,,,deadly outbreak,致死的なアウトブレイク
+345,en,ja,,,disease outbreak,病気 アウトブレイク
+346,en,ja,,,Disposable hand sanitizer,使い捨て手指消毒剤
+348,en,ja,,,domestic travel,国内旅行
+351,en,ja,,,droplets,飛沫
+357,en,ja,,,Effects of coronavirus,コロナウイルスの影響
+359,en,ja,,,epidemic,エピデミック
+360,en,ja,,,epidemic and pandemic,エピデミックとパンデミック
+362,en,ja,,,epidemic disease,流行病
+364,en,ja,,,epidemic outbreak,エピデミック アウトブレイク
+365,en,ja,,,epidemic period,エピデミック 期間
+366,en,ja,,,epidemic prevention,エピデミック 防止
+368,en,ja,,,epidemic season,流行する季節
+369,en,ja,,,epidemic situation,流行状況
+371,en,ja,,,exposure,曝露
+375,en,ja,,,exposure time,曝露時間
+379,en,ja,,,fever,熱
+380,en,ja,,,fight the virus,ウイルスと戦う
+381,en,ja,,,Fighting the outbreak,アウトブレイクとの戦い
+382,en,ja,,,flu epidemic,インフルエンザ エピデミック
+385,en,ja,,,fomites,媒介
+392,en,ja,,,global health emergency,国際的な公衆衛生の緊急事態
+393,en,ja,,,global outbreak,世界的なアウトブレイク
+394,en,ja,,,global pandemic,世界的なパンデミック
+396,en,ja,,,hand sanitizer,手指消毒剤
+397,en,ja,,,hand sanitizer dispenser,手指消毒剤ディスペンサー
+398,en,ja,,,hand sanitizer gel,手指消毒ジェル
+399,en,ja,,,hand sanitizer spray,手指消毒スプレー
+401,en,ja,,,Hepatitis B virus,B型肝炎ウイルス
+402,en,ja,,,herpes simplex virus,単純ヘルペスウイルス
+403,en,ja,,,home isolation,自宅隔離
+404,en,ja,,,home quarantine,自宅検疫
+410,en,ja,,,illness,病気
+415,en,ja,,,incubation period,潜伏期間
+418,en,ja,,,infected,感染した
+424,en,ja,,,instant hand sanitizer,簡易手指消毒剤
+425,en,ja,,,international spread,国際的な拡大
+426,en,ja,,,international travel,国外旅行
+427,en,ja,,,isolation,隔離
+428,en,ja,,,isolation period,隔離期間
+430,en,ja,,,isolation room,隔離室
+431,en,ja,,,isolation valve,遮断弁
+432,en,ja,,,isolation ward,遮断壁
+434,en,ja,,,lockdown,封鎖
+436,en,ja,,,long exposure,長期露出
+438,en,ja,,,major outbreak,大規模なアウトブレイク
+439,en,ja,,,mandatory quarantine,強制検疫
+440,en,ja,,,mass gathering,大規模集会
+444,en,ja,,,medicine,薬
+445,en,ja,,,medicines,薬
+447,en,ja,,,mumps virus,おたふく風邪ウイルス
+448,en,ja,,,n95,n95
+449,en,ja,,,n95 mask,n95のマスク
+450,en,ja,,,n95 respirator,n95のマスク
+451,en,ja,,,ncov,ncov
+452,en,ja,,,ncov-2019,ncov-2019
+453,en,ja,,,new coronavirus,新型コロナウイルス
+454,en,ja,,,new coronavirus pneumonia,新型コロナウイルス 肺炎
+460,en,ja,,,novel coronavirus,新型コロナウイルス
+462,en,ja,,,novel coronavirus infection,新型コロナウイルス感染
+463,en,ja,,,novel coronavirus outbreak,新型コロナウイルス アウトブレイク
+464,en,ja,,,novel coronavirus pneumonia,新型コロナウイルス 肺炎
+470,en,ja,,,ongoing outbreak,継続的なアウトブレイク
+472,en,ja,,,outbreak,アウトブレイク
+474,en,ja,,,outbreak of coronavirus,コロナウイルスのアウトブレイク
+475,en,ja,,,outbreak of disease,病気のアウトブレイク
+482,en,ja,,,pandemic,パンデミック
+485,en,ja,,,pandemic influenza,パンデミック インフルエンザ
+486,en,ja,,,pandemic outbreak,パンデミック アウトブレイク
+487,en,ja,,,pandemic plan,パンデミック対策
+488,en,ja,,,pandemic potential,パンデミックの可能性
+495,en,ja,,,pneumonia,肺炎
+496,en,ja,,,pneumonia epidemic,肺炎の流行
+497,en,ja,,,potential exposure,曝露の可能性
+498,en,ja,,,precautions,予防
+499,en,ja,,,prevent virus,予防ウイルス
+500,en,ja,,,prolonged exposure,長期曝露
+501,en,ja,,,public exposure,人との接触
+502,en,ja,,,purell hand sanitizer,ピュレルの手指消毒剤
+504,en,ja,,,quarantine,検疫
+505,en,ja,,,quarantine area,隔離地域
+506,en,ja,,,quarantine facility,隔離施設
+507,en,ja,,,quarantine measures,隔離方法
+508,en,ja,,,quarantine period,隔離期間
+509,en,ja,,,quarantine room,隔離部屋
+510,en,ja,,,quarantine zone,隔離地域
+512,en,ja,,,Recovered coronavirus patient,回復したコロナウイルスの患者
+514,en,ja,,,repatriate,送還
+515,en,ja,,,repeated exposure,度重なる露出
+516,en,ja,,,respiratory syncytial virus,RSウイルス
+517,en,ja,,,respiratory virus,呼吸器ウイルス
+518,en,ja,,,risk exposure,リスクエクスポージャー
+519,en,ja,,,Sanitizing hand sanitizer,手指消毒剤による消毒
+520,en,ja,,,SARS-CoV-2,SARS-CoV-2
+521,en,ja,,,self isolation,自己隔離
+522,en,ja,,,self quarantine,自己検疫
+523,en,ja,,,Severe outbreak,深刻なアウトブレイク
+525,en,ja,,,social distancing,人混みを避ける
+526,en,ja,,,social distancing measures,人混みを避ける措置
+527,en,ja,,,social isolation,社会的孤立
+528,en,ja,,,SOS Alert,SOSアラート
+529,en,ja,,,spread,拡大
+530,en,ja,,,spread of coronavirus,コロナウイルスの拡散
+531,en,ja,,,spread of virus,ウイルスの拡散
+534,en,ja,,,stomach virus,ウイルス性腹痛
+535,en,ja,,,strain of virus,ウイルス
+536,en,ja,,,sun exposure,太陽に当たる
+541,en,ja,,,the incubation period,潜伏期間
+544,en,ja,,,the novel coronavirus,新型コロナウイルス
+558,en,ja,,,touching face,顔を触る
+559,en,ja,,,travel advisory,渡航自粛勧告
+560,en,ja,,,travel ban,渡航禁止
+561,en,ja,,,travel restrictions,渡航制限
+565,en,ja,,,use hand sanitizer,手指消毒剤を使う
+566,en,ja,,,vaccines,ワクチン
+567,en,ja,,,viral outbreak,ウイルス アウトブレイク
+568,en,ja,,,virtual lockdown,事実上の閉鎖
+569,en,ja,,,virus,ウイルス
+570,en,ja,,,virus carrier,ウイルスキャリア
+573,en,ja,,,virus infection,ウイルス 感染
+575,en,ja,,,virus mask,ウイルス マスク
+576,en,ja,,,virus outbreak,ウイルス アウトブレイク
+577,en,ja,,,virus prevention,ウイルス 予防
+578,en,ja,,,virus protection,ウイルス 防止
+580,en,ja,,,virus spread,ウイルス 拡散
+582,en,ja,,,virus spreads,ウイルス 拡散
+583,en,ja,,,virus strain,ウイルス
+584,en,ja,,,virus transmission,ウイルス感染
+586,en,ja,,,wash your hands,手を洗う
+587,en,ja,,,washing hands,手を洗う
+589,en,ja,,,WHO,WHO
+590,en,ja,,,WHO Confirmed,WHO確認済み
+591,en,ja,,,WHO Deaths,WHO 死亡者数
+592,en,ja,,,widespread outbreak,広範囲に及ぶアウトブレイク
+597,en,ja,,,World Health Organization,世界保健機構
+600,en,ja,,,zoonotic disease,人獣共通感染症
+601,en,ja,,,zoonotic virus,人獣共通ウイルス

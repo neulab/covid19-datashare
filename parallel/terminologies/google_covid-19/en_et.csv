@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,et,,,14 days in isolation,13 päeva isolatsioonis
+26,en,et,,,14 days quarantine,14-päevane karantiin
+27,en,et,,,2019 coronavirus,2019 koroonaviirus
+28,en,et,,,2019 novel coronavirus,2019 uus koroonaviirus
+29,en,et,,,2019-nCoV,2019-nCoV
+30,en,et,,,2020 coronavirus,2020 koroonaviirus
+31,en,et,,,2020 novel coronavirus,2020 uus koroonaviirus
+33,en,et,,,about coronavirus,koroonaviiruse info
+39,en,et,,,acute respiratory distress syndrome,ägeda respiratoorse distressi sündroom
+40,en,et,,,advanced hand sanitizer,täiustatud käte desinfitseerija
+41,en,et,,,Affected by coronavirus,Koroonaviiruse poolt mõjutatud
+42,en,et,,,after exposure,pärast kokkupuudet
+43,en,et,,,After the epidemic,Pärast epideemiat
+44,en,et,,,After the outbreak,Pärast haiguspuhangut
+47,en,et,,,airborne virus,õhu kaudu leviv viirus
+48,en,et,,,alcohol based hand sanitizer,alkoholipõhine käte desinfitseerija
+49,en,et,,,alcohol hand sanitizer,alkoholiga käte desinfitseerija
+51,en,et,,,alcohol-based hand sanitizer,alkoholipõhine käte desinfitseerija
+59,en,et,,,Anti-Corona virus spray,Koroonaviirusevastane pihusti
+60,en,et,,,antibacterial hand sanitizer,antibakteriaalne käte desinfitseerija
+61,en,et,,,ARDS,ARDS
+64,en,et,,,avoid exposure,väldi kokkupuudet
+65,en,et,,,be infected,nakatunud olema
+75,en,et,,,Beware of coronavirus,Hoidu koroonaviirusest
+76,en,et,,,bilateral interstitial pneumonia,kahepoolne interstitsiaalne kopsupõletik
+77,en,et,,,CDC,CDC
+78,en,et,,,Center for Disease Control,Haiguste kontrolli keskus
+83,en,et,,,community spread,kogukondlik levik
+84,en,et,,,compulsory quarantine,kohustuslik karantiin
+85,en,et,,,contagious,nakkav
+135,en,et,,,coronavirus,koroonaviirus
+136,en,et,,,coronavirus (COVID-19),koroonaviirus (COVID-19)
+137,en,et,,,coronavirus alert,koroonaviiruse häire
+139,en,et,,,coronavirus cases,koroonaviiruse juhtumid
+141,en,et,,,coronavirus concerns,koroonaviiruse mured
+143,en,et,,,coronavirus crisis,koroonaviiruse kriis
+149,en,et,,,coronavirus disease,koroonaviiruse haigus
+150,en,et,,,Coronavirus disease (COVID-19) outbreak,Koroonaviiruse haiguse (COVID-19) puhang
+153,en,et,,,coronavirus early symptoms,koroonaviiruse varajased sümptomid
+155,en,et,,,coronavirus epidemic,koroonaviiruse epideemia
+156,en,et,,,coronavirus exposure,koroonaviirusega kokkupuude
+161,en,et,,,coronavirus incubation,koroonaviiruse inkubatsioon
+162,en,et,,,coronavirus incubation period,koroonaviiruse inkubatsiooniperiood
+163,en,et,,,coronavirus infection,koroonaviiruse nakkus
+168,en,et,,,coronavirus map,koroonaviiruse kaart
+170,en,et,,,coronavirus medicine,koroonaviiruse ravim
+171,en,et,,,coronavirus medicines,koroonaviiruse ravimid
+172,en,et,,,coronavirus news,koroonaviiruse uudised
+173,en,et,,,coronavirus outbreak,koroonaviiruse puhang
+174,en,et,,,coronavirus pandemic,koroonaviiruse pandeemia
+176,en,et,,,coronavirus pneumonia,koroonaviiruse kopsupõletik
+177,en,et,,,coronavirus precautions,koroonaviiruse ettevaatusabinõud
+178,en,et,,,coronavirus prevention,koroonaviiruse ennetamine
+179,en,et,,,coronavirus protection,koroonaviiruse kaitse
+180,en,et,,,coronavirus quarantine,koroonaviiruse karantiin
+182,en,et,,,coronavirus SOS Alert,koroonaviiruse SOS häire
+183,en,et,,,coronavirus spread,koroonaviiruse levik
+184,en,et,,,coronavirus symptoms,koroonaviiruse sümptomid
+185,en,et,,,coronavirus transmission,koroonaviiruse levik
+186,en,et,,,coronavirus travel ban,koroonaviiruse reisikeeld
+187,en,et,,,coronavirus travel restrictions,koroonaviiruse reisipiirangud
+188,en,et,,,coronavirus treatment,koroonaviiruse ravi
+190,en,et,,,coronavirus update,koroonaviiruse uudis
+191,en,et,,,coronavirus vaccine,koroonaviiruse vaktsiin
+192,en,et,,,coronavirus vaccines,koroonaviiruse vaktsiinid
+198,en,et,,,covid cases,covid juhtumid
+205,en,et,,,covid early symptoms,covid varajased sümptomid
+213,en,et,,,covid incubation period,covid inkubatsiooniperiood
+215,en,et,,,covid international spread,covid rahvusvaheline levik
+216,en,et,,,covid international travel,covid rahvusvaheline reisimine
+217,en,et,,,covid isolation,covid isolatsioon
+219,en,et,,,covid map,covid kaart
+220,en,et,,,covid medicine,covid ravim
+221,en,et,,,covid medicines,covid ravimid
+222,en,et,,,covid news,covid uudised
+223,en,et,,,covid outbreak,covid puhang
+224,en,et,,,covid pandemic,covid pandeemia
+225,en,et,,,covid panic,covid paanika
+228,en,et,,,covid SOS Alert,covid SOS häire
+230,en,et,,,covid symptoms,covid sümptomid
+231,en,et,,,covid transmission,covid levik
+232,en,et,,,covid travel ban,covid reisikeeld
+233,en,et,,,covid travel restrictions,covid reisipiirangud
+234,en,et,,,covid treatment,covid ravi
+236,en,et,,,covid vaccine,covid vaktsiin
+237,en,et,,,covid vaccines,covid vaktsiinid
+242,en,et,,,covid-19,covid-19
+243,en,et,,,covid-19 alert,covid-19 häire
+244,en,et,,,covid-19 cases,covid-19 juhtumid
+245,en,et,,,covid-19 CDC,covid-19 CDC
+246,en,et,,,covid-19 contagious,covid-19 nakkav
+247,en,et,,,covid-19 cure,covid-19 ravi
+248,en,et,,,covid-19 dangerous,covid-19 ohtlik
+249,en,et,,,covid-19 deadly,covid-19 surmav
+250,en,et,,,covid-19 death,covid-19 surm
+251,en,et,,,covid-19 deaths,covid-19 surmad
+252,en,et,,,covid-19 domestic travel,covid-19 siseriiklik reisimine
+253,en,et,,,covid-19 early symptoms,covid-19 varajased sümptomid
+254,en,et,,,covid-19 effects,covid-19 mõjud
+255,en,et,,,covid-19 epidemic,covid-19 epideemia
+256,en,et,,,covid-19 exposure,covid-19 kokkupuude
+257,en,et,,,covid-19 fatal,covid-19 surmav
+258,en,et,,,covid-19 fever,covid-19 palavik
+259,en,et,,,covid-19 illness,covid-19 haigus
+260,en,et,,,covid-19 incubation,covid-19 inkubatsioon
+261,en,et,,,covid-19 incubation period,covid-19 inkubatsiooniperiood
+262,en,et,,,covid-19 infection,covid-19 nakkus
+263,en,et,,,covid-19 international spread,covid-19 rahvusvaheline levik
+264,en,et,,,covid-19 international travel,covid-19 rahvusvaheline reisimine
+265,en,et,,,covid-19 isolation,covid-19 isolatsioon
+266,en,et,,,covid-19 lockdown,covid-19 täielik sulgemine
+267,en,et,,,covid-19 map,covid-19 kaart
+268,en,et,,,covid-19 medicine,covid-19 ravim
+269,en,et,,,covid-19 medicines,covid-19 ravimid
+270,en,et,,,covid-19 news,covid-19 uudised
+271,en,et,,,covid-19 outbreak,covid-19 puhang
+272,en,et,,,covid-19 pandemic,covid-19 pandeemia
+273,en,et,,,covid-19 panic,covid-19 paanika
+275,en,et,,,covid-19 precautions,covid-19 ettevaatusabinõud
+276,en,et,,,covid-19 protection,covid-19 kaitse
+277,en,et,,,covid-19 quarantine,covid-19 karantiin
+278,en,et,,,covid-19 SOS Alert,covid-19 SOS häire
+279,en,et,,,covid-19 spread,covid-19 levik
+280,en,et,,,covid-19 symptoms,covid-19 sümptomid
+281,en,et,,,covid-19 transmission,covid-19 levik
+282,en,et,,,covid-19 travel ban,covid-19 reisikeeld
+283,en,et,,,covid-19 travel restrictions,covid-19 reisipiirangud
+284,en,et,,,covid-19 treatment,covid-19 ravi
+285,en,et,,,covid-19 uncontrolled spread,covid-19 kontrollimatu levik
+286,en,et,,,covid-19 vaccine,covid-19 vaktsiin
+287,en,et,,,covid-19 vaccines,covid-19 vaktsiinid
+288,en,et,,,COVID-19 virus,covid-19 viirus
+289,en,et,,,covid-19 virus outbreak,covid-19 viiruspuhang
+290,en,et,,,covid-19 virus transmission,covid-19 viiruse levik
+291,en,et,,,covid-19 WHO,covid-19 WHO
+292,en,et,,,covid19,covid19
+293,en,et,,,covid19 alert,covid19 häire
+294,en,et,,,covid19 cases,covid19 juhtumid
+295,en,et,,,covid19 CDC,covid19 CDC
+301,en,et,,,covid19 deaths,covid19 surmad
+302,en,et,,,covid19 domestic travel,covid19 siseriiklik reisimine
+303,en,et,,,covid19 effects,covid19 mõjud
+304,en,et,,,covid19 epidemic,covid19 epideemia
+305,en,et,,,covid19 exposure,covid19 kokkupuude
+306,en,et,,,covid19 fatal,covid19 surmav
+307,en,et,,,covid19 fever,covid19 palavik
+308,en,et,,,covid19 illness,covid19 haigus
+309,en,et,,,covid19 incubation,covid19 inkubatsioon
+310,en,et,,,covid19 incubation period,covid19 inkubatsiooniperiood
+311,en,et,,,covid19 infection,covid19 nakkus
+312,en,et,,,covid19 international spread,covid19 rahvusvaheline levik
+313,en,et,,,covid19 international travel,covid19 rahvusvaheline reisimine
+314,en,et,,,covid19 isolation,covid19 isolatsioon
+315,en,et,,,covid19 lockdown,covid19 täielik sulgemine
+316,en,et,,,covid19 map,covid19 kaart
+317,en,et,,,covid19 medicine,covid19 ravim
+318,en,et,,,covid19 medicines,covid19 ravimid
+319,en,et,,,covid19 news,covid19 uudised
+320,en,et,,,covid19 outbreak,covid19 puhang
+321,en,et,,,covid19 pandemic,covid19 pandeemia
+324,en,et,,,covid19 precautions,covid19 ettevaatusabinõud
+325,en,et,,,covid19 protection,covid19 kaitse
+326,en,et,,,covid19 quarantine,covid19 karantiin
+327,en,et,,,covid19 SOS Alert,covid19 SOS häire
+328,en,et,,,covid19 spread,covid19 levik
+329,en,et,,,covid19 symptoms,covid19 sümptomid
+330,en,et,,,covid19 transmission,covid19 levik
+331,en,et,,,covid19 travel ban,covid19 reisikeeld
+332,en,et,,,covid19 travel restrictions,covid19 reisipiirangud
+333,en,et,,,covid19 treatment,covid19 ravi
+335,en,et,,,covid19 vaccine,covid19 vaktsiin
+336,en,et,,,covid19 vaccines,covid19 vaktsiinid
+337,en,et,,,covid19 virus,covid19 viirus
+338,en,et,,,covid19 virus outbreak,covid19 viiruspuhang
+339,en,et,,,covid19 virus transmission,covid19 viiruse levik
+342,en,et,,,current outbreak,praegune haiguspuhang
+343,en,et,,,deadly outbreak,surmav haiguspuhang
+345,en,et,,,disease outbreak,haiguspuhang
+346,en,et,,,Disposable hand sanitizer,Ühekordne käte desinfitseerija
+348,en,et,,,domestic travel,siseriiklik reisimine
+351,en,et,,,droplets,piisad
+357,en,et,,,Effects of coronavirus,Koroonaviiruse mõjud
+359,en,et,,,epidemic,epideemia
+360,en,et,,,epidemic and pandemic,epideemia ja pandeemia
+362,en,et,,,epidemic disease,epideemiline haigus
+364,en,et,,,epidemic outbreak,epideemiapuhang
+365,en,et,,,epidemic period,epideemia periood
+366,en,et,,,epidemic prevention,epideemia ennetamine
+368,en,et,,,epidemic season,epideemia hooaeg
+369,en,et,,,epidemic situation,epideemiline olukord
+371,en,et,,,exposure,kokkupuude
+375,en,et,,,exposure time,kokkupuute aeg
+379,en,et,,,fever,palavik
+380,en,et,,,fight the virus,võitle viirusega
+381,en,et,,,Fighting the outbreak,Haiguspuhanguga võitlemine
+382,en,et,,,flu epidemic,gripiepideemia
+385,en,et,,,fomites,nakkuselevitajad
+392,en,et,,,global health emergency,globaalne tervisekriis
+393,en,et,,,global outbreak,globaalne haiguspuhang
+394,en,et,,,global pandemic,globaalne pandeemia
+396,en,et,,,hand sanitizer,käte desinfitseerimise vahend
+397,en,et,,,hand sanitizer dispenser,käte desinfitseerimisvahendi jaotur
+398,en,et,,,hand sanitizer gel,käte desinfitseerimise geel
+399,en,et,,,hand sanitizer spray,käte desinfitseerimise pihusti
+403,en,et,,,home isolation,kodune isolatsioon
+404,en,et,,,home quarantine,kodune karantiin
+410,en,et,,,illness,haigus
+415,en,et,,,incubation period,inkubatsiooniperiood
+418,en,et,,,infected,nakatunud
+424,en,et,,,instant hand sanitizer,kohene käte desinfitseerija
+425,en,et,,,international spread,rahvusvaheline levik
+426,en,et,,,international travel,rahvusvaheline reisimine
+427,en,et,,,isolation,isolatsioon
+428,en,et,,,isolation period,isolatsiooniperiood
+430,en,et,,,isolation room,isolatsioonituba
+431,en,et,,,isolation valve,isolatsiooniklapp
+432,en,et,,,isolation ward,isolatsiooniosakond
+434,en,et,,,lockdown,täielik sulgemine
+438,en,et,,,major outbreak,tõsine haiguspuhang
+439,en,et,,,mandatory quarantine,kohustuslik karantiin
+440,en,et,,,mass gathering,massikogunemine
+444,en,et,,,medicine,ravim
+445,en,et,,,medicines,ravimid
+448,en,et,,,n95,n95
+449,en,et,,,n95 mask,n95 mask
+450,en,et,,,n95 respirator,n95 respiraator
+451,en,et,,,ncov,ncov
+452,en,et,,,ncov-2019,ncov-2019
+453,en,et,,,new coronavirus,uus koroonaviirus
+454,en,et,,,new coronavirus pneumonia,uus koroonaviirus kopsupõletik
+460,en,et,,,novel coronavirus,uus koroonaviirus
+462,en,et,,,novel coronavirus infection,uue koroonaviiruse nakkus
+463,en,et,,,novel coronavirus outbreak,uue koroonaviiruse puhang
+464,en,et,,,novel coronavirus pneumonia,uus koroonaviirus kopsupõletik
+470,en,et,,,ongoing outbreak,käimasolev haiguspuhang
+472,en,et,,,outbreak,haiguspuhang
+474,en,et,,,outbreak of coronavirus,koroonaviiruse puhang
+475,en,et,,,outbreak of disease,haiguspuhang
+482,en,et,,,pandemic,pandeemia
+485,en,et,,,pandemic influenza,pandeemiline gripp
+486,en,et,,,pandemic outbreak,pandeemiline haiguspuhang
+487,en,et,,,pandemic plan,pandeemia plaan
+488,en,et,,,pandemic potential,pandeemia potentsiaal
+495,en,et,,,pneumonia,kopsupõletik
+496,en,et,,,pneumonia epidemic,kopsupõletiku epideemia
+497,en,et,,,potential exposure,potentsiaalne kokkupuude
+498,en,et,,,precautions,ettevaatusabinõud
+499,en,et,,,prevent virus,viiruse ennetamine
+500,en,et,,,prolonged exposure,pikaajaline kokkupuude
+504,en,et,,,quarantine,karantiin
+505,en,et,,,quarantine area,karantiiniala
+506,en,et,,,quarantine facility,karantiiniasutus
+507,en,et,,,quarantine measures,karantiinimeetmed
+508,en,et,,,quarantine period,karantiiniperiood
+509,en,et,,,quarantine room,karantiinituba
+510,en,et,,,quarantine zone,karantiinitsoon
+512,en,et,,,Recovered coronavirus patient,Tervenenud koroonaviirusega patsient
+514,en,et,,,repatriate,kodumaale naasma
+515,en,et,,,repeated exposure,korduv kokkupuude
+516,en,et,,,respiratory syncytial virus,respiratoorne sünsütiaalviirus
+517,en,et,,,respiratory virus,hingamisteede viirus
+519,en,et,,,Sanitizing hand sanitizer,Desinfitseeriv käte desinfitseerija
+520,en,et,,,SARS-CoV-2,SARS-CoV-2
+521,en,et,,,self isolation,eneseisolatsioon
+522,en,et,,,self quarantine,enesekarantiin
+523,en,et,,,Severe outbreak,Tõsine haiguspuhang
+525,en,et,,,social distancing,sotsiaalne distantseerumine
+526,en,et,,,social distancing measures,sotsiaalse distantseerumise meetmed
+527,en,et,,,social isolation,sotsiaalne isolatsioon
+528,en,et,,,SOS Alert,SOS häire
+529,en,et,,,spread,levik
+530,en,et,,,spread of coronavirus,koroonaviiruse levik
+531,en,et,,,spread of virus,viiruse levik
+535,en,et,,,strain of virus,viiruse tüvi
+541,en,et,,,the incubation period,inkubatsiooniperiood
+544,en,et,,,the novel coronavirus,uus koroonaviirus
+558,en,et,,,touching face,näo puudutamine
+559,en,et,,,travel advisory,reisinõuanded
+560,en,et,,,travel ban,reisikeeld
+561,en,et,,,travel restrictions,reisimise piirangud
+565,en,et,,,use hand sanitizer,kasuta käte desinfitseerimisvahendit
+566,en,et,,,vaccines,vaktsiinid
+567,en,et,,,viral outbreak,viiruslik haiguspuhang
+568,en,et,,,virtual lockdown,virtuaalne täielik sulgemine
+569,en,et,,,virus,viirus
+570,en,et,,,virus carrier,viirusekandja
+573,en,et,,,virus infection,viirusnakkus
+575,en,et,,,virus mask,viiruse mask
+576,en,et,,,virus outbreak,viiruspuhang
+577,en,et,,,virus prevention,viiruse ennetamine
+578,en,et,,,virus protection,viirusekaitse
+580,en,et,,,virus spread,viiruse levik
+582,en,et,,,virus spreads,viiruse levikud
+583,en,et,,,virus strain,viiruse tüvi
+584,en,et,,,virus transmission,viiruse levik
+586,en,et,,,wash your hands,peske käsi
+587,en,et,,,washing hands,käte pesemine
+589,en,et,,,WHO,WHO
+590,en,et,,,WHO Confirmed,WHO kinnitatud
+591,en,et,,,WHO Deaths,WHO surmad
+592,en,et,,,widespread outbreak,laiaulatuslik haiguspuhang
+597,en,et,,,World Health Organization,Maailma Terviseorganisatsioon
+600,en,et,,,zoonotic disease,zoonootiline haigus
+601,en,et,,,zoonotic virus,zoonootiline viirus

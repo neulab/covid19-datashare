@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,sm,,,14 days in isolation,14 aso e tu'ua to'atasi ai
+26,en,sm,,,14 days quarantine,14 aso fa'asu puipui
+27,en,sm,,,2019 coronavirus,2019 koronavairusi
+28,en,sm,,,2019 novel coronavirus,2019 koronavairusi fou
+29,en,sm,,,2019-nCoV,2009-nCoV
+30,en,sm,,,2020 coronavirus,2020 koronavairusi
+31,en,sm,,,2020 novel coronavirus,2020 koronavairusi fou
+33,en,sm,,,about coronavirus,e uiga i le koronavairusi
+39,en,sm,,,acute respiratory distress syndrome,manu'a o le mama
+40,en,sm,,,advanced hand sanitizer,vaila'au fufulu lima sili
+41,en,sm,,,Affected by coronavirus,Pisia i le koronavairusi
+42,en,sm,,,after exposure,uma ona a'afia
+43,en,sm,,,After the epidemic,Te'a le fa'ama'i pipisi i le atunu'u
+44,en,sm,,,After the outbreak,Te'a le fa'ama'i pepesi
+47,en,sm,,,airborne virus,vairusi feavea'i e le ea
+48,en,sm,,,alcohol based hand sanitizer,vaila'au fufulu lima puipui
+49,en,sm,,,alcohol hand sanitizer,vaila'au fufulu lima
+51,en,sm,,,alcohol-based hand sanitizer,vaila'au fufulu lima e i ai le vaila'au
+59,en,sm,,,Anti-Corona virus spray,Fagu fa'apasi vaila'au puipui o le koronavairusi
+60,en,sm,,,antibacterial hand sanitizer,vaila'au fufulu lima e puipuia siama
+61,en,sm,,,ARDS,ARDS
+64,en,sm,,,avoid exposure,alo'ese mai a'afiaga
+65,en,sm,,,be infected,e pisia
+75,en,sm,,,Beware of coronavirus,Fa'aeteete i le koronavarusi
+76,en,sm,,,bilateral interstitial pneumonia,niumonia o le mama
+77,en,sm,,,CDC,CDC
+78,en,sm,,,Center for Disease Control,CDC
+83,en,sm,,,community spread,salalau i le nu'u
+84,en,sm,,,compulsory quarantine,fa'asu puipui tatau
+85,en,sm,,,contagious,pipisi
+135,en,sm,,,coronavirus,o le koronavairusi
+136,en,sm,,,coronavirus (COVID-19),koronavairusi (KOVITI-19)
+137,en,sm,,,coronavirus alert,koronavairusi mataala
+139,en,sm,,,coronavirus cases,mama'i i le koronavairusi
+141,en,sm,,,coronavirus concerns,atugaluga o koronavairusi
+143,en,sm,,,coronavirus crisis,koronavairusi malaia
+149,en,sm,,,coronavirus disease,fa'ama'i o le koronavairusi
+150,en,sm,,,Coronavirus disease (COVID-19) outbreak,Fa'ama'i pepesi o le koronavairusi (KOVITI-19)
+153,en,sm,,,coronavirus early symptoms,mua'i auga o le koronavairusi
+155,en,sm,,,coronavirus epidemic,koronavairusi pipisi
+156,en,sm,,,coronavirus exposure,a'afiaga o koronavairusi
+161,en,sm,,,coronavirus incubation,taimi ma'i o le koronavairusi
+162,en,sm,,,coronavirus incubation period,taimi e ma'i ai i le koronavairusi
+163,en,sm,,,coronavirus infection,koronavairusi pipisi
+168,en,sm,,,coronavirus map,fa'afanua o le koronavairusi
+170,en,sm,,,coronavirus medicine,vaila'au o le koronaivarusi
+171,en,sm,,,coronavirus medicines,o vaila'au o le koronavairusi
+172,en,sm,,,coronavirus news,talafou o le koronavairusi
+173,en,sm,,,coronavirus outbreak,koronavairusi pepesi
+174,en,sm,,,coronavirus pandemic,koronavairusi pipisi i le lalolagi
+176,en,sm,,,coronavirus pneumonia,koronavairusi niumonia
+177,en,sm,,,coronavirus precautions,fa'aeteetega o le koronavairusi
+178,en,sm,,,coronavirus prevention,tete'ega o le koronavairusi
+179,en,sm,,,coronavirus protection,puipuiga mai le koronavairusi
+180,en,sm,,,coronavirus quarantine,fa'asu puipuia i le koronavairusi
+182,en,sm,,,coronavirus SOS Alert,koronavarusi SOS Mataala
+183,en,sm,,,coronavirus spread,salalau le koronavairusi
+184,en,sm,,,coronavirus symptoms,auga o le koronavairusi
+185,en,sm,,,coronavirus transmission,fe'avea'iga o le koronavairusi
+186,en,sm,,,coronavirus travel ban,koronavarusi taofia femalagaa'iga
+187,en,sm,,,coronavirus travel restrictions,koronavairusi fa'atapula'aina femalagaa'iga
+188,en,sm,,,coronavirus treatment,fofo o le koronavairusi
+190,en,sm,,,coronavirus update,talafou o le koronavairusi
+191,en,sm,,,coronavirus vaccine,tui puipui o le koronavairusi
+192,en,sm,,,coronavirus vaccines,o tui puipui o le koronavairusi
+198,en,sm,,,covid cases,a'afia i le koviti
+205,en,sm,,,covid early symptoms,mua'i auga o le koviti
+213,en,sm,,,covid incubation period,taimi e ma'i ai i le koviti
+215,en,sm,,,covid international spread,koviti salalau i le lalolagi
+216,en,sm,,,covid international travel,koviti femalagaa'iga fa'avaomalo
+217,en,sm,,,covid isolation,tu'ufua to'atasi ona o le koviti
+219,en,sm,,,covid map,fa'afanua o le koviti
+220,en,sm,,,covid medicine,vaila'au o le koviti
+221,en,sm,,,covid medicines,o vaila'au o le koviti
+222,en,sm,,,covid news,talafou o le koviti
+223,en,sm,,,covid outbreak,koviti pepesi
+224,en,sm,,,covid pandemic,koviti pipisi i le lalolagi
+225,en,sm,,,covid panic,popolega i le koviti
+228,en,sm,,,covid SOS Alert,koviti SOS Mataala
+230,en,sm,,,covid symptoms,auga o le koviti
+231,en,sm,,,covid transmission,fe'avea'iga o le koviti
+232,en,sm,,,covid travel ban,koviti taofia femalagaa'iga
+233,en,sm,,,covid travel restrictions,koviti fa'atapula'aina femalagaa'iga
+234,en,sm,,,covid treatment,togafitiga o le koviti
+236,en,sm,,,covid vaccine,o le tui puipui mo le koviti
+237,en,sm,,,covid vaccines,tui puipui o le koviti
+242,en,sm,,,covid-19,koviti-19
+243,en,sm,,,covid-19 alert,koviti-19 mataala
+244,en,sm,,,covid-19 cases,koviti-19 tagata a'afia
+245,en,sm,,,covid-19 CDC,koviti-19 CDC
+246,en,sm,,,covid-19 contagious,koviti-19 pipisi
+247,en,sm,,,covid-19 cure,koviti-19 fofo
+248,en,sm,,,covid-19 dangerous,koviti-19 mata'utia
+249,en,sm,,,covid-19 deadly,koviti-19 fa'ama'i oti
+250,en,sm,,,covid-19 death,koviti-19 tagata maliu
+251,en,sm,,,covid-19 deaths,koviti-19 tagata maliliu
+252,en,sm,,,covid-19 domestic travel,koviti-19 femalagaa'iga i le lotoifale
+253,en,sm,,,covid-19 early symptoms,mua'i auga o le koviti-19
+254,en,sm,,,covid-19 effects,koviti-19 a'afiaga
+255,en,sm,,,covid-19 epidemic,koviti-19 pipisi i se atunu'u
+256,en,sm,,,covid-19 exposure,koviti-19 a'afiaga
+257,en,sm,,,covid-19 fatal,koviti-19 tagata maliu
+258,en,sm,,,covid-19 fever,koviti-19 fiva
+259,en,sm,,,covid-19 illness,koviti-19 gasegase
+260,en,sm,,,covid-19 incubation,koviti-19 taimi e ma'i ai i le Koronavairusi
+261,en,sm,,,covid-19 incubation period,taimi e ma'i ai i le koviti-19
+262,en,sm,,,covid-19 infection,koviti-19 a'afiaga
+263,en,sm,,,covid-19 international spread,salalau i le lalolagi o le koviti-19
+264,en,sm,,,covid-19 international travel,koviti-19 femalagaa'iga fa'avaomalo
+265,en,sm,,,covid-19 isolation,koviti-19 tu'ufua to'atasi
+266,en,sm,,,covid-19 lockdown,koviti-19 tapunia
+267,en,sm,,,covid-19 map,koviti-19 fa'afanua
+268,en,sm,,,covid-19 medicine,koviti-19 vaila'au
+269,en,sm,,,covid-19 medicines,koviti-19 o vaila'au
+270,en,sm,,,covid-19 news,koviti-19 talafou
+271,en,sm,,,covid-19 outbreak,koviti-19 pepesi
+272,en,sm,,,covid-19 pandemic,koviti-19 pipisi i le lalolagi
+273,en,sm,,,covid-19 panic,koviti-19 popole
+275,en,sm,,,covid-19 precautions,koviti-19 o fa'aeteetega
+276,en,sm,,,covid-19 protection,koviti-19 puipuiga
+277,en,sm,,,covid-19 quarantine,koviti-19 fa'asu puipuia
+278,en,sm,,,covid-19 SOS Alert,koviti-19 SOS Mataala
+279,en,sm,,,covid-19 spread,koviti-19 salalau
+280,en,sm,,,covid-19 symptoms,koviti-19 auga
+281,en,sm,,,covid-19 transmission,koviti-19 fe'avea'iga
+282,en,sm,,,covid-19 travel ban,koviti-19 taofia femalagaa'iga
+283,en,sm,,,covid-19 travel restrictions,koviti-19 fa'atapula'aina femalagaa'iga
+284,en,sm,,,covid-19 treatment,koviti-19 togafitiga
+285,en,sm,,,covid-19 uncontrolled spread,le mafai ona taofia le salalau o le koviti-19
+286,en,sm,,,covid-19 vaccine,koviti-19 tui puipui
+287,en,sm,,,covid-19 vaccines,koviti-19 o tui puipui
+288,en,sm,,,COVID-19 virus,koviti-19 vairusi
+289,en,sm,,,covid-19 virus outbreak,pepesi le vairusi kotivi-19
+290,en,sm,,,covid-19 virus transmission,fe'avea'iina o le vairusi kotivi-19
+291,en,sm,,,covid-19 WHO,koviti-19 WHO
+292,en,sm,,,covid19,koviti19
+293,en,sm,,,covid19 alert,koviti-19 mataala
+294,en,sm,,,covid19 cases,koviti-19 tagata a'afia
+295,en,sm,,,covid19 CDC,koviti-19 CDC
+301,en,sm,,,covid19 deaths,koviti19 tagata maliliu
+302,en,sm,,,covid19 domestic travel,koviti19 femalagaa'iga i le lotoifale
+303,en,sm,,,covid19 effects,koviti19 a'afia
+304,en,sm,,,covid19 epidemic,koviti19 pipisi i le atunu'u
+305,en,sm,,,covid19 exposure,koviti19 a'afiaga
+306,en,sm,,,covid19 fatal,koviti19 tagata maliliu
+307,en,sm,,,covid19 fever,koviti19 fiva
+308,en,sm,,,covid19 illness,koviti19 gasegase
+309,en,sm,,,covid19 incubation,koviti19 taimi ma'i
+310,en,sm,,,covid19 incubation period,taimi e ma'i ai i le koviti19
+311,en,sm,,,covid19 infection,koviti19 oloa
+312,en,sm,,,covid19 international spread,salalau i le lalolagi o le koviti19
+313,en,sm,,,covid19 international travel,koviti19 femalagaa'iga faavaomalo
+314,en,sm,,,covid19 isolation,koviti19 tu'ufua to'atasi
+315,en,sm,,,covid19 lockdown,koviti19 tapunia
+316,en,sm,,,covid19 map,koviti19 fa'afanua
+317,en,sm,,,covid19 medicine,koviti19 vaila'au
+318,en,sm,,,covid19 medicines,koviti19 o vaila'au
+319,en,sm,,,covid19 news,koviti19 talafou
+320,en,sm,,,covid19 outbreak,koviti19 pepesi
+321,en,sm,,,covid19 pandemic,koviti19 pipisi i le lalolagi
+324,en,sm,,,covid19 precautions,koviti19 o fa'aeteetega
+325,en,sm,,,covid19 protection,koviti19 puipuiga
+326,en,sm,,,covid19 quarantine,koviti19 fa'asu puipuia
+327,en,sm,,,covid19 SOS Alert,koviti19 SOS Mataala
+328,en,sm,,,covid19 spread,koviti19 salalau
+329,en,sm,,,covid19 symptoms,koviti19 auga
+330,en,sm,,,covid19 transmission,koviti19 feavea'iga
+331,en,sm,,,covid19 travel ban,koviti19 taofia femalagaa'iga
+332,en,sm,,,covid19 travel restrictions,koviti19 fa'atapula'aina femalagaa'iga
+333,en,sm,,,covid19 treatment,koviti19 togafitiga
+335,en,sm,,,covid19 vaccine,koviti19 tui puipui
+336,en,sm,,,covid19 vaccines,koviti19 o tui puipui
+337,en,sm,,,covid19 virus,koviti19 vairusi
+338,en,sm,,,covid19 virus outbreak,vairusi pepesi koviti19
+339,en,sm,,,covid19 virus transmission,fe'avea'iina o le vairusi koviti19
+342,en,sm,,,current outbreak,pepesi i le taimi nei
+343,en,sm,,,deadly outbreak,fa'ama'i oti pepesi
+345,en,sm,,,disease outbreak,fa'ama'i pepesi
+346,en,sm,,,Disposable hand sanitizer,tia'i vaaila'au fufulu lima ua uma
+348,en,sm,,,domestic travel,femalagaa'iga i le lotoifale
+351,en,sm,,,droplets,mataua
+357,en,sm,,,Effects of coronavirus,A'afiaga o le koronavairusi
+359,en,sm,,,epidemic,fa'ama'i pipisi i se atunu'u
+360,en,sm,,,epidemic and pandemic,fa'ama'i pipisi i le atunu'u ma le lalolagi
+362,en,sm,,,epidemic disease,fa'ama'i pipisi i le atunuu
+364,en,sm,,,epidemic outbreak,fa'ama'i pepesi i le atunu'u
+365,en,sm,,,epidemic period,taimi o le fa'ama'i pipisi i le atunu'u
+366,en,sm,,,epidemic prevention,tete'ega o fa'ama'i pipisi i le atunuu
+368,en,sm,,,epidemic season,vaitau o le fa'ama'i pipisi i le atunu'u
+369,en,sm,,,epidemic situation,tulaga o le fa'ama'i pipisi i le atunuu
+371,en,sm,,,exposure,a'afiaga
+375,en,sm,,,exposure time,taimi o a'afiaga
+379,en,sm,,,fever,fiva
+380,en,sm,,,fight the virus,fa'ato'ilalo le vairusi
+381,en,sm,,,Fighting the outbreak,Fa'ato'ilalo fa'ama'i pepesi
+382,en,sm,,,flu epidemic,fulu i le atunuu
+385,en,sm,,,fomites,mea pisia
+392,en,sm,,,global health emergency,fa'alavelave fa'afuase'i o le soifua maloloina i le lalolagi
+393,en,sm,,,global outbreak,fa'ama'i pepesi i le lalolagi
+394,en,sm,,,global pandemic,fa'ama'i pipisi i le lalolagi
+396,en,sm,,,hand sanitizer,vaila'au fufulu lima
+397,en,sm,,,hand sanitizer dispenser,masini vaila'au fufulu lima
+398,en,sm,,,hand sanitizer gel,vaila'au fufulu lima
+399,en,sm,,,hand sanitizer spray,fagu fa'apasi vaila'au fufulu lima
+403,en,sm,,,home isolation,tu'ua to'atasi i le aiga
+404,en,sm,,,home quarantine,fa'asu puipuia i le aiga
+410,en,sm,,,illness,gasegase
+415,en,sm,,,incubation period,taimi e a'afia ai
+418,en,sm,,,infected,pisia
+424,en,sm,,,instant hand sanitizer,vaila'au fufulu lima manogi aoga
+425,en,sm,,,international spread,salalau i le lalolagi
+426,en,sm,,,international travel,femalagaa'iga fa'avaomalo
+427,en,sm,,,isolation,tu'ufua
+428,en,sm,,,isolation period,taimi tu'ua to'atasi
+430,en,sm,,,isolation room,potu tu'ua to'atasi
+431,en,sm,,,isolation valve,masini manava tu'ua to'atasi
+432,en,sm,,,isolation ward,iunite tu'ua to'atasi
+434,en,sm,,,lockdown,tapunia
+438,en,sm,,,major outbreak,pepesi ogaoga
+439,en,sm,,,mandatory quarantine,fa'asu puipuia tatau
+440,en,sm,,,mass gathering,fa'apotopotoga to'atele
+444,en,sm,,,medicine,vaila'au
+445,en,sm,,,medicines,o vaila'au
+448,en,sm,,,n95,n95
+449,en,sm,,,n95 mask,n95 ufi fofoga
+450,en,sm,,,n95 respirator,n95 masini manava
+451,en,sm,,,ncov,ncov
+452,en,sm,,,ncov-2019,ncov-2019
+453,en,sm,,,new coronavirus,koronavairusi fou
+454,en,sm,,,new coronavirus pneumonia,koronavairusi niumonia fou
+460,en,sm,,,novel coronavirus,koronavairusi fou
+462,en,sm,,,novel coronavirus infection,koronavairusi pipisi fou
+463,en,sm,,,novel coronavirus outbreak,koronavairusi pepesi fou
+464,en,sm,,,novel coronavirus pneumonia,koronavairusi niumonia fou
+470,en,sm,,,ongoing outbreak,pepesi faifaipea
+472,en,sm,,,outbreak,pepesi
+474,en,sm,,,outbreak of coronavirus,koronavairusi pepesi
+475,en,sm,,,outbreak of disease,fa'ama'i pepesi
+482,en,sm,,,pandemic,fa'ama'i pipisi i le lalolagi
+485,en,sm,,,pandemic influenza,fulu pipisi i le lalolagi
+486,en,sm,,,pandemic outbreak,fa'ama'i pepesi i le lalolagi
+487,en,sm,,,pandemic plan,fuafuaga o fa'ama'i pipisi i le lalolagi
+488,en,sm,,,pandemic potential,fa'ama'i e ono pipisi i le lalolagi
+495,en,sm,,,pneumonia,niumonia
+496,en,sm,,,pneumonia epidemic,niumonia pipisi i le atunuu
+497,en,sm,,,potential exposure,tagata ono a'afia
+498,en,sm,,,precautions,fa'aeteetega
+499,en,sm,,,prevent virus,tete'e le vairusi
+500,en,sm,,,prolonged exposure,a'afiaga fa'aumiumi
+504,en,sm,,,quarantine,fa'asu puipui
+505,en,sm,,,quarantine area,nofoaga fa'asu puipui
+506,en,sm,,,quarantine facility,fale fa'asu puipui
+507,en,sm,,,quarantine measures,auala fa'asu puipui
+508,en,sm,,,quarantine period,vaitaimi fa'asu puipui
+509,en,sm,,,quarantine room,potu fa'asu puipui
+510,en,sm,,,quarantine zone,sone fa'asu puipui
+512,en,sm,,,Recovered coronavirus patient,Manuia gasegase o le koronavairusi
+514,en,sm,,,repatriate,tagata fa'afo'i
+515,en,sm,,,repeated exposure,a'afiaga faifaipea
+516,en,sm,,,respiratory syncytial virus,vairusi e a'afia ai le manava
+517,en,sm,,,respiratory virus,vairusi e a'afia ai le manava
+519,en,sm,,,Sanitizing hand sanitizer,Fa'amamaina o vaila'au fufulu lima
+520,en,sm,,,SARS-CoV-2,SARS-CoV-2
+521,en,sm,,,self isolation,tu'ufua to'atasi oe lava
+522,en,sm,,,self quarantine,fa'asu puipui oe lava
+523,en,sm,,,Severe outbreak,pepesi mata'utia
+525,en,sm,,,social distancing,va saogalemu o tagata
+526,en,sm,,,social distancing measures,fua o le va saogalemu o tagata
+527,en,sm,,,social isolation,tu'ufua to'atasi
+528,en,sm,,,SOS Alert,SOS Mataala
+529,en,sm,,,spread,fa'asalalau
+530,en,sm,,,spread of coronavirus,koronavairusi salalau
+531,en,sm,,,spread of virus,salalau o vairusi
+535,en,sm,,,strain of virus,vaega o vairusi
+541,en,sm,,,the incubation period,taimi e ma'i ai
+544,en,sm,,,the novel coronavirus,o le koronavairusi fou
+558,en,sm,,,touching face,tago i fofoga
+559,en,sm,,,travel advisory,fautuga mo femalagaa'iga
+560,en,sm,,,travel ban,taofia femalagaa'iga
+561,en,sm,,,travel restrictions,fa'atapula'aina femalagaa'iga
+565,en,sm,,,use hand sanitizer,fa'aaoga vaila'au fufulu lima
+566,en,sm,,,vaccines,tui puipui
+567,en,sm,,,viral outbreak,vairusi pepesi
+568,en,sm,,,virtual lockdown,tapunia gaoioiga uma
+569,en,sm,,,virus,vairusi
+570,en,sm,,,virus carrier,tagata pisia i le vairusi
+573,en,sm,,,virus infection,pisia i le vairusi
+575,en,sm,,,virus mask,ufi fofoga o le vairusi
+576,en,sm,,,virus outbreak,vairusi pepesi
+577,en,sm,,,virus prevention,taofia le vairusi
+578,en,sm,,,virus protection,puipuia le vairusi
+580,en,sm,,,virus spread,vairusi salalau
+582,en,sm,,,virus spreads,vairusi salalau
+583,en,sm,,,virus strain,vaega o le vairusi
+584,en,sm,,,virus transmission,fe'avea'iga o le vairusi
+586,en,sm,,,wash your hands,fufulu ou lima
+587,en,sm,,,washing hands,fufuluina o ou a'ao
+589,en,sm,,,WHO,WHO
+590,en,sm,,,WHO Confirmed,Fa'amaonia WHO
+591,en,sm,,,WHO Deaths,WHO Tagata maliliu
+592,en,sm,,,widespread outbreak,pepesi fa'alaua'itele
+597,en,sm,,,World Health Organization,WHO
+600,en,sm,,,zoonotic disease,gasegase fe'avea'i e tagata ma manu
+601,en,sm,,,zoonotic virus,vairusi fe'avea'i e tagata ma manu

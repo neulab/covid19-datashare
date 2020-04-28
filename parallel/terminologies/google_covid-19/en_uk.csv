@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,uk,,,14 days in isolation,14 днів в ізоляції
+26,en,uk,,,14 days quarantine,14-денний карантин
+27,en,uk,,,2019 coronavirus,коронавірус 2019 року
+28,en,uk,,,2019 novel coronavirus,2019 новий коронавірус
+29,en,uk,,,2019-nCoV,2019-nCoV
+30,en,uk,,,2020 coronavirus,коронавірус 2020 року
+31,en,uk,,,2020 novel coronavirus,2020 новий коронавірус
+33,en,uk,,,about coronavirus,про коронавірус
+39,en,uk,,,acute respiratory distress syndrome,гострий респіраторний дистрес-синдром
+40,en,uk,,,advanced hand sanitizer,Advanced Hand Sanitizer
+41,en,uk,,,Affected by coronavirus,Постраждалий від коронавірусу
+42,en,uk,,,after exposure,після контакту
+43,en,uk,,,After the epidemic,Після епідемії
+44,en,uk,,,After the outbreak,Після спалаху
+47,en,uk,,,airborne virus,вірус у повітрі
+48,en,uk,,,alcohol based hand sanitizer,спиртовий санітайзер для рук
+49,en,uk,,,alcohol hand sanitizer,спиртовий санітайзер для рук
+51,en,uk,,,alcohol-based hand sanitizer,санітайзер для рук на спиртовій основі
+59,en,uk,,,Anti-Corona virus spray,Спрей проти коронавірусу
+60,en,uk,,,antibacterial hand sanitizer,антибактеріальний санітайзер для рук
+61,en,uk,,,ARDS,ГРДС
+64,en,uk,,,avoid exposure,уникати контакту
+65,en,uk,,,be infected,бути зараженим
+75,en,uk,,,Beware of coronavirus,Остерігайтеся коронавірусу
+76,en,uk,,,bilateral interstitial pneumonia,двостороння інтерстиціальна пневмонія
+77,en,uk,,,CDC,CDC
+78,en,uk,,,Center for Disease Control,Center for Disease Control
+83,en,uk,,,community spread,поширення в населених пунктах
+84,en,uk,,,compulsory quarantine,примусовий карантин
+85,en,uk,,,contagious,заразний
+135,en,uk,,,coronavirus,коронавірус
+136,en,uk,,,coronavirus (COVID-19),коронавірус (COVID-19)
+137,en,uk,,,coronavirus alert,оповіщення про коронавірус
+139,en,uk,,,coronavirus cases,випадки коронавірусу
+141,en,uk,,,coronavirus concerns,проблема коронавірусу
+143,en,uk,,,coronavirus crisis,коронавірусна криза
+149,en,uk,,,coronavirus disease,коронавірус хвороба
+150,en,uk,,,Coronavirus disease (COVID-19) outbreak,Спалах коронавірусної інфекції COVID-19
+153,en,uk,,,coronavirus early symptoms,перші симптоми коронавірусу
+155,en,uk,,,coronavirus epidemic,епідемія коронавірусу
+156,en,uk,,,coronavirus exposure,контакт із коронавірусом
+161,en,uk,,,coronavirus incubation,інкубаційний період коронавірусу
+162,en,uk,,,coronavirus incubation period,інкубаційний період коронавірусу
+163,en,uk,,,coronavirus infection,коронавірусна інфекція
+168,en,uk,,,coronavirus map,карта поширення коронавірусу
+170,en,uk,,,coronavirus medicine,ліки від коронавірусу
+171,en,uk,,,coronavirus medicines,препарати від коронавірусу
+172,en,uk,,,coronavirus news,новини про коронавірус
+173,en,uk,,,coronavirus outbreak,спалах коронавірусу
+174,en,uk,,,coronavirus pandemic,пандемія коронавірусу
+176,en,uk,,,coronavirus pneumonia,коронавірусна пневмонія
+177,en,uk,,,coronavirus precautions,запобіжні заходи від коронавірусу
+178,en,uk,,,coronavirus prevention,профілактика коронавірусу
+179,en,uk,,,coronavirus protection,захист від коронавірусу
+180,en,uk,,,coronavirus quarantine,коронавірусний карантин
+182,en,uk,,,coronavirus SOS Alert,оповіщення про надзвичайну ситуацію з коронавірусом
+183,en,uk,,,coronavirus spread,поширення коронавірусу
+184,en,uk,,,coronavirus symptoms,симптоми коронавірусу
+185,en,uk,,,coronavirus transmission,передача коронавірусу
+186,en,uk,,,coronavirus travel ban,заборона на поїздки у зв’язку з коронавірусом
+187,en,uk,,,coronavirus travel restrictions,обмеження на поїздки у зв’язку з коронавірусом
+188,en,uk,,,coronavirus treatment,лікування коронавірусу
+190,en,uk,,,coronavirus update,новини про коронавірус
+191,en,uk,,,coronavirus vaccine,вакцина від коронавірусу
+192,en,uk,,,coronavirus vaccines,вакцини від коронавірусу
+198,en,uk,,,covid cases,випадки COVID
+205,en,uk,,,covid early symptoms,COVID перші симптоми
+213,en,uk,,,covid incubation period,COVID інкубаційний період
+215,en,uk,,,covid international spread,COVID міжнародне поширення
+216,en,uk,,,covid international travel,COVID міжнародні поїздки
+217,en,uk,,,covid isolation,COVID ізоляція
+219,en,uk,,,covid map,карта COVID
+220,en,uk,,,covid medicine,ліки від COVID
+221,en,uk,,,covid medicines,препарати від COVID
+222,en,uk,,,covid news,новини про COVID
+223,en,uk,,,covid outbreak,спалах COVID
+224,en,uk,,,covid pandemic,пандемія COVID
+225,en,uk,,,covid panic,COVID паніка
+228,en,uk,,,covid SOS Alert,оповіщення про надзвичайну ситуацію через COVID
+230,en,uk,,,covid symptoms,симптоми COVID
+231,en,uk,,,covid transmission,передача COVID
+232,en,uk,,,covid travel ban,заборона на поїздки у зв’язку з COVID
+233,en,uk,,,covid travel restrictions,обмеження на поїздки у зв’язку з COVID
+234,en,uk,,,covid treatment,лікування COVID
+236,en,uk,,,covid vaccine,вакцина від COVID
+237,en,uk,,,covid vaccines,вакцини від COVID
+242,en,uk,,,covid-19,COVID-19
+243,en,uk,,,covid-19 alert,оповіщення про COVID-19
+244,en,uk,,,covid-19 cases,випадки COVID-19
+245,en,uk,,,covid-19 CDC,COVID-19 CDC
+246,en,uk,,,covid-19 contagious,COVID-19 заразність
+247,en,uk,,,covid-19 cure,COVID-19 ліки
+248,en,uk,,,covid-19 dangerous,COVID-19 небезпека
+249,en,uk,,,covid-19 deadly,COVID-19 смертельний
+250,en,uk,,,covid-19 death,COVID-19 смерть
+251,en,uk,,,covid-19 deaths,COVID-19 смерті
+252,en,uk,,,covid-19 domestic travel,COVID-19 внутрішні поїздки
+253,en,uk,,,covid-19 early symptoms,перші симптоми COVID-19
+254,en,uk,,,covid-19 effects,прояви COVID-19
+255,en,uk,,,covid-19 epidemic,епідемія COVID-19
+256,en,uk,,,covid-19 exposure,контакт із COVID-19
+257,en,uk,,,covid-19 fatal,COVID-19 летальність
+258,en,uk,,,covid-19 fever,COVID-19 лихоманка
+259,en,uk,,,covid-19 illness,COVID-19 хвороба
+260,en,uk,,,covid-19 incubation,інкубаційний період COVID-19
+261,en,uk,,,covid-19 incubation period,інкубаційний період COVID-19
+262,en,uk,,,covid-19 infection,COVID-19 інфекція
+263,en,uk,,,covid-19 international spread,міжнародне поширення COVID-19
+264,en,uk,,,covid-19 international travel,COVID-19 міжнародні поїздки
+265,en,uk,,,covid-19 isolation,COVID-19 ізоляція
+266,en,uk,,,covid-19 lockdown,COVID-19 закриття міст
+267,en,uk,,,covid-19 map,карта поширення COVID-19
+268,en,uk,,,covid-19 medicine,ліки від COVID-19
+269,en,uk,,,covid-19 medicines,препарати від COVID-19
+270,en,uk,,,covid-19 news,новини про COVID-19
+271,en,uk,,,covid-19 outbreak,спалах COVID-19
+272,en,uk,,,covid-19 pandemic,пандемія COVID-19
+273,en,uk,,,covid-19 panic,COVID-19 паніка
+275,en,uk,,,covid-19 precautions,запобіжні заходи щодо COVID-19
+276,en,uk,,,covid-19 protection,захист від COVID-19
+277,en,uk,,,covid-19 quarantine,COVID-19 карантин
+278,en,uk,,,covid-19 SOS Alert,оповіщення про надзвичайну ситуацію через COVID-19
+279,en,uk,,,covid-19 spread,поширення COVID-19
+280,en,uk,,,covid-19 symptoms,симптоми COVID-19
+281,en,uk,,,covid-19 transmission,передача COVID-19
+282,en,uk,,,covid-19 travel ban,заборона на поїздки через COVID-19
+283,en,uk,,,covid-19 travel restrictions,обмеження на поїздки через COVID-19
+284,en,uk,,,covid-19 treatment,лікування COVID-19
+285,en,uk,,,covid-19 uncontrolled spread,неконтрольоване поширення COVID-19
+286,en,uk,,,covid-19 vaccine,вакцина від COVID-19
+287,en,uk,,,covid-19 vaccines,вакцини від COVID-19
+288,en,uk,,,COVID-19 virus,вірус COVID-19
+289,en,uk,,,covid-19 virus outbreak,спалах вірусу COVID-19
+290,en,uk,,,covid-19 virus transmission,передача вірусу COVID-19
+291,en,uk,,,covid-19 WHO,COVID-19 ВООЗ
+292,en,uk,,,covid19,COVID-19
+293,en,uk,,,covid19 alert,оповіщення щодо COVID-19
+294,en,uk,,,covid19 cases,випадки COVID-19
+295,en,uk,,,covid19 CDC,COVID-19 CDC
+301,en,uk,,,covid19 deaths,COVID-19 смерті
+302,en,uk,,,covid19 domestic travel,COVID-19 внутрішні поїздки
+303,en,uk,,,covid19 effects,прояви COVID-19
+304,en,uk,,,covid19 epidemic,епідемія COVID-19
+305,en,uk,,,covid19 exposure,контакт із COVID-19
+306,en,uk,,,covid19 fatal,COVID-19 летальний
+307,en,uk,,,covid19 fever,COVID-19 лихоманка
+308,en,uk,,,covid19 illness,COVID-19 хвороба
+309,en,uk,,,covid19 incubation,інкубаційний період COVID-19
+310,en,uk,,,covid19 incubation period,COVID-19 інкубаційний період
+311,en,uk,,,covid19 infection,COVID-19 інфекція
+312,en,uk,,,covid19 international spread,COVID-19 міжнародне поширення
+313,en,uk,,,covid19 international travel,COVID-19 міжнародні поїздки
+314,en,uk,,,covid19 isolation,COVID-19 ізоляція
+315,en,uk,,,covid19 lockdown,COVID-19 закриття міст
+316,en,uk,,,covid19 map,карта поширення COVID-19
+317,en,uk,,,covid19 medicine,COVID-19 ліки
+318,en,uk,,,covid19 medicines,COVID-19 препарати
+319,en,uk,,,covid19 news,COVID-19 новини
+320,en,uk,,,covid19 outbreak,спалах COVID-19
+321,en,uk,,,covid19 pandemic,COVID-19 пандемія
+324,en,uk,,,covid19 precautions,COVID-19 запобіжні заходи
+325,en,uk,,,covid19 protection,COVID-19 захист
+326,en,uk,,,covid19 quarantine,COVID-19 карантин
+327,en,uk,,,covid19 SOS Alert,COVID-19 оповіщення про надзвичайну ситуацію
+328,en,uk,,,covid19 spread,COVID-19 поширення
+329,en,uk,,,covid19 symptoms,COVID-19 симптоми
+330,en,uk,,,covid19 transmission,COVID-19 передача
+331,en,uk,,,covid19 travel ban,COVID-19 заборона на поїздки
+332,en,uk,,,covid19 travel restrictions,COVID-19 обмеження на поїздки
+333,en,uk,,,covid19 treatment,COVID-19 лікування
+335,en,uk,,,covid19 vaccine,COVID-19 вакцина
+336,en,uk,,,covid19 vaccines,COVID-19 вакцини
+337,en,uk,,,covid19 virus,COVID-19 вірус
+338,en,uk,,,covid19 virus outbreak,COVID-19 спалах вірусу
+339,en,uk,,,covid19 virus transmission,COVID-19 передача вірусу
+342,en,uk,,,current outbreak,поточний спалах
+343,en,uk,,,deadly outbreak,смертоносний спалах
+345,en,uk,,,disease outbreak,спалах захворювання
+346,en,uk,,,Disposable hand sanitizer,Одноразовий санітайзер для рук
+348,en,uk,,,domestic travel,внутрішні поїздки
+351,en,uk,,,droplets,краплі
+357,en,uk,,,Effects of coronavirus,Прояви коронавірусу
+359,en,uk,,,epidemic,епідемія
+360,en,uk,,,epidemic and pandemic,епідемія та пандемія
+362,en,uk,,,epidemic disease,масове захворювання
+364,en,uk,,,epidemic outbreak,спалах епідемії
+365,en,uk,,,epidemic period,період епідемії
+366,en,uk,,,epidemic prevention,профілактика епідемії
+368,en,uk,,,epidemic season,епідемічний сезон
+369,en,uk,,,epidemic situation,епідемічна ситуація
+371,en,uk,,,exposure,контакт
+375,en,uk,,,exposure time,час контакту
+379,en,uk,,,fever,лихоманка
+380,en,uk,,,fight the virus,боротьба з вірусом
+381,en,uk,,,Fighting the outbreak,Боротьба зі спалахом
+382,en,uk,,,flu epidemic,епідемія грипу
+385,en,uk,,,fomites,фоміти
+392,en,uk,,,global health emergency,надзвичайна ситуація міжнародного значення в області охорони здоров’я
+393,en,uk,,,global outbreak,глобальний спалах
+394,en,uk,,,global pandemic,глобальна пандемія
+396,en,uk,,,hand sanitizer,санітайзер для рук
+397,en,uk,,,hand sanitizer dispenser,диспенсер для санітайзера для рук
+398,en,uk,,,hand sanitizer gel,гель-санітайзер для рук
+399,en,uk,,,hand sanitizer spray,спрей-санітайзер для рук
+403,en,uk,,,home isolation,ізоляція вдома
+404,en,uk,,,home quarantine,домашній карантин
+410,en,uk,,,illness,захворювання
+415,en,uk,,,incubation period,інкубаційний період
+418,en,uk,,,infected,заражений
+424,en,uk,,,instant hand sanitizer,санітайзер миттєвої дії для рук
+425,en,uk,,,international spread,міжнародне поширення
+426,en,uk,,,international travel,міжнародні поїздки
+427,en,uk,,,isolation,ізоляція
+428,en,uk,,,isolation period,період ізоляції
+430,en,uk,,,isolation room,ізоляційне приміщення
+431,en,uk,,,isolation valve,запірна арматура
+432,en,uk,,,isolation ward,ізолятор
+434,en,uk,,,lockdown,закриття
+438,en,uk,,,major outbreak,великий спалах
+439,en,uk,,,mandatory quarantine,обов’язковий карантин
+440,en,uk,,,mass gathering,масове скупчення людей
+444,en,uk,,,medicine,ліки
+445,en,uk,,,medicines,препарати
+448,en,uk,,,n95,N95
+449,en,uk,,,n95 mask,маска N95
+450,en,uk,,,n95 respirator,респіратор N95
+451,en,uk,,,ncov,nCoV
+452,en,uk,,,ncov-2019,2019-nCoV
+453,en,uk,,,new coronavirus,новий коронавірус
+454,en,uk,,,new coronavirus pneumonia,нова коронавірусна пневмонія
+460,en,uk,,,novel coronavirus,новий короновірус
+462,en,uk,,,novel coronavirus infection,нова коронавірусна інфекція
+463,en,uk,,,novel coronavirus outbreak,спалах нового коронавірусу
+464,en,uk,,,novel coronavirus pneumonia,пневмонія через новий коронавірус
+470,en,uk,,,ongoing outbreak,поточний спалах
+472,en,uk,,,outbreak,спалах
+474,en,uk,,,outbreak of coronavirus,спалах коронавірусу
+475,en,uk,,,outbreak of disease,спалах захворювання
+482,en,uk,,,pandemic,пандемія
+485,en,uk,,,pandemic influenza,пандемія грипу
+486,en,uk,,,pandemic outbreak,пандемічний спалах
+487,en,uk,,,pandemic plan,план протидії пандемії
+488,en,uk,,,pandemic potential,потенціал пандемії
+495,en,uk,,,pneumonia,пневмонія
+496,en,uk,,,pneumonia epidemic,епідемія пневмонії
+497,en,uk,,,potential exposure,потенційний контакт
+498,en,uk,,,precautions,запобіжні заходи
+499,en,uk,,,prevent virus,профілактика вірусу
+500,en,uk,,,prolonged exposure,тривалий контакт
+504,en,uk,,,quarantine,карантин
+505,en,uk,,,quarantine area,зона карантину
+506,en,uk,,,quarantine facility,карантинний заклад
+507,en,uk,,,quarantine measures,карантинні заходи
+508,en,uk,,,quarantine period,період карантину
+509,en,uk,,,quarantine room,карантинне приміщення
+510,en,uk,,,quarantine zone,зона карантину
+512,en,uk,,,Recovered coronavirus patient,"Пацієнт, який вилікувався від коронавірусу"
+514,en,uk,,,repatriate,повернення на Батьківщину
+515,en,uk,,,repeated exposure,повторний контакт
+516,en,uk,,,respiratory syncytial virus,респіраторно-синцитіальний вірус
+517,en,uk,,,respiratory virus,респіраторний вірус
+519,en,uk,,,Sanitizing hand sanitizer,Антисептичний санітайзер для рук
+520,en,uk,,,SARS-CoV-2,SARS-CoV-2
+521,en,uk,,,self isolation,самоізоляція
+522,en,uk,,,self quarantine,самокарантин
+523,en,uk,,,Severe outbreak,серйозний спалах
+525,en,uk,,,social distancing,соціальне дистанціювання
+526,en,uk,,,social distancing measures,заходи із соціального дистанціювання
+527,en,uk,,,social isolation,соціальна ізоляція
+528,en,uk,,,SOS Alert,оповіщення про надзвичайну ситуацію
+529,en,uk,,,spread,поширення
+530,en,uk,,,spread of coronavirus,поширення коронавірусу
+531,en,uk,,,spread of virus,поширення вірусу
+535,en,uk,,,strain of virus,штам вірусу
+541,en,uk,,,the incubation period,інкубаційний період
+544,en,uk,,,the novel coronavirus,новий короновірус
+558,en,uk,,,touching face,торкатись обличчя
+559,en,uk,,,travel advisory,попередження для подорожан
+560,en,uk,,,travel ban,заборона на поїздки
+561,en,uk,,,travel restrictions,обмеження на поїздки
+565,en,uk,,,use hand sanitizer,використовувати санітайзер для рук
+566,en,uk,,,vaccines,вакцини
+567,en,uk,,,viral outbreak,спалах вірусу
+568,en,uk,,,virtual lockdown,віртуальне блокування
+569,en,uk,,,virus,вірус
+570,en,uk,,,virus carrier,переносник вірусу
+573,en,uk,,,virus infection,вірусна інфекція
+575,en,uk,,,virus mask,противірусна маска
+576,en,uk,,,virus outbreak,спалах вірусу
+577,en,uk,,,virus prevention,профілактика вірусу
+578,en,uk,,,virus protection,захист від вірусу
+580,en,uk,,,virus spread,поширення вірусу
+582,en,uk,,,virus spreads,вірус шириться
+583,en,uk,,,virus strain,штам вірусу
+584,en,uk,,,virus transmission,передача вірусу
+586,en,uk,,,wash your hands,мийте руки
+587,en,uk,,,washing hands,миття рук
+589,en,uk,,,WHO,ВООЗ
+590,en,uk,,,WHO Confirmed,підтверджено ВООЗ
+591,en,uk,,,WHO Deaths,ВООЗ смерті
+592,en,uk,,,widespread outbreak,масовий спалах
+597,en,uk,,,World Health Organization,Всесвітня організація охорони здоров’я
+600,en,uk,,,zoonotic disease,зоонотичне захворювання
+601,en,uk,,,zoonotic virus,зоонотичний вірус

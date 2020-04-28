@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,si,,,14 days in isolation,දින 14 ක් ඒකලනයේ
+26,en,si,,,14 days quarantine,දින 14 ක නිරෝධායනය
+27,en,si,,,2019 coronavirus,2019 කොරෝනාවයිරසය
+28,en,si,,,2019 novel coronavirus,2019 නව කොරෝනාවයිරසය
+29,en,si,,,2019-nCoV,2019-nCoV
+30,en,si,,,2020 coronavirus,2020 කොරෝනාවයිරසය
+31,en,si,,,2020 novel coronavirus,2020 නව කොරෝනාවයිරසය
+33,en,si,,,about coronavirus,කොරෝනාවයිරසය ගැන
+39,en,si,,,acute respiratory distress syndrome,තීව්‍ර ශ්වසන ව්‍යසන සහලක්‍ෂණය
+40,en,si,,,advanced hand sanitizer,උසස් අත් සනීපාරක්‍ෂකය
+41,en,si,,,Affected by coronavirus,කොරෝනාවයිරසයට භාජනය වූ
+42,en,si,,,after exposure,නිරාවරණයට පසු
+43,en,si,,,After the epidemic,වසංගතයෙන් පසු
+44,en,si,,,After the outbreak,පැතිරීමෙන් පසු
+47,en,si,,,airborne virus,වාසර වයිරසය
+48,en,si,,,alcohol based hand sanitizer,මද්‍යසාර පාදක අත් සනීපාරක්‍ෂකය
+49,en,si,,,alcohol hand sanitizer,මද්‍යසාර අත් සනීපාරක්‍ෂකය
+51,en,si,,,alcohol-based hand sanitizer,මද්‍යසාර පාදක අත් සනීපාරක්‍ෂකය
+59,en,si,,,Anti-Corona virus spray,කොරෝනා ප්‍රතිරෝධක වයිරස ඉස්නාව
+60,en,si,,,antibacterial hand sanitizer,බැක්ටීරියා ප්‍රතිරෝධක අත් සනීපාරක්‍ෂකය
+61,en,si,,,ARDS,ARDS
+64,en,si,,,avoid exposure,නිරාවරණය වැළැක්වීම
+65,en,si,,,be infected,ආසාදනය ඇති වීම
+75,en,si,,,Beware of coronavirus,කොරෝනාවයිරසයෙන් පරෙස්සම් වන්න
+76,en,si,,,bilateral interstitial pneumonia,උභය පාර්ශ්වික අන්තරාල නියුමෝනියාව
+77,en,si,,,CDC,CDC
+78,en,si,,,Center for Disease Control,රෝග පාලන මධ්‍යස්ථානය
+83,en,si,,,community spread,ප්‍රජාවට බෝ වීම
+84,en,si,,,compulsory quarantine,අනිවාර්ය නිරෝධායනය
+85,en,si,,,contagious,සංස්පර්ශක
+135,en,si,,,coronavirus,කොරෝනාවයිරසය
+136,en,si,,,coronavirus (COVID-19),කොරෝනාවයිරසය (COVID-19)
+137,en,si,,,coronavirus alert,කොරෝනාවයිරස ඇඟවීම
+139,en,si,,,coronavirus cases,කොරෝනාවයිරස අවස්ථා
+141,en,si,,,coronavirus concerns,කොරෝනාවයිරස සැලකිලි
+143,en,si,,,coronavirus crisis,කොරෝනාවයිරස අර්බුදය
+149,en,si,,,coronavirus disease,කොරෝනාවයිරස රෝගය
+150,en,si,,,Coronavirus disease (COVID-19) outbreak,කොරෝනාවයිරස රෝගය (COVID-19) පැතිරීම
+153,en,si,,,coronavirus early symptoms,කොරෝනාවයිරස පූර්ව රෝග ලක්‍ෂණ
+155,en,si,,,coronavirus epidemic,කොරෝනාවයිරස වසංගතය
+156,en,si,,,coronavirus exposure,කොරෝනාවයිරස නිරාවරණය
+161,en,si,,,coronavirus incubation,කොරෝනාවයිරස බීජෞෂණය
+162,en,si,,,coronavirus incubation period,කොරෝනාවයිරස බීජෞෂණ කාලය
+163,en,si,,,coronavirus infection,කොරෝනාවයිරස ආසාදනය
+168,en,si,,,coronavirus map,කොරෝනාවයිරස සිතියම
+170,en,si,,,coronavirus medicine,කොරෝනාවයිරස ඖෂධය
+171,en,si,,,coronavirus medicines,කොරෝනාවයිරස ඖෂධ
+172,en,si,,,coronavirus news,කොරෝනාවයිරස පුවත්
+173,en,si,,,coronavirus outbreak,කොරෝනාවයිරස පැතිරීම
+174,en,si,,,coronavirus pandemic,කොරෝනාවයිරස ව්‍යාප්ත වසංගතය
+176,en,si,,,coronavirus pneumonia,කොරෝනාවයිරස නියුමෝනියාව
+177,en,si,,,coronavirus precautions,කොරෝනාවයිරස පූර්වාරක්‍ෂා
+178,en,si,,,coronavirus prevention,කොරෝනාවයිරස වැළැක්වීම
+179,en,si,,,coronavirus protection,කොරෝනාවයිරස ආරක්‍ෂාව
+180,en,si,,,coronavirus quarantine,කොරෝනාවයිරස නිරෝධායනය
+182,en,si,,,coronavirus SOS Alert,කොරෝනාවයිරස SOS ඇඟවීම
+183,en,si,,,coronavirus spread,කොරෝනාවයිරස බෝ වීම
+184,en,si,,,coronavirus symptoms,කොරෝනාවයිරස රෝග ලක්‍ෂණ
+185,en,si,,,coronavirus transmission,කොරෝනාවයිරස සම්ප්‍රේෂණය
+186,en,si,,,coronavirus travel ban,කොරෝනාවයිරස ගමන් තහනම
+187,en,si,,,coronavirus travel restrictions,කොරෝනාවෛරස ගමනාගමන සීමා කිරීම්
+188,en,si,,,coronavirus treatment,කොරෝනාවයිරස ප්‍රතිකාරය
+190,en,si,,,coronavirus update,කොරෝනාවයිරස යාවත්කාලීනය
+191,en,si,,,coronavirus vaccine,කොරෝනාවයිරස එන්නත
+192,en,si,,,coronavirus vaccines,කොරෝනාවයිරස එන්නත්
+198,en,si,,,covid cases,කොවිඩ් අවස්ථා
+205,en,si,,,covid early symptoms,කොවිඩ් පූර්ව රෝග ලක්‍ෂණ
+213,en,si,,,covid incubation period,කොවිඩ් බීජෞෂණ කාලය
+215,en,si,,,covid international spread,කොවිඩ් ජාත්‍යන්තර බෝ වීම
+216,en,si,,,covid international travel,කොවිඩ් ජාත්‍යන්තර ගමනාගමන
+217,en,si,,,covid isolation,කොවිඩ් ඒකලනය
+219,en,si,,,covid map,කොවිඩ් සිතියම
+220,en,si,,,covid medicine,කොවිඩ් ඖෂධය
+221,en,si,,,covid medicines,කොවිඩ් ඖෂධ
+222,en,si,,,covid news,කොවිඩ් පුවත්
+223,en,si,,,covid outbreak,කොවිඩ් පැතිරීම
+224,en,si,,,covid pandemic,කොවිඩ් ව්‍යාප්ත වසංගතය
+225,en,si,,,covid panic,කොවිඩ් සංත්‍රාසය
+228,en,si,,,covid SOS Alert,කොවිඩ් SOS ඇඟවීම
+230,en,si,,,covid symptoms,කොවිඩ් රෝග ලක්‍ෂණ
+231,en,si,,,covid transmission,කොවිඩ් සම්ප්‍රේෂණය
+232,en,si,,,covid travel ban,කොවිඩ් ගමන් තහනම
+233,en,si,,,covid travel restrictions,කොවිඩ් ගමන් සීමා කිරීම්
+234,en,si,,,covid treatment,කොවිඩ් ප්‍රතිකාරය
+236,en,si,,,covid vaccine,කොවිඩ් එන්නත
+237,en,si,,,covid vaccines,කොවිඩ් එන්නත්
+242,en,si,,,covid-19,කොවිඩ්-19
+243,en,si,,,covid-19 alert,කොවිඩ්-19 ඇඟවීම
+244,en,si,,,covid-19 cases,කොවිඩ්-19 අවස්ථා
+245,en,si,,,covid-19 CDC,කොවිඩ්-19 CDC
+246,en,si,,,covid-19 contagious,කොවිඩ්-19 සංස්පර්ශක
+247,en,si,,,covid-19 cure,කොවිඩ්-19 සුව කිරීම
+248,en,si,,,covid-19 dangerous,කොවිඩ්-19 අනතුරුදායක
+249,en,si,,,covid-19 deadly,කොවිඩ්-19 මාරාන්තික
+250,en,si,,,covid-19 death,කොවිඩ්-19 මරණය
+251,en,si,,,covid-19 deaths,කොවිඩ්-19 මරණ
+252,en,si,,,covid-19 domestic travel,කොවිඩ්-19 දේශීය ගමනාගමන
+253,en,si,,,covid-19 early symptoms,කොවිඩ්-19 පූර්ව රෝග ලක්‍ෂණ
+254,en,si,,,covid-19 effects,කොවිඩ්-19 බලපෑම්
+255,en,si,,,covid-19 epidemic,කොවිඩ්-19 වසංගතය‌
+256,en,si,,,covid-19 exposure,කොවිඩ්-19 නිරාවරණය
+257,en,si,,,covid-19 fatal,කොවිඩ්-19 මාරක
+258,en,si,,,covid-19 fever,කොවිඩ්-19 උණ
+259,en,si,,,covid-19 illness,කොවිඩ්-19 අසනීපය
+260,en,si,,,covid-19 incubation,කොවිඩ්-19 බීජෞෂණය
+261,en,si,,,covid-19 incubation period,කොවිඩ්-19 බීජෞෂණ කාලය
+262,en,si,,,covid-19 infection,කොවිඩ්-19 ආසාදනය
+263,en,si,,,covid-19 international spread,කොවිඩ්-19 ජාත්‍යන්තර බෝ වීම
+264,en,si,,,covid-19 international travel,කොවිඩ්-19 ජාත්‍යන්තර ගමනාගමන
+265,en,si,,,covid-19 isolation,කොවිඩ්-19 ඒකලනය
+266,en,si,,,covid-19 lockdown,කොවිඩ්-19 අඟුලු ලෑම
+267,en,si,,,covid-19 map,කොවිඩ්-19 සිතියම
+268,en,si,,,covid-19 medicine,කොවිඩ්-19 ඖෂධය
+269,en,si,,,covid-19 medicines,කොවිඩ්-19 ඖෂධ
+270,en,si,,,covid-19 news,කොවිඩ්-19 පුවත්
+271,en,si,,,covid-19 outbreak,කොවිඩ්-19 පැතිරීම
+272,en,si,,,covid-19 pandemic,කොවිඩ්-19 ව්‍යාප්ත වසංගතය
+273,en,si,,,covid-19 panic,කොවිඩ්-19 සංත්‍රාසය
+275,en,si,,,covid-19 precautions,කොවිඩ්-19 පූර්වාරක්‍ෂා
+276,en,si,,,covid-19 protection,කොවිඩ්-19 ආරක්‍ෂාව
+277,en,si,,,covid-19 quarantine,කොවිඩ්-19 නිරෝධායනය
+278,en,si,,,covid-19 SOS Alert,කොවිඩ්-19 SOS ඇඟවීම
+279,en,si,,,covid-19 spread,කොවිඩ්-19 බෝ වීම
+280,en,si,,,covid-19 symptoms,කොවිඩ්-19 රෝග ලක්‍ෂණ
+281,en,si,,,covid-19 transmission,කොවිඩ්-19 සම්ප්‍රේෂණය
+282,en,si,,,covid-19 travel ban,කොවිඩ්-19 ගමන් තහනම
+283,en,si,,,covid-19 travel restrictions,කොවිඩ්-19 ගමන් සීමා කිරීම්
+284,en,si,,,covid-19 treatment,කොවිඩ්-19 ප්‍රතිකාරය
+285,en,si,,,covid-19 uncontrolled spread,කොවිඩ්-19 අපාලිත බෝ වීම
+286,en,si,,,covid-19 vaccine,කොවිඩ්-19 එන්නත
+287,en,si,,,covid-19 vaccines,කොවිඩ්-19 එන්නත්
+288,en,si,,,COVID-19 virus,කොවිඩ්-19 වයිරසය
+289,en,si,,,covid-19 virus outbreak,කොවිඩ්-19 වයිරසය පැතිරීම
+290,en,si,,,covid-19 virus transmission,කොවිඩ්-19 වයිරසය සම්ප්‍රේෂණය
+291,en,si,,,covid-19 WHO,කොවිඩ්-19 WHO
+292,en,si,,,covid19,කොවිඩ්19
+293,en,si,,,covid19 alert,කොවිඩ්19 ඇඟවීම
+294,en,si,,,covid19 cases,කොවිඩ්19 අවස්ථා
+295,en,si,,,covid19 CDC,කොවිඩ්19 CDC
+301,en,si,,,covid19 deaths,කොවිඩ්19 මරණ
+302,en,si,,,covid19 domestic travel,කොවිඩ්19 දේශීය ගමනාගමන
+303,en,si,,,covid19 effects,කොවිඩ්19 බලපෑම්
+304,en,si,,,covid19 epidemic,කොවිඩ්19 වසංගතය
+305,en,si,,,covid19 exposure,කොවිඩ්19 නිරාවරණය
+306,en,si,,,covid19 fatal,කොවිඩ්19 මාරක
+307,en,si,,,covid19 fever,කොවිඩ්19 උණ
+308,en,si,,,covid19 illness,කොවිඩ්19 අසනීපය
+309,en,si,,,covid19 incubation,කොවිඩ්19 බීජෞෂණය
+310,en,si,,,covid19 incubation period,කොවිඩ්19 බීජෞෂණ කාලය
+311,en,si,,,covid19 infection,කොවිඩ්19 ආසාදනය
+312,en,si,,,covid19 international spread,කොවිඩ්19 ජාත්‍යන්තර බෝ වීම
+313,en,si,,,covid19 international travel,කොවිඩ්19 ජාත්‍යන්තර ගමනාගමන
+314,en,si,,,covid19 isolation,කොවිඩ්19 ඒකලනය
+315,en,si,,,covid19 lockdown,කොවිඩ්19 අඟුලු ලෑම
+316,en,si,,,covid19 map,කොවිඩ්19 සිතියම
+317,en,si,,,covid19 medicine,කොවිඩ්19 ඖෂධය
+318,en,si,,,covid19 medicines,කොවිඩ්19 ඖෂධ
+319,en,si,,,covid19 news,කොවිඩ්19 පුවත්
+320,en,si,,,covid19 outbreak,කොවිඩ්19 පැතිරීම
+321,en,si,,,covid19 pandemic,කොවිඩ්19 ව්‍යාප්ත වසංගතය
+324,en,si,,,covid19 precautions,කොවිඩ්19 පූර්වාරක්‍ෂා
+325,en,si,,,covid19 protection,කොවිඩ්19 ආරක්‍ෂාව
+326,en,si,,,covid19 quarantine,කොවිඩ්19 නිරෝධායනය
+327,en,si,,,covid19 SOS Alert,කොවිඩ්19 SOS ඇඟවීම
+328,en,si,,,covid19 spread,කොවිඩ්19 බෝ වීම
+329,en,si,,,covid19 symptoms,කොවිඩ්19 රෝග ලක්‍ෂණ
+330,en,si,,,covid19 transmission,කොවිඩ්19 සම්ප්‍රේෂණය
+331,en,si,,,covid19 travel ban,කොවිඩ්19 ගමන් තහනම
+332,en,si,,,covid19 travel restrictions,කොවිඩ්19 ගමන් සීමා කිරීම්
+333,en,si,,,covid19 treatment,කොවිඩ්19 ප්‍රතිකාරය
+335,en,si,,,covid19 vaccine,කොවිඩ්19 එන්නත
+336,en,si,,,covid19 vaccines,කොවිඩ්19 එන්නත්
+337,en,si,,,covid19 virus,කොවිඩ්19 වයිරසය
+338,en,si,,,covid19 virus outbreak,කොවිඩ්19 වයිරසය පැතිරීම
+339,en,si,,,covid19 virus transmission,කොවිඩ්19 වයිරසය සම්ප්‍රේෂණය
+342,en,si,,,current outbreak,වත්මන් පැතිරීම
+343,en,si,,,deadly outbreak,මාරාන්තික පැතිරීම
+345,en,si,,,disease outbreak,රෝගය පැතිරීම
+346,en,si,,,Disposable hand sanitizer,බැහැර කළ හැකි අත් සනීපාරක්‍ෂකය
+348,en,si,,,domestic travel,දේශීය ගමනාගමන
+351,en,si,,,droplets,පොඩිති
+357,en,si,,,Effects of coronavirus,කොරෝනාවයිරසයේ බලපෑම්
+359,en,si,,,epidemic,වසංගතය
+360,en,si,,,epidemic and pandemic,වසංගතය සහ ව්‍යාප්ත වසංගතය
+362,en,si,,,epidemic disease,වසංගත රෝගය
+364,en,si,,,epidemic outbreak,වසංගතය පැතිරීම
+365,en,si,,,epidemic period,වසංගත කාලය
+366,en,si,,,epidemic prevention,වසංගතය වැළැක්වීම
+368,en,si,,,epidemic season,වසංගත වාරය
+369,en,si,,,epidemic situation,වසංගත තත්ත්‍වය
+371,en,si,,,exposure,නිරාවරණය
+375,en,si,,,exposure time,නිරාවරණ කාලය
+379,en,si,,,fever,උණ
+380,en,si,,,fight the virus,වයිරසයට එරෙහිව සටන් කිරීම
+381,en,si,,,Fighting the outbreak,පැතිරීමට එරෙහිව සටන් කිරීම
+382,en,si,,,flu epidemic,හෙම්බිරිස්සා උණ වසංගතය
+385,en,si,,,fomites,විසපැහැසිය
+392,en,si,,,global health emergency,ගෝලීය සෞඛ්‍ය හදිසි අවස්ථාව
+393,en,si,,,global outbreak,ගෝලීය පැතිරීම
+394,en,si,,,global pandemic,ගෝලීම ව්‍යාප්ත වසංගතය
+396,en,si,,,hand sanitizer,අත් සනීපාරක්‍ෂකය
+397,en,si,,,hand sanitizer dispenser,අත් සනීපාරක්‍ෂක පිළියෙළකරණය
+398,en,si,,,hand sanitizer gel,අත් සනීපාරක්‍ෂක ජෙල්
+399,en,si,,,hand sanitizer spray,අත් සනීපාරක්‍ෂක ඉස්නාව
+403,en,si,,,home isolation,නිවසේ ඒකලනය
+404,en,si,,,home quarantine,නිවසේ නිරෝධායනය
+410,en,si,,,illness,අසනීපය
+415,en,si,,,incubation period,බීජෞෂණ කාලය
+418,en,si,,,infected,ආසාදිත
+424,en,si,,,instant hand sanitizer,ක්‍ෂණික අත් සනීපාරක්‍ෂකය
+425,en,si,,,international spread,ජාත්‍යන්තර බෝ වීම
+426,en,si,,,international travel,ජාත්‍යන්තර ගමනාගමන
+427,en,si,,,isolation,ඒකලනය
+428,en,si,,,isolation period,ඒකලන කාලය
+430,en,si,,,isolation room,ඒකලන කාමරය
+431,en,si,,,isolation valve,ඒකලන වෑල්වය
+432,en,si,,,isolation ward,ඒකලන වාට්ටුව
+434,en,si,,,lockdown,අඟුලු ලෑම
+438,en,si,,,major outbreak,ප්‍රධාන පැතිරීම
+439,en,si,,,mandatory quarantine,අනිවාර්ය නිරෝධායනය
+440,en,si,,,mass gathering,බහුජන එක්රැස් වීම
+444,en,si,,,medicine,ඖෂධය
+445,en,si,,,medicines,ඖෂධ
+448,en,si,,,n95,n95
+449,en,si,,,n95 mask,n95 මුව වැස්ම
+450,en,si,,,n95 respirator,n95 ශ්වාසකය
+451,en,si,,,ncov,ncov
+452,en,si,,,ncov-2019,ncov-2019
+453,en,si,,,new coronavirus,අලුත් කොරෝනාවයිරසය
+454,en,si,,,new coronavirus pneumonia,නව කොරෝනාවයිරස නියුමෝනියාව
+460,en,si,,,novel coronavirus,නව කොරෝනාවයිරසය
+462,en,si,,,novel coronavirus infection,නව කොරෝනාවයිරස ආසාදනය
+463,en,si,,,novel coronavirus outbreak,නව කොරෝනාවයිරසය පැතිරීම
+464,en,si,,,novel coronavirus pneumonia,නව කොරෝනාවයිරස නියුමෝනියාව
+470,en,si,,,ongoing outbreak,පවතින පැතිරීම
+472,en,si,,,outbreak,පැතිරීම
+474,en,si,,,outbreak of coronavirus,කොරෝනාවයිරසය පැතිරීම
+475,en,si,,,outbreak of disease,රෝගය පැතිරීම
+482,en,si,,,pandemic,ව්‍යාප්ත වසංගතය
+485,en,si,,,pandemic influenza,ව්‍යාප්ත වසංගත ඉන්ෆ්ලුවන්සාව
+486,en,si,,,pandemic outbreak,ව්‍යාප්ත වසංගතය පැතිරීම
+487,en,si,,,pandemic plan,ව්‍යාප්ත වසංගත සැලැස්ම
+488,en,si,,,pandemic potential,ව්‍යාප්ත වසංගතයේ විභව්‍යය
+495,en,si,,,pneumonia,නියුමෝනියාව
+496,en,si,,,pneumonia epidemic,නියුමෝනියා වසංගතය
+497,en,si,,,potential exposure,විය හැකි නිරාවරණය
+498,en,si,,,precautions,පූර්වාරක්‍ෂා
+499,en,si,,,prevent virus,වයිරසය වැළැක්වීම
+500,en,si,,,prolonged exposure,දිගු කල් නිරාවරණය
+504,en,si,,,quarantine,නිරෝධායනය
+505,en,si,,,quarantine area,නිරෝධායන ප්‍රදේශය
+506,en,si,,,quarantine facility,නිරෝධායන පහසුකම
+507,en,si,,,quarantine measures,නිරෝධායන කටයුතු
+508,en,si,,,quarantine period,නිරෝධායන කාලය
+509,en,si,,,quarantine room,නිරෝධායන කාමරය
+510,en,si,,,quarantine zone,නිරෝධායන කලාපය
+512,en,si,,,Recovered coronavirus patient,සුව වූ කොරෝනාවයිරස රෝගියා
+514,en,si,,,repatriate,දේශප්‍රත්‍ය වර්තනය
+515,en,si,,,repeated exposure,පුනරාවර්තී නිරාවරණය
+516,en,si,,,respiratory syncytial virus,ශ්වසන සංසෛල වයිරසය
+517,en,si,,,respiratory virus,ශ්වසන වයිරසය
+519,en,si,,,Sanitizing hand sanitizer,සනීපාරක්‍ෂක අත් සනීපාරක්‍ෂකය
+520,en,si,,,SARS-CoV-2,SARS-CoV-2
+521,en,si,,,self isolation,ස්වයං ඒකලනය
+522,en,si,,,self quarantine,ස්වයං නිරෝධායනය
+523,en,si,,,Severe outbreak,දැඩි පැතිරීම
+525,en,si,,,social distancing,සමාජීය ඈත් වීම
+526,en,si,,,social distancing measures,සමාජීය ඈත් වීමේ කටයුතු
+527,en,si,,,social isolation,සමාජ ඒකලනය
+528,en,si,,,SOS Alert,SOS ඇඟවීම
+529,en,si,,,spread,බෝ වීම
+530,en,si,,,spread of coronavirus,කොරෝනාවයිරසය බෝ වීම
+531,en,si,,,spread of virus,වයිරසයේ බෝ වීම
+535,en,si,,,strain of virus,වයිරස මාදිලිය
+541,en,si,,,the incubation period,බීජෞෂණ කාලය
+544,en,si,,,the novel coronavirus,නව කොරෝනාවෛරසය
+558,en,si,,,touching face,මුහුණ ස්පර්ශ කිරීම
+559,en,si,,,travel advisory,ගමන් උපදෙස්
+560,en,si,,,travel ban,ගමන් තහනම
+561,en,si,,,travel restrictions,ගමන් සීමා කිරීම්
+565,en,si,,,use hand sanitizer,අත් සනීපාරක්‍ෂකය භාවිත කරන්න
+566,en,si,,,vaccines,එන්නත්
+567,en,si,,,viral outbreak,වයිරසය පැතිරීම
+568,en,si,,,virtual lockdown,අතත්‍ය අඟුලු ලෑම
+569,en,si,,,virus,වයිරසය
+570,en,si,,,virus carrier,වයිරස වාහකය
+573,en,si,,,virus infection,වයිරස ආසාදනය
+575,en,si,,,virus mask,වයිරස මුව වැස්ම
+576,en,si,,,virus outbreak,වයිරසය පැතිරීම
+577,en,si,,,virus prevention,වයිරසය වැළැක්වීම
+578,en,si,,,virus protection,වයිරස ආරක්‍ෂාව
+580,en,si,,,virus spread,වයිරසය බෝ වීම
+582,en,si,,,virus spreads,වයිරසය බෝ වීම්
+583,en,si,,,virus strain,වයිරස මාදිලිය
+584,en,si,,,virus transmission,වයිරස සම්ප්‍රේෂණය
+586,en,si,,,wash your hands,ඔබේ අත් සෝදන්න
+587,en,si,,,washing hands,අත් සේදීම
+589,en,si,,,WHO,WHO
+590,en,si,,,WHO Confirmed,WHO තහවුරු කළ
+591,en,si,,,WHO Deaths,WHO මරණ
+592,en,si,,,widespread outbreak,ව්‍යාප්ත පැතිරීම
+597,en,si,,,World Health Organization,ලෝක සෞඛ්‍ය සංවිධානය
+600,en,si,,,zoonotic disease,සත්ත්‍ව රෝගය
+601,en,si,,,zoonotic virus,සත්ත්‍ව වයිරසය

@@ -1,0 +1,50 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+xx_1,ar,en,,,جائحة,pandemic
+xx_2,ar,en,,,متلازمة الشرق الأوسط التنفسية,Middle East respiratory syndrome
+xx_3,ar,en,,,فحوص مختبرية,laboratory tests
+xx_4,ar,en,,,تحليل مصلي,serological analysis
+xx_5,ar,en,,,حمض نووي فيروسي,viral nucleic acid
+xx_6,ar,en,,,تجارب سريرية,clinical trials
+xx_7,ar,en,,,تطور فيروس كورونا,development coronavirus
+xx_8,ar,en,,,مستجدات فيروس كورونا,updates coronavirus
+xx_9,ar,en,,,أعراض الإصابة بفيروس كورونا,symptoms of infection with coronavirus
+xx_10,ar,en,,,حالات الشفاء,recovery cases
+xx_11,ar,en,,,لمس العينين والفم والأنف,"touching eyes, mouth and nose"
+xx_12,ar,en,,,التدابير الوقائية من كورونا,protective measures against corona
+xx_13,ar,en,,,التحديث اليومي للحالات,daily update of cases
+xx_14,ar,en,,,الرصد والتقصي,monitoring and investigation
+xx_15,ar,en,,,حالات مشتبه بإصابتها,suspected cases of infection
+xx_16,ar,en,,,الإغلاق الإلزامي,mandatory closure
+xx_17,ar,en,,,تعليق الرحلات,suspension of journeys
+xx_18,ar,en,,,إلغاء الرحلات,cancellation of journeys
+xx_19,ar,en,,,قيود على السفر,limitations on travel
+xx_20,ar,en,,,حظر السفر,travel ban
+xx_21,ar,en,,,عالقين,stranded
+xx_22,ar,en,,,إلغاء الحجز,cancellation of reservation
+xx_23,ar,en,,,الحالات المخالطة,affected cases
+xx_24,ar,en,,,عزل,isolation
+xx_25,ar,en,,,مراكز العزل,isolation centers
+xx_26,ar,en,,,فيروس كورونا المستجد,novel coronavirus
+xx_27,ar,en,,,رذاذ,spray
+xx_28,ar,en,,,سعال,cough
+xx_29,ar,en,,,عطس,sneezing
+xx_30,ar,en,,,كمامة,mask
+xx_31,ar,en,,,مخالطة,contact
+xx_32,ar,en,,,مطهر يدين,hand sanitizer
+xx_33,ar,en,,,وقاية,protection
+xx_34,ar,en,,,صعوبة في التنفس,difficulty breathing
+xx_35,ar,en,,,قطيرات,droplets
+xx_36,ar,en,,,إخلاء,evacuation
+xx_38,ar,en,,,حظر التجوال,curfew
+xx_39,ar,en,,,بؤرة,epicenter
+xx_40,ar,en,,,وفيات كورونا,corona fatalities
+xx_41,ar,en,,,تباعد اجتماعي,social distancing
+xx_42,ar,en,,,عزل ذاتي,self-isolation
+xx_43,ar,en,,,إحصائيات,statistics
+xx_44,ar,en,,,نسبة الشفاء,recovery rate
+xx_45,ar,en,,,احتواء الفيروس,containment of the virus
+xx_46,ar,en,,,ضيق التنفس,shortness of breath
+xx_47,ar,en,,,تعقيم,sterilization
+xx_48,ar,en,,,تطهير,disinfection
+xx_49,ar,en,,,تفشي كوفيد,covid spread
+xx_50,ar,en,,,إصابات جديدة بكورونا,new coronavirus cases

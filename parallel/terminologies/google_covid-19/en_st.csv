@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,st,,,14 days in isolation,nako ya ho butswa ha lefu ya matsatsi a 14
+26,en,st,,,14 days quarantine,ho kwallwa thoko ha matsatsi a 14
+27,en,st,,,2019 coronavirus,2019 coronavirus
+28,en,st,,,2019 novel coronavirus,coronavirus e sa tlwaelehang ya 2019
+29,en,st,,,2019-nCoV,2019-nCoV
+30,en,st,,,2020 coronavirus,2020 coronavirus
+31,en,st,,,2020 novel coronavirus,coronavirus e sa tlwaelehang ya 2020
+33,en,st,,,about coronavirus,mabapi le coronavirus
+39,en,st,,,acute respiratory distress syndrome,mafu a totileng a hatellang phefumoloho
+40,en,st,,,advanced hand sanitizer,sebolaya-mahloko sa matsoho se hatetseng pele
+41,en,st,,,Affected by coronavirus,Ya anngweng ke coronavirus
+42,en,st,,,after exposure,kamora kgahlamelo
+43,en,st,,,After the epidemic,Kamora seewa
+44,en,st,,,After the outbreak,Kamora ho qhoma ha lefu
+47,en,st,,,airborne virus,vaerase e jalehang ka moya
+48,en,st,,,alcohol based hand sanitizer,sebolaya-mahloko sa alkhohole
+49,en,st,,,alcohol hand sanitizer,sebolaya-mahloko sa alkhohole
+51,en,st,,,alcohol-based hand sanitizer,sebolaya-mahloko sa matsoho sa alkhohole
+59,en,st,,,Anti-Corona virus spray,Senyanyatsi se bolayang vaerase ya Corona
+60,en,st,,,antibacterial hand sanitizer,sebolaya-mahloko sa matsoho sa baktheria
+61,en,st,,,ARDS,ARDS
+64,en,st,,,avoid exposure,qoba kgahlamelo
+65,en,st,,,be infected,ho tshwaetswa
+75,en,st,,,Beware of coronavirus,Lemoha coronavirus
+76,en,st,,,bilateral interstitial pneumonia,temalo ya matshwafo ke nyomoea
+77,en,st,,,CDC,CDC
+78,en,st,,,Center for Disease Control,Setsi sa Taolo ya Mafu
+83,en,st,,,community spread,ho jaleha setjhabeng
+84,en,st,,,compulsory quarantine,ho ikwalla thoko ka qobello
+85,en,st,,,contagious,e a tshwaetsana
+135,en,st,,,coronavirus,ioronavirus
+136,en,st,,,coronavirus (COVID-19),coronavirus (COVID-19)
+137,en,st,,,coronavirus alert,temoso ya coronavirus
+139,en,st,,,coronavirus cases,diketsahalo tsa coronavirus
+141,en,st,,,coronavirus concerns,dingongoreho tsa coronavirus
+143,en,st,,,coronavirus crisis,tlokotsi ya coronavirus
+149,en,st,,,coronavirus disease,bokudi ba coronavirus
+150,en,st,,,Coronavirus disease (COVID-19) outbreak,Ho qhoma ha lefu la coronavirus (COVID-19)
+153,en,st,,,coronavirus early symptoms,matshwao a pele a coronavirus
+155,en,st,,,coronavirus epidemic,sewa sa coronavirus
+156,en,st,,,coronavirus exposure,kgahlamelo ke coronavirus
+161,en,st,,,coronavirus incubation,ho butswa ha coronavirus
+162,en,st,,,coronavirus incubation period,nako ya ho butswa ya coronavirus
+163,en,st,,,coronavirus infection,tshwaetso ya coronavirus
+168,en,st,,,coronavirus map,mmapa wa coronavirus
+170,en,st,,,coronavirus medicine,moriana wa coronavirus
+171,en,st,,,coronavirus medicines,meriana ya coronavirus
+172,en,st,,,coronavirus news,ditaba tsa coronavirus
+173,en,st,,,coronavirus outbreak,ho qhoma ha coronavirus
+174,en,st,,,coronavirus pandemic,sewa se seholo sa coronavirus
+176,en,st,,,coronavirus pneumonia,nyomonea ya coronavirus
+177,en,st,,,coronavirus precautions,mehato ya tlhokomelo ya coronavirus
+178,en,st,,,coronavirus prevention,thibelo ya coronavirus
+179,en,st,,,coronavirus protection,tshireletso ya coronavirus
+180,en,st,,,coronavirus quarantine,ho kwallwa thoko bakeng sa coronavirus
+182,en,st,,,coronavirus SOS Alert,Temoso ya SOS ya coronavirus
+183,en,st,,,coronavirus spread,ho jaleha ha coronavirus
+184,en,st,,,coronavirus symptoms,matshwao a ho kula a coronavirus
+185,en,st,,,coronavirus transmission,phetiso ya coronavirus
+186,en,st,,,coronavirus travel ban,thibelo ya maeto ya coronavirus
+187,en,st,,,coronavirus travel restrictions,ho ngotlwa ha maeto ha coronavirus
+188,en,st,,,coronavirus treatment,kalafo ya coronavirus
+190,en,st,,,coronavirus update,apdeite ya coronavirus
+191,en,st,,,coronavirus vaccine,kentelo ya coronavirus
+192,en,st,,,coronavirus vaccines,dikentelo tsa coronavirus
+198,en,st,,,covid cases,diketsahalo tsa covid
+205,en,st,,,covid early symptoms,matshwao a pele a covid
+213,en,st,,,covid incubation period,nako ya ho bitswa ya covid
+215,en,st,,,covid international spread,ho jalwa ha matjhabeng ha covid
+216,en,st,,,covid international travel,maeto a matjhabeng a covid
+217,en,st,,,covid isolation,ho behellwa thoko bakeng sa covid
+219,en,st,,,covid map,mmapa wa covid
+220,en,st,,,covid medicine,moriana wa covid
+221,en,st,,,covid medicines,meriana ya covid
+222,en,st,,,covid news,ditaba tsa covid
+223,en,st,,,covid outbreak,ho qhoma ha covid
+224,en,st,,,covid pandemic,sewa se seholo sa covid
+225,en,st,,,covid panic,tshabo ya covid
+228,en,st,,,covid SOS Alert,temoso ya SOS ya covid
+230,en,st,,,covid symptoms,matshwao a ho kula a covid
+231,en,st,,,covid transmission,phetiso ya covid
+232,en,st,,,covid travel ban,ho thibelwa ha maeto ha covid
+233,en,st,,,covid travel restrictions,ho ngotlwa ha maeto ha covid
+234,en,st,,,covid treatment,kalafo ya covid
+236,en,st,,,covid vaccine,kentelo ya covid
+237,en,st,,,covid vaccines,dikentelo tsa covid
+242,en,st,,,covid-19,covid-19
+243,en,st,,,covid-19 alert,temoso ya covid-19
+244,en,st,,,covid-19 cases,diketsahalo tsa covid-19
+245,en,st,,,covid-19 CDC,covid-19 CDC
+246,en,st,,,covid-19 contagious,covid-19 e a tshwaetsana
+247,en,st,,,covid-19 cure,pheko ya covid-19
+248,en,st,,,covid-19 dangerous,covid-19 e kotsi
+249,en,st,,,covid-19 deadly,covid-19 e a bolaya
+250,en,st,,,covid-19 death,motho ya bolailweng ke covid-19
+251,en,st,,,covid-19 deaths,batho ba bolailweng ke covid-19
+252,en,st,,,covid-19 domestic travel,maeto a lehae a covid-19
+253,en,st,,,covid-19 early symptoms,matshwao a ho kula a pele a covid-19
+254,en,st,,,covid-19 effects,dikamo tse bakwang ke covid-19
+255,en,st,,,covid-19 epidemic,sewa sa covid-19
+256,en,st,,,covid-19 exposure,kgahlamelo ke covid-19
+257,en,st,,,covid-19 fatal,covid-19 e a bolaya
+258,en,st,,,covid-19 fever,feberu ya covid-19
+259,en,st,,,covid-19 illness,bokudi ba covid-19
+260,en,st,,,covid-19 incubation,ho butswa ha covid-19
+261,en,st,,,covid-19 incubation period,nako ya ho butswa ya covid-19
+262,en,st,,,covid-19 infection,tshwaetso ya covid-19
+263,en,st,,,covid-19 international spread,ho jaleha ha matjhabeng ha covid-19
+264,en,st,,,covid-19 international travel,maeto a matjhabeng a covid-19
+265,en,st,,,covid-19 isolation,ho behwa thoko ka lebaka la covid-19
+266,en,st,,,covid-19 lockdown,ho kwalwa ha naha ka lebaka la covid-19
+267,en,st,,,covid-19 map,mmapa wa covid-19
+268,en,st,,,covid-19 medicine,moriana wa covid-19
+269,en,st,,,covid-19 medicines,meriana ya covid-19
+270,en,st,,,covid-19 news,ditaba tsa covid-19
+271,en,st,,,covid-19 outbreak,ho qhoma ha covid-19
+272,en,st,,,covid-19 pandemic,sewa se seholo sa covid-19
+273,en,st,,,covid-19 panic,tshabo ya covid-19
+275,en,st,,,covid-19 precautions,mehato ya tlhokomelo ya covid-19
+276,en,st,,,covid-19 protection,tshireletso ya covid-19
+277,en,st,,,covid-19 quarantine,ho kwallwa thoko ka lebaka la covid-19
+278,en,st,,,covid-19 SOS Alert,temoso ya SOS ya covid-19
+279,en,st,,,covid-19 spread,ho jaleha ha covid-19
+280,en,st,,,covid-19 symptoms,matshwao a ho kula a covid-19
+281,en,st,,,covid-19 transmission,phetiso ya covid-19
+282,en,st,,,covid-19 travel ban,ho thibelwa ha maeto ha covid-19
+283,en,st,,,covid-19 travel restrictions,ho ngotlwa ha maeto ha covid-19
+284,en,st,,,covid-19 treatment,kalafo ya covid-19
+285,en,st,,,covid-19 uncontrolled spread,ho jaleha ho sa laolweng ha covid-19
+286,en,st,,,covid-19 vaccine,kentelo ya covid-19
+287,en,st,,,covid-19 vaccines,dikentelo tsa covid-19
+288,en,st,,,COVID-19 virus,vaerase ya covid-19
+289,en,st,,,covid-19 virus outbreak,ho qhoma ha vaerase ya covid-19
+290,en,st,,,covid-19 virus transmission,phetiso ya vaerase ya covid-19
+291,en,st,,,covid-19 WHO,covid-19 WHO
+292,en,st,,,covid19,covid19
+293,en,st,,,covid19 alert,temoso ya covid19
+294,en,st,,,covid19 cases,diketsahalo tsa covid19
+295,en,st,,,covid19 CDC,covid19 CDC
+301,en,st,,,covid19 deaths,ho shwa ha batho ka lebaka la covid19
+302,en,st,,,covid19 domestic travel,maeto a lehae a covid19
+303,en,st,,,covid19 effects,dikamo tsa covid19
+304,en,st,,,covid19 epidemic,sewa sa covid19
+305,en,st,,,covid19 exposure,kgahlamelo ya covid19
+306,en,st,,,covid19 fatal,covid19 e a bolaya
+307,en,st,,,covid19 fever,feberu ya covid19
+308,en,st,,,covid19 illness,bokudi ba covid19
+309,en,st,,,covid19 incubation,ho butswa ha covid19
+310,en,st,,,covid19 incubation period,nako ya ho butswa ya covid19
+311,en,st,,,covid19 infection,tshwaetso ya covid19
+312,en,st,,,covid19 international spread,ho jaleha ha matjhabeng ha covid19
+313,en,st,,,covid19 international travel,maeto a matjhabeng a covid19
+314,en,st,,,covid19 isolation,ho behellwa thoko ka lebaka la covid19
+315,en,st,,,covid19 lockdown,ho kwalwa ha naha ka lebaka la covid19
+316,en,st,,,covid19 map,mmapa wa covid19
+317,en,st,,,covid19 medicine,moriana wa covid19
+318,en,st,,,covid19 medicines,meriana ya covid19
+319,en,st,,,covid19 news,ditaba tsa covid19
+320,en,st,,,covid19 outbreak,ho qhoma ha covid19
+321,en,st,,,covid19 pandemic,sewa se seholo sa covid19
+324,en,st,,,covid19 precautions,mehato ya tlhokomelo ya covid19
+325,en,st,,,covid19 protection,tshireletso ya covid19
+326,en,st,,,covid19 quarantine,ho kwallwa thoko ka lebaka la covid19
+327,en,st,,,covid19 SOS Alert,temoso ya SOS ya covid19
+328,en,st,,,covid19 spread,ho jaleha ha covid19
+329,en,st,,,covid19 symptoms,matshwao a ho kula a covid19
+330,en,st,,,covid19 transmission,phetiso ya covid19
+331,en,st,,,covid19 travel ban,thibelo ya maeto ya covid19
+332,en,st,,,covid19 travel restrictions,ho ngotlwa ha maeto ha covid19
+333,en,st,,,covid19 treatment,kalafo ya covid19
+335,en,st,,,covid19 vaccine,kentelo ya covid19
+336,en,st,,,covid19 vaccines,dikentelo tsa covid19
+337,en,st,,,covid19 virus,vaerase ya covid19
+338,en,st,,,covid19 virus outbreak,ho qhoma ha vaerase ya covid19
+339,en,st,,,covid19 virus transmission,phetiso ya vaerase ya covid19
+342,en,st,,,current outbreak,ho qhoma ha lefu hajwale
+343,en,st,,,deadly outbreak,ho qhoma ha lefu le bolayang
+345,en,st,,,disease outbreak,ho qhoma ha lefu
+346,en,st,,,Disposable hand sanitizer,Sebolaya-mahloko sa matsoho se lahlwang
+348,en,st,,,domestic travel,maeto a kahara naha
+351,en,st,,,droplets,marothodi
+357,en,st,,,Effects of coronavirus,Dikamo tsa coronavirus
+359,en,st,,,epidemic,sewa
+360,en,st,,,epidemic and pandemic,sewa le sewa se seholo
+362,en,st,,,epidemic disease,lefu la sewa
+364,en,st,,,epidemic outbreak,ho qhoma ha sewa
+365,en,st,,,epidemic period,nako ya sewa
+366,en,st,,,epidemic prevention,thibelo ya sewa
+368,en,st,,,epidemic season,sehla wa sewa
+369,en,st,,,epidemic situation,boemo ba sewa
+371,en,st,,,exposure,kgahlamelo
+375,en,st,,,exposure time,nako ya kgahlamelo
+379,en,st,,,fever,feberu
+380,en,st,,,fight the virus,lwantsha vaerase
+381,en,st,,,Fighting the outbreak,Ho lwantsha ho qhoma ha lefu
+382,en,st,,,flu epidemic,sewa sa mokgohlane
+385,en,st,,,fomites,difetisa-mafu
+392,en,st,,,global health emergency,tlokotsi ya bophelo lefatsheng lohle
+393,en,st,,,global outbreak,ho qhoma ha lefu lefatsheng lohle
+394,en,st,,,global pandemic,sewa se seholo lefatsheng lohle
+396,en,st,,,hand sanitizer,sehlapa-matsoho
+397,en,st,,,hand sanitizer dispenser,motjhini wa sebolaya-mahloko sa matsoho
+398,en,st,,,hand sanitizer gel,jele ya sebolaya-mahloko sa matsoho
+399,en,st,,,hand sanitizer spray,senyanyatsi sa sebolaya-mahloko sa matsoho
+403,en,st,,,home isolation,ho ipeha thoko lapeng
+404,en,st,,,home quarantine,ho ikwalla lapeng
+410,en,st,,,illness,bokudi
+415,en,st,,,incubation period,nako ya ho butswa ha lefu
+418,en,st,,,infected,tshwaditswe
+424,en,st,,,instant hand sanitizer,sebolaya-mahloko sa matsoho sa hanghang
+425,en,st,,,international spread,ho jalefa matjhabeng
+426,en,st,,,international travel,maeto a matjhabeng
+427,en,st,,,isolation,ho behwa ka thoko
+428,en,st,,,isolation period,nako ya ho behwa thoko
+430,en,st,,,isolation room,phapusi ya ho behwa thoko
+431,en,st,,,isolation valve,valefo ya ho beha thoko
+432,en,st,,,isolation ward,wate ya ho behwa thoko
+434,en,st,,,lockdown,ho kwalwa
+438,en,st,,,major outbreak,ho qhoma ha lefu ho hoholo
+439,en,st,,,mandatory quarantine,ho kwallwa thoko ka tlamello
+440,en,st,,,mass gathering,pokano ya batho ba bangata
+444,en,st,,,medicine,moriana
+445,en,st,,,medicines,meriana
+448,en,st,,,n95,n95
+449,en,st,,,n95 mask,maske ya n95
+450,en,st,,,n95 respirator,sephefomolohisi sa n95
+451,en,st,,,ncov,ncov
+452,en,st,,,ncov-2019,ncov-2019
+453,en,st,,,new coronavirus,coronavirus e ntjha
+454,en,st,,,new coronavirus pneumonia,nyomonea ya coronavirus e ntjha
+460,en,st,,,novel coronavirus,coronavirus e qalang ho bonwa
+462,en,st,,,novel coronavirus infection,tshwaetso ya coronavirus e ntjha
+463,en,st,,,novel coronavirus outbreak,ho qhoma ha coronavirus e ntjha
+464,en,st,,,novel coronavirus pneumonia,nyomonea ya coronavirus e ntjha
+470,en,st,,,ongoing outbreak,ho qhoma ho tswellang
+472,en,st,,,outbreak,ho qhoma ha lefu
+474,en,st,,,outbreak of coronavirus,ho qhoma ha coronavirus
+475,en,st,,,outbreak of disease,ho qhoma ha lefu
+482,en,st,,,pandemic,sewa se seholo
+485,en,st,,,pandemic influenza,flu ya sewa se seholo
+486,en,st,,,pandemic outbreak,ho qhoma ha sewa se seholo
+487,en,st,,,pandemic plan,morero wa sewa se seholo
+488,en,st,,,pandemic potential,kgonahalo ya sewa se seholo
+495,en,st,,,pneumonia,nyomonea
+496,en,st,,,pneumonia epidemic,nyomonea ya sewa se seholo
+497,en,st,,,potential exposure,kgonahalo ya kgahlamelo
+498,en,st,,,precautions,mehato ya tlhokomelo
+499,en,st,,,prevent virus,thibela vaerase
+500,en,st,,,prolonged exposure,kgahlamelo e lelefaditsweng
+504,en,st,,,quarantine,ikwalla thoko
+505,en,st,,,quarantine area,sebaka sa ho kwallwa thoko
+506,en,st,,,quarantine facility,setsi sa ho kwallwa thoko
+507,en,st,,,quarantine measures,mehato ya ho kwalla thoko
+508,en,st,,,quarantine period,nako ya ho kwallwa thoko
+509,en,st,,,quarantine room,phapusi ya ho kwallwa thoko
+510,en,st,,,quarantine zone,zounu ya ho kwallwa thoko
+512,en,st,,,Recovered coronavirus patient,Mokudi ya hlaphohetsweng wa coronavirus
+514,en,st,,,repatriate,ho busetswa naheng ya heno (verb)
+515,en,st,,,repeated exposure,kgahlamelo e iphetang
+516,en,st,,,respiratory syncytial virus,vaerase ya phefumoloho ya matshwafo
+517,en,st,,,respiratory virus,vaerase ya phefumoloho
+519,en,st,,,Sanitizing hand sanitizer,Sebolaya-mahloko sa matsoho se hlwekisang
+520,en,st,,,SARS-CoV-2,SARS-CoV-2
+521,en,st,,,self isolation,ho ipehella thoko
+522,en,st,,,self quarantine,ho ikwalla thoko
+523,en,st,,,Severe outbreak,Ho qhoma ha lefu le leholo
+525,en,st,,,social distancing,ho arohanngwa ha batho
+526,en,st,,,social distancing measures,mehato ya ho arohana ha setjhaba
+527,en,st,,,social isolation,ho behellwa thoko ha batho
+528,en,st,,,SOS Alert,Temoso ya SOS
+529,en,st,,,spread,ho jaleha
+530,en,st,,,spread of coronavirus,ho jaleha ha coronavirus
+531,en,st,,,spread of virus,ho jaleha ha vaerase
+535,en,st,,,strain of virus,mofuta wa vaerase
+541,en,st,,,the incubation period,nako ya ho butswa ha lefu
+544,en,st,,,the novel coronavirus,coronavirus e ntjha e sa tlwaelehang
+558,en,st,,,touching face,ho thetsa sefahleho
+559,en,st,,,travel advisory,dikeletso tsa maeto
+560,en,st,,,travel ban,thibelo ya maeto
+561,en,st,,,travel restrictions,ho ngotla maeto
+565,en,st,,,use hand sanitizer,sebedisa sebolaya-mahloko sa matsoho
+566,en,st,,,vaccines,dikentelo
+567,en,st,,,viral outbreak,ho qhoma ha vaerase
+568,en,st,,,virtual lockdown,ho thibela motsamao ka ho phethahala
+569,en,st,,,virus,vaerase
+570,en,st,,,virus carrier,sethothi sa vaerase
+573,en,st,,,virus infection,tshwaetso ya vaerase
+575,en,st,,,virus mask,maske ya vaerase
+576,en,st,,,virus outbreak,ho qhoma ha vaerase
+577,en,st,,,virus prevention,thibelo ya vaerase
+578,en,st,,,virus protection,tshireletso ho vaerase
+580,en,st,,,virus spread,tjaleho ya vaerase
+582,en,st,,,virus spreads,vaerase e a jaleha
+583,en,st,,,virus strain,mofuta wa vaerase
+584,en,st,,,virus transmission,phetiso ya vaerase
+586,en,st,,,wash your hands,hlapa matsoho a hao
+587,en,st,,,washing hands,ho hlapa matsoho
+589,en,st,,,WHO,WHO
+590,en,st,,,WHO Confirmed,E Netefaditswe ke WHO
+591,en,st,,,WHO Deaths,Mafu a WHO
+592,en,st,,,widespread outbreak,ho qhoma ha sewa se nammeng
+597,en,st,,,World Health Organization,Mokgatlo wa Lefatshe wa Bophelo bo Botle
+600,en,st,,,zoonotic disease,lefu le tswang diphoofolong
+601,en,st,,,zoonotic virus,vaerase e tswang diphoofolong

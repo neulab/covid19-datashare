@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,el,,,14 days in isolation,14 ημέρες σε απομόνωση
+26,en,el,,,14 days quarantine,14 ημέρες καραντίνα
+27,en,el,,,2019 coronavirus,2019 κορωνοϊός
+28,en,el,,,2019 novel coronavirus,2019 νέος κορωνοϊός
+29,en,el,,,2019-nCoV,2019-nCov
+30,en,el,,,2020 coronavirus,2020 κορωνοϊός
+31,en,el,,,2020 novel coronavirus,2020 νέος κορωνοϊός
+33,en,el,,,about coronavirus,σχετικά με τον κορωνοϊό
+39,en,el,,,acute respiratory distress syndrome,σύνδρομο οξείας αναπνευστικής δυσχέρειας
+40,en,el,,,advanced hand sanitizer,εξελιγμένο απολυμαντικό χεριών
+41,en,el,,,Affected by coronavirus,Πλήττονται από κορωνοϊό
+42,en,el,,,after exposure,μετά την έκθεση
+43,en,el,,,After the epidemic,Μετά την επιδημία
+44,en,el,,,After the outbreak,Μετά την έξαρση
+47,en,el,,,airborne virus,αερομεταφερόμενος ιός
+48,en,el,,,alcohol based hand sanitizer,απολυμαντικό χεριών με βάση την αλκοόλη
+49,en,el,,,alcohol hand sanitizer,απολυμαντικό χεριών με αλκοόλη
+51,en,el,,,alcohol-based hand sanitizer,απολυμαντικό χεριών με βάση αλκοόλη
+59,en,el,,,Anti-Corona virus spray,Σπρέι ενάντια στον κορωνοϊό
+60,en,el,,,antibacterial hand sanitizer,αντιβακτηριδιακό απολυμαντικό χεριών
+61,en,el,,,ARDS,ARDS
+64,en,el,,,avoid exposure,αποφύγετε την έκθεση
+65,en,el,,,be infected,μολύνονται
+75,en,el,,,Beware of coronavirus,Προσέχετε τον κορωνοϊό
+76,en,el,,,bilateral interstitial pneumonia,διμερής διάμεση πνευμονία
+77,en,el,,,CDC,CDC
+78,en,el,,,Center for Disease Control,Κέντρο Ελέγχου Ασθενειών
+83,en,el,,,community spread,διασπορά στην κοινότητα
+84,en,el,,,compulsory quarantine,υποχρεωτική καραντίνα
+85,en,el,,,contagious,μεταδοτικός
+135,en,el,,,coronavirus,κορωνοϊός
+136,en,el,,,coronavirus (COVID-19),κορωνοϊός (COVID-19)
+137,en,el,,,coronavirus alert,ειδοποίηση για τον κορωνοϊό
+139,en,el,,,coronavirus cases,κρούσματα κορωνοϊού
+141,en,el,,,coronavirus concerns,ανησυχίες για τον κορωνοϊό
+143,en,el,,,coronavirus crisis,κρίση κορωνοϊού
+149,en,el,,,coronavirus disease,νόσος κορωνοϊού
+150,en,el,,,Coronavirus disease (COVID-19) outbreak,Έξαρση νόσου του κορωνοϊού (COVID-19)
+153,en,el,,,coronavirus early symptoms,πρώτα συμπτώματα κορωνοϊού
+155,en,el,,,coronavirus epidemic,επιδημία κορωνοϊού
+156,en,el,,,coronavirus exposure,έκθεση στον κορωνοϊό
+161,en,el,,,coronavirus incubation,επώαση κορωνοϊού
+162,en,el,,,coronavirus incubation period,περίοδος επώασης κορωνοϊού
+163,en,el,,,coronavirus infection,μόλυνση από κορωνοϊό
+168,en,el,,,coronavirus map,χάρτης κορωνοϊού
+170,en,el,,,coronavirus medicine,φάρμακο για τον κορωνοϊό
+171,en,el,,,coronavirus medicines,φάρμακα για τον κορωνοϊό
+172,en,el,,,coronavirus news,ειδήσεις για τον κορωνοϊό
+173,en,el,,,coronavirus outbreak,έξαρση κορωνοϊού
+174,en,el,,,coronavirus pandemic,πανδημία κορωνοϊού
+176,en,el,,,coronavirus pneumonia,πνευμονία από κορωνοϊό
+177,en,el,,,coronavirus precautions,προφυλάξεις για τον κορωνοϊό
+178,en,el,,,coronavirus prevention,πρόληψη κορωνοϊού
+179,en,el,,,coronavirus protection,προστασία από τον κορωνοϊό
+180,en,el,,,coronavirus quarantine,καραντίνα λόγω κορωνοϊού
+182,en,el,,,coronavirus SOS Alert,κορωνοϊός SOS Ειδοποίηση
+183,en,el,,,coronavirus spread,εξάπλωση κορωνοϊού
+184,en,el,,,coronavirus symptoms,συμπτώματα κορωνοϊού
+185,en,el,,,coronavirus transmission,μετάδοση κορωνοϊού
+186,en,el,,,coronavirus travel ban,κορωνοϊός απαγόρευση κυκλοφορίας
+187,en,el,,,coronavirus travel restrictions,κορωνοϊός περιορισμοί ταξιδιών
+188,en,el,,,coronavirus treatment,αγωγή για τον κορωνοϊό
+190,en,el,,,coronavirus update,ενημέρωση για τον κορωνοϊό
+191,en,el,,,coronavirus vaccine,εμβόλιο για τον κορωνοϊό
+192,en,el,,,coronavirus vaccines,εμβόλια για τον κορωνοϊό
+198,en,el,,,covid cases,κρούσματα covid
+205,en,el,,,covid early symptoms,πρώτα συμπτώματα covid
+213,en,el,,,covid incubation period,περίοδος επώασης covid
+215,en,el,,,covid international spread,διεθνής εξάπλωση covid
+216,en,el,,,covid international travel,covid διεθνές ταξίδι
+217,en,el,,,covid isolation,απομόνωση λόγω covid
+219,en,el,,,covid map,χάρτης covid
+220,en,el,,,covid medicine,φάρμακο για τον covid
+221,en,el,,,covid medicines,φάρμακα για τον covid
+222,en,el,,,covid news,ειδήσεις για τον covid
+223,en,el,,,covid outbreak,ξέσπασμα του covid
+224,en,el,,,covid pandemic,πανδημία covid
+225,en,el,,,covid panic,πανικός λόγω covid
+228,en,el,,,covid SOS Alert,covid SOS Ειδοποίηση
+230,en,el,,,covid symptoms,συμπτώματα covid
+231,en,el,,,covid transmission,μετάδοση covid
+232,en,el,,,covid travel ban,απαγόρευση κυκλοφορίας λόγω covid
+233,en,el,,,covid travel restrictions,covid περιορισμοί ταξιδιών
+234,en,el,,,covid treatment,αγωγή για τον covid
+236,en,el,,,covid vaccine,εμβόλιο για τον covid
+237,en,el,,,covid vaccines,εμβόλια για τον covid
+242,en,el,,,covid-19,covid-19
+243,en,el,,,covid-19 alert,ειδοποίηση για τον covid-19
+244,en,el,,,covid-19 cases,κρούσματα covid-19
+245,en,el,,,covid-19 CDC,covid-19 CDC
+246,en,el,,,covid-19 contagious,μεταδοτικός covid-19
+247,en,el,,,covid-19 cure,θεραπεία για τον covid-19
+248,en,el,,,covid-19 dangerous,επικίνδυνος covid-19
+249,en,el,,,covid-19 deadly,θανατηφόρος covid-19
+250,en,el,,,covid-19 death,θάνατος από covid-19
+251,en,el,,,covid-19 deaths,θάνατοι από covid-19
+252,en,el,,,covid-19 domestic travel,covid-19 ταξίδι εσωτερικού
+253,en,el,,,covid-19 early symptoms,πρώτα συμπτώματα covid-19
+254,en,el,,,covid-19 effects,επιπτώσεις του covid-19
+255,en,el,,,covid-19 epidemic,επιδημία covid-19
+256,en,el,,,covid-19 exposure,έκθεση στον covid-19
+257,en,el,,,covid-19 fatal,θανατηφόρος covid-19
+258,en,el,,,covid-19 fever,πυρετός από covid-19
+259,en,el,,,covid-19 illness,ασθένεια covid-19
+260,en,el,,,covid-19 incubation,επώαση του covid-19
+261,en,el,,,covid-19 incubation period,περίοδος επώασης covid-19
+262,en,el,,,covid-19 infection,μόλυνση από covid-19
+263,en,el,,,covid-19 international spread,διεθνής εξάπλωση covid-19
+264,en,el,,,covid-19 international travel,covid-19 διεθνές ταξίδι
+265,en,el,,,covid-19 isolation,απομόνωση λόγω covid-19
+266,en,el,,,covid-19 lockdown,απαγόρευση κυκλοφορίας λόγω covid-19
+267,en,el,,,covid-19 map,χάρτης covid-19
+268,en,el,,,covid-19 medicine,φάρμακο για τον covid-19
+269,en,el,,,covid-19 medicines,φάρμακα για τον covid-19
+270,en,el,,,covid-19 news,ειδήσεις για τον covid-19
+271,en,el,,,covid-19 outbreak,έξαρση του covid-19
+272,en,el,,,covid-19 pandemic,πανδημία covid-19
+273,en,el,,,covid-19 panic,πανικός από τον covid-19
+275,en,el,,,covid-19 precautions,προφυλάξεις για τον covid-19
+276,en,el,,,covid-19 protection,προστασία από τον covid-19
+277,en,el,,,covid-19 quarantine,καραντίνα λόγω covid-19
+278,en,el,,,covid-19 SOS Alert,covid-19 SOS Ειδοποίηση
+279,en,el,,,covid-19 spread,εξάπλωση covid-19
+280,en,el,,,covid-19 symptoms,συμπτώματα του covid-19
+281,en,el,,,covid-19 transmission,μετάδοση covid-19
+282,en,el,,,covid-19 travel ban,covid-19 απαγόρευση ταξιδιού
+283,en,el,,,covid-19 travel restrictions,covid-19 περιορισμοί ταξιδιών
+284,en,el,,,covid-19 treatment,αγωγή για τον covid-19
+285,en,el,,,covid-19 uncontrolled spread,μη ελεγχόμενη εξάπλωση covid-19
+286,en,el,,,covid-19 vaccine,εμβόλιο για τον covid-19
+287,en,el,,,covid-19 vaccines,εμβόλια για τον covid-19
+288,en,el,,,COVID-19 virus,ιός covid-19
+289,en,el,,,covid-19 virus outbreak,έξαρση ιού covid-19
+290,en,el,,,covid-19 virus transmission,μετάδοση ιού covid-19
+291,en,el,,,covid-19 WHO,covid-19 ΠΟΥ
+292,en,el,,,covid19,covid19
+293,en,el,,,covid19 alert,ειδοποίηση για τον covid19
+294,en,el,,,covid19 cases,κρούσματα covid19
+295,en,el,,,covid19 CDC,covid19 CDC
+301,en,el,,,covid19 deaths,θάνατοι από covid19
+302,en,el,,,covid19 domestic travel,covid19 ταξίδι εσωτερικού
+303,en,el,,,covid19 effects,επιπτώσεις του covid19
+304,en,el,,,covid19 epidemic,επιδημία covid19
+305,en,el,,,covid19 exposure,έκθεση στον covid19
+306,en,el,,,covid19 fatal,θανατηφόρος covid19
+307,en,el,,,covid19 fever,πυρετός από covid19
+308,en,el,,,covid19 illness,ασθένεια covid19
+309,en,el,,,covid19 incubation,επώαση του covid19
+310,en,el,,,covid19 incubation period,περίοδος επώασης covid19
+311,en,el,,,covid19 infection,μόλυνση από covid19
+312,en,el,,,covid19 international spread,διεθνής εξάπλωση covid19
+313,en,el,,,covid19 international travel,covid19 διεθνές ταξίδι
+314,en,el,,,covid19 isolation,απομόνωση λόγω covid19
+315,en,el,,,covid19 lockdown,απαγόρευση κυκλοφορίας λόγω covid19
+316,en,el,,,covid19 map,χάρτης covid19
+317,en,el,,,covid19 medicine,φάρμακο για τον covid19
+318,en,el,,,covid19 medicines,φάρμακα για τον covid19
+319,en,el,,,covid19 news,ειδήσεις για τον covid19
+320,en,el,,,covid19 outbreak,έξαρση για τον covid19
+321,en,el,,,covid19 pandemic,πανδημία covid19
+324,en,el,,,covid19 precautions,προφυλάξεις για τον covid19
+325,en,el,,,covid19 protection,προστασία από τον covid19
+326,en,el,,,covid19 quarantine,καραντίνα λόγω covid19
+327,en,el,,,covid19 SOS Alert,covid19 SOS Ειδοποίηση
+328,en,el,,,covid19 spread,εξάπλωση του covid19
+329,en,el,,,covid19 symptoms,συμπτώματα του covid19
+330,en,el,,,covid19 transmission,μετάδοση του covid19
+331,en,el,,,covid19 travel ban,covid19 απαγόρευση ταξιδιών
+332,en,el,,,covid19 travel restrictions,covid19 περιορισμοί ταξιδιών
+333,en,el,,,covid19 treatment,αγωγή για τον covid19
+335,en,el,,,covid19 vaccine,εμβόλιο για τον covid19
+336,en,el,,,covid19 vaccines,εμβόλια για τον covid19
+337,en,el,,,covid19 virus,ιός covid19
+338,en,el,,,covid19 virus outbreak,έξαρση ιού covid19
+339,en,el,,,covid19 virus transmission,μετάδοση ιού covid19
+342,en,el,,,current outbreak,τρέχουσα έξαρση
+343,en,el,,,deadly outbreak,θανατηφόρος έξαρση
+345,en,el,,,disease outbreak,έξαρση νόσου
+346,en,el,,,Disposable hand sanitizer,Απολυμαντικό χεριών μίας χρήσης
+348,en,el,,,domestic travel,ταξίδι εσωτερικού
+351,en,el,,,droplets,σταγονίδια
+357,en,el,,,Effects of coronavirus,Επιπτώσεις του κορωνοϊού
+359,en,el,,,epidemic,επιδημία
+360,en,el,,,epidemic and pandemic,επιδημία και πανδημία
+362,en,el,,,epidemic disease,επιδημική νόσος
+364,en,el,,,epidemic outbreak,έξαρση επιδημίας
+365,en,el,,,epidemic period,επιδημική περίοδος
+366,en,el,,,epidemic prevention,πρόληψη επιδημίας
+368,en,el,,,epidemic season,εποχή επιδημίας
+369,en,el,,,epidemic situation,επιδημική κατάσταση
+371,en,el,,,exposure,έκθεση
+375,en,el,,,exposure time,χρόνος έκθεσης
+379,en,el,,,fever,πυρετός
+380,en,el,,,fight the virus,καταπολεμήστε τον ιό
+381,en,el,,,Fighting the outbreak,Καταπολέμηση της έξαρσης
+382,en,el,,,flu epidemic,επιδημία γρίπης
+385,en,el,,,fomites,μικροβιοφόρες εστίες
+392,en,el,,,global health emergency,παγκόσμιος κίνδυνος για την υγεία
+393,en,el,,,global outbreak,παγκόσμια έξαρση
+394,en,el,,,global pandemic,παγκόσμια πανδημία
+396,en,el,,,hand sanitizer,απολυμαντικό χεριών
+397,en,el,,,hand sanitizer dispenser,διανεμητής απολυμαντικού χεριών
+398,en,el,,,hand sanitizer gel,τζελ απολύμανσης χεριών
+399,en,el,,,hand sanitizer spray,σπρέι απολύμανσης χεριών
+403,en,el,,,home isolation,απομόνωση στο σπίτι
+404,en,el,,,home quarantine,καραντίνα στο σπίτι
+410,en,el,,,illness,ασθένεια
+415,en,el,,,incubation period,περίοδος επώασης
+418,en,el,,,infected,μολυσμένος
+424,en,el,,,instant hand sanitizer,στιγμιαίο απολυμαντικό χεριών
+425,en,el,,,international spread,διεθνής εξάπλωση
+426,en,el,,,international travel,διεθνές ταξίδι
+427,en,el,,,isolation,απομόνωση
+428,en,el,,,isolation period,περίοδος απομόνωσης
+430,en,el,,,isolation room,δωμάτιο απομόνωσης
+431,en,el,,,isolation valve,βαλβίδα απομόνωσης
+432,en,el,,,isolation ward,πτέρυγα απομόνωσης
+434,en,el,,,lockdown,απαγόρευση κυκλοφορίας
+438,en,el,,,major outbreak,μεγάλη έξαρση
+439,en,el,,,mandatory quarantine,υποχρεωτική καραντίνα
+440,en,el,,,mass gathering,μαζική συγκέντρωση
+444,en,el,,,medicine,φάρμακο
+445,en,el,,,medicines,φάρμακα
+448,en,el,,,n95,n95
+449,en,el,,,n95 mask,μάσκα n95
+450,en,el,,,n95 respirator,αναπνευστήρας n95
+451,en,el,,,ncov,ncov
+452,en,el,,,ncov-2019,ncov-2019
+453,en,el,,,new coronavirus,νέος κορωνοϊός
+454,en,el,,,new coronavirus pneumonia,πνευμονία από τον νέο κορωνοϊό
+460,en,el,,,novel coronavirus,νέος κορωνοϊός
+462,en,el,,,novel coronavirus infection,μόλυνση από τον νέο κορωνοϊό
+463,en,el,,,novel coronavirus outbreak,έξαρση νέου κορωνοϊού
+464,en,el,,,novel coronavirus pneumonia,πνευμονία από τον νέο κορωνοϊό
+470,en,el,,,ongoing outbreak,διαρκής έξαρση
+472,en,el,,,outbreak,έξαρση
+474,en,el,,,outbreak of coronavirus,έξαρση του κορωνοϊού
+475,en,el,,,outbreak of disease,έξαρση της νόσου
+482,en,el,,,pandemic,πανδημία
+485,en,el,,,pandemic influenza,πανδημική γρίπη
+486,en,el,,,pandemic outbreak,πανδημική έξαρση
+487,en,el,,,pandemic plan,πλάνο πανδημίας
+488,en,el,,,pandemic potential,πιθανότητα πανδημίας
+495,en,el,,,pneumonia,πνευμονία
+496,en,el,,,pneumonia epidemic,επιδημία πνευμονίας
+497,en,el,,,potential exposure,πιθανή έκθεση
+498,en,el,,,precautions,προφυλάξεις
+499,en,el,,,prevent virus,προλάβετε τον ιό
+500,en,el,,,prolonged exposure,παρατεταμένη έκθεση
+504,en,el,,,quarantine,καραντίνα
+505,en,el,,,quarantine area,περιοχή καραντίνας
+506,en,el,,,quarantine facility,εγκατάσταση καραντίνας
+507,en,el,,,quarantine measures,μέτρα καραντίνας
+508,en,el,,,quarantine period,περίοδος καραντίνας
+509,en,el,,,quarantine room,δωμάτιο καραντίνας
+510,en,el,,,quarantine zone,ζώνη καραντίνας
+512,en,el,,,Recovered coronavirus patient,Ασθενής με κορωνοϊό που ανάρρωσε
+514,en,el,,,repatriate,επαναπατρίζομαι
+515,en,el,,,repeated exposure,επαναλαμβανόμενη έκθεση
+516,en,el,,,respiratory syncytial virus,αναπνευστικός συγκυτιακός ιός
+517,en,el,,,respiratory virus,αναπνευστικός ιός
+519,en,el,,,Sanitizing hand sanitizer,Απολυμαντικό χεριών που απολυμαίνει
+520,en,el,,,SARS-CoV-2,SARS-CoV-2
+521,en,el,,,self isolation,αυτο-απομόνωση
+522,en,el,,,self quarantine,αυτο-καραντίνα
+523,en,el,,,Severe outbreak,Σοβαρή έξαρση
+525,en,el,,,social distancing,κοινωνική αποστασιοποίηση
+526,en,el,,,social distancing measures,μέτρα κοινωνικής αποστασιοποίησης
+527,en,el,,,social isolation,κοινωνική απομόνωση
+528,en,el,,,SOS Alert,SOS Ειδοποίηση
+529,en,el,,,spread,εξάπλωση
+530,en,el,,,spread of coronavirus,εξάπλωση του κορωνοϊού
+531,en,el,,,spread of virus,εξάπλωση ιού
+535,en,el,,,strain of virus,στέλεχος του ιού
+541,en,el,,,the incubation period,η περίοδος επώασης
+544,en,el,,,the novel coronavirus,ο νέος κορωνοϊός
+558,en,el,,,touching face,αγγίζετε το πρόσωπο
+559,en,el,,,travel advisory,ταξιδιωτικές συμβουλές
+560,en,el,,,travel ban,απαγόρευση ταξιδιών
+561,en,el,,,travel restrictions,περιορισμοί ταξιδιών
+565,en,el,,,use hand sanitizer,χρήση απολυμαντικού χεριών
+566,en,el,,,vaccines,εμβόλια
+567,en,el,,,viral outbreak,έξαρση ιού
+568,en,el,,,virtual lockdown,σχεδόν καθολική απαγόρευση κυκλοφορίας
+569,en,el,,,virus,ιός
+570,en,el,,,virus carrier,φορέας ιού
+573,en,el,,,virus infection,μόλυνση από ιό
+575,en,el,,,virus mask,μάσκα για ιό
+576,en,el,,,virus outbreak,έξαρση ιού
+577,en,el,,,virus prevention,πρόληψη ιού
+578,en,el,,,virus protection,προστασία από ιό
+580,en,el,,,virus spread,εξάπλωση ιού
+582,en,el,,,virus spreads,ιός εξαπλώνεται
+583,en,el,,,virus strain,στέλεχος ιού
+584,en,el,,,virus transmission,μετάδοση ιού
+586,en,el,,,wash your hands,πλύνετε τα χέρια σας
+587,en,el,,,washing hands,πλένετε τα χέρια
+589,en,el,,,WHO,ΠΟΥ
+590,en,el,,,WHO Confirmed,ΠΟΥ Επιβεβαιωμένος
+591,en,el,,,WHO Deaths,ΠΟΥ Θάνατοι
+592,en,el,,,widespread outbreak,εκτεταμένη έξαρση
+597,en,el,,,World Health Organization,Παγκόσμιος Οργανισμός Υγείας
+600,en,el,,,zoonotic disease,ζωονοσογόνος νόσος
+601,en,el,,,zoonotic virus,ζωονοσογόνος ιός

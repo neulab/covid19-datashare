@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,eu,,,14 days in isolation,14 egunez isolatzea
+26,en,eu,,,14 days quarantine,14 eguneko koarentena
+27,en,eu,,,2019 coronavirus,2019 koronabirusa
+28,en,eu,,,2019 novel coronavirus,2019ko koronabirus berria
+29,en,eu,,,2019-nCoV,2019-nCoV
+30,en,eu,,,2020 coronavirus,2020 koronabirusa
+31,en,eu,,,2020 novel coronavirus,2020ko koronabirus berria
+33,en,eu,,,about coronavirus,koronabirusaren inguruan
+39,en,eu,,,acute respiratory distress syndrome,arnasteko zailtasuneko sundrome akutua
+40,en,eu,,,advanced hand sanitizer,esku higienizatzaile aurreratua
+41,en,eu,,,Affected by coronavirus,Koronabirusak kaltetuta
+42,en,eu,,,after exposure,esposizioaren ondoren
+43,en,eu,,,After the epidemic,Epidemiaren ondoren
+44,en,eu,,,After the outbreak,Agerraldiaren ondoren
+47,en,eu,,,airborne virus,airearen bitartez kutsatzen duen birusa
+48,en,eu,,,alcohol based hand sanitizer,alkoholean oinarritutako eskuen higienizatzailea
+49,en,eu,,,alcohol hand sanitizer,alkoholean oinarritutako higienizatzailea
+51,en,eu,,,alcohol-based hand sanitizer,alkoholean oinarritutako esku higienitzailea
+59,en,eu,,,Anti-Corona virus spray,Koronabirusaren aurkako espraia
+60,en,eu,,,antibacterial hand sanitizer,bakterioen aurkako esku higienizatzailea
+61,en,eu,,,ARDS,SRAS
+64,en,eu,,,avoid exposure,saihestu esposizioa
+65,en,eu,,,be infected,kutsatu
+75,en,eu,,,Beware of coronavirus,Kontuz koronabirusarekin
+76,en,eu,,,bilateral interstitial pneumonia,aldebiko pneumonia interstiziala
+77,en,eu,,,CDC,CDC
+78,en,eu,,,Center for Disease Control,Gaitzen kontrolerako zentroa
+83,en,eu,,,community spread,komunitatean barreiatzea
+84,en,eu,,,compulsory quarantine,nahitaezko koarentena
+85,en,eu,,,contagious,kutsakorra
+135,en,eu,,,coronavirus,koronabirusa
+136,en,eu,,,coronavirus (COVID-19),koronabirusa (COVID-19)
+137,en,eu,,,coronavirus alert,koronabirus alerta
+139,en,eu,,,coronavirus cases,koronabirus kasuak
+141,en,eu,,,coronavirus concerns,koronabirusaren inguruko kezkak
+143,en,eu,,,coronavirus crisis,koronabirus krisialdia
+149,en,eu,,,coronavirus disease,koronabirus gaitza
+150,en,eu,,,Coronavirus disease (COVID-19) outbreak,Koronabirus gaitzaren (COVID-19) agerraldia
+153,en,eu,,,coronavirus early symptoms,koronabirusaren sintoma goiztiarrak
+155,en,eu,,,coronavirus epidemic,koronabirusaren epidemia
+156,en,eu,,,coronavirus exposure,koronabirusaren esposizioa
+161,en,eu,,,coronavirus incubation,koronabirusaren inkubazioa
+162,en,eu,,,coronavirus incubation period,koronabirusaren inkubazio-aldia
+163,en,eu,,,coronavirus infection,koronabirusaren infekzioa
+168,en,eu,,,coronavirus map,koronabirusaren mapa
+170,en,eu,,,coronavirus medicine,koronabirusaren sendagaia
+171,en,eu,,,coronavirus medicines,koronabirusaren sendagaiak
+172,en,eu,,,coronavirus news,koronabirusaren inguruko albisteak
+173,en,eu,,,coronavirus outbreak,koronabirusaren agerraldia
+174,en,eu,,,coronavirus pandemic,koronabirusaren pandemia
+176,en,eu,,,coronavirus pneumonia,koronabirusaren ondoriozko pneumonia
+177,en,eu,,,coronavirus precautions,koronabirusaren aurkako neurriak
+178,en,eu,,,coronavirus prevention,koronabirusaren prebentzioa
+179,en,eu,,,coronavirus protection,koronabirusaren aurkako babesa
+180,en,eu,,,coronavirus quarantine,koronabirusaren koarentena
+182,en,eu,,,coronavirus SOS Alert,koronabirusa larrialdi abisua
+183,en,eu,,,coronavirus spread,koronabirusaren barreiatzea
+184,en,eu,,,coronavirus symptoms,koronabirusaren sintomak
+185,en,eu,,,coronavirus transmission,koronabirusaren transmisioa
+186,en,eu,,,coronavirus travel ban,koronabirusagatiko bidaiatzeko debekua
+187,en,eu,,,coronavirus travel restrictions,koronabirusagatiko bidaiatzeko murrizketak
+188,en,eu,,,coronavirus treatment,koronabirusaren tratamendua
+190,en,eu,,,coronavirus update,koronabirusaren eguneratzea
+191,en,eu,,,coronavirus vaccine,koronabirusaren txertoa
+192,en,eu,,,coronavirus vaccines,koronabirusaren txertoak
+198,en,eu,,,covid cases,covid kasuak
+205,en,eu,,,covid early symptoms,covid sintoma goiztiarrak
+213,en,eu,,,covid incubation period,covid inkubazio-aldia
+215,en,eu,,,covid international spread,covid nazioarteko barreiatzea
+216,en,eu,,,covid international travel,covid nazioarteko bidaia
+217,en,eu,,,covid isolation,covid isolatzea
+219,en,eu,,,covid map,covid mapa
+220,en,eu,,,covid medicine,covid sendagaia
+221,en,eu,,,covid medicines,covid sendagaiak
+222,en,eu,,,covid news,covid albisteak
+223,en,eu,,,covid outbreak,covid agerraldia
+224,en,eu,,,covid pandemic,covid pandemia
+225,en,eu,,,covid panic,covid ikara
+228,en,eu,,,covid SOS Alert,covid larrialdiko abisua
+230,en,eu,,,covid symptoms,covid sintomak
+231,en,eu,,,covid transmission,covid transmisioa
+232,en,eu,,,covid travel ban,covid bidaia debekua
+233,en,eu,,,covid travel restrictions,covid bidaia murrizketak
+234,en,eu,,,covid treatment,covid tratamendua
+236,en,eu,,,covid vaccine,covid txertoa
+237,en,eu,,,covid vaccines,covid txertoak
+242,en,eu,,,covid-19,covid-19
+243,en,eu,,,covid-19 alert,covid-19 alerta
+244,en,eu,,,covid-19 cases,covid-19 kasuak
+245,en,eu,,,covid-19 CDC,covid-19 CDC
+246,en,eu,,,covid-19 contagious,covid-19 kutsakorra
+247,en,eu,,,covid-19 cure,covid-19 sendaketa
+248,en,eu,,,covid-19 dangerous,covid-19 arriskutsua
+249,en,eu,,,covid-19 deadly,covid-19 hilkorra
+250,en,eu,,,covid-19 death,covid-19 heriotza
+251,en,eu,,,covid-19 deaths,covid-19 heriotzak
+252,en,eu,,,covid-19 domestic travel,covid-19 nazio barruko bidaia
+253,en,eu,,,covid-19 early symptoms,covid-19 sintoma goiztiarrak
+254,en,eu,,,covid-19 effects,covid-19 efektuak
+255,en,eu,,,covid-19 epidemic,covid-19 epidemia
+256,en,eu,,,covid-19 exposure,covid-19 esposizioa
+257,en,eu,,,covid-19 fatal,covid-19 hilkorra
+258,en,eu,,,covid-19 fever,covid-19 sukarra
+259,en,eu,,,covid-19 illness,covid-19 gaixotasuna
+260,en,eu,,,covid-19 incubation,covid-19 inkubazioa
+261,en,eu,,,covid-19 incubation period,covid-19 inkubazio-aldia
+262,en,eu,,,covid-19 infection,covid-19 infekzioa
+263,en,eu,,,covid-19 international spread,covid-19 nazioarteko barreiatzea
+264,en,eu,,,covid-19 international travel,covid-19 nazioarteko bidaia
+265,en,eu,,,covid-19 isolation,covid-19 isolatzea
+266,en,eu,,,covid-19 lockdown,covid-19 blokeoa
+267,en,eu,,,covid-19 map,covid-19 mapa
+268,en,eu,,,covid-19 medicine,covid-19 sendagaia
+269,en,eu,,,covid-19 medicines,covid-19 sendagaiak
+270,en,eu,,,covid-19 news,covid-19 albisteak
+271,en,eu,,,covid-19 outbreak,covid-19 agerraldia
+272,en,eu,,,covid-19 pandemic,covid-19 pandemia
+273,en,eu,,,covid-19 panic,covid-19 ikara
+275,en,eu,,,covid-19 precautions,covid-19 neurriak
+276,en,eu,,,covid-19 protection,covid-19 babesa
+277,en,eu,,,covid-19 quarantine,covid-19 koarentena
+278,en,eu,,,covid-19 SOS Alert,covid-19 larrialdiko abisua
+279,en,eu,,,covid-19 spread,covid-19 barreiatzea
+280,en,eu,,,covid-19 symptoms,covid-19 sintomak
+281,en,eu,,,covid-19 transmission,covid-19 transmisioa
+282,en,eu,,,covid-19 travel ban,covid-19 bidaiatzeko debekua
+283,en,eu,,,covid-19 travel restrictions,covid-19 biraiatzeko murrizketak
+284,en,eu,,,covid-19 treatment,covid-19 tratamendua
+285,en,eu,,,covid-19 uncontrolled spread,covid-19 kontrolik gabeko barreiatzea
+286,en,eu,,,covid-19 vaccine,covid-19 txertoa
+287,en,eu,,,covid-19 vaccines,covid-19 txertoak
+288,en,eu,,,COVID-19 virus,covid-19 birusa
+289,en,eu,,,covid-19 virus outbreak,covid-19 birus agerraldia
+290,en,eu,,,covid-19 virus transmission,covid-19 birus kutsatzea
+291,en,eu,,,covid-19 WHO,covid-19 MOE
+292,en,eu,,,covid19,covid19
+293,en,eu,,,covid19 alert,covid19 alerta
+294,en,eu,,,covid19 cases,covid19 kasuak
+295,en,eu,,,covid19 CDC,covid19 CDC
+301,en,eu,,,covid19 deaths,covid19 heriotzak
+302,en,eu,,,covid19 domestic travel,covid19 nazio barruko bidaia
+303,en,eu,,,covid19 effects,covid19 efektuak
+304,en,eu,,,covid19 epidemic,covid19 epidemia
+305,en,eu,,,covid19 exposure,covid19 esposizioa
+306,en,eu,,,covid19 fatal,covid19 hilkorra
+307,en,eu,,,covid19 fever,covid19 sukarra
+308,en,eu,,,covid19 illness,covid19 gaixotasuna
+309,en,eu,,,covid19 incubation,covid19 inkubazioa
+310,en,eu,,,covid19 incubation period,covid19 inkubazio-aldia
+311,en,eu,,,covid19 infection,covid19 infekzioa
+312,en,eu,,,covid19 international spread,covid19 nazioarteko barreiatzea
+313,en,eu,,,covid19 international travel,covid19 nazioarteko bidaia
+314,en,eu,,,covid19 isolation,covid19 isolatzea
+315,en,eu,,,covid19 lockdown,covid19 konfinamendua
+316,en,eu,,,covid19 map,covid19 mapa
+317,en,eu,,,covid19 medicine,covid19 sendagaia
+318,en,eu,,,covid19 medicines,covid19 sendagaiak
+319,en,eu,,,covid19 news,covid19 albisteak
+320,en,eu,,,covid19 outbreak,covid19 agerraldia
+321,en,eu,,,covid19 pandemic,covid19 pandemia
+324,en,eu,,,covid19 precautions,covid19 kontuak
+325,en,eu,,,covid19 protection,covid19 babesa
+326,en,eu,,,covid19 quarantine,covid19 koarentena
+327,en,eu,,,covid19 SOS Alert,covid19 larrialdiko abisua
+328,en,eu,,,covid19 spread,covid19 barreiatzea
+329,en,eu,,,covid19 symptoms,covid19 sintomak
+330,en,eu,,,covid19 transmission,covid19 transmisioa
+331,en,eu,,,covid19 travel ban,covid19 bidaia debekua
+332,en,eu,,,covid19 travel restrictions,covid19 bidaia murrizketak
+333,en,eu,,,covid19 treatment,covid19 tratamendua
+335,en,eu,,,covid19 vaccine,covid19 txertoa
+336,en,eu,,,covid19 vaccines,covid19 txertoak
+337,en,eu,,,covid19 virus,covid19 birusa
+338,en,eu,,,covid19 virus outbreak,covid19 birus agerraldia
+339,en,eu,,,covid19 virus transmission,covid19 birus kutsatzea
+342,en,eu,,,current outbreak,uneko agerraldia
+343,en,eu,,,deadly outbreak,agerraldi hilgarria
+345,en,eu,,,disease outbreak,gaitzaren agerraldia
+346,en,eu,,,Disposable hand sanitizer,Erabilera bakarreko esku higienizatzailea
+348,en,eu,,,domestic travel,nazio barruko bidaia
+351,en,eu,,,droplets,tantatxoak
+357,en,eu,,,Effects of coronavirus,Koronabirusaren efektuak
+359,en,eu,,,epidemic,epidemikoa
+360,en,eu,,,epidemic and pandemic,epidemia eta pandemia
+362,en,eu,,,epidemic disease,gaitz epidemikoa
+364,en,eu,,,epidemic outbreak,agerraldi epidemikoa
+365,en,eu,,,epidemic period,aldi epidemikoa
+366,en,eu,,,epidemic prevention,neurri epidemikoa
+368,en,eu,,,epidemic season,garai epidemikoa
+369,en,eu,,,epidemic situation,egoera epidemikoa
+371,en,eu,,,exposure,esposizio
+375,en,eu,,,exposure time,esposizio-denbora
+379,en,eu,,,fever,sukar
+380,en,eu,,,fight the virus,birusaren aurka borrokatu
+381,en,eu,,,Fighting the outbreak,Agerraldiaren aurka borrokatzea
+382,en,eu,,,flu epidemic,gripe epidemia
+385,en,eu,,,fomites,okadak
+392,en,eu,,,global health emergency,mundu osoko osasun larrialdia
+393,en,eu,,,global outbreak,mundu mailako agerraldia
+394,en,eu,,,global pandemic,mundu mailako pandemia
+396,en,eu,,,hand sanitizer,esku higienizatzailea
+397,en,eu,,,hand sanitizer dispenser,esku higienizatzailearen banatzailea
+398,en,eu,,,hand sanitizer gel,eskuetarako gel higienizatzailea
+399,en,eu,,,hand sanitizer spray,eskuetarako esprai higienizatzailea
+403,en,eu,,,home isolation,etxean isolatzea
+404,en,eu,,,home quarantine,etxeko koarentena
+410,en,eu,,,illness,gaixotasuna
+415,en,eu,,,incubation period,inkubazio-aldia
+418,en,eu,,,infected,kutsatu
+424,en,eu,,,instant hand sanitizer,bat-bateko esku higienizatzailea
+425,en,eu,,,international spread,nazioartean barreiatzea
+426,en,eu,,,international travel,nazioarteko bidaia
+427,en,eu,,,isolation,isolatze
+428,en,eu,,,isolation period,isolatze aldia
+430,en,eu,,,isolation room,isolatze gela
+431,en,eu,,,isolation valve,isolatze balbula
+432,en,eu,,,isolation ward,isolatze pabiloia
+434,en,eu,,,lockdown,konfinamendu
+438,en,eu,,,major outbreak,agerraldi nagusia
+439,en,eu,,,mandatory quarantine,nahitaezko koarentena
+440,en,eu,,,mass gathering,bilera jendetsua
+444,en,eu,,,medicine,medikuntza
+445,en,eu,,,medicines,sendagaiak
+448,en,eu,,,n95,n95
+449,en,eu,,,n95 mask,n95 maskara
+450,en,eu,,,n95 respirator,n95 arnasgailua
+451,en,eu,,,ncov,ncov
+452,en,eu,,,ncov-2019,ncov-2019
+453,en,eu,,,new coronavirus,koronabirus berria
+454,en,eu,,,new coronavirus pneumonia,koronabirus pneumonia berria
+460,en,eu,,,novel coronavirus,koronabirus berria
+462,en,eu,,,novel coronavirus infection,koronabirus berriak eragindako infekzioa
+463,en,eu,,,novel coronavirus outbreak,koronabirus berriaren agerraldia
+464,en,eu,,,novel coronavirus pneumonia,koronabirus pneumonia berria
+470,en,eu,,,ongoing outbreak,uneko agerraldia
+472,en,eu,,,outbreak,agerraldi
+474,en,eu,,,outbreak of coronavirus,koronabirusaren agerraldia
+475,en,eu,,,outbreak of disease,gaitzaren agerraldia
+482,en,eu,,,pandemic,pandemia
+485,en,eu,,,pandemic influenza,gripe pandemikoa
+486,en,eu,,,pandemic outbreak,agerraldi pandemikoa
+487,en,eu,,,pandemic plan,pandemiaren aurreko plana
+488,en,eu,,,pandemic potential,pandemia bihurtzeko potentziala
+495,en,eu,,,pneumonia,pneumonia
+496,en,eu,,,pneumonia epidemic,pneumonia epidemia
+497,en,eu,,,potential exposure,esposizio potentziala
+498,en,eu,,,precautions,neurriak
+499,en,eu,,,prevent virus,saihestu birusa
+500,en,eu,,,prolonged exposure,esposizio luzea
+504,en,eu,,,quarantine,koarentena
+505,en,eu,,,quarantine area,koarentena eremua
+506,en,eu,,,quarantine facility,koarentena instalazioa
+507,en,eu,,,quarantine measures,koarentena neurriak
+508,en,eu,,,quarantine period,koarentenaren aldia
+509,en,eu,,,quarantine room,koarentena gela
+510,en,eu,,,quarantine zone,koarentena zona
+512,en,eu,,,Recovered coronavirus patient,Koronabirusetik sendatutako gaixoa
+514,en,eu,,,repatriate,aberriratu
+515,en,eu,,,repeated exposure,esposizio errepikatua
+516,en,eu,,,respiratory syncytial virus,arnas birus sinzitiala
+517,en,eu,,,respiratory virus,arnas birusa
+519,en,eu,,,Sanitizing hand sanitizer,Esku higienizatzailea higienizatzea
+520,en,eu,,,SARS-CoV-2,SARS-CoV-2
+521,en,eu,,,self isolation,norbera isolatzea
+522,en,eu,,,self quarantine,norberaren koarentena
+523,en,eu,,,Severe outbreak,agerraldi latza
+525,en,eu,,,social distancing,urruntze soziala
+526,en,eu,,,social distancing measures,distantzia sozialeko neurriak
+527,en,eu,,,social isolation,isolatze soziala
+528,en,eu,,,SOS Alert,Larrialdi abisua
+529,en,eu,,,spread,barreiatu
+530,en,eu,,,spread of coronavirus,koronabirusaren barreiatzea
+531,en,eu,,,spread of virus,birusen barreiatzea
+535,en,eu,,,strain of virus,birus anduia
+541,en,eu,,,the incubation period,inkubazio aldia
+544,en,eu,,,the novel coronavirus,koronabirus berria
+558,en,eu,,,touching face,aurpegia ukitzea
+559,en,eu,,,travel advisory,bidaiatzeko aholkua
+560,en,eu,,,travel ban,bidaiatzeko debekua
+561,en,eu,,,travel restrictions,bidaiatzeko murrizketak
+565,en,eu,,,use hand sanitizer,erabili esku higienizatzailea
+566,en,eu,,,vaccines,txertoak
+567,en,eu,,,viral outbreak,birus agerraldia
+568,en,eu,,,virtual lockdown,konfinamendu birtuala
+569,en,eu,,,virus,birus
+570,en,eu,,,virus carrier,birus eramailea
+573,en,eu,,,virus infection,birus infekzioa
+575,en,eu,,,virus mask,birusaren aurkako maskara
+576,en,eu,,,virus outbreak,birus agerraldia
+577,en,eu,,,virus prevention,birusaren prebentzioa
+578,en,eu,,,virus protection,birusaren aurkako babesa
+580,en,eu,,,virus spread,birusa barreiatzea
+582,en,eu,,,virus spreads,birusa barreiatzen da
+583,en,eu,,,virus strain,birus anduia
+584,en,eu,,,virus transmission,birusa kutsatzea
+586,en,eu,,,wash your hands,eskuak garbitu
+587,en,eu,,,washing hands,eskuak garbitzea
+589,en,eu,,,WHO,MOE
+590,en,eu,,,WHO Confirmed,MOEk berretsia
+591,en,eu,,,WHO Deaths,MOE Heriotzak
+592,en,eu,,,widespread outbreak,agerraldi orokorra
+597,en,eu,,,World Health Organization,Munduko Osasun Erakundea
+600,en,eu,,,zoonotic disease,gaitz zoonotikoa
+601,en,eu,,,zoonotic virus,birus zoonotikoa

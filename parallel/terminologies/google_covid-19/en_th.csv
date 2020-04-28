@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,th,,,14 days in isolation,กักตัว 14 วัน
+26,en,th,,,14 days quarantine,การกักตัว 14 วัน
+27,en,th,,,2019 coronavirus,ไวรัสโคโรน่า 2019
+28,en,th,,,2019 novel coronavirus,ไวรัสโคโรน่าสายพันธุ์ใหม่ 2019
+29,en,th,,,2019-nCoV,2019-nCoV
+30,en,th,,,2020 coronavirus,ไวรัสโคโรน่า 2020
+31,en,th,,,2020 novel coronavirus,ไวรัสโคโรน่าสายพันธุ์ใหม่ 2020
+33,en,th,,,about coronavirus,เกี่ยวกับไวรัสโคโรน่า
+39,en,th,,,acute respiratory distress syndrome,กลุ่มอาการหายใจลำบากเฉียบพลัน
+40,en,th,,,advanced hand sanitizer,เจลล้างมือคุณภาพสูง
+41,en,th,,,Affected by coronavirus,ได้รับผลกระทบจากไวรัส
+42,en,th,,,after exposure,หลังจากรับสัมผัสเชื้อ
+43,en,th,,,After the epidemic,หลังการระบาด
+44,en,th,,,After the outbreak,หลังการระบาดโรค
+47,en,th,,,airborne virus,ไวรัสที่แพร่กระจายทางอากาศได้
+48,en,th,,,alcohol based hand sanitizer,เจลล้างมือแบบแอลกอฮอล์
+49,en,th,,,alcohol hand sanitizer,เจลล้างมือแอลกอฮอล์
+51,en,th,,,alcohol-based hand sanitizer,เจลล้างมือแบบแอลกอฮอล์
+59,en,th,,,Anti-Corona virus spray,สเปรย์ป้องกันไวรัสโคโรน่า
+60,en,th,,,antibacterial hand sanitizer,เจลล้างมือต่อต้านแบคทีเรีย
+61,en,th,,,ARDS,ARDS
+64,en,th,,,avoid exposure,หลีกเลี่ยงการรับสัมผัสเชื้อ
+65,en,th,,,be infected,ติดเชื้อ
+75,en,th,,,Beware of coronavirus,ระวังไวรัสโคโรน่า
+76,en,th,,,bilateral interstitial pneumonia,โรคปอดบวมในผนังถุงลมทั้งสองข้าง
+77,en,th,,,CDC,CDC
+78,en,th,,,Center for Disease Control,Center for Disease Control
+83,en,th,,,community spread,การแพร่กระจายในชุมชน
+84,en,th,,,compulsory quarantine,การบังคับกักตัว
+85,en,th,,,contagious,โรคติดต่อ
+135,en,th,,,coronavirus,ไวรัสโคโรน่า
+136,en,th,,,coronavirus (COVID-19),ไวรัสโคโรน่า (โควิด-19)
+137,en,th,,,coronavirus alert,การแจ้งเตือนไวรัสโคโรน่า
+139,en,th,,,coronavirus cases,เคสไวรัสโคโรน่า
+141,en,th,,,coronavirus concerns,ข้อกังวลเกี่ยวกับไวรัสโคโรน่า
+143,en,th,,,coronavirus crisis,วิกฤตไวรัสโคโรน่า
+149,en,th,,,coronavirus disease,โรคไวรัสโคโรน่า
+150,en,th,,,Coronavirus disease (COVID-19) outbreak,การระบาดโรคไวรัสโคโรน่า (โควิด-19)
+153,en,th,,,coronavirus early symptoms,อาการเบื้องต้นของไวรัสโคโรน่า
+155,en,th,,,coronavirus epidemic,โรคระบาดไวรัสโคโรน่า
+156,en,th,,,coronavirus exposure,การรับสัมผัสเชื้อไวรัสโคโรน่า
+161,en,th,,,coronavirus incubation,การฟักตัวของไวรัสโคโรน่า
+162,en,th,,,coronavirus incubation period,ระยะฟักตัวของไวรัสโคโรน่า
+163,en,th,,,coronavirus infection,การติดเชื้อไวรัสโคโรน่า
+168,en,th,,,coronavirus map,แผนที่ไวรัสโคโรน่า
+170,en,th,,,coronavirus medicine,ยารักษาไวรัสโคโรน่า
+171,en,th,,,coronavirus medicines,ยารักษาไวรัสโคโรน่า
+172,en,th,,,coronavirus news,ข่าวสารเกี่ยวกับไวรัสโคโรน่า
+173,en,th,,,coronavirus outbreak,การระบาดของไวรัสโคโรน่า
+174,en,th,,,coronavirus pandemic,การระบาดใหญ่ของไวรัสโคโรน่า
+176,en,th,,,coronavirus pneumonia,โรคปอดอักเสบจากไวรัสโคโรน่า
+177,en,th,,,coronavirus precautions,ข้อควรระวังสำหรับไวรัสโคโรน่า
+178,en,th,,,coronavirus prevention,การป้องกันไวรัสโคโรน่า
+179,en,th,,,coronavirus protection,การปกป้องจากไวรัสโคโรน่า
+180,en,th,,,coronavirus quarantine,การกักตัวจากไวรัสโคโรน่า
+182,en,th,,,coronavirus SOS Alert,สัญญาณแจ้งขอความช่วยเหลือเกี่ยวกับไวรัสโคโรน่า
+183,en,th,,,coronavirus spread,การแพร่กระจายไวรัสโคโรน่า
+184,en,th,,,coronavirus symptoms,อาการของไวรัสโคโรน่า
+185,en,th,,,coronavirus transmission,การแพร่เชื้อไวรัสโคโรน่า
+186,en,th,,,coronavirus travel ban,การห้ามเดินทางเนื่องจากไวรัสโคโรน่า
+187,en,th,,,coronavirus travel restrictions,การจำกัดการเดินทางเนื่องจากไวรัสโคโรน่า
+188,en,th,,,coronavirus treatment,การรักษาไวรัสโคโรน่า
+190,en,th,,,coronavirus update,อัปเดตไวรัสโคโรน่า
+191,en,th,,,coronavirus vaccine,วัคซีนไวรัสโคโรน่า
+192,en,th,,,coronavirus vaccines,วัคซีนไวรัสโคโรน่า
+198,en,th,,,covid cases,เคสโควิด
+205,en,th,,,covid early symptoms,อาการเบื้องต้นของโควิด
+213,en,th,,,covid incubation period,ระยะฟักตัวของโควิด
+215,en,th,,,covid international spread,การแพร่กระจายโควิดระหว่างประเทศ
+216,en,th,,,covid international travel,การส่งทอดโควิดระหว่างประเทศ
+217,en,th,,,covid isolation,การแยกออกจากโควิด
+219,en,th,,,covid map,แผนที่โควิด
+220,en,th,,,covid medicine,ยารักษาโควิด
+221,en,th,,,covid medicines,ยารักษาโควิด
+222,en,th,,,covid news,ข่าวสารเกี่ยวกับโควิด
+223,en,th,,,covid outbreak,การระบาดของโควิด
+224,en,th,,,covid pandemic,การระบาดใหญ่ของโควิด
+225,en,th,,,covid panic,การตื่นตกใจกับโควิด
+228,en,th,,,covid SOS Alert,สัญญาณแจ้งขอความช่วยเหลือเกี่ยวกับโควิด
+230,en,th,,,covid symptoms,อาการของโควิด
+231,en,th,,,covid transmission,การแพร่เชื้อโควิด
+232,en,th,,,covid travel ban,การห้ามเดินทางเนื่องจากโควิด
+233,en,th,,,covid travel restrictions,การจำกัดการเดินทางเนื่องจากโควิด
+234,en,th,,,covid treatment,การรักษาโควิด
+236,en,th,,,covid vaccine,วัคซีนโควิด
+237,en,th,,,covid vaccines,วัคซีนโควิด
+242,en,th,,,covid-19,โควิด-19
+243,en,th,,,covid-19 alert,การแจ้งเตือนโควิด-19
+244,en,th,,,covid-19 cases,เคสโควิด-19
+245,en,th,,,covid-19 CDC,CDC สำหรับโควิด-19
+246,en,th,,,covid-19 contagious,โรคติดต่อโควิด-19
+247,en,th,,,covid-19 cure,การรักษาโควิด-19
+248,en,th,,,covid-19 dangerous,ความอันตรายของโควิด-19
+249,en,th,,,covid-19 deadly,อันตรายร้ายแรงจากโควิด-19
+250,en,th,,,covid-19 death,การเสียชีวิตจากโควิด-19
+251,en,th,,,covid-19 deaths,การเสียชีวิตจากโควิด-19
+252,en,th,,,covid-19 domestic travel,การส่งทอดโควิด-19 ภายในประเทศ
+253,en,th,,,covid-19 early symptoms,อาการเบื้องต้นของโควิด-19
+254,en,th,,,covid-19 effects,ผลกระทบของโควิด-19
+255,en,th,,,covid-19 epidemic,โรคระบาดโควิด-19
+256,en,th,,,covid-19 exposure,การรับสัมผัสเชื้อโควิด-19
+257,en,th,,,covid-19 fatal,การตายจากโควิด-19
+258,en,th,,,covid-19 fever,ไข้ของโควิด-19
+259,en,th,,,covid-19 illness,การเจ็บป่วยของโควิด-19
+260,en,th,,,covid-19 incubation,การฟักตัวของโควิด-19
+261,en,th,,,covid-19 incubation period,ระยะฟักตัวของโควิด-19
+262,en,th,,,covid-19 infection,การติดเชื้อโควิด-19
+263,en,th,,,covid-19 international spread,การแพร่กระจายโควิด-19 ระหว่างประเทศ
+264,en,th,,,covid-19 international travel,การส่งทอดโควิด-19 ระหว่างประเทศ
+265,en,th,,,covid-19 isolation,การแยกออกจากโควิด-19
+266,en,th,,,covid-19 lockdown,การปิดพื้นที่เสี่ยงโควิด-19
+267,en,th,,,covid-19 map,แผนที่โควิด-19
+268,en,th,,,covid-19 medicine,ยารักษาโควิด-19
+269,en,th,,,covid-19 medicines,ยารักษาโควิด-19
+270,en,th,,,covid-19 news,ข่าวสารเกี่ยวกับโควิด-19
+271,en,th,,,covid-19 outbreak,การระบาดของโควิด-19
+272,en,th,,,covid-19 pandemic,การระบาดใหญ่ของโควิด-19
+273,en,th,,,covid-19 panic,การตื่นตกใจกับโควิด-19
+275,en,th,,,covid-19 precautions,ข้อควรระวังสำหรับโควิด-19
+276,en,th,,,covid-19 protection,การปกป้องจากโควิด-19
+277,en,th,,,covid-19 quarantine,การกักตัวจากโควิด-19
+278,en,th,,,covid-19 SOS Alert,สัญญาณแจ้งขอความช่วยเหลือเกี่ยวกับโควิด-19
+279,en,th,,,covid-19 spread,การแพร่กระจายโควิด-19
+280,en,th,,,covid-19 symptoms,อาการของโควิด-19
+281,en,th,,,covid-19 transmission,การแพร่เชื้อโควิด-19
+282,en,th,,,covid-19 travel ban,การห้ามเดินทางเนื่องจากโควิด-19
+283,en,th,,,covid-19 travel restrictions,การจำกัดการเดินทางเนื่องจากโควิด-19
+284,en,th,,,covid-19 treatment,การรักษาโควิด-19
+285,en,th,,,covid-19 uncontrolled spread,การแพร่กระจายโควิด-19 ที่ควบคุมไม่ได้
+286,en,th,,,covid-19 vaccine,วัคซีนโควิด-19
+287,en,th,,,covid-19 vaccines,วัคซีนโควิด-19
+288,en,th,,,COVID-19 virus,ไวรัสโควิด-19
+289,en,th,,,covid-19 virus outbreak,การระบาดไวรัสโควิด-19
+290,en,th,,,covid-19 virus transmission,การส่งต่อไวรัสโควิด-19
+291,en,th,,,covid-19 WHO,WHO กับโควิด-19
+292,en,th,,,covid19,โควิด 19
+293,en,th,,,covid19 alert,การแจ้งเตือนโควิด 19
+294,en,th,,,covid19 cases,เคสโควิด 19
+295,en,th,,,covid19 CDC,CDC สำหรับโควิด 19
+301,en,th,,,covid19 deaths,การเสียชีวิตจากโควิด 19
+302,en,th,,,covid19 domestic travel,การส่งทอดโควิด 19 ภายในประเทศ
+303,en,th,,,covid19 effects,ผลกระทบของโควิด 19
+304,en,th,,,covid19 epidemic,โรคระบาดโควิด 19
+305,en,th,,,covid19 exposure,การรับสัมผัสเชื้อโควิด 19
+306,en,th,,,covid19 fatal,การตายจากโควิด 19
+307,en,th,,,covid19 fever,ไข้ของโควิด 19
+308,en,th,,,covid19 illness,การเจ็บป่วยของโควิด 19
+309,en,th,,,covid19 incubation,การฟักตัวของโควิด 19
+310,en,th,,,covid19 incubation period,ระยะฟักตัวของโควิด 19
+311,en,th,,,covid19 infection,การติดเชื้อโควิด 19
+312,en,th,,,covid19 international spread,การแพร่กระจายโควิด 19 ระหว่างประเทศ
+313,en,th,,,covid19 international travel,การส่งทอดโควิ 19 ระหว่างประเทศ
+314,en,th,,,covid19 isolation,การแยกออกจากโควิด 19
+315,en,th,,,covid19 lockdown,การปิดพื้นที่เสี่ยงโควิด 19
+316,en,th,,,covid19 map,แผนที่โควิด 19
+317,en,th,,,covid19 medicine,ยารักษาโควิด 19
+318,en,th,,,covid19 medicines,ยารักษาโควิด 19
+319,en,th,,,covid19 news,ข่าวสารเกี่ยวกับโควิด 19
+320,en,th,,,covid19 outbreak,การระบาดของโควิด 19
+321,en,th,,,covid19 pandemic,การระบาดใหญ่ของโควิด 19
+324,en,th,,,covid19 precautions,ข้อควรระวังสำหรับโควิด 19
+325,en,th,,,covid19 protection,การปกป้องจากโควิด 19
+326,en,th,,,covid19 quarantine,การกักตัวจากโควิด 19
+327,en,th,,,covid19 SOS Alert,สัญญาณแจ้งขอความช่วยเหลือเกี่ยวกับโควิด 19
+328,en,th,,,covid19 spread,การแพร่กระจายโควิด 19
+329,en,th,,,covid19 symptoms,อาการของโควิด 19
+330,en,th,,,covid19 transmission,การแพร่เชื้อโควิด 19
+331,en,th,,,covid19 travel ban,การห้ามเดินทางเนื่องจากโควิด 19
+332,en,th,,,covid19 travel restrictions,การจำกัดการเดินทางเนื่องจากโควิด 19
+333,en,th,,,covid19 treatment,การรักษาโควิด 19
+335,en,th,,,covid19 vaccine,วัคซีนโควิด 19
+336,en,th,,,covid19 vaccines,วัคซีนโควิด 19
+337,en,th,,,covid19 virus,ไวรัสโควิด 19
+338,en,th,,,covid19 virus outbreak,การระบาดไวรัสโควิด 19
+339,en,th,,,covid19 virus transmission,การส่งต่อไวรัสโควิด 19
+342,en,th,,,current outbreak,การระบาดปัจจุบัน
+343,en,th,,,deadly outbreak,การระบาดร้ายแรง
+345,en,th,,,disease outbreak,การระบาดโรค
+346,en,th,,,Disposable hand sanitizer,เจลล้างมือแบบใช้แล้วทิ้ง
+348,en,th,,,domestic travel,การเดินทางในประเทศ
+351,en,th,,,droplets,ละอองฝอย
+357,en,th,,,Effects of coronavirus,ผลกระทบของไวรัสโคโรน่า
+359,en,th,,,epidemic,การระบาด
+360,en,th,,,epidemic and pandemic,การระบาดและการระบาดใหญ่
+362,en,th,,,epidemic disease,โรคระบาด
+364,en,th,,,epidemic outbreak,การระบาดของโรคระบาด
+365,en,th,,,epidemic period,ช่วงเวลาการระบาด
+366,en,th,,,epidemic prevention,การป้องกันการระบาด
+368,en,th,,,epidemic season,ฤดูกาลระบาด
+369,en,th,,,epidemic situation,สถานการณ์การระบาด
+371,en,th,,,exposure,การรับสัมผัสเชื้อ
+375,en,th,,,exposure time,เวลารับสัมผัสเชื้อ
+379,en,th,,,fever,ไข้
+380,en,th,,,fight the virus,ต่อสู้กับไวรัส
+381,en,th,,,Fighting the outbreak,การต่อสู้กับการระบาด
+382,en,th,,,flu epidemic,การระบาดของไข้หวัดใหญ่
+385,en,th,,,fomites,วัตถุที่เป็นพาหะนำโรค
+392,en,th,,,global health emergency,สถานการณ์ฉุกเฉินด้านสุขภาพระดับโลก
+393,en,th,,,global outbreak,การระบาดทั่วโลก
+394,en,th,,,global pandemic,การระบาดใหญ่ทั่วโลก
+396,en,th,,,hand sanitizer,เจลล้างมือ
+397,en,th,,,hand sanitizer dispenser,ขวดกดเจลล้างมือ
+398,en,th,,,hand sanitizer gel,เจลล้างมือ
+399,en,th,,,hand sanitizer spray,สเปรย์ล้างมือ
+403,en,th,,,home isolation,การแยกตัวอยู่บ้าน
+404,en,th,,,home quarantine,การกักตัวอยู่บ้าน
+410,en,th,,,illness,การเจ็บป่วย
+415,en,th,,,incubation period,ระยะฟักตัว
+418,en,th,,,infected,ติดเชื้อแล้ว
+424,en,th,,,instant hand sanitizer,เจลล้างมือแบบทันที
+425,en,th,,,international spread,การแพร่กระจายระหว่างประเทศ
+426,en,th,,,international travel,การเดินทางระหว่างประเทศ
+427,en,th,,,isolation,การแยกตัว
+428,en,th,,,isolation period,ระยะเวลาแยกตัว
+430,en,th,,,isolation room,ห้องแยกตัว
+431,en,th,,,isolation valve,วาล์วแยก
+432,en,th,,,isolation ward,ห้องแยกโรค
+434,en,th,,,lockdown,การปิดพื้นที่
+438,en,th,,,major outbreak,การระบาดครั้งใหญ่
+439,en,th,,,mandatory quarantine,การกักตัวบังคับ
+440,en,th,,,mass gathering,การรวมฝูงชน
+444,en,th,,,medicine,ยา
+445,en,th,,,medicines,ยา
+448,en,th,,,n95,N95
+449,en,th,,,n95 mask,หน้ากาก N95
+450,en,th,,,n95 respirator,เครื่องช่วยหายใจ N95
+451,en,th,,,ncov,ncov
+452,en,th,,,ncov-2019,ncov-2019
+453,en,th,,,new coronavirus,ไวรัสโคโรน่าสายพันธุ์ใหม่
+454,en,th,,,new coronavirus pneumonia,โรคปอดอักเสบจากไวรัสโคโรน่าใหม่
+460,en,th,,,novel coronavirus,ไวรัสโคโรน่าตัวใหม่
+462,en,th,,,novel coronavirus infection,การติดเชื้อไวรัสโคโรน่าสายพันธุ์ใหม่
+463,en,th,,,novel coronavirus outbreak,การระบาดของไวรัสโคโรน่าสายพันธุ์ใหม่
+464,en,th,,,novel coronavirus pneumonia,โรคปอดอักเสบจากไวรัสโคโรน่าสายพันธุ์ใหม่
+470,en,th,,,ongoing outbreak,การระบาดปัจจุบัน
+472,en,th,,,outbreak,การระบาด
+474,en,th,,,outbreak of coronavirus,การระบาดของไวรัสโคโรน่า
+475,en,th,,,outbreak of disease,การระบาดของโรค
+482,en,th,,,pandemic,การระบาดใหญ่
+485,en,th,,,pandemic influenza,ไข้หวัดใหญ่ที่ระบาดใหญ่
+486,en,th,,,pandemic outbreak,การระบาดใหญ่
+487,en,th,,,pandemic plan,แผนรับมือการระบาดใหญ่
+488,en,th,,,pandemic potential,ความเป็นไปได้ในการระบาดใหญ่
+495,en,th,,,pneumonia,โรคปอดอักเสบ
+496,en,th,,,pneumonia epidemic,การระบาดของโรคปอดอักเสบ
+497,en,th,,,potential exposure,การรับสัมผัสเชื้อที่เป็นไปได้
+498,en,th,,,precautions,ข้อควรระวัง
+499,en,th,,,prevent virus,ป้องกันไวรัส
+500,en,th,,,prolonged exposure,การรับสัมผัสเชื้อติดต่อกันเป็นเวลานาน
+504,en,th,,,quarantine,การกักกัน
+505,en,th,,,quarantine area,พื้นที่กักกัน
+506,en,th,,,quarantine facility,สถานที่กักกัน
+507,en,th,,,quarantine measures,มาตรการกักกัน
+508,en,th,,,quarantine period,ช่วงเวลากักกัน
+509,en,th,,,quarantine room,ห้องกักกัน
+510,en,th,,,quarantine zone,โซนกักกัน
+512,en,th,,,Recovered coronavirus patient,ผู้ป่วยไวรัสโคโรน่าที่หายดีแล้ว
+514,en,th,,,repatriate,การส่งตัวกลับ
+515,en,th,,,repeated exposure,การรับสัมผัสเชื้อซ้ำ
+516,en,th,,,respiratory syncytial virus,ไวรัส RSV
+517,en,th,,,respiratory virus,ไวรัสระบบทางเดินหายใจ
+519,en,th,,,Sanitizing hand sanitizer,การล้างมือด้วยเจลล้างมือ
+520,en,th,,,SARS-CoV-2,SARS-CoV-2
+521,en,th,,,self isolation,การแยกตัวเอง
+522,en,th,,,self quarantine,การกักตัวเอง
+523,en,th,,,Severe outbreak,การระบาดร้ายแรง
+525,en,th,,,social distancing,การเว้นระยะห่างระหว่างบุคคล
+526,en,th,,,social distancing measures,มาตรการเว้นระยะห่างระหว่างบุคคล
+527,en,th,,,social isolation,การแยกตัวออกจากสังคม
+528,en,th,,,SOS Alert,สัญญาณแจ้งขอความช่วยเหลือ
+529,en,th,,,spread,การแพร่กระจาย
+530,en,th,,,spread of coronavirus,การแพร่กระจายของโคโรน่าไวรัส
+531,en,th,,,spread of virus,การแพร่กระจายของไวรัส
+535,en,th,,,strain of virus,สายพันธุ์ของไวรัส
+541,en,th,,,the incubation period,ระยะฟักตัว
+544,en,th,,,the novel coronavirus,ไวรัสโคโรน่าสายพันธุ์ใหม่
+558,en,th,,,touching face,การจับหน้า
+559,en,th,,,travel advisory,คำแนะนำการเดินทาง
+560,en,th,,,travel ban,การห้ามเดินทาง
+561,en,th,,,travel restrictions,การจำกัดการเดินทาง
+565,en,th,,,use hand sanitizer,ใช้เจลล้างมือ
+566,en,th,,,vaccines,วัคซีน
+567,en,th,,,viral outbreak,การระบาดของไวรัส
+568,en,th,,,virtual lockdown,การปิดพื้นที่เสมือน
+569,en,th,,,virus,ไวรัส
+570,en,th,,,virus carrier,พานะนำไวรัส
+573,en,th,,,virus infection,การติดเชื้อไวรัส
+575,en,th,,,virus mask,หน้ากากกันไวรัส
+576,en,th,,,virus outbreak,การระบาดของไวรัส
+577,en,th,,,virus prevention,การป้องกันไวรัส
+578,en,th,,,virus protection,การปกป้องจากไวรัส
+580,en,th,,,virus spread,การแพร่กระจายไวรัส
+582,en,th,,,virus spreads,ไวรัสแพร่กระจาย
+583,en,th,,,virus strain,สายพันธุ์ไวรัส
+584,en,th,,,virus transmission,การส่งต่อไวรัส
+586,en,th,,,wash your hands,ล้างมือของคุณ
+587,en,th,,,washing hands,การล้างมือ
+589,en,th,,,WHO,WHO
+590,en,th,,,WHO Confirmed,WHO ยืนยัน
+591,en,th,,,WHO Deaths,ข่าวการเสียชีวิตจาก WHO
+592,en,th,,,widespread outbreak,การระบาดหลากหลายแห่ง
+597,en,th,,,World Health Organization,องค์การอนามัยโลก
+600,en,th,,,zoonotic disease,โรคที่ติดเชื้อจากสัตว์สู่คน
+601,en,th,,,zoonotic virus,ไวรัสจากสัตว์สู่คน

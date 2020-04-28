@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,tg,,,14 days in isolation,14 рузи изолятсия
+26,en,tg,,,14 days quarantine,14 рузи карантин
+27,en,tg,,,2019 coronavirus,2019 коронавирус
+28,en,tg,,,2019 novel coronavirus,2019 қиссаи коронавирус
+29,en,tg,,,2019-nCoV,2019-nCoV
+30,en,tg,,,2020 coronavirus,2020 коронавирус
+31,en,tg,,,2020 novel coronavirus,2020 қиссаи коронавирус
+33,en,tg,,,about coronavirus,дар бораи коронавирус
+39,en,tg,,,acute respiratory distress syndrome,синдроми шадиди распиратори нафас
+40,en,tg,,,advanced hand sanitizer,санитарияи перафтаи дасти
+41,en,tg,,,Affected by coronavirus,Таъсир расида ба воситаи коронавирус
+42,en,tg,,,after exposure,"бад аз паҳн шудан, баъд аз таркиш"
+43,en,tg,,,After the epidemic,Баъд аз эпидемия
+44,en,tg,,,After the outbreak,Баъд аз хуруҷ
+47,en,tg,,,airborne virus,вируси ҳавои
+48,en,tg,,,alcohol based hand sanitizer,санатайзери дасти дар асоси спирт
+49,en,tg,,,alcohol hand sanitizer,сантарияй спирти барой даст
+51,en,tg,,,alcohol-based hand sanitizer,санитари дар асоси спирт
+59,en,tg,,,Anti-Corona virus spray,спрей зидди-корона вирус
+60,en,tg,,,antibacterial hand sanitizer,доруи зидди бактерияи дасти
+61,en,tg,,,ARDS,ARDS
+64,en,tg,,,avoid exposure,пешгири кардани пахншави
+65,en,tg,,,be infected,сироят шудан
+75,en,tg,,,Beware of coronavirus,аз коронавирус ҳазар доштан
+76,en,tg,,,bilateral interstitial pneumonia,пневанияи интерстеқиалии дутарафа
+77,en,tg,,,CDC,CDC
+78,en,tg,,,Center for Disease Control,Маркази Назорати Бемори
+83,en,tg,,,community spread,дар байни мардум паҳн шудан
+84,en,tg,,,compulsory quarantine,карантини ҳатми
+85,en,tg,,,contagious,гузаранда
+135,en,tg,,,coronavirus,коронависрус
+136,en,tg,,,coronavirus (COVID-19),коронавирус ( КОВИД-19)
+137,en,tg,,,coronavirus alert,коронавирус ҳушдор
+139,en,tg,,,coronavirus cases,ҳолатҳои коронавирус
+141,en,tg,,,coronavirus concerns,шикоятҳои коронавирус
+143,en,tg,,,coronavirus crisis,бурҳони коронавирус
+149,en,tg,,,coronavirus disease,бемори коронавирус
+150,en,tg,,,Coronavirus disease (COVID-19) outbreak,Касали коронавирус ( КОВИД-19) хуруҷ
+153,en,tg,,,coronavirus early symptoms,якумин нишонаҳои коронавирус
+155,en,tg,,,coronavirus epidemic,эпидемияй коронавирус
+156,en,tg,,,coronavirus exposure,паҳн шудани коронавирус
+161,en,tg,,,coronavirus incubation,инкубатсияи коронавирус
+162,en,tg,,,coronavirus incubation period,муҳлати инкубақионии коронавирус
+163,en,tg,,,coronavirus infection,сирояти коронавирус
+168,en,tg,,,coronavirus map,коронавирус харита
+170,en,tg,,,coronavirus medicine,короновирус дорувори
+171,en,tg,,,coronavirus medicines,коронавирус дорувориҳо
+172,en,tg,,,coronavirus news,коронавирус ахбор
+173,en,tg,,,coronavirus outbreak,хуруҷи коронавирус
+174,en,tg,,,coronavirus pandemic,коронавирус пандемия
+176,en,tg,,,coronavirus pneumonia,коронавирус газаи шуш
+177,en,tg,,,coronavirus precautions,коронавирус чораҳои эҳтиеткори
+178,en,tg,,,coronavirus prevention,коронавирус пешгири
+179,en,tg,,,coronavirus protection,коронавирус муҳофизат
+180,en,tg,,,coronavirus quarantine,коронавирус карантин
+182,en,tg,,,coronavirus SOS Alert,коронавирус СОС сигнал
+183,en,tg,,,coronavirus spread,коронавирус паҳншави
+184,en,tg,,,coronavirus symptoms,коронавирус симптомҳо
+185,en,tg,,,coronavirus transmission,коронавирус интиқол е ин ки гузариш
+186,en,tg,,,coronavirus travel ban,коронавирус маъншавии сафар
+187,en,tg,,,coronavirus travel restrictions,коронавирус маҳдудиятҳои сафари
+188,en,tg,,,coronavirus treatment,коронавирус табобат
+190,en,tg,,,coronavirus update,коронавирус навсози
+191,en,tg,,,coronavirus vaccine,коронавирус ваксина
+192,en,tg,,,coronavirus vaccines,коронавирус ваксинаҳо
+198,en,tg,,,covid cases,ковид ҳолатҳо
+205,en,tg,,,covid early symptoms,ковид нишонаҳои якумин
+213,en,tg,,,covid incubation period,ковид муҳлати инкубатсиони
+215,en,tg,,,covid international spread,ковид паҳншавии байналмиллали
+216,en,tg,,,covid international travel,ковид сафари байналмиллали
+217,en,tg,,,covid isolation,ковид ҷудо истодан
+219,en,tg,,,covid map,ковид харита
+220,en,tg,,,covid medicine,ковид дорувори
+221,en,tg,,,covid medicines,ковид дорувориҳо
+222,en,tg,,,covid news,ковид ахборот
+223,en,tg,,,covid outbreak,ковид хуруҷ
+224,en,tg,,,covid pandemic,ковид пандемия
+225,en,tg,,,covid panic,ковид
+228,en,tg,,,covid SOS Alert,ковид сигнали СОС
+230,en,tg,,,covid symptoms,ковид нишонаҳо
+231,en,tg,,,covid transmission,ковид интиқол
+232,en,tg,,,covid travel ban,ковид маъншавии сафар
+233,en,tg,,,covid travel restrictions,ковид маҳдудиятҳои сафари
+234,en,tg,,,covid treatment,ковид табобат
+236,en,tg,,,covid vaccine,ковид ваксина
+237,en,tg,,,covid vaccines,ковид ваксинаҳо
+242,en,tg,,,covid-19,ковид-19
+243,en,tg,,,covid-19 alert,ковид - 19 огоҳи будан
+244,en,tg,,,covid-19 cases,ковид - 19 ҳолатҳо
+245,en,tg,,,covid-19 CDC,ковид - 19 СДС
+246,en,tg,,,covid-19 contagious,ковид - 19 гузаранда
+247,en,tg,,,covid-19 cure,ковид - 19 табобат
+248,en,tg,,,covid-19 dangerous,ковид - 19 хатарнок
+249,en,tg,,,covid-19 deadly,ковид - 19 маргҳо
+250,en,tg,,,covid-19 death,ковид - 19 фавт
+251,en,tg,,,covid-19 deaths,ковид - 19 фавтҳо
+252,en,tg,,,covid-19 domestic travel,ковид - 19 сафари даруни
+253,en,tg,,,covid-19 early symptoms,ковид - 19 нишонаҳои якумин
+254,en,tg,,,covid-19 effects,ковид - 19 ҳолатҳо
+255,en,tg,,,covid-19 epidemic,ковид - 19 эпидемия
+256,en,tg,,,covid-19 exposure,ковид ғ 19 паҳншави
+257,en,tg,,,covid-19 fatal,ковид - 19 марговар
+258,en,tg,,,covid-19 fever,ковид - 19 табларза
+259,en,tg,,,covid-19 illness,ковид - 19 бемори
+260,en,tg,,,covid-19 incubation,ковид - 19 инкубатсия
+261,en,tg,,,covid-19 incubation period,ковид-19 муҳлати инкубатсиони
+262,en,tg,,,covid-19 infection,ковид - 19 сироят
+263,en,tg,,,covid-19 international spread,ковид -19 паҳншавии байналмиллали
+264,en,tg,,,covid-19 international travel,ковид -19 сафари байналмиллали
+265,en,tg,,,covid-19 isolation,ковид - 19 ҷудо будан
+266,en,tg,,,covid-19 lockdown,ковид - 19 махкам будан
+267,en,tg,,,covid-19 map,ковид - 19 харита
+268,en,tg,,,covid-19 medicine,ковид - 19 дорувори
+269,en,tg,,,covid-19 medicines,ковид - 19 дорувориҳо
+270,en,tg,,,covid-19 news,ковид - 19 ахборотҳо
+271,en,tg,,,covid-19 outbreak,ковид - 19 хуруҷшави
+272,en,tg,,,covid-19 pandemic,ковид - 19 пандемия
+273,en,tg,,,covid-19 panic,ковид - 19 воҳима
+275,en,tg,,,covid-19 precautions,ковид - 19 эҳтиедҳо
+276,en,tg,,,covid-19 protection,ковид - 19 пешгири
+277,en,tg,,,covid-19 quarantine,ковид - 19 карантин
+278,en,tg,,,covid-19 SOS Alert,ковид -19 сигнали СОС
+279,en,tg,,,covid-19 spread,ковид - 19 паҳншави
+280,en,tg,,,covid-19 symptoms,ковид - 19 нишонаҳо
+281,en,tg,,,covid-19 transmission,ковид - 19 интиқолшави
+282,en,tg,,,covid-19 travel ban,ковид - 19 манъи сафар
+283,en,tg,,,covid-19 travel restrictions,ковид - 19 маҳдудиятҳои сафар
+284,en,tg,,,covid-19 treatment,ковид - 19 табобат
+285,en,tg,,,covid-19 uncontrolled spread,ковид - 19 паҳншавии беназорат
+286,en,tg,,,covid-19 vaccine,ковид - 19 ваксина
+287,en,tg,,,covid-19 vaccines,ковид - 19 ваксинаҳо
+288,en,tg,,,COVID-19 virus,ковид-19 вирус
+289,en,tg,,,covid-19 virus outbreak,ковид - 19 хуруҷи вирус
+290,en,tg,,,covid-19 virus transmission,ковид -19 интиқоли вирус
+291,en,tg,,,covid-19 WHO,ковид-19 С Ҷ Т
+292,en,tg,,,covid19,ковид19
+293,en,tg,,,covid19 alert,ковид-19 эҳтиет будан
+294,en,tg,,,covid19 cases,ковид-19 ҳолатҳо
+295,en,tg,,,covid19 CDC,ковид-19 СДС
+301,en,tg,,,covid19 deaths,ковид 19 маргҳо
+302,en,tg,,,covid19 domestic travel,ковид19 сафари даруна
+303,en,tg,,,covid19 effects,ковид 19 эпидемия
+304,en,tg,,,covid19 epidemic,ковид 19 таъсир расонидан
+305,en,tg,,,covid19 exposure,ковид 19 паҳншави
+306,en,tg,,,covid19 fatal,ковид 19 марговар
+307,en,tg,,,covid19 fever,ковид 19 табларза
+308,en,tg,,,covid19 illness,ковид 19 бемори
+309,en,tg,,,covid19 incubation,ковид 19 инкубатсия
+310,en,tg,,,covid19 incubation period,ковид19 муҳлати инкубатсиони
+311,en,tg,,,covid19 infection,ковид 19 сироят
+312,en,tg,,,covid19 international spread,ковид19 паҳншавии байналмиллали
+313,en,tg,,,covid19 international travel,ковид19 сафари байналмиллали
+314,en,tg,,,covid19 isolation,ковид 19 худро дур е ин ки ҷудо нигоҳ доштан
+315,en,tg,,,covid19 lockdown,ковид 19 қулф кардан
+316,en,tg,,,covid19 map,ковид 19 харита
+317,en,tg,,,covid19 medicine,ковид 19 дорувори
+318,en,tg,,,covid19 medicines,ковид 19 дорувориҳо
+319,en,tg,,,covid19 news,ковид 19 ахборот
+320,en,tg,,,covid19 outbreak,ковид 19 хуруҷ шудан
+321,en,tg,,,covid19 pandemic,ковид19 пандемия
+324,en,tg,,,covid19 precautions,ковид19 эҳтиеткори
+325,en,tg,,,covid19 protection,ковид19 пешгири кардан
+326,en,tg,,,covid19 quarantine,ковид19 карантин
+327,en,tg,,,covid19 SOS Alert,ковид19 сигнлаи СОС
+328,en,tg,,,covid19 spread,ковид19 паҳн шудан
+329,en,tg,,,covid19 symptoms,ковид19 нишонаҳо
+330,en,tg,,,covid19 transmission,ковид19 интиқол шудан
+331,en,tg,,,covid19 travel ban,ковид19 манъи сафар
+332,en,tg,,,covid19 travel restrictions,ковид19 маҳдудиятҳои сафар
+333,en,tg,,,covid19 treatment,ковид19 табобат
+335,en,tg,,,covid19 vaccine,ковид19 ваксина
+336,en,tg,,,covid19 vaccines,ковид19 ваксинаҳо
+337,en,tg,,,covid19 virus,ковид19 вирус
+338,en,tg,,,covid19 virus outbreak,ковид19 хуруҷи вирус
+339,en,tg,,,covid19 virus transmission,ковид19 интиқоли вирус
+342,en,tg,,,current outbreak,хуруҷи ҷори
+343,en,tg,,,deadly outbreak,хуруҷи марговар
+345,en,tg,,,disease outbreak,хуруҷи касалиҳо
+346,en,tg,,,Disposable hand sanitizer,Доруи санитари дасти
+348,en,tg,,,domestic travel,хуруҷи сафар
+351,en,tg,,,droplets,қатраҳо
+357,en,tg,,,Effects of coronavirus,Эффекти коронавирус
+359,en,tg,,,epidemic,эпидемия
+360,en,tg,,,epidemic and pandemic,эпидемия ва пандемия
+362,en,tg,,,epidemic disease,касали эпидемия
+364,en,tg,,,epidemic outbreak,хуруҷи эпидемия
+365,en,tg,,,epidemic period,муддати эпидемия
+366,en,tg,,,epidemic prevention,пешгирии эпидемия
+368,en,tg,,,epidemic season,мавсими эпидемия
+369,en,tg,,,epidemic situation,вазъияти эпидемия
+371,en,tg,,,exposure,"фош шудан, фош кардан"
+375,en,tg,,,exposure time,хуруҷи вакт
+379,en,tg,,,fever,табларза
+380,en,tg,,,fight the virus,мубориза бо вирус
+381,en,tg,,,Fighting the outbreak,Мубориза бар зидди хуруҷ
+382,en,tg,,,flu epidemic,эпидемияи зуком
+385,en,tg,,,fomites,"фомитҳо, объектҳо"
+392,en,tg,,,global health emergency,ҳолати фавқулодаи ҷаҳони
+393,en,tg,,,global outbreak,хуруҷи ҷаҳони
+394,en,tg,,,global pandemic,пандемияи ҷаҳони
+396,en,tg,,,hand sanitizer,санитарияй дасти
+397,en,tg,,,hand sanitizer dispenser,диспенсери санитари барои даст
+398,en,tg,,,hand sanitizer gel,гули санитайзери дасти
+399,en,tg,,,hand sanitizer spray,спрейи санитайзери барои даст
+403,en,tg,,,home isolation,изолятсияшудаи хонаги
+404,en,tg,,,home quarantine,карантини хонаги
+410,en,tg,,,illness,касали
+415,en,tg,,,incubation period,муҳлати инкубатсия
+418,en,tg,,,infected,"сироят шуда, касали гузарондан"
+424,en,tg,,,instant hand sanitizer,санитайзери дастии фаври
+425,en,tg,,,international spread,паҳншавии байналмиллали
+426,en,tg,,,international travel,сафари байналмиллалли
+427,en,tg,,,isolation,ҷудогона будан
+428,en,tg,,,isolation period,мудати изолятсия
+430,en,tg,,,isolation room,ҳуҷраи изолятсия
+431,en,tg,,,isolation valve,вентилятсияи ҷудокуни
+432,en,tg,,,isolation ward,палатаи изолятсиони
+434,en,tg,,,lockdown,қулф кардан
+438,en,tg,,,major outbreak,хуруҷи асоси
+439,en,tg,,,mandatory quarantine,карантини маҷбури
+440,en,tg,,,mass gathering,ҷамъомади оммави
+444,en,tg,,,medicine,дорувори
+445,en,tg,,,medicines,дорувори
+448,en,tg,,,n95,н95
+449,en,tg,,,n95 mask,н95 маска
+450,en,tg,,,n95 respirator,н95 нафаскаши
+451,en,tg,,,ncov,нков
+452,en,tg,,,ncov-2019,нков-2019
+453,en,tg,,,new coronavirus,коронавируси нав
+454,en,tg,,,new coronavirus pneumonia,пневманияи нави коронавирус
+460,en,tg,,,novel coronavirus,қиссаи коронавирус
+462,en,tg,,,novel coronavirus infection,қиссаи сирояти коронавирус
+463,en,tg,,,novel coronavirus outbreak,қиссаи хуруқи коронавирус
+464,en,tg,,,novel coronavirus pneumonia,қиссаи пневмония коронавирус
+470,en,tg,,,ongoing outbreak,хуруҷи ҷори
+472,en,tg,,,outbreak,"хуруҳ шудан, таркиш"
+474,en,tg,,,outbreak of coronavirus,хуруҷи коронавирус
+475,en,tg,,,outbreak of disease,хуруҷи касал
+482,en,tg,,,pandemic,пандемия
+485,en,tg,,,pandemic influenza,зукоми пандемия
+486,en,tg,,,pandemic outbreak,хуруҷи пандемия
+487,en,tg,,,pandemic plan,нақшаи пандемия
+488,en,tg,,,pandemic potential,потенсиали пандемия
+495,en,tg,,,pneumonia,"пневмония, газаи шуш"
+496,en,tg,,,pneumonia epidemic,эпидемияи пневмония
+497,en,tg,,,potential exposure,хавфи эҳтимоли
+498,en,tg,,,precautions,чораҳои эҳтиеткори
+499,en,tg,,,prevent virus,пешгирифтани вирус
+500,en,tg,,,prolonged exposure,дуру дарозшавии хуруҷ
+504,en,tg,,,quarantine,карантин
+505,en,tg,,,quarantine area,майдони карантин
+506,en,tg,,,quarantine facility,иншооти карантин
+507,en,tg,,,quarantine measures,тадбирҳои карантин
+508,en,tg,,,quarantine period,муҳлати карантин
+509,en,tg,,,quarantine room,ҳуҷраи карантин
+510,en,tg,,,quarantine zone,ҷойй карантин
+512,en,tg,,,Recovered coronavirus patient,"Шахсоне, ки аз коронавирус шифо ёфтаанд"
+514,en,tg,,,repatriate,баргардонидан
+515,en,tg,,,repeated exposure,такроршавии паҳншави
+516,en,tg,,,respiratory syncytial virus,вируси респиратори-синситиали
+517,en,tg,,,respiratory virus,вируси нафаскаши
+519,en,tg,,,Sanitizing hand sanitizer,Санитайзери дасти
+520,en,tg,,,SARS-CoV-2,СРАС-КоВ-2
+521,en,tg,,,self isolation,худ дуркуни
+522,en,tg,,,self quarantine,худро дар карантин доштан
+523,en,tg,,,Severe outbreak,хуруҷи шадид
+525,en,tg,,,social distancing,дистансияй иҷтимои
+526,en,tg,,,social distancing measures,чораҳои дистансии иҷтимои
+527,en,tg,,,social isolation,изолятсияй иҷтимои
+528,en,tg,,,SOS Alert,сигнали СОС
+529,en,tg,,,spread,паҳн шудан
+530,en,tg,,,spread of coronavirus,паҳншавии коронавирус
+531,en,tg,,,spread of virus,паҳншавии вирус
+535,en,tg,,,strain of virus,шиддати вирус
+541,en,tg,,,the incubation period,муддати инкубатсиони
+544,en,tg,,,the novel coronavirus,қиссаи коронавирус
+558,en,tg,,,touching face,руйро расидан
+559,en,tg,,,travel advisory,маслиҳати сафари
+560,en,tg,,,travel ban,маъни сафар
+561,en,tg,,,travel restrictions,маҳдудиятҳои сафар
+565,en,tg,,,use hand sanitizer,стифода бурдани санитайзер барои даст
+566,en,tg,,,vaccines,ваксинаҳо
+567,en,tg,,,viral outbreak,хуруҷи вируси
+568,en,tg,,,virtual lockdown,бастани виртуали
+569,en,tg,,,virus,вирус
+570,en,tg,,,virus carrier,вируси интиқолдиҳанда
+573,en,tg,,,virus infection,сирояти вируси
+575,en,tg,,,virus mask,маскаи вирус
+576,en,tg,,,virus outbreak,хуруҷи вируси
+577,en,tg,,,virus prevention,пешгирии вирус
+578,en,tg,,,virus protection,муҳофизат аз вирус
+580,en,tg,,,virus spread,паҳншавии вирус
+582,en,tg,,,virus spreads,паҳншавии вирусҳо
+583,en,tg,,,virus strain,шиддати вирус
+584,en,tg,,,virus transmission,интиқоли вирус
+586,en,tg,,,wash your hands,дастонатонро бишуед
+587,en,tg,,,washing hands,шустани дастҳо
+589,en,tg,,,WHO,Ташкили Тандурустии Ҷаҳон
+590,en,tg,,,WHO Confirmed,Созмони Ҷаҳонии Тандурусти тасдиқ мекунад
+591,en,tg,,,WHO Deaths,С Ҷ Т маргҳо
+592,en,tg,,,widespread outbreak,хуруҷи паҳншуда
+597,en,tg,,,World Health Organization,Созмони Ҷаҳонии Тандурусти
+600,en,tg,,,zoonotic disease,бемории зоонотики
+601,en,tg,,,zoonotic virus,вируси зоонотики

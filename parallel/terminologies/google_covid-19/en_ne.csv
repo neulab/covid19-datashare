@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,ne,,,14 days in isolation,14 दिन आइसोलेसनमा
+26,en,ne,,,14 days quarantine,14 दिनको क्वारेन्टिन
+27,en,ne,,,2019 coronavirus,2019 कोरोनाभाइरस
+28,en,ne,,,2019 novel coronavirus,2019 नोबल कोरोनाभाइरस
+29,en,ne,,,2019-nCoV,2019-nCoV
+30,en,ne,,,2020 coronavirus,2020 कोरोनाभाइरस
+31,en,ne,,,2020 novel coronavirus,2020 नोबल कोरोनाभाइरस
+33,en,ne,,,about coronavirus,कोरोनाभाइरस बारे
+39,en,ne,,,acute respiratory distress syndrome,उच्च रेस्पिरेटर डिस्ट्रेस सिन्ड्रोम
+40,en,ne,,,advanced hand sanitizer,उच्चतम ह्यान्डस्यानिटाइजर
+41,en,ne,,,Affected by coronavirus,कोरोनाभाइरसले संक्रमित
+42,en,ne,,,after exposure,जोखिम भए पछि
+43,en,ne,,,After the epidemic,महामारी पछि
+44,en,ne,,,After the outbreak,संक्रमण पछि
+47,en,ne,,,airborne virus,हावाबाट फैलने भाइरस
+48,en,ne,,,alcohol based hand sanitizer,अल्कोहल भएको ह्यान्ड स्यानिटाइजर
+49,en,ne,,,alcohol hand sanitizer,अल्कोहलभएको ह्यान्ड स्यानिटाइजर
+51,en,ne,,,alcohol-based hand sanitizer,अल्कोहल भएको ह्यान्डस्यानिटाइजर
+59,en,ne,,,Anti-Corona virus spray,कोरोना भाइरस विरुद्द स्प्रे
+60,en,ne,,,antibacterial hand sanitizer,ब्याक्टेरिया विरुद्द ह्यान्ड स्यानिटाइजर
+61,en,ne,,,ARDS,ARDS
+64,en,ne,,,avoid exposure,जोखिम कम गर्नुहोस्‌
+65,en,ne,,,be infected,संक्रमित हुनु
+75,en,ne,,,Beware of coronavirus,कोरोनाभाइरसबाट सचेत हुनुहोस्‌
+76,en,ne,,,bilateral interstitial pneumonia,दुईपक्षीय मिल्ने निमोनिया
+77,en,ne,,,CDC,CDC
+78,en,ne,,,Center for Disease Control,Center for Disease Control
+83,en,ne,,,community spread,सामुदायीक संक्रमण
+84,en,ne,,,compulsory quarantine,अनिवार्य क्वारेन्टिन
+85,en,ne,,,contagious,संक्रामण
+135,en,ne,,,coronavirus,कोरोनाभाइरस
+136,en,ne,,,coronavirus (COVID-19),कोरोनाभाइरस (कोभिड-19)
+137,en,ne,,,coronavirus alert,कोरोनाभाइरसको अलर्ट
+139,en,ne,,,coronavirus cases,कोरोनाभाइरसका बिरामीहरू
+141,en,ne,,,coronavirus concerns,कोरोनाभाइरसको सम्बन्ध
+143,en,ne,,,coronavirus crisis,कोरोना भाइरसको समस्या
+149,en,ne,,,coronavirus disease,कोरोनाभाइरस रोग
+150,en,ne,,,Coronavirus disease (COVID-19) outbreak,कोरोनाभाइरस रोग (कोभिड-19) को संक्रमण
+153,en,ne,,,coronavirus early symptoms,कोरोनाभाइरसका प्रारम्भिक लक्षण
+155,en,ne,,,coronavirus epidemic,कोरोनाभाइरस माहामारी
+156,en,ne,,,coronavirus exposure,कोरोनाभाइरसको संक्रमण
+161,en,ne,,,coronavirus incubation,कोरोनाभाइरस इन्कुबेसन
+162,en,ne,,,coronavirus incubation period,कोरोनाभाइरसको इन्कुबेसन समय
+163,en,ne,,,coronavirus infection,कोरोनाभाइरसको संक्रमण
+168,en,ne,,,coronavirus map,कोरोनाभाइरस नक्सा
+170,en,ne,,,coronavirus medicine,कोरोनाभाइरसको औषधी
+171,en,ne,,,coronavirus medicines,कोरोनाभाइरसको औषधीहरू
+172,en,ne,,,coronavirus news,कोरोनाभाइरसको समाचार
+173,en,ne,,,coronavirus outbreak,कोरोनाभाइरसको फैलावट
+174,en,ne,,,coronavirus pandemic,कोरोनाभाइरसको माहामारी
+176,en,ne,,,coronavirus pneumonia,कोरोनाभाइरसको निमोनिया
+177,en,ne,,,coronavirus precautions,कोरोनाभाइरसको सतर्कता
+178,en,ne,,,coronavirus prevention,कोरोनाभाइरसको बचावट
+179,en,ne,,,coronavirus protection,कोरोनाभाइरसको सुरक्षा
+180,en,ne,,,coronavirus quarantine,कोरोनाभाइरस क्वारेन्टिन
+182,en,ne,,,coronavirus SOS Alert,कोरोनाभाइरसको SOS अलर्ट
+183,en,ne,,,coronavirus spread,कोरोनाभाइरसको संक्रमण
+184,en,ne,,,coronavirus symptoms,कोरोनाभाइरसको लक्षण
+185,en,ne,,,coronavirus transmission,कोरोनाभाइरस सर्ने
+186,en,ne,,,coronavirus travel ban,कोरोनाभाइरसको यात्रा प्रतिबन्ध
+187,en,ne,,,coronavirus travel restrictions,कोरोनाभाइरसको यात्रा प्रतिबन्ध
+188,en,ne,,,coronavirus treatment,कोरोनाभाइरसको उपचार
+190,en,ne,,,coronavirus update,कोरोनाभाइरसको अद्यावधिक
+191,en,ne,,,coronavirus vaccine,कोरोनाभाइरसको औषधी
+192,en,ne,,,coronavirus vaccines,कोरोनाभाइरसको औषधीहरू
+198,en,ne,,,covid cases,कोभिडका बिरामीहरू
+205,en,ne,,,covid early symptoms,कोभिडको प्रारम्भिक लक्षण
+213,en,ne,,,covid incubation period,कोभिड इन्कुबेसन समय
+215,en,ne,,,covid international spread,कोभिड अन्तराष्ट्रिय फैलावट
+216,en,ne,,,covid international travel,कोभिड अन्तराष्ट्रिय यात्रा
+217,en,ne,,,covid isolation,कोभिड आइसोलेसन
+219,en,ne,,,covid map,कोभिडको नक्सा
+220,en,ne,,,covid medicine,कोभिडको औषधी
+221,en,ne,,,covid medicines,कोभिडको औषधी
+222,en,ne,,,covid news,कोभिडको समाचार
+223,en,ne,,,covid outbreak,कोभिड फैलियो
+224,en,ne,,,covid pandemic,कोभिड माहामारी
+225,en,ne,,,covid panic,कोभिडको त्रास
+228,en,ne,,,covid SOS Alert,कोभिड SOS अलर्ट
+230,en,ne,,,covid symptoms,कोभिडका लक्षणहरू
+231,en,ne,,,covid transmission,कोभिड सर्ने
+232,en,ne,,,covid travel ban,कोभिड यात्रा प्रतिबन्ध
+233,en,ne,,,covid travel restrictions,कोभिड यात्रा प्रतिबन्ध
+234,en,ne,,,covid treatment,कोभिडको उपचार
+236,en,ne,,,covid vaccine,कोभिडको औषधी
+237,en,ne,,,covid vaccines,कोभिडका औषधीहरू
+242,en,ne,,,covid-19,कोभिड-१९
+243,en,ne,,,covid-19 alert,कोभिड-19 अलर्ट
+244,en,ne,,,covid-19 cases,कोभिड-19 बिरामीहरू
+245,en,ne,,,covid-19 CDC,कोभिड-19 CDC
+246,en,ne,,,covid-19 contagious,कोभिड-19 फैलने
+247,en,ne,,,covid-19 cure,कोभिड-19 निको
+248,en,ne,,,covid-19 dangerous,कोभिड-19 डरलाग्दो
+249,en,ne,,,covid-19 deadly,कोभिड- 19 खतरनाक
+250,en,ne,,,covid-19 death,कोभिड- 19 मृत्यु
+251,en,ne,,,covid-19 deaths,कोभिड-19 का मृत्युहरू
+252,en,ne,,,covid-19 domestic travel,कोभिड-19 आन्तरिक यात्रा
+253,en,ne,,,covid-19 early symptoms,कोभिड-19को प्रारम्भिक लक्षण
+254,en,ne,,,covid-19 effects,कोभिड-19 का असरहरू
+255,en,ne,,,covid-19 epidemic,कोभिड -19 महामारी
+256,en,ne,,,covid-19 exposure,कोभिड-19 फैलने
+257,en,ne,,,covid-19 fatal,कोभिड-19 डरलाग्दो
+258,en,ne,,,covid-19 fever,कोभिड-19 को ज्वरो
+259,en,ne,,,covid-19 illness,कोभिड-19 को बिरामी
+260,en,ne,,,covid-19 incubation,कोभिड-19 को इन्कुबेसन
+261,en,ne,,,covid-19 incubation period,कोभिड-19 इन्कुबेसन समय
+262,en,ne,,,covid-19 infection,कोभिड-19 संक्रमण
+263,en,ne,,,covid-19 international spread,कोभिड-19 अन्तराष्ट्रिय फैलावट
+264,en,ne,,,covid-19 international travel,कोभिड-19 अन्तराष्ट्रिय यात्रा
+265,en,ne,,,covid-19 isolation,कोभिड-19 आइसोलेसन
+266,en,ne,,,covid-19 lockdown,कोभिड-19 लकडाउन
+267,en,ne,,,covid-19 map,कोभिड-19 नक्सा
+268,en,ne,,,covid-19 medicine,कोभिड-19 को औषधी
+269,en,ne,,,covid-19 medicines,कोभिड-19 का औषधीहरू
+270,en,ne,,,covid-19 news,कोभिड-19 को समाचार
+271,en,ne,,,covid-19 outbreak,कोभिड-19 फैलिएको
+272,en,ne,,,covid-19 pandemic,कोभिड-19 महामारी
+273,en,ne,,,covid-19 panic,कोभिड-19 को त्रास
+275,en,ne,,,covid-19 precautions,कोभिड-19 बाट बच्ने उपायहरू
+276,en,ne,,,covid-19 protection,कोभिड-19 को सुरक्षा
+277,en,ne,,,covid-19 quarantine,कोभिड-19 क्वारेन्टिन
+278,en,ne,,,covid-19 SOS Alert,कोभिड-19 SOS अलर्ट
+279,en,ne,,,covid-19 spread,कोभिड-19 फैलने
+280,en,ne,,,covid-19 symptoms,कोभिड-19 का लक्षणहरू
+281,en,ne,,,covid-19 transmission,कोभिड-19 संक्रमण
+282,en,ne,,,covid-19 travel ban,कोभिड-19 यात्रामा प्रतिबन्ध
+283,en,ne,,,covid-19 travel restrictions,कोभिड-19 यात्रामा प्रतिबन्ध
+284,en,ne,,,covid-19 treatment,कोभिड-19 को उपचार
+285,en,ne,,,covid-19 uncontrolled spread,कोभिड-19 रोक्न नसकिने फैलावट
+286,en,ne,,,covid-19 vaccine,कोभिड-19 को औषधी
+287,en,ne,,,covid-19 vaccines,कोभिड-19 का औषधीहरू
+288,en,ne,,,COVID-19 virus,कोभिड-19 भाइरस
+289,en,ne,,,covid-19 virus outbreak,कोभिड-19 भाइरसको संक्रमण
+290,en,ne,,,covid-19 virus transmission,कोभिड-19 भाइरसको संक्रमण
+291,en,ne,,,covid-19 WHO,कोभिड-19 WHO
+292,en,ne,,,covid19,कोभिड१९
+293,en,ne,,,covid19 alert,कोभिड19 अलर्ट
+294,en,ne,,,covid19 cases,कोभिड19 केस
+295,en,ne,,,covid19 CDC,कोभिड19 CDC
+301,en,ne,,,covid19 deaths,कोभिड19का कारण मृत्युहरू
+302,en,ne,,,covid19 domestic travel,कोभिड19 आन्तरिक यात्रा
+303,en,ne,,,covid19 effects,कोभिड19 का प्रभावहरू
+304,en,ne,,,covid19 epidemic,कोभिड19 माहामारी
+305,en,ne,,,covid19 exposure,कोभिड19 संक्रमण
+306,en,ne,,,covid19 fatal,कोभिड19 डरलाग्दो
+307,en,ne,,,covid19 fever,कोभिड19 को ज्वरो
+308,en,ne,,,covid19 illness,कोभिड19 का बिरामी
+309,en,ne,,,covid19 incubation,कोभिड19 इन्कुबेसन
+310,en,ne,,,covid19 incubation period,कोभिड19 इकुबेसन समय
+311,en,ne,,,covid19 infection,कोभिड19 संक्रमण
+312,en,ne,,,covid19 international spread,कोभिड19 अन्तराष्ट्रिय संक्रमण
+313,en,ne,,,covid19 international travel,कोभिड19 अन्तराष्ट्रिय यात्रा
+314,en,ne,,,covid19 isolation,कोभिड19 आइसोलेसन
+315,en,ne,,,covid19 lockdown,कोभिड19 लकडाउन
+316,en,ne,,,covid19 map,कोभिड19 को नक्सा
+317,en,ne,,,covid19 medicine,कोभिड19 को औषधी
+318,en,ne,,,covid19 medicines,कोभोड19 का औषधीहरू
+319,en,ne,,,covid19 news,कोभिड19 को समाचार
+320,en,ne,,,covid19 outbreak,कोभिड19 फैलने
+321,en,ne,,,covid19 pandemic,कोभिड19 माहामारी
+324,en,ne,,,covid19 precautions,कोभिड19 बाट बच्ने तरिकाहरू
+325,en,ne,,,covid19 protection,कोभिड19 बाट बच्ने
+326,en,ne,,,covid19 quarantine,कोभिड19 क्वारेन्टिन
+327,en,ne,,,covid19 SOS Alert,कोभिड19 SOS अलर्ट
+328,en,ne,,,covid19 spread,कोभिड19 फैलने
+329,en,ne,,,covid19 symptoms,कोभिड19 को लक्षण
+330,en,ne,,,covid19 transmission,कोभिड19 सर्ने
+331,en,ne,,,covid19 travel ban,कोभिड19 यात्रा प्रतिबन्ध
+332,en,ne,,,covid19 travel restrictions,कोभिड19 यात्रा प्रतिबन्ध
+333,en,ne,,,covid19 treatment,कोभिड19 को उपचार
+335,en,ne,,,covid19 vaccine,कोभिड19 को औषधी
+336,en,ne,,,covid19 vaccines,कोभिड19 का औषधीहरू
+337,en,ne,,,covid19 virus,कोभिड19 भाइरस
+338,en,ne,,,covid19 virus outbreak,कोभिड19 भाइरस संक्रमण
+339,en,ne,,,covid19 virus transmission,कोभिड19 भाइरस संक्रमण
+342,en,ne,,,current outbreak,अहिले फैलिएको
+343,en,ne,,,deadly outbreak,खतरनाक फैलिएको
+345,en,ne,,,disease outbreak,रोग फैलिएको
+346,en,ne,,,Disposable hand sanitizer,कुहिने ह्यान्ड स्यानिटाइजर
+348,en,ne,,,domestic travel,स्थानीय यात्रा
+351,en,ne,,,droplets,ड्रपलेट
+357,en,ne,,,Effects of coronavirus,कोरोनाभाइरसका प्रभावहरू
+359,en,ne,,,epidemic,महामारी
+360,en,ne,,,epidemic and pandemic,महामारी
+362,en,ne,,,epidemic disease,माहामारी रोग
+364,en,ne,,,epidemic outbreak,माहामारी फैलियो
+365,en,ne,,,epidemic period,माहामारीको समयावधी
+366,en,ne,,,epidemic prevention,माहामारीको रोकथाम
+368,en,ne,,,epidemic season,माहामारीको मौसम
+369,en,ne,,,epidemic situation,माहामारीको अवस्था
+371,en,ne,,,exposure,संक्रमण
+375,en,ne,,,exposure time,संक्रमित समय
+379,en,ne,,,fever,ज्वरो
+380,en,ne,,,fight the virus,भाइरससँग लड्नुहोस्‌
+381,en,ne,,,Fighting the outbreak,फैलावटसँग जुद्दै
+382,en,ne,,,flu epidemic,रुघाको माहामारी
+385,en,ne,,,fomites,साधन
+392,en,ne,,,global health emergency,विश्व स्वास्थ्यको आपतकालिन
+393,en,ne,,,global outbreak,विश्वव्यापी फैलिएको
+394,en,ne,,,global pandemic,विश्वव्यापी माहामारी
+396,en,ne,,,hand sanitizer,ह्यान्ड स्यानीटाइजर
+397,en,ne,,,hand sanitizer dispenser,ह्यान्ड स्यानिटाइजर डिस्पेन्सर
+398,en,ne,,,hand sanitizer gel,ह्यान्ड स्यानीटाइजर जेल
+399,en,ne,,,hand sanitizer spray,ह्यान्ड स्यानिटाइजर स्प्रे
+403,en,ne,,,home isolation,घरमा आइसोलेसन
+404,en,ne,,,home quarantine,घरमा क्वारेन्टिन
+410,en,ne,,,illness,बिरामी
+415,en,ne,,,incubation period,इन्कुबेसन समय
+418,en,ne,,,infected,संक्रमित
+424,en,ne,,,instant hand sanitizer,तत्कालिन ह्यान्ड स्यानिटाइजर
+425,en,ne,,,international spread,अन्तराष्ट्रिय फैलिएको
+426,en,ne,,,international travel,अन्तराष्ट्रिय यात्रा
+427,en,ne,,,isolation,आइसोलेसन
+428,en,ne,,,isolation period,आइसोलेसन समय
+430,en,ne,,,isolation room,आइसोलेसन कक्ष
+431,en,ne,,,isolation valve,आइसोलेसन भल्भ
+432,en,ne,,,isolation ward,आइसोलेसन वार्ड
+434,en,ne,,,lockdown,लकडाउन
+438,en,ne,,,major outbreak,मूख्य फैलिएको
+439,en,ne,,,mandatory quarantine,अनिवार्य क्वारेन्टिन
+440,en,ne,,,mass gathering,हुल जम्मा
+444,en,ne,,,medicine,औषधी
+445,en,ne,,,medicines,औषधीहरू
+448,en,ne,,,n95,n95
+449,en,ne,,,n95 mask,n95 मास्क
+450,en,ne,,,n95 respirator,n95 रेस्पिरेटर
+451,en,ne,,,ncov,ncov
+452,en,ne,,,ncov-2019,ncov-2019
+453,en,ne,,,new coronavirus,नयाँ कोरोना भाइरस
+454,en,ne,,,new coronavirus pneumonia,नयाँ कोरोनाभाइरसको निमोनिया
+460,en,ne,,,novel coronavirus,नोभल कोरोना भाइरस
+462,en,ne,,,novel coronavirus infection,नोभल कोरोनाभाइरसको संक्रमण
+463,en,ne,,,novel coronavirus outbreak,नोभल कोरोनाभाइरसको संक्रमण
+464,en,ne,,,novel coronavirus pneumonia,नोभल कोरोनाभाइरस निमोनिया
+470,en,ne,,,ongoing outbreak,अहिले फैलिएको
+472,en,ne,,,outbreak,फैलिने
+474,en,ne,,,outbreak of coronavirus,कोरोनाभाइरसको संक्रमण
+475,en,ne,,,outbreak of disease,रोगको संक्रमण
+482,en,ne,,,pandemic,माहामारी
+485,en,ne,,,pandemic influenza,महामारी इन्फ्लुएन्जा
+486,en,ne,,,pandemic outbreak,महामारीको संक्रमण
+487,en,ne,,,pandemic plan,महामारीको योजना
+488,en,ne,,,pandemic potential,महामारीको सम्भावना
+495,en,ne,,,pneumonia,निमोनिया
+496,en,ne,,,pneumonia epidemic,निमोनियाको महामारी
+497,en,ne,,,potential exposure,सम्भावित फैलने
+498,en,ne,,,precautions,सावधानी
+499,en,ne,,,prevent virus,भाइरस रोक्नुहोस्‌
+500,en,ne,,,prolonged exposure,लामो संक्रमण
+504,en,ne,,,quarantine,क्वारेन्टिन
+505,en,ne,,,quarantine area,क्वारेन्टिन क्षेत्र
+506,en,ne,,,quarantine facility,क्वारेन्टिन घर
+507,en,ne,,,quarantine measures,क्वारेन्टिन गर्ने तरिका
+508,en,ne,,,quarantine period,क्वारेन्टिनको समय
+509,en,ne,,,quarantine room,क्वारेन्टिन कोठा
+510,en,ne,,,quarantine zone,क्वारेन्टिन क्षेत्र
+512,en,ne,,,Recovered coronavirus patient,कोरोनाभाइरसबाट निको भएका विरामी
+514,en,ne,,,repatriate,फिर्ता
+515,en,ne,,,repeated exposure,दोहोरिएको संक्रमण
+516,en,ne,,,respiratory syncytial virus,श्वासप्रश्वासमा असर गर्ने भाइरस
+517,en,ne,,,respiratory virus,रेस्पिरेटरी भाइरस
+519,en,ne,,,Sanitizing hand sanitizer,निको पार्ने ह्यान्ड स्यानिटाइजर
+520,en,ne,,,SARS-CoV-2,SARS-CoV-2
+521,en,ne,,,self isolation,स्वतः आइसोलेसन
+522,en,ne,,,self quarantine,स्वतः क्वारेन्टिन
+523,en,ne,,,Severe outbreak,गहन संक्रमण
+525,en,ne,,,social distancing,सामाजिक दुरी
+526,en,ne,,,social distancing measures,सामाजिक दुरीको धारणा
+527,en,ne,,,social isolation,सामाजिक आइसोलेसन
+528,en,ne,,,SOS Alert,SOS अलर्ट
+529,en,ne,,,spread,फैलने
+530,en,ne,,,spread of coronavirus,कोरोनाभाइरसको संक्रमण
+531,en,ne,,,spread of virus,भाइरसको संक्रमण
+535,en,ne,,,strain of virus,भाइरसको अंश
+541,en,ne,,,the incubation period,इन्कुबेसन समय
+544,en,ne,,,the novel coronavirus,नोभल कोरोनाभाइरस
+558,en,ne,,,touching face,मुख छुने
+559,en,ne,,,travel advisory,यात्राको विवरण
+560,en,ne,,,travel ban,यात्रामा रोक
+561,en,ne,,,travel restrictions,यात्रामा रोक
+565,en,ne,,,use hand sanitizer,ह्ययान्ड स्यानिटाइजर प्रयोग गर्नुहोस्‌
+566,en,ne,,,vaccines,औषधी
+567,en,ne,,,viral outbreak,भाइरलको संक्रमण
+568,en,ne,,,virtual lockdown,आंशिक लकडाउन
+569,en,ne,,,virus,भाइरस
+570,en,ne,,,virus carrier,भाइरस बहान
+573,en,ne,,,virus infection,भाइरसको संक्रमण
+575,en,ne,,,virus mask,भाइरस मास्क
+576,en,ne,,,virus outbreak,भाइरसको संक्रमण
+577,en,ne,,,virus prevention,भाइरसको रोकथाम
+578,en,ne,,,virus protection,भाइरस रोक्ने
+580,en,ne,,,virus spread,भाइरस सर्ने
+582,en,ne,,,virus spreads,भाइरसको संक्रमण
+583,en,ne,,,virus strain,भाइरस रोकियो
+584,en,ne,,,virus transmission,भाइरसको संक्रमण
+586,en,ne,,,wash your hands,आफ्नो हात धुनुहोस्‌
+587,en,ne,,,washing hands,हात धुने
+589,en,ne,,,WHO,WHO
+590,en,ne,,,WHO Confirmed,WHO ले पुष्टि गरेको
+591,en,ne,,,WHO Deaths,WHO ले देखाएको मृत्यु
+592,en,ne,,,widespread outbreak,धेरै फैलिएको संक्रमण
+597,en,ne,,,World Health Organization,विश्व स्वास्थ्य संस्था
+600,en,ne,,,zoonotic disease,क्षेत्रातिक रोग
+601,en,ne,,,zoonotic virus,क्षेत्रातिक भाइरस

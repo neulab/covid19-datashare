@@ -1,0 +1,44 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+xx_651,ko,en,,,슈퍼 전파자,Super spreader
+xx_655,ko,en,,,비말 전파,Nasal spray
+xx_656,ko,en,,,밀접 접촉자,Close contact
+xx_657,ko,en,,,병원내 감염,In-hospital infection
+xx_658,ko,en,,,의심환자,Suspected patients
+xx_659,ko,en,,,해외유입환자,Foreign patient inflow
+xx_660,ko,en,,,발병률,Incidence rate
+xx_661,ko,en,,,치사율,Fatality rate
+xx_662,ko,en,,,완치율,Recovery rate
+xx_663,ko,en,,,체온 측정,Measured body tempreture
+xx_664,ko,en,,,격리치료,Isolation treatment
+xx_665,ko,en,,,자가격리,Self-isolation
+xx_666,ko,en,,,핵산증폭검사(NAT),Nucleic Acid Aplification Test (NAT)
+xx_667,ko,en,,,마스크 착용,Wearing a mask
+xx_668,ko,en,,,손씻기,Washing hands
+xx_669,ko,en,,,개학 연기,Closed schools
+xx_670,ko,en,,,외출 자제,Refrain from going out
+xx_671,ko,en,,,2주간 자가격리,2-week self isolation
+xx_672,ko,en,,,사재기,Hoarding
+xx_673,ko,en,,,지정 병원,Designated hospital
+xx_674,ko,en,,,드라이브스루,Drive through
+xx_675,ko,en,,,워킹스루,Walking through
+xx_676,ko,en,,,코호트 격리,Cohort isolation
+xx_677,ko,en,,,진단키트,Diagnosis kit
+xx_678,ko,en,,,손소독제,Hand sanitizer
+xx_679,ko,en,,,N95 마스크,N95 mask
+xx_680,ko,en,,,마스크 5부제,5 day mask system
+xx_681,ko,en,,,질병관리본부,Center for Disease Control
+xx_682,ko,en,,,약국 마스크 판매,Pharmacy mask sales
+xx_683,ko,en,,,역학조사,Pharmacological research
+xx_684,ko,en,,,유증상자,Simular disease cases
+xx_685,ko,en,,,무증상자,Asymtomatic cases
+xx_686,ko,en,,,사회적 거리두기,Social distancing
+xx_690,ko,en,,,감염병,Infectious diseases
+xx_691,ko,en,,,전염병,Epidemic
+xx_692,ko,en,,,시설격리,Isolation facilities
+xx_694,ko,en,,,코로나 증상,Corona symtoms
+xx_695,ko,en,,,인후통,Sore throat
+xx_696,ko,en,,,후베이성 봉쇄,Hubei blockade
+xx_697,ko,en,,,뉴욕 셧다운,New York shutdown
+xx_698,ko,en,,,입국금지,No entry
+xx_699,ko,en,,,여행금지,Travel prohibited
+xx_700,ko,en,,,인천공항 검역,Incheon Airport quarantine

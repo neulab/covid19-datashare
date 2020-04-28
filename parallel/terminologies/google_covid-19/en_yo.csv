@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,yo,,,14 days in isolation,ọjọ́ mẹ́rìnlá nínú ìyaraẹniṣọ́tọ̀
+26,en,yo,,,14 days quarantine,ìfinipamọ́ ọlọ́jọ́-mẹ́rìnlá
+27,en,yo,,,2019 coronavirus,kòkòrò àrùn fáírọ́ọ̀sì-kòrónà 2019
+28,en,yo,,,2019 novel coronavirus,kòkòrò àrùn fáírọ́ọ̀sì-kòrónà alárà-ọ̀tọ̀ ti 2019
+29,en,yo,,,2019-nCoV,2019-nCoV
+30,en,yo,,,2020 coronavirus,kòkòrò àrùn fáíró̩ọ̀sì-kòrónà 2020
+31,en,yo,,,2020 novel coronavirus,kòkòrò àrùn fáírọ́ọ̀sì-kòróna alárà-ọ̀tọ̀ ti 2020
+33,en,yo,,,about coronavirus,nípa kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+39,en,yo,,,acute respiratory distress syndrome,àpapọ̀ àwọn àìsàn ìnira èèmì mímí tóṣẹ̀ṣẹ̀-ńbẹ̀rẹ̀
+40,en,yo,,,advanced hand sanitizer,asíwájú òògùn apakòkòrò tówàlọ́wọ́-ẹni
+41,en,yo,,,Affected by coronavirus,Tí kòkòrò àrùn fáírọ́ọ̀sì-kòrónà ti ràn
+42,en,yo,,,after exposure,lé̩yìn ìsírasílẹ̀
+43,en,yo,,,After the epidemic,Lẹ́yìn àjàkálẹ̀ àrùn náà
+44,en,yo,,,After the outbreak,Lẹ́yìn ìbújáde náà
+47,en,yo,,,airborne virus,kòkòrò àrùn fáírọ́ọ̀sì tinú-afẹ́fé̩
+48,en,yo,,,alcohol based hand sanitizer,òògùn apakòkòrò tówàlọ́wọ́-ẹni táafi alikoọ́ọ̀lù ṣe
+49,en,yo,,,alcohol hand sanitizer,òògùn apakòkòrò àrùn tówàlọ́wọ́-ẹni ti aláalikọọ́ọ̀lù
+51,en,yo,,,alcohol-based hand sanitizer,òògùn apakòkòrò àrùn tówàlọ́wọ́-ẹni táafi-alikọọ́ọ̀lu ṣe
+59,en,yo,,,Anti-Corona virus spray,Ìfín-òògùn apakòkòrò àrùn fáírọ́ọ̀sì-kòrónà sínílára
+60,en,yo,,,antibacterial hand sanitizer,òògùn apakòkòrò àrùn bakitéríà tówàlọ́wọ́-ẹni
+61,en,yo,,,ARDS,ARDS
+64,en,yo,,,avoid exposure,yàgò fún ìsírasílẹ̀
+65,en,yo,,,be infected,di e̩nití ó kó àrùn
+75,en,yo,,,Beware of coronavirus,Sọ́ra fún kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+76,en,yo,,,bilateral interstitial pneumonia,àìsàn òtútù àyà ti àlàfo-igẹ̀
+77,en,yo,,,CDC,Àjọ CDC
+78,en,yo,,,Center for Disease Control,Ibùdó fún Ìṣàsóko àti Ìdènà Àisàn
+83,en,yo,,,community spread,ìtànkálẹ̀ láwùjo̩
+84,en,yo,,,compulsory quarantine,ìfinipamọ́ tipátipá
+85,en,yo,,,contagious,tó leè ranni
+135,en,yo,,,coronavirus,kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+136,en,yo,,,coronavirus (COVID-19),kòkòrò àrùn fáírọ́ọ̀sì-kòrónà (COVID-19)
+137,en,yo,,,coronavirus alert,ìtanilólobó nípa kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+139,en,yo,,,coronavirus cases,àwọn ìṣẹ̀lẹ̀ kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+141,en,yo,,,coronavirus concerns,àwọn ìkáyàsókè nípa kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+143,en,yo,,,coronavirus crisis,ìdààmú ti kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+149,en,yo,,,coronavirus disease,àìsàn kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+150,en,yo,,,Coronavirus disease (COVID-19) outbreak,Ìbújáde àisàn kòkòrò àrùn fáírọ́ọ̀sì-kòrónà (COVID-19)
+153,en,yo,,,coronavirus early symptoms,àwọn àmì ìbẹ̀rẹ̀ àrùn kòkòrò fáírọ́ọ̀sì-kòrónà
+155,en,yo,,,coronavirus epidemic,àjàkálẹ̀ àrùn kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+156,en,yo,,,coronavirus exposure,ìsírasílẹ̀ sí kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+161,en,yo,,,coronavirus incubation,ìṣàba kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+162,en,yo,,,coronavirus incubation period,àkókò ìṣàba kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+163,en,yo,,,coronavirus infection,àrùn kòkòrò àrùn fáíró̩ọ̀sì-kòrónà
+168,en,yo,,,coronavirus map,àwòrán máàpù àgbáyé ti kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+170,en,yo,,,coronavirus medicine,òògùn kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+171,en,yo,,,coronavirus medicines,àwọn òògùn kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+172,en,yo,,,coronavirus news,ìròyìn kòkòrò àrùn fáírọ́ọ̀s-kòrónà
+173,en,yo,,,coronavirus outbreak,ìbújáde kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+174,en,yo,,,coronavirus pandemic,àjàkàlẹ̀ àrùn kárí-ayé kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+176,en,yo,,,coronavirus pneumonia,àìsàn òtútù àyà kòkòrò àrùn fáíró̩ọ̀sì-kòrónà
+177,en,yo,,,coronavirus precautions,àwọn ìṣọ́ra lórí kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+178,en,yo,,,coronavirus prevention,ìdènà kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+179,en,yo,,,coronavirus protection,ìdáààbòbò fún kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+180,en,yo,,,coronavirus quarantine,ìfinipamọ́ nítorí kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+182,en,yo,,,coronavirus SOS Alert,ìtanilólobó SOS fún kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+183,en,yo,,,coronavirus spread,ìtànkálẹ̀ kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+184,en,yo,,,coronavirus symptoms,àwọn àmì kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+185,en,yo,,,coronavirus transmission,ìkóranni kòkòrò àrùn fáíró̩ò̩sì-kòrónà
+186,en,yo,,,coronavirus travel ban,ìfòfindè ìrìn-àjò lórí kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+187,en,yo,,,coronavirus travel restrictions,àwọn ìṣèdiwọ̀n ìrìn-àjò lórí kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+188,en,yo,,,coronavirus treatment,ìtọ́jú àìsàn kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+190,en,yo,,,coronavirus update,ìròyìn ìmúdójúìwọ̀n nípa kòkòò àrùn fáírọ́ọ̀sì-kòrónà
+191,en,yo,,,coronavirus vaccine,abé̩ré̩ àjẹsára kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+192,en,yo,,,coronavirus vaccines,àwọn abẹ́rẹ́ àjẹsára kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+198,en,yo,,,covid cases,àwọn ìṣẹ̀lé̩ covid
+205,en,yo,,,covid early symptoms,̀àwọn àmì ìbẹ̀rẹ̀ ti covid
+213,en,yo,,,covid incubation period,àkókò ìṣàba covid
+215,en,yo,,,covid international spread,ìtànkálẹ̀ covid káàkiri àgbáyé
+216,en,yo,,,covid international travel,ìrìn-àjo covid káàkiri àgbáyé
+217,en,yo,,,covid isolation,ìyaraẹniṣọ́tọ̀ nítorí covid
+219,en,yo,,,covid map,àwòràn máàpù àgbáyé covid
+220,en,yo,,,covid medicine,òògùn covid
+221,en,yo,,,covid medicines,àwọn òògùn covid
+222,en,yo,,,covid news,ìròyìn covid
+223,en,yo,,,covid outbreak,ìbújáde covid
+224,en,yo,,,covid pandemic,àjàkálẹ̀ àrùn kárí-ayé covid
+225,en,yo,,,covid panic,ìbẹ̀rù covid
+228,en,yo,,,covid SOS Alert,ìtanilólobó SOS lórí covid
+230,en,yo,,,covid symptoms,àwọn àmì covid
+231,en,yo,,,covid transmission,ìkóranni covid
+232,en,yo,,,covid travel ban,ìfòfindè ìrìn-àjò lórí covid
+233,en,yo,,,covid travel restrictions,àwọn ìṣèdiwọ̀n ìrìn-àjò lórí covid
+234,en,yo,,,covid treatment,ìtọ́jú covid
+236,en,yo,,,covid vaccine,abẹ́rẹ́ àjẹsára covid
+237,en,yo,,,covid vaccines,àwọn abẹ́ré̩ àjẹsára covid
+242,en,yo,,,covid-19,covid-19
+243,en,yo,,,covid-19 alert,ìtanilólobó nípa covid-19
+244,en,yo,,,covid-19 cases,àwọn ìṣẹ̀lẹ̀ covid-19
+245,en,yo,,,covid-19 CDC,covid-19 ní CDC
+246,en,yo,,,covid-19 contagious,covid-19 leè ranni
+247,en,yo,,,covid-19 cure,ìwòsàn covid-19
+248,en,yo,,,covid-19 dangerous,covid-19 léwu
+249,en,yo,,,covid-19 deadly,covid-19 leè fa ikú
+250,en,yo,,,covid-19 death,ikú covid-19
+251,en,yo,,,covid-19 deaths,àwọn ikú covid-19
+252,en,yo,,,covid-19 domestic travel,ìrìn-àjò alábẹ́lé covid-19
+253,en,yo,,,covid-19 early symptoms,àwọn àmì ìbẹ̀rẹ̀ covid-19
+254,en,yo,,,covid-19 effects,àwọn ipa covid-19
+255,en,yo,,,covid-19 epidemic,àjàkálẹ̀ àrùn covid-19
+256,en,yo,,,covid-19 exposure,ìsírasílẹ̀ sí covid-19
+257,en,yo,,,covid-19 fatal,covid-19 ńfa ikú
+258,en,yo,,,covid-19 fever,ibà covid-19
+259,en,yo,,,covid-19 illness,àìsàn covid-19
+260,en,yo,,,covid-19 incubation,ìṣàba covid-19
+261,en,yo,,,covid-19 incubation period,àkókò ìṣàba covid-19
+262,en,yo,,,covid-19 infection,àrùn covid-19
+263,en,yo,,,covid-19 international spread,ìtànkálẹ̀ covid-19 káàkiri àgbáyé
+264,en,yo,,,covid-19 international travel,ìrìn-àjò covid-19 káàkiri àgbáyé
+265,en,yo,,,covid-19 isolation,ìyaraẹniṣọ́tọ̀ nítorí covid-19
+266,en,yo,,,covid-19 lockdown,ìṣénimọ́lé nítorí covid-19
+267,en,yo,,,covid-19 map,àwòràn máàpù àgbáyé covid-19
+268,en,yo,,,covid-19 medicine,òògùn covid-19
+269,en,yo,,,covid-19 medicines,àwọn òògùn covid-19
+270,en,yo,,,covid-19 news,ìròyìn covid-19
+271,en,yo,,,covid-19 outbreak,ìbújáde covid-19
+272,en,yo,,,covid-19 pandemic,àjàkálẹ̀ àrùn kárí-ayé covid-19
+273,en,yo,,,covid-19 panic,ìbẹ̀rù covid-19
+275,en,yo,,,covid-19 precautions,àwọn ìṣó̩ra covid-19
+276,en,yo,,,covid-19 protection,ìdáààbòbò kúrò ló̩wó̩ covid-19
+277,en,yo,,,covid-19 quarantine,ìfinipamọ́ nítorí covid-19
+278,en,yo,,,covid-19 SOS Alert,Ìtanilólobó SOS lórí covid-19
+279,en,yo,,,covid-19 spread,ìtànkálẹ̀ covid-19
+280,en,yo,,,covid-19 symptoms,àwọn àmì covid-19
+281,en,yo,,,covid-19 transmission,ìkóranni covid-19
+282,en,yo,,,covid-19 travel ban,ìfòfindè ìrìn-àjò covid-19
+283,en,yo,,,covid-19 travel restrictions,àwọn ìṣèdiwọ̀n ìrìn-àjò lórí covid-19
+284,en,yo,,,covid-19 treatment,ìtọ́jú covid-19
+285,en,yo,,,covid-19 uncontrolled spread,ìtànkálẹ̀ aláìṣàkóso covid-19
+286,en,yo,,,covid-19 vaccine,abẹ́ré̩ àjẹsára covid-19
+287,en,yo,,,covid-19 vaccines,àwọn abẹ́ré̩ àjẹsára covid-19
+288,en,yo,,,COVID-19 virus,kòkòrò àrùn fáírọ́ọ̀sì covid-19
+289,en,yo,,,covid-19 virus outbreak,ìbújáde kòkòrò àrùn fáírọ́ọ̀sì covid-19
+290,en,yo,,,covid-19 virus transmission,ìkóranni kòkòrò àrùn fáírọ́ọ̀sì covid-19
+291,en,yo,,,covid-19 WHO,covid-19 ní Àjọ WHO
+292,en,yo,,,covid19,covid19
+293,en,yo,,,covid19 alert,ìtanilólobó nípa covid19
+294,en,yo,,,covid19 cases,àwọn ìṣẹ̀lẹ̀ covid19
+295,en,yo,,,covid19 CDC,covid19 ní CDC
+301,en,yo,,,covid19 deaths,àwọn ikú covid19
+302,en,yo,,,covid19 domestic travel,ìrìn-àjò alábẹ́lé covid19
+303,en,yo,,,covid19 effects,àwọn ipa covid19
+304,en,yo,,,covid19 epidemic,àjàkálẹ̀ àrùn covid19
+305,en,yo,,,covid19 exposure,ìsírasílẹ̀ sí covid19
+306,en,yo,,,covid19 fatal,covid19 ńfa ikú
+307,en,yo,,,covid19 fever,ibà covid19
+308,en,yo,,,covid19 illness,àìsàn covid19
+309,en,yo,,,covid19 incubation,ìṣàba covid19
+310,en,yo,,,covid19 incubation period,àkókò ìṣàba covid19
+311,en,yo,,,covid19 infection,àrùn covid19
+312,en,yo,,,covid19 international spread,ìtànkálẹ̀ covid19 káàkiri àgbáyé
+313,en,yo,,,covid19 international travel,ìrín-àjò covid19 káàkiri àgbáyé
+314,en,yo,,,covid19 isolation,ìyaraẹniṣọ́tọ̀ nítorí covid19
+315,en,yo,,,covid19 lockdown,ìṣénimọ́lé nítorí covid19
+316,en,yo,,,covid19 map,máàpù àgbáyé covid19
+317,en,yo,,,covid19 medicine,òògùn covid19
+318,en,yo,,,covid19 medicines,àwọn òògùn covid19
+319,en,yo,,,covid19 news,ìròyìn covid19
+320,en,yo,,,covid19 outbreak,ìbújáde covid19
+321,en,yo,,,covid19 pandemic,àjàkálẹ̀ àrùn kárí-ayé covid19
+324,en,yo,,,covid19 precautions,àwọn ìsó̩ra nítorí covid19
+325,en,yo,,,covid19 protection,ìdáààbòbò kúrò lọ́wó̩ covid19
+326,en,yo,,,covid19 quarantine,ìfinipamọ́ nítorí covid19
+327,en,yo,,,covid19 SOS Alert,Ìtanilólobó SOS lórí covid19
+328,en,yo,,,covid19 spread,ìtànkálẹ̀ covid19
+329,en,yo,,,covid19 symptoms,àwọn àmì covid19
+330,en,yo,,,covid19 transmission,ìkóranni covid19
+331,en,yo,,,covid19 travel ban,ìfòfindè ìrìn-àjò lórí covid19
+332,en,yo,,,covid19 travel restrictions,àwọn ìṣèdiwọ̀n ìrìn-àjò lórí covid19
+333,en,yo,,,covid19 treatment,ìtọ́jú covid19
+335,en,yo,,,covid19 vaccine,abẹ́rẹ́ àje̩sára covid19
+336,en,yo,,,covid19 vaccines,àwọn abẹ́ré̩ àje̩sára covid19
+337,en,yo,,,covid19 virus,kòkòrò àrùn fáírọ́ọ̀sì covid19
+338,en,yo,,,covid19 virus outbreak,ìbújáde kòkòrò àrùn fáírọ́ọ̀sì covid19
+339,en,yo,,,covid19 virus transmission,ìkóranni kòkòrò àrùn fáírọ́ọ̀sì covid19
+342,en,yo,,,current outbreak,ìbújáde lọ́wọ́lọ́wọ́
+343,en,yo,,,deadly outbreak,ìbújáde tó leè fa ikú
+345,en,yo,,,disease outbreak,ìbújáde àìsàn
+346,en,yo,,,Disposable hand sanitizer,òògùn apakòkòrò tówàlọ́wọ́-ẹni aláàlògbésọnù
+348,en,yo,,,domestic travel,ìrìn-àjò alábẹ́lé
+351,en,yo,,,droplets,àwọn ìkánsílẹ̀ kékééké
+357,en,yo,,,Effects of coronavirus,Àwọn ipa kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+359,en,yo,,,epidemic,àjàkálẹ̀ àrùn
+360,en,yo,,,epidemic and pandemic,àjàkálẹ̀ àrùn àti àjàkálẹ̀ àrùn káríayé
+362,en,yo,,,epidemic disease,àìsàn àjàkálẹ̀ àrùn
+364,en,yo,,,epidemic outbreak,ìbújáde àjàkálẹ̀ àrùn
+365,en,yo,,,epidemic period,àkòkò àjàkálẹ̀ àrùn
+366,en,yo,,,epidemic prevention,ìdènà àjàkálẹ̀ àrùn
+368,en,yo,,,epidemic season,ìgbà àjàkálẹ̀ àrùn
+369,en,yo,,,epidemic situation,ipò àjàkálẹ̀ àrùn
+371,en,yo,,,exposure,ìsírasílẹ̀
+375,en,yo,,,exposure time,àkókò ìsírasílẹ̀
+379,en,yo,,,fever,ibà
+380,en,yo,,,fight the virus,bá kòkòrò àrùn fáírọ́ọ̀sì náà jà
+381,en,yo,,,Fighting the outbreak,Bíbá ìbújáde náà jà
+382,en,yo,,,flu epidemic,àjàkálẹ̀ àrùn àìsàn ọ̀fìnkìn
+385,en,yo,,,fomites,àwọn ohun tó leè kó àrùn ranni
+392,en,yo,,,global health emergency,ìṣẹ̀lẹ̀ pàjáwìrí ti ìlera káàkiri àgbáyé
+393,en,yo,,,global outbreak,ìbújáde àgbááláayé
+394,en,yo,,,global pandemic,àjàkálẹ̀ àrùn gbogbo àgbááláayé
+396,en,yo,,,hand sanitizer,òògùn apakòkòrò tówàlọ́wó̩-e̩ni
+397,en,yo,,,hand sanitizer dispenser,̣ẹ̀rọ afunnilóòògùn-apakòkòrò tówàlọ́wọ́-ẹni
+398,en,yo,,,hand sanitizer gel,òògùn olóòri-ìpara apakòkòrò tówàlọ́wọ́-ẹni
+399,en,yo,,,hand sanitizer spray,òògùn apakòkòrò tówàlọ́wọ́-ẹni aláàfínsínilára
+403,en,yo,,,home isolation,ìyaraẹniṣọ́tọ̀ tinú ilé
+404,en,yo,,,home quarantine,ìfinipamó̩ tinú ilé
+410,en,yo,,,illness,àìsàn
+415,en,yo,,,incubation period,àkókò ìṣàba
+418,en,yo,,,infected,ti kó àrùn
+424,en,yo,,,instant hand sanitizer,òògùn apakòkòrò tọ́wàlọ́wọ́-ẹni oníṣẹ́-ojú-ẹsẹ̀
+425,en,yo,,,international spread,ìtànkálẹ̀ káàkiri àgbáyé
+426,en,yo,,,international travel,ìrìn-àjò káàkiri àgbáyé
+427,en,yo,,,isolation,ìyàraẹniṣọ́tọ̀
+428,en,yo,,,isolation period,àkókò ìyaraẹniṣọ́tọ̀
+430,en,yo,,,isolation room,yàrá ìyaraẹniṣọ́tó̩
+431,en,yo,,,isolation valve,ẹ̀rọ-aṣàkòso ojútọ̀-omi ibi ìyaraẹniṣọ́tọ̀
+432,en,yo,,,isolation ward,wọ́ọ̀dù ìyaraẹniṣọ́tọ̀
+434,en,yo,,,lockdown,ìsénimọ́lé
+438,en,yo,,,major outbreak,ìbújáde tódélédóko
+439,en,yo,,,mandatory quarantine,ìfijipamọ́ tópọndandan
+440,en,yo,,,mass gathering,ìpéjọpọ̀ ọ̀pọ̀ ènìyàn
+444,en,yo,,,medicine,òògùn
+445,en,yo,,,medicines,àwọn òògùn
+448,en,yo,,,n95,n95
+449,en,yo,,,n95 mask,ìbòjú n95
+450,en,yo,,,n95 respirator,ohun èlò èèmì mímí n95
+451,en,yo,,,ncov,ncov
+452,en,yo,,,ncov-2019,ncov-2019
+453,en,yo,,,new coronavirus,kòkòrò àrùn fáírọ́ọ̀sì-kòrónà tuntun
+454,en,yo,,,new coronavirus pneumonia,àìsàn òtútù àyà kòkòrò àrùn fáírọ́ọ̀sì-kòrónà tuntun
+460,en,yo,,,novel coronavirus,kòkòrò àrùn fáírọ́ọ̀sì-kòrónà alárà-ọ̀tọ́
+462,en,yo,,,novel coronavirus infection,àrùn kòkòrò-àrùn fáírọ́ọ̀sì-kòrónà
+463,en,yo,,,novel coronavirus outbreak,ìbújáde kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+464,en,yo,,,novel coronavirus pneumonia,àìsàn òtútù àyà kòkòrò àrùn fáírọ́ọ̀sì-kòrónà alárà-ọ̀tọ̀
+470,en,yo,,,ongoing outbreak,ìbójáde tó ńlọ ló̩wó̩lọ́wọ́
+472,en,yo,,,outbreak,ìbújáde
+474,en,yo,,,outbreak of coronavirus,ìbújáde ti kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+475,en,yo,,,outbreak of disease,ìbújáde ti àìsàn
+482,en,yo,,,pandemic,àjàkálẹ̀ àrùn tókárí-ayé
+485,en,yo,,,pandemic influenza,àjàkálẹ̀ àrùn infuluẹ́ńṣà tókárí-ayé
+486,en,yo,,,pandemic outbreak,ìbújáde àjàkálẹ̀ àrùn tókárí-ayé
+487,en,yo,,,pandemic plan,àgbékalẹ̀ àjàkálẹ àrùn tókárí-ayé
+488,en,yo,,,pandemic potential,ipá láti fa àjàkálẹ̀ àrùn tókárí-ayé
+495,en,yo,,,pneumonia,àìsàn òtútù àyà
+496,en,yo,,,pneumonia epidemic,àjàkálẹ̀ àrùn òtútù àyà
+497,en,yo,,,potential exposure,ipá láti sí'rasílẹ̀ f'árùn
+498,en,yo,,,precautions,àwọn ìṣọ́ra
+499,en,yo,,,prevent virus,dènà kòkòrò àrùn fáírọ́ọ̀sì
+500,en,yo,,,prolonged exposure,ìsírasílẹ̀ fúngbà pípẹ́
+504,en,yo,,,quarantine,ìfinipamọ́
+505,en,yo,,,quarantine area,agbègbè ìfinipamọ́sí
+506,en,yo,,,quarantine facility,ilé-ìwòsàn ìfinipamọ́sí
+507,en,yo,,,quarantine measures,àwọn ìgbésẹ̀ ìfinipamọ́
+508,en,yo,,,quarantine period,àkókò ìfinipamọ́
+509,en,yo,,,quarantine room,yàrá ìfinipamọ́sí
+510,en,yo,,,quarantine zone,àdúgbò ìfinipamọ́sí
+512,en,yo,,,Recovered coronavirus patient,Aláìsàn kòkòrò àrùn fáírọ́ọ̀sì-kòrónà tótisàn
+514,en,yo,,,repatriate,fipágbée padà sí ìlú rẹ̀
+515,en,yo,,,repeated exposure,ìsirasílẹ̀ ọlọ́jọ́pípẹ́
+516,en,yo,,,respiratory syncytial virus,kòkòrò àrùn fáírọ́ọ̀sì ibi èèmì
+517,en,yo,,,respiratory virus,kòkòrò fáírọ́ọ̀sì ti àisàn èémí mímí
+519,en,yo,,,Sanitizing hand sanitizer,Ńpa kòkòrò ara òògùn apakòkòrò tówàlọ́wọ́-ẹni
+520,en,yo,,,SARS-CoV-2,SARS-CoV-2
+521,en,yo,,,self isolation,ìyaraẹniṣọ́tọ̀ ti ara-ẹni
+522,en,yo,,,self quarantine,ìfiraẹnipamọ́ ti ara-ẹni
+523,en,yo,,,Severe outbreak,Ìbújade àrùn tólágbára
+525,en,yo,,,social distancing,ìjìnnàsíni nípa ìbáraẹniṣepọ̀
+526,en,yo,,,social distancing measures,àwọn ìgbésẹ̀ ìjìnnàsíni nípa ìbáraẹniṣepọ̀
+527,en,yo,,,social isolation,̇ìyaraẹniṣọ́tọ̀ nípa ìbáraẹniṣepọ̀
+528,en,yo,,,SOS Alert,Ìtanilólobó ti SOS
+529,en,yo,,,spread,tànkálẹ̀
+530,en,yo,,,spread of coronavirus,ìtànkálẹ̀ kòkòrò àrùn fáírọ́ọ̀sì-kòrónà
+531,en,yo,,,spread of virus,ìtànkálẹ̀ ti kòkòrò àrùn fáírọ́ọ̀sì
+535,en,yo,,,strain of virus,ẹ̀yà ti kòkòrò àrùn fáírọ́ọ̀sì
+541,en,yo,,,the incubation period,àkókò ìṣàba náà
+544,en,yo,,,the novel coronavirus,kòkòrò àrùn fáírọ́ọ̀sì-kòrónà alárà-ọ̀tọ̀ náà
+558,en,yo,,,touching face,fifọwọ́ kan ojú
+559,en,yo,,,travel advisory,àmọ̀ran ìrìn-àjò
+560,en,yo,,,travel ban,ìfòfinde ìrìn-àjò
+561,en,yo,,,travel restrictions,àwọn ìṣòdinwọ̀n lórí ìrìn-àjò
+565,en,yo,,,use hand sanitizer,lo òògùn apakòkòrò tówàlọ́wọ́-ẹni
+566,en,yo,,,vaccines,àwọn abé̩ré̩ àje̩sára
+567,en,yo,,,viral outbreak,ìbújáde àwọn kòkòrò àrùn fáírọ́ọ̀sì
+568,en,yo,,,virtual lockdown,ìṣénimọ́lé tófẹ́rẹ̀jẹ́ gbogbogbòò
+569,en,yo,,,virus,kòkòrò àrùn fáírọ́ọ̀sì
+570,en,yo,,,virus carrier,aláàárù kòkòrò àrùn fáírọ́ọ̀sì
+573,en,yo,,,virus infection,àrùn kòkòrò fáírọ́ọ̀sì
+575,en,yo,,,virus mask,ìbòjù kòkòrò àrùn fáírọ́ọ̀sì
+576,en,yo,,,virus outbreak,ìbújáde kòkòrò àrùn fáírọ́ọ̀sì
+577,en,yo,,,virus prevention,ìdènà kòkòrò àrùn fáírọ́ọ̀sì
+578,en,yo,,,virus protection,ààbò kúrò lọ́wọ́ kòkòrò àrùn fáírọ́ọ̀sì
+580,en,yo,,,virus spread,ìtànkálẹ̀ kòkòrò àrùn fáírọ́ọ̀sì
+582,en,yo,,,virus spreads,àwọn ìtànkálẹ̀ kòkòrò àrùn fáírọ́ọ̀sì
+583,en,yo,,,virus strain,ẹ̀yà kòkòrò àrùn fáírọ́ọ̀sì
+584,en,yo,,,virus transmission,ìkóranni kòkòrò àrùn fáírọ́ọ̀sì
+586,en,yo,,,wash your hands,fọ àwọn ọwọ́ rẹ
+587,en,yo,,,washing hands,ńfọ àwọn ọwọ́
+589,en,yo,,,WHO,Àjọ WHO
+590,en,yo,,,WHO Confirmed,Tí-a-fìdíirẹ̀múlẹ̀ Látọwọ́ Àjọ WHO
+591,en,yo,,,WHO Deaths,Àwọn Ikú ti Àjọ WHO
+592,en,yo,,,widespread outbreak,ìbújáde tókárí-ayé
+597,en,yo,,,World Health Organization,Àjọ Elétò Ìlera Àgbáyé
+600,en,yo,,,zoonotic disease,àisàn tí a ńkó látara ẹranko
+601,en,yo,,,zoonotic virus,kòkòrò àrùn fáírọ́ọ̀sì tí a ńkó látara ẹranko

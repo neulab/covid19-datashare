@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,uz,,,14 days in isolation,14 kun izolyatsiyada
+26,en,uz,,,14 days quarantine,14 kunlik karantin
+27,en,uz,,,2019 coronavirus,2019 koronavirus
+28,en,uz,,,2019 novel coronavirus,2019 yildagi yangi koronavirus
+29,en,uz,,,2019-nCoV,2019-nCoV
+30,en,uz,,,2020 coronavirus,2020 koronavirus
+31,en,uz,,,2020 novel coronavirus,2020 yildagi yangi koronavirus
+33,en,uz,,,about coronavirus,koronavirus haqida
+39,en,uz,,,acute respiratory distress syndrome,o‘tkir nafas yetishmasligi sindromi
+40,en,uz,,,advanced hand sanitizer,ilg‘or qo‘lni dezinfeksiyalash vositasi
+41,en,uz,,,Affected by coronavirus,Koronavirus yuqtirgan
+42,en,uz,,,after exposure,chalinish xavfidan keyin
+43,en,uz,,,After the epidemic,Epidemiyadan keyin
+44,en,uz,,,After the outbreak,Tarqalganidan keyin
+47,en,uz,,,airborne virus,havo orqali tarqaluvchi virus
+48,en,uz,,,alcohol based hand sanitizer,spirt asosidagi qo‘lni dezinfeksiyalash vositasi
+49,en,uz,,,alcohol hand sanitizer,spirtli qo‘lni dezinfeksiyalash vositasi
+51,en,uz,,,alcohol-based hand sanitizer,spirt asosidagi qo‘lni dezinfeksiyalash vositasi
+59,en,uz,,,Anti-Corona virus spray,Koronavirusga qarshi sprey
+60,en,uz,,,antibacterial hand sanitizer,bakteriyalarga qarshi qo‘lni dezinfeksiyalash vositasi
+61,en,uz,,,ARDS,ARDS
+64,en,uz,,,avoid exposure,chalinish xavfidan qochish
+65,en,uz,,,be infected,kasallangan
+75,en,uz,,,Beware of coronavirus,Koronavirusdan ogoh bo‘lish
+76,en,uz,,,bilateral interstitial pneumonia,ikki tomonlama interstitsial pnevmoniya
+77,en,uz,,,CDC,CDC
+78,en,uz,,,Center for Disease Control,Kasalliklarni nazorat qilish markazi
+83,en,uz,,,community spread,ommaviy tarqalish
+84,en,uz,,,compulsory quarantine,majburiy karantin
+85,en,uz,,,contagious,yuqumli
+135,en,uz,,,coronavirus,koronavirus
+136,en,uz,,,coronavirus (COVID-19),koronavirus (COVID-19)
+137,en,uz,,,coronavirus alert,koronavirus ogohlantiruvi
+139,en,uz,,,coronavirus cases,koronavirus holatlari
+141,en,uz,,,coronavirus concerns,koronavirusga oid xavotirlar
+143,en,uz,,,coronavirus crisis,koronavirus inqirozi
+149,en,uz,,,coronavirus disease,koronavirus kasalligi
+150,en,uz,,,Coronavirus disease (COVID-19) outbreak,Koronavirus kasalligining (COVID-19) tarqalishi
+153,en,uz,,,coronavirus early symptoms,koronavirusning dastlabki simptomlari
+155,en,uz,,,coronavirus epidemic,koronavirus epidemiyasi
+156,en,uz,,,coronavirus exposure,koronavirusga chalinish xavfi
+161,en,uz,,,coronavirus incubation,koronavirus inkubatsiyasi
+162,en,uz,,,coronavirus incubation period,koronavirusning inkubatsiya davri
+163,en,uz,,,coronavirus infection,koronavirus infeksiyasi
+168,en,uz,,,coronavirus map,koronavirus xaritasi
+170,en,uz,,,coronavirus medicine,koronavirus dorisi
+171,en,uz,,,coronavirus medicines,koronavirus dorilari
+172,en,uz,,,coronavirus news,koronavirus yangiliklari
+173,en,uz,,,coronavirus outbreak,koronavirusning avj olishi
+174,en,uz,,,coronavirus pandemic,koronavirus pandemiyasi
+176,en,uz,,,coronavirus pneumonia,koronavirus zotiljami
+177,en,uz,,,coronavirus precautions,koronavirusdan ehtiyot choralar
+178,en,uz,,,coronavirus prevention,koronavirusning oldini olish
+179,en,uz,,,coronavirus protection,koronavirusdan himoyalanish
+180,en,uz,,,coronavirus quarantine,koronavirus karantini
+182,en,uz,,,coronavirus SOS Alert,koronavirus SOS ogohlantiruvchi xabari
+183,en,uz,,,coronavirus spread,koronavirus tarqalishi
+184,en,uz,,,coronavirus symptoms,koronavirus simptomlari
+185,en,uz,,,coronavirus transmission,koronavirus yuqishi
+186,en,uz,,,coronavirus travel ban,koronavirus sayohat qilishga taqiq
+187,en,uz,,,coronavirus travel restrictions,koronavirus sayohat qilishga nisbatan cheklanishlar
+188,en,uz,,,coronavirus treatment,koronavirusni davolash
+190,en,uz,,,coronavirus update,koronavirusga oid yangiliklar
+191,en,uz,,,coronavirus vaccine,koronavirus vaksinasi
+192,en,uz,,,coronavirus vaccines,koronavirus vaksinasi
+198,en,uz,,,covid cases,covid holatlari
+205,en,uz,,,covid early symptoms,COVID’ning dastlabki simptomlari
+213,en,uz,,,covid incubation period,COVID’ning inkubatsiya davri
+215,en,uz,,,covid international spread,COVID’ning xalqaro tarqalishi
+216,en,uz,,,covid international travel,COVID xalqaro sayohat
+217,en,uz,,,covid isolation,covid izolyatsiyasi
+219,en,uz,,,covid map,covid xaritasi
+220,en,uz,,,covid medicine,covid dorisi
+221,en,uz,,,covid medicines,covid dorilari
+222,en,uz,,,covid news,covid yangiliklari
+223,en,uz,,,covid outbreak,covid avj olishi
+224,en,uz,,,covid pandemic,covid pandemiyasi
+225,en,uz,,,covid panic,covid vahimasi
+228,en,uz,,,covid SOS Alert,COVID SOS ogohlantiruvchi xabari
+230,en,uz,,,covid symptoms,covid simptomlari
+231,en,uz,,,covid transmission,covid yuqishi
+232,en,uz,,,covid travel ban,COVID sayohat qilishni taqiqlash
+233,en,uz,,,covid travel restrictions,COVID sayohat qilishga nisbatan cheklanishlar
+234,en,uz,,,covid treatment,covidni davolash
+236,en,uz,,,covid vaccine,covid vaksinasi
+237,en,uz,,,covid vaccines,covid vaksinalari
+242,en,uz,,,covid-19,covid-19
+243,en,uz,,,covid-19 alert,covid-19 ogohlantirishi
+244,en,uz,,,covid-19 cases,covid-19 holatlari
+245,en,uz,,,covid-19 CDC,covid-19 CDC
+246,en,uz,,,covid-19 contagious,yuqumli covid-19
+247,en,uz,,,covid-19 cure,covid-19 davosi
+248,en,uz,,,covid-19 dangerous,covid-19 xavfi
+249,en,uz,,,covid-19 deadly,halokatli covid-19
+250,en,uz,,,covid-19 death,covid-19 oʻlimi
+251,en,uz,,,covid-19 deaths,covid-19 oʻlimlari
+252,en,uz,,,covid-19 domestic travel,COVID-2019 mamlakat ichidagi sayohat
+253,en,uz,,,covid-19 early symptoms,COVID-19 dastlabki simptomlari
+254,en,uz,,,covid-19 effects,covid-19 taʼsirlari
+255,en,uz,,,covid-19 epidemic,covid-19 epidemiyasi
+256,en,uz,,,covid-19 exposure,covid-19 taʼsiri
+257,en,uz,,,covid-19 fatal,halokatli covid-19
+258,en,uz,,,covid-19 fever,covid-19 isitmasi
+259,en,uz,,,covid-19 illness,covid-19 kasalligi
+260,en,uz,,,covid-19 incubation,covid-19 inkubatsiyasi
+261,en,uz,,,covid-19 incubation period,COVID-19 inkubatsiya davri
+262,en,uz,,,covid-19 infection,covid-19 infeksiyasi
+263,en,uz,,,covid-19 international spread,COVID-19 xalqaro taqalishi
+264,en,uz,,,covid-19 international travel,COVID-19 xalqaro sayohat
+265,en,uz,,,covid-19 isolation,covid-19 izolyatsiyasi
+266,en,uz,,,covid-19 lockdown,covid19 qatʼiy izolyatsiyasi
+267,en,uz,,,covid-19 map,covid-19 xaritasi
+268,en,uz,,,covid-19 medicine,covid-19 dorisi
+269,en,uz,,,covid-19 medicines,covid-19 dorilari
+270,en,uz,,,covid-19 news,covid-19 yangiliklari
+271,en,uz,,,covid-19 outbreak,covid-19 avj olishi
+272,en,uz,,,covid-19 pandemic,covid-19 pandemiyasi
+273,en,uz,,,covid-19 panic,covid-19 vahimasi
+275,en,uz,,,covid-19 precautions,covid-19 oldini olish
+276,en,uz,,,covid-19 protection,covid-19 himoyasi
+277,en,uz,,,covid-19 quarantine,covid-19 karantini
+278,en,uz,,,covid-19 SOS Alert,COVID-19 SOS ogohlantiruvchi xabari
+279,en,uz,,,covid-19 spread,covid-19 tarqalishi
+280,en,uz,,,covid-19 symptoms,covid-19 simptomlari
+281,en,uz,,,covid-19 transmission,covid-19 yuqishi
+282,en,uz,,,covid-19 travel ban,COVID-19 sayohat qilishga nisbatan taqiq
+283,en,uz,,,covid-19 travel restrictions,COVID-19 sayohat qilishga nisbatan cheklanishlar
+284,en,uz,,,covid-19 treatment,covid-19ni davolash
+285,en,uz,,,covid-19 uncontrolled spread,COVID-19’ning nazorat qilib bo‘lmaydigan tarqalishi
+286,en,uz,,,covid-19 vaccine,covid-19 vaksinasi
+287,en,uz,,,covid-19 vaccines,covid-19 vaksinalari
+288,en,uz,,,COVID-19 virus,covid-19 virusi
+289,en,uz,,,covid-19 virus outbreak,COVID-19 virusining tarqalishi
+290,en,uz,,,covid-19 virus transmission,COVID-19 virusining yuqishi
+291,en,uz,,,covid-19 WHO,covid-19 JSST
+292,en,uz,,,covid19,covid19
+293,en,uz,,,covid19 alert,covid19 ogohlantiruvi
+294,en,uz,,,covid19 cases,covid19 holatlari
+295,en,uz,,,covid19 CDC,covid19 CDC
+301,en,uz,,,covid19 deaths,covid19 oʻlimlari
+302,en,uz,,,covid19 domestic travel,COVID19 mamlakat ichida sayohat
+303,en,uz,,,covid19 effects,covid19 taʼsirlari
+304,en,uz,,,covid19 epidemic,covid19 epidemiyasi
+305,en,uz,,,covid19 exposure,covid-19 taʼsiri
+306,en,uz,,,covid19 fatal,halokatli covid19
+307,en,uz,,,covid19 fever,covid19 isitmasi
+308,en,uz,,,covid19 illness,covid19 kasalligi
+309,en,uz,,,covid19 incubation,covid19 inkubatsiyasi
+310,en,uz,,,covid19 incubation period,COVID19’ning unkubatsiya davri
+311,en,uz,,,covid19 infection,covid19 infeksiyasi
+312,en,uz,,,covid19 international spread,COVID19’ning xalqaro tarqalishi
+313,en,uz,,,covid19 international travel,COVID19 xalqaro sayohat
+314,en,uz,,,covid19 isolation,covid19 izolyatsiyasi
+315,en,uz,,,covid19 lockdown,covid19 qatʼiy izolyatsiyasi
+316,en,uz,,,covid19 map,covid19 xaritasi
+317,en,uz,,,covid19 medicine,covid19 dorisi
+318,en,uz,,,covid19 medicines,covid19 dorilari
+319,en,uz,,,covid19 news,covid19 yangiliklari
+320,en,uz,,,covid19 outbreak,covid19 avj olishi
+321,en,uz,,,covid19 pandemic,covid19 pandemiyasi
+324,en,uz,,,covid19 precautions,covid19 oldini olish
+325,en,uz,,,covid19 protection,covid19 himoyasi
+326,en,uz,,,covid19 quarantine,covid19 karantini
+327,en,uz,,,covid19 SOS Alert,COVID19 SOS ogohlantiruvchi xabari
+328,en,uz,,,covid19 spread,covid19 tarqalishi
+329,en,uz,,,covid19 symptoms,covid19 simptomlari
+330,en,uz,,,covid19 transmission,covid19 yuqishi
+331,en,uz,,,covid19 travel ban,COVID19 sayohat qilishga nisbatan taqiq
+332,en,uz,,,covid19 travel restrictions,COVID19 sayohat qilishga nisbatan cheklanishlar
+333,en,uz,,,covid19 treatment,covid19ni davolash
+335,en,uz,,,covid19 vaccine,covid19 vaksinasi
+336,en,uz,,,covid19 vaccines,covid19 vaksinalari
+337,en,uz,,,covid19 virus,covid19 virusi
+338,en,uz,,,covid19 virus outbreak,COVID19 virus tarqalishi
+339,en,uz,,,covid19 virus transmission,COVID19 virusining yuqishi
+342,en,uz,,,current outbreak,joriy epidemiya
+343,en,uz,,,deadly outbreak,halokatli epidemiya
+345,en,uz,,,disease outbreak,kasallikning avj olishi
+346,en,uz,,,Disposable hand sanitizer,Chiqitga chiqariluvchi qo‘lni dezinfeksiya qilish vositasi
+348,en,uz,,,domestic travel,mahalliy safarlar
+351,en,uz,,,droplets,tomchilar
+357,en,uz,,,Effects of coronavirus,Koronavirus ta’sirlari
+359,en,uz,,,epidemic,epidemiya
+360,en,uz,,,epidemic and pandemic,epidemiya va pandemiya
+362,en,uz,,,epidemic disease,epidemik kasallik
+364,en,uz,,,epidemic outbreak,epidemiyaning avj olishi
+365,en,uz,,,epidemic period,epidemiya davri
+366,en,uz,,,epidemic prevention,epidemiya profilaktikasi
+368,en,uz,,,epidemic season,epidemiya mavsumi
+369,en,uz,,,epidemic situation,epidemik vaziyat
+371,en,uz,,,exposure,chalinish xavfi
+375,en,uz,,,exposure time,himoyasizlik vaqti
+379,en,uz,,,fever,isitma
+380,en,uz,,,fight the virus,virusga qarshi kurashmoq
+381,en,uz,,,Fighting the outbreak,Virus tarqalishiga qarshi kurashish
+382,en,uz,,,flu epidemic,gripp epidemiyasi
+385,en,uz,,,fomites,fomitlar
+392,en,uz,,,global health emergency,sog‘liqni saqlash bo‘yicha global favqulodda holat
+393,en,uz,,,global outbreak,global miqyosdagi kasallik avji
+394,en,uz,,,global pandemic,global pandemiya
+396,en,uz,,,hand sanitizer,antiseptik vosita
+397,en,uz,,,hand sanitizer dispenser,qo‘lni dezinfeksiya qilish vositasi quyish apparati
+398,en,uz,,,hand sanitizer gel,qo‘lni dezinfeksiya qilish geli
+399,en,uz,,,hand sanitizer spray,qo‘lni dezinfeksiya qilish spreyi
+403,en,uz,,,home isolation,uy izolyatsiyasi
+404,en,uz,,,home quarantine,uy karantini
+410,en,uz,,,illness,kasallik
+415,en,uz,,,incubation period,inkubatsiya davri
+418,en,uz,,,infected,kasallangan
+424,en,uz,,,instant hand sanitizer,qo‘llar uchun lahzalik dezinfeksiya qilish vositasi
+425,en,uz,,,international spread,xalqaro miqyosda tarqalish
+426,en,uz,,,international travel,xalqaro sayohatlar
+427,en,uz,,,isolation,izolyatsiya
+428,en,uz,,,isolation period,izolyatsiya davri
+430,en,uz,,,isolation room,izolyatsiya xonasi
+431,en,uz,,,isolation valve,izolyatsiya klapani
+432,en,uz,,,isolation ward,izolyatsiya palatasi
+434,en,uz,,,lockdown,qatʼiy izolyatsiya
+438,en,uz,,,major outbreak,yirik epidemiya
+439,en,uz,,,mandatory quarantine,majburiy karantin
+440,en,uz,,,mass gathering,ommaviy yigʻin
+444,en,uz,,,medicine,dori
+445,en,uz,,,medicines,dorilar
+448,en,uz,,,n95,n95
+449,en,uz,,,n95 mask,n95 niqobi
+450,en,uz,,,n95 respirator,n95 respiratori
+451,en,uz,,,ncov,ncov
+452,en,uz,,,ncov-2019,ncov-2019
+453,en,uz,,,new coronavirus,yangi koronavirus
+454,en,uz,,,new coronavirus pneumonia,yangi koronavirus pnevmoniyasi
+460,en,uz,,,novel coronavirus,yangi koronavirus
+462,en,uz,,,novel coronavirus infection,yangi koronavirus infeksiyasi
+463,en,uz,,,novel coronavirus outbreak,yangi koronavirusning tarqalishi
+464,en,uz,,,novel coronavirus pneumonia,yangi koronavirus pnevmoniyasi
+470,en,uz,,,ongoing outbreak,kasallikning toʻxtovsiz tarqalishi
+472,en,uz,,,outbreak,avj olish
+474,en,uz,,,outbreak of coronavirus,koronavirusning tarqalishi
+475,en,uz,,,outbreak of disease,kasallikning tarqalishi
+482,en,uz,,,pandemic,pandemiya
+485,en,uz,,,pandemic influenza,pandemik gripp
+486,en,uz,,,pandemic outbreak,pandemiyaning tarqalishi
+487,en,uz,,,pandemic plan,pandemik reja
+488,en,uz,,,pandemic potential,pandemiyaning taqalish ehtimoli
+495,en,uz,,,pneumonia,zotiljam
+496,en,uz,,,pneumonia epidemic,pnevmoniya epidemiyasi
+497,en,uz,,,potential exposure,ehtimoliy ta’sir
+498,en,uz,,,precautions,ehtiyot choralari
+499,en,uz,,,prevent virus,virusning oldini olish
+500,en,uz,,,prolonged exposure,uzoq vaqt ta‘sir qilish
+504,en,uz,,,quarantine,karantin
+505,en,uz,,,quarantine area,karantin hududi
+506,en,uz,,,quarantine facility,karantin qilish muassasasi
+507,en,uz,,,quarantine measures,karantin choralari
+508,en,uz,,,quarantine period,karantin davri
+509,en,uz,,,quarantine room,karantin xonasi
+510,en,uz,,,quarantine zone,karantin zonasi
+512,en,uz,,,Recovered coronavirus patient,Koronavirusdan tuzalgan bemor
+514,en,uz,,,repatriate,vatanga qaytarish
+515,en,uz,,,repeated exposure,qayta-qayta ta’sir qilish
+516,en,uz,,,respiratory syncytial virus,nafas yo‘llarining sinsitial virusi
+517,en,uz,,,respiratory virus,nafas yo‘llari virusi
+519,en,uz,,,Sanitizing hand sanitizer,Dezinfeksiyalovchi qo‘lni dezinfeksiyalash vositasi
+520,en,uz,,,SARS-CoV-2,SARS-CoV-2
+521,en,uz,,,self isolation,o‘z-o‘zini izolyatsiyalash
+522,en,uz,,,self quarantine,o‘z-o‘zini karantinda saqlash
+523,en,uz,,,Severe outbreak,O‘tkir tarqalish
+525,en,uz,,,social distancing,ijtimoiy masofani saqlash
+526,en,uz,,,social distancing measures,ijtimoiy masofa saqlash choralari
+527,en,uz,,,social isolation,ijtimoiy izolyatsiya
+528,en,uz,,,SOS Alert,SOS ogohlantiruvchi xabari
+529,en,uz,,,spread,tarqalish
+530,en,uz,,,spread of coronavirus,koronavirus tarqalishi
+531,en,uz,,,spread of virus,virusning tarqalishi
+535,en,uz,,,strain of virus,virus shtammi
+541,en,uz,,,the incubation period,inkubatsiya davri
+544,en,uz,,,the novel coronavirus,yangi turdagi koronavirus
+558,en,uz,,,touching face,yuzni ushlash
+559,en,uz,,,travel advisory,sayohat bo‘yicha maslahatchi
+560,en,uz,,,travel ban,sayohat qilishga taqiq
+561,en,uz,,,travel restrictions,sayohat qilish bo‘yicha cheklanishlar
+565,en,uz,,,use hand sanitizer,qo‘lni dezinfeksiyalash vositasidan foydalaning
+566,en,uz,,,vaccines,vaksinalar
+567,en,uz,,,viral outbreak,virus tarqalishi
+568,en,uz,,,virtual lockdown,virtual blokirovka
+569,en,uz,,,virus,virus
+570,en,uz,,,virus carrier,virus tashuvchi
+573,en,uz,,,virus infection,virus infeksiyasi
+575,en,uz,,,virus mask,virusdan saqlanish uchun maska
+576,en,uz,,,virus outbreak,virusning tarqalishi
+577,en,uz,,,virus prevention,virusning oldini olish
+578,en,uz,,,virus protection,virusdan himoyalanish
+580,en,uz,,,virus spread,virus tarqalishi
+582,en,uz,,,virus spreads,virus tarqaladi
+583,en,uz,,,virus strain,virus shtammi
+584,en,uz,,,virus transmission,virusning o‘tishi
+586,en,uz,,,wash your hands,qoʻllaringizni yuving
+587,en,uz,,,washing hands,qo‘llarni yuvish
+589,en,uz,,,WHO,JSSV
+590,en,uz,,,WHO Confirmed,JSST tomonidan tasdiqlangan
+591,en,uz,,,WHO Deaths,JSST ga ko‘ra o‘lganlar soni
+592,en,uz,,,widespread outbreak,keng tarqalish
+597,en,uz,,,World Health Organization,Jahon Sog‘liqni saqlash tashkiloti
+600,en,uz,,,zoonotic disease,hayvonlardan yuqadigan kasallik
+601,en,uz,,,zoonotic virus,hayvonlardan yuqadigan virus

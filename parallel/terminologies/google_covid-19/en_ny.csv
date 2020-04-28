@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,ny,,,14 days in isolation,matsiku 14 akudzipatula
+26,en,ny,,,14 days quarantine,matsiku 14 yokhala okhaokha
+27,en,ny,,,2019 coronavirus,Kachilombo ka Corona ka chaka cha 2019
+28,en,ny,,,2019 novel coronavirus,coronavirus yatsopano ya 2019
+29,en,ny,,,2019-nCoV,2019-nCoV
+30,en,ny,,,2020 coronavirus,Kachilombo ka Corona mu chaka cha 2020
+31,en,ny,,,2020 novel coronavirus,coronavirus yatsopano ya 2020
+33,en,ny,,,about coronavirus,za kachilombo ka corona
+39,en,ny,,,acute respiratory distress syndrome,ntenda yopuma movutikira
+40,en,ny,,,advanced hand sanitizer,mankhwala omwe amapha tizilombo m'amanja
+41,en,ny,,,Affected by coronavirus,Anakhudzidwa ndi coronavirus
+42,en,ny,,,after exposure,pambuyo pa kukhudzika
+43,en,ny,,,After the epidemic,Pambuyo pa mliri
+44,en,ny,,,After the outbreak,Pambuyo pa kufalikira
+47,en,ny,,,airborne virus,kachilomba kafalikira kudzera mpweya
+48,en,ny,,,alcohol based hand sanitizer,mankhwala amowa omwe amapha tizilomba m'manja
+49,en,ny,,,alcohol hand sanitizer,mankhwala amowa omwe amapha tizilombo m'manja
+51,en,ny,,,alcohol-based hand sanitizer,mankhwala amowa omwe amapha tizilombo m'manja
+59,en,ny,,,Anti-Corona virus spray,Mankhwala opopera kupha coronavirus
+60,en,ny,,,antibacterial hand sanitizer,mankahwala omwe amapha mabakiteriya m'manja
+61,en,ny,,,ARDS,ARDS
+64,en,ny,,,avoid exposure,pewani kukhudzika
+65,en,ny,,,be infected,kuthenga matenda
+75,en,ny,,,Beware of coronavirus,Chenjerani ndi coronavirus
+76,en,ny,,,bilateral interstitial pneumonia,chibayo cha vuto lamapwapwa
+77,en,ny,,,CDC,CDC
+78,en,ny,,,Center for Disease Control,Malo Oyanganira Matenda
+83,en,ny,,,community spread,kufalikira m'madera
+84,en,ny,,,compulsory quarantine,kuyikidwa pawokha mokakamizidwa
+85,en,ny,,,contagious,opatsirana
+135,en,ny,,,coronavirus,kachilombo ka corona
+136,en,ny,,,coronavirus (COVID-19),kachilombo ka corona (COVID-10-9)
+137,en,ny,,,coronavirus alert,chenjezo la kachilombo ka corona
+139,en,ny,,,coronavirus cases,milandu ya kachilombo ka corona
+141,en,ny,,,coronavirus concerns,nkhawa za kachilombo ka corona
+143,en,ny,,,coronavirus crisis,vuto la kachilombo ka corona
+149,en,ny,,,coronavirus disease,matenda a kachilombo ka corona
+150,en,ny,,,Coronavirus disease (COVID-19) outbreak,Mliri wa matenda a coronavirus (COVID-19)
+153,en,ny,,,coronavirus early symptoms,zizindikiro zoyambira za coronavirus
+155,en,ny,,,coronavirus epidemic,mliri wa kachilombo ka corona
+156,en,ny,,,coronavirus exposure,kukhuzika ku kachilombo ka corona
+161,en,ny,,,coronavirus incubation,makulitisdwe a kachilombo ka corona
+162,en,ny,,,coronavirus incubation period,nthawi ya makhulitsidwe a coronavirus
+163,en,ny,,,coronavirus infection,kuyambukiridwa kwa kachilombo ka corona
+168,en,ny,,,coronavirus map,mapu a kachilombo ka corona
+170,en,ny,,,coronavirus medicine,mankhwala a kachilombo ka corona
+171,en,ny,,,coronavirus medicines,makhwala a kachilombo ka corona
+172,en,ny,,,coronavirus news,nkhani za kachilombo ka corona
+173,en,ny,,,coronavirus outbreak,kufalikira kwa kachilombo ka corona
+174,en,ny,,,coronavirus pandemic,mliri wa kachilombo ka corona
+176,en,ny,,,coronavirus pneumonia,chibayo cha kachilombo ka corona
+177,en,ny,,,coronavirus precautions,kusamalitsa kwa kachilombo ka corona
+178,en,ny,,,coronavirus prevention,kupewetsa kachilombo ka corona
+179,en,ny,,,coronavirus protection,chitetezo cha kachilombo ka corona
+180,en,ny,,,coronavirus quarantine,kuyikidwa pawokha chifukwa cha kachilombo ka corona
+182,en,ny,,,coronavirus SOS Alert,Chidziwitso cha SOS ya coronavirus
+183,en,ny,,,coronavirus spread,kafalikira kwa kachilombo ka corona
+184,en,ny,,,coronavirus symptoms,zizindikiro za kachilombo ka corona
+185,en,ny,,,coronavirus transmission,kufalitsa kwa kachilombo ka corona
+186,en,ny,,,coronavirus travel ban,chiletso chamaulendo chifukwa cha coronavirus
+187,en,ny,,,coronavirus travel restrictions,ziletso za maulendo apadziko lonse chifukwa cha coronavirus
+188,en,ny,,,coronavirus treatment,cithandizo cha kachilombo ka corona
+190,en,ny,,,coronavirus update,zatsopano za kachilombo ka corona
+191,en,ny,,,coronavirus vaccine,katemera wa kachilombo ka corona
+192,en,ny,,,coronavirus vaccines,katemera wa kachilombo ka corona
+198,en,ny,,,covid cases,milandu ya covid
+205,en,ny,,,covid early symptoms,zizindikiro zoyambira za covid
+213,en,ny,,,covid incubation period,nthawi ya makhulitsidwe a covid
+215,en,ny,,,covid international spread,kufalikira kwa padziko lonse kwa covid
+216,en,ny,,,covid international travel,maulendo apadziko lonse chifukwa cha covid
+217,en,ny,,,covid isolation,kudzipatula chifukwa cha covid
+219,en,ny,,,covid map,mapu ya covid
+220,en,ny,,,covid medicine,mankhwala a covid
+221,en,ny,,,covid medicines,mankhwala a covid
+222,en,ny,,,covid news,nkhani ya covid
+223,en,ny,,,covid outbreak,kufalikira kwa covid
+224,en,ny,,,covid pandemic,mliri wa covid
+225,en,ny,,,covid panic,mantha a covid
+228,en,ny,,,covid SOS Alert,Chidziwitso cha SOS ya covid
+230,en,ny,,,covid symptoms,zizindikiro za covid
+231,en,ny,,,covid transmission,kufalitsa covid
+232,en,ny,,,covid travel ban,chiletso chamaulendo chifukwa cha covid
+233,en,ny,,,covid travel restrictions,ziletso za maulendo apadziko lonse chifukwa cha covid
+234,en,ny,,,covid treatment,chitandizo cha covid
+236,en,ny,,,covid vaccine,katemera wa covid
+237,en,ny,,,covid vaccines,katemera wa covid
+242,en,ny,,,covid-19,matenda a covid-19
+243,en,ny,,,covid-19 alert,chenjezo la covid-19
+244,en,ny,,,covid-19 cases,milandu ya covid-19
+245,en,ny,,,covid-19 CDC,covid-19 CDC
+246,en,ny,,,covid-19 contagious,covid-19 niyopatsirana kwambiri
+247,en,ny,,,covid-19 cure,kuchira covid-19
+248,en,ny,,,covid-19 dangerous,covid-19 niyoophya
+249,en,ny,,,covid-19 deadly,covid-19 niyakupha
+250,en,ny,,,covid-19 death,imfa ya covid-19
+251,en,ny,,,covid-19 deaths,imfa za covid-19
+252,en,ny,,,covid-19 domestic travel,kuyenda mkati chifukwa cha covid-19
+253,en,ny,,,covid-19 early symptoms,zizindikiro zoyambira za covid-19
+254,en,ny,,,covid-19 effects,zotsatira za covid-19
+255,en,ny,,,covid-19 epidemic,mliri wa covid-19
+256,en,ny,,,covid-19 exposure,kukhudzika kwa covid-19
+257,en,ny,,,covid-19 fatal,covid-19 niyakupha
+258,en,ny,,,covid-19 fever,malungo a covid-19
+259,en,ny,,,covid-19 illness,matenda a covid-19
+260,en,ny,,,covid-19 incubation,makulitsidwe a covid-19
+261,en,ny,,,covid-19 incubation period,nthawi ya makhulitsidwe a covid-19
+262,en,ny,,,covid-19 infection,kuyambukiridwa kwa covid-19
+263,en,ny,,,covid-19 international spread,kufalikira kwa padziko lonse kwa covid-19
+264,en,ny,,,covid-19 international travel,maulendo apadziko lonse chifukwa cha covid-19
+265,en,ny,,,covid-19 isolation,kudzipatula chifukwa cha covid-19
+266,en,ny,,,covid-19 lockdown,kutseka chifukwa cha covid-19
+267,en,ny,,,covid-19 map,mapu ya covid-19
+268,en,ny,,,covid-19 medicine,mankhwala a covid-19
+269,en,ny,,,covid-19 medicines,mankhwala a covid-19
+270,en,ny,,,covid-19 news,nkhani ya covid-19
+271,en,ny,,,covid-19 outbreak,kufalikira kwa covid-19
+272,en,ny,,,covid-19 pandemic,mliri wa covid-19
+273,en,ny,,,covid-19 panic,mantha a covid-19
+275,en,ny,,,covid-19 precautions,kusamalitsa kwa covid-19
+276,en,ny,,,covid-19 protection,chitetezo cha covid-19
+277,en,ny,,,covid-19 quarantine,kuyikidwa pawokha chifukwa cha covid-19
+278,en,ny,,,covid-19 SOS Alert,Chidziwitso cha SOS ya covid-19
+279,en,ny,,,covid-19 spread,kufalitsa covid-19
+280,en,ny,,,covid-19 symptoms,zizindikiro za covid-19
+281,en,ny,,,covid-19 transmission,kufalitsa kwa covid-19
+282,en,ny,,,covid-19 travel ban,chiletso chamaulendo chifukwa cha covid-19
+283,en,ny,,,covid-19 travel restrictions,ziletso za maulendo apadziko lonse chifukwa cha covid-19
+284,en,ny,,,covid-19 treatment,chithandizo cha covid-19
+285,en,ny,,,covid-19 uncontrolled spread,kufalikira kwa covid-19 kosalamulirika
+286,en,ny,,,covid-19 vaccine,katemera wa covid-19
+287,en,ny,,,covid-19 vaccines,katemera wa covid-19
+288,en,ny,,,COVID-19 virus,kachilombo ka covid-19
+289,en,ny,,,covid-19 virus outbreak,mliri wa kachilombo ka covid-19
+290,en,ny,,,covid-19 virus transmission,kufalitsa kachilombo ka covid-19
+291,en,ny,,,covid-19 WHO,covid-19 WHO
+292,en,ny,,,covid19,matenda a covid19
+293,en,ny,,,covid19 alert,chenjezo la covid19
+294,en,ny,,,covid19 cases,milandu ya covid19
+295,en,ny,,,covid19 CDC,covid19 CDC
+301,en,ny,,,covid19 deaths,imfa za covid19
+302,en,ny,,,covid19 domestic travel,kuyenda mkati chifukwa cha covid19
+303,en,ny,,,covid19 effects,zotsatira za covid19
+304,en,ny,,,covid19 epidemic,mliri wa covid19
+305,en,ny,,,covid19 exposure,kukhudzika kwa covid19
+306,en,ny,,,covid19 fatal,covid19 niyakupha
+307,en,ny,,,covid19 fever,malungo a covid19
+308,en,ny,,,covid19 illness,matenda a covid19
+309,en,ny,,,covid19 incubation,makulitsidwe a covid19
+310,en,ny,,,covid19 incubation period,nthawi ya makhulitsidwe a covid19
+311,en,ny,,,covid19 infection,kuyambukiridwa kwa covid19
+312,en,ny,,,covid19 international spread,kufalikira kwa padziko lonse kwa covid19
+313,en,ny,,,covid19 international travel,maulendo apadziko lonse chifukwa cha covid19
+314,en,ny,,,covid19 isolation,kudzipatula chifukwa cha covid19
+315,en,ny,,,covid19 lockdown,kutseka chifukwa cha covid19
+316,en,ny,,,covid19 map,mapu ya covid19
+317,en,ny,,,covid19 medicine,mankhwala a covid19
+318,en,ny,,,covid19 medicines,mankhwala a covid19
+319,en,ny,,,covid19 news,nkhani ya covid19
+320,en,ny,,,covid19 outbreak,kufalikira kwa covid19
+321,en,ny,,,covid19 pandemic,mliri wa covid19
+324,en,ny,,,covid19 precautions,kusamalitsa kwa covid19
+325,en,ny,,,covid19 protection,chitetezo cha covid19
+326,en,ny,,,covid19 quarantine,kuyikidwa pawokha chifukwa cha covid19
+327,en,ny,,,covid19 SOS Alert,Chidziwitso cha SOS ya covid19
+328,en,ny,,,covid19 spread,kufalitsa covid19
+329,en,ny,,,covid19 symptoms,zizindikiro za covid19
+330,en,ny,,,covid19 transmission,kufalista kwa covid19
+331,en,ny,,,covid19 travel ban,chiletso cha maulendo chifukwa cha covid19
+332,en,ny,,,covid19 travel restrictions,ziletso za maulendo apadziko lonse chifukwa cha covid19
+333,en,ny,,,covid19 treatment,chithandizo cha covid19
+335,en,ny,,,covid19 vaccine,katemera wa covid19
+336,en,ny,,,covid19 vaccines,katemera wa covid19
+337,en,ny,,,covid19 virus,kachilombo ka covid19
+338,en,ny,,,covid19 virus outbreak,mliri wa kachilombo ka covid19
+339,en,ny,,,covid19 virus transmission,kufalitsa kachilombo ka covid19
+342,en,ny,,,current outbreak,kufalikira kwa panopa
+343,en,ny,,,deadly outbreak,kufalikira kwakupha
+345,en,ny,,,disease outbreak,kufalikira kwa matenda
+346,en,ny,,,Disposable hand sanitizer,mankhwala omwe amapha tizilombo m'manja yotaya
+348,en,ny,,,domestic travel,kuyenda kwa mkati mwa dziko
+351,en,ny,,,droplets,m'malovu
+357,en,ny,,,Effects of coronavirus,Zotsatira za coronavirus
+359,en,ny,,,epidemic,mliri
+360,en,ny,,,epidemic and pandemic,kufakira kwa matenda ndi mliri
+362,en,ny,,,epidemic disease,ntenda ya mliri
+364,en,ny,,,epidemic outbreak,kufalikira kwa mliri
+365,en,ny,,,epidemic period,nthawi ya mliri
+366,en,ny,,,epidemic prevention,kupewa mliri
+368,en,ny,,,epidemic season,nyengo ya mliri
+369,en,ny,,,epidemic situation,mkhalidwe wa mliri
+371,en,ny,,,exposure,kukhudzika
+375,en,ny,,,exposure time,nthawi ya kukhudzika
+379,en,ny,,,fever,malungo
+380,en,ny,,,fight the virus,kulimbana ndi kachilombo
+381,en,ny,,,Fighting the outbreak,kulimbana ndi mliri
+382,en,ny,,,flu epidemic,mliri wa chimfine
+385,en,ny,,,fomites,zinthu zomwe zikuyenera kufalitsa matenda
+392,en,ny,,,global health emergency,ngozi zaumoyo padziko lonse lapansi
+393,en,ny,,,global outbreak,kufalikira kwa padziko lonse
+394,en,ny,,,global pandemic,mliri oopsa wapadziko lonse
+396,en,ny,,,hand sanitizer,mankhwala a kupha majeremusi ku manja
+397,en,ny,,,hand sanitizer dispenser,chopereka mankhwala omwe amapha tizilombo m'manja
+398,en,ny,,,hand sanitizer gel,mafuta omwe amapha tizilombo m'manja
+399,en,ny,,,hand sanitizer spray,mankhwala opopera omwe amapha tizilombo m'manja
+403,en,ny,,,home isolation,kudzipatula kunyumba
+404,en,ny,,,home quarantine,kuyikidwa pawokha kunyumba
+410,en,ny,,,illness,kudwala
+415,en,ny,,,incubation period,nthawi ya makulitsidwe
+418,en,ny,,,infected,kuthenga kachilombo
+424,en,ny,,,instant hand sanitizer,mankhwala omwe amapha tizilombo m'manja panthawi yomweyo
+425,en,ny,,,international spread,kufalitsa kwa padziko lonse
+426,en,ny,,,international travel,maulendo apadziko lonse lapansi
+427,en,ny,,,isolation,kudzipatula
+428,en,ny,,,isolation period,nthawi yodzipatula
+430,en,ny,,,isolation room,chipinda chodzipatula
+431,en,ny,,,isolation valve,valavu yodzipatula
+432,en,ny,,,isolation ward,wadi yokudzipatula
+434,en,ny,,,lockdown,kutseka
+438,en,ny,,,major outbreak,kufalikira kwakukulu
+439,en,ny,,,mandatory quarantine,kuyikidwa pawokha mokakamizidwa
+440,en,ny,,,mass gathering,msonkhano waukulu
+444,en,ny,,,medicine,mankhwala
+445,en,ny,,,medicines,mankhwala
+448,en,ny,,,n95,n95
+449,en,ny,,,n95 mask,chophimba pakamwa cha n95
+450,en,ny,,,n95 respirator,chopumira cha n95
+451,en,ny,,,ncov,ncov
+452,en,ny,,,ncov-2019,ncov-2019
+453,en,ny,,,new coronavirus,kachilombo ka corona katsopano
+454,en,ny,,,new coronavirus pneumonia,chibayo chatsopan cha coronavirus
+460,en,ny,,,novel coronavirus,kachilombo ka corona m'buyomu sizinawonedwe mwa anthu
+462,en,ny,,,novel coronavirus infection,matenda a coronavirus yatsopano
+463,en,ny,,,novel coronavirus outbreak,mliri watsopano wa coronavirus
+464,en,ny,,,novel coronavirus pneumonia,chibayo cha coronavirus yatsopano
+470,en,ny,,,ongoing outbreak,kufalikira kosalekeza
+472,en,ny,,,outbreak,kufalikira
+474,en,ny,,,outbreak of coronavirus,mliri wa coronavirus
+475,en,ny,,,outbreak of disease,kufalikira kwa matenda
+482,en,ny,,,pandemic,mliri
+485,en,ny,,,pandemic influenza,chimfine cha mliri
+486,en,ny,,,pandemic outbreak,kufalikira kwa mliri
+487,en,ny,,,pandemic plan,konzedwe la mliri
+488,en,ny,,,pandemic potential,kuthekera kwa mliri
+495,en,ny,,,pneumonia,chibayo
+496,en,ny,,,pneumonia epidemic,miliri ya chibayo
+497,en,ny,,,potential exposure,kukhudzika kuthekera
+498,en,ny,,,precautions,kusamalitsa
+499,en,ny,,,prevent virus,kuletsa kachilombo
+500,en,ny,,,prolonged exposure,kukhudzika nthawi yayitali
+504,en,ny,,,quarantine,kuyikidwa pawokha
+505,en,ny,,,quarantine area,malo okhala okhaokha
+506,en,ny,,,quarantine facility,nyumba yokhala okhaokha
+507,en,ny,,,quarantine measures,njira mokhalila okhaokha
+508,en,ny,,,quarantine period,nthawi yokhala okhaokha
+509,en,ny,,,quarantine room,chipinda chokhala okhaokha
+510,en,ny,,,quarantine zone,dera lokhala okhaokha
+512,en,ny,,,Recovered coronavirus patient,wodwala wa coronavirus yemwe wachira
+514,en,ny,,,repatriate,kubweretsedwa
+515,en,ny,,,repeated exposure,kukhudzika mobwerezabwereza
+516,en,ny,,,respiratory syncytial virus,kachilombo kamene kayambitsa matenda ya mapapu
+517,en,ny,,,respiratory virus,kachilombo ka nthenda yopuma
+519,en,ny,,,Sanitizing hand sanitizer,Kuyeretsa ndi mankhwala omwe amapha tizilombo m'manja
+520,en,ny,,,SARS-CoV-2,SARS-CoV-2
+521,en,ny,,,self isolation,kudzipatula nokha
+522,en,ny,,,self quarantine,kukhala okha nokha
+523,en,ny,,,Severe outbreak,kufalikira kwakukulu
+525,en,ny,,,social distancing,kukhala patali patali ndi anthu ena
+526,en,ny,,,social distancing measures,njira mokhalila patali patali ndi anthu ena
+527,en,ny,,,social isolation,kudzipatula pagulu
+528,en,ny,,,SOS Alert,Chidziwitso cha SOS
+529,en,ny,,,spread,kufalitsa
+530,en,ny,,,spread of coronavirus,kufalitsa kwa coronavirus
+531,en,ny,,,spread of virus,kufalitsa kwa kachilombo
+535,en,ny,,,strain of virus,kupezeka kwa kachilombo
+541,en,ny,,,the incubation period,nthawi ya makhulitsidwe
+544,en,ny,,,the novel coronavirus,coronavirus yatsopano
+558,en,ny,,,touching face,kukhudza nkhope
+559,en,ny,,,travel advisory,upangiri wapaulendo
+560,en,ny,,,travel ban,chiletso chamaulendo
+561,en,ny,,,travel restrictions,ziletso za maulendo
+565,en,ny,,,use hand sanitizer,kugwitsa ntchito mankhwala omwe amapha tizilombo m'manja
+566,en,ny,,,vaccines,katemera
+567,en,ny,,,viral outbreak,kufalikira kwa tizilombo
+568,en,ny,,,virtual lockdown,kutseka kwofananira
+569,en,ny,,,virus,kachilombo
+570,en,ny,,,virus carrier,onyamula kachilombo
+573,en,ny,,,virus infection,kuyambukiridwa ndi kachilombo
+575,en,ny,,,virus mask,chigoba cha kachilombo
+576,en,ny,,,virus outbreak,kufalikira kwa kachilombo
+577,en,ny,,,virus prevention,kuchinjiridza kachilombo
+578,en,ny,,,virus protection,kudzitetezera ku kachilombo
+580,en,ny,,,virus spread,kufalitsa kachilombo
+582,en,ny,,,virus spreads,kachilombo kamafalikira
+583,en,ny,,,virus strain,kachilombo
+584,en,ny,,,virus transmission,kufalitsa kachilombo
+586,en,ny,,,wash your hands,sambani manja anu
+587,en,ny,,,washing hands,kusamba m'manja
+589,en,ny,,,WHO,WHO
+590,en,ny,,,WHO Confirmed,WHO idatsimikiza
+591,en,ny,,,WHO Deaths,Infa za WHO
+592,en,ny,,,widespread outbreak,kufalikira kwakukulu
+597,en,ny,,,World Health Organization,Bungwe Loyanganira Thanzi Padziko Lonse la Pansi
+600,en,ny,,,zoonotic disease,matenda oyambitsidwa ndi tizilombo
+601,en,ny,,,zoonotic virus,kachilombo kuchokera ku nyama

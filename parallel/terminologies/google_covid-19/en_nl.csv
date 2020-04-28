@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,nl,,,14 days in isolation,14 dagen in isolatie
+26,en,nl,,,14 days quarantine,14 dagen quarantaine
+27,en,nl,,,2019 coronavirus,coronavirus 2019
+28,en,nl,,,2019 novel coronavirus,nieuw coronavirus uit 2019
+29,en,nl,,,2019-nCoV,2019-nCoV
+30,en,nl,,,2020 coronavirus,coronavirus 2020
+31,en,nl,,,2020 novel coronavirus,nieuw coronavirus uit 2020
+33,en,nl,,,about coronavirus,over coronavirus
+39,en,nl,,,acute respiratory distress syndrome,acute respiratory distress syndrome
+40,en,nl,,,advanced hand sanitizer,geavanceerd handreinigingsmiddel
+41,en,nl,,,Affected by coronavirus,Getroffen door coronavirus
+42,en,nl,,,after exposure,na blootstelling
+43,en,nl,,,After the epidemic,Na de epidemie
+44,en,nl,,,After the outbreak,Na de uitbraak
+47,en,nl,,,airborne virus,door de lucht verspreid virus
+48,en,nl,,,alcohol based hand sanitizer,handreinigingsmiddel met alcohol
+49,en,nl,,,alcohol hand sanitizer,handreinigingsmiddel met alcohol
+51,en,nl,,,alcohol-based hand sanitizer,handreinigingsmiddel met alcohol
+59,en,nl,,,Anti-Corona virus spray,anti-coronavirus-spray
+60,en,nl,,,antibacterial hand sanitizer,antibacterieel handreinigingsmiddel
+61,en,nl,,,ARDS,ARDS
+64,en,nl,,,avoid exposure,blootstelling vermijden
+65,en,nl,,,be infected,besmet worden
+75,en,nl,,,Beware of coronavirus,Houd rekening met het coronavirus
+76,en,nl,,,bilateral interstitial pneumonia,dubbele interstitiële longontsteking
+77,en,nl,,,CDC,CDC
+78,en,nl,,,Center for Disease Control,Center for Disease Control
+83,en,nl,,,community spread,lokale verspreiding
+84,en,nl,,,compulsory quarantine,verplichte quarantaine
+85,en,nl,,,contagious,besmettelijk
+135,en,nl,,,coronavirus,coronavirus
+136,en,nl,,,coronavirus (COVID-19),coronavirus (COVID-19)
+137,en,nl,,,coronavirus alert,coronaviruswaarschuwing
+139,en,nl,,,coronavirus cases,coronagevallen
+141,en,nl,,,coronavirus concerns,zorgen over het coronavirus
+143,en,nl,,,coronavirus crisis,coronacrisis
+149,en,nl,,,coronavirus disease,coronavirusziekte
+150,en,nl,,,Coronavirus disease (COVID-19) outbreak,Uitbraak van het coronavirus (COVID-19)
+153,en,nl,,,coronavirus early symptoms,eerste symptomen coronavirus
+155,en,nl,,,coronavirus epidemic,corona-epidemie
+156,en,nl,,,coronavirus exposure,blootstelling aan coronavirus
+161,en,nl,,,coronavirus incubation,incubatietijd coronavirus
+162,en,nl,,,coronavirus incubation period,incubatietijd van coronavirus
+163,en,nl,,,coronavirus infection,coronavirusbesmetting
+168,en,nl,,,coronavirus map,coronaviruskaart
+170,en,nl,,,coronavirus medicine,geneesmiddel voor coronavirus
+171,en,nl,,,coronavirus medicines,geneesmiddelen voor coronavirus
+172,en,nl,,,coronavirus news,coronanieuws
+173,en,nl,,,coronavirus outbreak,corona-uitbraak
+174,en,nl,,,coronavirus pandemic,coronapandemie
+176,en,nl,,,coronavirus pneumonia,coronavirus longontsteking
+177,en,nl,,,coronavirus precautions,voorzorgsmaatregelen coronavirus
+178,en,nl,,,coronavirus prevention,coronavirus preventie
+179,en,nl,,,coronavirus protection,coronavirus bescherming
+180,en,nl,,,coronavirus quarantine,coronavirus quarantaine
+182,en,nl,,,coronavirus SOS Alert,SOS-melding coronavirus
+183,en,nl,,,coronavirus spread,coronavirus verspreiding
+184,en,nl,,,coronavirus symptoms,coronavirus symptomen
+185,en,nl,,,coronavirus transmission,coronavirus overdracht
+186,en,nl,,,coronavirus travel ban,reisverbod coronavirus
+187,en,nl,,,coronavirus travel restrictions,reisbeperkingen coronavirus
+188,en,nl,,,coronavirus treatment,coronabehandeling
+190,en,nl,,,coronavirus update,coronavirus update
+191,en,nl,,,coronavirus vaccine,coronavaccin
+192,en,nl,,,coronavirus vaccines,coronavaccins
+198,en,nl,,,covid cases,covid-gevallen
+205,en,nl,,,covid early symptoms,eerste symptomen covid
+213,en,nl,,,covid incubation period,incubatietijd van covid
+215,en,nl,,,covid international spread,internationale verspreiding van covid
+216,en,nl,,,covid international travel,covid internationale reizen
+217,en,nl,,,covid isolation,covid-isolatie
+219,en,nl,,,covid map,covid-kaart
+220,en,nl,,,covid medicine,geneesmiddel voor covid
+221,en,nl,,,covid medicines,geneesmiddelen voor covid
+222,en,nl,,,covid news,covid-nieuws
+223,en,nl,,,covid outbreak,covid-uitbraak
+224,en,nl,,,covid pandemic,covid-pandemie
+225,en,nl,,,covid panic,covid-paniek
+228,en,nl,,,covid SOS Alert,SOS-melding covid
+230,en,nl,,,covid symptoms,covid-symptomen
+231,en,nl,,,covid transmission,overdracht van covid
+232,en,nl,,,covid travel ban,reisverbod covid
+233,en,nl,,,covid travel restrictions,reisbeperkingen covid
+234,en,nl,,,covid treatment,behandeling van covid
+236,en,nl,,,covid vaccine,covid-vaccin
+237,en,nl,,,covid vaccines,covid-vaccins
+242,en,nl,,,covid-19,covid-19
+243,en,nl,,,covid-19 alert,covid-19-waarschuwing
+244,en,nl,,,covid-19 cases,covid-19-gevallen
+245,en,nl,,,covid-19 CDC,covid-19 CDC
+246,en,nl,,,covid-19 contagious,covid-19 besmettelijk
+247,en,nl,,,covid-19 cure,covid-19-medicijn
+248,en,nl,,,covid-19 dangerous,covid-19 gevaarlijk
+249,en,nl,,,covid-19 deadly,covid-19 dodelijk
+250,en,nl,,,covid-19 death,covid-19-dode
+251,en,nl,,,covid-19 deaths,covid-19-doden
+252,en,nl,,,covid-19 domestic travel,covid-19 binnenlandse reizen
+253,en,nl,,,covid-19 early symptoms,eerste symptomen covid-19
+254,en,nl,,,covid-19 effects,gevolgen van covid-19
+255,en,nl,,,covid-19 epidemic,covid-19-epidemie
+256,en,nl,,,covid-19 exposure,blootstelling aan covid-19
+257,en,nl,,,covid-19 fatal,covid-19 fataal
+258,en,nl,,,covid-19 fever,covid-19 koorts
+259,en,nl,,,covid-19 illness,covid-19 ziekte
+260,en,nl,,,covid-19 incubation,incubatietijd covid-19
+261,en,nl,,,covid-19 incubation period,incubatietijd van covid-19
+262,en,nl,,,covid-19 infection,covid-19-besmetting
+263,en,nl,,,covid-19 international spread,internationale verspreiding van covid-19
+264,en,nl,,,covid-19 international travel,covid-19 internationale reizen
+265,en,nl,,,covid-19 isolation,covid-19-isolatie
+266,en,nl,,,covid-19 lockdown,covid-19-lockdown
+267,en,nl,,,covid-19 map,covid-19-kaart
+268,en,nl,,,covid-19 medicine,geneesmiddel voor covid-19
+269,en,nl,,,covid-19 medicines,geneesmiddelen voor covid-19
+270,en,nl,,,covid-19 news,covid-19-nieuws
+271,en,nl,,,covid-19 outbreak,covid-19-uitbraak
+272,en,nl,,,covid-19 pandemic,covid-19-pandemie
+273,en,nl,,,covid-19 panic,covid-19-paniek
+275,en,nl,,,covid-19 precautions,voorzorgsmaatregelen covid-19
+276,en,nl,,,covid-19 protection,covid-19-bescherming
+277,en,nl,,,covid-19 quarantine,covid-19-quarantaine
+278,en,nl,,,covid-19 SOS Alert,SOS-melding covid-19
+279,en,nl,,,covid-19 spread,verspreiding van covid-19
+280,en,nl,,,covid-19 symptoms,covid-19-symptomen
+281,en,nl,,,covid-19 transmission,overdracht van covid-19
+282,en,nl,,,covid-19 travel ban,reisverbod covid-19
+283,en,nl,,,covid-19 travel restrictions,reisbeperkingen covid-19
+284,en,nl,,,covid-19 treatment,behandeling van covid-19
+285,en,nl,,,covid-19 uncontrolled spread,ongecontroleerde verspreiding van covid-19
+286,en,nl,,,covid-19 vaccine,covid-19-vaccin
+287,en,nl,,,covid-19 vaccines,covid-19-vaccins
+288,en,nl,,,COVID-19 virus,covid-19-virus
+289,en,nl,,,covid-19 virus outbreak,uitbraak van covid-19-virus
+290,en,nl,,,covid-19 virus transmission,overdracht van covid-19-virus
+291,en,nl,,,covid-19 WHO,covid-19 WHO
+292,en,nl,,,covid19,covid19
+293,en,nl,,,covid19 alert,covid19-waarschuwing
+294,en,nl,,,covid19 cases,covid19-gevallen
+295,en,nl,,,covid19 CDC,covid19 CDC
+301,en,nl,,,covid19 deaths,covid19-doden
+302,en,nl,,,covid19 domestic travel,covid19 binnenlandse reizen
+303,en,nl,,,covid19 effects,gevolgen van covid19
+304,en,nl,,,covid19 epidemic,covid19-epidemie
+305,en,nl,,,covid19 exposure,blootstelling aan covid19
+306,en,nl,,,covid19 fatal,covid19 fataal
+307,en,nl,,,covid19 fever,covid19 koorts
+308,en,nl,,,covid19 illness,covid19 ziekte
+309,en,nl,,,covid19 incubation,incubatietijd covid19
+310,en,nl,,,covid19 incubation period,incubatietijd van covid19
+311,en,nl,,,covid19 infection,covid19-besmetting
+312,en,nl,,,covid19 international spread,internationale verspreiding van covid19
+313,en,nl,,,covid19 international travel,covid19 internationale reizen
+314,en,nl,,,covid19 isolation,covid19-isolatie
+315,en,nl,,,covid19 lockdown,covid19-lockdown
+316,en,nl,,,covid19 map,covid19-kaart
+317,en,nl,,,covid19 medicine,geneesmiddel voor covid19
+318,en,nl,,,covid19 medicines,geneesmiddelen voor covid19
+319,en,nl,,,covid19 news,covid19-nieuws
+320,en,nl,,,covid19 outbreak,covid19-uitbraak
+321,en,nl,,,covid19 pandemic,covid19-pandemie
+324,en,nl,,,covid19 precautions,voorzorgsmaatregelen covid19
+325,en,nl,,,covid19 protection,covid19-bescherming
+326,en,nl,,,covid19 quarantine,covid19-quarantaine
+327,en,nl,,,covid19 SOS Alert,SOS-melding covid19
+328,en,nl,,,covid19 spread,verspreiding van covid19
+329,en,nl,,,covid19 symptoms,covid19-symptomen
+330,en,nl,,,covid19 transmission,overdracht van covid19
+331,en,nl,,,covid19 travel ban,reisverbod covid19
+332,en,nl,,,covid19 travel restrictions,reisbeperkingen covid19
+333,en,nl,,,covid19 treatment,behandeling van covid19
+335,en,nl,,,covid19 vaccine,covid19-vaccin
+336,en,nl,,,covid19 vaccines,covid19-vaccins
+337,en,nl,,,covid19 virus,covid19-virus
+338,en,nl,,,covid19 virus outbreak,uitbraak van covid19-virus
+339,en,nl,,,covid19 virus transmission,overdracht van covid19-virus
+342,en,nl,,,current outbreak,huidige uitbraak
+343,en,nl,,,deadly outbreak,dodelijke uitbraak
+345,en,nl,,,disease outbreak,ziekte-uitbraak
+346,en,nl,,,Disposable hand sanitizer,Wegwerpflacon met handreinigingsmiddel
+348,en,nl,,,domestic travel,binnenlandse reizen
+351,en,nl,,,droplets,druppels
+357,en,nl,,,Effects of coronavirus,Gevolgen van het coronavirus
+359,en,nl,,,epidemic,epidemie
+360,en,nl,,,epidemic and pandemic,epidemie en pandemie
+362,en,nl,,,epidemic disease,epidemische ziekte
+364,en,nl,,,epidemic outbreak,uitbraak van een epidemie
+365,en,nl,,,epidemic period,epidemieperiode
+366,en,nl,,,epidemic prevention,epidemiepreventie
+368,en,nl,,,epidemic season,epidemieseizoen
+369,en,nl,,,epidemic situation,epidemiesituatie
+371,en,nl,,,exposure,blootstelling
+375,en,nl,,,exposure time,blootstellingstijd
+379,en,nl,,,fever,koorts
+380,en,nl,,,fight the virus,het virus bestrijden
+381,en,nl,,,Fighting the outbreak,De uitbraak bestrijden
+382,en,nl,,,flu epidemic,griepepidemie
+385,en,nl,,,fomites,fomieten
+392,en,nl,,,global health emergency,wereldwijde gezondheidscrisis
+393,en,nl,,,global outbreak,wereldwijde uitbraak
+394,en,nl,,,global pandemic,wereldwijde pandemie
+396,en,nl,,,hand sanitizer,handreinigingsmiddel
+397,en,nl,,,hand sanitizer dispenser,dispenser voor handreinigingsmiddel
+398,en,nl,,,hand sanitizer gel,ontsmettende handgel
+399,en,nl,,,hand sanitizer spray,ontsmettende handspray
+403,en,nl,,,home isolation,thuisisolatie
+404,en,nl,,,home quarantine,thuisquarantaine
+410,en,nl,,,illness,ziekte
+415,en,nl,,,incubation period,incubatietijd
+418,en,nl,,,infected,besmet
+424,en,nl,,,instant hand sanitizer,ontsmettend handreinigingsmiddel
+425,en,nl,,,international spread,internationale verspreiding
+426,en,nl,,,international travel,internationale reizen
+427,en,nl,,,isolation,isolatie
+428,en,nl,,,isolation period,isolatieperiode
+430,en,nl,,,isolation room,isolatieruimte
+431,en,nl,,,isolation valve,afsluitklep
+432,en,nl,,,isolation ward,isoleerafdeling
+434,en,nl,,,lockdown,lockdown
+438,en,nl,,,major outbreak,grote uitbraak
+439,en,nl,,,mandatory quarantine,verplichte quarantaine
+440,en,nl,,,mass gathering,groepsbijeenkomst
+444,en,nl,,,medicine,geneesmiddel
+445,en,nl,,,medicines,geneesmiddelen
+448,en,nl,,,n95,n95
+449,en,nl,,,n95 mask,n95-masker
+450,en,nl,,,n95 respirator,n95-beademingsapparaat
+451,en,nl,,,ncov,ncov
+452,en,nl,,,ncov-2019,ncov-2019
+453,en,nl,,,new coronavirus,nieuw coronavirus
+454,en,nl,,,new coronavirus pneumonia,longontsteking door nieuw coronavirus
+460,en,nl,,,novel coronavirus,nieuw coronavirus
+462,en,nl,,,novel coronavirus infection,besmetting met nieuw coronavirus
+463,en,nl,,,novel coronavirus outbreak,uitbraak van nieuw coronavirus
+464,en,nl,,,novel coronavirus pneumonia,longontsteking door nieuw coronavirus
+470,en,nl,,,ongoing outbreak,huidige uitbraak
+472,en,nl,,,outbreak,uitbraak
+474,en,nl,,,outbreak of coronavirus,uitbraak van het coronavirus
+475,en,nl,,,outbreak of disease,ziekte-uitbraak
+482,en,nl,,,pandemic,pandemie
+485,en,nl,,,pandemic influenza,influenza-pandemie
+486,en,nl,,,pandemic outbreak,pandemie-uitbraak
+487,en,nl,,,pandemic plan,pandemieplan
+488,en,nl,,,pandemic potential,pandemiepotentieel
+495,en,nl,,,pneumonia,longontsteking
+496,en,nl,,,pneumonia epidemic,longontsteking epidemie
+497,en,nl,,,potential exposure,potentiële blootstelling
+498,en,nl,,,precautions,voorzorgsmaatregelen
+499,en,nl,,,prevent virus,virus voorkomen
+500,en,nl,,,prolonged exposure,langdurige blootstelling
+504,en,nl,,,quarantine,quarantaine
+505,en,nl,,,quarantine area,quarantainegebied
+506,en,nl,,,quarantine facility,quarantainevoorziening
+507,en,nl,,,quarantine measures,quarantainemaatregelen
+508,en,nl,,,quarantine period,quarantaineperiode
+509,en,nl,,,quarantine room,quarantaineruimte
+510,en,nl,,,quarantine zone,quarantainezone
+512,en,nl,,,Recovered coronavirus patient,Herstelde coronapatiënt
+514,en,nl,,,repatriate,repatrieer
+515,en,nl,,,repeated exposure,herhaalde blootstelling
+516,en,nl,,,respiratory syncytial virus,respiratoir sincytieel virus
+517,en,nl,,,respiratory virus,respiratoir virus
+519,en,nl,,,Sanitizing hand sanitizer,Ontsmettend handreinigingsmiddel
+520,en,nl,,,SARS-CoV-2,SARS-CoV-2
+521,en,nl,,,self isolation,zelfisolatie
+522,en,nl,,,self quarantine,zelfquarantaine
+523,en,nl,,,Severe outbreak,Ernstige uitbraak
+525,en,nl,,,social distancing,social distancing
+526,en,nl,,,social distancing measures,social distancing-maatregelen
+527,en,nl,,,social isolation,sociale onthouding
+528,en,nl,,,SOS Alert,SOS-melding
+529,en,nl,,,spread,verspreiding
+530,en,nl,,,spread of coronavirus,verspreiding van het coronavirus
+531,en,nl,,,spread of virus,verspreiding van het virus
+535,en,nl,,,strain of virus,virusstam
+541,en,nl,,,the incubation period,de incubatietijd
+544,en,nl,,,the novel coronavirus,het nieuwe coronavirus
+558,en,nl,,,touching face,gezicht aanraken
+559,en,nl,,,travel advisory,reisadvies
+560,en,nl,,,travel ban,reisverbod
+561,en,nl,,,travel restrictions,reisbeperkingen
+565,en,nl,,,use hand sanitizer,handreinigingsmiddel gebruiken
+566,en,nl,,,vaccines,vaccins
+567,en,nl,,,viral outbreak,virusuitbraak
+568,en,nl,,,virtual lockdown,virtuele lockdown
+569,en,nl,,,virus,virus
+570,en,nl,,,virus carrier,virusdrager
+573,en,nl,,,virus infection,virusinfectie
+575,en,nl,,,virus mask,virusmasker
+576,en,nl,,,virus outbreak,virusuitbraak
+577,en,nl,,,virus prevention,viruspreventie
+578,en,nl,,,virus protection,virusbescherming
+580,en,nl,,,virus spread,virusverspreiding
+582,en,nl,,,virus spreads,virus verspreiden
+583,en,nl,,,virus strain,virusstam
+584,en,nl,,,virus transmission,virusoverdracht
+586,en,nl,,,wash your hands,was je handen
+587,en,nl,,,washing hands,handen wassen
+589,en,nl,,,WHO,WHO
+590,en,nl,,,WHO Confirmed,door de WHO bevestigd
+591,en,nl,,,WHO Deaths,aantal doden volgens de WHO
+592,en,nl,,,widespread outbreak,grootschalige uitbraak
+597,en,nl,,,World Health Organization,Wereldgezondheidsorganisatie
+600,en,nl,,,zoonotic disease,zoönotische ziekte
+601,en,nl,,,zoonotic virus,zoönotisch virus

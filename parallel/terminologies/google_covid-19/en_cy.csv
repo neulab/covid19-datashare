@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,cy,,,14 days in isolation,14 diwrnod wedi ynysu
+26,en,cy,,,14 days quarantine,14 diwrnod o gwarantin
+27,en,cy,,,2019 coronavirus,coronafeirws 2019
+28,en,cy,,,2019 novel coronavirus,coronafeirws newydd 2019
+29,en,cy,,,2019-nCoV,2019-nCoV
+30,en,cy,,,2020 coronavirus,coronafeirws 2020
+31,en,cy,,,2020 novel coronavirus,coronafeirws newydd 2020
+33,en,cy,,,about coronavirus,am y coronafeirws
+39,en,cy,,,acute respiratory distress syndrome,syndrom trallod anadlol aciwt
+40,en,cy,,,advanced hand sanitizer,uwch ddiheintydd dwylo
+41,en,cy,,,Affected by coronavirus,Effeithwyd gan goronafeirws
+42,en,cy,,,after exposure,ar ôl cael cysylltiad
+43,en,cy,,,After the epidemic,Ar ôl yr epidemig
+44,en,cy,,,After the outbreak,Ar ôl yr achosion
+47,en,cy,,,airborne virus,feirws yn yr awyr
+48,en,cy,,,alcohol based hand sanitizer,diheintydd dwylo sy'n cynnwys alcohol
+49,en,cy,,,alcohol hand sanitizer,diheintydd dwylo alcohol
+51,en,cy,,,alcohol-based hand sanitizer,diheintydd dwylo sy'n cynnwys alcohol
+59,en,cy,,,Anti-Corona virus spray,chwistrell feirws gwrth-gorona
+60,en,cy,,,antibacterial hand sanitizer,diheintydd dwylo gwrthfacteriol
+61,en,cy,,,ARDS,ARDS
+64,en,cy,,,avoid exposure,osgoi cael cysylltiad
+65,en,cy,,,be infected,cael ei heintio
+75,en,cy,,,Beware of coronavirus,Byddwch yn ofalus o goronafeirws
+76,en,cy,,,bilateral interstitial pneumonia,niwmonia interstitaidd dwyochrog
+77,en,cy,,,CDC,Rheoli Clefydau Trosglwyddadwy
+78,en,cy,,,Center for Disease Control,Canolfan Rheoli Clefydau
+83,en,cy,,,community spread,lledaeniad cymunedol
+84,en,cy,,,compulsory quarantine,cwarantin gorfodol
+85,en,cy,,,contagious,heintus
+135,en,cy,,,coronavirus,coronafeirws
+136,en,cy,,,coronavirus (COVID-19),coronafeirws (COVID-19)
+137,en,cy,,,coronavirus alert,rhybudd am goronafeirws
+139,en,cy,,,coronavirus cases,achosion o'r coronafeirws
+141,en,cy,,,coronavirus concerns,pryderon ynghylch coronafeirws
+143,en,cy,,,coronavirus crisis,argyfwng coronafeirws
+149,en,cy,,,coronavirus disease,clefyd coronafeirws
+150,en,cy,,,Coronavirus disease (COVID-19) outbreak,achosion o clefyd coronafeirws (COVID-19)
+153,en,cy,,,coronavirus early symptoms,symptomau cynnar coronafeirws
+155,en,cy,,,coronavirus epidemic,epidemig coronafeirws
+156,en,cy,,,coronavirus exposure,cysylltiadâ choronafeirws
+161,en,cy,,,coronavirus incubation,cyfnod magu coronafeirws
+162,en,cy,,,coronavirus incubation period,cyfnod magu coronafeirws
+163,en,cy,,,coronavirus infection,haint coronafeirws
+168,en,cy,,,coronavirus map,map o'r coronafeirws
+170,en,cy,,,coronavirus medicine,meddyginiaeth ar gyfer coronafeirws
+171,en,cy,,,coronavirus medicines,meddyginiaethau ar gyfer coronafeirws
+172,en,cy,,,coronavirus news,newyddion am coronafeirws
+173,en,cy,,,coronavirus outbreak,achosion o'r coronafeirws
+174,en,cy,,,coronavirus pandemic,pandemig coronafeirws
+176,en,cy,,,coronavirus pneumonia,niwmonia coronafeirws
+177,en,cy,,,coronavirus precautions,rhagofalon coronafeirws
+178,en,cy,,,coronavirus prevention,atal coronafeirws
+179,en,cy,,,coronavirus protection,amddiffyn rhag coronafeirws
+180,en,cy,,,coronavirus quarantine,cwarantin oherwydd coronafeirws
+182,en,cy,,,coronavirus SOS Alert,Rhybudd SOS coronafeirws
+183,en,cy,,,coronavirus spread,lledaenu'r coronafeirws
+184,en,cy,,,coronavirus symptoms,symptomau coronafeirws
+185,en,cy,,,coronavirus transmission,trosglwyddo coronafeirws
+186,en,cy,,,coronavirus travel ban,gwaharddiad teithio coronafeirws
+187,en,cy,,,coronavirus travel restrictions,cyfyngiadau teithio coronafeirws
+188,en,cy,,,coronavirus treatment,trin coronafeirws
+190,en,cy,,,coronavirus update,y diweddaraf am coronafeirws
+191,en,cy,,,coronavirus vaccine,brechlyn ar gyfer coronafeirws
+192,en,cy,,,coronavirus vaccines,brechlynnau ar gyfer coronafeirws
+198,en,cy,,,covid cases,achosion o covid
+205,en,cy,,,covid early symptoms,symptomau cynnar covid
+213,en,cy,,,covid incubation period,cyfnod magu covid
+215,en,cy,,,covid international spread,lledaeniad rhyngwladol covid
+216,en,cy,,,covid international travel,teithio rhyngwladol covid
+217,en,cy,,,covid isolation,ynysu covid
+219,en,cy,,,covid map,map o covid
+220,en,cy,,,covid medicine,meddyginiaeth ar gyfer covid
+221,en,cy,,,covid medicines,meddyginiaethau ar gyfer covid
+222,en,cy,,,covid news,newyddion am covid
+223,en,cy,,,covid outbreak,achosion o covid
+224,en,cy,,,covid pandemic,pandemig covid
+225,en,cy,,,covid panic,panig ynghylch covid
+228,en,cy,,,covid SOS Alert,Rhybudd SOS covid
+230,en,cy,,,covid symptoms,symptomau covid
+231,en,cy,,,covid transmission,trosglwyddo covid
+232,en,cy,,,covid travel ban,gwaharddiad teithio covid
+233,en,cy,,,covid travel restrictions,cyfyngiadau teithio covid
+234,en,cy,,,covid treatment,trin covid
+236,en,cy,,,covid vaccine,brechlyn ar gyfer covid
+237,en,cy,,,covid vaccines,brechlynnau ar gyfer covid
+242,en,cy,,,covid-19,covid-19
+243,en,cy,,,covid-19 alert,rhybudd yngylch covid-19
+244,en,cy,,,covid-19 cases,achosion o covid-19
+245,en,cy,,,covid-19 CDC,Rheoli Clefydau Trosglwyddadwy covid-19
+246,en,cy,,,covid-19 contagious,covid-19 heintus
+247,en,cy,,,covid-19 cure,iachâd o covid-19
+248,en,cy,,,covid-19 dangerous,covid-19 peryglus
+249,en,cy,,,covid-19 deadly,covid-19 marwol
+250,en,cy,,,covid-19 death,marwolaeth oherwydd covid-19
+251,en,cy,,,covid-19 deaths,marwolaethau oherwydd covid-19
+252,en,cy,,,covid-19 domestic travel,teithio domestig covid-19
+253,en,cy,,,covid-19 early symptoms,symptomau cynnar covid-19
+254,en,cy,,,covid-19 effects,effeithiau covid-19
+255,en,cy,,,covid-19 epidemic,epidemig covid-19
+256,en,cy,,,covid-19 exposure,cysylltiad â covid-19
+257,en,cy,,,covid-19 fatal,covid-19 angheuol
+258,en,cy,,,covid-19 fever,twymyn covid-19
+259,en,cy,,,covid-19 illness,salwch covid-19
+260,en,cy,,,covid-19 incubation,cyfnod magu covid-19
+261,en,cy,,,covid-19 incubation period,cyfnod magu covid-19
+262,en,cy,,,covid-19 infection,haint covid-19
+263,en,cy,,,covid-19 international spread,lledaeniad rhyngwladol covid-19
+264,en,cy,,,covid-19 international travel,teithio rhyngwladol covid-19
+265,en,cy,,,covid-19 isolation,ynysu covid-19
+266,en,cy,,,covid-19 lockdown,cyfyngiadau symud oherwydd covid-19
+267,en,cy,,,covid-19 map,map o covid-19
+268,en,cy,,,covid-19 medicine,meddyginiaeth ar gyfer covid-19
+269,en,cy,,,covid-19 medicines,meddyginiaethau ar gyfer covid-19
+270,en,cy,,,covid-19 news,newyddion am covid-19
+271,en,cy,,,covid-19 outbreak,achosion o covid-19
+272,en,cy,,,covid-19 pandemic,pandemig covid-19
+273,en,cy,,,covid-19 panic,panig am covid-19
+275,en,cy,,,covid-19 precautions,rhagofalon covid-19
+276,en,cy,,,covid-19 protection,amddiffyn rhag covid-19
+277,en,cy,,,covid-19 quarantine,cwaratin oherwydd covid-19
+278,en,cy,,,covid-19 SOS Alert,Rhybudd SOS covid-19
+279,en,cy,,,covid-19 spread,lledaenu covid-19
+280,en,cy,,,covid-19 symptoms,symptomau covid-19
+281,en,cy,,,covid-19 transmission,trosglwyddo covid-19
+282,en,cy,,,covid-19 travel ban,gwaharddiad teithio covid-19
+283,en,cy,,,covid-19 travel restrictions,cyfyngiadau teithio covid-19
+284,en,cy,,,covid-19 treatment,trin covid-19
+285,en,cy,,,covid-19 uncontrolled spread,lledaeniad direolaeth covid-19
+286,en,cy,,,covid-19 vaccine,brechlyn ar gyfer covid-19
+287,en,cy,,,covid-19 vaccines,brechlynnau ar gyfer covid-19
+288,en,cy,,,COVID-19 virus,feirws covid-19
+289,en,cy,,,covid-19 virus outbreak,achosion o feirws covid-19
+290,en,cy,,,covid-19 virus transmission,trosglwyddo feirws covid-19
+291,en,cy,,,covid-19 WHO,covid-19 Sefydliad Iechyd y Byd
+292,en,cy,,,covid19,covid19
+293,en,cy,,,covid19 alert,rhybudd ynghylch covid19
+294,en,cy,,,covid19 cases,achosion o covid19
+295,en,cy,,,covid19 CDC,Rheoli Clefydau Trosglwyddadwy covid19
+301,en,cy,,,covid19 deaths,marwolaethau oherwydd covid19
+302,en,cy,,,covid19 domestic travel,teithio domestig covid19
+303,en,cy,,,covid19 effects,effeithiau covid19
+304,en,cy,,,covid19 epidemic,epidemig covid19
+305,en,cy,,,covid19 exposure,cysylltiad â covid19
+306,en,cy,,,covid19 fatal,covid19 angheuol
+307,en,cy,,,covid19 fever,twymyn covid19
+308,en,cy,,,covid19 illness,salwch covid19
+309,en,cy,,,covid19 incubation,cyfnod magu covid19
+310,en,cy,,,covid19 incubation period,cyfnod magu covid19
+311,en,cy,,,covid19 infection,haint covid19
+312,en,cy,,,covid19 international spread,lledaeniad rhyngwladol covid19
+313,en,cy,,,covid19 international travel,teithio rhyngwladol covid19
+314,en,cy,,,covid19 isolation,ynysu covid19
+315,en,cy,,,covid19 lockdown,cyfyngiadau symud oherwydd covid19
+316,en,cy,,,covid19 map,map o covid19
+317,en,cy,,,covid19 medicine,meddyginiaeth ar gyfer covid19
+318,en,cy,,,covid19 medicines,meddyginiaethau ar gyfer covid19
+319,en,cy,,,covid19 news,newyddion am covid19
+320,en,cy,,,covid19 outbreak,achosion o covid19
+321,en,cy,,,covid19 pandemic,pandemig covid19
+324,en,cy,,,covid19 precautions,rhagofalon covid19
+325,en,cy,,,covid19 protection,amddiffyn rhag covid19
+326,en,cy,,,covid19 quarantine,cwarantin covid19
+327,en,cy,,,covid19 SOS Alert,Rhybudd SOS covid19
+328,en,cy,,,covid19 spread,lledaenu covid19
+329,en,cy,,,covid19 symptoms,symptomau covid19
+330,en,cy,,,covid19 transmission,trosglwyddo covid19
+331,en,cy,,,covid19 travel ban,gwaharddiad teithio covid19
+332,en,cy,,,covid19 travel restrictions,cyfyngiadau teithio covid19
+333,en,cy,,,covid19 treatment,trin covid19
+335,en,cy,,,covid19 vaccine,brechlyn ar gyfer covid19
+336,en,cy,,,covid19 vaccines,brechlynnau ar gyfer covid19
+337,en,cy,,,covid19 virus,feirws covid19
+338,en,cy,,,covid19 virus outbreak,achosion o feirws covid19
+339,en,cy,,,covid19 virus transmission,trosglwyddo feirws covid19
+342,en,cy,,,current outbreak,yr achosion presennol
+343,en,cy,,,deadly outbreak,achosion marwol
+345,en,cy,,,disease outbreak,achosion o glefyd
+346,en,cy,,,Disposable hand sanitizer,diheintydd dwylo untro
+348,en,cy,,,domestic travel,teithiau domestig
+351,en,cy,,,droplets,defnynnau
+357,en,cy,,,Effects of coronavirus,Effeithiau coronafeirws
+359,en,cy,,,epidemic,epidemig
+360,en,cy,,,epidemic and pandemic,epidemig a phandemig
+362,en,cy,,,epidemic disease,clefyd epidemig
+364,en,cy,,,epidemic outbreak,achos o epidemig
+365,en,cy,,,epidemic period,cyfnod epidemig
+366,en,cy,,,epidemic prevention,atal epidemig
+368,en,cy,,,epidemic season,tymor epidemig
+369,en,cy,,,epidemic situation,sefyllfa epidemig
+371,en,cy,,,exposure,cysylltiad
+375,en,cy,,,exposure time,amser cysylltiad
+379,en,cy,,,fever,twymyn
+380,en,cy,,,fight the virus,brwydro yn erbyn y feirws
+381,en,cy,,,Fighting the outbreak,Brwydro yn erbyn yr achosion
+382,en,cy,,,flu epidemic,epidemig ffliw
+385,en,cy,,,fomites,magwrfeydd haint
+392,en,cy,,,global health emergency,argyfwng iechyd rhyngwladol
+393,en,cy,,,global outbreak,achos byd-eang
+394,en,cy,,,global pandemic,pandemig byd-eang
+396,en,cy,,,hand sanitizer,diheintydd dwylo
+397,en,cy,,,hand sanitizer dispenser,teclyn diheintydd dwylo
+398,en,cy,,,hand sanitizer gel,gel diheintydd dwylo
+399,en,cy,,,hand sanitizer spray,chwistrell diheintydd dwylo
+403,en,cy,,,home isolation,ynysu gaartref
+404,en,cy,,,home quarantine,cwarantin gartref
+410,en,cy,,,illness,salwch
+415,en,cy,,,incubation period,cyfnod magu
+418,en,cy,,,infected,heintiedig
+424,en,cy,,,instant hand sanitizer,diheintydd dwylo uniongyrchol
+425,en,cy,,,international spread,lledaeniad rhyngwladol
+426,en,cy,,,international travel,teithiau rhyngwladol
+427,en,cy,,,isolation,ynysu
+428,en,cy,,,isolation period,cyfnod ynysu
+430,en,cy,,,isolation room,ystafell ynysu
+431,en,cy,,,isolation valve,falf ynysu
+432,en,cy,,,isolation ward,ward ynysu
+434,en,cy,,,lockdown,cyfyngiadau symud
+438,en,cy,,,major outbreak,nifer fawr o achosion
+439,en,cy,,,mandatory quarantine,cwarantin gorfodol
+440,en,cy,,,mass gathering,cynulliad torfol
+444,en,cy,,,medicine,meddygaeth
+445,en,cy,,,medicines,meddyginiaethau
+448,en,cy,,,n95,n95
+449,en,cy,,,n95 mask,masg n95
+450,en,cy,,,n95 respirator,anadlydd n95
+451,en,cy,,,ncov,ncov
+452,en,cy,,,ncov-2019,ncov-2019
+453,en,cy,,,new coronavirus,coronafeirws newydd
+454,en,cy,,,new coronavirus pneumonia,niwmonia coronafeirws newydd
+460,en,cy,,,novel coronavirus,coronafeirws newydd
+462,en,cy,,,novel coronavirus infection,haint coronafeirws newydd
+463,en,cy,,,novel coronavirus outbreak,achosion o goronafeirws newydd
+464,en,cy,,,novel coronavirus pneumonia,niwmonia coronafeirws newydd
+470,en,cy,,,ongoing outbreak,achosion yn parhau
+472,en,cy,,,outbreak,achos
+474,en,cy,,,outbreak of coronavirus,achosion o goronafeirws
+475,en,cy,,,outbreak of disease,achosion o glefyd
+482,en,cy,,,pandemic,pandemig
+485,en,cy,,,pandemic influenza,ffliw pandemig
+486,en,cy,,,pandemic outbreak,achosion pandemig
+487,en,cy,,,pandemic plan,cynllun pandemig
+488,en,cy,,,pandemic potential,posibilrwydd o fod yn bandemig
+495,en,cy,,,pneumonia,niwmonia
+496,en,cy,,,pneumonia epidemic,epidemig niwmonia
+497,en,cy,,,potential exposure,cysylltiad posibl
+498,en,cy,,,precautions,rhagofalon
+499,en,cy,,,prevent virus,atal feirws
+500,en,cy,,,prolonged exposure,cysylltiad estynedig
+504,en,cy,,,quarantine,cwarantin
+505,en,cy,,,quarantine area,ardal gwarantin
+506,en,cy,,,quarantine facility,cyfleuster cwarantin
+507,en,cy,,,quarantine measures,mesurau cwarantin
+508,en,cy,,,quarantine period,cyfnod cwarantin
+509,en,cy,,,quarantine room,ystafell gwarantin
+510,en,cy,,,quarantine zone,parth cwarantin
+512,en,cy,,,Recovered coronavirus patient,claf wedi gwella o'r coronafeirws
+514,en,cy,,,repatriate,dychwelyd i'w wlad ei hun
+515,en,cy,,,repeated exposure,cysylltiad mynych
+516,en,cy,,,respiratory syncytial virus,feirws syncytiol resbiradol
+517,en,cy,,,respiratory virus,feirws resbiradol
+519,en,cy,,,Sanitizing hand sanitizer,diheitnydd dwylo sy'n diheintio
+520,en,cy,,,SARS-CoV-2,SARS-CoV-2
+521,en,cy,,,self isolation,hunan-ynysu
+522,en,cy,,,self quarantine,hunan-gwarantin
+523,en,cy,,,Severe outbreak,achosion difrifol
+525,en,cy,,,social distancing,cadw pellter cymdeithasol
+526,en,cy,,,social distancing measures,mesurau cadw pellter cymdeithasol
+527,en,cy,,,social isolation,ynysu cymdeithasol
+528,en,cy,,,SOS Alert,Hysbysiad SOS
+529,en,cy,,,spread,lledaenu
+530,en,cy,,,spread of coronavirus,lledaeniad y coronafeirws
+531,en,cy,,,spread of virus,lledaeniad feirws
+535,en,cy,,,strain of virus,math o feirws
+541,en,cy,,,the incubation period,y cyfnod magu
+544,en,cy,,,the novel coronavirus,y coronafeirws newydd
+558,en,cy,,,touching face,cyffwrdd wyneb
+559,en,cy,,,travel advisory,cynghorion teithio
+560,en,cy,,,travel ban,gwaharddiad teithio
+561,en,cy,,,travel restrictions,cyfyngiadau teithio
+565,en,cy,,,use hand sanitizer,defnyddiwch ddiheintydd dwylo
+566,en,cy,,,vaccines,brechlynnau
+567,en,cy,,,viral outbreak,achosion feirysol
+568,en,cy,,,virtual lockdown,cyfyngiadau ymarferol ar symud
+569,en,cy,,,virus,feirws
+570,en,cy,,,virus carrier,cludydd feirws
+573,en,cy,,,virus infection,haint feirws
+575,en,cy,,,virus mask,masg feirws
+576,en,cy,,,virus outbreak,achosion o feirws
+577,en,cy,,,virus prevention,atal feirws
+578,en,cy,,,virus protection,amddiffyn rhag feirws
+580,en,cy,,,virus spread,lledaeniad feirws
+582,en,cy,,,virus spreads,mae'r feirws yn lledaenu
+583,en,cy,,,virus strain,math o feirws
+584,en,cy,,,virus transmission,trosglwyddo feirws
+586,en,cy,,,wash your hands,golchwch eich dwylo
+587,en,cy,,,washing hands,golchi dwylo
+589,en,cy,,,WHO,Sefydliad Iechyd y Byd
+590,en,cy,,,WHO Confirmed,cadarnhawyd gan Sefydliad Iechyd y Byd
+591,en,cy,,,WHO Deaths,Marwolaethau Sefydliad iechyd y Byd
+592,en,cy,,,widespread outbreak,achosion eang
+597,en,cy,,,World Health Organization,Sefydliad Iechyd y Byd
+600,en,cy,,,zoonotic disease,clefyd milheintiol
+601,en,cy,,,zoonotic virus,feirws milheintiol

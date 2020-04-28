@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,ka,,,14 days in isolation,14 დღე იზოლაციაში
+26,en,ka,,,14 days quarantine,14 დღიანი კარანტინი
+27,en,ka,,,2019 coronavirus,2019 კორონავირუსი
+28,en,ka,,,2019 novel coronavirus,2019 ახალი კორონავირუსი
+29,en,ka,,,2019-nCoV,2019-nCoV
+30,en,ka,,,2020 coronavirus,2020 კორონავირუსი
+31,en,ka,,,2020 novel coronavirus,2020 ახალი კორონავირუსი
+33,en,ka,,,about coronavirus,კორონავირუსის შესახებ
+39,en,ka,,,acute respiratory distress syndrome,მწვავე რესპირატორული დისტრეს სინდრომი
+40,en,ka,,,advanced hand sanitizer,გაუმჯობესებული ხელის სადეზინფექციო საშუალება
+41,en,ka,,,Affected by coronavirus,კორონავირუსით დაზიანებული
+42,en,ka,,,after exposure,დაინფიცირების წყაროსთან კონტაქტის შემდეგ
+43,en,ka,,,After the epidemic,ეპიდემიის შემდეგ
+44,en,ka,,,After the outbreak,ეპიდემიური აფეთქების შემდეგ
+47,en,ka,,,airborne virus,ჰაერწვეთოვანი გზით გადაცემადი ვირუსი
+48,en,ka,,,alcohol based hand sanitizer,სპირტზე დამზადებული ხელის სადეზინფექციო საშუალება
+49,en,ka,,,alcohol hand sanitizer,სპირტის შემცველი ხელის სადეზინფექციო საშუალება
+51,en,ka,,,alcohol-based hand sanitizer,სპირტზე დამზადებული ხელის სადეზინფექციო საშუალება
+59,en,ka,,,Anti-Corona virus spray,კორონავირუსის საწინააღმდეგო სპრეი
+60,en,ka,,,antibacterial hand sanitizer,ხელის ანტიბაქტერიული სადეზინფექციო საშუალება
+61,en,ka,,,ARDS,ARDS
+64,en,ka,,,avoid exposure,დაინფიცირების წყაროსთან კონტაქტის თავიდან აცილება
+65,en,ka,,,be infected,დაინფიცირებული
+75,en,ka,,,Beware of coronavirus,უფრთხილდით კორონავირუსს
+76,en,ka,,,bilateral interstitial pneumonia,ორმხრივი ინტერსტიციალური პნევმონია
+77,en,ka,,,CDC,CDC
+78,en,ka,,,Center for Disease Control,დაავადებათა კონტროლის ცენტრი
+83,en,ka,,,community spread,საზოგადოებაში გავრცელება
+84,en,ka,,,compulsory quarantine,სავალდებულო კარანტინი
+85,en,ka,,,contagious,გადამდები
+135,en,ka,,,coronavirus,კორონავირუსი
+136,en,ka,,,coronavirus (COVID-19),კორონავირუსი (COVID-19)
+137,en,ka,,,coronavirus alert,კორონავირუსთან დაკავშირებული განგაში
+139,en,ka,,,coronavirus cases,კორონავირუსის შემთხვევები
+141,en,ka,,,coronavirus concerns,კორონავირუსთან დაკავშირებული საკითხები
+143,en,ka,,,coronavirus crisis,კორონავირუსით გამოწვეული კრიზისი
+149,en,ka,,,coronavirus disease,კორონავირუსული დაავადება
+150,en,ka,,,Coronavirus disease (COVID-19) outbreak,კორონავირუსით გამოწვეული დაავადების (COVID-19) ეპიდემიური აფეთქება
+153,en,ka,,,coronavirus early symptoms,კორონავირუსის ადრეული სიმპტომები
+155,en,ka,,,coronavirus epidemic,კორონავირუსის ეპიდემია
+156,en,ka,,,coronavirus exposure,კონტაქტი კორონავირუსით დაინფიცირების წყაროსთან
+161,en,ka,,,coronavirus incubation,კორონავირუსის საინკუბაციო პერიოდი
+162,en,ka,,,coronavirus incubation period,კორონავირუსის საინკუბაციო პერიოდი
+163,en,ka,,,coronavirus infection,კორონავირუსული ინფექცია
+168,en,ka,,,coronavirus map,კორონავირუსის გავრცელების რუკა
+170,en,ka,,,coronavirus medicine,კორონავირუსის საწინააღმდეგო წამალი
+171,en,ka,,,coronavirus medicines,კორონავირუსის საწინააღმდეგო წამლები
+172,en,ka,,,coronavirus news,ახალი ამბები კორონავირუსის შესახებ
+173,en,ka,,,coronavirus outbreak,კორონავირუსის აფეთქება
+174,en,ka,,,coronavirus pandemic,კორონავირუსის პანდემია
+176,en,ka,,,coronavirus pneumonia,კორონავირუსით გამოწვეული პნევმონია
+177,en,ka,,,coronavirus precautions,კორონავირუსთან დაკავშირებული სიფრთხილის ზომები
+178,en,ka,,,coronavirus prevention,კორონავირუსის პრევენცია
+179,en,ka,,,coronavirus protection,კორონავირუსისგან დაცვა
+180,en,ka,,,coronavirus quarantine,კარანტინი კორონავირუსის გამო
+182,en,ka,,,coronavirus SOS Alert,SOS განგაში კორონავირუსის გამო
+183,en,ka,,,coronavirus spread,კორონავირუსის გავრცელება
+184,en,ka,,,coronavirus symptoms,კორონავირუსის სიმპტომები
+185,en,ka,,,coronavirus transmission,კორონავირუსის გადაცემა
+186,en,ka,,,coronavirus travel ban,მოგზაურობის აკრძალვა კორონავირუსის გამო
+187,en,ka,,,coronavirus travel restrictions,მოგზაურობის შეზღუდვები კორონავირუსის გამო
+188,en,ka,,,coronavirus treatment,კორონავირუსის მკურნალობა
+190,en,ka,,,coronavirus update,სიახლე კორონავირუსის შესახებ
+191,en,ka,,,coronavirus vaccine,კორონავირუსის საწინააღმდეგო ვაქცინა
+192,en,ka,,,coronavirus vaccines,კორონავირუსის საწინააღმდეგო ვაქცინები
+198,en,ka,,,covid cases,COVID-ის შემთხვევები
+205,en,ka,,,covid early symptoms,COVID-ის ადრეული სიმპტომები
+213,en,ka,,,covid incubation period,COVID-ის საინკუბაციო პერიოდი
+215,en,ka,,,covid international spread,COVID-ის გავრცელება მსოფლიოში
+216,en,ka,,,covid international travel,COVID საერთაშორისო მოგზაურობა
+217,en,ka,,,covid isolation,იზოლაცია COVID-ის გამო
+219,en,ka,,,covid map,COVID-ის გავრცელების რუკა
+220,en,ka,,,covid medicine,COVID-ის საწინააღმდეგო წამალი
+221,en,ka,,,covid medicines,COVID-ის საწინააღმდეგო წამლები
+222,en,ka,,,covid news,ახალი ამბები COVID-ის შესახებ
+223,en,ka,,,covid outbreak,COVID-ის აფეთქება
+224,en,ka,,,covid pandemic,COVID-ის პანდემია
+225,en,ka,,,covid panic,COVID-ით გამოწვეული პანიკა
+228,en,ka,,,covid SOS Alert,SOS განგაში COVID-ის გამო
+230,en,ka,,,covid symptoms,COVID-ის სიმპტომები
+231,en,ka,,,covid transmission,COVID-ის გადაცემა
+232,en,ka,,,covid travel ban,მოგზაურობის აკრძალვა COVID-ის გამო
+233,en,ka,,,covid travel restrictions,მოგზაურობის შეზღუდვები COVID-ის გამო
+234,en,ka,,,covid treatment,COVID-ის მკურნალობა
+236,en,ka,,,covid vaccine,COVID-ის ვაქცინა
+237,en,ka,,,covid vaccines,COVID-ის ვაქცინები
+242,en,ka,,,covid-19,COVID-19
+243,en,ka,,,covid-19 alert,განგაში COVID-19-ის გამო
+244,en,ka,,,covid-19 cases,COVID-19-ის შემთხვევები
+245,en,ka,,,covid-19 CDC,COVID-19 CDC
+246,en,ka,,,covid-19 contagious,COVID-19 გადამდები
+247,en,ka,,,covid-19 cure,COVID-19-ის მკურნალობა
+248,en,ka,,,covid-19 dangerous,COVID-19 საშიში
+249,en,ka,,,covid-19 deadly,COVID-19 სასიკვდილო
+250,en,ka,,,covid-19 death,COVID-19-ით გამოწვეული სიკვდილი
+251,en,ka,,,covid-19 deaths,COVID-19-ით გამოწვეული სიკვდილები
+252,en,ka,,,covid-19 domestic travel,COVID-19 შიდა მოგზაურობა
+253,en,ka,,,covid-19 early symptoms,COVID-19-ის ადრეული სიმპტომები
+254,en,ka,,,covid-19 effects,COVID-19- ის ზემოქმედება
+255,en,ka,,,covid-19 epidemic,COVID-19-ის ეპიდემია
+256,en,ka,,,covid-19 exposure,კონტაქტი COVID-19-ით დაინფიცირების წყაროსთან
+257,en,ka,,,covid-19 fatal,COVID-19 სიცოცხლისთვის საშიში
+258,en,ka,,,covid-19 fever,COVID-19-ით გამოწვეული ცხელება
+259,en,ka,,,covid-19 illness,COVID-19 დაავადება
+260,en,ka,,,covid-19 incubation,COVID-19-ის საინკუბაციო პერიოდი
+261,en,ka,,,covid-19 incubation period,COVID-19-ის საინკუბაციო პერიოდი
+262,en,ka,,,covid-19 infection,COVID-19-ის გამომწვევი ინფექცია
+263,en,ka,,,covid-19 international spread,COVID-19-ის გავრცელება მსოფლიოში
+264,en,ka,,,covid-19 international travel,COVID-19 საერთაშორისო მოგზაურობა
+265,en,ka,,,covid-19 isolation,იზოლაცია COVID-19-ის გამო
+266,en,ka,,,covid-19 lockdown,მკაცრი იზოლაცია COVID-19-ის გამო
+267,en,ka,,,covid-19 map,COVID-19-ის გავრცელების რუკა
+268,en,ka,,,covid-19 medicine,COVID-19-ის საწინააღმდეგო წამალი
+269,en,ka,,,covid-19 medicines,COVID-19-ის საწინააღმდეგო წამლები
+270,en,ka,,,covid-19 news,ახალი ამბები COVID-19-ის შესახებ
+271,en,ka,,,covid-19 outbreak,COVID-19-ის აფეთქება
+272,en,ka,,,covid-19 pandemic,COVID-19-ის პანდემია
+273,en,ka,,,covid-19 panic,COVID-19-ით გამოწვეული პანიკა
+275,en,ka,,,covid-19 precautions,COVID-19-თან დაკავშირებული სიფრთხილის ზომები
+276,en,ka,,,covid-19 protection,COVID-19-ისგან დაცვა
+277,en,ka,,,covid-19 quarantine,კარანტინი COVID-19-ის გამო
+278,en,ka,,,covid-19 SOS Alert,SOS განგაში COVID-19-ის გამო
+279,en,ka,,,covid-19 spread,COVID-19-ის გავრცელება
+280,en,ka,,,covid-19 symptoms,COVID-19-ის სიმპტომები
+281,en,ka,,,covid-19 transmission,COVID-19-ის გადაცემა
+282,en,ka,,,covid-19 travel ban,მოგზაურობის აკრძალვა COVID-19-ის
+283,en,ka,,,covid-19 travel restrictions,მოგზაურობის შეზღუდვები COVID-19-ის გამო
+284,en,ka,,,covid-19 treatment,COVID-19-ის მკურნალობა
+285,en,ka,,,covid-19 uncontrolled spread,COVID-19-ის უკონტროლო გავრცელება
+286,en,ka,,,covid-19 vaccine,COVID-19-ის საწინააღმდეგო ვაქცინა
+287,en,ka,,,covid-19 vaccines,COVID-19-ის საწინააღმდეგო ვაქცინები
+288,en,ka,,,COVID-19 virus,COVID-19-ის გამომწვევი ვირუსი
+289,en,ka,,,covid-19 virus outbreak,COVID-19 ვირუსის ეპიდემიური აფეთქება
+290,en,ka,,,covid-19 virus transmission,COVID-19 ვირუსის გადაცემა
+291,en,ka,,,covid-19 WHO,COVID-19 ჯანმო
+292,en,ka,,,covid19,COVID19
+293,en,ka,,,covid19 alert,განგაში COVID19-ის გამო
+294,en,ka,,,covid19 cases,COVID19-ის შემთხვევები
+295,en,ka,,,covid19 CDC,COVID19 CDC
+301,en,ka,,,covid19 deaths,COVID19-ით გამოწვეული სიკვდილები
+302,en,ka,,,covid19 domestic travel,COVID19 შიდა მოგზაურობა
+303,en,ka,,,covid19 effects,COVID19-ის ზემოქმედება
+304,en,ka,,,covid19 epidemic,COVID19-ის ეპიდემია
+305,en,ka,,,covid19 exposure,კონტაქტი COVID19-ით დაინფიცირების წყაროსთან
+306,en,ka,,,covid19 fatal,COVID19 სიცოცხლისთვის საშიში
+307,en,ka,,,covid19 fever,COVID19-ით გამოწვეული ცხელება
+308,en,ka,,,covid19 illness,COVID19 დაავადება
+309,en,ka,,,covid19 incubation,COVID19-ის საინკუბაციო პერიოდი
+310,en,ka,,,covid19 incubation period,COVID19-ის საინკუბაციო პერიოდი
+311,en,ka,,,covid19 infection,COVID19-ის გამომწვევი ინფექცია
+312,en,ka,,,covid19 international spread,COVID19-ის გავრცელება მსოფლიოში
+313,en,ka,,,covid19 international travel,COVID19 საერთაშორისო მოგზაურობა
+314,en,ka,,,covid19 isolation,იზოლაცია COVID19-ის გამო
+315,en,ka,,,covid19 lockdown,მკაცრი იზოლაცია COVID19-ის გამო
+316,en,ka,,,covid19 map,COVID19-ის გავრცელების რუკა
+317,en,ka,,,covid19 medicine,COVID19-ის საწინააღმდეგო წამალი
+318,en,ka,,,covid19 medicines,COVID19-ის საწინააღმდეგო წამლები
+319,en,ka,,,covid19 news,ახალი ამბები COVID19-ის შესახებ
+320,en,ka,,,covid19 outbreak,COVID19-ის აფეთქება
+321,en,ka,,,covid19 pandemic,COVID19-ის პანდემია
+324,en,ka,,,covid19 precautions,COVID19-თან დაკავშირებული სიფრთხილის ზომები
+325,en,ka,,,covid19 protection,COVID19-ისგან დაცვა
+326,en,ka,,,covid19 quarantine,კარანტინი COVID19-ის გამო
+327,en,ka,,,covid19 SOS Alert,SOS განგაში COVID19-ის გამო
+328,en,ka,,,covid19 spread,COVID19-ის გავრცელება
+329,en,ka,,,covid19 symptoms,COVID19-ის სიმპტომები
+330,en,ka,,,covid19 transmission,COVID19-ის გადაცემა
+331,en,ka,,,covid19 travel ban,მოგზაურობის აკრძალვა COVID19-ის გამო
+332,en,ka,,,covid19 travel restrictions,მოგზაურობის შეზღუდვები COVID19-ის გამო
+333,en,ka,,,covid19 treatment,COVID19-ის მკურნალობა
+335,en,ka,,,covid19 vaccine,COVID19-ის საწინააღმდეგო ვაქცინა
+336,en,ka,,,covid19 vaccines,COVID19-ის საწინააღმდეგო ვაქცინები
+337,en,ka,,,covid19 virus,COVID19-ის გამომწვევი ვირუსი
+338,en,ka,,,covid19 virus outbreak,COVID19 ვირუსის ეპიდემიური აფეთქება
+339,en,ka,,,covid19 virus transmission,COVID19 ვირუსის გადაცემა
+342,en,ka,,,current outbreak,მიმდინარე აფეთქება
+343,en,ka,,,deadly outbreak,სასიკვდილო ეპიდემიური აფეთქება
+345,en,ka,,,disease outbreak,დაავადების აფეთქება
+346,en,ka,,,Disposable hand sanitizer,ხელის ერთჯერადი სადეზინფექციო საშუალება
+348,en,ka,,,domestic travel,შიდა მოგზაურობა
+351,en,ka,,,droplets,წვეთები
+357,en,ka,,,Effects of coronavirus,კორონავირუსის ზემოქმედება
+359,en,ka,,,epidemic,ეპიდემია
+360,en,ka,,,epidemic and pandemic,ეპიდემია და პანდემია
+362,en,ka,,,epidemic disease,ეპიდემიური დაავადება
+364,en,ka,,,epidemic outbreak,ეპიდემიური აფეთქება
+365,en,ka,,,epidemic period,ეპიდემიის პერიოდი
+366,en,ka,,,epidemic prevention,ეპიდემიის პრევენცია
+368,en,ka,,,epidemic season,ეპიდემიური სეზონი
+369,en,ka,,,epidemic situation,ეპიდემიური სიტუაცია
+371,en,ka,,,exposure,კონტაქტი დაინფიცირების წყაროსთან
+375,en,ka,,,exposure time,დაინფიცირების წყაროსთან კონტაქტის დრო
+379,en,ka,,,fever,ცხელება
+380,en,ka,,,fight the virus,ვირუსთან ბრძოლა
+381,en,ka,,,Fighting the outbreak,ეპიდემიურ აფეთქებასთან ბრძოლა
+382,en,ka,,,flu epidemic,გრიპის ეპიდემია
+385,en,ka,,,fomites,ფომიტები
+392,en,ka,,,global health emergency,საგანგებო მდგომარეობა გლობალურ ჯანდაცვაში
+393,en,ka,,,global outbreak,გლობალური აფეთქება
+394,en,ka,,,global pandemic,გლობალური პანდემია
+396,en,ka,,,hand sanitizer,ხელის სადეზინფექციო საშუალება
+397,en,ka,,,hand sanitizer dispenser,ხელის სადეზინფექციო საშუალების დისპენსერი
+398,en,ka,,,hand sanitizer gel,ხელის სადეზინფექციო გელი
+399,en,ka,,,hand sanitizer spray,ხელის სადეზინფექციო სპრეი
+403,en,ka,,,home isolation,იზოლაცია სახლში
+404,en,ka,,,home quarantine,კარანტინი სახლში
+410,en,ka,,,illness,დაავადება
+415,en,ka,,,incubation period,საინკუბაციო პერიოდი
+418,en,ka,,,infected,ინფიცირებული
+424,en,ka,,,instant hand sanitizer,ხელის მყისიერი სადეზინფექციო საშუალება
+425,en,ka,,,international spread,საერთაშორისო მასშტაბით გავრცელება
+426,en,ka,,,international travel,საერთაშორისო მოგზაურობა
+427,en,ka,,,isolation,იზოლაცია
+428,en,ka,,,isolation period,იზოლაციის პერიოდი
+430,en,ka,,,isolation room,საიზოლაციო ოთახი
+431,en,ka,,,isolation valve,მაიზოლირებელი სარქველი
+432,en,ka,,,isolation ward,საიზოლაციო პალატა
+434,en,ka,,,lockdown,მკაცრი იზოლაცია
+438,en,ka,,,major outbreak,დაავადების დიდი აფეთქება
+439,en,ka,,,mandatory quarantine,სავალდებულო კარანტინი
+440,en,ka,,,mass gathering,მასობრივი შეკრება
+444,en,ka,,,medicine,წამალი
+445,en,ka,,,medicines,წამლები
+448,en,ka,,,n95,n95
+449,en,ka,,,n95 mask,n95 ნიღაბი
+450,en,ka,,,n95 respirator,n95 რესპირატორი
+451,en,ka,,,ncov,ncov
+452,en,ka,,,ncov-2019,ncov-2019
+453,en,ka,,,new coronavirus,ახალი კორონავირუსი
+454,en,ka,,,new coronavirus pneumonia,ახალი კორონავირუსით გამოწვეული პნევმონია
+460,en,ka,,,novel coronavirus,ახალი ტიპის კორონავირუსი
+462,en,ka,,,novel coronavirus infection,ახალი კორონავირუსით გამოწვეული ინფექცია
+463,en,ka,,,novel coronavirus outbreak,ახალი კორონავირუსის ეპიდემიური აფეთქება
+464,en,ka,,,novel coronavirus pneumonia,ახალი კორონავირუსით გამოწვეული პნევმონია
+470,en,ka,,,ongoing outbreak,მიმდინარე ეპიდემიური აფეთქება
+472,en,ka,,,outbreak,ეპიდემიური აფეთქება
+474,en,ka,,,outbreak of coronavirus,კორონავირუსის ეპიდემიური აფეთქება
+475,en,ka,,,outbreak of disease,დაავადების ეპიდემიური აფეთქება
+482,en,ka,,,pandemic,პანდემია
+485,en,ka,,,pandemic influenza,პანდემიური გრიპი
+486,en,ka,,,pandemic outbreak,პანდემიური აფეთქება
+487,en,ka,,,pandemic plan,პანდემიური გეგმა
+488,en,ka,,,pandemic potential,პანდემიური პოტენციალი
+495,en,ka,,,pneumonia,პნევმონია
+496,en,ka,,,pneumonia epidemic,პნევმონიის ეპიდემია
+497,en,ka,,,potential exposure,პოტენციური დაინფიცირება
+498,en,ka,,,precautions,სიფრთხილის ზომები
+499,en,ka,,,prevent virus,ვირუსის პრევენცია
+500,en,ka,,,prolonged exposure,ხანგრძლივი კონტაქტი დაინფიცირების წყაროსთან
+504,en,ka,,,quarantine,კარანტინი
+505,en,ka,,,quarantine area,საკარანტინო ზონა
+506,en,ka,,,quarantine facility,საკარანტინო დაწესებულება
+507,en,ka,,,quarantine measures,საკარანტინო ღონისძიებები
+508,en,ka,,,quarantine period,კარანტინის პერიოდი
+509,en,ka,,,quarantine room,საკარანტინო ოთახი
+510,en,ka,,,quarantine zone,საკარანტინო ზონა
+512,en,ka,,,Recovered coronavirus patient,გამოჯანმრთელებული კორონავირუსიანი პაციენტი
+514,en,ka,,,repatriate,რეპატრიირება
+515,en,ka,,,repeated exposure,განმეორებითი კონტაქტი დაინფიცირების წყაროსთან
+516,en,ka,,,respiratory syncytial virus,რესპირატორულ-სინციტიური ვირუსი
+517,en,ka,,,respiratory virus,რესპირატორული ვირუსი
+519,en,ka,,,Sanitizing hand sanitizer,ხელის მადეზინფიცირებელი სადეზინფექციო საშუალება
+520,en,ka,,,SARS-CoV-2,SARS-CoV-2
+521,en,ka,,,self isolation,თვითიზოლაცია
+522,en,ka,,,self quarantine,თვითკარანტინი
+523,en,ka,,,Severe outbreak,სერიოზული ეპიდემიური აფეთქება
+525,en,ka,,,social distancing,სოციალური დისტანცირება
+526,en,ka,,,social distancing measures,ეპიდემიური აფეთქების შემდეგ
+527,en,ka,,,social isolation,სოციალური იზოლაცია
+528,en,ka,,,SOS Alert,SOS განგაში
+529,en,ka,,,spread,გავრცელება
+530,en,ka,,,spread of coronavirus,კორონავირუსის გავრცელება
+531,en,ka,,,spread of virus,ვირუსის გავრცელება
+535,en,ka,,,strain of virus,ვირუსის შტამი
+541,en,ka,,,the incubation period,საინკუბაციო პერიოდი
+544,en,ka,,,the novel coronavirus,ახალი კორონავირუსი
+558,en,ka,,,touching face,სახეზე შეხება
+559,en,ka,,,travel advisory,რეკომენდაციები მგზავრობასთან დაკავშირებით
+560,en,ka,,,travel ban,მოგზაურობის აკრძალვა
+561,en,ka,,,travel restrictions,მოგზაურობის შეზღუდვები
+565,en,ka,,,use hand sanitizer,ხელის სადეზინფექციო საშუალების გამოყენება
+566,en,ka,,,vaccines,ვაქცინები
+567,en,ka,,,viral outbreak,ვირუსის ეპიდემიური აფეთქება
+568,en,ka,,,virtual lockdown,ფაქტობრივი მკაცრი იზოლაცია
+569,en,ka,,,virus,ვირუსი
+570,en,ka,,,virus carrier,ვირუსის მატარებელი
+573,en,ka,,,virus infection,ვირუსული ინფექცია
+575,en,ka,,,virus mask,ვირუსისგან დამცავი ნიღაბი
+576,en,ka,,,virus outbreak,ვირუსის ეპიდემიური აფეთქება
+577,en,ka,,,virus prevention,ვირუსის პრევენცია
+578,en,ka,,,virus protection,ვირუსისგან დაცვა
+580,en,ka,,,virus spread,ვირუსის გავრცელება
+582,en,ka,,,virus spreads,ვირუსის გავრცელება
+583,en,ka,,,virus strain,ვირუსის შტამი
+584,en,ka,,,virus transmission,ვირუსის გადაცემა
+586,en,ka,,,wash your hands,დაიბანე ხელები
+587,en,ka,,,washing hands,ხელების დაბანა
+589,en,ka,,,WHO,ჯანმო
+590,en,ka,,,WHO Confirmed,ჯანმოს მიერ დადასტურებული
+591,en,ka,,,WHO Deaths,სიკვდილების რაოდენობა ჯანმოს მიხედვით
+592,en,ka,,,widespread outbreak,მასობრივი ეპიდემიური აფეთქება
+597,en,ka,,,World Health Organization,ჯანდაცვის მსოფლიო ორგანიზაცია
+600,en,ka,,,zoonotic disease,ზოონოზური დაავადება
+601,en,ka,,,zoonotic virus,ზოონოზური ვირუსი

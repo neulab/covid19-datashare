@@ -1,0 +1,314 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,zh-TW,,,14 days in isolation,隔離14天
+26,en,zh-TW,,,14 days quarantine,14天檢疫
+27,en,zh-TW,,,2019 coronavirus,2019 冠狀病毒
+28,en,zh-TW,,,2019 novel coronavirus,2019 新型冠狀病毒
+29,en,zh-TW,,,2019-nCoV,2019-新型冠狀病毒
+30,en,zh-TW,,,2020 coronavirus,2020 冠狀病毒
+31,en,zh-TW,,,2020 novel coronavirus,2020 新型冠狀病毒
+33,en,zh-TW,,,about coronavirus,關於冠狀病毒
+39,en,zh-TW,,,acute respiratory distress syndrome,急性呼吸窘迫症候群
+40,en,zh-TW,,,advanced hand sanitizer,專用手部消毒劑
+41,en,zh-TW,,,Affected by coronavirus,受到冠狀病毒影響
+42,en,zh-TW,,,after exposure,曝露之後
+43,en,zh-TW,,,After the epidemic,流行之後
+44,en,zh-TW,,,After the outbreak,爆發之後
+47,en,zh-TW,,,airborne virus,空氣傳播的病毒
+48,en,zh-TW,,,alcohol based hand sanitizer,酒精類手部消毒劑
+49,en,zh-TW,,,alcohol hand sanitizer,酒精手部消毒劑
+51,en,zh-TW,,,alcohol-based hand sanitizer,酒精類手部消毒劑
+59,en,zh-TW,,,Anti-Corona virus spray,抗冠狀病毒噴霧
+60,en,zh-TW,,,antibacterial hand sanitizer,抗菌手部消毒劑
+61,en,zh-TW,,,ARDS,急性呼吸窘迫症候群
+64,en,zh-TW,,,avoid exposure,避免曝露
+65,en,zh-TW,,,be infected,受感染
+75,en,zh-TW,,,Beware of coronavirus,小心冠狀病毒
+76,en,zh-TW,,,bilateral interstitial pneumonia,雙側間質性肺炎
+77,en,zh-TW,,,CDC,疾病管制署
+78,en,zh-TW,,,Center for Disease Control,疾病管制中心
+83,en,zh-TW,,,community spread,社區傳播
+84,en,zh-TW,,,compulsory quarantine,強制檢疫
+85,en,zh-TW,,,contagious,接觸傳染性
+135,en,zh-TW,,,coronavirus,冠狀病毒
+136,en,zh-TW,,,coronavirus (COVID-19),冠狀病毒 (COVID-19)
+137,en,zh-TW,,,coronavirus alert,冠狀病毒警戒
+139,en,zh-TW,,,coronavirus cases,冠狀病毒案例
+141,en,zh-TW,,,coronavirus concerns,冠狀病毒疑慮
+143,en,zh-TW,,,coronavirus crisis,冠狀病毒危機
+149,en,zh-TW,,,coronavirus disease,冠狀病毒疾病
+150,en,zh-TW,,,Coronavirus disease (COVID-19) outbreak,嚴重特殊傳染性肺炎 (COVID-19) 爆發
+153,en,zh-TW,,,coronavirus early symptoms,冠狀病毒早期症狀
+155,en,zh-TW,,,coronavirus epidemic,冠狀病毒流行
+156,en,zh-TW,,,coronavirus exposure,冠狀病毒曝露
+161,en,zh-TW,,,coronavirus incubation,冠狀病毒潛伏期
+162,en,zh-TW,,,coronavirus incubation period,冠狀病毒潛伏期
+163,en,zh-TW,,,coronavirus infection,冠狀病毒感染
+168,en,zh-TW,,,coronavirus map,冠狀病毒地圖
+170,en,zh-TW,,,coronavirus medicine,冠狀病毒藥物
+171,en,zh-TW,,,coronavirus medicines,冠狀病毒藥物
+172,en,zh-TW,,,coronavirus news,冠狀病毒新聞
+173,en,zh-TW,,,coronavirus outbreak,冠狀病毒爆發
+174,en,zh-TW,,,coronavirus pandemic,冠狀病毒大流行
+176,en,zh-TW,,,coronavirus pneumonia,冠狀病毒肺炎
+177,en,zh-TW,,,coronavirus precautions,冠狀病毒預防措施
+178,en,zh-TW,,,coronavirus prevention,冠狀病毒預防
+179,en,zh-TW,,,coronavirus protection,冠狀病毒防護
+180,en,zh-TW,,,coronavirus quarantine,冠狀病毒檢疫
+182,en,zh-TW,,,coronavirus SOS Alert,冠狀病毒SOS警報
+183,en,zh-TW,,,coronavirus spread,冠狀病毒傳播
+184,en,zh-TW,,,coronavirus symptoms,冠狀病毒症狀
+185,en,zh-TW,,,coronavirus transmission,冠狀病毒傳播
+186,en,zh-TW,,,coronavirus travel ban,冠狀病毒旅遊禁令
+187,en,zh-TW,,,coronavirus travel restrictions,冠狀病毒旅遊限制
+188,en,zh-TW,,,coronavirus treatment,冠狀病毒治療
+190,en,zh-TW,,,coronavirus update,冠狀病毒更新
+191,en,zh-TW,,,coronavirus vaccine,冠狀病毒疫苗
+192,en,zh-TW,,,coronavirus vaccines,冠狀病毒疫苗
+198,en,zh-TW,,,covid cases,嚴重特殊傳染性肺炎案例
+205,en,zh-TW,,,covid early symptoms,嚴重特殊傳染性肺炎症狀
+213,en,zh-TW,,,covid incubation period,嚴重特殊傳染性肺炎潛伏期
+215,en,zh-TW,,,covid international spread,嚴重特殊傳染性肺炎傳播
+216,en,zh-TW,,,covid international travel,嚴重特殊傳染性肺炎旅遊
+217,en,zh-TW,,,covid isolation,嚴重特殊傳染性肺炎隔離
+219,en,zh-TW,,,covid map,嚴重特殊傳染性肺炎地圖
+220,en,zh-TW,,,covid medicine,嚴重特殊傳染性肺炎藥物
+221,en,zh-TW,,,covid medicines,嚴重特殊傳染性肺炎藥物
+222,en,zh-TW,,,covid news,嚴重特殊傳染性肺炎新聞
+223,en,zh-TW,,,covid outbreak,嚴重特殊傳染性肺炎爆發
+224,en,zh-TW,,,covid pandemic,嚴重特殊傳染性肺炎大流行
+225,en,zh-TW,,,covid panic,嚴重特殊傳染性肺炎恐慌
+228,en,zh-TW,,,covid SOS Alert,嚴重特殊傳染性肺炎SOS警戒
+230,en,zh-TW,,,covid symptoms,嚴重特殊傳染性肺炎症狀
+231,en,zh-TW,,,covid transmission,嚴重特殊傳染性肺炎傳播
+232,en,zh-TW,,,covid travel ban,嚴重特殊傳染性肺炎旅遊禁令
+233,en,zh-TW,,,covid travel restrictions,嚴重特殊傳染性肺炎限制
+234,en,zh-TW,,,covid treatment,嚴重特殊傳染性肺炎治療
+236,en,zh-TW,,,covid vaccine,嚴重特殊傳染性肺炎疫苗
+237,en,zh-TW,,,covid vaccines,嚴重特殊傳染性肺炎疫苗
+242,en,zh-TW,,,covid-19,嚴重特殊傳染性肺炎
+243,en,zh-TW,,,covid-19 alert,嚴重特殊傳染性肺炎警戒
+244,en,zh-TW,,,covid-19 cases,嚴重特殊傳染性肺炎案例
+245,en,zh-TW,,,covid-19 CDC,嚴重特殊傳染性肺炎疾病管制中心
+246,en,zh-TW,,,covid-19 contagious,嚴重特殊傳染性肺炎接觸傳染性
+247,en,zh-TW,,,covid-19 cure,嚴重特殊傳染性肺炎治療
+248,en,zh-TW,,,covid-19 dangerous,嚴重特殊傳染性肺炎危險
+249,en,zh-TW,,,covid-19 deadly,嚴重特殊傳染性肺炎致命地
+250,en,zh-TW,,,covid-19 death,嚴重特殊傳染性肺炎死亡人數
+251,en,zh-TW,,,covid-19 deaths,嚴重特殊傳染性肺炎死亡人數
+252,en,zh-TW,,,covid-19 domestic travel,嚴重特殊傳染性肺炎國內旅遊
+253,en,zh-TW,,,covid-19 early symptoms,嚴重特殊傳染性肺炎早期症狀
+254,en,zh-TW,,,covid-19 effects,嚴重特殊傳染性肺炎作用
+255,en,zh-TW,,,covid-19 epidemic,嚴重特殊傳染性肺炎流行
+256,en,zh-TW,,,covid-19 exposure,嚴重特殊傳染性肺炎曝露
+257,en,zh-TW,,,covid-19 fatal,嚴重特殊傳染性肺炎致命的
+258,en,zh-TW,,,covid-19 fever,嚴重特殊傳染性肺炎發燒
+259,en,zh-TW,,,covid-19 illness,嚴重特殊傳染性肺炎身體不適
+260,en,zh-TW,,,covid-19 incubation,嚴重特殊傳染性肺炎潛伏期
+261,en,zh-TW,,,covid-19 incubation period,嚴重特殊傳染性肺炎潛伏期
+262,en,zh-TW,,,covid-19 infection,嚴重特殊傳染性肺炎感染
+263,en,zh-TW,,,covid-19 international spread,嚴重特殊傳染性肺炎國際傳播
+264,en,zh-TW,,,covid-19 international travel,嚴重特殊傳染性肺炎國際傳播
+265,en,zh-TW,,,covid-19 isolation,嚴重特殊傳染性肺炎隔離
+266,en,zh-TW,,,covid-19 lockdown,嚴重特殊傳染性肺炎封鎖
+267,en,zh-TW,,,covid-19 map,嚴重特殊傳染性肺炎地圖
+268,en,zh-TW,,,covid-19 medicine,嚴重特殊傳染性肺炎藥物
+269,en,zh-TW,,,covid-19 medicines,嚴重特殊傳染性肺炎藥物
+270,en,zh-TW,,,covid-19 news,嚴重特殊傳染性肺炎新聞
+271,en,zh-TW,,,covid-19 outbreak,嚴重特殊傳染性肺炎爆發
+272,en,zh-TW,,,covid-19 pandemic,嚴重特殊傳染性肺炎大流行
+273,en,zh-TW,,,covid-19 panic,嚴重特殊傳染性肺炎恐慌
+275,en,zh-TW,,,covid-19 precautions,嚴重特殊傳染性肺炎預防措施
+276,en,zh-TW,,,covid-19 protection,嚴重特殊傳染性肺炎防護
+277,en,zh-TW,,,covid-19 quarantine,嚴重特殊傳染性肺炎檢疫
+278,en,zh-TW,,,covid-19 SOS Alert,嚴重特殊傳染性肺炎SOS警戒
+279,en,zh-TW,,,covid-19 spread,嚴重特殊傳染性肺炎傳播
+280,en,zh-TW,,,covid-19 symptoms,嚴重特殊傳染性肺炎症狀
+281,en,zh-TW,,,covid-19 transmission,嚴重特殊傳染性肺炎傳播
+282,en,zh-TW,,,covid-19 travel ban,嚴重特殊傳染性肺炎旅遊禁令
+283,en,zh-TW,,,covid-19 travel restrictions,嚴重特殊傳染性肺炎旅遊限制
+284,en,zh-TW,,,covid-19 treatment,嚴重特殊傳染性肺炎治療
+285,en,zh-TW,,,covid-19 uncontrolled spread,嚴重特殊傳染性肺炎失控傳播
+286,en,zh-TW,,,covid-19 vaccine,嚴重特殊傳染性肺炎疫苗
+287,en,zh-TW,,,covid-19 vaccines,嚴重特殊傳染性肺炎疫苗
+288,en,zh-TW,,,COVID-19 virus,嚴重特殊傳染性肺炎病毒
+289,en,zh-TW,,,covid-19 virus outbreak,嚴重特殊傳染性肺炎病毒爆發
+290,en,zh-TW,,,covid-19 virus transmission,嚴重特殊傳染性肺炎病毒傳播
+291,en,zh-TW,,,covid-19 WHO,嚴重特殊傳染性肺炎世界衛生組織
+292,en,zh-TW,,,covid19,嚴重特殊傳染性肺炎
+293,en,zh-TW,,,covid19 alert,嚴重特殊傳染性肺炎警戒
+294,en,zh-TW,,,covid19 cases,嚴重特殊傳染性肺炎案例
+295,en,zh-TW,,,covid19 CDC,嚴重特殊傳染性肺炎疾病管制中心
+301,en,zh-TW,,,covid19 deaths,嚴重特殊傳染性肺炎死亡人數
+302,en,zh-TW,,,covid19 domestic travel,嚴重特殊傳染性肺炎國內旅遊
+303,en,zh-TW,,,covid19 effects,嚴重特殊傳染性肺炎作用
+304,en,zh-TW,,,covid19 epidemic,嚴重特殊傳染性肺炎流行
+305,en,zh-TW,,,covid19 exposure,嚴重特殊傳染性肺炎曝露
+306,en,zh-TW,,,covid19 fatal,嚴重特殊傳染性肺炎致命的
+307,en,zh-TW,,,covid19 fever,嚴重特殊傳染性肺炎發燒
+308,en,zh-TW,,,covid19 illness,嚴重特殊傳染性肺炎身體不適
+309,en,zh-TW,,,covid19 incubation,嚴重特殊傳染性肺炎潛伏期
+310,en,zh-TW,,,covid19 incubation period,嚴重特殊傳染性肺炎潛伏期
+311,en,zh-TW,,,covid19 infection,嚴重特殊傳染性肺炎感染
+312,en,zh-TW,,,covid19 international spread,嚴重特殊傳染性肺炎國際傳播
+313,en,zh-TW,,,covid19 international travel,嚴重特殊傳染性肺炎國際旅遊
+314,en,zh-TW,,,covid19 isolation,嚴重特殊傳染性肺炎隔離
+315,en,zh-TW,,,covid19 lockdown,嚴重特殊傳染性肺炎封鎖
+316,en,zh-TW,,,covid19 map,嚴重特殊傳染性肺炎地圖
+317,en,zh-TW,,,covid19 medicine,嚴重特殊傳染性肺炎藥物
+318,en,zh-TW,,,covid19 medicines,嚴重特殊傳染性肺炎藥物
+319,en,zh-TW,,,covid19 news,嚴重特殊傳染性肺炎新聞
+320,en,zh-TW,,,covid19 outbreak,嚴重特殊傳染性肺炎爆發
+321,en,zh-TW,,,covid19 pandemic,嚴重特殊傳染性肺炎大流行
+324,en,zh-TW,,,covid19 precautions,嚴重特殊傳染性肺炎預防措施
+325,en,zh-TW,,,covid19 protection,嚴重特殊傳染性肺炎防護
+326,en,zh-TW,,,covid19 quarantine,嚴重特殊傳染性肺炎檢疫
+327,en,zh-TW,,,covid19 SOS Alert,嚴重特殊傳染性肺炎SOS警戒
+328,en,zh-TW,,,covid19 spread,嚴重特殊傳染性肺炎傳播
+329,en,zh-TW,,,covid19 symptoms,嚴重特殊傳染性肺炎症狀
+330,en,zh-TW,,,covid19 transmission,嚴重特殊傳染性肺炎傳播
+331,en,zh-TW,,,covid19 travel ban,嚴重特殊傳染性肺炎旅遊禁令
+332,en,zh-TW,,,covid19 travel restrictions,嚴重特殊傳染性肺炎旅遊限制
+333,en,zh-TW,,,covid19 treatment,嚴重特殊傳染性肺炎治療
+335,en,zh-TW,,,covid19 vaccine,嚴重特殊傳染性肺炎疫苗
+336,en,zh-TW,,,covid19 vaccines,嚴重特殊傳染性肺炎疫苗
+337,en,zh-TW,,,covid19 virus,嚴重特殊傳染性肺炎病毒
+338,en,zh-TW,,,covid19 virus outbreak,嚴重特殊傳染性肺炎病毒爆發
+339,en,zh-TW,,,covid19 virus transmission,嚴重特殊傳染性肺炎病毒傳播
+342,en,zh-TW,,,current outbreak,當前爆發
+343,en,zh-TW,,,deadly outbreak,致命性爆發
+345,en,zh-TW,,,disease outbreak,疾病爆發
+346,en,zh-TW,,,Disposable hand sanitizer,拋棄式手部消毒劑
+348,en,zh-TW,,,domestic travel,國內旅遊
+351,en,zh-TW,,,droplets,液滴
+357,en,zh-TW,,,Effects of coronavirus,冠狀病毒作用
+359,en,zh-TW,,,epidemic,流行性
+360,en,zh-TW,,,epidemic and pandemic,流行和大流行
+362,en,zh-TW,,,epidemic disease,流行性疾病
+364,en,zh-TW,,,epidemic outbreak,流行病爆發
+365,en,zh-TW,,,epidemic period,流行期間
+366,en,zh-TW,,,epidemic prevention,流行病預防
+368,en,zh-TW,,,epidemic season,流行季節
+369,en,zh-TW,,,epidemic situation,流行情況
+371,en,zh-TW,,,exposure,曝露
+375,en,zh-TW,,,exposure time,曝露時間
+379,en,zh-TW,,,fever,發燒
+380,en,zh-TW,,,fight the virus,對抗病毒
+381,en,zh-TW,,,Fighting the outbreak,對抗爆發
+382,en,zh-TW,,,flu epidemic,流感流行
+385,en,zh-TW,,,fomites,傳染媒
+392,en,zh-TW,,,global health emergency,全球衛生緊急情況
+393,en,zh-TW,,,global outbreak,全球爆發
+394,en,zh-TW,,,global pandemic,全球大流行
+396,en,zh-TW,,,hand sanitizer,手部消毒劑
+397,en,zh-TW,,,hand sanitizer dispenser,手部消毒劑噴瓶
+398,en,zh-TW,,,hand sanitizer gel,手部消毒劑凝膠
+399,en,zh-TW,,,hand sanitizer spray,手部消毒劑噴霧
+401,en,zh-TW,,,Hepatitis B virus,B型肝炎病毒
+402,en,zh-TW,,,herpes simplex virus,單純皰疹病毒
+403,en,zh-TW,,,home isolation,居家隔離
+404,en,zh-TW,,,home quarantine,居家檢疫
+410,en,zh-TW,,,illness,身體不適
+415,en,zh-TW,,,incubation period,潛伏期
+418,en,zh-TW,,,infected,受感染
+424,en,zh-TW,,,instant hand sanitizer,快速手部消毒劑
+425,en,zh-TW,,,international spread,國際性傳播
+426,en,zh-TW,,,international travel,國際旅遊
+427,en,zh-TW,,,isolation,隔離
+428,en,zh-TW,,,isolation period,隔離期間
+430,en,zh-TW,,,isolation room,隔離處所
+431,en,zh-TW,,,isolation valve,隔離閥
+432,en,zh-TW,,,isolation ward,隔離室
+434,en,zh-TW,,,lockdown,封鎖
+436,en,zh-TW,,,long exposure,長期曝露
+438,en,zh-TW,,,major outbreak,重大爆發
+439,en,zh-TW,,,mandatory quarantine,強制檢疫
+440,en,zh-TW,,,mass gathering,大規模群聚
+444,en,zh-TW,,,medicine,藥物
+445,en,zh-TW,,,medicines,藥物
+447,en,zh-TW,,,mumps virus,腮腺炎病毒
+448,en,zh-TW,,,n95,N95
+449,en,zh-TW,,,n95 mask,N95口罩
+450,en,zh-TW,,,n95 respirator,N95呼吸器
+451,en,zh-TW,,,ncov,新型冠狀病毒
+452,en,zh-TW,,,ncov-2019,新型冠狀病毒-2019
+453,en,zh-TW,,,new coronavirus,新型冠狀病毒
+454,en,zh-TW,,,new coronavirus pneumonia,新型冠狀病毒肺炎
+460,en,zh-TW,,,novel coronavirus,新型冠狀病毒
+462,en,zh-TW,,,novel coronavirus infection,新型冠狀病毒感染
+463,en,zh-TW,,,novel coronavirus outbreak,新型冠狀病毒爆發
+464,en,zh-TW,,,novel coronavirus pneumonia,新型冠狀病毒肺炎
+470,en,zh-TW,,,ongoing outbreak,正在爆發
+472,en,zh-TW,,,outbreak,爆發
+474,en,zh-TW,,,outbreak of coronavirus,冠狀病毒爆發
+475,en,zh-TW,,,outbreak of disease,疾病爆發
+482,en,zh-TW,,,pandemic,大流行
+485,en,zh-TW,,,pandemic influenza,大流行的流感
+486,en,zh-TW,,,pandemic outbreak,爆發大流行
+487,en,zh-TW,,,pandemic plan,大流行方案
+488,en,zh-TW,,,pandemic potential,大流行可能性
+495,en,zh-TW,,,pneumonia,肺炎
+496,en,zh-TW,,,pneumonia epidemic,肺炎流行
+497,en,zh-TW,,,potential exposure,可能曝露
+498,en,zh-TW,,,precautions,預防措施
+499,en,zh-TW,,,prevent virus,預防病毒
+500,en,zh-TW,,,prolonged exposure,延長曝露
+501,en,zh-TW,,,public exposure,公眾曝露
+502,en,zh-TW,,,purell hand sanitizer,普利爾手部消毒劑
+504,en,zh-TW,,,quarantine,檢疫
+505,en,zh-TW,,,quarantine area,檢疫區
+506,en,zh-TW,,,quarantine facility,檢疫設施
+507,en,zh-TW,,,quarantine measures,檢疫措施
+508,en,zh-TW,,,quarantine period,檢疫期間
+509,en,zh-TW,,,quarantine room,檢疫室
+510,en,zh-TW,,,quarantine zone,檢疫區
+512,en,zh-TW,,,Recovered coronavirus patient,復原的冠狀病毒患者
+514,en,zh-TW,,,repatriate,遣返回國
+515,en,zh-TW,,,repeated exposure,重複曝露
+516,en,zh-TW,,,respiratory syncytial virus,呼吸道融合病毒
+517,en,zh-TW,,,respiratory virus,呼吸道病毒
+518,en,zh-TW,,,risk exposure,風險曝露
+519,en,zh-TW,,,Sanitizing hand sanitizer,手部消毒劑
+520,en,zh-TW,,,SARS-CoV-2,SARS-CoV-2
+521,en,zh-TW,,,self isolation,自我隔離
+522,en,zh-TW,,,self quarantine,自我檢疫
+523,en,zh-TW,,,Severe outbreak,嚴重爆發
+525,en,zh-TW,,,social distancing,社交疏離
+526,en,zh-TW,,,social distancing measures,社會疏離措施
+527,en,zh-TW,,,social isolation,社交隔離
+528,en,zh-TW,,,SOS Alert,SOS警報
+529,en,zh-TW,,,spread,傳播
+530,en,zh-TW,,,spread of coronavirus,冠狀病毒傳播
+531,en,zh-TW,,,spread of virus,病毒傳播
+534,en,zh-TW,,,stomach virus,胃病毒
+535,en,zh-TW,,,strain of virus,病毒株
+536,en,zh-TW,,,sun exposure,陽光曝露
+541,en,zh-TW,,,the incubation period,潛伏期
+544,en,zh-TW,,,the novel coronavirus,新型冠狀病毒
+558,en,zh-TW,,,touching face,觸摸臉部
+559,en,zh-TW,,,travel advisory,旅遊警告
+560,en,zh-TW,,,travel ban,旅遊禁令
+561,en,zh-TW,,,travel restrictions,旅遊限制
+565,en,zh-TW,,,use hand sanitizer,使用手部消毒劑
+566,en,zh-TW,,,vaccines,疫苗
+567,en,zh-TW,,,viral outbreak,病毒爆發
+568,en,zh-TW,,,virtual lockdown,實際封鎖
+569,en,zh-TW,,,virus,病毒
+570,en,zh-TW,,,virus carrier,病毒帶原者
+573,en,zh-TW,,,virus infection,病毒感染
+575,en,zh-TW,,,virus mask,病毒口罩
+576,en,zh-TW,,,virus outbreak,病毒爆發
+577,en,zh-TW,,,virus prevention,病毒預防
+578,en,zh-TW,,,virus protection,病毒防護
+580,en,zh-TW,,,virus spread,病毒傳播
+582,en,zh-TW,,,virus spreads,病毒傳播
+583,en,zh-TW,,,virus strain,病毒株
+584,en,zh-TW,,,virus transmission,病毒傳播
+586,en,zh-TW,,,wash your hands,洗手
+587,en,zh-TW,,,washing hands,洗手
+589,en,zh-TW,,,WHO,世界衛生組織
+590,en,zh-TW,,,WHO Confirmed,世界衛生組織確認
+591,en,zh-TW,,,WHO Deaths,世界衛生組織死亡
+592,en,zh-TW,,,widespread outbreak,廣泛爆發
+597,en,zh-TW,,,World Health Organization,世界衛生組織
+600,en,zh-TW,,,zoonotic disease,人畜共通疾病
+601,en,zh-TW,,,zoonotic virus,人畜共通病毒

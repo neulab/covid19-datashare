@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,vi,,,14 days in isolation,14 ngày cách ly
+26,en,vi,,,14 days quarantine,cách ly 14 ngày
+27,en,vi,,,2019 coronavirus,vi-rút corona 2019
+28,en,vi,,,2019 novel coronavirus,vi-rút corona mới năm 2019
+29,en,vi,,,2019-nCoV,2019-nCoV
+30,en,vi,,,2020 coronavirus,vi-rút corona 2020
+31,en,vi,,,2020 novel coronavirus,vi-rút corona mới năm 2020
+33,en,vi,,,about coronavirus,thông tin về vi-rút corona
+39,en,vi,,,acute respiratory distress syndrome,hội chứng suy giảm hô hấp cấp tính
+40,en,vi,,,advanced hand sanitizer,dung dịch rửa tay tiên tiến
+41,en,vi,,,Affected by coronavirus,Chịu ảnh hưởng do vi-rút corona
+42,en,vi,,,after exposure,sau khi phơi nhiễm
+43,en,vi,,,After the epidemic,Sau đại dịch
+44,en,vi,,,After the outbreak,Sau khi bùng phát
+47,en,vi,,,airborne virus,vi-rút trong không khí
+48,en,vi,,,alcohol based hand sanitizer,dung dịch rửa tay chứa cồn
+49,en,vi,,,alcohol hand sanitizer,nước rửa tay chứa cồn
+51,en,vi,,,alcohol-based hand sanitizer,dung dịch rửa tay chứa cồn
+59,en,vi,,,Anti-Corona virus spray,xịt chống vi-rút corona
+60,en,vi,,,antibacterial hand sanitizer,nước rửa tay diệt khuẩn
+61,en,vi,,,ARDS,Hội chứng suy hô hấp cấp tiến triển
+64,en,vi,,,avoid exposure,tránh tiếp xúc
+65,en,vi,,,be infected,bị nhiễm
+75,en,vi,,,Beware of coronavirus,Thận trọng với vi-rút corona
+76,en,vi,,,bilateral interstitial pneumonia,viêm phổi kẽ hai bên
+77,en,vi,,,CDC,CDC
+78,en,vi,,,Center for Disease Control,Trung tâm Kiểm soát dịch bệnh
+83,en,vi,,,community spread,lây lan trong cộng đồng
+84,en,vi,,,compulsory quarantine,cách ly bắt buộc
+85,en,vi,,,contagious,dễ lây lan
+135,en,vi,,,coronavirus,vi-rút corona
+136,en,vi,,,coronavirus (COVID-19),vi-rút corona (COVID-19)
+137,en,vi,,,coronavirus alert,cánh báo về vi-rút corona
+139,en,vi,,,coronavirus cases,số ca nhiễm vi-rút corona
+141,en,vi,,,coronavirus concerns,các mối lo ngại về vi-rút corona
+143,en,vi,,,coronavirus crisis,dịch bệnh do vi-rút corana gây ra
+149,en,vi,,,coronavirus disease,bệnh do vi-rút corona gây ra
+150,en,vi,,,Coronavirus disease (COVID-19) outbreak,Sự bùng phát dịch bệnh do vi-rút corona (COVID-19)
+153,en,vi,,,coronavirus early symptoms,triệu chứng ban đầu của bệnh do vi-rút corona
+155,en,vi,,,coronavirus epidemic,dịch bệnh do vi-rút corona gây ra
+156,en,vi,,,coronavirus exposure,phơi nhiễm vi-rút corona
+161,en,vi,,,coronavirus incubation,thời kỳ ủ bệnh do nhiễm vi-rút corona
+162,en,vi,,,coronavirus incubation period,thời gian ủ bệnh do vi-rút corona
+163,en,vi,,,coronavirus infection,nhiễm vi-rút corona
+168,en,vi,,,coronavirus map,bản đồ về tình hình lây nhiễm vi-rút corona
+170,en,vi,,,coronavirus medicine,thuốc điều trị vi-rút corona
+171,en,vi,,,coronavirus medicines,các loại thuốc điều trị vi-rút corona
+172,en,vi,,,coronavirus news,tin tức về vi-rút corona
+173,en,vi,,,coronavirus outbreak,sự bùng phát của vi-rút corona
+174,en,vi,,,coronavirus pandemic,đại dịch do vi-rút corona gây ra
+176,en,vi,,,coronavirus pneumonia,viêm phổi do vi-rút corona
+177,en,vi,,,coronavirus precautions,các biện pháp phòng ngừa vi-rút corona
+178,en,vi,,,coronavirus prevention,phòng ngừa vi-rút corona
+179,en,vi,,,coronavirus protection,phòng chống vi-rút corona
+180,en,vi,,,coronavirus quarantine,cách ly do vi-rút corona
+182,en,vi,,,coronavirus SOS Alert,Cảnh báo SOS về vi-rút corona
+183,en,vi,,,coronavirus spread,sự lây lan của vi-rút corona
+184,en,vi,,,coronavirus symptoms,các triệu chứng nhiễm vi-rút corona
+185,en,vi,,,coronavirus transmission,sự lây truyền của vi-rút corona
+186,en,vi,,,coronavirus travel ban,lệnh cấm đi lại do vi-rút corona
+187,en,vi,,,coronavirus travel restrictions,các hạn chế đi lại do vi-rút corona
+188,en,vi,,,coronavirus treatment,điều trị vi-rút corona
+190,en,vi,,,coronavirus update,cập nhật tình hình về vi-rút corona
+191,en,vi,,,coronavirus vaccine,vắc-xin phòng ngừa vi-rút corona
+192,en,vi,,,coronavirus vaccines,các loại vắc-xin phòng ngừa vi-rút corona
+198,en,vi,,,covid cases,các ca nhiễm covid
+205,en,vi,,,covid early symptoms,triệu chứng ban đầu của covid
+213,en,vi,,,covid incubation period,thời gian ủ bệnh covid
+215,en,vi,,,covid international spread,lây lan covid trên toàn thế giới
+216,en,vi,,,covid international travel,tình hình đi lại quốc tế do covid
+217,en,vi,,,covid isolation,sự cách ly do covid
+219,en,vi,,,covid map,bản đồ về tình hình lây nhiễm covid
+220,en,vi,,,covid medicine,thuốc điều trị covid
+221,en,vi,,,covid medicines,các loại thuốc điều trị covid
+222,en,vi,,,covid news,tin tức về covid
+223,en,vi,,,covid outbreak,sự bùng phát covid
+224,en,vi,,,covid pandemic,đại dịch covid
+225,en,vi,,,covid panic,sự hoảng loạn vì covid
+228,en,vi,,,covid SOS Alert,Cảnh báo SOS về covid
+230,en,vi,,,covid symptoms,các triệu chứng nhiễm covid
+231,en,vi,,,covid transmission,sự lây truyền của covid
+232,en,vi,,,covid travel ban,lệnh cấm đi lại do covid
+233,en,vi,,,covid travel restrictions,hạn chế đi lại do covid
+234,en,vi,,,covid treatment,điều trị covid
+236,en,vi,,,covid vaccine,vắc-xin phòng ngừa covid
+237,en,vi,,,covid vaccines,các loại vắc-xin phòng ngừa covid
+242,en,vi,,,covid-19,covid-19
+243,en,vi,,,covid-19 alert,cảnh báo về covid-19
+244,en,vi,,,covid-19 cases,các ca nhiễm covid-19
+245,en,vi,,,covid-19 CDC,covid-19 CDC
+246,en,vi,,,covid-19 contagious,covid-19 dễ lây lan
+247,en,vi,,,covid-19 cure,điều trị covid-19
+248,en,vi,,,covid-19 dangerous,covid-19 nguy hiểm
+249,en,vi,,,covid-19 deadly,covid-19 gây chết người
+250,en,vi,,,covid-19 death,tử vong do covid-19
+251,en,vi,,,covid-19 deaths,các ca tử vong do covid-19
+252,en,vi,,,covid-19 domestic travel,tình hình đi lại trong nước do covid-19
+253,en,vi,,,covid-19 early symptoms,triệu chứng ban đầu của covid-19
+254,en,vi,,,covid-19 effects,các ảnh hưởng của covid-19
+255,en,vi,,,covid-19 epidemic,dịch bệnh do covid-19 gây ra
+256,en,vi,,,covid-19 exposure,phơi nhiễm covid-19
+257,en,vi,,,covid-19 fatal,covid-19 gây chết người
+258,en,vi,,,covid-19 fever,sốt do nhiễm covid-19
+259,en,vi,,,covid-19 illness,ốm do nhiễm covid-19
+260,en,vi,,,covid-19 incubation,thời kỳ ủ bệnh do nhiễm covid-19
+261,en,vi,,,covid-19 incubation period,thời gian ủ bệnh covid-19
+262,en,vi,,,covid-19 infection,sự lây nhiễm covid-19
+263,en,vi,,,covid-19 international spread,lây nhiễm covid-19 trên toàn thế giới
+264,en,vi,,,covid-19 international travel,đi lại trên toàn thế giới do covid-19
+265,en,vi,,,covid-19 isolation,sự cách ly vì covid-19
+266,en,vi,,,covid-19 lockdown,lệnh đóng cửa vì covid-19
+267,en,vi,,,covid-19 map,bản đồ về tình hình lây nhiễm covid-19
+268,en,vi,,,covid-19 medicine,thuốc điều trị covid-19
+269,en,vi,,,covid-19 medicines,các loại thuốc điều trị covid-19
+270,en,vi,,,covid-19 news,tin tức về covid-19
+271,en,vi,,,covid-19 outbreak,sự bùng phát của covid-19
+272,en,vi,,,covid-19 pandemic,đại dịch do covid-19 gây ra
+273,en,vi,,,covid-19 panic,sự hoảng loạn vì covid-19
+275,en,vi,,,covid-19 precautions,các biện pháp phòng ngừa covid-19
+276,en,vi,,,covid-19 protection,phòng ngừa covid-19
+277,en,vi,,,covid-19 quarantine,cách ly vì covid-19
+278,en,vi,,,covid-19 SOS Alert,cảnh báo SOS về covid-19
+279,en,vi,,,covid-19 spread,sự lây lan của covid-19
+280,en,vi,,,covid-19 symptoms,các triệu chứng nhiễm covid-19
+281,en,vi,,,covid-19 transmission,sự lây truyền covid-19
+282,en,vi,,,covid-19 travel ban,lệnh cấm đi lại do covid-19
+283,en,vi,,,covid-19 travel restrictions,hạn chế đi lại do covid-19
+284,en,vi,,,covid-19 treatment,điều trị covid-19
+285,en,vi,,,covid-19 uncontrolled spread,sự lây lan covid-19 không kiểm soát
+286,en,vi,,,covid-19 vaccine,vắc-xin phòng ngừa covid-19
+287,en,vi,,,covid-19 vaccines,các loại vắc-xin phòng ngừa covid-19
+288,en,vi,,,COVID-19 virus,vi-rút covid-19
+289,en,vi,,,covid-19 virus outbreak,sự bùng phát vi-rút covid-19
+290,en,vi,,,covid-19 virus transmission,truyền vi-rút covid-19
+291,en,vi,,,covid-19 WHO,covid-19 WHO
+292,en,vi,,,covid19,covid-19
+293,en,vi,,,covid19 alert,cảnh báo về covid-19
+294,en,vi,,,covid19 cases,các ca nhiễm covid-19
+295,en,vi,,,covid19 CDC,covid-19 CDC
+301,en,vi,,,covid19 deaths,các ca tử vong do nhiễm covid-19
+302,en,vi,,,covid19 domestic travel,tình hình đi lại trong nước do covid19
+303,en,vi,,,covid19 effects,các ảnh hưởng của covid-19
+304,en,vi,,,covid19 epidemic,dịch bệnh do covid-19 gây ra
+305,en,vi,,,covid19 exposure,phơi nhiễm covid-19
+306,en,vi,,,covid19 fatal,covid-19 gây chết người
+307,en,vi,,,covid19 fever,sốt do nhiễm covid-19
+308,en,vi,,,covid19 illness,ốm do nhiễm covid-19
+309,en,vi,,,covid19 incubation,thời kỳ ủ bệnh do nhiễm covid-19
+310,en,vi,,,covid19 incubation period,thời gian ủ bệnh covid19
+311,en,vi,,,covid19 infection,sự lây nhiễm covid-19
+312,en,vi,,,covid19 international spread,sự lây lan covid19 trên toàn thế giới
+313,en,vi,,,covid19 international travel,tình hình đi lại trên toàn thế giới do covid19
+314,en,vi,,,covid19 isolation,cách ly do covid-19
+315,en,vi,,,covid19 lockdown,lệnh đóng cửa do covid-19
+316,en,vi,,,covid19 map,bản đồ về tình hình lây nhiễm covid-19
+317,en,vi,,,covid19 medicine,thuốc điều trị covid-19
+318,en,vi,,,covid19 medicines,các loại thuốc điều trị covid-19
+319,en,vi,,,covid19 news,tin tức về covid-19
+320,en,vi,,,covid19 outbreak,sự bùng phát của covid-19
+321,en,vi,,,covid19 pandemic,đại dịch covid-19
+324,en,vi,,,covid19 precautions,các biện pháp phòng ngừa covid-19
+325,en,vi,,,covid19 protection,phòng chống covid-19
+326,en,vi,,,covid19 quarantine,cách ly do covid-19
+327,en,vi,,,covid19 SOS Alert,Cảnh báo SOS về covid19
+328,en,vi,,,covid19 spread,sự lây lan covid-19
+329,en,vi,,,covid19 symptoms,các triệu chứng nhiễm covid-19
+330,en,vi,,,covid19 transmission,sự lây truyền covid-19
+331,en,vi,,,covid19 travel ban,lệnh cấm đi lại do covid19
+332,en,vi,,,covid19 travel restrictions,hạn chế đi lại do covid19
+333,en,vi,,,covid19 treatment,điều trị covid-19
+335,en,vi,,,covid19 vaccine,vắc-xin phòng ngừa covid-19
+336,en,vi,,,covid19 vaccines,các loại vắc-xin phòng ngừa covid-19
+337,en,vi,,,covid19 virus,vi-rút covid-19
+338,en,vi,,,covid19 virus outbreak,sự bùng phát vi-rút covid19
+339,en,vi,,,covid19 virus transmission,truyền vi-rút covid19
+342,en,vi,,,current outbreak,tình trạng bùng phát hiện tại
+343,en,vi,,,deadly outbreak,sự bùng phát gây chết người
+345,en,vi,,,disease outbreak,sự bùng phát dịch bệnh
+346,en,vi,,,Disposable hand sanitizer,Dung dịch rửa tay dùng một lần
+348,en,vi,,,domestic travel,đi lại trong nước
+351,en,vi,,,droplets,giọt bắn
+357,en,vi,,,Effects of coronavirus,Ảnh hưởng của vi-rút corona
+359,en,vi,,,epidemic,bệnh dịch
+360,en,vi,,,epidemic and pandemic,dịch bệnh và đại dịch
+362,en,vi,,,epidemic disease,dịch bệnh
+364,en,vi,,,epidemic outbreak,sự bùng phát của dịch bệnh
+365,en,vi,,,epidemic period,khoảng thời gian diễn ra dịch bệnh
+366,en,vi,,,epidemic prevention,phòng ngừa dịch bệnh
+368,en,vi,,,epidemic season,mùa dịch
+369,en,vi,,,epidemic situation,tình hình dịch bệnh
+371,en,vi,,,exposure,sự phơi nhiễm
+375,en,vi,,,exposure time,thời gian phơi nhiễm
+379,en,vi,,,fever,sốt
+380,en,vi,,,fight the virus,đẩy lùi vi-rút
+381,en,vi,,,Fighting the outbreak,Ngăn chặn sự bùng phát
+382,en,vi,,,flu epidemic,dịch cúm
+385,en,vi,,,fomites,vật chủ truyền bệnh
+392,en,vi,,,global health emergency,tình trạng y tế khẩn cấp toàn cầu
+393,en,vi,,,global outbreak,sự bùng phát toàn cầu
+394,en,vi,,,global pandemic,đại dịch toàn cầu
+396,en,vi,,,hand sanitizer,nước rửa tay sát khuẩn
+397,en,vi,,,hand sanitizer dispenser,ống đựng dung dịch rửa tay
+398,en,vi,,,hand sanitizer gel,gel rửa tay
+399,en,vi,,,hand sanitizer spray,xịt rửa tay
+403,en,vi,,,home isolation,sự cách ly tại nhà
+404,en,vi,,,home quarantine,cách ly tại nhà
+410,en,vi,,,illness,ốm
+415,en,vi,,,incubation period,thời gian ủ bệnh
+418,en,vi,,,infected,bị lây nhiễm
+424,en,vi,,,instant hand sanitizer,nước rửa tay nhanh
+425,en,vi,,,international spread,sự lây lan toàn cầu
+426,en,vi,,,international travel,đi lại toàn cầu
+427,en,vi,,,isolation,sự cách ly
+428,en,vi,,,isolation period,thời gian cách ly
+430,en,vi,,,isolation room,phòng cách ly
+431,en,vi,,,isolation valve,van cách ly
+432,en,vi,,,isolation ward,khu cách ly
+434,en,vi,,,lockdown,lệnh đóng cửa
+438,en,vi,,,major outbreak,sự bùng phát trên diện rộng
+439,en,vi,,,mandatory quarantine,cách ly bắt buộc
+440,en,vi,,,mass gathering,tụ tập đám đông
+444,en,vi,,,medicine,thuốc
+445,en,vi,,,medicines,các loại thuốc
+448,en,vi,,,n95,n95
+449,en,vi,,,n95 mask,khẩu trang n95
+450,en,vi,,,n95 respirator,khẩu trang bảo vệ hệ hô hấp n95
+451,en,vi,,,ncov,ncov
+452,en,vi,,,ncov-2019,ncov-2019
+453,en,vi,,,new coronavirus,vi-rút corona mới
+454,en,vi,,,new coronavirus pneumonia,viêm phổi do vi-rút corona mới
+460,en,vi,,,novel coronavirus,vi-rút corona chủng mới
+462,en,vi,,,novel coronavirus infection,lây nhiễm vi-rút corona mới
+463,en,vi,,,novel coronavirus outbreak,sự bùng phát vi-rút corona mới
+464,en,vi,,,novel coronavirus pneumonia,viêm phổi do vi-rút corona mới
+470,en,vi,,,ongoing outbreak,sự bùng phát đang diễn ra
+472,en,vi,,,outbreak,sự bùng phát
+474,en,vi,,,outbreak of coronavirus,sự bùng phát của vi-rút corona
+475,en,vi,,,outbreak of disease,sự bùng phát dịch bệnh
+482,en,vi,,,pandemic,đại dịch
+485,en,vi,,,pandemic influenza,đại dịch cúm
+486,en,vi,,,pandemic outbreak,sự bùng phát đại dịch
+487,en,vi,,,pandemic plan,kế hoạch ứng phó đại dịch
+488,en,vi,,,pandemic potential,nguy cơ đại dịch
+495,en,vi,,,pneumonia,viêm phổi
+496,en,vi,,,pneumonia epidemic,dịch viêm phổi
+497,en,vi,,,potential exposure,có khả năng tiếp xúc
+498,en,vi,,,precautions,các biện pháp phòng ngừa
+499,en,vi,,,prevent virus,ngăn chặn vi-rút
+500,en,vi,,,prolonged exposure,tiếp xúc lâu dài
+504,en,vi,,,quarantine,cách ly
+505,en,vi,,,quarantine area,khu vực cách ly
+506,en,vi,,,quarantine facility,cơ sở cách ly
+507,en,vi,,,quarantine measures,biện pháp cách ly
+508,en,vi,,,quarantine period,thời gian cách ly
+509,en,vi,,,quarantine room,phòng cách ly
+510,en,vi,,,quarantine zone,vùng cách ly
+512,en,vi,,,Recovered coronavirus patient,Bệnh nhân nhiễm vi-rút corona đã hồi phục
+514,en,vi,,,repatriate,trở về nước
+515,en,vi,,,repeated exposure,tiếp xúc thường xuyên
+516,en,vi,,,respiratory syncytial virus,vi-rút thể hợp bào gây bệnh lý hô hấp
+517,en,vi,,,respiratory virus,vi-rút đường hô hấp
+519,en,vi,,,Sanitizing hand sanitizer,Dung dịch rửa tay diệt khuẩn
+520,en,vi,,,SARS-CoV-2,SARS-CoV-2
+521,en,vi,,,self isolation,tự cô lập
+522,en,vi,,,self quarantine,tự cách ly
+523,en,vi,,,Severe outbreak,Sự bùng phát nghiêm trọng
+525,en,vi,,,social distancing,hạn chế tiếp xúc xã hội
+526,en,vi,,,social distancing measures,Các biện pháp hạn chế tiếp xúc xã hội
+527,en,vi,,,social isolation,cách ly xã hội
+528,en,vi,,,SOS Alert,Cảnh báo SOS
+529,en,vi,,,spread,lây lan
+530,en,vi,,,spread of coronavirus,Sự lây lan của vi-rút corona
+531,en,vi,,,spread of virus,sự lây lan vi-rút
+535,en,vi,,,strain of virus,chủng của vi-rút
+541,en,vi,,,the incubation period,thời gian ủ bệnh
+544,en,vi,,,the novel coronavirus,vi-rút corona mới
+558,en,vi,,,touching face,chạm vào mặt
+559,en,vi,,,travel advisory,cảnh báo đi lại
+560,en,vi,,,travel ban,lệnh cấm đi lại
+561,en,vi,,,travel restrictions,các hạn chế đi lại
+565,en,vi,,,use hand sanitizer,dùng nước rửa tay
+566,en,vi,,,vaccines,vắc-xin
+567,en,vi,,,viral outbreak,sự bùng phát vi-rút
+568,en,vi,,,virtual lockdown,lệnh đóng cửa gần như hoàn toàn
+569,en,vi,,,virus,vi-rút
+570,en,vi,,,virus carrier,người mang vi-rút
+573,en,vi,,,virus infection,lây nhiễm vi-rút
+575,en,vi,,,virus mask,mặt nạ phòng vi-rút
+576,en,vi,,,virus outbreak,bùng phát vi-rút
+577,en,vi,,,virus prevention,ngăn chặn vi-rút
+578,en,vi,,,virus protection,phòng ngừa vi-rút
+580,en,vi,,,virus spread,sự lây lan vi-rút
+582,en,vi,,,virus spreads,vi-rút lây lan
+583,en,vi,,,virus strain,chủng vi-rút
+584,en,vi,,,virus transmission,sự truyền vi-rút
+586,en,vi,,,wash your hands,rửa tay
+587,en,vi,,,washing hands,rửa tay
+589,en,vi,,,WHO,WHO
+590,en,vi,,,WHO Confirmed,WHO đã xác nhận
+591,en,vi,,,WHO Deaths,Số ca tử vong theo WHO
+592,en,vi,,,widespread outbreak,sự bùng phát rộng khắp
+597,en,vi,,,World Health Organization,Tổ chức Y tế Thế giới
+600,en,vi,,,zoonotic disease,bệnh do động vật truyền sang người
+601,en,vi,,,zoonotic virus,vi-rút truyền từ động vật sang người

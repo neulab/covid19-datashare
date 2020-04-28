@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,ro,,,14 days in isolation,14 zile în izolare
+26,en,ro,,,14 days quarantine,carantină 14 zile
+27,en,ro,,,2019 coronavirus,coronavirus 2019
+28,en,ro,,,2019 novel coronavirus,coronavirus nou 2019
+29,en,ro,,,2019-nCoV,2019-nCoV
+30,en,ro,,,2020 coronavirus,coronavirus 2020
+31,en,ro,,,2020 novel coronavirus,coronavirus nou 2020
+33,en,ro,,,about coronavirus,despre coronavirus
+39,en,ro,,,acute respiratory distress syndrome,sindromul de insuficiență respiratorie acută
+40,en,ro,,,advanced hand sanitizer,dezinfectant mâini performant
+41,en,ro,,,Affected by coronavirus,Afectat de coronavirus
+42,en,ro,,,after exposure,după expunere
+43,en,ro,,,After the epidemic,După epidemie
+44,en,ro,,,After the outbreak,După izbucnirea epidemiei
+47,en,ro,,,airborne virus,virus transmis prin aer
+48,en,ro,,,alcohol based hand sanitizer,dezinfectant pentru mâini pe bază de alcool
+49,en,ro,,,alcohol hand sanitizer,dezinfectant cu alcool pentru mâini
+51,en,ro,,,alcohol-based hand sanitizer,dezinfectant pentru mâini pe bază de alcool
+59,en,ro,,,Anti-Corona virus spray,Spray anti-coronavirus
+60,en,ro,,,antibacterial hand sanitizer,dezinfectant pentru mâini antibacterian
+61,en,ro,,,ARDS,SDRA
+64,en,ro,,,avoid exposure,evitați expunerea
+65,en,ro,,,be infected,a fi infectat
+75,en,ro,,,Beware of coronavirus,Feriți-vă de virus
+76,en,ro,,,bilateral interstitial pneumonia,pneumonie bilaterală interstițială
+77,en,ro,,,CDC,CDC
+78,en,ro,,,Center for Disease Control,Centrul pentru Prevenirea și Controlul Bolilor
+83,en,ro,,,community spread,răspândire în comunitate
+84,en,ro,,,compulsory quarantine,carantină impusă
+85,en,ro,,,contagious,contagios
+135,en,ro,,,coronavirus,coronavirus
+136,en,ro,,,coronavirus (COVID-19),coronavirus (COVID-19)
+137,en,ro,,,coronavirus alert,coronavirus alertă
+139,en,ro,,,coronavirus cases,cazuri de coronavirus
+141,en,ro,,,coronavirus concerns,coronavirus preocupări
+143,en,ro,,,coronavirus crisis,coronavirus criză
+149,en,ro,,,coronavirus disease,coronavirus boală
+150,en,ro,,,Coronavirus disease (COVID-19) outbreak,Izbucnirea bolii de Coronavirus (COVID-19)
+153,en,ro,,,coronavirus early symptoms,coronavirus prime simptome
+155,en,ro,,,coronavirus epidemic,coronavirus epidemie
+156,en,ro,,,coronavirus exposure,coronavirus expunere
+161,en,ro,,,coronavirus incubation,coronavirus incubație
+162,en,ro,,,coronavirus incubation period,coronavirus perioadă incubație
+163,en,ro,,,coronavirus infection,coronavirus infecție
+168,en,ro,,,coronavirus map,hartă coronavirus
+170,en,ro,,,coronavirus medicine,medicament coronavirus
+171,en,ro,,,coronavirus medicines,medicamente coronavirus
+172,en,ro,,,coronavirus news,știri coronavirus
+173,en,ro,,,coronavirus outbreak,coronavirus epidemie
+174,en,ro,,,coronavirus pandemic,pandemie de coronavirus
+176,en,ro,,,coronavirus pneumonia,pneumonie coronavirus
+177,en,ro,,,coronavirus precautions,coronavirus precauții
+178,en,ro,,,coronavirus prevention,coronavirus prevenție
+179,en,ro,,,coronavirus protection,coronavirus protecție
+180,en,ro,,,coronavirus quarantine,coronavirus carantină
+182,en,ro,,,coronavirus SOS Alert,coronavirus Alertă SOS
+183,en,ro,,,coronavirus spread,coronavirus răspândire
+184,en,ro,,,coronavirus symptoms,coronavirus simptome
+185,en,ro,,,coronavirus transmission,transmitere coronavirus
+186,en,ro,,,coronavirus travel ban,coronavirus interdicție de călătorie
+187,en,ro,,,coronavirus travel restrictions,coronavirus restricții de călătorie
+188,en,ro,,,coronavirus treatment,tratament coronavirus
+190,en,ro,,,coronavirus update,noutăți coronavirus
+191,en,ro,,,coronavirus vaccine,vaccin coronavirus
+192,en,ro,,,coronavirus vaccines,vaccinuri coronavirus
+198,en,ro,,,covid cases,covid cazuri
+205,en,ro,,,covid early symptoms,covid primele simptome
+213,en,ro,,,covid incubation period,covid perioadă de incubație
+215,en,ro,,,covid international spread,covid răspândire internațională
+216,en,ro,,,covid international travel,covid călătorie internațională
+217,en,ro,,,covid isolation,covid izolare
+219,en,ro,,,covid map,hartă covid
+220,en,ro,,,covid medicine,medicament covid
+221,en,ro,,,covid medicines,medicamente covid
+222,en,ro,,,covid news,știri covid
+223,en,ro,,,covid outbreak,covid epidemie
+224,en,ro,,,covid pandemic,covid pandemie
+225,en,ro,,,covid panic,covid panică
+228,en,ro,,,covid SOS Alert,covid Alertă SOS
+230,en,ro,,,covid symptoms,covid simptome
+231,en,ro,,,covid transmission,transmitere covid
+232,en,ro,,,covid travel ban,covid interdicție de călătorie
+233,en,ro,,,covid travel restrictions,covid restricții de călătorie
+234,en,ro,,,covid treatment,tratament covid
+236,en,ro,,,covid vaccine,vaccin covid
+237,en,ro,,,covid vaccines,vaccinuri covid
+242,en,ro,,,covid-19,covid-19
+243,en,ro,,,covid-19 alert,covid-19 alertă
+244,en,ro,,,covid-19 cases,covid-19 cazuri
+245,en,ro,,,covid-19 CDC,covid-19 CDC
+246,en,ro,,,covid-19 contagious,covid-19 contagios
+247,en,ro,,,covid-19 cure,covid-19 remediu
+248,en,ro,,,covid-19 dangerous,covid-19 periculos
+249,en,ro,,,covid-19 deadly,covid-19 letal
+250,en,ro,,,covid-19 death,covid-19 moarte
+251,en,ro,,,covid-19 deaths,covid-19 decese
+252,en,ro,,,covid-19 domestic travel,covid-19 călătorie locală
+253,en,ro,,,covid-19 early symptoms,covid-19 primele simptome
+254,en,ro,,,covid-19 effects,covid-19 efecte
+255,en,ro,,,covid-19 epidemic,covid-19 epidemie
+256,en,ro,,,covid-19 exposure,covid-19 expunere
+257,en,ro,,,covid-19 fatal,covid-19 mortal
+258,en,ro,,,covid-19 fever,covid-19 febră
+259,en,ro,,,covid-19 illness,covid-19 boală
+260,en,ro,,,covid-19 incubation,covid-19 incubație
+261,en,ro,,,covid-19 incubation period,covid-19 perioadă de incubație
+262,en,ro,,,covid-19 infection,covid-19 infecție
+263,en,ro,,,covid-19 international spread,covid-19 răspândire internațională
+264,en,ro,,,covid-19 international travel,covid-19 călătorie internațională
+265,en,ro,,,covid-19 isolation,covid-19 izolare
+266,en,ro,,,covid-19 lockdown,covid-19 carantină
+267,en,ro,,,covid-19 map,hartă covid-19
+268,en,ro,,,covid-19 medicine,medicament covid-19
+269,en,ro,,,covid-19 medicines,medicamente covid-19
+270,en,ro,,,covid-19 news,știri covid-19
+271,en,ro,,,covid-19 outbreak,covid-19 epidemie
+272,en,ro,,,covid-19 pandemic,covid-19 pandemie
+273,en,ro,,,covid-19 panic,covid-19 panică
+275,en,ro,,,covid-19 precautions,covid-19 precauții
+276,en,ro,,,covid-19 protection,covid-19 protecție
+277,en,ro,,,covid-19 quarantine,covid-19 carantină
+278,en,ro,,,covid-19 SOS Alert,covid-19 Alertă SOS
+279,en,ro,,,covid-19 spread,covid-19 răspândire
+280,en,ro,,,covid-19 symptoms,covid-19 simptome
+281,en,ro,,,covid-19 transmission,transmitere covid-19
+282,en,ro,,,covid-19 travel ban,covid-19 interdicție de călătorie
+283,en,ro,,,covid-19 travel restrictions,covid-19 restricții de călătorie
+284,en,ro,,,covid-19 treatment,tratament covid-19
+285,en,ro,,,covid-19 uncontrolled spread,covid-19 răspândire necontrolată
+286,en,ro,,,covid-19 vaccine,vaccin covid-19
+287,en,ro,,,covid-19 vaccines,vaccinuri covid-19
+288,en,ro,,,COVID-19 virus,covid-19 virus
+289,en,ro,,,covid-19 virus outbreak,epidemie de virus covid-19
+290,en,ro,,,covid-19 virus transmission,transmitere virus covid-19
+291,en,ro,,,covid-19 WHO,covid-19 OMS
+292,en,ro,,,covid19,covid19
+293,en,ro,,,covid19 alert,covid19 alertă
+294,en,ro,,,covid19 cases,cazuri covid19
+295,en,ro,,,covid19 CDC,covid19 CDC
+301,en,ro,,,covid19 deaths,covid19 decese
+302,en,ro,,,covid19 domestic travel,covid19 călătorie locală
+303,en,ro,,,covid19 effects,covid19 efecte
+304,en,ro,,,covid19 epidemic,covid19 epidemie
+305,en,ro,,,covid19 exposure,covid19 expunere
+306,en,ro,,,covid19 fatal,covid19 mortal
+307,en,ro,,,covid19 fever,covid19 febră
+308,en,ro,,,covid19 illness,covid19 boală
+309,en,ro,,,covid19 incubation,covid19 incubație
+310,en,ro,,,covid19 incubation period,covid19 perioadă de incubație
+311,en,ro,,,covid19 infection,covid19 infecție
+312,en,ro,,,covid19 international spread,covid19 răspândire internațională
+313,en,ro,,,covid19 international travel,covid19 călătorie internațională
+314,en,ro,,,covid19 isolation,covid19 izolare
+315,en,ro,,,covid19 lockdown,covid19 carantină
+316,en,ro,,,covid19 map,hartă covid19
+317,en,ro,,,covid19 medicine,medicament covid19
+318,en,ro,,,covid19 medicines,medicamente covid19
+319,en,ro,,,covid19 news,știri covid19
+320,en,ro,,,covid19 outbreak,covid19 epidemie
+321,en,ro,,,covid19 pandemic,covid19 pandemie
+324,en,ro,,,covid19 precautions,covid19 precauții
+325,en,ro,,,covid19 protection,covid19 protecție
+326,en,ro,,,covid19 quarantine,carantină covid19
+327,en,ro,,,covid19 SOS Alert,covid19 Alertă SOS
+328,en,ro,,,covid19 spread,covid19 răspândire
+329,en,ro,,,covid19 symptoms,covid19 simptome
+330,en,ro,,,covid19 transmission,transmitere covid19
+331,en,ro,,,covid19 travel ban,covid19 interdicție de călătorie
+332,en,ro,,,covid19 travel restrictions,covid19 restricții de călătorie
+333,en,ro,,,covid19 treatment,tratament covid19
+335,en,ro,,,covid19 vaccine,vaccin covid19
+336,en,ro,,,covid19 vaccines,vaccinuri covid19
+337,en,ro,,,covid19 virus,virus covid19
+338,en,ro,,,covid19 virus outbreak,epidemie de virus covid19
+339,en,ro,,,covid19 virus transmission,transmitere virus covid19
+342,en,ro,,,current outbreak,epidemie actuală
+343,en,ro,,,deadly outbreak,epidemie letală
+345,en,ro,,,disease outbreak,izbucnire epidemie boală
+346,en,ro,,,Disposable hand sanitizer,Dezinfectant pentru mâini de unică folosință
+348,en,ro,,,domestic travel,călătorie locală
+351,en,ro,,,droplets,stropi
+357,en,ro,,,Effects of coronavirus,Efectele coronavirusului
+359,en,ro,,,epidemic,epidemie
+360,en,ro,,,epidemic and pandemic,epidemie și pandemie
+362,en,ro,,,epidemic disease,boală epidemică
+364,en,ro,,,epidemic outbreak,răspândire epidemie
+365,en,ro,,,epidemic period,perioadă epidemie
+366,en,ro,,,epidemic prevention,prevenție epidemie
+368,en,ro,,,epidemic season,sezon epidemic
+369,en,ro,,,epidemic situation,situație epidemică
+371,en,ro,,,exposure,expunere
+375,en,ro,,,exposure time,timp de expunere
+379,en,ro,,,fever,febră
+380,en,ro,,,fight the virus,luptați contra virusului
+381,en,ro,,,Fighting the outbreak,Combaterea epidemiei
+382,en,ro,,,flu epidemic,epidemie de gripă
+385,en,ro,,,fomites,obiecte contaminate
+392,en,ro,,,global health emergency,urgență de sănătate globală
+393,en,ro,,,global outbreak,izbucnire globală epidemie
+394,en,ro,,,global pandemic,pandemie globală
+396,en,ro,,,hand sanitizer,dezinfectant mâini
+397,en,ro,,,hand sanitizer dispenser,dozator cu dezinfectant pentru mâini
+398,en,ro,,,hand sanitizer gel,gel dezinfectant pentru mâini
+399,en,ro,,,hand sanitizer spray,spray dezinfectant pentru mâini
+403,en,ro,,,home isolation,izolare acasă
+404,en,ro,,,home quarantine,carantină acasă
+410,en,ro,,,illness,boală
+415,en,ro,,,incubation period,perioadă incubație
+418,en,ro,,,infected,infectat
+424,en,ro,,,instant hand sanitizer,dezinfectant pentru mâini instantaneu
+425,en,ro,,,international spread,răspândire internațională
+426,en,ro,,,international travel,deplasare internațională
+427,en,ro,,,isolation,izolare
+428,en,ro,,,isolation period,perioadă de izolare
+430,en,ro,,,isolation room,cameră izolare
+431,en,ro,,,isolation valve,valvă izolare
+432,en,ro,,,isolation ward,secție izolare
+434,en,ro,,,lockdown,carantină
+438,en,ro,,,major outbreak,izbucnire majoră epidemie
+439,en,ro,,,mandatory quarantine,carantină obligatorie
+440,en,ro,,,mass gathering,adunare în masă
+444,en,ro,,,medicine,medicament
+445,en,ro,,,medicines,medicamente
+448,en,ro,,,n95,n95
+449,en,ro,,,n95 mask,mască n95
+450,en,ro,,,n95 respirator,respirator n95
+451,en,ro,,,ncov,ncov
+452,en,ro,,,ncov-2019,ncov-2019
+453,en,ro,,,new coronavirus,noul coronavirus
+454,en,ro,,,new coronavirus pneumonia,pneumonie noul coronavirus
+460,en,ro,,,novel coronavirus,coronavirus nou
+462,en,ro,,,novel coronavirus infection,infecție cu noul coronavirus
+463,en,ro,,,novel coronavirus outbreak,epidemie de noul coronavirus
+464,en,ro,,,novel coronavirus pneumonia,pneumonie cauzată de noul coronavirus
+470,en,ro,,,ongoing outbreak,epidemie în desfășurare
+472,en,ro,,,outbreak,epidemie
+474,en,ro,,,outbreak of coronavirus,izbucnirea virusului
+475,en,ro,,,outbreak of disease,epidemie de boală
+482,en,ro,,,pandemic,pandemic
+485,en,ro,,,pandemic influenza,pandemie influenza
+486,en,ro,,,pandemic outbreak,izbucnire pandemie
+487,en,ro,,,pandemic plan,plan de pandemie
+488,en,ro,,,pandemic potential,potențial pandemie
+495,en,ro,,,pneumonia,pneumonie
+496,en,ro,,,pneumonia epidemic,pneumonie epidemie
+497,en,ro,,,potential exposure,expunere posibilă
+498,en,ro,,,precautions,precauții
+499,en,ro,,,prevent virus,prevenire virus
+500,en,ro,,,prolonged exposure,expunere prelungită
+504,en,ro,,,quarantine,carantină
+505,en,ro,,,quarantine area,regiune carantină
+506,en,ro,,,quarantine facility,unitate carantină
+507,en,ro,,,quarantine measures,măsuri carantină
+508,en,ro,,,quarantine period,perioadă carantină
+509,en,ro,,,quarantine room,sală carantină
+510,en,ro,,,quarantine zone,zonă carantină
+512,en,ro,,,Recovered coronavirus patient,Pacient cu coronavirus recuperat
+514,en,ro,,,repatriate,repatriez
+515,en,ro,,,repeated exposure,expunere repetată
+516,en,ro,,,respiratory syncytial virus,virus respirator sincițial
+517,en,ro,,,respiratory virus,virus respirator
+519,en,ro,,,Sanitizing hand sanitizer,Dezinfectare cu dezinfectant pentru mâini
+520,en,ro,,,SARS-CoV-2,SARS-CoV-2
+521,en,ro,,,self isolation,autoizolare
+522,en,ro,,,self quarantine,carantină autoimpusă
+523,en,ro,,,Severe outbreak,Izbucnire gravă epidemie
+525,en,ro,,,social distancing,distanțare socială
+526,en,ro,,,social distancing measures,măsuri de distanțare socială
+527,en,ro,,,social isolation,izolare socială
+528,en,ro,,,SOS Alert,Alertă SOS
+529,en,ro,,,spread,răspândire
+530,en,ro,,,spread of coronavirus,răspândirea coronavirusului
+531,en,ro,,,spread of virus,răspândirea virusului
+535,en,ro,,,strain of virus,tulpină de virus
+541,en,ro,,,the incubation period,perioadă de incubație
+544,en,ro,,,the novel coronavirus,noul coronavirus
+558,en,ro,,,touching face,atingerea feței
+559,en,ro,,,travel advisory,sfaturi de călătorie
+560,en,ro,,,travel ban,interdicție de călătorie
+561,en,ro,,,travel restrictions,restricții de călătorie
+565,en,ro,,,use hand sanitizer,folosiți dezinfectant pentru mâini
+566,en,ro,,,vaccines,vaccinuri
+567,en,ro,,,viral outbreak,epidemie virală
+568,en,ro,,,virtual lockdown,izolare virtuală
+569,en,ro,,,virus,virus
+570,en,ro,,,virus carrier,purtător de virus
+573,en,ro,,,virus infection,infecție virus
+575,en,ro,,,virus mask,virus mască
+576,en,ro,,,virus outbreak,epidemie virus
+577,en,ro,,,virus prevention,prevenire virus
+578,en,ro,,,virus protection,protecție contra virus
+580,en,ro,,,virus spread,răspândire virus
+582,en,ro,,,virus spreads,virusul se răspândește
+583,en,ro,,,virus strain,tulpină de virus
+584,en,ro,,,virus transmission,transmiterea virusului
+586,en,ro,,,wash your hands,spălați-vă pe mâini
+587,en,ro,,,washing hands,spălarea mâinilor
+589,en,ro,,,WHO,OMS
+590,en,ro,,,WHO Confirmed,Confirmat de OMS
+591,en,ro,,,WHO Deaths,OMS Decese
+592,en,ro,,,widespread outbreak,izbucnire epidemie la scară largă
+597,en,ro,,,World Health Organization,Organizația Mondială a Sănătății
+600,en,ro,,,zoonotic disease,boală zoonotică
+601,en,ro,,,zoonotic virus,virus zoonotic

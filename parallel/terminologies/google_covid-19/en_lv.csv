@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,lv,,,14 days in isolation,14 dienas izolācijā
+26,en,lv,,,14 days quarantine,14 dienu karantīna
+27,en,lv,,,2019 coronavirus,2019. gada koronavīruss
+28,en,lv,,,2019 novel coronavirus,2019. gada jaunais koronavīruss
+29,en,lv,,,2019-nCoV,2019-nCoV
+30,en,lv,,,2020 coronavirus,2020. gada koronavīruss
+31,en,lv,,,2020 novel coronavirus,2020. gada jaunais koronavīruss
+33,en,lv,,,about coronavirus,par koronavīrusu
+39,en,lv,,,acute respiratory distress syndrome,akūts respiratorā distresa sindroms
+40,en,lv,,,advanced hand sanitizer,uzlabots roku dezinfekcijas līdzeklis
+41,en,lv,,,Affected by coronavirus,Koronavīrusa ietekme
+42,en,lv,,,after exposure,pēc iedarbības
+43,en,lv,,,After the epidemic,Pēc epidēmijas
+44,en,lv,,,After the outbreak,Pēc uzliesmojuma
+47,en,lv,,,airborne virus,gaisā pārnēsāts vīruss
+48,en,lv,,,alcohol based hand sanitizer,spirta bāzes roku dezinfekcijas līdzeklis
+49,en,lv,,,alcohol hand sanitizer,spirta roku dezinfekcijas līdzeklis
+51,en,lv,,,alcohol-based hand sanitizer,spirta bāzes roku dezinfekcijas līdzeklis
+59,en,lv,,,Anti-Corona virus spray,Izsmidzināms korona vīrusa pretlīdzeklis
+60,en,lv,,,antibacterial hand sanitizer,antibakteriāls roku dezinfekcijas līdzeklis
+61,en,lv,,,ARDS,ARDS
+64,en,lv,,,avoid exposure,izvairīties no iedarbības
+65,en,lv,,,be infected,būt inficētam
+75,en,lv,,,Beware of coronavirus,Uzmanīties no koronavīrusa
+76,en,lv,,,bilateral interstitial pneumonia,abpusēja intersticiāla pneimonija
+77,en,lv,,,CDC,CDC
+78,en,lv,,,Center for Disease Control,Slīmību kontroles centrs
+83,en,lv,,,community spread,izplatība sabiedrībā
+84,en,lv,,,compulsory quarantine,obligāta karantīna
+85,en,lv,,,contagious,infekciozs
+135,en,lv,,,coronavirus,koronavīruss
+136,en,lv,,,coronavirus (COVID-19),koronavīruss (COVID-19)
+137,en,lv,,,coronavirus alert,koronavīrusa brīdinājums
+139,en,lv,,,coronavirus cases,koronavīrusa gadījumi
+141,en,lv,,,coronavirus concerns,koronavīruss bažas
+143,en,lv,,,coronavirus crisis,koronavīrusa krīze
+149,en,lv,,,coronavirus disease,koronavīrusa slimība
+150,en,lv,,,Coronavirus disease (COVID-19) outbreak,Koronavīrusa slimības (COVID-19) uzliesmojums
+153,en,lv,,,coronavirus early symptoms,koronavīrusa agrīnie simptomi
+155,en,lv,,,coronavirus epidemic,koronavīrusa epidēmija
+156,en,lv,,,coronavirus exposure,koronavīrusa iedarbība
+161,en,lv,,,coronavirus incubation,koronavīrusa inkubācija
+162,en,lv,,,coronavirus incubation period,koronavīrusa inkubācijas periods
+163,en,lv,,,coronavirus infection,koronavīrusa infekcija
+168,en,lv,,,coronavirus map,koronavīrusa karte
+170,en,lv,,,coronavirus medicine,koronavīruss medicīna
+171,en,lv,,,coronavirus medicines,koronavīruss zāles
+172,en,lv,,,coronavirus news,koronavīruss ziņas
+173,en,lv,,,coronavirus outbreak,koronovīrusa uzliesmojums
+174,en,lv,,,coronavirus pandemic,koronavīrusa pandēmija
+176,en,lv,,,coronavirus pneumonia,koronavīrusa pneimonija
+177,en,lv,,,coronavirus precautions,koronavīruss piesardzības pasākumi
+178,en,lv,,,coronavirus prevention,koronavīruss novēršana
+179,en,lv,,,coronavirus protection,koronavīruss aizsardzība
+180,en,lv,,,coronavirus quarantine,koronavīruss karantīna
+182,en,lv,,,coronavirus SOS Alert,koronavīruss SOS brīdinājums
+183,en,lv,,,coronavirus spread,koronavīrusa izplatība
+184,en,lv,,,coronavirus symptoms,koronavīrusa simptomi
+185,en,lv,,,coronavirus transmission,koronavīrusa transmisija
+186,en,lv,,,coronavirus travel ban,koronavīrusa ceļošanas aizliegums
+187,en,lv,,,coronavirus travel restrictions,koronavīrusa ceļošanas ierobežojumi
+188,en,lv,,,coronavirus treatment,koronavīrusa ārstēšana
+190,en,lv,,,coronavirus update,koronavīruss jaunumi
+191,en,lv,,,coronavirus vaccine,koronavīrusa vakcīna
+192,en,lv,,,coronavirus vaccines,koronavīrusa vakcīnas
+198,en,lv,,,covid cases,covid gadījumi
+205,en,lv,,,covid early symptoms,covid agrīnie simptomi
+213,en,lv,,,covid incubation period,covid inkubācijas periods
+215,en,lv,,,covid international spread,covid starptautiska izplatība
+216,en,lv,,,covid international travel,covid starptautiski ceļojumi
+217,en,lv,,,covid isolation,covid izolācija
+219,en,lv,,,covid map,covid karte
+220,en,lv,,,covid medicine,covide medicīna
+221,en,lv,,,covid medicines,covid zāles
+222,en,lv,,,covid news,covid ziņas
+223,en,lv,,,covid outbreak,covid uzliesmojums
+224,en,lv,,,covid pandemic,covid pandēmija
+225,en,lv,,,covid panic,covid panika
+228,en,lv,,,covid SOS Alert,covid SOS brīdinājums
+230,en,lv,,,covid symptoms,covid simptomi
+231,en,lv,,,covid transmission,covid transmisija
+232,en,lv,,,covid travel ban,covid ceļošanas aizliegums
+233,en,lv,,,covid travel restrictions,covid ceļošanas ierobežojumi
+234,en,lv,,,covid treatment,covid ārstēšana
+236,en,lv,,,covid vaccine,covid vakcīna
+237,en,lv,,,covid vaccines,covid vakcīnas
+242,en,lv,,,covid-19,covid-19
+243,en,lv,,,covid-19 alert,covid-19 brīdinājums
+244,en,lv,,,covid-19 cases,covid-19 gadījumi
+245,en,lv,,,covid-19 CDC,covid-19 CDC
+246,en,lv,,,covid-19 contagious,covid-19 infekciozs
+247,en,lv,,,covid-19 cure,covid-19 izveseļošanās līdzeklis
+248,en,lv,,,covid-19 dangerous,covid-19 bīstams
+249,en,lv,,,covid-19 deadly,covid-19 nāvējošs
+250,en,lv,,,covid-19 death,covid-19 nāve
+251,en,lv,,,covid-19 deaths,covid-19 nāves
+252,en,lv,,,covid-19 domestic travel,covid-19 iekšzemes ceļojumi
+253,en,lv,,,covid-19 early symptoms,covid-19 agrīnie simptomi
+254,en,lv,,,covid-19 effects,covid-19 ietekme
+255,en,lv,,,covid-19 epidemic,covid-19 epidēmija
+256,en,lv,,,covid-19 exposure,covid-19 iedarbība
+257,en,lv,,,covid-19 fatal,covid-19 letāls
+258,en,lv,,,covid-19 fever,covid-19 drudzis
+259,en,lv,,,covid-19 illness,covid-19 slimība
+260,en,lv,,,covid-19 incubation,covid-19 inkubācija
+261,en,lv,,,covid-19 incubation period,covid-19 inkubācijas periods
+262,en,lv,,,covid-19 infection,covid-19 infekcija
+263,en,lv,,,covid-19 international spread,covid-19 starptautiska izplatība
+264,en,lv,,,covid-19 international travel,covid-19 starptautiski ceļojumi
+265,en,lv,,,covid-19 isolation,covid-19 izolācija
+266,en,lv,,,covid-19 lockdown,covid-19 blokāde
+267,en,lv,,,covid-19 map,covid-19 karte
+268,en,lv,,,covid-19 medicine,covid-19 medicīna
+269,en,lv,,,covid-19 medicines,covid-19 zāles
+270,en,lv,,,covid-19 news,covid-19 ziņas
+271,en,lv,,,covid-19 outbreak,covid-19 uzliesmojums
+272,en,lv,,,covid-19 pandemic,covid-19 pandēmija
+273,en,lv,,,covid-19 panic,covid-19 panika
+275,en,lv,,,covid-19 precautions,covid-19 piesardzības pasākumi
+276,en,lv,,,covid-19 protection,covid-19 aizsardzība
+277,en,lv,,,covid-19 quarantine,covid-19 karantīna
+278,en,lv,,,covid-19 SOS Alert,covid-19 SOS brīdinājums
+279,en,lv,,,covid-19 spread,covid-19 izplatība
+280,en,lv,,,covid-19 symptoms,covid-19 simptomi
+281,en,lv,,,covid-19 transmission,covid-19 transmisija
+282,en,lv,,,covid-19 travel ban,covid-19 ceļošanas aizliegums
+283,en,lv,,,covid-19 travel restrictions,covid-19 ceļošanas ierobežojumi
+284,en,lv,,,covid-19 treatment,covid-19 ārstēšana
+285,en,lv,,,covid-19 uncontrolled spread,covid-19 nekontrolēta izplatība
+286,en,lv,,,covid-19 vaccine,covid-19 vakcīna
+287,en,lv,,,covid-19 vaccines,covid-19 vakcīnas
+288,en,lv,,,COVID-19 virus,covid-19 vīruss
+289,en,lv,,,covid-19 virus outbreak,covid-19 vīrusa uzliesmojums
+290,en,lv,,,covid-19 virus transmission,covid-19 vīrusa transmisija
+291,en,lv,,,covid-19 WHO,covid-19 PVO
+292,en,lv,,,covid19,covid19
+293,en,lv,,,covid19 alert,covid19 brīdinājums
+294,en,lv,,,covid19 cases,covid19 gadījumi
+295,en,lv,,,covid19 CDC,covid19 CDC
+301,en,lv,,,covid19 deaths,covid19 nāves
+302,en,lv,,,covid19 domestic travel,codi19 iekšzemes ceļojumi
+303,en,lv,,,covid19 effects,covid19 ietekme
+304,en,lv,,,covid19 epidemic,covid19 epidēmija
+305,en,lv,,,covid19 exposure,covid19 iedarbība
+306,en,lv,,,covid19 fatal,covid19 letāls
+307,en,lv,,,covid19 fever,covid19 drudzis
+308,en,lv,,,covid19 illness,covid19 slimība
+309,en,lv,,,covid19 incubation,covid19 inkubācija
+310,en,lv,,,covid19 incubation period,covid19 inkubācijas periods
+311,en,lv,,,covid19 infection,covid19 infekcija
+312,en,lv,,,covid19 international spread,covid19 starptautiska izplatība
+313,en,lv,,,covid19 international travel,covid19 starptautiski ceļojumi
+314,en,lv,,,covid19 isolation,covid19 izolācija
+315,en,lv,,,covid19 lockdown,cvid19 blokāde
+316,en,lv,,,covid19 map,covid19 karte
+317,en,lv,,,covid19 medicine,covid19 medicīna
+318,en,lv,,,covid19 medicines,covid19 zāles
+319,en,lv,,,covid19 news,covid19 ziņas
+320,en,lv,,,covid19 outbreak,covid19 uzliesmojums
+321,en,lv,,,covid19 pandemic,covid19 pandēmija
+324,en,lv,,,covid19 precautions,covid19 piesardzības pasākumi
+325,en,lv,,,covid19 protection,covid19 aizsardzība
+326,en,lv,,,covid19 quarantine,covid19 karantīna
+327,en,lv,,,covid19 SOS Alert,covid19 SOS brīdinājums
+328,en,lv,,,covid19 spread,covid19 izplatība
+329,en,lv,,,covid19 symptoms,covid19 simptomi
+330,en,lv,,,covid19 transmission,covid19 transmisija
+331,en,lv,,,covid19 travel ban,covid19 ceļošanas aizliegums
+332,en,lv,,,covid19 travel restrictions,covid19 ceļošanas ierobežojumi
+333,en,lv,,,covid19 treatment,covid19 ārstēšana
+335,en,lv,,,covid19 vaccine,covid19 vakcīna
+336,en,lv,,,covid19 vaccines,covid19 vakcīnas
+337,en,lv,,,covid19 virus,covid19 vīruss
+338,en,lv,,,covid19 virus outbreak,covid19 vīrusa uzliesmojums
+339,en,lv,,,covid19 virus transmission,covid19 vīrusa transmisija
+342,en,lv,,,current outbreak,covid19 uzliesmojums
+343,en,lv,,,deadly outbreak,nāvējošs uzliesmojums
+345,en,lv,,,disease outbreak,slimības uzliesmojums
+346,en,lv,,,Disposable hand sanitizer,Vienreizlietojams roku dezinfekcijas līdzeklis
+348,en,lv,,,domestic travel,iekšzemes ceļojumi
+351,en,lv,,,droplets,pilieni
+357,en,lv,,,Effects of coronavirus,Koronavīrusa ietekme
+359,en,lv,,,epidemic,epidēmija
+360,en,lv,,,epidemic and pandemic,epidēmija un pandēmija
+362,en,lv,,,epidemic disease,epidēmiska slimība
+364,en,lv,,,epidemic outbreak,epidēmisks uzliesmojums
+365,en,lv,,,epidemic period,epidēmijas periods
+366,en,lv,,,epidemic prevention,epidēmijas novēršana
+368,en,lv,,,epidemic season,epidēmijas sezona
+369,en,lv,,,epidemic situation,epidēmijas situācija
+371,en,lv,,,exposure,iedarbība
+375,en,lv,,,exposure time,iedarbības laiks
+379,en,lv,,,fever,drudzis
+380,en,lv,,,fight the virus,cīņa ar vīrusu
+381,en,lv,,,Fighting the outbreak,Cīņa ar uzliesmojumu
+382,en,lv,,,flu epidemic,gripas epidēmija
+385,en,lv,,,fomites,infekciozi materiāli
+392,en,lv,,,global health emergency,globāls veselības nozares ārkārtas gadījums
+393,en,lv,,,global outbreak,globāls uzliesmojums
+394,en,lv,,,global pandemic,globāla pandēmija
+396,en,lv,,,hand sanitizer,roku dezinfekcijas līdzeklis
+397,en,lv,,,hand sanitizer dispenser,roku dezinfekcijas līdzekļa dozators
+398,en,lv,,,hand sanitizer gel,roku dezinfekcijas gels
+399,en,lv,,,hand sanitizer spray,roku dezinfekcijas aerosols
+403,en,lv,,,home isolation,izolācija mājās
+404,en,lv,,,home quarantine,karantīna mājās
+410,en,lv,,,illness,slimība
+415,en,lv,,,incubation period,inkubācijas periods
+418,en,lv,,,infected,inficēts
+424,en,lv,,,instant hand sanitizer,tūlītējs roku dezinfekcijas līdzeklis
+425,en,lv,,,international spread,starptautiska izplatība
+426,en,lv,,,international travel,starptautiski ceļojumi
+427,en,lv,,,isolation,izolācija
+428,en,lv,,,isolation period,izolācijas periods
+430,en,lv,,,isolation room,izolācijas telpa
+431,en,lv,,,isolation valve,izolācijas vārsts
+432,en,lv,,,isolation ward,izolācijas nodaļa
+434,en,lv,,,lockdown,blokāde
+438,en,lv,,,major outbreak,liela mēroga uzliesmojums
+439,en,lv,,,mandatory quarantine,obligāta karantīna
+440,en,lv,,,mass gathering,masu pulcēšanās
+444,en,lv,,,medicine,medicīna
+445,en,lv,,,medicines,zāles
+448,en,lv,,,n95,n95
+449,en,lv,,,n95 mask,n95 maska
+450,en,lv,,,n95 respirator,n95 respirators
+451,en,lv,,,ncov,ncov
+452,en,lv,,,ncov-2019,ncov-2019
+453,en,lv,,,new coronavirus,jauns koronavīruss
+454,en,lv,,,new coronavirus pneumonia,jaunā koronavīrusa pneimonija
+460,en,lv,,,novel coronavirus,jauns koronavīruss
+462,en,lv,,,novel coronavirus infection,jauna koronavīrusa infekcija
+463,en,lv,,,novel coronavirus outbreak,jauna koronavīrusa uzliesmojums
+464,en,lv,,,novel coronavirus pneumonia,jaunā koronavīrusa pneimonija
+470,en,lv,,,ongoing outbreak,pašreizējs uzliesmojums
+472,en,lv,,,outbreak,uzliesmojums
+474,en,lv,,,outbreak of coronavirus,koronavīrusa uzliesmojums
+475,en,lv,,,outbreak of disease,slimības uzliesmojums
+482,en,lv,,,pandemic,pandēmija
+485,en,lv,,,pandemic influenza,pandēmiska gripa
+486,en,lv,,,pandemic outbreak,pandēmisks uzliesmojums
+487,en,lv,,,pandemic plan,pandēmijas plāns
+488,en,lv,,,pandemic potential,pandēmijas potenciāls
+495,en,lv,,,pneumonia,pneimonija
+496,en,lv,,,pneumonia epidemic,pneimonijas epidēmija
+497,en,lv,,,potential exposure,iespējama iedarbība
+498,en,lv,,,precautions,piesardzības pasākumi
+499,en,lv,,,prevent virus,vīrusa novēršana
+500,en,lv,,,prolonged exposure,paildzināta iedarbība
+504,en,lv,,,quarantine,karantīna
+505,en,lv,,,quarantine area,karantīnas apgabals
+506,en,lv,,,quarantine facility,karantīnas iestāde
+507,en,lv,,,quarantine measures,karantīnas pasākumi
+508,en,lv,,,quarantine period,karantīnas periods
+509,en,lv,,,quarantine room,karantīnas telpa
+510,en,lv,,,quarantine zone,karantīnas zona
+512,en,lv,,,Recovered coronavirus patient,Atveseļojies koronavīrusa pacients
+514,en,lv,,,repatriate,repatriējos
+515,en,lv,,,repeated exposure,atkārtota iedarbība
+516,en,lv,,,respiratory syncytial virus,respiratori sinicitāls vīruss
+517,en,lv,,,respiratory virus,respiratorais vīruss
+519,en,lv,,,Sanitizing hand sanitizer,Dezinficējošs roku dezinfekcijas līdzeklis
+520,en,lv,,,SARS-CoV-2,SARS-CoV-2
+521,en,lv,,,self isolation,pašizolācija
+522,en,lv,,,self quarantine,paškarantīna
+523,en,lv,,,Severe outbreak,Smags uzliesmojums
+525,en,lv,,,social distancing,fiziskā distancēšanās
+526,en,lv,,,social distancing measures,fiziskās distancēšanās līdzekļi
+527,en,lv,,,social isolation,fiziskā izolācija
+528,en,lv,,,SOS Alert,SOS trauksme
+529,en,lv,,,spread,izplatība
+530,en,lv,,,spread of coronavirus,koronavīrusa izplatība
+531,en,lv,,,spread of virus,vīrusa izplatība
+535,en,lv,,,strain of virus,vīrusa celms
+541,en,lv,,,the incubation period,inkubācijas periods
+544,en,lv,,,the novel coronavirus,jaunais koronavīruss
+558,en,lv,,,touching face,pieskaršanās sejai
+559,en,lv,,,travel advisory,ceļošanas ieteikumi
+560,en,lv,,,travel ban,ceļošanas aizliegums
+561,en,lv,,,travel restrictions,ceļošanas ierobežojumi
+565,en,lv,,,use hand sanitizer,izmantot roku dezinfekcijas līdzekli
+566,en,lv,,,vaccines,vakcīnas
+567,en,lv,,,viral outbreak,vīrusa uzliesmojums
+568,en,lv,,,virtual lockdown,virtuāla blokāde
+569,en,lv,,,virus,vīruss
+570,en,lv,,,virus carrier,vīrusa nēsātājs
+573,en,lv,,,virus infection,vīrusa infekcija
+575,en,lv,,,virus mask,vīrusa maska
+576,en,lv,,,virus outbreak,vīrusa uzliesmojums
+577,en,lv,,,virus prevention,vīrusa novēršana
+578,en,lv,,,virus protection,aizsardzība pret vīrusu
+580,en,lv,,,virus spread,vīrusa izplatība
+582,en,lv,,,virus spreads,vīruss izplatās
+583,en,lv,,,virus strain,vīrusa celms
+584,en,lv,,,virus transmission,vīrusa transmisija
+586,en,lv,,,wash your hands,mazgājiet rokas
+587,en,lv,,,washing hands,roku mazgāšana
+589,en,lv,,,WHO,PVO
+590,en,lv,,,WHO Confirmed,PVO apstiprinājums
+591,en,lv,,,WHO Deaths,PVO nāves
+592,en,lv,,,widespread outbreak,plašs uzliesmojums
+597,en,lv,,,World Health Organization,Pasaules Veselības organizācija
+600,en,lv,,,zoonotic disease,zoonozes slimība
+601,en,lv,,,zoonotic virus,zoonozes vīruss

@@ -1,0 +1,51 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+xx_351,fr,en,,,SARS-CoV-2,SARS-CoV-2
+xx_352,fr,en,,,maladie infectieuse respiratoire,infectious respiratory disease
+xx_353,fr,en,,,maladie infectieuse,infectious disease
+xx_354,fr,en,,,immunodéprimé,immunocompromised
+xx_355,fr,en,,,propagation du virus,spread of the virus
+xx_356,fr,en,,,épidémiologie,epidemiology
+xx_357,fr,en,,,solution hydroalcoolique,hydroalcoholic solution
+xx_358,fr,en,,,hydroalcoolique,hydroalcoholic
+xx_359,fr,en,,,masques de protection respiratoire,respirators
+xx_360,fr,en,,,masques FFP2,FFP2 masks
+xx_361,fr,en,,,masques FFP3,FFP3 masks
+xx_362,fr,en,,,hydroxychloroquine,hydroxychloroquine
+xx_363,fr,en,,,chloroquine,chloroquine
+xx_364,fr,en,,,confinement,confinement
+xx_365,fr,en,,,urgence sanitaire,health emergency
+xx_366,fr,en,,,attestation de déplacement,travel declaration
+xx_367,fr,en,,,attestation dérogatoire,exceptional travel declaration
+xx_368,fr,en,,,attestation professionnelle,professional declaration
+xx_369,fr,en,,,déplacement interdit,prohibited travel
+xx_370,fr,en,,,contamination,contamination
+xx_371,fr,en,,,délai d'incubation,incubation period
+xx_372,fr,en,,,incubation,incubation
+xx_373,fr,en,,,symptômes,symptoms
+xx_374,fr,en,,,dépistage,screening
+xx_375,fr,en,,,désinformation,disinformation
+xx_376,fr,en,,,intox,propaganda
+xx_377,fr,en,,,fausses informations,fake news
+xx_378,fr,en,,,réanimation,intensive care
+xx_379,fr,en,,,centres de consultations ambulatoires,mobile medical units
+xx_380,fr,en,,,transfert de patients,patient transfer
+xx_381,fr,en,,,distanciation sociale,social distancing
+xx_382,fr,en,,,fermeture des frontières extérieures,external border closure
+xx_383,fr,en,,,fermeture des frontières,border closure
+xx_384,fr,en,,,contrôles systématiques,systematic monitoring
+xx_385,fr,en,,,ressortissants bloqués,nationals stranded abroad
+xx_386,fr,en,,,règles de remboursement,refund policy
+xx_387,fr,en,,,conditions de remboursement,refund conditions
+xx_388,fr,en,,,annulation de voyage,trip cancellation
+xx_389,fr,en,,,Assurance annulation,cancellation insurance
+xx_390,fr,en,,,médiation Tourisme et Voyage,Tourism and Travel Mediation
+xx_391,fr,en,,,médiateur du tourisme et du voyage,Tourism and Travel mediator
+xx_392,fr,en,,,rapatriement,repatriation
+xx_393,fr,en,,,report de voyage,postponement of travel
+xx_394,fr,en,,,continuité pédagogique,educational continuity
+xx_395,fr,en,,,ressources numériques éducatives,digital learning resources
+xx_396,fr,en,,,ressources éducatives,learning resources
+xx_397,fr,en,,,ressources pédagogiques,educational resources
+xx_398,fr,en,,,enseignement à distance,distance learning
+xx_399,fr,en,,,"opération ""nation apprenante""","Operation ""Learning Nation"""
+xx_400,fr,en,,,nation apprenante,learning nation

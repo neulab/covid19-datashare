@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,fi,,,14 days in isolation,14 päivää eristyksissä
+26,en,fi,,,14 days quarantine,14 päivän karanteeni
+27,en,fi,,,2019 coronavirus,2019 koronavirus
+28,en,fi,,,2019 novel coronavirus,2019 uusi koronavirus
+29,en,fi,,,2019-nCoV,2019-nCov
+30,en,fi,,,2020 coronavirus,2020 koronavirus
+31,en,fi,,,2020 novel coronavirus,2020 uusi koronavirus
+33,en,fi,,,about coronavirus,koronaviruksesta
+39,en,fi,,,acute respiratory distress syndrome,Äkillinen hengitysvaikeusoireyhtymä
+40,en,fi,,,advanced hand sanitizer,kehittyneempi käsien desinfiointiaine
+41,en,fi,,,Affected by coronavirus,Koronaviruksen vaikutuksen alainen
+42,en,fi,,,after exposure,altistumisen jälkeen
+43,en,fi,,,After the epidemic,Epidemian jälkeen
+44,en,fi,,,After the outbreak,Taudinpurkauksen jälkeen
+47,en,fi,,,airborne virus,ilmassa liikkuva virus
+48,en,fi,,,alcohol based hand sanitizer,alkoholipohjainen käsien desinfiointiaine
+49,en,fi,,,alcohol hand sanitizer,alkoholia sisältävä käsien desinfiointiaine
+51,en,fi,,,alcohol-based hand sanitizer,alkoholipohjainen käsien desinfiointiaine
+59,en,fi,,,Anti-Corona virus spray,Koronaviruksen vastainen suihke
+60,en,fi,,,antibacterial hand sanitizer,antibakteerinen käsien desinfiointiaine
+61,en,fi,,,ARDS,ARDS
+64,en,fi,,,avoid exposure,vältä altistumista
+65,en,fi,,,be infected,olla tartunnan saanut
+75,en,fi,,,Beware of coronavirus,Varo koronavirusta
+76,en,fi,,,bilateral interstitial pneumonia,molemminpuolinen interstitiaalinen keuhkokuume
+77,en,fi,,,CDC,CDC
+78,en,fi,,,Center for Disease Control,Tautientorjuntakeskus
+83,en,fi,,,community spread,leviäminen yhteisössä
+84,en,fi,,,compulsory quarantine,pakollinen karanteeri
+85,en,fi,,,contagious,tarttuva
+135,en,fi,,,coronavirus,koronavirus
+136,en,fi,,,coronavirus (COVID-19),koronavirus (COVID-19)
+137,en,fi,,,coronavirus alert,koronavirusvaroitus
+139,en,fi,,,coronavirus cases,koronavirustapaukset
+141,en,fi,,,coronavirus concerns,koronavirus huolenaiheet
+143,en,fi,,,coronavirus crisis,koronaviruskriisi
+149,en,fi,,,coronavirus disease,koronavirustauti
+150,en,fi,,,Coronavirus disease (COVID-19) outbreak,Koronaviruksen (COVID-19) leviäminen
+153,en,fi,,,coronavirus early symptoms,koronavirus ensioireet
+155,en,fi,,,coronavirus epidemic,koronavirusepidemia
+156,en,fi,,,coronavirus exposure,koronavirus altistuminen
+161,en,fi,,,coronavirus incubation,koronavirus itäminen
+162,en,fi,,,coronavirus incubation period,koronavirus itämisaika
+163,en,fi,,,coronavirus infection,koronavirustartunta
+168,en,fi,,,coronavirus map,koronavirus kartta
+170,en,fi,,,coronavirus medicine,koronaviruslääke
+171,en,fi,,,coronavirus medicines,koronaviruslääkkeet
+172,en,fi,,,coronavirus news,koronavirusuutiset
+173,en,fi,,,coronavirus outbreak,koronaviruksen puhkeaminen
+174,en,fi,,,coronavirus pandemic,koronaviruspandemia
+176,en,fi,,,coronavirus pneumonia,koronavirus keuhkokuume
+177,en,fi,,,coronavirus precautions,koronavirus varotoimenpiteet
+178,en,fi,,,coronavirus prevention,koronavirus ennaltaehkäisy
+179,en,fi,,,coronavirus protection,koronavirus suojautuminen
+180,en,fi,,,coronavirus quarantine,koronaviruskaranteeni
+182,en,fi,,,coronavirus SOS Alert,koronavirus hätävaroitus
+183,en,fi,,,coronavirus spread,koronavirus leviäminen
+184,en,fi,,,coronavirus symptoms,koronavirusoireet
+185,en,fi,,,coronavirus transmission,koronavirustartunta
+186,en,fi,,,coronavirus travel ban,koronavirus matkustuskielto
+187,en,fi,,,coronavirus travel restrictions,koronavirus matkustusrajoitukset
+188,en,fi,,,coronavirus treatment,koronavirus hoito
+190,en,fi,,,coronavirus update,koronavirus päivitys
+191,en,fi,,,coronavirus vaccine,koronavirusrokote
+192,en,fi,,,coronavirus vaccines,koronavirusrokotteet
+198,en,fi,,,covid cases,covid-tapaukset
+205,en,fi,,,covid early symptoms,covid ensioireet
+213,en,fi,,,covid incubation period,covid itämisaika
+215,en,fi,,,covid international spread,covid maailmanlaajuinen leviäminen
+216,en,fi,,,covid international travel,covid matkustaminen ulkomaille
+217,en,fi,,,covid isolation,covid eristäytyminen
+219,en,fi,,,covid map,covid kartta
+220,en,fi,,,covid medicine,covid-lääke
+221,en,fi,,,covid medicines,covid-lääkkeet
+222,en,fi,,,covid news,covid-uutiset
+223,en,fi,,,covid outbreak,covid-taudinpurkaus
+224,en,fi,,,covid pandemic,covid-pandemia
+225,en,fi,,,covid panic,covid-paniikki
+228,en,fi,,,covid SOS Alert,covid hätävaroitus
+230,en,fi,,,covid symptoms,covid-oireet
+231,en,fi,,,covid transmission,covid-tartunta
+232,en,fi,,,covid travel ban,covid matkustuskielto
+233,en,fi,,,covid travel restrictions,covid matkustusrajoitukset
+234,en,fi,,,covid treatment,covid hoito
+236,en,fi,,,covid vaccine,covid-rokote
+237,en,fi,,,covid vaccines,covid-rokotteet
+242,en,fi,,,covid-19,covid-19
+243,en,fi,,,covid-19 alert,covid-19-varoitus
+244,en,fi,,,covid-19 cases,covid-19-tapaukset
+245,en,fi,,,covid-19 CDC,covid-19 CDC
+246,en,fi,,,covid-19 contagious,covid-19 tarttuva
+247,en,fi,,,covid-19 cure,covid-19 hoitokeino
+248,en,fi,,,covid-19 dangerous,covid-19 vaarallinen
+249,en,fi,,,covid-19 deadly,covid-19 tappava
+250,en,fi,,,covid-19 death,covid-19-kuolema
+251,en,fi,,,covid-19 deaths,covid-19-kuolemat
+252,en,fi,,,covid-19 domestic travel,covid-19 matkustaminen kotimaassa
+253,en,fi,,,covid-19 early symptoms,covid-19 ensioireet
+254,en,fi,,,covid-19 effects,covid-19 vaikutukset
+255,en,fi,,,covid-19 epidemic,covid-19-epidemia
+256,en,fi,,,covid-19 exposure,covid-19 altistuminen
+257,en,fi,,,covid-19 fatal,covid-19 hengenvaarallinen
+258,en,fi,,,covid-19 fever,covid-19 kuume
+259,en,fi,,,covid-19 illness,covid-19-sairaus
+260,en,fi,,,covid-19 incubation,covid-19 itäminen
+261,en,fi,,,covid-19 incubation period,covid-19 itämisaika
+262,en,fi,,,covid-19 infection,covid-19-tartunta
+263,en,fi,,,covid-19 international spread,covid-19 maailmanlaajuinen leviäminen
+264,en,fi,,,covid-19 international travel,covid-19 matkustaminen ulkomaille
+265,en,fi,,,covid-19 isolation,covid-19 eristäytyminen
+266,en,fi,,,covid-19 lockdown,covid-19 sisälle suojautuminen
+267,en,fi,,,covid-19 map,covid-19 kartta
+268,en,fi,,,covid-19 medicine,covid-19-lääke
+269,en,fi,,,covid-19 medicines,covid-19-lääkkeet
+270,en,fi,,,covid-19 news,covid-19-uutiset
+271,en,fi,,,covid-19 outbreak,covid-19-taudinpurkaus
+272,en,fi,,,covid-19 pandemic,covid-19-pandemia
+273,en,fi,,,covid-19 panic,covid-19-paniikki
+275,en,fi,,,covid-19 precautions,covid-19 varotoimenpiteet
+276,en,fi,,,covid-19 protection,covid-19 suojautuminen
+277,en,fi,,,covid-19 quarantine,covid-19-karanteeni
+278,en,fi,,,covid-19 SOS Alert,covid-19 hätävaroitus
+279,en,fi,,,covid-19 spread,covid-19 leviäminen
+280,en,fi,,,covid-19 symptoms,covid-19-oireet
+281,en,fi,,,covid-19 transmission,covid-19-tartunta
+282,en,fi,,,covid-19 travel ban,covid-19 matkustuskielto
+283,en,fi,,,covid-19 travel restrictions,covid-19 matkustusrajoitukset
+284,en,fi,,,covid-19 treatment,covid-19 hoito
+285,en,fi,,,covid-19 uncontrolled spread,covid-19 kontrolloimaton leviäminen
+286,en,fi,,,covid-19 vaccine,covid-19-rokote
+287,en,fi,,,covid-19 vaccines,covid-19-rokotteet
+288,en,fi,,,COVID-19 virus,covid-19-virus
+289,en,fi,,,covid-19 virus outbreak,covid-19-viruksenpurkaus
+290,en,fi,,,covid-19 virus transmission,covid-19-virustartunta
+291,en,fi,,,covid-19 WHO,covid-19 WHO
+292,en,fi,,,covid19,covid19
+293,en,fi,,,covid19 alert,covid19-varoitus
+294,en,fi,,,covid19 cases,covid19-tapaukset
+295,en,fi,,,covid19 CDC,covid19 tautientorjuntakeskus
+301,en,fi,,,covid19 deaths,covid19-kuolemat
+302,en,fi,,,covid19 domestic travel,covid19 matkustaminen kotimaassa
+303,en,fi,,,covid19 effects,covid19 vaikutukset
+304,en,fi,,,covid19 epidemic,covid19-epidemia
+305,en,fi,,,covid19 exposure,covid19 altistuminen
+306,en,fi,,,covid19 fatal,covid19 hengenvaarallinen
+307,en,fi,,,covid19 fever,covid19 kuume
+308,en,fi,,,covid19 illness,covid19-sairaus
+309,en,fi,,,covid19 incubation,covid19 itäminen
+310,en,fi,,,covid19 incubation period,covid19 itämisaika
+311,en,fi,,,covid19 infection,covid19-tartunta
+312,en,fi,,,covid19 international spread,covid19 maailmanlaajuinen leviäminen
+313,en,fi,,,covid19 international travel,covid19 matkustaminen ulkomaille
+314,en,fi,,,covid19 isolation,covid19 eristäytyminen
+315,en,fi,,,covid19 lockdown,covid19 sisälle suojautuminen
+316,en,fi,,,covid19 map,covid19 kartta
+317,en,fi,,,covid19 medicine,covid19-lääke
+318,en,fi,,,covid19 medicines,covid19-lääkkeet
+319,en,fi,,,covid19 news,covid19-uutiset
+320,en,fi,,,covid19 outbreak,covid19 taudin puhkeaminen
+321,en,fi,,,covid19 pandemic,covid19-pandemia
+324,en,fi,,,covid19 precautions,covid19 varotoimenpiteet
+325,en,fi,,,covid19 protection,covid19 suojautuminen
+326,en,fi,,,covid19 quarantine,covid19-karanteeni
+327,en,fi,,,covid19 SOS Alert,covid19 hätävaroitus
+328,en,fi,,,covid19 spread,covid19 leviäminen
+329,en,fi,,,covid19 symptoms,covid19-oireet
+330,en,fi,,,covid19 transmission,covid19-tartunta
+331,en,fi,,,covid19 travel ban,covid19 matkustuskielto
+332,en,fi,,,covid19 travel restrictions,covid19 matkustusrajoitukset
+333,en,fi,,,covid19 treatment,covid19 hoito
+335,en,fi,,,covid19 vaccine,covid19-rokote
+336,en,fi,,,covid19 vaccines,covid19-rokotteet
+337,en,fi,,,covid19 virus,covid19-virus
+338,en,fi,,,covid19 virus outbreak,covid19-viruksenpurkaus
+339,en,fi,,,covid19 virus transmission,covid19-virustartunta
+342,en,fi,,,current outbreak,tämänhetkinen taudin leviäminen
+343,en,fi,,,deadly outbreak,tappava taudin leviäminen
+345,en,fi,,,disease outbreak,taudin leviäminen
+346,en,fi,,,Disposable hand sanitizer,Kertakäyttöinen käsien desinfiointiaine
+348,en,fi,,,domestic travel,matkustaminen kotimaassa
+351,en,fi,,,droplets,pisarat
+357,en,fi,,,Effects of coronavirus,Koronaviruksen vaikutukset
+359,en,fi,,,epidemic,epideeminen
+360,en,fi,,,epidemic and pandemic,epidemia ja pandemia
+362,en,fi,,,epidemic disease,epideeminen sairaus
+364,en,fi,,,epidemic outbreak,epideeminen taudin leviäminen
+365,en,fi,,,epidemic period,epideeminen ajanjakso
+366,en,fi,,,epidemic prevention,epidemian ennaltaehkäisy
+368,en,fi,,,epidemic season,epideeminen kausi
+369,en,fi,,,epidemic situation,epideeminen tilanne
+371,en,fi,,,exposure,altistuminen
+375,en,fi,,,exposure time,altistumisaika
+379,en,fi,,,fever,kuume
+380,en,fi,,,fight the virus,taistella virusta vastaan
+381,en,fi,,,Fighting the outbreak,Taistelu taudin leviämistä vastaan
+382,en,fi,,,flu epidemic,flunssaepidemia
+385,en,fi,,,fomites,fomiitit
+392,en,fi,,,global health emergency,maailmanlaajuinen terveyteen liittyvä hätätila
+393,en,fi,,,global outbreak,maailmanlaajuinen taudinpurkaus
+394,en,fi,,,global pandemic,maailmanlaajuinen pandemia
+396,en,fi,,,hand sanitizer,käsien desinfiointiaine
+397,en,fi,,,hand sanitizer dispenser,käsien desinfiointiaineen annostelija
+398,en,fi,,,hand sanitizer gel,käsien desinfiointigeeli
+399,en,fi,,,hand sanitizer spray,käsien desinfiointisuihke
+403,en,fi,,,home isolation,eristäytyminen kotiin
+404,en,fi,,,home quarantine,kotikaranteeni
+410,en,fi,,,illness,sairaus
+415,en,fi,,,incubation period,itämisaika
+418,en,fi,,,infected,tartunnan saanut
+424,en,fi,,,instant hand sanitizer,käsien pikadesinfiointiaine
+425,en,fi,,,international spread,kansainvälinen leviäminen
+426,en,fi,,,international travel,matkustaminen ulkomaille
+427,en,fi,,,isolation,eristäytyminen
+428,en,fi,,,isolation period,eristäytymisaika
+430,en,fi,,,isolation room,eristäytymishuone
+431,en,fi,,,isolation valve,eristysventtiili
+432,en,fi,,,isolation ward,eristysosasto
+434,en,fi,,,lockdown,sisälle suojautuminen
+438,en,fi,,,major outbreak,vakava taudin leviäminen
+439,en,fi,,,mandatory quarantine,pakollinen karanteeni
+440,en,fi,,,mass gathering,suurten joukkojen kokoontuminen
+444,en,fi,,,medicine,lääke
+445,en,fi,,,medicines,lääkkeet
+448,en,fi,,,n95,N95
+449,en,fi,,,n95 mask,N95-hengityssuojain
+450,en,fi,,,n95 respirator,N95-hengityssuojain
+451,en,fi,,,ncov,ncov
+452,en,fi,,,ncov-2019,ncov-2019
+453,en,fi,,,new coronavirus,uusi koronavirus
+454,en,fi,,,new coronavirus pneumonia,uusi koronavirus keuhkokuume
+460,en,fi,,,novel coronavirus,uusi koronavirus
+462,en,fi,,,novel coronavirus infection,uusi koronavirusinfektio
+463,en,fi,,,novel coronavirus outbreak,uusi koronaviruksenpurkaus
+464,en,fi,,,novel coronavirus pneumonia,uusi koronavirus keuhkokuume
+470,en,fi,,,ongoing outbreak,meneillään oleva taudinpurkaus
+472,en,fi,,,outbreak,taudin puhkeaminen
+474,en,fi,,,outbreak of coronavirus,koronaviruksen leviäminen
+475,en,fi,,,outbreak of disease,taudinpurkaus
+482,en,fi,,,pandemic,pandeeminen
+485,en,fi,,,pandemic influenza,pandeeminen influenssa
+486,en,fi,,,pandemic outbreak,pandeeminen taudin leviäminen
+487,en,fi,,,pandemic plan,pandemiasuunnitelma
+488,en,fi,,,pandemic potential,pandemian mahdollisuus
+495,en,fi,,,pneumonia,keuhkokuume
+496,en,fi,,,pneumonia epidemic,keuhkokuume-epidemia
+497,en,fi,,,potential exposure,mahdollinen altistuminen
+498,en,fi,,,precautions,varotoimenpiteet
+499,en,fi,,,prevent virus,ehkäistä virus
+500,en,fi,,,prolonged exposure,pidentynyt altistuminen
+504,en,fi,,,quarantine,karanteeni
+505,en,fi,,,quarantine area,karanteenialue
+506,en,fi,,,quarantine facility,karanteenitila
+507,en,fi,,,quarantine measures,karanteenitoimenpiteet
+508,en,fi,,,quarantine period,karanteeniaika
+509,en,fi,,,quarantine room,karanteenihuone
+510,en,fi,,,quarantine zone,karanteenivyöhyke
+512,en,fi,,,Recovered coronavirus patient,Parantunut koronaviruspotilas
+514,en,fi,,,repatriate,kotiutan
+515,en,fi,,,repeated exposure,toistuva altistuminen
+516,en,fi,,,respiratory syncytial virus,hengitykseen liittyvä synsytiaalinen virus
+517,en,fi,,,respiratory virus,hengitystievirus
+519,en,fi,,,Sanitizing hand sanitizer,Desinfioiva käsien desinfiointiaine
+520,en,fi,,,SARS-CoV-2,SARS-CoV-2
+521,en,fi,,,self isolation,omaehtoinen eristäytyminen
+522,en,fi,,,self quarantine,omaehtoinen karanteeni
+523,en,fi,,,Severe outbreak,Vakava taudin leviäminen
+525,en,fi,,,social distancing,sosiaalisen etäisyyden ottaminen
+526,en,fi,,,social distancing measures,sosiaalisen etäisyyden ottamisen keinot
+527,en,fi,,,social isolation,sosiaalinen eristäytyminen
+528,en,fi,,,SOS Alert,Hätävaroitus
+529,en,fi,,,spread,levitän
+530,en,fi,,,spread of coronavirus,koronaviruksen leviäminen
+531,en,fi,,,spread of virus,viruksen leviäminen
+535,en,fi,,,strain of virus,viruskanta
+541,en,fi,,,the incubation period,itämisaika
+544,en,fi,,,the novel coronavirus,uusi koronavirus
+558,en,fi,,,touching face,kasvojen koskeminen
+559,en,fi,,,travel advisory,matkustusneuvot
+560,en,fi,,,travel ban,matkustuskielto
+561,en,fi,,,travel restrictions,matkustusrajoitukset
+565,en,fi,,,use hand sanitizer,käytä käsien desinfiointiainetta
+566,en,fi,,,vaccines,rokotteet
+567,en,fi,,,viral outbreak,viruksen leviäminen
+568,en,fi,,,virtual lockdown,todellinen sisälle suojautuminen
+569,en,fi,,,virus,virus
+570,en,fi,,,virus carrier,viruksen kantaja
+573,en,fi,,,virus infection,virusinfektio
+575,en,fi,,,virus mask,virusmaski
+576,en,fi,,,virus outbreak,viruksen leviäminen
+577,en,fi,,,virus prevention,viruksen ennaltaehkäisy
+578,en,fi,,,virus protection,virus suojautuminen
+580,en,fi,,,virus spread,viruksen leviäminen
+582,en,fi,,,virus spreads,virus leviää
+583,en,fi,,,virus strain,viruskanta
+584,en,fi,,,virus transmission,virustartunta
+586,en,fi,,,wash your hands,pese kätesi
+587,en,fi,,,washing hands,käsien peseminen
+589,en,fi,,,WHO,WHO
+590,en,fi,,,WHO Confirmed,WHO vahvisti
+591,en,fi,,,WHO Deaths,WHO kuolemat
+592,en,fi,,,widespread outbreak,laajalle levinnyt taudinpurkaus
+597,en,fi,,,World Health Organization,Maailman terveysjärjestö
+600,en,fi,,,zoonotic disease,zoonoottinen tauti
+601,en,fi,,,zoonotic virus,zoonoottinen virus

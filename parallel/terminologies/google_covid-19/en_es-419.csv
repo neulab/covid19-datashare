@@ -1,0 +1,314 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,es-419,,,14 days in isolation,14 días en aislamiento
+26,en,es-419,,,14 days quarantine,cuarentena de 14 días
+27,en,es-419,,,2019 coronavirus,coronavirus 2019
+28,en,es-419,,,2019 novel coronavirus,nuevo coronavirus 2019
+29,en,es-419,,,2019-nCoV,2019-nCoV
+30,en,es-419,,,2020 coronavirus,coronavirus 2020
+31,en,es-419,,,2020 novel coronavirus,nuevo coronavirus 2020
+33,en,es-419,,,about coronavirus,acerca del coronavirus
+39,en,es-419,,,acute respiratory distress syndrome,síndrome de distrés respiratorio agudo
+40,en,es-419,,,advanced hand sanitizer,alcohol en gel superior
+41,en,es-419,,,Affected by coronavirus,Afectado por el coronavirus
+42,en,es-419,,,after exposure,después de la exposición
+43,en,es-419,,,After the epidemic,Después de la epidemia
+44,en,es-419,,,After the outbreak,Después del brote
+47,en,es-419,,,airborne virus,virus transmitido por vía aérea
+48,en,es-419,,,alcohol based hand sanitizer,desinfectante de manos a base de alcohol
+49,en,es-419,,,alcohol hand sanitizer,alcohol en gel
+51,en,es-419,,,alcohol-based hand sanitizer,desinfectante para manos a base de alcohol
+59,en,es-419,,,Anti-Corona virus spray,espray contra el coronavirus
+60,en,es-419,,,antibacterial hand sanitizer,desinfectante para manos antibacterial
+61,en,es-419,,,ARDS,SDRA
+64,en,es-419,,,avoid exposure,evitar la exposición
+65,en,es-419,,,be infected,estar infectado
+75,en,es-419,,,Beware of coronavirus,Cuidado con el coronavirus
+76,en,es-419,,,bilateral interstitial pneumonia,neumonía intersticial bilateral
+77,en,es-419,,,CDC,Centros para el Control y la Prevención de Enfermedades
+78,en,es-419,,,Center for Disease Control,Centro para el Control y la Prevención de Enfermedades
+83,en,es-419,,,community spread,propagación en la comunidad
+84,en,es-419,,,compulsory quarantine,cuarentena obligatoria
+85,en,es-419,,,contagious,contagioso
+135,en,es-419,,,coronavirus,coronavirus
+136,en,es-419,,,coronavirus (COVID-19),coronavirus (COVID-19)
+137,en,es-419,,,coronavirus alert,alerta por coronavirus
+139,en,es-419,,,coronavirus cases,casos de coronavirus
+141,en,es-419,,,coronavirus concerns,preocupaciones por el coronavirus
+143,en,es-419,,,coronavirus crisis,crisis del coronavirus
+149,en,es-419,,,coronavirus disease,enfermedad del coronavirus
+150,en,es-419,,,Coronavirus disease (COVID-19) outbreak,Brote de la enfermedad del coronavirus (COVID-19)
+153,en,es-419,,,coronavirus early symptoms,primeros síntomas del coronavirus
+155,en,es-419,,,coronavirus epidemic,epidemia de coronavirus
+156,en,es-419,,,coronavirus exposure,exposición al coronavirus
+161,en,es-419,,,coronavirus incubation,incubación de coronavirus
+162,en,es-419,,,coronavirus incubation period,período de incubación del coronavirus
+163,en,es-419,,,coronavirus infection,infección de coronavirus
+168,en,es-419,,,coronavirus map,mapa del coronavirus
+170,en,es-419,,,coronavirus medicine,medicamento para coronavirus
+171,en,es-419,,,coronavirus medicines,medicamentos para coronavirus
+172,en,es-419,,,coronavirus news,noticias sobre coronavirus
+173,en,es-419,,,coronavirus outbreak,brote de coronavirus
+174,en,es-419,,,coronavirus pandemic,pandemia de coronavirus
+176,en,es-419,,,coronavirus pneumonia,neumonía por coronavirus
+177,en,es-419,,,coronavirus precautions,precauciones ante el coronavirus
+178,en,es-419,,,coronavirus prevention,prevención contra el coronavirus
+179,en,es-419,,,coronavirus protection,protección contra el coronavirus
+180,en,es-419,,,coronavirus quarantine,cuarentena por coronavirus
+182,en,es-419,,,coronavirus SOS Alert,alerta de SOS por el coronavirus
+183,en,es-419,,,coronavirus spread,propagación del coronavirus
+184,en,es-419,,,coronavirus symptoms,síntomas de coronavirus
+185,en,es-419,,,coronavirus transmission,transmisión de coronavirus
+186,en,es-419,,,coronavirus travel ban,prohibición para viajar por el coronavirus
+187,en,es-419,,,coronavirus travel restrictions,restricciones para viajar por el coronavirus
+188,en,es-419,,,coronavirus treatment,tratamiento del coronavirus
+190,en,es-419,,,coronavirus update,actualización del coronavirus
+191,en,es-419,,,coronavirus vaccine,vacuna para el coronavirus
+192,en,es-419,,,coronavirus vaccines,vacunas para el coronavirus
+198,en,es-419,,,covid cases,casos de COVID-19
+205,en,es-419,,,covid early symptoms,primeros síntomas del COVID-19
+213,en,es-419,,,covid incubation period,período de incubación del COVID-19
+215,en,es-419,,,covid international spread,propagación internacional del COVID-19
+216,en,es-419,,,covid international travel,desplazamiento internacional del COVID-19
+217,en,es-419,,,covid isolation,aislamiento por COVID-19
+219,en,es-419,,,covid map,mapa del COVID-19
+220,en,es-419,,,covid medicine,medicamento para COVID-19
+221,en,es-419,,,covid medicines,medicamentos para COVID-19
+222,en,es-419,,,covid news,noticias sobre COVID-19
+223,en,es-419,,,covid outbreak,brote de COVID-19
+224,en,es-419,,,covid pandemic,pandemia de COVID-19
+225,en,es-419,,,covid panic,pánico por el COVID-19
+228,en,es-419,,,covid SOS Alert,alerta de SOS por el COVID-19
+230,en,es-419,,,covid symptoms,síntomas de COVID-19
+231,en,es-419,,,covid transmission,transmisión de COVID-19
+232,en,es-419,,,covid travel ban,prohibición de viajar por el COVID-19
+233,en,es-419,,,covid travel restrictions,restricciones para viajar por el COVID-19
+234,en,es-419,,,covid treatment,tratamiento del COVID-19
+236,en,es-419,,,covid vaccine,vacuna para el COVID-19
+237,en,es-419,,,covid vaccines,vacunas para COVID-19
+242,en,es-419,,,covid-19,COVID-19
+243,en,es-419,,,covid-19 alert,alerta por el COVID-19
+244,en,es-419,,,covid-19 cases,casos de COVID-19
+245,en,es-419,,,covid-19 CDC,COVID-19 CDC
+246,en,es-419,,,covid-19 contagious,COVID-19 contagioso
+247,en,es-419,,,covid-19 cure,cura para COVID-19
+248,en,es-419,,,covid-19 dangerous,COVID-19 peligroso
+249,en,es-419,,,covid-19 deadly,COVID-19 mortal
+250,en,es-419,,,covid-19 death,muerte por COVID-19
+251,en,es-419,,,covid-19 deaths,muertes por COVID-19
+252,en,es-419,,,covid-19 domestic travel,desplazamiento nacional del COVID-19
+253,en,es-419,,,covid-19 early symptoms,primeros síntomas del COVID-19
+254,en,es-419,,,covid-19 effects,efectos del COVID-19
+255,en,es-419,,,covid-19 epidemic,epidemia de COVID-19
+256,en,es-419,,,covid-19 exposure,exposición al COVID-19
+257,en,es-419,,,covid-19 fatal,COVID-19 mortal
+258,en,es-419,,,covid-19 fever,fiebre por COVID-19
+259,en,es-419,,,covid-19 illness,enfermedad del COVID-19
+260,en,es-419,,,covid-19 incubation,incubación de COVID-19
+261,en,es-419,,,covid-19 incubation period,período de incubación del COVID-19
+262,en,es-419,,,covid-19 infection,contagio de COVID-19
+263,en,es-419,,,covid-19 international spread,propagación internacional del COVID-19
+264,en,es-419,,,covid-19 international travel,desplazamiento internacional del COVID-19
+265,en,es-419,,,covid-19 isolation,aislamiento por COVID-19
+266,en,es-419,,,covid-19 lockdown,cierre de emergencia por COVID-19
+267,en,es-419,,,covid-19 map,mapa del COVID-19
+268,en,es-419,,,covid-19 medicine,medicamento para COVID-19
+269,en,es-419,,,covid-19 medicines,medicamentos para COVID-19
+270,en,es-419,,,covid-19 news,noticias sobre COVID-19
+271,en,es-419,,,covid-19 outbreak,brote de COVID-19
+272,en,es-419,,,covid-19 pandemic,pandemia de COVID-19
+273,en,es-419,,,covid-19 panic,pánico por COVID-19
+275,en,es-419,,,covid-19 precautions,cuidados ante el COVID-19
+276,en,es-419,,,covid-19 protection,protección contra el COVID-19
+277,en,es-419,,,covid-19 quarantine,cuarentena por COVID-19
+278,en,es-419,,,covid-19 SOS Alert,alerta de SOS por el COVID-19
+279,en,es-419,,,covid-19 spread,propagación del COVID-19
+280,en,es-419,,,covid-19 symptoms,síntomas del COVID-19
+281,en,es-419,,,covid-19 transmission,transmisión del COVID-19
+282,en,es-419,,,covid-19 travel ban,prohibición de viajar por el COVID-19
+283,en,es-419,,,covid-19 travel restrictions,restricciones para viajar por el COVID-19
+284,en,es-419,,,covid-19 treatment,tratamiento para el COVID-19
+285,en,es-419,,,covid-19 uncontrolled spread,propagación sin control del COVID-19
+286,en,es-419,,,covid-19 vaccine,vacuna para el COVID-19
+287,en,es-419,,,covid-19 vaccines,vacunas para COVID-19
+288,en,es-419,,,COVID-19 virus,virus del COVID-19
+289,en,es-419,,,covid-19 virus outbreak,brote del virus del COVID-19
+290,en,es-419,,,covid-19 virus transmission,transmisión del virus del COVID-19
+291,en,es-419,,,covid-19 WHO,COVID-19 OMS
+292,en,es-419,,,covid19,COVID-19
+293,en,es-419,,,covid19 alert,alerta por COVID-19
+294,en,es-419,,,covid19 cases,casos de COVID-19
+295,en,es-419,,,covid19 CDC,COVID-19 CDC
+301,en,es-419,,,covid19 deaths,muertes por COVID-19
+302,en,es-419,,,covid19 domestic travel,desplazamiento nacional del COVID-19
+303,en,es-419,,,covid19 effects,efectos del COVID-19
+304,en,es-419,,,covid19 epidemic,epidemia de COVID-19
+305,en,es-419,,,covid19 exposure,exposición al COVID-19
+306,en,es-419,,,covid19 fatal,COVID-19 mortal
+307,en,es-419,,,covid19 fever,fiebre por COVID-19
+308,en,es-419,,,covid19 illness,enfermedad del COVID-19
+309,en,es-419,,,covid19 incubation,incubación de COVID-19
+310,en,es-419,,,covid19 incubation period,período de incubación del COVID-19
+311,en,es-419,,,covid19 infection,contagio de COVID-19
+312,en,es-419,,,covid19 international spread,propagación internacional del COVID-19
+313,en,es-419,,,covid19 international travel,desplazamiento internacional del COVID-19
+314,en,es-419,,,covid19 isolation,aislamiento por COVID-19
+315,en,es-419,,,covid19 lockdown,cierre de emergencia por COVID-19
+316,en,es-419,,,covid19 map,mapa del COVID-19
+317,en,es-419,,,covid19 medicine,medicamento para COVID-19
+318,en,es-419,,,covid19 medicines,medicamentos para COVID-19
+319,en,es-419,,,covid19 news,noticias sobre COVID-19
+320,en,es-419,,,covid19 outbreak,brote de COVID-19
+321,en,es-419,,,covid19 pandemic,pandemia de COVID-19
+324,en,es-419,,,covid19 precautions,cuidados ante el COVID-19
+325,en,es-419,,,covid19 protection,protección contra el COVID-19
+326,en,es-419,,,covid19 quarantine,cuarentena por COVID-19
+327,en,es-419,,,covid19 SOS Alert,alerta de SOS por el COVID-19
+328,en,es-419,,,covid19 spread,propagación de COVID-19
+329,en,es-419,,,covid19 symptoms,síntomas de COVID-19
+330,en,es-419,,,covid19 transmission,transmisión del COVID-19
+331,en,es-419,,,covid19 travel ban,prohibición de viajar por el COVID-19
+332,en,es-419,,,covid19 travel restrictions,restricciones para viajar por el COVID-19
+333,en,es-419,,,covid19 treatment,tratamiento para el COVID-19
+335,en,es-419,,,covid19 vaccine,vacuna para el COVID-19
+336,en,es-419,,,covid19 vaccines,vacunas para COVID-19
+337,en,es-419,,,covid19 virus,virus del COVID-19
+338,en,es-419,,,covid19 virus outbreak,brote del virus del COVID-19
+339,en,es-419,,,covid19 virus transmission,transmisión del virus del COVID-19
+342,en,es-419,,,current outbreak,brote actual
+343,en,es-419,,,deadly outbreak,brote mortal
+345,en,es-419,,,disease outbreak,brote de la enfermedad
+346,en,es-419,,,Disposable hand sanitizer,desinfectante de manos desechable
+348,en,es-419,,,domestic travel,viajes nacionales
+351,en,es-419,,,droplets,gotas
+357,en,es-419,,,Effects of coronavirus,Efectos del coronavirus
+359,en,es-419,,,epidemic,epidemia
+360,en,es-419,,,epidemic and pandemic,epidemia y pandemia
+362,en,es-419,,,epidemic disease,enfermedad epidémica
+364,en,es-419,,,epidemic outbreak,brote de epidemia
+365,en,es-419,,,epidemic period,período de epidemia
+366,en,es-419,,,epidemic prevention,prevención de epidemia
+368,en,es-419,,,epidemic season,temporada de epidemia
+369,en,es-419,,,epidemic situation,situación epidémica
+371,en,es-419,,,exposure,exposición
+375,en,es-419,,,exposure time,tiempo de exposición
+379,en,es-419,,,fever,fiebre
+380,en,es-419,,,fight the virus,luchar contra el virus
+381,en,es-419,,,Fighting the outbreak,Lucha contra el brote
+382,en,es-419,,,flu epidemic,epidemia de gripe
+385,en,es-419,,,fomites,fómites
+392,en,es-419,,,global health emergency,emergencia sanitaria mundial
+393,en,es-419,,,global outbreak,brote global
+394,en,es-419,,,global pandemic,pandemia global
+396,en,es-419,,,hand sanitizer,alcohol en gel
+397,en,es-419,,,hand sanitizer dispenser,dispensador de alcohol en gel
+398,en,es-419,,,hand sanitizer gel,desinfectante de manos en gel
+399,en,es-419,,,hand sanitizer spray,desinfectante de manos en espray
+401,en,es-419,,,Hepatitis B virus,virus de la hepatitis B
+402,en,es-419,,,herpes simplex virus,virus del herpes simple
+403,en,es-419,,,home isolation,aislamiento en casa
+404,en,es-419,,,home quarantine,cuarentena en casa
+410,en,es-419,,,illness,enfermedad
+415,en,es-419,,,incubation period,período de incubación
+418,en,es-419,,,infected,infectado
+424,en,es-419,,,instant hand sanitizer,alcohol en gel instantáneo
+425,en,es-419,,,international spread,propagación internacional
+426,en,es-419,,,international travel,viajes internacionales
+427,en,es-419,,,isolation,aislamiento
+428,en,es-419,,,isolation period,período de aislamiento
+430,en,es-419,,,isolation room,habitación de aislamiento
+431,en,es-419,,,isolation valve,válvula de aislamiento
+432,en,es-419,,,isolation ward,sala de aislamiento
+434,en,es-419,,,lockdown,cierre de emergencia
+436,en,es-419,,,long exposure,exposición prolongada
+438,en,es-419,,,major outbreak,brote importante
+439,en,es-419,,,mandatory quarantine,cuarentena obligatoria
+440,en,es-419,,,mass gathering,reunión masiva
+444,en,es-419,,,medicine,medicamento
+445,en,es-419,,,medicines,medicamentos
+447,en,es-419,,,mumps virus,virus de las paperas
+448,en,es-419,,,n95,N95
+449,en,es-419,,,n95 mask,barbijo N95
+450,en,es-419,,,n95 respirator,respirador N95
+451,en,es-419,,,ncov,2019-nCoV
+452,en,es-419,,,ncov-2019,2019-nCoV
+453,en,es-419,,,new coronavirus,nuevo coronavirus
+454,en,es-419,,,new coronavirus pneumonia,neumonía por el nuevo coronavirus
+460,en,es-419,,,novel coronavirus,nuevo coronavirus
+462,en,es-419,,,novel coronavirus infection,contagio del nuevo coronavirus
+463,en,es-419,,,novel coronavirus outbreak,brote del nuevo coronavirus
+464,en,es-419,,,novel coronavirus pneumonia,neumonía causada por el nuevo coronavirus
+470,en,es-419,,,ongoing outbreak,brote en curso
+472,en,es-419,,,outbreak,brote
+474,en,es-419,,,outbreak of coronavirus,brote del coronavirus
+475,en,es-419,,,outbreak of disease,brote de la enfermedad
+482,en,es-419,,,pandemic,pandemia
+485,en,es-419,,,pandemic influenza,influenza pandémica
+486,en,es-419,,,pandemic outbreak,brote pandémico
+487,en,es-419,,,pandemic plan,plan para la pandemia
+488,en,es-419,,,pandemic potential,potencial para la pandemia
+495,en,es-419,,,pneumonia,neumonía
+496,en,es-419,,,pneumonia epidemic,epidemia de neumonía
+497,en,es-419,,,potential exposure,posible exposición
+498,en,es-419,,,precautions,precauciones
+499,en,es-419,,,prevent virus,prevenir el virus
+500,en,es-419,,,prolonged exposure,exposición prolongada
+501,en,es-419,,,public exposure,exposición pública
+502,en,es-419,,,purell hand sanitizer,alcohol en gel purell
+504,en,es-419,,,quarantine,cuarentena
+505,en,es-419,,,quarantine area,área de cuarentena
+506,en,es-419,,,quarantine facility,instalaciones para la cuarentena
+507,en,es-419,,,quarantine measures,medidas para la cuarentena
+508,en,es-419,,,quarantine period,período de cuarentena
+509,en,es-419,,,quarantine room,sala de cuarentena
+510,en,es-419,,,quarantine zone,zona de cuarentena
+512,en,es-419,,,Recovered coronavirus patient,paciente con coronavirus recuperado
+514,en,es-419,,,repatriate,repatriar
+515,en,es-419,,,repeated exposure,exposición continua
+516,en,es-419,,,respiratory syncytial virus,virus sincitial respiratorio
+517,en,es-419,,,respiratory virus,virus respiratorio
+518,en,es-419,,,risk exposure,exposición a riesgos
+519,en,es-419,,,Sanitizing hand sanitizer,Alcohol en gel desinfectante
+520,en,es-419,,,SARS-CoV-2,SARS-CoV-2
+521,en,es-419,,,self isolation,autoaislamiento
+522,en,es-419,,,self quarantine,autocuarentena
+523,en,es-419,,,Severe outbreak,Brote grave
+525,en,es-419,,,social distancing,distanciamiento social
+526,en,es-419,,,social distancing measures,medidas de distanciamiento social
+527,en,es-419,,,social isolation,aislamiento social
+528,en,es-419,,,SOS Alert,alerta de SOS
+529,en,es-419,,,spread,propagar
+530,en,es-419,,,spread of coronavirus,propagación del coronavirus
+531,en,es-419,,,spread of virus,propagación del virus
+534,en,es-419,,,stomach virus,virus estomacal
+535,en,es-419,,,strain of virus,cepa del virus
+536,en,es-419,,,sun exposure,exposición al sol
+541,en,es-419,,,the incubation period,el período de incubación
+544,en,es-419,,,the novel coronavirus,el nuevo coronavirus
+558,en,es-419,,,touching face,tocándose la cara
+559,en,es-419,,,travel advisory,asesoramiento de viaje
+560,en,es-419,,,travel ban,prohibición de viajar
+561,en,es-419,,,travel restrictions,restricciones para viajar
+565,en,es-419,,,use hand sanitizer,use alcohol en gel
+566,en,es-419,,,vaccines,vacunas
+567,en,es-419,,,viral outbreak,brote viral
+568,en,es-419,,,virtual lockdown,aislamiento virtual
+569,en,es-419,,,virus,virus
+570,en,es-419,,,virus carrier,portador del virus
+573,en,es-419,,,virus infection,contagio de virus
+575,en,es-419,,,virus mask,barbijo para virus
+576,en,es-419,,,virus outbreak,brote de virus
+577,en,es-419,,,virus prevention,prevención del virus
+578,en,es-419,,,virus protection,protección contra el virus
+580,en,es-419,,,virus spread,propagación del virus
+582,en,es-419,,,virus spreads,el virus se propaga
+583,en,es-419,,,virus strain,cepa del virus
+584,en,es-419,,,virus transmission,transmisión del virus
+586,en,es-419,,,wash your hands,lávese las manos
+587,en,es-419,,,washing hands,lavarse las manos
+589,en,es-419,,,WHO,OMS
+590,en,es-419,,,WHO Confirmed,Confirmados por la OMS
+591,en,es-419,,,WHO Deaths,Muertes según la OMS
+592,en,es-419,,,widespread outbreak,brote generalizado
+597,en,es-419,,,World Health Organization,Organización Mundial de la Salud
+600,en,es-419,,,zoonotic disease,enfermedad zoonótica
+601,en,es-419,,,zoonotic virus,virus zoonótico

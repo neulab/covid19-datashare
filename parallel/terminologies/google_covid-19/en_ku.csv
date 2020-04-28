@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,ku,,,14 days in isolation,14 rojên di cudakirinê de
+26,en,ku,,,14 days quarantine,qarantînaya 14 rojan
+27,en,ku,,,2019 coronavirus,vîrusa koronoyê 2019
+28,en,ku,,,2019 novel coronavirus,vîrusa korona ya nûjen 2019
+29,en,ku,,,2019-nCoV,2019-nCoV
+30,en,ku,,,2020 coronavirus,vîrusa koronayê 2020
+31,en,ku,,,2020 novel coronavirus,vîrusa korona ya nûjen 2020
+33,en,ku,,,about coronavirus,derbarê vîrusa koronayê
+39,en,ku,,,acute respiratory distress syndrome,sendroma tengezeriya akût respîrator
+40,en,ku,,,advanced hand sanitizer,paqijkera dest a pêşketî
+41,en,ku,,,Affected by coronavirus,Bi vîrusa koronayê bandor girtî
+42,en,ku,,,after exposure,piştî tûşbûnê
+43,en,ku,,,After the epidemic,Piştî epîdemîyê
+44,en,ku,,,After the outbreak,Piştî şewbeyê
+47,en,ku,,,airborne virus,vîrusa hewayê
+48,en,ku,,,alcohol based hand sanitizer,paqijkera dest a bi alkol
+49,en,ku,,,alcohol hand sanitizer,paqijkera dest a alkol
+51,en,ku,,,alcohol-based hand sanitizer,paqijkera dest a bi-alkol
+59,en,ku,,,Anti-Corona virus spray,Spreya dij-Korona
+60,en,ku,,,antibacterial hand sanitizer,paqijkera dest a dijbakterî
+61,en,ku,,,ARDS,ARDS
+64,en,ku,,,avoid exposure,tûşbûnê dûr bimînin
+65,en,ku,,,be infected,enfektebûn
+75,en,ku,,,Beware of coronavirus,Haydarbûna bi vîrusa koronayê
+76,en,ku,,,bilateral interstitial pneumonia,satilcana şeqbûyî ya dualî
+77,en,ku,,,CDC,CDC
+78,en,ku,,,Center for Disease Control,Navenda Kontrolkirina Nexweşiyê
+83,en,ku,,,community spread,belavbûna civakî
+84,en,ku,,,compulsory quarantine,qarantîna mecbûrî
+85,en,ku,,,contagious,perok
+135,en,ku,,,coronavirus,vîrusa koronayê
+136,en,ku,,,coronavirus (COVID-19),vîrusa koronayê (COVID-19)
+137,en,ku,,,coronavirus alert,hişyariya vîrusa koronayê
+139,en,ku,,,coronavirus cases,bûyerên vîrusa koronayê
+141,en,ku,,,coronavirus concerns,fikarên vîrusa koronayê
+143,en,ku,,,coronavirus crisis,qeyrana vîrusa koronayê
+149,en,ku,,,coronavirus disease,nexweşiya vîrusa koronayê
+150,en,ku,,,Coronavirus disease (COVID-19) outbreak,Şewbeya vîrusa koronayê (COVID-19)
+153,en,ku,,,coronavirus early symptoms,semptomên destpêkê yên vîrusa koronayê
+155,en,ku,,,coronavirus epidemic,epîdemîya vîrusa koronayê
+156,en,ku,,,coronavirus exposure,tûşbûna vîrusa koronayê
+161,en,ku,,,coronavirus incubation,qurpketina vîrusa koronayê
+162,en,ku,,,coronavirus incubation period,pardema qurpketinê ya vîrusa korona
+163,en,ku,,,coronavirus infection,enfeksiyona vîrusa koronayê
+168,en,ku,,,coronavirus map,nexşeya vîrusa koronayê
+170,en,ku,,,coronavirus medicine,dermanê vîrusa koronayê
+171,en,ku,,,coronavirus medicines,dermanên vîrusa koronayê
+172,en,ku,,,coronavirus news,nûçeyên vîrusa koronayê
+173,en,ku,,,coronavirus outbreak,şewbeya vîrusa koronayê
+174,en,ku,,,coronavirus pandemic,pandemîya vîrusa koronayê
+176,en,ku,,,coronavirus pneumonia,satilcana vîrusa koronayê
+177,en,ku,,,coronavirus precautions,tewdîrên vîrusa koronayê
+178,en,ku,,,coronavirus prevention,bergiriya vîrusa koronayê
+179,en,ku,,,coronavirus protection,parastina vîrusa koronayê
+180,en,ku,,,coronavirus quarantine,qarantînaya vîrusa koronayê
+182,en,ku,,,coronavirus SOS Alert,Hişyariya SOS a vîrusa korona
+183,en,ku,,,coronavirus spread,belavbûna vîrusa koronayê
+184,en,ku,,,coronavirus symptoms,semptomên vîrusa koronayê
+185,en,ku,,,coronavirus transmission,derbasbûna vîrusa koronayê
+186,en,ku,,,coronavirus travel ban,qedexeya geryanê ya vîrusa koronayê
+187,en,ku,,,coronavirus travel restrictions,sînorkirinên geryanê yên vîrusa koronayê
+188,en,ku,,,coronavirus treatment,tedawiya vîrusa koronayê
+190,en,ku,,,coronavirus update,rojanebûna vîrusa koronayê
+191,en,ku,,,coronavirus vaccine,derziya vîrusa koronayê
+192,en,ku,,,coronavirus vaccines,derziyên vîrusa koronayê
+198,en,ku,,,covid cases,bûyerên covid
+205,en,ku,,,covid early symptoms,semptomên destpêkê yên covidê
+213,en,ku,,,covid incubation period,pardema qurpketinê ya covîdê
+215,en,ku,,,covid international spread,belavbûna navnetewî ya covidê
+216,en,ku,,,covid international travel,geryana navnetewî ya covîdê
+217,en,ku,,,covid isolation,cudakirina covid
+219,en,ku,,,covid map,nexşeya covid
+220,en,ku,,,covid medicine,dermanê covid
+221,en,ku,,,covid medicines,dermanên covid
+222,en,ku,,,covid news,nûçeyên covid
+223,en,ku,,,covid outbreak,şewbeya covid
+224,en,ku,,,covid pandemic,pandemîya covid
+225,en,ku,,,covid panic,panîka covid
+228,en,ku,,,covid SOS Alert,Hişyariya SOS a covîdê
+230,en,ku,,,covid symptoms,semptomên covid
+231,en,ku,,,covid transmission,derbasbûna covid
+232,en,ku,,,covid travel ban,qedexeya geryanê ya covidê
+233,en,ku,,,covid travel restrictions,sînorkirinên geryanê yên covidê
+234,en,ku,,,covid treatment,tedawiya covid
+236,en,ku,,,covid vaccine,derziya covid
+237,en,ku,,,covid vaccines,derziyên covid
+242,en,ku,,,covid-19,covid-19
+243,en,ku,,,covid-19 alert,hişyariya covid-19
+244,en,ku,,,covid-19 cases,bûyerên covid-19
+245,en,ku,,,covid-19 CDC,covid-19 CDC
+246,en,ku,,,covid-19 contagious,peroka covid-19
+247,en,ku,,,covid-19 cure,tedawiya covid-19
+248,en,ku,,,covid-19 dangerous,xetereya covid-19
+249,en,ku,,,covid-19 deadly,miriniya covid-19
+250,en,ku,,,covid-19 death,mirina covid-19
+251,en,ku,,,covid-19 deaths,mirinên covid-19
+252,en,ku,,,covid-19 domestic travel,geryana navwelêt a covid-19
+253,en,ku,,,covid-19 early symptoms,semptomên destpêkê yên covid-19
+254,en,ku,,,covid-19 effects,bandorên covid-19
+255,en,ku,,,covid-19 epidemic,epîdemîya covid-19
+256,en,ku,,,covid-19 exposure,tûşbûna covid-19
+257,en,ku,,,covid-19 fatal,mirdariya covid-19
+258,en,ku,,,covid-19 fever,agirê covid-19
+259,en,ku,,,covid-19 illness,nexweşiya covid-19
+260,en,ku,,,covid-19 incubation,qurpketina covid-19
+261,en,ku,,,covid-19 incubation period,pardema qurpketinê ya covid-19
+262,en,ku,,,covid-19 infection,enfeksiyona covid-19
+263,en,ku,,,covid-19 international spread,belavbûna navnetewî ya covid-19
+264,en,ku,,,covid-19 international travel,geryana navnetewî ya covid-19
+265,en,ku,,,covid-19 isolation,cudakirina covid-19
+266,en,ku,,,covid-19 lockdown,tecrîta covid-19
+267,en,ku,,,covid-19 map,nexşeya covid-19
+268,en,ku,,,covid-19 medicine,dermanê covid-19
+269,en,ku,,,covid-19 medicines,dermanên covid-19
+270,en,ku,,,covid-19 news,nûçeyên covid-19
+271,en,ku,,,covid-19 outbreak,şewbeya covid-19
+272,en,ku,,,covid-19 pandemic,pandemîya covid-19
+273,en,ku,,,covid-19 panic,panîka covid-19
+275,en,ku,,,covid-19 precautions,tewdîrên covid-19
+276,en,ku,,,covid-19 protection,parastina covid-19
+277,en,ku,,,covid-19 quarantine,qarantînaya covid-19
+278,en,ku,,,covid-19 SOS Alert,Hişyariya SOS a covid-19
+279,en,ku,,,covid-19 spread,belavbûna covid-19
+280,en,ku,,,covid-19 symptoms,semptomên covid-19
+281,en,ku,,,covid-19 transmission,derbasbûna covid-19
+282,en,ku,,,covid-19 travel ban,qedexeya geryanê ya covid-19
+283,en,ku,,,covid-19 travel restrictions,sînorkirinên geryanê yên covid-19
+284,en,ku,,,covid-19 treatment,tedawiya covid-19
+285,en,ku,,,covid-19 uncontrolled spread,belavbûna nekontrolkirî ya covid-19
+286,en,ku,,,covid-19 vaccine,derziya covid-19
+287,en,ku,,,covid-19 vaccines,derziyên covid-19
+288,en,ku,,,COVID-19 virus,vîrusa covid-19
+289,en,ku,,,covid-19 virus outbreak,şewbeya vîrusê ya covid-19
+290,en,ku,,,covid-19 virus transmission,derbasbûna vîrusa covid-19
+291,en,ku,,,covid-19 WHO,covid-19 WHO
+292,en,ku,,,covid19,covid19
+293,en,ku,,,covid19 alert,hişyariya covid19
+294,en,ku,,,covid19 cases,bûyerên covid19
+295,en,ku,,,covid19 CDC,covid19 CDC
+301,en,ku,,,covid19 deaths,mirinên covid19
+302,en,ku,,,covid19 domestic travel,geryana navwelêt a covid19
+303,en,ku,,,covid19 effects,bandorên covid19
+304,en,ku,,,covid19 epidemic,epîdemîya covid19
+305,en,ku,,,covid19 exposure,tûşbûna covid19
+306,en,ku,,,covid19 fatal,mirdariya covid19
+307,en,ku,,,covid19 fever,agirê covid19
+308,en,ku,,,covid19 illness,nexweşiya covid19
+309,en,ku,,,covid19 incubation,qurpketina covid19
+310,en,ku,,,covid19 incubation period,pardema qurpketinê ya covid19
+311,en,ku,,,covid19 infection,enfeksiyona covid19
+312,en,ku,,,covid19 international spread,belavbûna navnetewî ya covid19
+313,en,ku,,,covid19 international travel,geryana navnetewî ya covid19
+314,en,ku,,,covid19 isolation,cudakirina covid19
+315,en,ku,,,covid19 lockdown,tecrîta covid19
+316,en,ku,,,covid19 map,nexşeya covid19
+317,en,ku,,,covid19 medicine,dermanê covid19
+318,en,ku,,,covid19 medicines,dermanên covid19
+319,en,ku,,,covid19 news,nûçeyên covid19
+320,en,ku,,,covid19 outbreak,şewbeya covid19
+321,en,ku,,,covid19 pandemic,pandemîya covid19
+324,en,ku,,,covid19 precautions,tewdîrên covid19
+325,en,ku,,,covid19 protection,parastina covid19
+326,en,ku,,,covid19 quarantine,qarantînaya covid19
+327,en,ku,,,covid19 SOS Alert,Hişyariya SOS a covid19
+328,en,ku,,,covid19 spread,belavbûna covid19
+329,en,ku,,,covid19 symptoms,semptomên covid19
+330,en,ku,,,covid19 transmission,derbasbûna covid19
+331,en,ku,,,covid19 travel ban,qedexeya geryanê ya covid19
+332,en,ku,,,covid19 travel restrictions,sînorkirinên geryanê yên covid19
+333,en,ku,,,covid19 treatment,tedawiya covid19
+335,en,ku,,,covid19 vaccine,derziya covid19
+336,en,ku,,,covid19 vaccines,derziyên covid19
+337,en,ku,,,covid19 virus,vîrusa covid19
+338,en,ku,,,covid19 virus outbreak,şewbeya vîrusê ya covid19
+339,en,ku,,,covid19 virus transmission,derbasbûna vîrusê ya covid19
+342,en,ku,,,current outbreak,şewbeya niha
+343,en,ku,,,deadly outbreak,şewbeya mirinî
+345,en,ku,,,disease outbreak,nexweşiya şewbe
+346,en,ku,,,Disposable hand sanitizer,Paqijkera dest a yekcarî
+348,en,ku,,,domestic travel,geryana navwelêt
+351,en,ku,,,droplets,dilopik
+357,en,ku,,,Effects of coronavirus,Bandorên vîrusa koronayê
+359,en,ku,,,epidemic,epîdemîk
+360,en,ku,,,epidemic and pandemic,epîdemî û pandemî
+362,en,ku,,,epidemic disease,nexweşiya epîdemîk
+364,en,ku,,,epidemic outbreak,şewbeya epîdemîk
+365,en,ku,,,epidemic period,pardema epîdemîk
+366,en,ku,,,epidemic prevention,bergiriya epîdemîk
+368,en,ku,,,epidemic season,demsala pandemîk
+369,en,ku,,,epidemic situation,rewşa pandemîk
+371,en,ku,,,exposure,tûşbûn
+375,en,ku,,,exposure time,dema tûşbûnê
+379,en,ku,,,fever,agir
+380,en,ku,,,fight the virus,şerê vîrusê bikin
+381,en,ku,,,Fighting the outbreak,Şerkirina bi şewbeyê
+382,en,ku,,,flu epidemic,epîdemîya persîvê
+385,en,ku,,,fomites,fomît
+392,en,ku,,,global health emergency,aciliyeta tenduristiyê ya gerdûnî
+393,en,ku,,,global outbreak,şewbeya gerdûnî
+394,en,ku,,,global pandemic,pandemîya gerdûnî
+396,en,ku,,,hand sanitizer,paqijkera dest
+397,en,ku,,,hand sanitizer dispenser,belavkara paqijkera dest
+398,en,ku,,,hand sanitizer gel,jela paqijkera dest
+399,en,ku,,,hand sanitizer spray,spreya paqijkera dest
+403,en,ku,,,home isolation,cudakirina malê
+404,en,ku,,,home quarantine,qarantînaya malê
+410,en,ku,,,illness,nexweşî
+415,en,ku,,,incubation period,pardema qurpketinê
+418,en,ku,,,infected,enfektebûyî
+424,en,ku,,,instant hand sanitizer,paqijkera dest a acil
+425,en,ku,,,international spread,belavbûna navnetewî
+426,en,ku,,,international travel,geryana navnetewî
+427,en,ku,,,isolation,cudakirin
+428,en,ku,,,isolation period,pardema cudakirinê
+430,en,ku,,,isolation room,odeya cudakirinê
+431,en,ku,,,isolation valve,tûpa cudakirinê
+432,en,ku,,,isolation ward,dergevanê cudakirinê
+434,en,ku,,,lockdown,tecrît
+438,en,ku,,,major outbreak,şewbeya sereke
+439,en,ku,,,mandatory quarantine,qarantîna mecbûrî
+440,en,ku,,,mass gathering,berhevbûna girseyî
+444,en,ku,,,medicine,derman
+445,en,ku,,,medicines,derman
+448,en,ku,,,n95,n95
+449,en,ku,,,n95 mask,maskeya n95
+450,en,ku,,,n95 respirator,respîratora n95
+451,en,ku,,,ncov,ncov
+452,en,ku,,,ncov-2019,ncov-2019
+453,en,ku,,,new coronavirus,vîrûsa korona ya nû
+454,en,ku,,,new coronavirus pneumonia,satilcana vîrusa korona ya nû
+460,en,ku,,,novel coronavirus,vîrûsa korona ya nûjen
+462,en,ku,,,novel coronavirus infection,enfeksiyona vîrusa korona ya nûjen
+463,en,ku,,,novel coronavirus outbreak,şewbeya vîrusa korona ya nûjen
+464,en,ku,,,novel coronavirus pneumonia,satilcana vîrisa korona ya nûjen
+470,en,ku,,,ongoing outbreak,şewbeya berdewam
+472,en,ku,,,outbreak,şewbe
+474,en,ku,,,outbreak of coronavirus,şewbeya vîrusa koronayê
+475,en,ku,,,outbreak of disease,şewbeya nexweşiyê
+482,en,ku,,,pandemic,pandemî
+485,en,ku,,,pandemic influenza,persîva pandemîk
+486,en,ku,,,pandemic outbreak,şewbeya pandemîk
+487,en,ku,,,pandemic plan,pîlana pandemîk
+488,en,ku,,,pandemic potential,potansîyela pandemîk
+495,en,ku,,,pneumonia,satilcan
+496,en,ku,,,pneumonia epidemic,satilcana epîdemîk
+497,en,ku,,,potential exposure,tûşbûna potansîyel
+498,en,ku,,,precautions,tewdîr
+499,en,ku,,,prevent virus,vîrusê bergir bike
+500,en,ku,,,prolonged exposure,tûşbûna dirêjbûyî
+504,en,ku,,,quarantine,qarantîna
+505,en,ku,,,quarantine area,herêma qarantînayê
+506,en,ku,,,quarantine facility,derfeta qarantînayê
+507,en,ku,,,quarantine measures,pîvanên qarantînayê
+508,en,ku,,,quarantine period,pardema qarantînayê
+509,en,ku,,,quarantine room,odeya qarantînayê
+510,en,ku,,,quarantine zone,devera qarantînayê
+512,en,ku,,,Recovered coronavirus patient,Nexweşê qencbûyî yê vîrusa koronayê
+514,en,ku,,,repatriate,vedigerim
+515,en,ku,,,repeated exposure,tûşbûna dubarekirî
+516,en,ku,,,respiratory syncytial virus,vîrusa sînsîsyal a respîrator
+517,en,ku,,,respiratory virus,vîrusa respîrator
+519,en,ku,,,Sanitizing hand sanitizer,Paqijkirina paqijkera dest
+520,en,ku,,,SARS-CoV-2,SARS-CoV-2
+521,en,ku,,,self isolation,xwe cudakirin
+522,en,ku,,,self quarantine,xwe tecrîtkirin
+523,en,ku,,,Severe outbreak,Şewbeya tund
+525,en,ku,,,social distancing,dûrahiya civakî
+526,en,ku,,,social distancing measures,pîvanên dûrahiya civakî
+527,en,ku,,,social isolation,cudakirina civakî
+528,en,ku,,,SOS Alert,Hişyariya SOS
+529,en,ku,,,spread,belavbûn
+530,en,ku,,,spread of coronavirus,belavbûna vîrusa koronayê
+531,en,ku,,,spread of virus,belavbûna vîrusê
+535,en,ku,,,strain of virus,cureyê vîrusê
+541,en,ku,,,the incubation period,pardema qurpketinê
+544,en,ku,,,the novel coronavirus,vîrusa koronayê ya nûjen
+558,en,ku,,,touching face,destlêdana sûretê
+559,en,ku,,,travel advisory,pêşniyaza geryanê
+560,en,ku,,,travel ban,qedexeya geryanê
+561,en,ku,,,travel restrictions,sînorkirinên geryanê
+565,en,ku,,,use hand sanitizer,paqijkerên dest bi kar bînin
+566,en,ku,,,vaccines,derzî
+567,en,ku,,,viral outbreak,şewbeya vîral
+568,en,ku,,,virtual lockdown,tecrîta rastî
+569,en,ku,,,virus,vîrus
+570,en,ku,,,virus carrier,bargirê vîrusê
+573,en,ku,,,virus infection,enfeksiyona vîrusê
+575,en,ku,,,virus mask,maskeya vîrusê
+576,en,ku,,,virus outbreak,şewbeya vîrusê
+577,en,ku,,,virus prevention,bergiriya vîrusê
+578,en,ku,,,virus protection,parastina vîrusê
+580,en,ku,,,virus spread,vîrus belavbûn
+582,en,ku,,,virus spreads,belavbûnên vîrusê
+583,en,ku,,,virus strain,cureya vîrusê
+584,en,ku,,,virus transmission,derbasbûna vîrusê
+586,en,ku,,,wash your hands,destên xwe bişon
+587,en,ku,,,washing hands,şûştina destan
+589,en,ku,,,WHO,WHO
+590,en,ku,,,WHO Confirmed,WHO Erêkirî
+591,en,ku,,,WHO Deaths,Mirinên WHO
+592,en,ku,,,widespread outbreak,şewbeya berbelav
+597,en,ku,,,World Health Organization,Rêxistina Tenduristiya Cîhanê
+600,en,ku,,,zoonotic disease,nexweşiya jêderheywan
+601,en,ku,,,zoonotic virus,vîrusa jêderheywan

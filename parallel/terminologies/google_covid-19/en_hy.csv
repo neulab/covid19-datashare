@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,hy,,,14 days in isolation,14 օր մեկուսացման մեջ
+26,en,hy,,,14 days quarantine,14 օր տևողությամբ կարանտին
+27,en,hy,,,2019 coronavirus,2019 կորոնավիրուս
+28,en,hy,,,2019 novel coronavirus,նոր կորոնավիրուս-2019
+29,en,hy,,,2019-nCoV,2019-nCoV
+30,en,hy,,,2020 coronavirus,2020 կորոնավիրուս
+31,en,hy,,,2020 novel coronavirus,նոր կորոնավիրուս-2020
+33,en,hy,,,about coronavirus,կորոնավիրուսի մասին
+39,en,hy,,,acute respiratory distress syndrome,սուր շնչառական դիսթրես համախտանիշ
+40,en,hy,,,advanced hand sanitizer,ձեռքերի ախտահանման բարձրակարգ միջոց
+41,en,hy,,,Affected by coronavirus,Կորոնավիրուսի ազդեցությունը կրող
+42,en,hy,,,after exposure,ազդեցության ենթարկումից հետո
+43,en,hy,,,After the epidemic,Համաճարակի մասին
+44,en,hy,,,After the outbreak,Բռնկման մասին
+47,en,hy,,,airborne virus,օդակաթիլային վիրուս
+48,en,hy,,,alcohol based hand sanitizer,սպիրտային հիմքով ձեռքերի ախտահանման միջոց
+49,en,hy,,,alcohol hand sanitizer,սպիրտային հիմքով ձեռքերի ախտահանման միջոց
+51,en,hy,,,alcohol-based hand sanitizer,սպիրտային հիմքով ձեռքերի ախտահանմամն միջոց
+59,en,hy,,,Anti-Corona virus spray,Հակակորոնավիրուսային փոշեցրման միջոց
+60,en,hy,,,antibacterial hand sanitizer,ձեռքերի ախտահանման հակաբակտերիալ միջոց
+61,en,hy,,,ARDS,ARDS
+64,en,hy,,,avoid exposure,խուսափել ազդեցության ենթարկումից
+65,en,hy,,,be infected,վարակվել
+75,en,hy,,,Beware of coronavirus,Զգուշացե՛ք կորոնավիրուսից
+76,en,hy,,,bilateral interstitial pneumonia,երկկողմանի ինտերստիցիալ թոքաբորբ
+77,en,hy,,,CDC,CDC
+78,en,hy,,,Center for Disease Control,Հիվանդությունների վերահսկման և կանխարգելման կենտրոն
+83,en,hy,,,community spread,տարածում համայնքում
+84,en,hy,,,compulsory quarantine,պարտադիր կարանտին
+85,en,hy,,,contagious,վարակիչ
+135,en,hy,,,coronavirus,կորոնավիրուս
+136,en,hy,,,coronavirus (COVID-19),կորոնավիրուս (COVID-19)
+137,en,hy,,,coronavirus alert,կորոնավիրուսի տագնապ
+139,en,hy,,,coronavirus cases,կորոնավիրուսի դեպքեր
+141,en,hy,,,coronavirus concerns,մտահոգություններ կորոնավիրուսի շուրջ
+143,en,hy,,,coronavirus crisis,կորոնավիրուսի ճգնաժամ
+149,en,hy,,,coronavirus disease,կորոնավիրուսային հիվանդություն
+150,en,hy,,,Coronavirus disease (COVID-19) outbreak,Կորոնավիրուսային հիվանդության (COVID-19) բռնկում
+153,en,hy,,,coronavirus early symptoms,կորոնավիրուսի վաղ ախտանիշներ
+155,en,hy,,,coronavirus epidemic,կորոնավիրուսի համաճարակ
+156,en,hy,,,coronavirus exposure,կորոնավիրուսի ազդեցության ենթարկում
+161,en,hy,,,coronavirus incubation,կորոնավիրուսի ինկուբացիա
+162,en,hy,,,coronavirus incubation period,կորոնավիրուսի ինկուբացիոն շրջան
+163,en,hy,,,coronavirus infection,կորոնավիրուսի վարակ
+168,en,hy,,,coronavirus map,կորոնավիրուսի քարտեզ
+170,en,hy,,,coronavirus medicine,կորոնավիրուսի դեղ
+171,en,hy,,,coronavirus medicines,կորոնավիրուսի դեղեր
+172,en,hy,,,coronavirus news,նորություններ կորոնավիրուսի մասին
+173,en,hy,,,coronavirus outbreak,կորոնավիրուսի բռնկում
+174,en,hy,,,coronavirus pandemic,կորոնավիրուսի համավարակ
+176,en,hy,,,coronavirus pneumonia,թոքաբորբ կորոնավիրուսից
+177,en,hy,,,coronavirus precautions,կորոնավիրուսի նախազգուշական միջոցներ
+178,en,hy,,,coronavirus prevention,կորոնավիրուսի կանխարգելում
+179,en,hy,,,coronavirus protection,պաշտպանություն կորոնավիրուսից
+180,en,hy,,,coronavirus quarantine,կորոնավիրուսի կարանտին
+182,en,hy,,,coronavirus SOS Alert,կորոնավիրուսի վերաբերյալ SOS ազդանշան
+183,en,hy,,,coronavirus spread,կորոնավիրուսի տարածում
+184,en,hy,,,coronavirus symptoms,կորոնավիրուսի ախտանիշներ
+185,en,hy,,,coronavirus transmission,կորոնավիրուսի փոխանցում
+186,en,hy,,,coronavirus travel ban,կորոնավիրուսի հետ կապված ուղևորությունների արգելք
+187,en,hy,,,coronavirus travel restrictions,կորոնավիրուսի հետ կապված ուղևորությունների սահմանափակումներ
+188,en,hy,,,coronavirus treatment,կորոնավիրուսի բուժում
+190,en,hy,,,coronavirus update,կորոնավիրուսի նորություններ
+191,en,hy,,,coronavirus vaccine,կորոնավիրուսի պատվաստանյութ
+192,en,hy,,,coronavirus vaccines,կորոնավիրուսի պատվաստանյութեր
+198,en,hy,,,covid cases,covid դեպքեր
+205,en,hy,,,covid early symptoms,covid-ի վաղ ախտանիշներ
+213,en,hy,,,covid incubation period,covid-ի ինկուբացիոն շրջան
+215,en,hy,,,covid international spread,covid-ի միջազգային տարածում
+216,en,hy,,,covid international travel,covid-ի պայմաններում միջազգային ուղևորություններ
+217,en,hy,,,covid isolation,covid մեկուսացում
+219,en,hy,,,covid map,covid քարտեզ
+220,en,hy,,,covid medicine,covid դեղ
+221,en,hy,,,covid medicines,covid դեղեր
+222,en,hy,,,covid news,covid նորություններ
+223,en,hy,,,covid outbreak,covid բռնկում
+224,en,hy,,,covid pandemic,covid համավարակ
+225,en,hy,,,covid panic,covid խուճապ
+228,en,hy,,,covid SOS Alert,covid-ի վերաբերյալ SOS ազդանշան
+230,en,hy,,,covid symptoms,covid ախտանիշներ
+231,en,hy,,,covid transmission,covid փոխանցում
+232,en,hy,,,covid travel ban,covid-ի հետ կապված ուղևորությունների արգելք
+233,en,hy,,,covid travel restrictions,covid-ի հետ կապված ուղևորությունների սահմանափակումներ
+234,en,hy,,,covid treatment,covid բուժում
+236,en,hy,,,covid vaccine,covid պատվաստանյութ
+237,en,hy,,,covid vaccines,covid պատվաստանյութեր
+242,en,hy,,,covid-19,covid-19
+243,en,hy,,,covid-19 alert,covid-19 տագնապ
+244,en,hy,,,covid-19 cases,covid-19 դեպքեր
+245,en,hy,,,covid-19 CDC,covid-19 CDC
+246,en,hy,,,covid-19 contagious,covid-19 վարակիչ
+247,en,hy,,,covid-19 cure,covid-19 բուժում
+248,en,hy,,,covid-19 dangerous,covid-19 վտանգավոր
+249,en,hy,,,covid-19 deadly,covid-19 մահացու
+250,en,hy,,,covid-19 death,covid-19 մահ
+251,en,hy,,,covid-19 deaths,covid-19 մահեր
+252,en,hy,,,covid-19 domestic travel,covid-19-ի պայմաններում ուղևորությունները երկրի ներսում
+253,en,hy,,,covid-19 early symptoms,covid-19-ի վաղ ախտանիշներ
+254,en,hy,,,covid-19 effects,covid-19 ազդեցություններ
+255,en,hy,,,covid-19 epidemic,covid-19 համաճարակ
+256,en,hy,,,covid-19 exposure,covid-19 ազդեցության ենթարկում
+257,en,hy,,,covid-19 fatal,covid-19 ճակատագրական
+258,en,hy,,,covid-19 fever,covid-19 ջերմություն
+259,en,hy,,,covid-19 illness,covid-19 հիվանդություն
+260,en,hy,,,covid-19 incubation,covid-19 ինկուբացիա
+261,en,hy,,,covid-19 incubation period,covid-19-ի ինկուբացիոն շրջան
+262,en,hy,,,covid-19 infection,covid-19 վարակ
+263,en,hy,,,covid-19 international spread,covid-19-ի միջազգային տարածում
+264,en,hy,,,covid-19 international travel,covid-19-ի պայմաններում միջազգային ուղևորություններ
+265,en,hy,,,covid-19 isolation,covid-19 մեկուսացում
+266,en,hy,,,covid-19 lockdown,covid-19 արգելափակում
+267,en,hy,,,covid-19 map,covid-19 քարտեզ
+268,en,hy,,,covid-19 medicine,covid-19 դեղ
+269,en,hy,,,covid-19 medicines,covid-19 դեղեր
+270,en,hy,,,covid-19 news,covid-19 նորություններ
+271,en,hy,,,covid-19 outbreak,covid-19 բռնկում
+272,en,hy,,,covid-19 pandemic,covid-19 համավարակ
+273,en,hy,,,covid-19 panic,covid-19 խուճապ
+275,en,hy,,,covid-19 precautions,covid-19 նախազգուշական միջոցներ
+276,en,hy,,,covid-19 protection,covid-19 պաշտպանություն
+277,en,hy,,,covid-19 quarantine,covid-19 կարանտին
+278,en,hy,,,covid-19 SOS Alert,covid-19-ի վերաբերյալ SOS ազդանշան
+279,en,hy,,,covid-19 spread,covid-19 տարածում
+280,en,hy,,,covid-19 symptoms,covid-19 ախտանիշներ
+281,en,hy,,,covid-19 transmission,covid-19 փոխանցում
+282,en,hy,,,covid-19 travel ban,covid-19-ի հետ կապված ուղևորությունների արգելք
+283,en,hy,,,covid-19 travel restrictions,covid-19-ի հետ կապված ուղևորությունների սահմանափակումներ
+284,en,hy,,,covid-19 treatment,covid-19 բուժում
+285,en,hy,,,covid-19 uncontrolled spread,covid-19-ի չվերահսկվող տարածում
+286,en,hy,,,covid-19 vaccine,covid-19 պատվաստանյութ
+287,en,hy,,,covid-19 vaccines,covid-19 պատվաստանյութեր
+288,en,hy,,,COVID-19 virus,covid-19 վիրուս
+289,en,hy,,,covid-19 virus outbreak,covid-19 վիրուսի բռնկում
+290,en,hy,,,covid-19 virus transmission,covid-19 վիրուսի փոխանցում
+291,en,hy,,,covid-19 WHO,covid-19 ԱՀԿ
+292,en,hy,,,covid19,covid19
+293,en,hy,,,covid19 alert,covid19 տագնապ
+294,en,hy,,,covid19 cases,covid19 դեպքեր
+295,en,hy,,,covid19 CDC,covid19 CDC
+301,en,hy,,,covid19 deaths,covid19 մահեր
+302,en,hy,,,covid19 domestic travel,covid19 պայմաններում ուղևորություններ երկրի ներսում
+303,en,hy,,,covid19 effects,covid19 ազդեցություններ
+304,en,hy,,,covid19 epidemic,covid19 համաճարակ
+305,en,hy,,,covid19 exposure,covid19 ազդեցության ենթարկում
+306,en,hy,,,covid19 fatal,covid19 ճակատագրական
+307,en,hy,,,covid19 fever,covid19 ջերմություն
+308,en,hy,,,covid19 illness,covid19 հիվանդություն
+309,en,hy,,,covid19 incubation,covid19 ինկուբացիա
+310,en,hy,,,covid19 incubation period,covid-19 ինկուբացիոն շրջան
+311,en,hy,,,covid19 infection,covid19 վարակ
+312,en,hy,,,covid19 international spread,covid-19-ի միջազգային տարածում
+313,en,hy,,,covid19 international travel,covid19-ի պայմաններում միջազգային ուղևորություններ
+314,en,hy,,,covid19 isolation,covid19 մեկուսացում
+315,en,hy,,,covid19 lockdown,covid19 արգելափակում
+316,en,hy,,,covid19 map,covid19 քարտեզ
+317,en,hy,,,covid19 medicine,covid19 դեղ
+318,en,hy,,,covid19 medicines,covid19 դեղեր
+319,en,hy,,,covid19 news,covid19 նորություններ
+320,en,hy,,,covid19 outbreak,covid19 բռնկում
+321,en,hy,,,covid19 pandemic,covid19 համավարակ
+324,en,hy,,,covid19 precautions,covid19 նախազգուշական միջոցներ
+325,en,hy,,,covid19 protection,covid19 պաշտպանություն
+326,en,hy,,,covid19 quarantine,covid19 կարանտին
+327,en,hy,,,covid19 SOS Alert,covid19-ի վերաբերյալ SOS ազդանշան
+328,en,hy,,,covid19 spread,covid19 տարածում
+329,en,hy,,,covid19 symptoms,covid19 ախտանիշներ
+330,en,hy,,,covid19 transmission,covid19 փոխանցում
+331,en,hy,,,covid19 travel ban,covid19-ի հետ կապված ուղևորությունների արգելք
+332,en,hy,,,covid19 travel restrictions,covid19-ի պայմաններում ուղևորությունների սահմանափակումներ
+333,en,hy,,,covid19 treatment,covid19 բուժում
+335,en,hy,,,covid19 vaccine,covid19 պատվաստանյութ
+336,en,hy,,,covid19 vaccines,covid19 պատվաստանյութեր
+337,en,hy,,,covid19 virus,covid19 վիրուս
+338,en,hy,,,covid19 virus outbreak,covid19 վիրուսի բռնկում
+339,en,hy,,,covid19 virus transmission,covid19 վիրուսի փոխանցում
+342,en,hy,,,current outbreak,ընթացիկ բռնկում
+343,en,hy,,,deadly outbreak,մահացու բռնկում
+345,en,hy,,,disease outbreak,հիվանդության բռնկում
+346,en,hy,,,Disposable hand sanitizer,մեկանգամյա օգտագործման ձեռքերի ախտահանման միջոց
+348,en,hy,,,domestic travel,ներպետական ճանապարհորդություն
+351,en,hy,,,droplets,կաթիլներ
+357,en,hy,,,Effects of coronavirus,Կորոնավիրուսի ազդեցությունը
+359,en,hy,,,epidemic,համաճարակ
+360,en,hy,,,epidemic and pandemic,համաճարակ և համավարակ
+362,en,hy,,,epidemic disease,համաճարակային հիվանդություն
+364,en,hy,,,epidemic outbreak,համաճարակային բռնկում
+365,en,hy,,,epidemic period,համաճարակի ժամանակաշրջան
+366,en,hy,,,epidemic prevention,համաճարակի կանխարգելում
+368,en,hy,,,epidemic season,համաճարակի սեզոն
+369,en,hy,,,epidemic situation,համաճարակային իրավիճակ
+371,en,hy,,,exposure,ազդեցության ենթարկում
+375,en,hy,,,exposure time,ազդեցության ենթարկման ժամանակ
+379,en,hy,,,fever,ջերմություն
+380,en,hy,,,fight the virus,պայքարել վիրուսի դեմ
+381,en,hy,,,Fighting the outbreak,Բռնկման դեմ պայքարելը
+382,en,hy,,,flu epidemic,գրիպի համաճարակ
+385,en,hy,,,fomites,ֆոմիտներ
+392,en,hy,,,global health emergency,համաշխարհային առողջապահական արտակարգ դրություն
+393,en,hy,,,global outbreak,համաշխարհային բռնկում
+394,en,hy,,,global pandemic,համաշխարհային համավարակ
+396,en,hy,,,hand sanitizer,ձեռքի ախտահանիչ միջոց
+397,en,hy,,,hand sanitizer dispenser,ձեռքերի ախտահանող միջոցի դիսպենսեր
+398,en,hy,,,hand sanitizer gel,ձեռքերը ախտահանող գել
+399,en,hy,,,hand sanitizer spray,ձեռքերը ախտահանող սփրեյ
+403,en,hy,,,home isolation,մեկուսացում տանը
+404,en,hy,,,home quarantine,կարանտին տանը
+410,en,hy,,,illness,հիվանդություն
+415,en,hy,,,incubation period,ինկուբացիոն ժամանակաշրջան
+418,en,hy,,,infected,վարակված
+424,en,hy,,,instant hand sanitizer,ձեռքերի ակնթարթային ախտահանող միջոց
+425,en,hy,,,international spread,միջազգային տարածում
+426,en,hy,,,international travel,միջազգային ճանապարհորդություն
+427,en,hy,,,isolation,մեկուսացում
+428,en,hy,,,isolation period,մեկուսացման ժամանակաշրջան
+430,en,hy,,,isolation room,մեկուսացման սենյակ
+431,en,hy,,,isolation valve,մեկուսացման փական
+432,en,hy,,,isolation ward,մեկուսացման հիվանդասենյակ
+434,en,hy,,,lockdown,արգելափակում
+438,en,hy,,,major outbreak,խոշոր բռնկում
+439,en,hy,,,mandatory quarantine,պարտադիր կարանտին
+440,en,hy,,,mass gathering,զանգվածային հավաք
+444,en,hy,,,medicine,դեղ
+445,en,hy,,,medicines,դեղեր
+448,en,hy,,,n95,n95
+449,en,hy,,,n95 mask,n95 դիմակ
+450,en,hy,,,n95 respirator,n95 շնչառական սարք
+451,en,hy,,,ncov,ncov
+452,en,hy,,,ncov-2019,ncov-2019
+453,en,hy,,,new coronavirus,նոր կորոնավիրուս
+454,en,hy,,,new coronavirus pneumonia,նոր կորոնավիրուսով պայմանավորված թոքաբորբ
+460,en,hy,,,novel coronavirus,նոր տիպի կորոնավիրուս
+462,en,hy,,,novel coronavirus infection,նոր կորոնավիրուսի վարակ
+463,en,hy,,,novel coronavirus outbreak,նոր կորոնավիրուսի բռնկում
+464,en,hy,,,novel coronavirus pneumonia,նոր կորոնավիրուսով պայմանավորված թոքաբորբ
+470,en,hy,,,ongoing outbreak,շարունակական բռնկում
+472,en,hy,,,outbreak,բռնկում
+474,en,hy,,,outbreak of coronavirus,կորոնավիրուսի բռնկում
+475,en,hy,,,outbreak of disease,հիվանդության բռնկում
+482,en,hy,,,pandemic,համավարակ
+485,en,hy,,,pandemic influenza,պանդեմիական գրիպ
+486,en,hy,,,pandemic outbreak,համավարակի բռնկում
+487,en,hy,,,pandemic plan,համավարակին նախապատրաստման պլան
+488,en,hy,,,pandemic potential,համավարակի բռնկման հավանականություն
+495,en,hy,,,pneumonia,թոքաբորբ
+496,en,hy,,,pneumonia epidemic,թոքաբորբի համաճարակ
+497,en,hy,,,potential exposure,հնարավոր ազդեցություն
+498,en,hy,,,precautions,նախազգուշական միջոցներ
+499,en,hy,,,prevent virus,կանխարգելել վիրուսը
+500,en,hy,,,prolonged exposure,երկարատև ազդեցություն
+504,en,hy,,,quarantine,կարանտին
+505,en,hy,,,quarantine area,կարանտինային տարածք
+506,en,hy,,,quarantine facility,կարանտինի մեջ գտնվող օբյեկտ
+507,en,hy,,,quarantine measures,կարանտինային միջոցառումներ
+508,en,hy,,,quarantine period,կարանտինի ժամանակաշրջան
+509,en,hy,,,quarantine room,կարանտինային սենյակ
+510,en,hy,,,quarantine zone,կարանտինային գոտի
+512,en,hy,,,Recovered coronavirus patient,Կորոնավիրուսից բուժված պացիենտ
+514,en,hy,,,repatriate,հայրենադարձել
+515,en,hy,,,repeated exposure,կրկնակի ազդեցություն
+516,en,hy,,,respiratory syncytial virus,ռեսպիրատոր սինցիտիալ վիրուս
+517,en,hy,,,respiratory virus,ռեսպիրատոր վիրուս
+519,en,hy,,,Sanitizing hand sanitizer,Ձեռքերի ախտահանման միջոց
+520,en,hy,,,SARS-CoV-2,SARS-CoV-2
+521,en,hy,,,self isolation,ինքնամեկուսացում
+522,en,hy,,,self quarantine,ինքնակարանտինացում
+523,en,hy,,,Severe outbreak,մեծ բռնկում
+525,en,hy,,,social distancing,սոցիալական հեռավորության պահպանում
+526,en,hy,,,social distancing measures,սոցիալական հեռավորությունը պահպանելու միջոցներ
+527,en,hy,,,social isolation,սոցիալական մեկուսացում
+528,en,hy,,,SOS Alert,SOS ազդանշան
+529,en,hy,,,spread,տարածվել
+530,en,hy,,,spread of coronavirus,կորոնավիրուսի տարածում
+531,en,hy,,,spread of virus,վիրուսի տարածում
+535,en,hy,,,strain of virus,վիրուսի շտամ
+541,en,hy,,,the incubation period,ինկուբացիոն շրջան
+544,en,hy,,,the novel coronavirus,նոր կորոնավիրուս
+558,en,hy,,,touching face,դեմքին ձեռք տալը
+559,en,hy,,,travel advisory,խորհուրդներ ուղևորությունների վերաբերյալ
+560,en,hy,,,travel ban,ուղևորությունների արգելք
+561,en,hy,,,travel restrictions,ուղևորությունների սահմանափակումներ
+565,en,hy,,,use hand sanitizer,օգտագործել ձեռքերի ախտահանման միջոց
+566,en,hy,,,vaccines,պատվաստանյութեր
+567,en,hy,,,viral outbreak,վիրուսի բռնկում
+568,en,hy,,,virtual lockdown,վիրուսի հետ կապված կարանտին
+569,en,hy,,,virus,վիրուս
+570,en,hy,,,virus carrier,վիրուսը կրողը
+573,en,hy,,,virus infection,վարակվածություն վիրուսով
+575,en,hy,,,virus mask,հակավիրուսային դիմակ
+576,en,hy,,,virus outbreak,վիրուսի բռնկում
+577,en,hy,,,virus prevention,վիրուսի կանխարգելում
+578,en,hy,,,virus protection,պաշտպանություն վիրուսից
+580,en,hy,,,virus spread,վիրուսի տարածում
+582,en,hy,,,virus spreads,վիրուսի տարածում
+583,en,hy,,,virus strain,վիրուսի շտամ
+584,en,hy,,,virus transmission,վիրուսի փոխանցում
+586,en,hy,,,wash your hands,լվա ձեռքերդ
+587,en,hy,,,washing hands,ձեռքերը լվանալը
+589,en,hy,,,WHO,ԱՀԿ
+590,en,hy,,,WHO Confirmed,ԱՀԿ-ի կողմից հաստատված
+591,en,hy,,,WHO Deaths,Մահեր՝ ըստ ԱՀԿ-ի տվյալների
+592,en,hy,,,widespread outbreak,լայնատարած բռնկում
+597,en,hy,,,World Health Organization,Առողջապահության համաշխարհային կազմակերպություն
+600,en,hy,,,zoonotic disease,զոոնոզ հիվանդություն
+601,en,hy,,,zoonotic virus,զոոնոզ վիրուս

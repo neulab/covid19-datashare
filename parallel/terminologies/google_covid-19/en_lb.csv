@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,lb,,,14 days in isolation,14 Deeg an Isolatioun
+26,en,lb,,,14 days quarantine,14 Deeg Quarantän
+27,en,lb,,,2019 coronavirus,2019 Coronavirus
+28,en,lb,,,2019 novel coronavirus,2019 neie Coronavirus
+29,en,lb,,,2019-nCoV,2019-nCoV
+30,en,lb,,,2020 coronavirus,2020 Coronavirus
+31,en,lb,,,2020 novel coronavirus,2020 neie Coronavirus
+33,en,lb,,,about coronavirus,iwwer de Coronavirus
+39,en,lb,,,acute respiratory distress syndrome,akut Otemnoutsyndrom
+40,en,lb,,,advanced hand sanitizer,héich entwéckelt Hänndesinfektiounsmëttel
+41,en,lb,,,Affected by coronavirus,betraff vum Coronavirus
+42,en,lb,,,after exposure,no der Aussetzung
+43,en,lb,,,After the epidemic,No der Epidemie
+44,en,lb,,,After the outbreak,Nom Ausbroch
+47,en,lb,,,airborne virus,Inhaléierungsvirus
+48,en,lb,,,alcohol based hand sanitizer,Alkoholbaséiert Hänndesinfektiounsmëttel
+49,en,lb,,,alcohol hand sanitizer,Akoholesch Hänndesinfektiounsmëttel
+51,en,lb,,,alcohol-based hand sanitizer,Alkoholbaséiert Hänndesinfektiounsmëttel
+59,en,lb,,,Anti-Corona virus spray,Anti-Coronavirusspray
+60,en,lb,,,antibacterial hand sanitizer,antibakteriellt Hänndesinfektiounsmëttel
+61,en,lb,,,ARDS,ARDS
+64,en,lb,,,avoid exposure,Aussetzung vermeiden
+65,en,lb,,,be infected,infizéiert sinn
+75,en,lb,,,Beware of coronavirus,Op de Coronavirus oppassen
+76,en,lb,,,bilateral interstitial pneumonia,Bilateral interstitiell Longenentzündung
+77,en,lb,,,CDC,CDC
+78,en,lb,,,Center for Disease Control,Center for Disease Control - CDC
+83,en,lb,,,community spread,Ausbreedung an der Gemeinschaft
+84,en,lb,,,compulsory quarantine,obligatoresch Quarantän
+85,en,lb,,,contagious,ustiechend
+135,en,lb,,,coronavirus,Coronavirus
+136,en,lb,,,coronavirus (COVID-19),Coronavirus (COVID-19)
+137,en,lb,,,coronavirus alert,Coronavirus-Alarm
+139,en,lb,,,coronavirus cases,Coronavirusfäll
+141,en,lb,,,coronavirus concerns,Coronavirus-Bedenken
+143,en,lb,,,coronavirus crisis,Coronaviruskris
+149,en,lb,,,coronavirus disease,Coronavirus Krankheet
+150,en,lb,,,Coronavirus disease (COVID-19) outbreak,Coronavirus Erkrankung (COVID-19) Ausbroch
+153,en,lb,,,coronavirus early symptoms,fréi Symptomer Coronavirus
+155,en,lb,,,coronavirus epidemic,Coronavirus Epidemie
+156,en,lb,,,coronavirus exposure,Coronavirus Aussetzung
+161,en,lb,,,coronavirus incubation,Coronavirus Inkubatioun
+162,en,lb,,,coronavirus incubation period,Inkubatiounszäit Coronavirus
+163,en,lb,,,coronavirus infection,Coronavirus Infektioun
+168,en,lb,,,coronavirus map,Coronovirus Landkaart
+170,en,lb,,,coronavirus medicine,Coronavirus Medikament
+171,en,lb,,,coronavirus medicines,Coronavirus Medikamenter
+172,en,lb,,,coronavirus news,Coronavirus Neiegkeeten
+173,en,lb,,,coronavirus outbreak,Coronavirus Ausbroch
+174,en,lb,,,coronavirus pandemic,Coronavirus pandeemesch
+176,en,lb,,,coronavirus pneumonia,Coronavirus Longenentzündung
+177,en,lb,,,coronavirus precautions,Coronavirus Virsiichtsmoosnamen
+178,en,lb,,,coronavirus prevention,Coronavirus Virsiichtsmoosnam
+179,en,lb,,,coronavirus protection,Coronavirus Schutz
+180,en,lb,,,coronavirus quarantine,Coronavirus Quarantän
+182,en,lb,,,coronavirus SOS Alert,Coronavirus SOS Alarm
+183,en,lb,,,coronavirus spread,Coronavirus Ausbreedung
+184,en,lb,,,coronavirus symptoms,Coronavirus Symptomer
+185,en,lb,,,coronavirus transmission,Coronavirus Iwwerdroung
+186,en,lb,,,coronavirus travel ban,Coronavirus Reesverbuet
+187,en,lb,,,coronavirus travel restrictions,Coronavirus Reesaschränkungen
+188,en,lb,,,coronavirus treatment,Coronavirus Behandlung
+190,en,lb,,,coronavirus update,Coronavirus Update
+191,en,lb,,,coronavirus vaccine,Coronavirus Impfung
+192,en,lb,,,coronavirus vaccines,Coronavirus Impfungen
+198,en,lb,,,covid cases,Covid Fäll
+205,en,lb,,,covid early symptoms,Covid fréi Symptomer
+213,en,lb,,,covid incubation period,Covid Inkubatiounszäit
+215,en,lb,,,covid international spread,Covid international Ausbreedung
+216,en,lb,,,covid international travel,Covid international Reesen
+217,en,lb,,,covid isolation,Covid Isoléierung
+219,en,lb,,,covid map,Covid Landkaart
+220,en,lb,,,covid medicine,Covid Medikament
+221,en,lb,,,covid medicines,Covid Medikamenter
+222,en,lb,,,covid news,Covid Neiegkeeten
+223,en,lb,,,covid outbreak,Covid Ausbroch
+224,en,lb,,,covid pandemic,Covid Pandemie
+225,en,lb,,,covid panic,Covid Panik
+228,en,lb,,,covid SOS Alert,Covid SOS Alarm
+230,en,lb,,,covid symptoms,Covid Symptomer
+231,en,lb,,,covid transmission,Covid Iwwerdroung
+232,en,lb,,,covid travel ban,Covid Reesverbuet
+233,en,lb,,,covid travel restrictions,Covid Reesaschränkungen
+234,en,lb,,,covid treatment,Covid Behandlung
+236,en,lb,,,covid vaccine,Covid Impfung
+237,en,lb,,,covid vaccines,Covid Impfungen
+242,en,lb,,,covid-19,Covid-19
+243,en,lb,,,covid-19 alert,Covid-19 Alarm
+244,en,lb,,,covid-19 cases,Covid-19 Fäll
+245,en,lb,,,covid-19 CDC,Covid-19 CDC
+246,en,lb,,,covid-19 contagious,Covid-19 ustiechend
+247,en,lb,,,covid-19 cure,Covid-19 Heelung
+248,en,lb,,,covid-19 dangerous,Covid-19 geféierlech
+249,en,lb,,,covid-19 deadly,Covid-19 déidlech
+250,en,lb,,,covid-19 death,Covid-19 Doud
+251,en,lb,,,covid-19 deaths,Ccovid-19 Doudeger
+252,en,lb,,,covid-19 domestic travel,Covid-19 Inlandsreesen
+253,en,lb,,,covid-19 early symptoms,Covid-19 fréi Symptomer
+254,en,lb,,,covid-19 effects,Covid-19 Effekter
+255,en,lb,,,covid-19 epidemic,Covid-19 Epidemie
+256,en,lb,,,covid-19 exposure,Covid-19 Aussetzung
+257,en,lb,,,covid-19 fatal,Covid-19 déidlech
+258,en,lb,,,covid-19 fever,Covid-19 Féiwer
+259,en,lb,,,covid-19 illness,Covid-19 Krankheet
+260,en,lb,,,covid-19 incubation,Covid-19 Inkubatioun
+261,en,lb,,,covid-19 incubation period,Covid-19 Inkubatiounszäit
+262,en,lb,,,covid-19 infection,Covid-19 Infektioun
+263,en,lb,,,covid-19 international spread,Covid-19 international Ausbreedung
+264,en,lb,,,covid-19 international travel,Covid-19 international Reesen
+265,en,lb,,,covid-19 isolation,Covid-19 Isoléierung
+266,en,lb,,,covid-19 lockdown,Covid-19 Ausgangsspär
+267,en,lb,,,covid-19 map,Covid-19 Landkaart
+268,en,lb,,,covid-19 medicine,Covid-19 Medikament
+269,en,lb,,,covid-19 medicines,Covid-19 Medikamenter
+270,en,lb,,,covid-19 news,Covid-19 Neiegkeeten
+271,en,lb,,,covid-19 outbreak,Covid-19 Ausbroch
+272,en,lb,,,covid-19 pandemic,Covid-19 Pandemie
+273,en,lb,,,covid-19 panic,Covid-19 Panik
+275,en,lb,,,covid-19 precautions,Covid-19 Virsiichtsmoossnamen
+276,en,lb,,,covid-19 protection,Covid-19 Schutz
+277,en,lb,,,covid-19 quarantine,Covid-19 Quarantän
+278,en,lb,,,covid-19 SOS Alert,Covid-19 SOS Alarm
+279,en,lb,,,covid-19 spread,Covid-19 Ausbreedung
+280,en,lb,,,covid-19 symptoms,Covid-19 Symptomer
+281,en,lb,,,covid-19 transmission,Covid-19 Iwwerdroung
+282,en,lb,,,covid-19 travel ban,Covid-19 Reesverbuet
+283,en,lb,,,covid-19 travel restrictions,Covid-19 Reesaschränkungen
+284,en,lb,,,covid-19 treatment,Covid-19 Behandlung
+285,en,lb,,,covid-19 uncontrolled spread,Covid-19 onkontrolléiert Ausbreedung
+286,en,lb,,,covid-19 vaccine,Covid-19 Impfung
+287,en,lb,,,covid-19 vaccines,Covid-19 Impfungen
+288,en,lb,,,COVID-19 virus,Covid-19 Virus
+289,en,lb,,,covid-19 virus outbreak,Covid-19 Virusausbroch
+290,en,lb,,,covid-19 virus transmission,Covid-19 Virusiwwerdroung
+291,en,lb,,,covid-19 WHO,Covid-19 WHO
+292,en,lb,,,covid19,Covid19
+293,en,lb,,,covid19 alert,Covid19 Alarm
+294,en,lb,,,covid19 cases,Covid19 Fäll
+295,en,lb,,,covid19 CDC,Covid19 amerikanesch Gesondheetsbehörd
+301,en,lb,,,covid19 deaths,Covid19 Doudeger
+302,en,lb,,,covid19 domestic travel,Covid 19 Inlandsreesen
+303,en,lb,,,covid19 effects,Covid19 Effekter
+304,en,lb,,,covid19 epidemic,Covis19 Epidemie
+305,en,lb,,,covid19 exposure,Covid19 Aussetzung
+306,en,lb,,,covid19 fatal,Covid19 déidlech
+307,en,lb,,,covid19 fever,Covid19 Féiwer
+308,en,lb,,,covid19 illness,Covid19 Krankheet
+309,en,lb,,,covid19 incubation,Covis19 Inkubatioun
+310,en,lb,,,covid19 incubation period,Covid 19 Inkubatiounszäit
+311,en,lb,,,covid19 infection,Covid19 Infektioun
+312,en,lb,,,covid19 international spread,Covid 19 international Ausbreedung
+313,en,lb,,,covid19 international travel,Covid 19 international Reesen
+314,en,lb,,,covid19 isolation,Covid19 Isoléierung
+315,en,lb,,,covid19 lockdown,Covid19 Ausgangsspär
+316,en,lb,,,covid19 map,Covid19 Landkaart
+317,en,lb,,,covid19 medicine,Covid19 Medikament
+318,en,lb,,,covid19 medicines,Covid19 Medikamenter
+319,en,lb,,,covid19 news,Covid19 Neiegkeeten
+320,en,lb,,,covid19 outbreak,Covid19 Ausbroch
+321,en,lb,,,covid19 pandemic,Covid19 Pandemie
+324,en,lb,,,covid19 precautions,Covid19 Virsiichtsmoossnamen
+325,en,lb,,,covid19 protection,Covid19 Schutz
+326,en,lb,,,covid19 quarantine,Covid 19 Quarantän
+327,en,lb,,,covid19 SOS Alert,Covid 19 SOS Alarm
+328,en,lb,,,covid19 spread,Covid19 Ausbreedung
+329,en,lb,,,covid19 symptoms,Covid19 Symptomer
+330,en,lb,,,covid19 transmission,Covid19 Iwwerdroung
+331,en,lb,,,covid19 travel ban,Covid 19 Reesverbuet
+332,en,lb,,,covid19 travel restrictions,Covid 19 Reesaschränkungen
+333,en,lb,,,covid19 treatment,Covid19 Behandlung
+335,en,lb,,,covid19 vaccine,Covid19 Impfung
+336,en,lb,,,covid19 vaccines,Covid19 Impfungen
+337,en,lb,,,covid19 virus,Covid19 Virus
+338,en,lb,,,covid19 virus outbreak,Covid 19 Virusausbroch
+339,en,lb,,,covid19 virus transmission,Covid 19 Virusiwwerdroung
+342,en,lb,,,current outbreak,aktuellen Ausbroch
+343,en,lb,,,deadly outbreak,déidlechen Ausbroch
+345,en,lb,,,disease outbreak,Krankheetsausbroch
+346,en,lb,,,Disposable hand sanitizer,Eewee-Hänndesinfektiounsmëttel
+348,en,lb,,,domestic travel,Inlandsreesen
+351,en,lb,,,droplets,Drëpsercher
+357,en,lb,,,Effects of coronavirus,Effekter vum Coronavirus
+359,en,lb,,,epidemic,ustiechend
+360,en,lb,,,epidemic and pandemic,Epidemie a Pandemie
+362,en,lb,,,epidemic disease,epideemesch Krankheet
+364,en,lb,,,epidemic outbreak,epideemeschen Ausbroch
+365,en,lb,,,epidemic period,epideemesch Period
+366,en,lb,,,epidemic prevention,epideemesch Virsuerg
+368,en,lb,,,epidemic season,epideemesch Saison
+369,en,lb,,,epidemic situation,epideemesch Situatioun
+371,en,lb,,,exposure,Gefor
+375,en,lb,,,exposure time,Aussetzungsdauer
+379,en,lb,,,fever,Féiwer
+380,en,lb,,,fight the virus,de Virus bekämpfen
+381,en,lb,,,Fighting the outbreak,Den Ausbroch bekämpfen
+382,en,lb,,,flu epidemic,Grippewell
+385,en,lb,,,fomites,Infektiounsdréier
+392,en,lb,,,global health emergency,global gesondheetlech Noutlag
+393,en,lb,,,global outbreak,globalen Ausbroch
+394,en,lb,,,global pandemic,global Pandemie
+396,en,lb,,,hand sanitizer,Hänndesinfektiounsmëttel
+397,en,lb,,,hand sanitizer dispenser,Hänndesinfektiounsmëttelspender
+398,en,lb,,,hand sanitizer gel,Hänndesinfektiounsgel
+399,en,lb,,,hand sanitizer spray,Hänndesinfektiounsspray
+403,en,lb,,,home isolation,Isoléiert doheem
+404,en,lb,,,home quarantine,Quarantän doheem
+410,en,lb,,,illness,Krankheet
+415,en,lb,,,incubation period,Inkubatiounszäit
+418,en,lb,,,infected,infizéiert
+424,en,lb,,,instant hand sanitizer,Instant-Hänndesinfektiounsmëttel
+425,en,lb,,,international spread,international Ausbreedung
+426,en,lb,,,international travel,international Reesen
+427,en,lb,,,isolation,Isoléierung
+428,en,lb,,,isolation period,Isoléierungsdauer
+430,en,lb,,,isolation room,Isoléierungsraum
+431,en,lb,,,isolation valve,Ofspärventil
+432,en,lb,,,isolation ward,Isoléierstatioun
+434,en,lb,,,lockdown,Ausgangsspär
+438,en,lb,,,major outbreak,bedeitenden Ausbroch
+439,en,lb,,,mandatory quarantine,obligatoresch Quarantän
+440,en,lb,,,mass gathering,Massentreffen
+444,en,lb,,,medicine,Medizin
+445,en,lb,,,medicines,Medikamenter
+448,en,lb,,,n95,n95
+449,en,lb,,,n95 mask,n95 Mask
+450,en,lb,,,n95 respirator,n95 Otemschutzapparat
+451,en,lb,,,ncov,ncov
+452,en,lb,,,ncov-2019,ncov-2019
+453,en,lb,,,new coronavirus,Neie Coronavirus
+454,en,lb,,,new coronavirus pneumonia,nei Coronavirus-Longenentzündung
+460,en,lb,,,novel coronavirus,neiaartege Coronavirus
+462,en,lb,,,novel coronavirus infection,Neiaarteg Coronavirusinfektioun
+463,en,lb,,,novel coronavirus outbreak,Neiaartege Coronavirusausbroch
+464,en,lb,,,novel coronavirus pneumonia,neiaarteg Coronavirus Longenentzündung
+470,en,lb,,,ongoing outbreak,lafenden Ausbroch
+472,en,lb,,,outbreak,Ausbroch
+474,en,lb,,,outbreak of coronavirus,Ausbroch vum Virus
+475,en,lb,,,outbreak of disease,Ausbroch vun der Krankheet
+482,en,lb,,,pandemic,Pandemie
+485,en,lb,,,pandemic influenza,pandeemesch Influenza
+486,en,lb,,,pandemic outbreak,pandeemeschen Ausbroch
+487,en,lb,,,pandemic plan,Pandemieplang
+488,en,lb,,,pandemic potential,pandeemescht Potenzial
+495,en,lb,,,pneumonia,Longenentzündung
+496,en,lb,,,pneumonia epidemic,Pneumoniewell
+497,en,lb,,,potential exposure,potenziell Gefor
+498,en,lb,,,precautions,Virsiichtsmoosnamen
+499,en,lb,,,prevent virus,Virus vermeiden
+500,en,lb,,,prolonged exposure,ausgedeent Gefor
+504,en,lb,,,quarantine,Quarantän
+505,en,lb,,,quarantine area,Quarantäneberäich
+506,en,lb,,,quarantine facility,Quarantänariichtung
+507,en,lb,,,quarantine measures,Quarantänmoossnamen
+508,en,lb,,,quarantine period,Quarantändauer
+509,en,lb,,,quarantine room,Quarantänraum
+510,en,lb,,,quarantine zone,Quarantänzon
+512,en,lb,,,Recovered coronavirus patient,Geheelte Coronaviruspatient
+514,en,lb,,,repatriate,repatriéieren
+515,en,lb,,,repeated exposure,konstant Gefor
+516,en,lb,,,respiratory syncytial virus,respiratoresche synzitiale Virus
+517,en,lb,,,respiratory virus,Otemweevirus
+519,en,lb,,,Sanitizing hand sanitizer,desinfizéierend Hänndesinfektiounsmëttel
+520,en,lb,,,SARS-CoV-2,SARS-CoV-2
+521,en,lb,,,self isolation,Eegenisoléierung
+522,en,lb,,,self quarantine,Eegequarantän
+523,en,lb,,,Severe outbreak,Schwéieren Ausbroch
+525,en,lb,,,social distancing,Sozial Distanzéierung
+526,en,lb,,,social distancing measures,Sozial Distanzéierungsmoossnamen
+527,en,lb,,,social isolation,Sozial Isoléierung
+528,en,lb,,,SOS Alert,SOS Alarm
+529,en,lb,,,spread,ausbreeden
+530,en,lb,,,spread of coronavirus,Ausbreedung vum Coronavirus
+531,en,lb,,,spread of virus,Ausbreedung vum Virus
+535,en,lb,,,strain of virus,Virusstamm
+541,en,lb,,,the incubation period,d'Inkubatiounszäit
+544,en,lb,,,the novel coronavirus,den neiaartege Coronavirus
+558,en,lb,,,touching face,d'Gesiicht upaken
+559,en,lb,,,travel advisory,Reeswarnhiweiser
+560,en,lb,,,travel ban,Reesverbuet
+561,en,lb,,,travel restrictions,Reesaschränkungen
+565,en,lb,,,use hand sanitizer,benotzt Hänndesinfektiounsmëttel
+566,en,lb,,,vaccines,Impfungen
+567,en,lb,,,viral outbreak,Virusausbroch
+568,en,lb,,,virtual lockdown,virtuell Ausgangsspär
+569,en,lb,,,virus,Virus
+570,en,lb,,,virus carrier,Virusdréier
+573,en,lb,,,virus infection,Virusinfektioun
+575,en,lb,,,virus mask,Virusmask
+576,en,lb,,,virus outbreak,Virusausbroch
+577,en,lb,,,virus prevention,Viruspreventioun
+578,en,lb,,,virus protection,Virusschutz
+580,en,lb,,,virus spread,Virusausbreedung
+582,en,lb,,,virus spreads,De Virus breet sech aus
+583,en,lb,,,virus strain,Virusstamm
+584,en,lb,,,virus transmission,Virusiwwerdroung
+586,en,lb,,,wash your hands,wäscht Är Hänn
+587,en,lb,,,washing hands,Hänn wäschen
+589,en,lb,,,WHO,WHO
+590,en,lb,,,WHO Confirmed,WHO bestätegt
+591,en,lb,,,WHO Deaths,WHO Doudeger
+592,en,lb,,,widespread outbreak,wäitverbreeten Ausbroch
+597,en,lb,,,World Health Organization,Weltgesondheetsorganisatioun
+600,en,lb,,,zoonotic disease,Anthropozoonos
+601,en,lb,,,zoonotic virus,Anthropozoonos

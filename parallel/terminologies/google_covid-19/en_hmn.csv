@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,hmn,,,14 days in isolation,kaw nyob ib leeg 14 hnub
+26,en,hmn,,,14 days quarantine,yus kaw yus tus kheej nyob ib leeg 14 hnub
+27,en,hmn,,,2019 coronavirus,khaus laus nas vais lav 2019
+28,en,hmn,,,2019 novel coronavirus,novel khaus laus nas vais lav 2019
+29,en,hmn,,,2019-nCoV,2019-nCoV
+30,en,hmn,,,2020 coronavirus,khaus laus nas vais lav 2019
+31,en,hmn,,,2020 novel coronavirus,novel khaus laus nas vais lav 2020
+33,en,hmn,,,about coronavirus,txog ntawm khaus laus nas vais lav
+39,en,hmn,,,acute respiratory distress syndrome,tus yam ntxwv mob rau txoj hlab ua pa uas mob ceev
+40,en,hmn,,,advanced hand sanitizer,tshuaj ntxuav tes hom zoo heev
+41,en,hmn,,,Affected by coronavirus,Tau kis khaus laus nas vais lav
+42,en,hmn,,,after exposure,tom qab nphav raug los sis ntsib
+43,en,hmn,,,After the epidemic,Tom qab kev kis
+44,en,hmn,,,After the outbreak,Tom qab kis mus lawm
+47,en,hmn,,,airborne virus,kab mob kis tau saum huab cua
+48,en,hmn,,,alcohol based hand sanitizer,tshuaj ntxuav tes uas muaj cawv
+49,en,hmn,,,alcohol hand sanitizer,tshuaj ntxuav tes muaj cawv
+51,en,hmn,,,alcohol-based hand sanitizer,tshuaj ntxuav tes uas muaj cawv
+59,en,hmn,,,Anti-Corona virus spray,Tshuaj tsuag tiv thaiv-Khaus laus nas
+60,en,hmn,,,antibacterial hand sanitizer,tshuaj ntxuav tes
+61,en,hmn,,,ARDS,ARDS
+64,en,hmn,,,avoid exposure,zam kom txhob nphav raug
+65,en,hmn,,,be infected,kis tau kab mob lawm
+75,en,hmn,,,Beware of coronavirus,Ceev faj txog khaus laus nas vais lav
+76,en,hmn,,,bilateral interstitial pneumonia,kab mob ntsws o
+77,en,hmn,,,CDC,CDC
+78,en,hmn,,,Center for Disease Control,Lub Chaw Tswj Kab Mob
+83,en,hmn,,,community spread,kis rau lub zej zog
+84,en,hmn,,,compulsory quarantine,kev yuam kaw yus nyob yus ib leeg
+85,en,hmn,,,contagious,kab mob sib kis
+135,en,hmn,,,coronavirus,khaus laus nas vais lav
+136,en,hmn,,,coronavirus (COVID-19),khaus laus nas vais lav (COVID-19)
+137,en,hmn,,,coronavirus alert,ceeb toom txog khaus laus nas vais lav
+139,en,hmn,,,coronavirus cases,cov xwm txheej txog khaus laus nas vais lav
+141,en,hmn,,,coronavirus concerns,cov kev hnyav siab txog khaus laus nas vais lav
+143,en,hmn,,,coronavirus crisis,xwm txheej kub ntxhov txog khaus laus nas vais lav
+149,en,hmn,,,coronavirus disease,kab mob khaus laus nas vais lav
+150,en,hmn,,,Coronavirus disease (COVID-19) outbreak,Kab mob khaus laus nas vais lav (COVID-19) kis mus
+153,en,hmn,,,coronavirus early symptoms,cov yam ntxwv mob khaus laus nas vais lav thaum xub thawj
+155,en,hmn,,,coronavirus epidemic,kab mob sib kis khaus laus nas vais lav
+156,en,hmn,,,coronavirus exposure,kev nphav raug kab mob khaus laus nas vais lav
+161,en,hmn,,,coronavirus incubation,kev ncu khaus laus nas vais lav
+162,en,hmn,,,coronavirus incubation period,ncua sij hawm ncu khaus laus nas vais lav
+163,en,hmn,,,coronavirus infection,kev kis khaus laus nas vais lav
+168,en,hmn,,,coronavirus map,daim phiaj qhia txog khaus laus nas vais lav
+170,en,hmn,,,coronavirus medicine,tshuaj kho khaus laus nas vais lav
+171,en,hmn,,,coronavirus medicines,cov tshuaj kho khaus laus nas vais lav
+172,en,hmn,,,coronavirus news,xov xwm txog khaus laus nas vais lav
+173,en,hmn,,,coronavirus outbreak,khaus laus nas vais lav kis mus
+174,en,hmn,,,coronavirus pandemic,khaus laus nas vais lav kis mus thoob
+176,en,hmn,,,coronavirus pneumonia,kab mob ntsws khaus laus nas vais lav
+177,en,hmn,,,coronavirus precautions,cov kev ceeb toom txog khaus laus nas vais lav
+178,en,hmn,,,coronavirus prevention,kev tiv thaiv khaus laus nas vais lav
+179,en,hmn,,,coronavirus protection,kev tiv thaiv tawm tsam khaus laus nas vais lav
+180,en,hmn,,,coronavirus quarantine,kev yus kaw yus tus kheej txog khaus laus nas vais lav
+182,en,hmn,,,coronavirus SOS Alert,SOS Ceeb Toom txog khaus laus nas vaiv lav
+183,en,hmn,,,coronavirus spread,kev kis kab mob khaus laus nas vais lav
+184,en,hmn,,,coronavirus symptoms,cov yam ntxwv mob khaus laus nas vais lav
+185,en,hmn,,,coronavirus transmission,kev sib kis khaus laus nas vais lav
+186,en,hmn,,,coronavirus travel ban,txwv kev taug kev vim khaus laus nas vais lav
+187,en,hmn,,,coronavirus travel restrictions,cov cai txwv kev ntoj ncig vim khaus laus nas vais lav
+188,en,hmn,,,coronavirus treatment,kev kho khaus laus nas vais lav
+190,en,hmn,,,coronavirus update,lus qhia tshiab txog khaus laus nas vais lav
+191,en,hmn,,,coronavirus vaccine,tshuaj tiv thaiv kab mob khaus laus nas vais lav
+192,en,hmn,,,coronavirus vaccines,cov tshuaj tiv thaiv kab mob khaus laus nas vais lav
+198,en,hmn,,,covid cases,cov xwm txheej txog covid
+205,en,hmn,,,covid early symptoms,cov yam ntxwv mob covid thaum pib
+213,en,hmn,,,covid incubation period,ncua sij hawm ncu covid
+215,en,hmn,,,covid international spread,covid kis mus thoob ntiaj teb
+216,en,hmn,,,covid international travel,covid kev taug kev mus thoob ntiaj teb
+217,en,hmn,,,covid isolation,kev kaw covid
+219,en,hmn,,,covid map,daim phiaj qhia txog covid
+220,en,hmn,,,covid medicine,tshuaj kho covid
+221,en,hmn,,,covid medicines,cov tshuaj kho covid
+222,en,hmn,,,covid news,xov xwm txog covid
+223,en,hmn,,,covid outbreak,covid kev kis mus
+224,en,hmn,,,covid pandemic,covid kev kis mus thoob
+225,en,hmn,,,covid panic,kev poob siab txog covid
+228,en,hmn,,,covid SOS Alert,SOS Ceeb Toom txog covid
+230,en,hmn,,,covid symptoms,cov yam ntxwv mob covid
+231,en,hmn,,,covid transmission,covid kev sib kis
+232,en,hmn,,,covid travel ban,txwv kev taug kev txog covid
+233,en,hmn,,,covid travel restrictions,cov cai txwv kev taug kev txog covid
+234,en,hmn,,,covid treatment,kev kho covid
+236,en,hmn,,,covid vaccine,tshuaj tiv thaiv covid
+237,en,hmn,,,covid vaccines,cov tshuaj tiv thaiv covid
+242,en,hmn,,,covid-19,covid-19
+243,en,hmn,,,covid-19 alert,kev ceeb toom txog covid-19
+244,en,hmn,,,covid-19 cases,cov xwm txheej txog covid-19
+245,en,hmn,,,covid-19 CDC,CDC txog covid-19
+246,en,hmn,,,covid-19 contagious,kab mob sib kis covid-19
+247,en,hmn,,,covid-19 cure,kev kho covid-19
+248,en,hmn,,,covid-19 dangerous,cov kev phom sij txog covid-19
+249,en,hmn,,,covid-19 deadly,covid-19 ua rau tuag taus
+250,en,hmn,,,covid-19 death,covid-19 ua rau tuag
+251,en,hmn,,,covid-19 deaths,cov tuag los ntawm covid-19
+252,en,hmn,,,covid-19 domestic travel,covid-19 kev taug kev sab hauv teb chaws
+253,en,hmn,,,covid-19 early symptoms,cov tsos mob covid-19 thaum ntxov
+254,en,hmn,,,covid-19 effects,cov tsis zoo txog covid-19
+255,en,hmn,,,covid-19 epidemic,covid-19 kab mob sib kis
+256,en,hmn,,,covid-19 exposure,kev nphav raug covid-19
+257,en,hmn,,,covid-19 fatal,covid-19 ua rau tag lub neej txoj sia
+258,en,hmn,,,covid-19 fever,covid-19 ua rau ua npaws
+259,en,hmn,,,covid-19 illness,covid-19 ua rau muaj mob
+260,en,hmn,,,covid-19 incubation,kev ncu covid-19
+261,en,hmn,,,covid-19 incubation period,ncua sij hawm ncu covid-19
+262,en,hmn,,,covid-19 infection,kev kis covid-19
+263,en,hmn,,,covid-19 international spread,covid-19 kis mus thoob ntiaj teb
+264,en,hmn,,,covid-19 international travel,covid-19 taug kev mus thoob ntiaj teb
+265,en,hmn,,,covid-19 isolation,kev kawm covid-19
+266,en,hmn,,,covid-19 lockdown,kev xauv covid-19
+267,en,hmn,,,covid-19 map,daim phiaj qhia covid-19
+268,en,hmn,,,covid-19 medicine,tshuaj kho covid-19
+269,en,hmn,,,covid-19 medicines,cov tshuaj kho covid-19
+270,en,hmn,,,covid-19 news,xov xwm txog covid-19
+271,en,hmn,,,covid-19 outbreak,covid-19 kev kis mus
+272,en,hmn,,,covid-19 pandemic,covid-19 kis mus thoob
+273,en,hmn,,,covid-19 panic,poob siab txog covid-19
+275,en,hmn,,,covid-19 precautions,cov kev ceev faj txog covid-19
+276,en,hmn,,,covid-19 protection,kev tiv thaiv tawm tsam covid-19
+277,en,hmn,,,covid-19 quarantine,kev yus kaw yus tus kheej txog covid-19
+278,en,hmn,,,covid-19 SOS Alert,SOS Ceeb Toom txog covid-19
+279,en,hmn,,,covid-19 spread,covid-19 kev kis mus
+280,en,hmn,,,covid-19 symptoms,cov yam ntxwv mob covid-19
+281,en,hmn,,,covid-19 transmission,kev kis kab mob covid-19
+282,en,hmn,,,covid-19 travel ban,txwv kev ntoj ncig vim covid-19
+283,en,hmn,,,covid-19 travel restrictions,cov cai txwv kev taug kev vim covid-19
+284,en,hmn,,,covid-19 treatment,kev kho kab mob covid-19
+285,en,hmn,,,covid-19 uncontrolled spread,covid-19 sib kis yam tswj tsis tau lawm
+286,en,hmn,,,covid-19 vaccine,tshuaj tiv thaiv kab mob covid-19
+287,en,hmn,,,covid-19 vaccines,cov tshuaj tiv thaiv kab mob covid-19
+288,en,hmn,,,COVID-19 virus,kab mob vais lav covid-19
+289,en,hmn,,,covid-19 virus outbreak,kab mob vais lav covid-19 kis mus
+290,en,hmn,,,covid-19 virus transmission,kab mob vais lav covid-19 kev sib kis
+291,en,hmn,,,covid-19 WHO,covid-19 WHO
+292,en,hmn,,,covid19,covid19
+293,en,hmn,,,covid19 alert,ceeb toom txog covid19
+294,en,hmn,,,covid19 cases,cov xwm txheej txog covid19
+295,en,hmn,,,covid19 CDC,Lub Chaw Tswj Kab Mob txog covid19
+301,en,hmn,,,covid19 deaths,cov tuag los ntawm covid19
+302,en,hmn,,,covid19 domestic travel,covid19 kev taug kev sab hauv teb chaws
+303,en,hmn,,,covid19 effects,cov tsis zoo txog covid19
+304,en,hmn,,,covid19 epidemic,kev kis kab mob covid19
+305,en,hmn,,,covid19 exposure,kev nphav raug covid19
+306,en,hmn,,,covid19 fatal,covid19 ua rau tag lub neej txoj sia
+307,en,hmn,,,covid19 fever,covid19 ua rau ua npaws
+308,en,hmn,,,covid19 illness,covid19 ua rau ua mob
+309,en,hmn,,,covid19 incubation,kev ncu covid19
+310,en,hmn,,,covid19 incubation period,ncua sij hawm ncu covid19
+311,en,hmn,,,covid19 infection,kev kis covid19
+312,en,hmn,,,covid19 international spread,covid19 kis mus thoob ntiaj teb
+313,en,hmn,,,covid19 international travel,covid19 taug kev mus thoob ntiaj teb
+314,en,hmn,,,covid19 isolation,kev kaw covid19
+315,en,hmn,,,covid19 lockdown,kev xauv covid19
+316,en,hmn,,,covid19 map,daim phiaj qhia covid19
+317,en,hmn,,,covid19 medicine,tshuaj kho covid19
+318,en,hmn,,,covid19 medicines,cov tshuaj kho covid19
+319,en,hmn,,,covid19 news,xov xwm txog covid19
+320,en,hmn,,,covid19 outbreak,covid19 kev kis mus
+321,en,hmn,,,covid19 pandemic,covid19 kev kis mus thoob
+324,en,hmn,,,covid19 precautions,cov kev ceev faj txog covid19
+325,en,hmn,,,covid19 protection,kev tiv thaiv tawm tsam covid19
+326,en,hmn,,,covid19 quarantine,kev yus kaw yus tus kheej txog covid19
+327,en,hmn,,,covid19 SOS Alert,SOS Ceeb Toom txog covid19
+328,en,hmn,,,covid19 spread,covid19 kev kis mus
+329,en,hmn,,,covid19 symptoms,cov yam ntxwv mob covid19
+330,en,hmn,,,covid19 transmission,kev sib kis covid19
+331,en,hmn,,,covid19 travel ban,txwv kev taug kev txog covid19
+332,en,hmn,,,covid19 travel restrictions,cov cai txwv kev taug kev txog covid19
+333,en,hmn,,,covid19 treatment,kev kho covid19
+335,en,hmn,,,covid19 vaccine,tshuaj tiv thaiv covid19
+336,en,hmn,,,covid19 vaccines,cov tshuaj tiv thaiv covid19
+337,en,hmn,,,covid19 virus,kab mob vais lav covid19
+338,en,hmn,,,covid19 virus outbreak,kab mob vais lav covid19 kis mus
+339,en,hmn,,,covid19 virus transmission,kab mob vais lav covid19 kev sib kis
+342,en,hmn,,,current outbreak,kev kis mus tam sim no
+343,en,hmn,,,deadly outbreak,kev kis ua rau tuag taus tam sim no
+345,en,hmn,,,disease outbreak,kab mob kev sib kis mus
+346,en,hmn,,,Disposable hand sanitizer,Cov tshuaj ntxuav tes uas pov tseg tau
+348,en,hmn,,,domestic travel,kev taug kev sab hauv teb chaws
+351,en,hmn,,,droplets,cov kua nrog
+357,en,hmn,,,Effects of coronavirus,Cov feem tsis zoo ntawm khaus laus nas vais lav
+359,en,hmn,,,epidemic,sib kis mus
+360,en,hmn,,,epidemic and pandemic,kev kis mab mob thiab kis mus thoob
+362,en,hmn,,,epidemic disease,kab mob sib kis
+364,en,hmn,,,epidemic outbreak,kev kis kab mob mus
+365,en,hmn,,,epidemic period,ncua sij hawm kis kab mob
+366,en,hmn,,,epidemic prevention,kev tiv thaiv tawm tsam kev kis kab mob
+368,en,hmn,,,epidemic season,lub caij kis kab mob
+369,en,hmn,,,epidemic situation,xwm txheej kis kab mob
+371,en,hmn,,,exposure,nphav
+375,en,hmn,,,exposure time,lub sij hawm nphav raug
+379,en,hmn,,,fever,ua npaws
+380,en,hmn,,,fight the virus,kev tawm tsam kab mob vais lav
+381,en,hmn,,,Fighting the outbreak,Kev tawm tsam kev kis mus
+382,en,hmn,,,flu epidemic,kev kis khaub thuas
+385,en,hmn,,,fomites,cov khoom kis tau kab mob
+392,en,hmn,,,global health emergency,xwm txheej ceev txog kev noj qab haus huv thoob ntiaj teb
+393,en,hmn,,,global outbreak,kis mus thoob ntiaj teb
+394,en,hmn,,,global pandemic,kev tawm mus thoob ntiaj teb
+396,en,hmn,,,hand sanitizer,tshuaj ntxuav tes
+397,en,hmn,,,hand sanitizer dispenser,lub ntim tshuaj ntxuav tes
+398,en,hmn,,,hand sanitizer gel,kua tshuaj ntxuav tes
+399,en,hmn,,,hand sanitizer spray,tshuaj ntxuav tes hom tsuag
+403,en,hmn,,,home isolation,kev nyob twj ywm hauv tsev
+404,en,hmn,,,home quarantine,kev yus kawm yus tus kheej nyob twj ywm hauv tsev
+410,en,hmn,,,illness,ua mob
+415,en,hmn,,,incubation period,ncua sij hawm ncu
+418,en,hmn,,,infected,tau kis kab mob
+424,en,hmn,,,instant hand sanitizer,tshuaj ntxuav tes siv tam sim
+425,en,hmn,,,international spread,kis thoob ntiaj teb
+426,en,hmn,,,international travel,kev taug kev thoob ntiaj teb
+427,en,hmn,,,isolation,muab cais nyob ib leeg
+428,en,hmn,,,isolation period,ncua sij hawm kaw nyob ib leeg
+430,en,hmn,,,isolation room,lub chaw kaw
+431,en,hmn,,,isolation valve,lub vaus kaw
+432,en,hmn,,,isolation ward,lub chaw kaw hauv tsev kho mob
+434,en,hmn,,,lockdown,muab xauv
+438,en,hmn,,,major outbreak,qhov kis mob loj
+439,en,hmn,,,mandatory quarantine,qhov yus yuav tsum tau kaw yus nyob ib leeg
+440,en,hmn,,,mass gathering,kev tuaj nyob ua ke coob
+444,en,hmn,,,medicine,tshuaj kho mob
+445,en,hmn,,,medicines,cov tshuaj kho mob
+448,en,hmn,,,n95,n95
+449,en,hmn,,,n95 mask,lub looj ntsej muag n95
+450,en,hmn,,,n95 respirator,lub looj ntsej muag ua pa n95
+451,en,hmn,,,ncov,ncov
+452,en,hmn,,,ncov-2019,ncov-2019
+453,en,hmn,,,new coronavirus,khaus laus nas vais lav tawm tshiab
+454,en,hmn,,,new coronavirus pneumonia,kab mob ntsws o khaus laus nas vais lav tawm tshiab
+460,en,hmn,,,novel coronavirus,novel khaus laus nas vais lav
+462,en,hmn,,,novel coronavirus infection,kev kis kab mob novel khaus laus nas vais lav
+463,en,hmn,,,novel coronavirus outbreak,novel khaus laus nas vais lav kev kis mus
+464,en,hmn,,,novel coronavirus pneumonia,kab mob ntsws o nevel khaus laus nas vais lav
+470,en,hmn,,,ongoing outbreak,tseem kis mus tas zog
+472,en,hmn,,,outbreak,kev kis kab mob
+474,en,hmn,,,outbreak of coronavirus,kev kis mus ntawm khaus laus nas vais lav
+475,en,hmn,,,outbreak of disease,kev kis mus ntawm kab mob
+482,en,hmn,,,pandemic,kev kis kab mob mus thoob
+485,en,hmn,,,pandemic influenza,mob npaws loj sib kis
+486,en,hmn,,,pandemic outbreak,sib kis mus thoob
+487,en,hmn,,,pandemic plan,lub phiaj xwm txog kev sib kis
+488,en,hmn,,,pandemic potential,qhov ntxim yuav sib kis
+495,en,hmn,,,pneumonia,mob ntsws o
+496,en,hmn,,,pneumonia epidemic,kev kis kab mob ntsws o
+497,en,hmn,,,potential exposure,ntxim yuav nphav raug
+498,en,hmn,,,precautions,cov kev ceev faj
+499,en,hmn,,,prevent virus,kev tiv thaiv kab mob vais lav
+500,en,hmn,,,prolonged exposure,kev nphav raug los ntev lawm
+504,en,hmn,,,quarantine,kev muab kaw cia nyob ib leeg
+505,en,hmn,,,quarantine area,cheeb tsam uas yus kaw yus tus kheej nyob ib leeg
+506,en,hmn,,,quarantine facility,lub chaw yus kaw yus tus kheej nyob ib leeg
+507,en,hmn,,,quarantine measures,cov kev ntsuas txog yus kaw yus tus kheej nyob ib leeg
+508,en,hmn,,,quarantine period,ncua sij hawm yus kaw yus tus kheej nyob ib leeg
+509,en,hmn,,,quarantine room,lub chav yus kaw yus tus kheej nyob ib leeg
+510,en,hmn,,,quarantine zone,thaj tsam yus kaw yus tus kheej nyob ib leeg
+512,en,hmn,,,Recovered coronavirus patient,Neeg mob khaus laus nas vais lav uas rov zoo los
+514,en,hmn,,,repatriate,xa rov qab
+515,en,hmn,,,repeated exposure,rov nphav raug dua
+516,en,hmn,,,respiratory syncytial virus,tus kab mob vais lav ua mob rau txoj hlab ua pa
+517,en,hmn,,,respiratory virus,kab mob vais lav mob rau txoj hlab ua pa
+519,en,hmn,,,Sanitizing hand sanitizer,Kev siv tshuaj ntxuav tes
+520,en,hmn,,,SARS-CoV-2,SARS-CoV-2
+521,en,hmn,,,self isolation,yus kaw yus tus kheej
+522,en,hmn,,,self quarantine,yus kaw yus tus kheej nyob ib leeg
+523,en,hmn,,,Severe outbreak,Muaj kev kis mus loj heev
+525,en,hmn,,,social distancing,kev nyob nrug dej zej tsoom
+526,en,hmn,,,social distancing measures,cov kev soj ntsuam txog kev nyob sib nrug ntawm zej tsoom
+527,en,hmn,,,social isolation,kev kawm tsis nyob nrog zej tsoom
+528,en,hmn,,,SOS Alert,SOS kev ceeb toom
+529,en,hmn,,,spread,kis mus
+530,en,hmn,,,spread of coronavirus,kev kis ntawm khaus laus nas vais lav
+531,en,hmn,,,spread of virus,kev kis ntawm kab mob vais lav
+535,en,hmn,,,strain of virus,hom ntawm kab mob vais lav
+541,en,hmn,,,the incubation period,qhov ncua sij hawm ncu
+544,en,hmn,,,the novel coronavirus,tus novel khaus laus nas vais lav
+558,en,hmn,,,touching face,kev kov ntsej muag
+559,en,hmn,,,travel advisory,lus qhia txog kev taug kev
+560,en,hmn,,,travel ban,txwv tsis pub taug kev
+561,en,hmn,,,travel restrictions,cov cai txwv tsis pub taug kev
+565,en,hmn,,,use hand sanitizer,siv tshuaj ntxuav tes
+566,en,hmn,,,vaccines,cov tshuaj tiv thaiv kab mob
+567,en,hmn,,,viral outbreak,cuam tshuam kab mob vais lav kev kis mus
+568,en,hmn,,,virtual lockdown,kev kaw tsis pub tawm tiag
+569,en,hmn,,,virus,kab mob vais lav
+570,en,hmn,,,virus carrier,tus coj kab mob vais lav mus kis
+573,en,hmn,,,virus infection,kev kis kab mob vais lav
+575,en,hmn,,,virus mask,lub looj ntsej muag thaiv kab mob vais lav
+576,en,hmn,,,virus outbreak,kab mob vais lav kev kis mus
+577,en,hmn,,,virus prevention,kev tiv thaiv kab mob vais lav
+578,en,hmn,,,virus protection,kev tiv thaiv tawm tsam kab mob vais lav
+580,en,hmn,,,virus spread,kis kab mob vais lav
+582,en,hmn,,,virus spreads,cov kev kis kab mob vais lav
+583,en,hmn,,,virus strain,hom kab mob vais lav
+584,en,hmn,,,virus transmission,kab mob vais lav kev sib kis
+586,en,hmn,,,wash your hands,ntxuav koj ob txhais tes
+587,en,hmn,,,washing hands,ntxuav ob txhais tes
+589,en,hmn,,,WHO,WHO
+590,en,hmn,,,WHO Confirmed,WHO Lav Paub Txog
+591,en,hmn,,,WHO Deaths,WHO Cov Neeg Tuag
+592,en,hmn,,,widespread outbreak,kis mus dav heev
+597,en,hmn,,,World Health Organization,Koom Haum Saib Xyuas Kev Noj Qab Haus Huv Thoob Ntiaj Teb
+600,en,hmn,,,zoonotic disease,kab mob kis ntawm tsiaj los rau tib neeg
+601,en,hmn,,,zoonotic virus,kab mob vais lav kis ntawm tsiaj los rau tib neeg

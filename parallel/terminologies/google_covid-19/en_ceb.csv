@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,ceb,,,14 days in isolation,14 ka mga adlaw sa pag-inusara
+26,en,ceb,,,14 days quarantine,14 ka mga adlaw nga kuwarantiya
+27,en,ceb,,,2019 coronavirus,2019 coronavirus
+28,en,ceb,,,2019 novel coronavirus,2019 bag-o nga coronavirus
+29,en,ceb,,,2019-nCoV,2019-nCoV
+30,en,ceb,,,2020 coronavirus,2020 coronavirus
+31,en,ceb,,,2020 novel coronavirus,2020 bag-o nga coronavirus
+33,en,ceb,,,about coronavirus,bahin sa coronavirus
+39,en,ceb,,,acute respiratory distress syndrome,acute respiratory distress syndrome
+40,en,ceb,,,advanced hand sanitizer,gipauswag nga tig-limpiyo sa kamot
+41,en,ceb,,,Affected by coronavirus,Naapektohan sa coronavirus
+42,en,ceb,,,after exposure,paghuman sa pagka-ekspos
+43,en,ceb,,,After the epidemic,Pagkahuman sa epidemya
+44,en,ceb,,,After the outbreak,Paghuman sa pagkaylap
+47,en,ceb,,,airborne virus,naglupad nga bayrus
+48,en,ceb,,,alcohol based hand sanitizer,base sa alkohol nga panglimpiyo sa kamot
+49,en,ceb,,,alcohol hand sanitizer,alkohol nga tig-limpiyo sa kamot
+51,en,ceb,,,alcohol-based hand sanitizer,base sa alkohol nga tig-limpiyo sa kamot
+59,en,ceb,,,Anti-Corona virus spray,Batok sa Corona virus nga spray
+60,en,ceb,,,antibacterial hand sanitizer,batok sa bakterya nga tig-limpiyo sa kamot
+61,en,ceb,,,ARDS,ARDS
+64,en,ceb,,,avoid exposure,likayi ang pagka-ekspos
+65,en,ceb,,,be infected,matakdan
+75,en,ceb,,,Beware of coronavirus,Pagbantay sa coronavirus
+76,en,ceb,,,bilateral interstitial pneumonia,bilateral interstitial nga pulmonya
+77,en,ceb,,,CDC,CDC
+78,en,ceb,,,Center for Disease Control,Center for Disease Control
+83,en,ceb,,,community spread,pagkaylap sa komunidad
+84,en,ceb,,,compulsory quarantine,gikinahanglan nga pagkuwarantin
+85,en,ceb,,,contagious,makatakud
+135,en,ceb,,,coronavirus,coronavirus
+136,en,ceb,,,coronavirus (COVID-19),coronavirus (COVID-19)
+137,en,ceb,,,coronavirus alert,alerto sa coronavirus
+139,en,ceb,,,coronavirus cases,mga kaso sa coronavirus
+141,en,ceb,,,coronavirus concerns,mga kabalaka sa coronavirus
+143,en,ceb,,,coronavirus crisis,krisis sa coronavirus
+149,en,ceb,,,coronavirus disease,coronavirus nga sakit
+150,en,ceb,,,Coronavirus disease (COVID-19) outbreak,Pagkaylap sa Coronavirus nga sakit (COVID-19)
+153,en,ceb,,,coronavirus early symptoms,coronavirus sayo nga mga sintomas
+155,en,ceb,,,coronavirus epidemic,epidemya sa coronavirus
+156,en,ceb,,,coronavirus exposure,pagka-ekspos ngadto sa coronavirus
+161,en,ceb,,,coronavirus incubation,coronavirus nga inkubasyon
+162,en,ceb,,,coronavirus incubation period,coronavirus yugto sa inkubasyon
+163,en,ceb,,,coronavirus infection,coronavirus impeksiyon
+168,en,ceb,,,coronavirus map,coronavirus mapa
+170,en,ceb,,,coronavirus medicine,coronavirus tambal
+171,en,ceb,,,coronavirus medicines,mga coronavirus nga tambal
+172,en,ceb,,,coronavirus news,mga coronavirus nga balita
+173,en,ceb,,,coronavirus outbreak,coronavirus nga pagkaylap
+174,en,ceb,,,coronavirus pandemic,coronavirus nga pandemik
+176,en,ceb,,,coronavirus pneumonia,coronavirus nga pulmonya
+177,en,ceb,,,coronavirus precautions,mga pasidaan sa coronavirus
+178,en,ceb,,,coronavirus prevention,paglikay sa coronavirus
+179,en,ceb,,,coronavirus protection,pagpanalipod batok sa coronavirus
+180,en,ceb,,,coronavirus quarantine,coronavirus nga kuwarantiya
+182,en,ceb,,,coronavirus SOS Alert,coronavirus SOS nga Alerto
+183,en,ceb,,,coronavirus spread,coronavirus pagkaylap
+184,en,ceb,,,coronavirus symptoms,mga sintomas sa coronavirus
+185,en,ceb,,,coronavirus transmission,coronavirus pagpasa
+186,en,ceb,,,coronavirus travel ban,coronavirus pagdili sa pagbiyahe
+187,en,ceb,,,coronavirus travel restrictions,coronavirus pagpugong sa pagbiyahe
+188,en,ceb,,,coronavirus treatment,coronavirus pagtambal
+190,en,ceb,,,coronavirus update,coronavirus apdeyt
+191,en,ceb,,,coronavirus vaccine,coronavirus bakuna
+192,en,ceb,,,coronavirus vaccines,mga coronavirus nga bakuna
+198,en,ceb,,,covid cases,mga covid nga kaso
+205,en,ceb,,,covid early symptoms,covid sayo nga mga sintomas
+213,en,ceb,,,covid incubation period,covid yugto sa inkubasyon
+215,en,ceb,,,covid international spread,covid internasiyonal nga pagkaylap
+216,en,ceb,,,covid international travel,covid internasiyonal nga pagbiyahe
+217,en,ceb,,,covid isolation,covid nga paglain
+219,en,ceb,,,covid map,covid nga mapa
+220,en,ceb,,,covid medicine,covid nga tambal
+221,en,ceb,,,covid medicines,covid nga mga tambal
+222,en,ceb,,,covid news,covid nga balita
+223,en,ceb,,,covid outbreak,covid nga pagkaylap
+224,en,ceb,,,covid pandemic,covid nga pandemik
+225,en,ceb,,,covid panic,covid nga pagkataranta
+228,en,ceb,,,covid SOS Alert,covid SOS nga Alerto
+230,en,ceb,,,covid symptoms,covid nga mga sintomas
+231,en,ceb,,,covid transmission,covid pagkapasa
+232,en,ceb,,,covid travel ban,covid pagdili sa pagbiyahe
+233,en,ceb,,,covid travel restrictions,covid mga pagpugong sa pagbiyahe
+234,en,ceb,,,covid treatment,covid tambal
+236,en,ceb,,,covid vaccine,covid bakuna
+237,en,ceb,,,covid vaccines,mga covid nga bakuna
+242,en,ceb,,,covid-19,covid-19
+243,en,ceb,,,covid-19 alert,covid-19 nga alerto
+244,en,ceb,,,covid-19 cases,covid-19 nga mga kaso
+245,en,ceb,,,covid-19 CDC,covid-19 CDC
+246,en,ceb,,,covid-19 contagious,covid-19 makatakod
+247,en,ceb,,,covid-19 cure,covid-19 tambal
+248,en,ceb,,,covid-19 dangerous,covid-19 delikado
+249,en,ceb,,,covid-19 deadly,covid-19 makamatay
+250,en,ceb,,,covid-19 death,covid-19 kamatayon
+251,en,ceb,,,covid-19 deaths,covid-19 mga kamatayon
+252,en,ceb,,,covid-19 domestic travel,covid-19 domestik nga pagbiyahe
+253,en,ceb,,,covid-19 early symptoms,covid-19 sayo nga mga sintomas
+254,en,ceb,,,covid-19 effects,covid-19 mga epekto
+255,en,ceb,,,covid-19 epidemic,covid-19 epidemya
+256,en,ceb,,,covid-19 exposure,covid-19 pagka-ekspos
+257,en,ceb,,,covid-19 fatal,covid-19 makamatay
+258,en,ceb,,,covid-19 fever,covid-19 hilanat
+259,en,ceb,,,covid-19 illness,covid-19 sakit
+260,en,ceb,,,covid-19 incubation,covid-19 inkubasyon
+261,en,ceb,,,covid-19 incubation period,covid-19 yugto sa inkubasyon
+262,en,ceb,,,covid-19 infection,covid-19 inpeksiyon
+263,en,ceb,,,covid-19 international spread,covid-19 internasiyonal nga pagkaylap
+264,en,ceb,,,covid-19 international travel,covid-19 internasiyonal nga pagbiyahe
+265,en,ceb,,,covid-19 isolation,covid-19 paglahi
+266,en,ceb,,,covid-19 lockdown,covid-19 lockdown
+267,en,ceb,,,covid-19 map,covid-19 mapa
+268,en,ceb,,,covid-19 medicine,covid-19 tambal
+269,en,ceb,,,covid-19 medicines,covid-19 mga tambal
+270,en,ceb,,,covid-19 news,covid-19 mga balita
+271,en,ceb,,,covid-19 outbreak,covid-19 pagkaylap
+272,en,ceb,,,covid-19 pandemic,covid-19 pandemik
+273,en,ceb,,,covid-19 panic,covid-19 pagkaratol
+275,en,ceb,,,covid-19 precautions,covid-19 mga pasidaan
+276,en,ceb,,,covid-19 protection,covid-19 panalipod
+277,en,ceb,,,covid-19 quarantine,covid-19 kuwarantiya
+278,en,ceb,,,covid-19 SOS Alert,covid-19 SOS nga Alerto
+279,en,ceb,,,covid-19 spread,covid-19 pagkaylap
+280,en,ceb,,,covid-19 symptoms,covid-19 mga sintomas
+281,en,ceb,,,covid-19 transmission,covid-19 pagpasa
+282,en,ceb,,,covid-19 travel ban,covid-19 pagdili sa pagbiyahe
+283,en,ceb,,,covid-19 travel restrictions,covid-19 mga pagpugong sa pagbiyahe
+284,en,ceb,,,covid-19 treatment,covid-19 pagtambal
+285,en,ceb,,,covid-19 uncontrolled spread,covid-19 dili makontrol nga pagkaylap
+286,en,ceb,,,covid-19 vaccine,covid-19 bakuna
+287,en,ceb,,,covid-19 vaccines,covid-19 mga bakuna
+288,en,ceb,,,COVID-19 virus,covid-19 bayrus
+289,en,ceb,,,covid-19 virus outbreak,covid-19 pagkaylap sa bayrus
+290,en,ceb,,,covid-19 virus transmission,covid-19 pagpasa sa bayrus
+291,en,ceb,,,covid-19 WHO,covid-19 WHO
+292,en,ceb,,,covid19,covid19
+293,en,ceb,,,covid19 alert,covid19 alerto
+294,en,ceb,,,covid19 cases,covid19 mga kaso
+295,en,ceb,,,covid19 CDC,covid19 CDC
+301,en,ceb,,,covid19 deaths,covid19 mga kamatayon
+302,en,ceb,,,covid19 domestic travel,covid19 domestik nga pagbiyahe
+303,en,ceb,,,covid19 effects,covid19 mga epekto
+304,en,ceb,,,covid19 epidemic,covid19 epidemya
+305,en,ceb,,,covid19 exposure,covid19 pagka-ekspos
+306,en,ceb,,,covid19 fatal,covid19 makamatay
+307,en,ceb,,,covid19 fever,covid19 hilanat
+308,en,ceb,,,covid19 illness,covid19 sakit
+309,en,ceb,,,covid19 incubation,covid19 inkubasyon
+310,en,ceb,,,covid19 incubation period,covid19 yugto sa inkubasyon
+311,en,ceb,,,covid19 infection,covid19 impeksiyon
+312,en,ceb,,,covid19 international spread,covid19 internasiyonal nga pagkaylap
+313,en,ceb,,,covid19 international travel,covid19 internasiyonal nga pagbiyahe
+314,en,ceb,,,covid19 isolation,covid19 paglain
+315,en,ceb,,,covid19 lockdown,covid19 lockdown
+316,en,ceb,,,covid19 map,covid19 mapa
+317,en,ceb,,,covid19 medicine,covid19 tambal
+318,en,ceb,,,covid19 medicines,covid19 mga tambal
+319,en,ceb,,,covid19 news,covid19 mga balita
+320,en,ceb,,,covid19 outbreak,covid19 pagkaylap
+321,en,ceb,,,covid19 pandemic,covid19 pandemik
+324,en,ceb,,,covid19 precautions,covid19 mga pasidaan
+325,en,ceb,,,covid19 protection,covid19 pagpanalipod
+326,en,ceb,,,covid19 quarantine,covid19 kuwarantiya
+327,en,ceb,,,covid19 SOS Alert,covid19 SOS nga Alerto
+328,en,ceb,,,covid19 spread,covid19 pagkaylap
+329,en,ceb,,,covid19 symptoms,covid19 mga sintomas
+330,en,ceb,,,covid19 transmission,covid19 pagpasa
+331,en,ceb,,,covid19 travel ban,covid19 pagdili sa pagbiyahe
+332,en,ceb,,,covid19 travel restrictions,covid19 mga pagpugong sa pagbiyahe
+333,en,ceb,,,covid19 treatment,covid19 pagtambal
+335,en,ceb,,,covid19 vaccine,covid19 vaccine
+336,en,ceb,,,covid19 vaccines,covid19 mga bakuna
+337,en,ceb,,,covid19 virus,covid19 bayrus
+338,en,ceb,,,covid19 virus outbreak,covid19 pagkaylap sa bayrus
+339,en,ceb,,,covid19 virus transmission,covid19 pagpasa sa bayrus
+342,en,ceb,,,current outbreak,current pagkaylap
+343,en,ceb,,,deadly outbreak,makamatay nga pagkaylap
+345,en,ceb,,,disease outbreak,pagkaylap sa sakit
+346,en,ceb,,,Disposable hand sanitizer,Malabay dayon nga panglimpiyo sa kamot
+348,en,ceb,,,domestic travel,domestik nga pagbiyahe
+351,en,ceb,,,droplets,mga tulo
+357,en,ceb,,,Effects of coronavirus,Mga epekto sa coronavirus
+359,en,ceb,,,epidemic,epidemya
+360,en,ceb,,,epidemic and pandemic,epidemya ug pandemik
+362,en,ceb,,,epidemic disease,sakit nga epidemya
+364,en,ceb,,,epidemic outbreak,pagkaylap nga epidemya
+365,en,ceb,,,epidemic period,yugto sa epidemya
+366,en,ceb,,,epidemic prevention,paglikay sa epidemya
+368,en,ceb,,,epidemic season,panahon sa epidemya
+369,en,ceb,,,epidemic situation,sitwasyon sa epidemya
+371,en,ceb,,,exposure,pagka-ekspos
+375,en,ceb,,,exposure time,oras sa pagka-ekspos
+379,en,ceb,,,fever,hilanat
+380,en,ceb,,,fight the virus,makig-away batok sa bayrus
+381,en,ceb,,,Fighting the outbreak,Pakig-away sa pagkaylap
+382,en,ceb,,,flu epidemic,epidemya sa flu
+385,en,ceb,,,fomites,mga fomite
+392,en,ceb,,,global health emergency,global nga emerhensiya sa kahimsog
+393,en,ceb,,,global outbreak,global nga pagkaylap
+394,en,ceb,,,global pandemic,global nga pandemik
+396,en,ceb,,,hand sanitizer,panglimpiyo sa kamot
+397,en,ceb,,,hand sanitizer dispenser,pagpagawas sa panglimpiyo sa kamot
+398,en,ceb,,,hand sanitizer gel,panglimpiyo sa kamot nga gel
+399,en,ceb,,,hand sanitizer spray,panglimpiyo sa kamot nga spray
+403,en,ceb,,,home isolation,paglahi sa panimalay
+404,en,ceb,,,home quarantine,pagkuwarantin sa panimalay
+410,en,ceb,,,illness,sakit
+415,en,ceb,,,incubation period,yugto sa inkubasyon
+418,en,ceb,,,infected,natakdan
+424,en,ceb,,,instant hand sanitizer,dali nga panglimpiyo sa kamot
+425,en,ceb,,,international spread,internasiyonal nga pagkaylap
+426,en,ceb,,,international travel,intersiyonal nga pagbiyahe
+427,en,ceb,,,isolation,paglain
+428,en,ceb,,,isolation period,yugto sa pagpalahi
+430,en,ceb,,,isolation room,kuwarto sa paglahi
+431,en,ceb,,,isolation valve,balbula sa paglahi
+432,en,ceb,,,isolation ward,ward sa paglahi
+434,en,ceb,,,lockdown,lockdown
+438,en,ceb,,,major outbreak,dako nga pagkaylap
+439,en,ceb,,,mandatory quarantine,gikinahanglan nga pag-kuwarantiya
+440,en,ceb,,,mass gathering,daghan nga pagpundok
+444,en,ceb,,,medicine,tambal
+445,en,ceb,,,medicines,mga tambal
+448,en,ceb,,,n95,n95
+449,en,ceb,,,n95 mask,n95 nga mask
+450,en,ceb,,,n95 respirator,n95 nga respirador
+451,en,ceb,,,ncov,ncov
+452,en,ceb,,,ncov-2019,ncov-2019
+453,en,ceb,,,new coronavirus,bag-o nga coronavirus
+454,en,ceb,,,new coronavirus pneumonia,bag-o nga coronavirus nga pulmonya
+460,en,ceb,,,novel coronavirus,bag-o nga coronavirus
+462,en,ceb,,,novel coronavirus infection,bag-o nga coronavirus nga impeksiyon
+463,en,ceb,,,novel coronavirus outbreak,bag-o nga coronavirus nga pagkaylap
+464,en,ceb,,,novel coronavirus pneumonia,bag-o nga coronavirus nga pulmonya
+470,en,ceb,,,ongoing outbreak,nagpadayon nga pagkaylap
+472,en,ceb,,,outbreak,pagkatap
+474,en,ceb,,,outbreak of coronavirus,pagkaylap sa coronavirus
+475,en,ceb,,,outbreak of disease,pagkaylap sa sakit
+482,en,ceb,,,pandemic,pandemik
+485,en,ceb,,,pandemic influenza,pandemik nga influenza
+486,en,ceb,,,pandemic outbreak,pandemik nga pagkaylap
+487,en,ceb,,,pandemic plan,pandemik nga plano
+488,en,ceb,,,pandemic potential,potensiyal nga pandemik
+495,en,ceb,,,pneumonia,pulmonya
+496,en,ceb,,,pneumonia epidemic,epidemya sa pulmonya
+497,en,ceb,,,potential exposure,potensiyal nga pagka-ekspos
+498,en,ceb,,,precautions,panagana
+499,en,ceb,,,prevent virus,paglikay sa bayrus
+500,en,ceb,,,prolonged exposure,milungtad nga pagka-ekspos
+504,en,ceb,,,quarantine,kuwarantin
+505,en,ceb,,,quarantine area,lugar sa kuwarantiya
+506,en,ceb,,,quarantine facility,pasilidad sa kuwarantiya
+507,en,ceb,,,quarantine measures,mga lakang sa kuwarantiya
+508,en,ceb,,,quarantine period,yugto sa kuwarantiya
+509,en,ceb,,,quarantine room,kwarto sa kuwarantiya
+510,en,ceb,,,quarantine zone,sona sa kuwarantiya
+512,en,ceb,,,Recovered coronavirus patient,Naayo nga coronavirus nga pasyente
+514,en,ceb,,,repatriate,gipabalik
+515,en,ceb,,,repeated exposure,balik-balik nga pagka-ekspos
+516,en,ceb,,,respiratory syncytial virus,respiratory syncytial nga bayrus
+517,en,ceb,,,respiratory virus,bayrus sa respiratoryo
+519,en,ceb,,,Sanitizing hand sanitizer,Maka-limpiyo nga panglimpiyo sa kamot
+520,en,ceb,,,SARS-CoV-2,SARS-CoV-2
+521,en,ceb,,,self isolation,kaugalingon nga paglain
+522,en,ceb,,,self quarantine,kaugalingon nga pag-kuwarantiya
+523,en,ceb,,,Severe outbreak,Grabe nga pagkatap
+525,en,ceb,,,social distancing,sosyal nga pagpalayo
+526,en,ceb,,,social distancing measures,mga lakang sa sosyal nga pagdistansiya
+527,en,ceb,,,social isolation,sosyal nga paglain
+528,en,ceb,,,SOS Alert,SOS nga alerto
+529,en,ceb,,,spread,pagkaylap
+530,en,ceb,,,spread of coronavirus,pagkaylap sa coronavirus
+531,en,ceb,,,spread of virus,pagkaylap sa bayrus
+535,en,ceb,,,strain of virus,tipo sa bayrus
+541,en,ceb,,,the incubation period,ang yugto sa inkubasyon
+544,en,ceb,,,the novel coronavirus,ang bag-o nga coronavirus
+558,en,ceb,,,touching face,paghikap sa nawong
+559,en,ceb,,,travel advisory,pahimangno sa pagbiyahe
+560,en,ceb,,,travel ban,pagdili sa pagbiyahe
+561,en,ceb,,,travel restrictions,mga pagpugong sa pagbiyahe
+565,en,ceb,,,use hand sanitizer,gamit og panglimpiyo sa kamot
+566,en,ceb,,,vaccines,mga bakuna
+567,en,ceb,,,viral outbreak,pagkaylap sa bayrus
+568,en,ceb,,,virtual lockdown,birtwal nga lockdown
+569,en,ceb,,,virus,mga bayrus
+570,en,ceb,,,virus carrier,tigdala sa bayrus
+573,en,ceb,,,virus infection,impeksiyon sa bayrus
+575,en,ceb,,,virus mask,bayrus nga mask
+576,en,ceb,,,virus outbreak,pagkaylap sa bayrus
+577,en,ceb,,,virus prevention,paglikay sa bayrus
+578,en,ceb,,,virus protection,pagpanalipod batok sa bayrus
+580,en,ceb,,,virus spread,pagkaylap sa bayrus
+582,en,ceb,,,virus spreads,pagkaylap sa bayrus
+583,en,ceb,,,virus strain,tipo sa bayrus
+584,en,ceb,,,virus transmission,pagpasa sa bayrus
+586,en,ceb,,,wash your hands,hugasi imong mga kamot
+587,en,ceb,,,washing hands,paghugas sa mga kamot
+589,en,ceb,,,WHO,WHO
+590,en,ceb,,,WHO Confirmed,Gikumpirma sa WHO
+591,en,ceb,,,WHO Deaths,WHO Mga Namatay
+592,en,ceb,,,widespread outbreak,bisan asa nga pagkaylap
+597,en,ceb,,,World Health Organization,Organisasyon sa Kahimsug sa Kalibutan
+600,en,ceb,,,zoonotic disease,zoonotic nga sakit
+601,en,ceb,,,zoonotic virus,zoonotic nga bayrus

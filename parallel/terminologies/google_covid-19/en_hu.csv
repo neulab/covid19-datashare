@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,hu,,,14 days in isolation,14 nap elkülönítésben
+26,en,hu,,,14 days quarantine,14 napos karantén
+27,en,hu,,,2019 coronavirus,2019 koronavírus
+28,en,hu,,,2019 novel coronavirus,2019 új típusú koronavírus
+29,en,hu,,,2019-nCoV,2019-nConV
+30,en,hu,,,2020 coronavirus,2020 koronavírus
+31,en,hu,,,2020 novel coronavirus,2020 új típusú koronavírus
+33,en,hu,,,about coronavirus,a koronavírusról
+39,en,hu,,,acute respiratory distress syndrome,akut respirációs distressz szindróma
+40,en,hu,,,advanced hand sanitizer,speciális kézfertőtlenítő
+41,en,hu,,,Affected by coronavirus,Koronavírus által érintett
+42,en,hu,,,after exposure,kitettség után
+43,en,hu,,,After the epidemic,A járvány után
+44,en,hu,,,After the outbreak,A kitörés után
+47,en,hu,,,airborne virus,levegőben terjedő vírus
+48,en,hu,,,alcohol based hand sanitizer,alkoholalapú kézfertőtlenítő
+49,en,hu,,,alcohol hand sanitizer,alkoholos kézfertőtlenítő
+51,en,hu,,,alcohol-based hand sanitizer,alkoholalapú kézfertőtlenítő
+59,en,hu,,,Anti-Corona virus spray,Koronavírus elleni spray
+60,en,hu,,,antibacterial hand sanitizer,antibakteriális kézfertőtlenítő
+61,en,hu,,,ARDS,ARDS
+64,en,hu,,,avoid exposure,kitettség elkerülése
+65,en,hu,,,be infected,fertőzött
+75,en,hu,,,Beware of coronavirus,Óvakodjon a koronavírustól
+76,en,hu,,,bilateral interstitial pneumonia,kétoldali interstitiális tüdőgyulladás
+77,en,hu,,,CDC,CDC
+78,en,hu,,,Center for Disease Control,Járványügyi és Betegségmegelőzési Központ
+83,en,hu,,,community spread,közösségben terjedő
+84,en,hu,,,compulsory quarantine,kötelező karantén
+85,en,hu,,,contagious,fertőző
+135,en,hu,,,coronavirus,koronavírus
+136,en,hu,,,coronavirus (COVID-19),koronavírus (COVID-19)
+137,en,hu,,,coronavirus alert,koronavírus figyelmeztetés
+139,en,hu,,,coronavirus cases,koronavírus esetek
+141,en,hu,,,coronavirus concerns,koronavírus aggodalmak
+143,en,hu,,,coronavirus crisis,koronavírus válság
+149,en,hu,,,coronavirus disease,koronavírus betegség
+150,en,hu,,,Coronavirus disease (COVID-19) outbreak,Koronavírus okozta betegség (COVID-19) kitörése
+153,en,hu,,,coronavirus early symptoms,koronavírus korai tünetei
+155,en,hu,,,coronavirus epidemic,koronavírus járvány
+156,en,hu,,,coronavirus exposure,koronavírus kitettség
+161,en,hu,,,coronavirus incubation,koronavírus lappangás
+162,en,hu,,,coronavirus incubation period,koronavírus lappangási időszaka
+163,en,hu,,,coronavirus infection,koronavírus fertőzés
+168,en,hu,,,coronavirus map,koronavírus térkép
+170,en,hu,,,coronavirus medicine,koronavírus gyógyszer
+171,en,hu,,,coronavirus medicines,koronavírus gyógyszerek
+172,en,hu,,,coronavirus news,koronavírus hírek
+173,en,hu,,,coronavirus outbreak,koronavírus kitörés
+174,en,hu,,,coronavirus pandemic,koronavírus világjárvány
+176,en,hu,,,coronavirus pneumonia,koronavírus tüdőgyulladás
+177,en,hu,,,coronavirus precautions,koronavírus óvintézkedések
+178,en,hu,,,coronavirus prevention,koronavírus megelőzése
+179,en,hu,,,coronavirus protection,koronavírus védekezés
+180,en,hu,,,coronavirus quarantine,koronavírus karantén
+182,en,hu,,,coronavirus SOS Alert,koronavírus vészhelyzeti riasztás
+183,en,hu,,,coronavirus spread,koronavírus terjedése
+184,en,hu,,,coronavirus symptoms,koronavírus tünetei
+185,en,hu,,,coronavirus transmission,koronavírus átadása
+186,en,hu,,,coronavirus travel ban,koronavírus utazási tilalom
+187,en,hu,,,coronavirus travel restrictions,koronavírus utazási korlátozások
+188,en,hu,,,coronavirus treatment,koronavírus kezelése
+190,en,hu,,,coronavirus update,koronavírus friss hírek
+191,en,hu,,,coronavirus vaccine,koronavírus védőoltás
+192,en,hu,,,coronavirus vaccines,koronavírus védőoltások
+198,en,hu,,,covid cases,covid esetek
+205,en,hu,,,covid early symptoms,covid korai tünetei
+213,en,hu,,,covid incubation period,covid lappangási időszaka
+215,en,hu,,,covid international spread,covid nemzetközi terjedése
+216,en,hu,,,covid international travel,covid nemzetközi utazás
+217,en,hu,,,covid isolation,covid elkülönítés
+219,en,hu,,,covid map,covid térkép
+220,en,hu,,,covid medicine,covid gyógyszer
+221,en,hu,,,covid medicines,covid gyógyszerek
+222,en,hu,,,covid news,covid hírek
+223,en,hu,,,covid outbreak,covid kitörés
+224,en,hu,,,covid pandemic,covid világjárvány
+225,en,hu,,,covid panic,covid pánik
+228,en,hu,,,covid SOS Alert,covid vészhelyzeti riasztás
+230,en,hu,,,covid symptoms,covid tünetei
+231,en,hu,,,covid transmission,covid átadása
+232,en,hu,,,covid travel ban,covid utazási tilalom
+233,en,hu,,,covid travel restrictions,covid utazási korlátozások
+234,en,hu,,,covid treatment,covid kezelése
+236,en,hu,,,covid vaccine,covid védőoltás
+237,en,hu,,,covid vaccines,covid védőoltások
+242,en,hu,,,covid-19,covid-19
+243,en,hu,,,covid-19 alert,covid-19 figyelmeztetés
+244,en,hu,,,covid-19 cases,covid-19 esetek
+245,en,hu,,,covid-19 CDC,covid-19 CDC
+246,en,hu,,,covid-19 contagious,covid-19 fertőző
+247,en,hu,,,covid-19 cure,covid-19 gyógyír
+248,en,hu,,,covid-19 dangerous,covid-19 veszélyes
+249,en,hu,,,covid-19 deadly,covid-19 halálos
+250,en,hu,,,covid-19 death,covid-19 halál
+251,en,hu,,,covid-19 deaths,covid-19 elhalálozások
+252,en,hu,,,covid-19 domestic travel,covid-19 belföldi utazás
+253,en,hu,,,covid-19 early symptoms,covid-19 korai tünetei
+254,en,hu,,,covid-19 effects,covid-19 hatásai
+255,en,hu,,,covid-19 epidemic,covid-19 járvány
+256,en,hu,,,covid-19 exposure,covid-19 kitettség
+257,en,hu,,,covid-19 fatal,covid-19 végzetes
+258,en,hu,,,covid-19 fever,covid-19 láz
+259,en,hu,,,covid-19 illness,covid-19 betegség
+260,en,hu,,,covid-19 incubation,covid-19 lappangás
+261,en,hu,,,covid-19 incubation period,covid-19 lappangási időszaka
+262,en,hu,,,covid-19 infection,covid-19 fertőzés
+263,en,hu,,,covid-19 international spread,covid-19 nemzetközi terjedése
+264,en,hu,,,covid-19 international travel,covid-19 nemzetközi utazás
+265,en,hu,,,covid-19 isolation,covid-19 elkülönítés
+266,en,hu,,,covid-19 lockdown,covid-19 lezárás
+267,en,hu,,,covid-19 map,covid-19 térkép
+268,en,hu,,,covid-19 medicine,covid-19 gyógyszer
+269,en,hu,,,covid-19 medicines,covid-19 gyógyszerek
+270,en,hu,,,covid-19 news,covid-19 hírek
+271,en,hu,,,covid-19 outbreak,covid-19 kitörés
+272,en,hu,,,covid-19 pandemic,covid-19 világjárvány
+273,en,hu,,,covid-19 panic,covid-19 pánik
+275,en,hu,,,covid-19 precautions,covid-19 óvintézkedések
+276,en,hu,,,covid-19 protection,covid-19 védekezés
+277,en,hu,,,covid-19 quarantine,covid-19 karantén
+278,en,hu,,,covid-19 SOS Alert,covid-19 vészhelyzeti riasztás
+279,en,hu,,,covid-19 spread,covid-19 terjedése
+280,en,hu,,,covid-19 symptoms,covid-19 tünetei
+281,en,hu,,,covid-19 transmission,covid-19 átadása
+282,en,hu,,,covid-19 travel ban,covid-19 utazási tilalom
+283,en,hu,,,covid-19 travel restrictions,covid-19 utazási korlátozások
+284,en,hu,,,covid-19 treatment,covid-19 kezelése
+285,en,hu,,,covid-19 uncontrolled spread,covid-19 ellenőrizetlen terjedése
+286,en,hu,,,covid-19 vaccine,covid-19 védőoltás
+287,en,hu,,,covid-19 vaccines,covid-19 védőoltások
+288,en,hu,,,COVID-19 virus,covid-19 vírus
+289,en,hu,,,covid-19 virus outbreak,covid-19 vírus kitörése
+290,en,hu,,,covid-19 virus transmission,covid-19 vírus átadása
+291,en,hu,,,covid-19 WHO,covid-19 WHO
+292,en,hu,,,covid19,covid19
+293,en,hu,,,covid19 alert,covid19 figyelmeztetés
+294,en,hu,,,covid19 cases,covid19 esetek
+295,en,hu,,,covid19 CDC,covid19 CDC
+301,en,hu,,,covid19 deaths,covid19 elhalálozások
+302,en,hu,,,covid19 domestic travel,covid19 belföldi utazás
+303,en,hu,,,covid19 effects,covid19 hatásai
+304,en,hu,,,covid19 epidemic,covid19 járvány
+305,en,hu,,,covid19 exposure,covid19 kitettség
+306,en,hu,,,covid19 fatal,covid19 végzetes
+307,en,hu,,,covid19 fever,covid19 láz
+308,en,hu,,,covid19 illness,covid19 betegség
+309,en,hu,,,covid19 incubation,covid19 lappangás
+310,en,hu,,,covid19 incubation period,covid19 lappangási időszak
+311,en,hu,,,covid19 infection,covid19 fertőzés
+312,en,hu,,,covid19 international spread,covid19 nemzetközi terjedése
+313,en,hu,,,covid19 international travel,covid19 nemzetközi utazás
+314,en,hu,,,covid19 isolation,covid19 elkülönítés
+315,en,hu,,,covid19 lockdown,covid19 lezárás
+316,en,hu,,,covid19 map,covid19 térkép
+317,en,hu,,,covid19 medicine,covid19 gyógyszer
+318,en,hu,,,covid19 medicines,covid19 gyógyszerek
+319,en,hu,,,covid19 news,covid19 hírek
+320,en,hu,,,covid19 outbreak,covid19 kitörés
+321,en,hu,,,covid19 pandemic,covid19 világjárvány
+324,en,hu,,,covid19 precautions,covid19 óvintézkedések
+325,en,hu,,,covid19 protection,covid19 védekezés
+326,en,hu,,,covid19 quarantine,covid19 karantén
+327,en,hu,,,covid19 SOS Alert,covid19 vészhelyzeti riasztás
+328,en,hu,,,covid19 spread,covid19 terjedése
+329,en,hu,,,covid19 symptoms,covid19 tünetei
+330,en,hu,,,covid19 transmission,covid19 átadása
+331,en,hu,,,covid19 travel ban,covid19 utazási tilalom
+332,en,hu,,,covid19 travel restrictions,covid19 utazási korlátozások
+333,en,hu,,,covid19 treatment,covid19 kezelése
+335,en,hu,,,covid19 vaccine,covid19 védőoltás
+336,en,hu,,,covid19 vaccines,covid19 védőoltások
+337,en,hu,,,covid19 virus,covid19 vírus
+338,en,hu,,,covid19 virus outbreak,covid19 vírus kitörése
+339,en,hu,,,covid19 virus transmission,covid19 vírus átadása
+342,en,hu,,,current outbreak,jelenlegi kitörés
+343,en,hu,,,deadly outbreak,halálos kitörés
+345,en,hu,,,disease outbreak,betegség kitörése
+346,en,hu,,,Disposable hand sanitizer,Eldobható kézfertőtlenítő
+348,en,hu,,,domestic travel,belföldi utazás
+351,en,hu,,,droplets,cseppek
+357,en,hu,,,Effects of coronavirus,Koronavírus hatásai
+359,en,hu,,,epidemic,járvány
+360,en,hu,,,epidemic and pandemic,járvány és világjárvány
+362,en,hu,,,epidemic disease,járványos betegség
+364,en,hu,,,epidemic outbreak,járványkitörés
+365,en,hu,,,epidemic period,járványos időszak
+366,en,hu,,,epidemic prevention,járványmegelőzés
+368,en,hu,,,epidemic season,járványszezon
+369,en,hu,,,epidemic situation,járványhelyzet
+371,en,hu,,,exposure,kitettség
+375,en,hu,,,exposure time,kitettségi idő
+379,en,hu,,,fever,láz
+380,en,hu,,,fight the virus,a vírus leküzdése
+381,en,hu,,,Fighting the outbreak,A kitörés leküzdése
+382,en,hu,,,flu epidemic,influenzajárvány
+385,en,hu,,,fomites,fertőzéshordozók
+392,en,hu,,,global health emergency,globális egészségügyi vészhelyzet
+393,en,hu,,,global outbreak,globális kitörés
+394,en,hu,,,global pandemic,globális világjárvány
+396,en,hu,,,hand sanitizer,kézfertőtlenítő
+397,en,hu,,,hand sanitizer dispenser,kézfertőtlenítő adagoló
+398,en,hu,,,hand sanitizer gel,kézfertőtlenítő gél
+399,en,hu,,,hand sanitizer spray,kézfertőtlenítő spray
+403,en,hu,,,home isolation,otthoni elkülönítés
+404,en,hu,,,home quarantine,otthoni karantén
+410,en,hu,,,illness,betegség
+415,en,hu,,,incubation period,lappangási időszak
+418,en,hu,,,infected,fertőzött
+424,en,hu,,,instant hand sanitizer,azonnali kézfertőtlenítő
+425,en,hu,,,international spread,nemzetközi terjedés
+426,en,hu,,,international travel,nemzetközi utazás
+427,en,hu,,,isolation,elkülönítés
+428,en,hu,,,isolation period,elkülönítési időszak
+430,en,hu,,,isolation room,elkülönített helyiség
+431,en,hu,,,isolation valve,elkülönítő szelep
+432,en,hu,,,isolation ward,elkülönített kórterem
+434,en,hu,,,lockdown,lezárás
+438,en,hu,,,major outbreak,nagy méretű kitörés
+439,en,hu,,,mandatory quarantine,kötelező karantén
+440,en,hu,,,mass gathering,tömegrendezvény
+444,en,hu,,,medicine,gyógyszer
+445,en,hu,,,medicines,gyógyszerek
+448,en,hu,,,n95,n95
+449,en,hu,,,n95 mask,n95 maszk
+450,en,hu,,,n95 respirator,n95 légzőmaszk
+451,en,hu,,,ncov,ncov
+452,en,hu,,,ncov-2019,ncov-2019
+453,en,hu,,,new coronavirus,új koronavírus
+454,en,hu,,,new coronavirus pneumonia,új koronavírus tüdőgyulladás
+460,en,hu,,,novel coronavirus,új típusú koronavírus
+462,en,hu,,,novel coronavirus infection,új típusú koronavírus fertőzés
+463,en,hu,,,novel coronavirus outbreak,új típusú koronavírus kitörés
+464,en,hu,,,novel coronavirus pneumonia,új típusú koronavírus tüdőgyulladás
+470,en,hu,,,ongoing outbreak,folyamatban lévő kitörés
+472,en,hu,,,outbreak,kitörés
+474,en,hu,,,outbreak of coronavirus,koronavírus kitörése
+475,en,hu,,,outbreak of disease,betegség kitörése
+482,en,hu,,,pandemic,világjárvány
+485,en,hu,,,pandemic influenza,influenza pandémia
+486,en,hu,,,pandemic outbreak,világjárvány kitörés
+487,en,hu,,,pandemic plan,világjárvány terv
+488,en,hu,,,pandemic potential,világjárvány lehetősége
+495,en,hu,,,pneumonia,tüdőgyulladás
+496,en,hu,,,pneumonia epidemic,tüdőgyulladás járvány
+497,en,hu,,,potential exposure,lehetséges kitettség
+498,en,hu,,,precautions,óvintézkedések
+499,en,hu,,,prevent virus,vírus megelőzése
+500,en,hu,,,prolonged exposure,hosszan tartó kitettség
+504,en,hu,,,quarantine,karantén
+505,en,hu,,,quarantine area,karantén terület
+506,en,hu,,,quarantine facility,karantén létesítmény
+507,en,hu,,,quarantine measures,karantén intézkedések
+508,en,hu,,,quarantine period,karantén időszak
+509,en,hu,,,quarantine room,karantén helyiség
+510,en,hu,,,quarantine zone,karantén zóna
+512,en,hu,,,Recovered coronavirus patient,Gyógyult koronavírusos beteg
+514,en,hu,,,repatriate,hazatelepül
+515,en,hu,,,repeated exposure,ismételt kitettség
+516,en,hu,,,respiratory syncytial virus,légzőszervi syncytialis vírus
+517,en,hu,,,respiratory virus,légzőszervi vírus
+519,en,hu,,,Sanitizing hand sanitizer,Kézfertőtlenítő fertőtlenítés
+520,en,hu,,,SARS-CoV-2,SARS-CoV-2
+521,en,hu,,,self isolation,önelszigetelődés
+522,en,hu,,,self quarantine,önkarantén
+523,en,hu,,,Severe outbreak,Súlyos kitörés
+525,en,hu,,,social distancing,társadalmi távolságtartás
+526,en,hu,,,social distancing measures,társadalmi távolságtartás intézkedések
+527,en,hu,,,social isolation,társadalmi elkülönülés
+528,en,hu,,,SOS Alert,vészhelyzeti riasztás
+529,en,hu,,,spread,terjedés
+530,en,hu,,,spread of coronavirus,koronavírus terjedése
+531,en,hu,,,spread of virus,vírus terjedése
+535,en,hu,,,strain of virus,vírustörzs
+541,en,hu,,,the incubation period,a lappangási időszak
+544,en,hu,,,the novel coronavirus,az új típusú koronavírus
+558,en,hu,,,touching face,arc megérintése
+559,en,hu,,,travel advisory,utazási figyelmeztetés
+560,en,hu,,,travel ban,utazási tilalom
+561,en,hu,,,travel restrictions,utazási korlátozások
+565,en,hu,,,use hand sanitizer,kézfertőtlenítő használata
+566,en,hu,,,vaccines,védőoltások
+567,en,hu,,,viral outbreak,virális kitörés
+568,en,hu,,,virtual lockdown,virtuális lezárás
+569,en,hu,,,virus,vírus
+570,en,hu,,,virus carrier,vírushordozó
+573,en,hu,,,virus infection,vírusfertőzés
+575,en,hu,,,virus mask,vírus elleni maszk
+576,en,hu,,,virus outbreak,víruskitörés
+577,en,hu,,,virus prevention,vírus megelőzés
+578,en,hu,,,virus protection,vírus védekezés
+580,en,hu,,,virus spread,vírus terjedése
+582,en,hu,,,virus spreads,vírusterjedések
+583,en,hu,,,virus strain,vírustörzs
+584,en,hu,,,virus transmission,vírus átadása
+586,en,hu,,,wash your hands,kézmosás
+587,en,hu,,,washing hands,kézmosás
+589,en,hu,,,WHO,WHO
+590,en,hu,,,WHO Confirmed,WHO igazolt
+591,en,hu,,,WHO Deaths,WHO elhalálozások
+592,en,hu,,,widespread outbreak,széles körű kitörés
+597,en,hu,,,World Health Organization,Egészségügyi Világszervezet
+600,en,hu,,,zoonotic disease,zoonotikus betegség
+601,en,hu,,,zoonotic virus,zoonotikus vírus

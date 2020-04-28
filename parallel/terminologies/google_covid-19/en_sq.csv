@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,sq,,,14 days in isolation,14 ditë në izolim
+26,en,sq,,,14 days quarantine,14 ditë karantinë
+27,en,sq,,,2019 coronavirus,koronavirusi 2019
+28,en,sq,,,2019 novel coronavirus,koronavirusi i ri 2019
+29,en,sq,,,2019-nCoV,nCoV 2019
+30,en,sq,,,2020 coronavirus,koronavirusi 2020
+31,en,sq,,,2020 novel coronavirus,koronavirusi i ri 2020
+33,en,sq,,,about coronavirus,rreth koronavirusit
+39,en,sq,,,acute respiratory distress syndrome,sindroma e distresit akut respirator
+40,en,sq,,,advanced hand sanitizer,dezinfektues duarsh i përparuar
+41,en,sq,,,Affected by coronavirus,I prekur nga koronavirusi
+42,en,sq,,,after exposure,pas ekspozimit
+43,en,sq,,,After the epidemic,Pas epidemisë
+44,en,sq,,,After the outbreak,Pas shpërthimit
+47,en,sq,,,airborne virus,virus i transmetueshëm përmes ajrit
+48,en,sq,,,alcohol based hand sanitizer,dezinfektues duarsh me bazë alkooli
+49,en,sq,,,alcohol hand sanitizer,dezinfektues duarsh me alkool
+51,en,sq,,,alcohol-based hand sanitizer,dezinfektues duarsh me bazë alkooli
+59,en,sq,,,Anti-Corona virus spray,Spërkatës kundër virusit korona
+60,en,sq,,,antibacterial hand sanitizer,dezinfektues duarsh antibakterial
+61,en,sq,,,ARDS,ARDS
+64,en,sq,,,avoid exposure,shmang ekspozimin
+65,en,sq,,,be infected,infektohem
+75,en,sq,,,Beware of coronavirus,Kujdes nga koronavirusi
+76,en,sq,,,bilateral interstitial pneumonia,pneumoni intersticiale bilaterale
+77,en,sq,,,CDC,CDC
+78,en,sq,,,Center for Disease Control,Qendra për Kontrollin e Sëmundjeve
+83,en,sq,,,community spread,përhapje në komunitet
+84,en,sq,,,compulsory quarantine,karantinim i detyrueshëm
+85,en,sq,,,contagious,ngjitës
+135,en,sq,,,coronavirus,koronavirus
+136,en,sq,,,coronavirus (COVID-19),koronavirus (COVID-19)
+137,en,sq,,,coronavirus alert,alarm për koronavirusin
+139,en,sq,,,coronavirus cases,raste me koronavirus
+141,en,sq,,,coronavirus concerns,shqetësime për koronavirusin
+143,en,sq,,,coronavirus crisis,krizë nga koronavirusi
+149,en,sq,,,coronavirus disease,sëmundja e koronavirusit
+150,en,sq,,,Coronavirus disease (COVID-19) outbreak,Shpërthimi i sëmundjes së koronavirusit (COVID-19)
+153,en,sq,,,coronavirus early symptoms,simptomat e hershme të koronavirusit
+155,en,sq,,,coronavirus epidemic,epidemia e koronavirusit
+156,en,sq,,,coronavirus exposure,ekspozim ndaj koronavirusit
+161,en,sq,,,coronavirus incubation,inkubacioni i koronavirusit
+162,en,sq,,,coronavirus incubation period,periudha e inkubacionit të koronavirusit
+163,en,sq,,,coronavirus infection,infektim me koronavirus
+168,en,sq,,,coronavirus map,harta e koronavirusit
+170,en,sq,,,coronavirus medicine,bar për koronavirusin
+171,en,sq,,,coronavirus medicines,barna për koronavirusin
+172,en,sq,,,coronavirus news,lajme për koronavirusin
+173,en,sq,,,coronavirus outbreak,shpërthim i koronavirusit
+174,en,sq,,,coronavirus pandemic,pandemia e koronavirusit
+176,en,sq,,,coronavirus pneumonia,pneumoni nga koronavirusi
+177,en,sq,,,coronavirus precautions,masa paraprake për koronavirusin
+178,en,sq,,,coronavirus prevention,parandalim i koronavirusit
+179,en,sq,,,coronavirus protection,mbrojtje nga koronavirusi
+180,en,sq,,,coronavirus quarantine,karantinë për koronavirusin
+182,en,sq,,,coronavirus SOS Alert,alarm SOS për koronavirus
+183,en,sq,,,coronavirus spread,përhapja e koronavirusit
+184,en,sq,,,coronavirus symptoms,simptomat e koronavirusit
+185,en,sq,,,coronavirus transmission,transmetimi i koronavirusit
+186,en,sq,,,coronavirus travel ban,ndalim i udhëtimeve nga koronavirusi
+187,en,sq,,,coronavirus travel restrictions,kufizimet e udhëtimeve nga koronavirusi
+188,en,sq,,,coronavirus treatment,trajtimi i koronavirusit
+190,en,sq,,,coronavirus update,përditësim rreth koronavirusit
+191,en,sq,,,coronavirus vaccine,vaksinë për koronavirusin
+192,en,sq,,,coronavirus vaccines,vaksina për koronavirusin
+198,en,sq,,,covid cases,raste me covid
+205,en,sq,,,covid early symptoms,simptomat e hershme të covid
+213,en,sq,,,covid incubation period,periudha e inkubacionit të covid
+215,en,sq,,,covid international spread,përhapje ndërkombëtare e covid
+216,en,sq,,,covid international travel,covid udhëtimet ndërkombëtare
+217,en,sq,,,covid isolation,izolim i covid
+219,en,sq,,,covid map,harta e covid
+220,en,sq,,,covid medicine,bar për covid
+221,en,sq,,,covid medicines,barna për covid
+222,en,sq,,,covid news,lajme për covid
+223,en,sq,,,covid outbreak,shpërthim i covid
+224,en,sq,,,covid pandemic,pandemia e covid
+225,en,sq,,,covid panic,panik nga covid
+228,en,sq,,,covid SOS Alert,alarm SOS për covid
+230,en,sq,,,covid symptoms,simptomat e covid
+231,en,sq,,,covid transmission,transmetimi i covid
+232,en,sq,,,covid travel ban,covid ndalimi i udhëtimeve
+233,en,sq,,,covid travel restrictions,covid kufizimet e udhëtimeve
+234,en,sq,,,covid treatment,trajtimi i covid
+236,en,sq,,,covid vaccine,vaksinë për covid
+237,en,sq,,,covid vaccines,vaksina për covid
+242,en,sq,,,covid-19,covid-19
+243,en,sq,,,covid-19 alert,alarm për covid-19
+244,en,sq,,,covid-19 cases,raste me covid-19
+245,en,sq,,,covid-19 CDC,covid-19 CDC
+246,en,sq,,,covid-19 contagious,covid-19 ngjitës
+247,en,sq,,,covid-19 cure,kurë për covid-19
+248,en,sq,,,covid-19 dangerous,covid-19 i rrezikshëm
+249,en,sq,,,covid-19 deadly,covid-19 vdekjeprurës
+250,en,sq,,,covid-19 death,vdekje nga covid-19
+251,en,sq,,,covid-19 deaths,vdekjet nga covid-19
+252,en,sq,,,covid-19 domestic travel,covid-19 udhëtimet e brendshme
+253,en,sq,,,covid-19 early symptoms,simptomat e hershme të covid-19
+254,en,sq,,,covid-19 effects,efektet e covid-19
+255,en,sq,,,covid-19 epidemic,epidemia e covid-19
+256,en,sq,,,covid-19 exposure,ekspozim ndaj covid-19
+257,en,sq,,,covid-19 fatal,covid-19 fatal
+258,en,sq,,,covid-19 fever,ethe nga covid-19
+259,en,sq,,,covid-19 illness,sëmundja e covid-19
+260,en,sq,,,covid-19 incubation,inkubacioni i covid-19
+261,en,sq,,,covid-19 incubation period,periudha e inkubacionit të covid-19
+262,en,sq,,,covid-19 infection,infektim me covid-19
+263,en,sq,,,covid-19 international spread,përhapje ndërkombëtare e covid-19
+264,en,sq,,,covid-19 international travel,covid-19 udhëtimet ndërkombëtare
+265,en,sq,,,covid-19 isolation,izolim i covid-19
+266,en,sq,,,covid-19 lockdown,izolim nga covid-19
+267,en,sq,,,covid-19 map,harta e covid-19
+268,en,sq,,,covid-19 medicine,bar për covid-19
+269,en,sq,,,covid-19 medicines,barna për covid-19
+270,en,sq,,,covid-19 news,lajme rreth covid-19
+271,en,sq,,,covid-19 outbreak,shpërthim i covid-19
+272,en,sq,,,covid-19 pandemic,pandemia e covid-19
+273,en,sq,,,covid-19 panic,panik nga covid-19
+275,en,sq,,,covid-19 precautions,masa paraprake për covid-19
+276,en,sq,,,covid-19 protection,mbrojtje nga covid-19
+277,en,sq,,,covid-19 quarantine,karantinë për covid-19
+278,en,sq,,,covid-19 SOS Alert,alarm SOS për covid-19
+279,en,sq,,,covid-19 spread,përhapje e covid-19
+280,en,sq,,,covid-19 symptoms,simptomat e covid-19
+281,en,sq,,,covid-19 transmission,transmetim i covid-19
+282,en,sq,,,covid-19 travel ban,covid-19 ndalimi i udhëtimeve
+283,en,sq,,,covid-19 travel restrictions,covid-19 kufizimet e udhëtimeve
+284,en,sq,,,covid-19 treatment,trajtim i covid-19
+285,en,sq,,,covid-19 uncontrolled spread,përhapje e pakontrolluar e covid-19
+286,en,sq,,,covid-19 vaccine,vaksinë për covid-19
+287,en,sq,,,covid-19 vaccines,vaksina për covid-19
+288,en,sq,,,COVID-19 virus,virusi i covid-19
+289,en,sq,,,covid-19 virus outbreak,shpërthim i virusit covid-19
+290,en,sq,,,covid-19 virus transmission,transmetim i virusit covid-19
+291,en,sq,,,covid-19 WHO,covid-19 OBSH
+292,en,sq,,,covid19,covid19
+293,en,sq,,,covid19 alert,alarm për covid19
+294,en,sq,,,covid19 cases,raste me covid19
+295,en,sq,,,covid19 CDC,covid19 CDC
+301,en,sq,,,covid19 deaths,vdekjet nga covid19
+302,en,sq,,,covid19 domestic travel,covid19 udhëtimet e brendshme
+303,en,sq,,,covid19 effects,efektet e covid19
+304,en,sq,,,covid19 epidemic,epidemia e covid19
+305,en,sq,,,covid19 exposure,ekspozim ndaj covid19
+306,en,sq,,,covid19 fatal,covid19 fatal
+307,en,sq,,,covid19 fever,ethe nga covid19
+308,en,sq,,,covid19 illness,sëmundja covid19
+309,en,sq,,,covid19 incubation,inkubacioni i covid19
+310,en,sq,,,covid19 incubation period,periudha e inkubacionit e covid19
+311,en,sq,,,covid19 infection,infektim me covid19
+312,en,sq,,,covid19 international spread,përhapje ndërkombëtare e covid19
+313,en,sq,,,covid19 international travel,covid19 udhëtimet ndërkombëtare
+314,en,sq,,,covid19 isolation,izolim i covid19
+315,en,sq,,,covid19 lockdown,izolim nga covid19
+316,en,sq,,,covid19 map,harta e covid19
+317,en,sq,,,covid19 medicine,bar për covid19
+318,en,sq,,,covid19 medicines,barna për covid19
+319,en,sq,,,covid19 news,lajme rreth covid19
+320,en,sq,,,covid19 outbreak,shpërthim i covid19
+321,en,sq,,,covid19 pandemic,pandemia e covid19
+324,en,sq,,,covid19 precautions,masa paraprake për covid19
+325,en,sq,,,covid19 protection,mbrojtje nga covid19
+326,en,sq,,,covid19 quarantine,karantinë për covid19
+327,en,sq,,,covid19 SOS Alert,alarm SOS për covid19
+328,en,sq,,,covid19 spread,përhapje e covid19
+329,en,sq,,,covid19 symptoms,simptomat e covid19
+330,en,sq,,,covid19 transmission,transmetim i covid19
+331,en,sq,,,covid19 travel ban,covid19 ndalimi i udhëtimeve
+332,en,sq,,,covid19 travel restrictions,covid19 kufizimet e udhëtimeve
+333,en,sq,,,covid19 treatment,trajtim i covid19
+335,en,sq,,,covid19 vaccine,vaksinë për covid19
+336,en,sq,,,covid19 vaccines,vaksina për covid19
+337,en,sq,,,covid19 virus,virusi i covid19
+338,en,sq,,,covid19 virus outbreak,shpërthim i virusit covid19
+339,en,sq,,,covid19 virus transmission,transmetim i virusit covid19
+342,en,sq,,,current outbreak,shpërthim aktual
+343,en,sq,,,deadly outbreak,shpërthim vdekjeprurës
+345,en,sq,,,disease outbreak,shpërthim i sëmundjes
+346,en,sq,,,Disposable hand sanitizer,Dezinfektues duarsh për një përdorim
+348,en,sq,,,domestic travel,udhëtim i brendshëm
+351,en,sq,,,droplets,spërkla
+357,en,sq,,,Effects of coronavirus,Efektet e koronavirusit
+359,en,sq,,,epidemic,epidemi
+360,en,sq,,,epidemic and pandemic,epidemik dhe pandemik
+362,en,sq,,,epidemic disease,sëmundje epidemike
+364,en,sq,,,epidemic outbreak,shpërthim epidemik
+365,en,sq,,,epidemic period,periudhë epidemie
+366,en,sq,,,epidemic prevention,parandalim i epidemisë
+368,en,sq,,,epidemic season,sezon epidemie
+369,en,sq,,,epidemic situation,situatë epidemike
+371,en,sq,,,exposure,ekspozim
+375,en,sq,,,exposure time,kohë ekspozimi
+379,en,sq,,,fever,ethe
+380,en,sq,,,fight the virus,luftoni virusin
+381,en,sq,,,Fighting the outbreak,Lufta kundër shpërthimit
+382,en,sq,,,flu epidemic,epidemi e gripit
+385,en,sq,,,fomites,objekte të infektuara
+392,en,sq,,,global health emergency,urgjencë shëndetësore globale
+393,en,sq,,,global outbreak,shpërthim global
+394,en,sq,,,global pandemic,pandemi globale
+396,en,sq,,,hand sanitizer,dezinfektues duarsh
+397,en,sq,,,hand sanitizer dispenser,shpërndarës automatik dezinfektuesi për duart
+398,en,sq,,,hand sanitizer gel,xhel dezinfektues për duart
+399,en,sq,,,hand sanitizer spray,spërkatës dezinfektues për duart
+403,en,sq,,,home isolation,izolim në shtëpi
+404,en,sq,,,home quarantine,karantinë në shtëpi
+410,en,sq,,,illness,sëmundje
+415,en,sq,,,incubation period,periudhë inkubacioni
+418,en,sq,,,infected,i infektuar
+424,en,sq,,,instant hand sanitizer,dezinfektues duarsh i menjëhershëm
+425,en,sq,,,international spread,përhapje ndërkombëtare
+426,en,sq,,,international travel,udhëtim ndërkombëtar
+427,en,sq,,,isolation,izolim
+428,en,sq,,,isolation period,periudhë izolimi
+430,en,sq,,,isolation room,dhomë izolimi
+431,en,sq,,,isolation valve,valvul izolimi
+432,en,sq,,,isolation ward,repart izolimi
+434,en,sq,,,lockdown,izolim
+438,en,sq,,,major outbreak,shpërthim i madh
+439,en,sq,,,mandatory quarantine,karantinë e detyrueshme
+440,en,sq,,,mass gathering,grumbullim masiv
+444,en,sq,,,medicine,bar
+445,en,sq,,,medicines,barna
+448,en,sq,,,n95,n95
+449,en,sq,,,n95 mask,maskë n95
+450,en,sq,,,n95 respirator,respirator n95
+451,en,sq,,,ncov,ncov
+452,en,sq,,,ncov-2019,ncov-2019
+453,en,sq,,,new coronavirus,koronavirus i ri
+454,en,sq,,,new coronavirus pneumonia,pneumoni nga koronavirusi i ri
+460,en,sq,,,novel coronavirus,koronavirus i ri
+462,en,sq,,,novel coronavirus infection,infektim me koronavirusin e ri
+463,en,sq,,,novel coronavirus outbreak,shpërthim i koronavirusit të ri
+464,en,sq,,,novel coronavirus pneumonia,pneumoni e koronavirusit të ri
+470,en,sq,,,ongoing outbreak,shpërthim në vazhdim
+472,en,sq,,,outbreak,shpërthim
+474,en,sq,,,outbreak of coronavirus,shpërthim i koronavirusit
+475,en,sq,,,outbreak of disease,shpërthim i sëmundjes
+482,en,sq,,,pandemic,pandemi
+485,en,sq,,,pandemic influenza,grip pandemik
+486,en,sq,,,pandemic outbreak,shpërthim pandemik
+487,en,sq,,,pandemic plan,plan pandemie
+488,en,sq,,,pandemic potential,potencial pandemie
+495,en,sq,,,pneumonia,pneumoni
+496,en,sq,,,pneumonia epidemic,epidemi pneumonie
+497,en,sq,,,potential exposure,ekspozim i mundshëm
+498,en,sq,,,precautions,masa paraprake
+499,en,sq,,,prevent virus,parandaloj virusin
+500,en,sq,,,prolonged exposure,ekspozim i zgjatur
+504,en,sq,,,quarantine,karantinë
+505,en,sq,,,quarantine area,vend karantine
+506,en,sq,,,quarantine facility,objekt karantine
+507,en,sq,,,quarantine measures,masa karantine
+508,en,sq,,,quarantine period,periudhë karantine
+509,en,sq,,,quarantine room,dhomë karantine
+510,en,sq,,,quarantine zone,zonë karantine
+512,en,sq,,,Recovered coronavirus patient,Pacienti i shëruar nga koronavirusi
+514,en,sq,,,repatriate,riatdhesoj
+515,en,sq,,,repeated exposure,ekspozim i përsëritur
+516,en,sq,,,respiratory syncytial virus,virus respirator sincicial
+517,en,sq,,,respiratory virus,virus respirator
+519,en,sq,,,Sanitizing hand sanitizer,Dezinfektues duarsh për higjienizim
+520,en,sq,,,SARS-CoV-2,SARS-CoV-2
+521,en,sq,,,self isolation,vetizolim
+522,en,sq,,,self quarantine,vetëkarantinim
+523,en,sq,,,Severe outbreak,Shpërthim i rëndë
+525,en,sq,,,social distancing,distancim social
+526,en,sq,,,social distancing measures,masa të distancimit social
+527,en,sq,,,social isolation,izolim social
+528,en,sq,,,SOS Alert,Alarm SOS
+529,en,sq,,,spread,përhapet
+530,en,sq,,,spread of coronavirus,përhapje e koronavirusit
+531,en,sq,,,spread of virus,përhapje e virusit
+535,en,sq,,,strain of virus,lloj i virusit
+541,en,sq,,,the incubation period,periudha e inkubacionit
+544,en,sq,,,the novel coronavirus,koronavirusi i ri
+558,en,sq,,,touching face,prekin fytyrën
+559,en,sq,,,travel advisory,këshillues udhëtimi
+560,en,sq,,,travel ban,ndalim i udhëtimeve
+561,en,sq,,,travel restrictions,kufizime të udhëtimeve
+565,en,sq,,,use hand sanitizer,përdorni dezinfektues duarsh
+566,en,sq,,,vaccines,vaksina
+567,en,sq,,,viral outbreak,shpërthim viral
+568,en,sq,,,virtual lockdown,izolim virtual
+569,en,sq,,,virus,virus
+570,en,sq,,,virus carrier,bartës virusi
+573,en,sq,,,virus infection,infeksion viral
+575,en,sq,,,virus mask,maskë kundër viruseve
+576,en,sq,,,virus outbreak,shpërthim virusi
+577,en,sq,,,virus prevention,parandalim i virusit
+578,en,sq,,,virus protection,mbrojtje nga virusi
+580,en,sq,,,virus spread,përhapje e virusit
+582,en,sq,,,virus spreads,virusi përhapet
+583,en,sq,,,virus strain,lloj virusi
+584,en,sq,,,virus transmission,transmetim i virusit
+586,en,sq,,,wash your hands,lani duart
+587,en,sq,,,washing hands,larja e duarve
+589,en,sq,,,WHO,OBSH
+590,en,sq,,,WHO Confirmed,OBSH Konfirmoi
+591,en,sq,,,WHO Deaths,OBSH Vdekjet
+592,en,sq,,,widespread outbreak,shpërthim i përhapur
+597,en,sq,,,World Health Organization,Organizata Botërore e Shëndetësisë
+600,en,sq,,,zoonotic disease,sëmundje zoonotike
+601,en,sq,,,zoonotic virus,virus zoonotik

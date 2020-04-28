@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,pl,,,14 days in isolation,14 dni w izolacji
+26,en,pl,,,14 days quarantine,kwarantanna 14 dni
+27,en,pl,,,2019 coronavirus,koronawirus 2019
+28,en,pl,,,2019 novel coronavirus,nowy koronawirus 2019
+29,en,pl,,,2019-nCoV,2019-nCoV
+30,en,pl,,,2020 coronavirus,koronawirus 2020
+31,en,pl,,,2020 novel coronavirus,nowy koronawirus 2020
+33,en,pl,,,about coronavirus,o koronawirusie
+39,en,pl,,,acute respiratory distress syndrome,zespół ostrej niewydolności oddechowej
+40,en,pl,,,advanced hand sanitizer,zaawansowany sanityzer dłoni
+41,en,pl,,,Affected by coronavirus,Zakażony koronawirusem
+42,en,pl,,,after exposure,po narażeniu
+43,en,pl,,,After the epidemic,Po epidemii
+44,en,pl,,,After the outbreak,Po wybuchu
+47,en,pl,,,airborne virus,wirus przenoszony drogą powietrzną
+48,en,pl,,,alcohol based hand sanitizer,sanityzer dłoni na bazie alkoholu
+49,en,pl,,,alcohol hand sanitizer,alkoholowy sanityzer dłoni
+51,en,pl,,,alcohol-based hand sanitizer,sanityzer dłoni na bazie alkoholu
+59,en,pl,,,Anti-Corona virus spray,Spray przeciw koronawirusowi
+60,en,pl,,,antibacterial hand sanitizer,antybakteryjny sanityzer dłoni
+61,en,pl,,,ARDS,ARDS
+64,en,pl,,,avoid exposure,unikać narażenia
+65,en,pl,,,be infected,być zakażonym
+75,en,pl,,,Beware of coronavirus,Strzeż się koronawirusa
+76,en,pl,,,bilateral interstitial pneumonia,obustronne śródmiąższowe zapalenie płuc
+77,en,pl,,,CDC,CDC
+78,en,pl,,,Center for Disease Control,Center for Disease Control
+83,en,pl,,,community spread,szerzenie w społeczności
+84,en,pl,,,compulsory quarantine,przymusowa kwarantanna
+85,en,pl,,,contagious,zakaźny
+135,en,pl,,,coronavirus,koronawirus
+136,en,pl,,,coronavirus (COVID-19),koronawirus (COVID-19)
+137,en,pl,,,coronavirus alert,ostrzeżenie przed koronawirusem
+139,en,pl,,,coronavirus cases,przypadki koronawirusa
+141,en,pl,,,coronavirus concerns,koronawirus obawy
+143,en,pl,,,coronavirus crisis,kryzys koronawirusowy
+149,en,pl,,,coronavirus disease,koronawirus choroba
+150,en,pl,,,Coronavirus disease (COVID-19) outbreak,Wybuch epidemii choroby wywołanej przez koronawirusa (COVID-19)
+153,en,pl,,,coronavirus early symptoms,koronawirus wczesne objawy
+155,en,pl,,,coronavirus epidemic,koronawirus epidemia
+156,en,pl,,,coronavirus exposure,koronawirus narażenie
+161,en,pl,,,coronavirus incubation,koronawirus wylęganie
+162,en,pl,,,coronavirus incubation period,koronawirus okres wylęgania
+163,en,pl,,,coronavirus infection,koronawirus infekcja
+168,en,pl,,,coronavirus map,koronawirus mapa
+170,en,pl,,,coronavirus medicine,koronawirus lekarstwo
+171,en,pl,,,coronavirus medicines,koronawirus leki
+172,en,pl,,,coronavirus news,koronawirus wiadomości
+173,en,pl,,,coronavirus outbreak,koronawirus wybuch
+174,en,pl,,,coronavirus pandemic,koronawirus pandemia
+176,en,pl,,,coronavirus pneumonia,koronawirus zapalenie płuc
+177,en,pl,,,coronavirus precautions,koronawirus środki ostrożności
+178,en,pl,,,coronavirus prevention,koronawirus profilaktyka
+179,en,pl,,,coronavirus protection,koronawirus ochrona
+180,en,pl,,,coronavirus quarantine,koronawirus kwarantanna
+182,en,pl,,,coronavirus SOS Alert,koronawirus ostrzeżenie SOS
+183,en,pl,,,coronavirus spread,koronawirus szerzenie
+184,en,pl,,,coronavirus symptoms,koronawirus objawy
+185,en,pl,,,coronavirus transmission,koronawirus przenoszenie
+186,en,pl,,,coronavirus travel ban,koronawirus zakaz podróży
+187,en,pl,,,coronavirus travel restrictions,koronawirus ograniczenie podróży
+188,en,pl,,,coronavirus treatment,koronawirus leczenie
+190,en,pl,,,coronavirus update,koronawirus nowe informacje
+191,en,pl,,,coronavirus vaccine,koronawirus szczepionka
+192,en,pl,,,coronavirus vaccines,koronawirus szczepionki
+198,en,pl,,,covid cases,covid przypadki
+205,en,pl,,,covid early symptoms,covid wczesne objawy
+213,en,pl,,,covid incubation period,covid okres wylęgania
+215,en,pl,,,covid international spread,covid rozprzestrzenienie międzynarodowe
+216,en,pl,,,covid international travel,covid podróż zagraniczna
+217,en,pl,,,covid isolation,covid izolacja
+219,en,pl,,,covid map,covid mapa
+220,en,pl,,,covid medicine,covid lek
+221,en,pl,,,covid medicines,covid leki
+222,en,pl,,,covid news,covid aktualności
+223,en,pl,,,covid outbreak,covid wybuch
+224,en,pl,,,covid pandemic,covid pandemia
+225,en,pl,,,covid panic,covid panika
+228,en,pl,,,covid SOS Alert,covid ostrzeżenie SOS
+230,en,pl,,,covid symptoms,covid objawy
+231,en,pl,,,covid transmission,covid przenoszenie
+232,en,pl,,,covid travel ban,covid zakaz podróży
+233,en,pl,,,covid travel restrictions,covid ograniczenia podróży
+234,en,pl,,,covid treatment,covid leczenie
+236,en,pl,,,covid vaccine,covid szczepionka
+237,en,pl,,,covid vaccines,covid szczepionki
+242,en,pl,,,covid-19,covid-19
+243,en,pl,,,covid-19 alert,covid-19 ostrzeżenie
+244,en,pl,,,covid-19 cases,covid-19 przypadki
+245,en,pl,,,covid-19 CDC,covid-19 CDC
+246,en,pl,,,covid-19 contagious,covid-19 zakaźny
+247,en,pl,,,covid-19 cure,covid-19 lek
+248,en,pl,,,covid-19 dangerous,covid-19 groźny
+249,en,pl,,,covid-19 deadly,covid-19 śmiertelny
+250,en,pl,,,covid-19 death,covid-19 zgon
+251,en,pl,,,covid-19 deaths,covid-19 zgony
+252,en,pl,,,covid-19 domestic travel,covid-19 podróż krajowa
+253,en,pl,,,covid-19 early symptoms,covid-19 wczesne objawy
+254,en,pl,,,covid-19 effects,covid-19 skutki
+255,en,pl,,,covid-19 epidemic,covid-19 epidemia
+256,en,pl,,,covid-19 exposure,covid-19 narażenie
+257,en,pl,,,covid-19 fatal,covid-19 śmiertelny
+258,en,pl,,,covid-19 fever,covid-19 gorączka
+259,en,pl,,,covid-19 illness,covid-19 choroba
+260,en,pl,,,covid-19 incubation,covid-19 wylęganie
+261,en,pl,,,covid-19 incubation period,covid-19 okres wylęgania
+262,en,pl,,,covid-19 infection,covid-19 infekcja
+263,en,pl,,,covid-19 international spread,covid-19 rozprzestrzenienie międzynarodowe
+264,en,pl,,,covid-19 international travel,covid-19 podróż zagraniczna
+265,en,pl,,,covid-19 isolation,covid-19 izolacja
+266,en,pl,,,covid-19 lockdown,covid-19 zakaz wychodzenia
+267,en,pl,,,covid-19 map,covid-19 mapa
+268,en,pl,,,covid-19 medicine,covid-19 lek
+269,en,pl,,,covid-19 medicines,covid-19 leki
+270,en,pl,,,covid-19 news,covid-19 wiadomości
+271,en,pl,,,covid-19 outbreak,covid-19 wybuch
+272,en,pl,,,covid-19 pandemic,covid-19 pandemia
+273,en,pl,,,covid-19 panic,covid-19 panika
+275,en,pl,,,covid-19 precautions,covid-19 środki ostrożności
+276,en,pl,,,covid-19 protection,covid-19 ochrona
+277,en,pl,,,covid-19 quarantine,covid-19 kwarantanna
+278,en,pl,,,covid-19 SOS Alert,covid-19 SOS ostrzeżenie
+279,en,pl,,,covid-19 spread,covid-19 szerzenie
+280,en,pl,,,covid-19 symptoms,covid-19 objawy
+281,en,pl,,,covid-19 transmission,covid-19 przenoszenie
+282,en,pl,,,covid-19 travel ban,covid-19 zakaz podróży
+283,en,pl,,,covid-19 travel restrictions,covid-19 ograniczenia podróży
+284,en,pl,,,covid-19 treatment,covid-19 leczenie
+285,en,pl,,,covid-19 uncontrolled spread,covid-19 niekontrolowane rozprzestrzenianie
+286,en,pl,,,covid-19 vaccine,covid-19 szczepionka
+287,en,pl,,,covid-19 vaccines,covid-19 szczepionki
+288,en,pl,,,COVID-19 virus,covid-19 wirus
+289,en,pl,,,covid-19 virus outbreak,covid-19 wirus wybuch
+290,en,pl,,,covid-19 virus transmission,covid-19 wirus przenoszenie
+291,en,pl,,,covid-19 WHO,covid-19 WHO
+292,en,pl,,,covid19,covid19
+293,en,pl,,,covid19 alert,covid19 ostrzeżenie
+294,en,pl,,,covid19 cases,covid19 przypadki
+295,en,pl,,,covid19 CDC,covid19 CDC
+301,en,pl,,,covid19 deaths,covid19 zgony
+302,en,pl,,,covid19 domestic travel,covid19 podróż krajowa
+303,en,pl,,,covid19 effects,covid19 skutki
+304,en,pl,,,covid19 epidemic,covid19 epidemia
+305,en,pl,,,covid19 exposure,covid19 narażenie
+306,en,pl,,,covid19 fatal,covid19 śmiertelny
+307,en,pl,,,covid19 fever,covid19 gorączka
+308,en,pl,,,covid19 illness,covid19 choroba
+309,en,pl,,,covid19 incubation,covid19 wylęganie
+310,en,pl,,,covid19 incubation period,covid19 okres wylęgania
+311,en,pl,,,covid19 infection,covid19 infekcja
+312,en,pl,,,covid19 international spread,covid19 rozprzestrzenienie międzynarodowe
+313,en,pl,,,covid19 international travel,covid19 podróż zagraniczna
+314,en,pl,,,covid19 isolation,covid19 izolacja
+315,en,pl,,,covid19 lockdown,covid19 zakaz wychodzenia
+316,en,pl,,,covid19 map,covid19 mapa
+317,en,pl,,,covid19 medicine,covid19 lek
+318,en,pl,,,covid19 medicines,covid19 leki
+319,en,pl,,,covid19 news,covid19 wieści
+320,en,pl,,,covid19 outbreak,covid19 wybuch
+321,en,pl,,,covid19 pandemic,covid19 pandemia
+324,en,pl,,,covid19 precautions,covid19 środki ostrożności
+325,en,pl,,,covid19 protection,covid19 ochrona
+326,en,pl,,,covid19 quarantine,covid19 kwarantanna
+327,en,pl,,,covid19 SOS Alert,covid19 SOS ostrzeżenie
+328,en,pl,,,covid19 spread,covid19 szerzenie
+329,en,pl,,,covid19 symptoms,covid19 objawy
+330,en,pl,,,covid19 transmission,covid19 przenoszenie
+331,en,pl,,,covid19 travel ban,covid19 zakaz podróży
+332,en,pl,,,covid19 travel restrictions,covid19 ograniczenia podróży
+333,en,pl,,,covid19 treatment,covid19 leczenie
+335,en,pl,,,covid19 vaccine,covid19 szczepionka
+336,en,pl,,,covid19 vaccines,covid19 szczepionki
+337,en,pl,,,covid19 virus,covid19 wirus
+338,en,pl,,,covid19 virus outbreak,covid19 wirus wybuch
+339,en,pl,,,covid19 virus transmission,covid19 wirus przenoszenie
+342,en,pl,,,current outbreak,bieżący wybuch epidemii
+343,en,pl,,,deadly outbreak,wybuch śmiertelnej epidemii
+345,en,pl,,,disease outbreak,wybuch epidemii choroby
+346,en,pl,,,Disposable hand sanitizer,Jednorazowy sanityzer rąk
+348,en,pl,,,domestic travel,podróże krajowe
+351,en,pl,,,droplets,kropelki
+357,en,pl,,,Effects of coronavirus,Skutki koronawirusa
+359,en,pl,,,epidemic,epidemia
+360,en,pl,,,epidemic and pandemic,epidemia i pandemia
+362,en,pl,,,epidemic disease,epidemia choroby
+364,en,pl,,,epidemic outbreak,wybuch epidemii
+365,en,pl,,,epidemic period,okres epidemii
+366,en,pl,,,epidemic prevention,zapobieganie epidemii
+368,en,pl,,,epidemic season,sezon epidemii
+369,en,pl,,,epidemic situation,sytuacja epidemii
+371,en,pl,,,exposure,narażenie
+375,en,pl,,,exposure time,czas narażenia
+379,en,pl,,,fever,gorączka
+380,en,pl,,,fight the virus,zwalczać wirusa
+381,en,pl,,,Fighting the outbreak,Zwalczanie epidemii
+382,en,pl,,,flu epidemic,epidemia grypy
+385,en,pl,,,fomites,nośnik zakażenia
+392,en,pl,,,global health emergency,globalne zagrożenie zdrowotne
+393,en,pl,,,global outbreak,wybuch światowej epidemii
+394,en,pl,,,global pandemic,światowa pandemia
+396,en,pl,,,hand sanitizer,sanityzer dłoni
+397,en,pl,,,hand sanitizer dispenser,dozownik środka do mycia dłoni
+398,en,pl,,,hand sanitizer gel,żel do odkażania dłoni
+399,en,pl,,,hand sanitizer spray,sanityzer rąk spray
+403,en,pl,,,home isolation,izolacja domowa
+404,en,pl,,,home quarantine,kwarantanna domowa
+410,en,pl,,,illness,choroba
+415,en,pl,,,incubation period,okres wylęgania
+418,en,pl,,,infected,zainfekowany
+424,en,pl,,,instant hand sanitizer,natychmiast sanityzer dłoni
+425,en,pl,,,international spread,szerzenie międzynarodowe
+426,en,pl,,,international travel,podróż zagraniczna
+427,en,pl,,,isolation,izolacja
+428,en,pl,,,isolation period,okres izolacji
+430,en,pl,,,isolation room,izolatka
+431,en,pl,,,isolation valve,zawór odcinający
+432,en,pl,,,isolation ward,oddział izolacji
+434,en,pl,,,lockdown,zakaz wyjścia
+438,en,pl,,,major outbreak,wybuch poważnej epidemii
+439,en,pl,,,mandatory quarantine,obowiązkowa kwarantanna
+440,en,pl,,,mass gathering,masowe zgromadzenia
+444,en,pl,,,medicine,medycyna
+445,en,pl,,,medicines,leki
+448,en,pl,,,n95,n95
+449,en,pl,,,n95 mask,maska n95
+450,en,pl,,,n95 respirator,maska oddechowa n95
+451,en,pl,,,ncov,ncov
+452,en,pl,,,ncov-2019,ncov-2019
+453,en,pl,,,new coronavirus,nowy koronawirus
+454,en,pl,,,new coronavirus pneumonia,nowy koronawirus zapalenie płuc
+460,en,pl,,,novel coronavirus,nowy koronawirus
+462,en,pl,,,novel coronavirus infection,nowy koronawirus infekcja
+463,en,pl,,,novel coronavirus outbreak,nowy koronawirus wybuch
+464,en,pl,,,novel coronavirus pneumonia,nowy koronawirus zapalenie płuc
+470,en,pl,,,ongoing outbreak,trwająca epidemia
+472,en,pl,,,outbreak,wybuch
+474,en,pl,,,outbreak of coronavirus,epidemia koronawirusa
+475,en,pl,,,outbreak of disease,epidemia choroby
+482,en,pl,,,pandemic,pandemia
+485,en,pl,,,pandemic influenza,pandemia grypy
+486,en,pl,,,pandemic outbreak,wybuch epidemii
+487,en,pl,,,pandemic plan,pandemia plan
+488,en,pl,,,pandemic potential,potencjał pandemii
+495,en,pl,,,pneumonia,zapalenie płuc
+496,en,pl,,,pneumonia epidemic,zapalenie płuc epidemia
+497,en,pl,,,potential exposure,potencjalne narażenie
+498,en,pl,,,precautions,środki ostrożności
+499,en,pl,,,prevent virus,zapobieganie wirusowi
+500,en,pl,,,prolonged exposure,przedłużone narażenie
+504,en,pl,,,quarantine,kwarantanna
+505,en,pl,,,quarantine area,obszar kwarantanny
+506,en,pl,,,quarantine facility,obiekt kwarantanny
+507,en,pl,,,quarantine measures,środki kwarantanny
+508,en,pl,,,quarantine period,okres kwarantanny
+509,en,pl,,,quarantine room,sala kwarantanny
+510,en,pl,,,quarantine zone,strefa kwarantanny
+512,en,pl,,,Recovered coronavirus patient,Pacjent wyleczony z koronawirusa
+514,en,pl,,,repatriate,repatriacja
+515,en,pl,,,repeated exposure,powtarzane narażenie
+516,en,pl,,,respiratory syncytial virus,syncytialny wirus oddechowy
+517,en,pl,,,respiratory virus,wirus dróg oddechowych
+519,en,pl,,,Sanitizing hand sanitizer,Odkażanie dłoni sanityzer
+520,en,pl,,,SARS-CoV-2,SARS-CoV-2
+521,en,pl,,,self isolation,samoizolacja
+522,en,pl,,,self quarantine,samokwarantanna
+523,en,pl,,,Severe outbreak,Poważny wybuch
+525,en,pl,,,social distancing,dystans społeczny
+526,en,pl,,,social distancing measures,środki dystansu społecznego
+527,en,pl,,,social isolation,izolacja społeczna
+528,en,pl,,,SOS Alert,ostrzeżenie SOS
+529,en,pl,,,spread,rozpowszechnianie się
+530,en,pl,,,spread of coronavirus,szerzenie koronawirusa
+531,en,pl,,,spread of virus,rozpowszechnianie wirusa
+535,en,pl,,,strain of virus,szczep wirusa
+541,en,pl,,,the incubation period,okres wylęgania
+544,en,pl,,,the novel coronavirus,nowy koronawirus
+558,en,pl,,,touching face,dotykanie twarzy
+559,en,pl,,,travel advisory,zalecenia dotyczące podróży
+560,en,pl,,,travel ban,zakaz podróży
+561,en,pl,,,travel restrictions,ograniczenia podróży
+565,en,pl,,,use hand sanitizer,używać sanityzera rąk
+566,en,pl,,,vaccines,szczepionki
+567,en,pl,,,viral outbreak,epidemia wirusowa
+568,en,pl,,,virtual lockdown,wirtualny zakaz wychodzenia
+569,en,pl,,,virus,wirus
+570,en,pl,,,virus carrier,nosiciel wirusa
+573,en,pl,,,virus infection,infekcja wirusowa
+575,en,pl,,,virus mask,wirus maska
+576,en,pl,,,virus outbreak,wirus wybuch
+577,en,pl,,,virus prevention,wirus profilaktyka
+578,en,pl,,,virus protection,wirus ochrona
+580,en,pl,,,virus spread,wirus szerzenie
+582,en,pl,,,virus spreads,wirus szerzy się
+583,en,pl,,,virus strain,szczep wirusa
+584,en,pl,,,virus transmission,przenoszenie wirusa
+586,en,pl,,,wash your hands,myć dłonie
+587,en,pl,,,washing hands,mycie rąk
+589,en,pl,,,WHO,WHO
+590,en,pl,,,WHO Confirmed,potwierdzony przez WHO
+591,en,pl,,,WHO Deaths,WHO zgony
+592,en,pl,,,widespread outbreak,powszechna epidemia
+597,en,pl,,,World Health Organization,Światowa Organizacja Zdrowia
+600,en,pl,,,zoonotic disease,choroba odzwierzęca
+601,en,pl,,,zoonotic virus,wirus odzwierzęcy

@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,tr,,,14 days in isolation,14 günlük izolasyon
+26,en,tr,,,14 days quarantine,14 günlük karantina
+27,en,tr,,,2019 coronavirus,2019 koronavirüs
+28,en,tr,,,2019 novel coronavirus,2019 yeni tip koronavirüs
+29,en,tr,,,2019-nCoV,2019-nCoV
+30,en,tr,,,2020 coronavirus,2020 koronavirüs
+31,en,tr,,,2020 novel coronavirus,2020 yeni tip koronavirüs
+33,en,tr,,,about coronavirus,koronavirüs hakkında
+39,en,tr,,,acute respiratory distress syndrome,akut solunum sıkıntısı sendromu
+40,en,tr,,,advanced hand sanitizer,gelişmiş el dezenfektanı
+41,en,tr,,,Affected by coronavirus,Koronavirüsten etkilenen
+42,en,tr,,,after exposure,maruziyet sonrasında
+43,en,tr,,,After the epidemic,Epidemi sonrası
+44,en,tr,,,After the outbreak,Salgın sonrası
+47,en,tr,,,airborne virus,havadan bulaşan virüs
+48,en,tr,,,alcohol based hand sanitizer,alkol bazlı el dezenfektanı
+49,en,tr,,,alcohol hand sanitizer,alkollü el dezenfektanı
+51,en,tr,,,alcohol-based hand sanitizer,alkol bazlı el dezenfektanı
+59,en,tr,,,Anti-Corona virus spray,Anti-Korona virüs spreyi
+60,en,tr,,,antibacterial hand sanitizer,antibakteriyel el dezenfektanı
+61,en,tr,,,ARDS,ASSS
+64,en,tr,,,avoid exposure,maruziyetten kaçınıyorum
+65,en,tr,,,be infected,enfekte olmak
+75,en,tr,,,Beware of coronavirus,Koronavirüse dikkat
+76,en,tr,,,bilateral interstitial pneumonia,bilateral interstisyel akciğer iltihaplanması
+77,en,tr,,,CDC,HKM
+78,en,tr,,,Center for Disease Control,Hastalık Kontrol Merkezi
+83,en,tr,,,community spread,topluluk yayılması
+84,en,tr,,,compulsory quarantine,zorunlu karantina
+85,en,tr,,,contagious,bulaşıcı
+135,en,tr,,,coronavirus,koronavirüs
+136,en,tr,,,coronavirus (COVID-19),koronavirüs (KOVİD-19)
+137,en,tr,,,coronavirus alert,koronavirüs uyarısı
+139,en,tr,,,coronavirus cases,koronavirüs vakaları
+141,en,tr,,,coronavirus concerns,koronavirüs endişeleri
+143,en,tr,,,coronavirus crisis,koronavirüs krizi
+149,en,tr,,,coronavirus disease,koronavirüs hastalığı
+150,en,tr,,,Coronavirus disease (COVID-19) outbreak,Koronavirüs hastalığı (KOVİD-19) salgını
+153,en,tr,,,coronavirus early symptoms,koronavirüs erken belirtileri
+155,en,tr,,,coronavirus epidemic,koronavirüs epidemisi
+156,en,tr,,,coronavirus exposure,koronavirüs maruziyeti
+161,en,tr,,,coronavirus incubation,koronavirüs kuluçka süresi
+162,en,tr,,,coronavirus incubation period,koronavirüs kuluçka süresi
+163,en,tr,,,coronavirus infection,koronavirüs enfeksiyonu
+168,en,tr,,,coronavirus map,koronavirüs haritası
+170,en,tr,,,coronavirus medicine,koronavirüs ilacı
+171,en,tr,,,coronavirus medicines,koronavirüs ilaçları
+172,en,tr,,,coronavirus news,koronavirüs haberleri
+173,en,tr,,,coronavirus outbreak,koronavirüs salgını
+174,en,tr,,,coronavirus pandemic,koronavirüs pandemisi
+176,en,tr,,,coronavirus pneumonia,koronavirüs akciğer iltihaplanması
+177,en,tr,,,coronavirus precautions,koronavirüs önlemleri
+178,en,tr,,,coronavirus prevention,koronavirüs önleme
+179,en,tr,,,coronavirus protection,koronavirüs koruması
+180,en,tr,,,coronavirus quarantine,koronavirüs karantinası
+182,en,tr,,,coronavirus SOS Alert,koronavirüs SOS Uyarısı
+183,en,tr,,,coronavirus spread,koronavirüs yayılması
+184,en,tr,,,coronavirus symptoms,koronavirüs belirtileri
+185,en,tr,,,coronavirus transmission,koronavirüs aktarımı
+186,en,tr,,,coronavirus travel ban,koronavirüs seyahat yasağı
+187,en,tr,,,coronavirus travel restrictions,koronavirüs seyahat kısıtlamaları
+188,en,tr,,,coronavirus treatment,koronavirüs tedavisi
+190,en,tr,,,coronavirus update,koronavirüs güncellemesi
+191,en,tr,,,coronavirus vaccine,koronavirüs aşısı
+192,en,tr,,,coronavirus vaccines,koronavirüs aşıları
+198,en,tr,,,covid cases,kovid vakaları
+205,en,tr,,,covid early symptoms,kovid erken belirtileri
+213,en,tr,,,covid incubation period,kovid kuluçka süresi
+215,en,tr,,,covid international spread,kovid uluslararası yayılma
+216,en,tr,,,covid international travel,kovid uluslararası seyahat
+217,en,tr,,,covid isolation,kovid izolasyonu
+219,en,tr,,,covid map,kovid haritası
+220,en,tr,,,covid medicine,kovid ilacı
+221,en,tr,,,covid medicines,kovid ilaçları
+222,en,tr,,,covid news,kovid haberleri
+223,en,tr,,,covid outbreak,kovid salgını
+224,en,tr,,,covid pandemic,kovid pandemisi
+225,en,tr,,,covid panic,kovid paniği
+228,en,tr,,,covid SOS Alert,kovid SOS Uyarısı
+230,en,tr,,,covid symptoms,kovid belirtileri
+231,en,tr,,,covid transmission,kovid aktarımı
+232,en,tr,,,covid travel ban,kovid seyahat yasağı
+233,en,tr,,,covid travel restrictions,kovid seyahat kısıtlamaları
+234,en,tr,,,covid treatment,kovid tedavisi
+236,en,tr,,,covid vaccine,kovid aşısı
+237,en,tr,,,covid vaccines,kovid aşıları
+242,en,tr,,,covid-19,kovid-19
+243,en,tr,,,covid-19 alert,kovid-19 uyarısı
+244,en,tr,,,covid-19 cases,kovid-19 vakaları
+245,en,tr,,,covid-19 CDC,kovid-19 HKM
+246,en,tr,,,covid-19 contagious,kovid-19 bulaşıcılığı
+247,en,tr,,,covid-19 cure,kovid-19 tedavisi
+248,en,tr,,,covid-19 dangerous,kovid-19 tehlikesi
+249,en,tr,,,covid-19 deadly,kovid-19 öldürücülüğü
+250,en,tr,,,covid-19 death,kovid-19 ölümü
+251,en,tr,,,covid-19 deaths,kovid-19 ölümleri
+252,en,tr,,,covid-19 domestic travel,kovid-19 yurtiçi seyahat
+253,en,tr,,,covid-19 early symptoms,kovid-19 erken belirtileri
+254,en,tr,,,covid-19 effects,kovid-19 etkileri
+255,en,tr,,,covid-19 epidemic,kovid-19 epidemisi
+256,en,tr,,,covid-19 exposure,kovid-19 maruziyeti
+257,en,tr,,,covid-19 fatal,kovid-19 ölumcülüğü
+258,en,tr,,,covid-19 fever,kovid-19 ateşi
+259,en,tr,,,covid-19 illness,kovid-19 hastalığı
+260,en,tr,,,covid-19 incubation,kovid-19 kuluçka süresi
+261,en,tr,,,covid-19 incubation period,kovid-19 kuluçka süresi
+262,en,tr,,,covid-19 infection,kovid-19 enfeksiyonu
+263,en,tr,,,covid-19 international spread,kovid-19 uluslararası yayılma
+264,en,tr,,,covid-19 international travel,kovid-19 uluslararası seyahat
+265,en,tr,,,covid-19 isolation,kovid-19 izolasyonu
+266,en,tr,,,covid-19 lockdown,kovid-19 karantinası
+267,en,tr,,,covid-19 map,kovid-19 haritası
+268,en,tr,,,covid-19 medicine,kovid-19 ilacı
+269,en,tr,,,covid-19 medicines,kovid-19 ilaçları
+270,en,tr,,,covid-19 news,kovid-19 haberleri
+271,en,tr,,,covid-19 outbreak,kovid-19 salgını
+272,en,tr,,,covid-19 pandemic,kovid-19 pandemisi
+273,en,tr,,,covid-19 panic,kovid-19 paniği
+275,en,tr,,,covid-19 precautions,kovid-19 önlemleri
+276,en,tr,,,covid-19 protection,kovid-19 koruması
+277,en,tr,,,covid-19 quarantine,kovid-19 karantinası
+278,en,tr,,,covid-19 SOS Alert,kovid-19 SOS Uyarısı
+279,en,tr,,,covid-19 spread,kovid-19 yayılması
+280,en,tr,,,covid-19 symptoms,kovid-19 belirtileri
+281,en,tr,,,covid-19 transmission,kovid-19 aktarımı
+282,en,tr,,,covid-19 travel ban,kovid-19 seyahat yasağı
+283,en,tr,,,covid-19 travel restrictions,kovid-19 seyahat kısıtlamaları
+284,en,tr,,,covid-19 treatment,kovid-19 tedavisi
+285,en,tr,,,covid-19 uncontrolled spread,kovid-19 kontrolsüz yayılma
+286,en,tr,,,covid-19 vaccine,kovid-19 aşısı
+287,en,tr,,,covid-19 vaccines,kovid-19 aşıları
+288,en,tr,,,COVID-19 virus,kovid-19 virüsü
+289,en,tr,,,covid-19 virus outbreak,kovid-19 virüs salgını
+290,en,tr,,,covid-19 virus transmission,kovid-19 virüs aktarımı
+291,en,tr,,,covid-19 WHO,kovid-19 DSÖ
+292,en,tr,,,covid19,kovid19
+293,en,tr,,,covid19 alert,kovid19 uyarısı
+294,en,tr,,,covid19 cases,kovid19 vakaları
+295,en,tr,,,covid19 CDC,kovid19 HKM
+301,en,tr,,,covid19 deaths,kovid19 ölümleri
+302,en,tr,,,covid19 domestic travel,kovid19 yurtiçi seyahat
+303,en,tr,,,covid19 effects,kovid19 etkileri
+304,en,tr,,,covid19 epidemic,kovid19 epidemisi
+305,en,tr,,,covid19 exposure,kovid19 maruziyeti
+306,en,tr,,,covid19 fatal,kovid19 ölümcülüğü
+307,en,tr,,,covid19 fever,kovid19 ateşi
+308,en,tr,,,covid19 illness,kovid19 hastalığı
+309,en,tr,,,covid19 incubation,kovid19 kuluçka süresi
+310,en,tr,,,covid19 incubation period,kovid19 kuluçka süresi
+311,en,tr,,,covid19 infection,kovid19 enfeksiyonu
+312,en,tr,,,covid19 international spread,kovid19 uluslararası yayılma
+313,en,tr,,,covid19 international travel,kovid19 uluslararası seyahat
+314,en,tr,,,covid19 isolation,kovid19 izolasyonu
+315,en,tr,,,covid19 lockdown,kovid19 karantinası
+316,en,tr,,,covid19 map,kovid19 haritası
+317,en,tr,,,covid19 medicine,kovid19 ilacı
+318,en,tr,,,covid19 medicines,kovid19 ilaçları
+319,en,tr,,,covid19 news,kovid19 haberleri
+320,en,tr,,,covid19 outbreak,kovid19 salgını
+321,en,tr,,,covid19 pandemic,kovid19 pandemisi
+324,en,tr,,,covid19 precautions,kovid19 önlemleri
+325,en,tr,,,covid19 protection,kovid19 koruması
+326,en,tr,,,covid19 quarantine,kovid19 karantinası
+327,en,tr,,,covid19 SOS Alert,kovid19 SOS Uyarısı
+328,en,tr,,,covid19 spread,kovid19 yayılması
+329,en,tr,,,covid19 symptoms,kovid19 belirtileri
+330,en,tr,,,covid19 transmission,kovid19 aktarımı
+331,en,tr,,,covid19 travel ban,kovid19 seyahat yasağı
+332,en,tr,,,covid19 travel restrictions,kovid19 seyahat kısıtlamaları
+333,en,tr,,,covid19 treatment,kovid19 tedavisi
+335,en,tr,,,covid19 vaccine,kovid19 aşısı
+336,en,tr,,,covid19 vaccines,kovid19 aşıları
+337,en,tr,,,covid19 virus,kovid19 virüsü
+338,en,tr,,,covid19 virus outbreak,kovid19 virüs salgını
+339,en,tr,,,covid19 virus transmission,kovid19 virüs aktarımı
+342,en,tr,,,current outbreak,mevcut salgın
+343,en,tr,,,deadly outbreak,ölümcül salgın
+345,en,tr,,,disease outbreak,hastalık salgını
+346,en,tr,,,Disposable hand sanitizer,Tek kullanımlık el dezenfektanı
+348,en,tr,,,domestic travel,yurtiçi seyahat
+351,en,tr,,,droplets,damlacıklar
+357,en,tr,,,Effects of coronavirus,Koronavirüs etkileri
+359,en,tr,,,epidemic,epidemi
+360,en,tr,,,epidemic and pandemic,epidemi ve pandemi
+362,en,tr,,,epidemic disease,epidemi hastalığı
+364,en,tr,,,epidemic outbreak,epidemi salgını
+365,en,tr,,,epidemic period,epidemi süresi
+366,en,tr,,,epidemic prevention,epidemi önlemi
+368,en,tr,,,epidemic season,epidemi dönemi
+369,en,tr,,,epidemic situation,epidemi durumu
+371,en,tr,,,exposure,maruziyet
+375,en,tr,,,exposure time,maruziyet süresi
+379,en,tr,,,fever,ateş
+380,en,tr,,,fight the virus,virüse karşı savaşma
+381,en,tr,,,Fighting the outbreak,Salgına karşı savaşma
+382,en,tr,,,flu epidemic,grip epidemisi
+385,en,tr,,,fomites,fomitler
+392,en,tr,,,global health emergency,küresel acil sağlık durumu
+393,en,tr,,,global outbreak,küresel salgın
+394,en,tr,,,global pandemic,küresel pandemi
+396,en,tr,,,hand sanitizer,el dezenfektanı
+397,en,tr,,,hand sanitizer dispenser,el dezenfektanı kutusu
+398,en,tr,,,hand sanitizer gel,el dezenfektanı jeli
+399,en,tr,,,hand sanitizer spray,el dezenfektanı spreyi
+403,en,tr,,,home isolation,ev izolasyonu
+404,en,tr,,,home quarantine,ev karantinası
+410,en,tr,,,illness,hastalık
+415,en,tr,,,incubation period,kuluçka süresi
+418,en,tr,,,infected,enfekte
+424,en,tr,,,instant hand sanitizer,anında el dezenfektanı
+425,en,tr,,,international spread,uluslararası yayılma
+426,en,tr,,,international travel,uluslararası seyahat
+427,en,tr,,,isolation,izolasyon
+428,en,tr,,,isolation period,izolasyon süresi
+430,en,tr,,,isolation room,izolasyon odası
+431,en,tr,,,isolation valve,izolasyon valfi
+432,en,tr,,,isolation ward,izolasyon odası
+434,en,tr,,,lockdown,karantina
+438,en,tr,,,major outbreak,büyük salgın
+439,en,tr,,,mandatory quarantine,zorunlu karantina
+440,en,tr,,,mass gathering,toplu toplanma
+444,en,tr,,,medicine,ilaç
+445,en,tr,,,medicines,ilaçlar
+448,en,tr,,,n95,n95
+449,en,tr,,,n95 mask,n95 maskesi
+450,en,tr,,,n95 respirator,n95 solunum cihazı
+451,en,tr,,,ncov,ncov
+452,en,tr,,,ncov-2019,ncov-2019
+453,en,tr,,,new coronavirus,yeni koronavirüs
+454,en,tr,,,new coronavirus pneumonia,yeni koronavirüs akciğer iltihaplanması
+460,en,tr,,,novel coronavirus,yeni tip koronavirüs
+462,en,tr,,,novel coronavirus infection,yeni tip koronavirüs enfeksiyonu
+463,en,tr,,,novel coronavirus outbreak,yeni tip koronavirüs salgını
+464,en,tr,,,novel coronavirus pneumonia,yeni tip koronavirüs akciğer iltihaplanması
+470,en,tr,,,ongoing outbreak,devam eden salgın
+472,en,tr,,,outbreak,salgın
+474,en,tr,,,outbreak of coronavirus,koronavirüs salgını
+475,en,tr,,,outbreak of disease,hastalık salgını
+482,en,tr,,,pandemic,pandemi
+485,en,tr,,,pandemic influenza,pandemi grip salgını
+486,en,tr,,,pandemic outbreak,pandemi salgını
+487,en,tr,,,pandemic plan,pandemi planı
+488,en,tr,,,pandemic potential,pandemi potansiyeli
+495,en,tr,,,pneumonia,akciğer iltihaplanması
+496,en,tr,,,pneumonia epidemic,akciğer iltihaplanma epidemisi
+497,en,tr,,,potential exposure,potansiyel maruziyet
+498,en,tr,,,precautions,önlemler
+499,en,tr,,,prevent virus,virüsü önlemek
+500,en,tr,,,prolonged exposure,uzun süreli maruziyet
+504,en,tr,,,quarantine,karantina
+505,en,tr,,,quarantine area,karantina alanı
+506,en,tr,,,quarantine facility,karantina tesisi
+507,en,tr,,,quarantine measures,karantina önlemleri
+508,en,tr,,,quarantine period,karantina süresi
+509,en,tr,,,quarantine room,karantina odası
+510,en,tr,,,quarantine zone,karantina bölgesi
+512,en,tr,,,Recovered coronavirus patient,İyileşen koronavirüs hastası
+514,en,tr,,,repatriate,ülkesine geri göndermek
+515,en,tr,,,repeated exposure,tekrarlayan maruziyet
+516,en,tr,,,respiratory syncytial virus,solunum sinsityal virüsü
+517,en,tr,,,respiratory virus,solunum virüsü
+519,en,tr,,,Sanitizing hand sanitizer,Sterilize eden el dezenfektanı
+520,en,tr,,,SARS-CoV-2,SARS-CoV-2
+521,en,tr,,,self isolation,kendi kendine izolasyon
+522,en,tr,,,self quarantine,kendi kendine karantina
+523,en,tr,,,Severe outbreak,Ciddi salgın
+525,en,tr,,,social distancing,sosyal mesafe
+526,en,tr,,,social distancing measures,sosyal mesafe önlemleri
+527,en,tr,,,social isolation,sosyal izolasyon
+528,en,tr,,,SOS Alert,SOS Uyarısı
+529,en,tr,,,spread,yaymak
+530,en,tr,,,spread of coronavirus,koronavirüs yayılması
+531,en,tr,,,spread of virus,virüsün yayılması
+535,en,tr,,,strain of virus,virüsün suşu
+541,en,tr,,,the incubation period,kuluçka süresi
+544,en,tr,,,the novel coronavirus,yeni tip koronavirüs
+558,en,tr,,,touching face,yüze dokunmak
+559,en,tr,,,travel advisory,seyahat uyarısı
+560,en,tr,,,travel ban,seyahat yasağı
+561,en,tr,,,travel restrictions,seyahat kısıtlaması
+565,en,tr,,,use hand sanitizer,el dezenfektanı kullanıyorum
+566,en,tr,,,vaccines,aşılar
+567,en,tr,,,viral outbreak,virüs salgını
+568,en,tr,,,virtual lockdown,sanal karantina
+569,en,tr,,,virus,virüs
+570,en,tr,,,virus carrier,virüs taşıyıcı
+573,en,tr,,,virus infection,virüs enfeksiyonu
+575,en,tr,,,virus mask,virüs maskesi
+576,en,tr,,,virus outbreak,virüs salgını
+577,en,tr,,,virus prevention,virüs önleme
+578,en,tr,,,virus protection,virüs koruması
+580,en,tr,,,virus spread,virüs yayaılması
+582,en,tr,,,virus spreads,virüs yayılmaları
+583,en,tr,,,virus strain,virüs suşu
+584,en,tr,,,virus transmission,virüs aktarımı
+586,en,tr,,,wash your hands,ellerinizi yıkayın
+587,en,tr,,,washing hands,elleri yıkamak
+589,en,tr,,,WHO,DSÖ
+590,en,tr,,,WHO Confirmed,DSÖ Onaylı
+591,en,tr,,,WHO Deaths,DSÖ Ölümleri
+592,en,tr,,,widespread outbreak,yaygın salgın
+597,en,tr,,,World Health Organization,Dünya Sağlık Örgütü
+600,en,tr,,,zoonotic disease,hayvanlardan insanlara bulaşabilen hastalık
+601,en,tr,,,zoonotic virus,hayvanlardan insanlara bulaşabilen virüs

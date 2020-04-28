@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,ps,,,14 days in isolation,14 ورځې په انزوا کې
+26,en,ps,,,14 days quarantine,14 ورځې قرنطین
+27,en,ps,,,2019 coronavirus,2019 کروناوایرس
+28,en,ps,,,2019 novel coronavirus,د 2019 نادر کروناوایرس
+29,en,ps,,,2019-nCoV,2019-nCoV
+30,en,ps,,,2020 coronavirus,2020 کروناوایرس
+31,en,ps,,,2020 novel coronavirus,د 2020 نادر کروناوایرس
+33,en,ps,,,about coronavirus,د کروناوایرس په اړه
+39,en,ps,,,acute respiratory distress syndrome,د سا اخستلو د حادو علایمو اړونده اندېښنه
+40,en,ps,,,advanced hand sanitizer,د لاسونو پرمختللې ضد عفوني کوونکې مایع
+41,en,ps,,,Affected by coronavirus,د کروناوایرس په وسیله اغېزمن شوی
+42,en,ps,,,after exposure,په معرض کې له مخامخ کېدو وروسته
+43,en,ps,,,After the epidemic,له ناروغۍ څخه وروسته
+44,en,ps,,,After the outbreak,له ناڅاپه پیل څخه وروسته
+47,en,ps,,,airborne virus,د هوا په وسیله لېږدېدونکی
+48,en,ps,,,alcohol based hand sanitizer,د الکولو پر بنسټ د لاسو ضد عفوني کوونکې مایع
+49,en,ps,,,alcohol hand sanitizer,الکولي ضد عفوني کوونکې مایع
+51,en,ps,,,alcohol-based hand sanitizer,د الکولو پر بنسټ د لاسو ضد عفوني کوونکې مایع
+59,en,ps,,,Anti-Corona virus spray,د کروناوایرس ضد سپرې
+60,en,ps,,,antibacterial hand sanitizer,د لاسونو ضد باکټریا مایع
+61,en,ps,,,ARDS,ARDS
+64,en,ps,,,avoid exposure,په معرض کې له مخامخ کېدو مخنیوی
+65,en,ps,,,be infected,لړل شوی اوسئ
+75,en,ps,,,Beware of coronavirus,د کروناوایرس په اړه خبر اوسئ
+76,en,ps,,,bilateral interstitial pneumonia,د سږو دوه اړخیز بین البیني پړسوب
+77,en,ps,,,CDC,CDC
+78,en,ps,,,Center for Disease Control,د ناروغیو د کنټرول لپاره مرکز
+83,en,ps,,,community spread,په ټولنه کې خپراوی
+84,en,ps,,,compulsory quarantine,اجباري قرنطین
+85,en,ps,,,contagious,ساري
+135,en,ps,,,coronavirus,کروناوایرس
+136,en,ps,,,coronavirus (COVID-19),کروناوایرس (COVID-19)
+137,en,ps,,,coronavirus alert,د کروناوایرس ګواښنه
+139,en,ps,,,coronavirus cases,د کروناوایرس قضیې
+141,en,ps,,,coronavirus concerns,د کروناوایرس اړوند اندېښنې
+143,en,ps,,,coronavirus crisis,د کروناوایرس اضطرار
+149,en,ps,,,coronavirus disease,د کروناوایرس ناروغي
+150,en,ps,,,Coronavirus disease (COVID-19) outbreak,د کروناوایرس ناروغۍ (COVID-19) ناڅاپه پیل
+153,en,ps,,,coronavirus early symptoms,د کروناوایرس لومړني علایم
+155,en,ps,,,coronavirus epidemic,د کروناوایرس وبا
+156,en,ps,,,coronavirus exposure,د کروناوایرس په معرض کې
+161,en,ps,,,coronavirus incubation,د کروناوایرس لومړي علایم
+162,en,ps,,,coronavirus incubation period,د کروناوایرس د لومړنیو علایمو جریان
+163,en,ps,,,coronavirus infection,په کروناوایرس لړل کېدل
+168,en,ps,,,coronavirus map,د کروناوایرس نقشه
+170,en,ps,,,coronavirus medicine,د کروناوایرس دارو
+171,en,ps,,,coronavirus medicines,د کروناوایرس داروګانې
+172,en,ps,,,coronavirus news,د کروناوایرس اړوند خبرونه
+173,en,ps,,,coronavirus outbreak,د کروناوایرس ناڅاپه پیل
+174,en,ps,,,coronavirus pandemic,د کروناوایرس ناروغي
+176,en,ps,,,coronavirus pneumonia,د کروناوایرس له امله د سږو پړسوب
+177,en,ps,,,coronavirus precautions,د کروناوایرس د پاملرنې اقدامونه
+178,en,ps,,,coronavirus prevention,له کروناوایرس څخه مخنیوی
+179,en,ps,,,coronavirus protection,د کروناوایرس په وړاندې خونديتوب
+180,en,ps,,,coronavirus quarantine,د کروناوایرس له امله قرنطین
+182,en,ps,,,coronavirus SOS Alert,د SOS کروناوایرس ګواښنه
+183,en,ps,,,coronavirus spread,د کروناوایرس خپراوی
+184,en,ps,,,coronavirus symptoms,د کروناوایرس علایم
+185,en,ps,,,coronavirus transmission,د کروناوایرس لېږد
+186,en,ps,,,coronavirus travel ban,د کروناوایرس د سفر بندیز
+187,en,ps,,,coronavirus travel restrictions,د کروناوایرس د سفر محدودیتونه
+188,en,ps,,,coronavirus treatment,د کروناوایرس درملنه
+190,en,ps,,,coronavirus update,د کروناوایرس اړوند نوي خبرونه
+191,en,ps,,,coronavirus vaccine,د کروناوایرس واکسین
+192,en,ps,,,coronavirus vaccines,د کروناوایرس واکسینونه
+198,en,ps,,,covid cases,د covid قضیې
+205,en,ps,,,covid early symptoms,د کوید لومړني علایم
+213,en,ps,,,covid incubation period,د کوید د لومړنیو علایمو جریان
+215,en,ps,,,covid international spread,د کوید نړیوال خپراوی
+216,en,ps,,,covid international travel,د کوید نړیوال سفر
+217,en,ps,,,covid isolation,د covid انزوا
+219,en,ps,,,covid map,د covid نقشه
+220,en,ps,,,covid medicine,د covid دارو
+221,en,ps,,,covid medicines,د covid داروګانې
+222,en,ps,,,covid news,د covid اړوند خبرونه
+223,en,ps,,,covid outbreak,د covid ناڅاپه پیل
+224,en,ps,,,covid pandemic,د covid وبا
+225,en,ps,,,covid panic,د covid له امله ورخطايي
+228,en,ps,,,covid SOS Alert,د SOS کوید ګواښنه
+230,en,ps,,,covid symptoms,د covid علایم
+231,en,ps,,,covid transmission,د covid لېږد
+232,en,ps,,,covid travel ban,د کوید د سفر بندیز
+233,en,ps,,,covid travel restrictions,د کوید د سفر محدودیتونه
+234,en,ps,,,covid treatment,د covid درملنه
+236,en,ps,,,covid vaccine,د covid واکسین
+237,en,ps,,,covid vaccines,د covid واکسینونه
+242,en,ps,,,covid-19,covid-19
+243,en,ps,,,covid-19 alert,د covid-19 ګواښنه
+244,en,ps,,,covid-19 cases,د covid-19 قضیې
+245,en,ps,,,covid-19 CDC,covid-19 CDC
+246,en,ps,,,covid-19 contagious,covid-19 ساري
+247,en,ps,,,covid-19 cure,د covid-19 درملنه
+248,en,ps,,,covid-19 dangerous,covid-19 ګواښمن
+249,en,ps,,,covid-19 deadly,covid-19 وژونکی
+250,en,ps,,,covid-19 death,covid-19 مړینه
+251,en,ps,,,covid-19 deaths,covid-19 مړینې
+252,en,ps,,,covid-19 domestic travel,د covid-19 داخلي سفر
+253,en,ps,,,covid-19 early symptoms,د covid-19 لومړني علایم
+254,en,ps,,,covid-19 effects,د covid-19 اغېزې
+255,en,ps,,,covid-19 epidemic,د covid-19 وبا
+256,en,ps,,,covid-19 exposure,د covid-19 په معرض کې
+257,en,ps,,,covid-19 fatal,covid-19 وژونکی
+258,en,ps,,,covid-19 fever,د covid-19 تبه
+259,en,ps,,,covid-19 illness,د covid-19 ناروغي
+260,en,ps,,,covid-19 incubation,د covid-19 لومړنی علایم
+261,en,ps,,,covid-19 incubation period,د covid-19 د لومړنیو علایمو جریان
+262,en,ps,,,covid-19 infection,د covid-19 عفونت
+263,en,ps,,,covid-19 international spread,د covid-19 نړیوال خپراوی
+264,en,ps,,,covid-19 international travel,د covid-19 نړیوال سفر
+265,en,ps,,,covid-19 isolation,د covid-19 انزوا
+266,en,ps,,,covid-19 lockdown,د covid-19 بندیتوب
+267,en,ps,,,covid-19 map,د covid-19 نقشه
+268,en,ps,,,covid-19 medicine,د covid-19 دارو
+269,en,ps,,,covid-19 medicines,د covid-19 داروګانې
+270,en,ps,,,covid-19 news,د covid-19 اړوند خبرونه
+271,en,ps,,,covid-19 outbreak,د covid-19 خپراوی
+272,en,ps,,,covid-19 pandemic,د covid-19 وبا
+273,en,ps,,,covid-19 panic,د covid-19 له امله ورخطايي
+275,en,ps,,,covid-19 precautions,د covid-19 وقایې
+276,en,ps,,,covid-19 protection,د covid-19 په وړاندې خوندیتوب
+277,en,ps,,,covid-19 quarantine,د covid-19 قرنطین
+278,en,ps,,,covid-19 SOS Alert,د SOS covid-19 ګواښنه
+279,en,ps,,,covid-19 spread,د covid-19 خپراوی
+280,en,ps,,,covid-19 symptoms,د covid-19 علایم
+281,en,ps,,,covid-19 transmission,د covid-19 لېږد
+282,en,ps,,,covid-19 travel ban,د covid-19 د سفر بندیز
+283,en,ps,,,covid-19 travel restrictions,د covid-19 د سفر محدودیتونه
+284,en,ps,,,covid-19 treatment,د covid-19 درملنه
+285,en,ps,,,covid-19 uncontrolled spread,د covid-19 کنټرول نه شوی خپراوی
+286,en,ps,,,covid-19 vaccine,د covid-19 واکسین
+287,en,ps,,,covid-19 vaccines,د covid-19 واکسینونه
+288,en,ps,,,COVID-19 virus,د covid-19 وایرس
+289,en,ps,,,covid-19 virus outbreak,د covid-19 وایرس خپراوی
+290,en,ps,,,covid-19 virus transmission,د covid-19 وایرس انتقال
+291,en,ps,,,covid-19 WHO,covid-19 WHO
+292,en,ps,,,covid19,covid19
+293,en,ps,,,covid19 alert,د covid19 ګواښنه
+294,en,ps,,,covid19 cases,د covid19 قضیې
+295,en,ps,,,covid19 CDC,covid19 CDC
+301,en,ps,,,covid19 deaths,د covid19 له امله مړینې
+302,en,ps,,,covid19 domestic travel,د covid19 داخلي سفر
+303,en,ps,,,covid19 effects,د covid19 اغېزې
+304,en,ps,,,covid19 epidemic,د covid19 وبا
+305,en,ps,,,covid19 exposure,د covid19 په معرض کې
+306,en,ps,,,covid19 fatal,covid19 وژونکی
+307,en,ps,,,covid19 fever,د covid19 تبه
+308,en,ps,,,covid19 illness,د covid19 ناروغي
+309,en,ps,,,covid19 incubation,د covid19 لومړنی علایم
+310,en,ps,,,covid19 incubation period,د covid19 د لومړنیو علایمو جریان
+311,en,ps,,,covid19 infection,په covid19 باندې لړل کېدل
+312,en,ps,,,covid19 international spread,د covid19 نړیوال خپراوی
+313,en,ps,,,covid19 international travel,د covid19 نړیوال سفر
+314,en,ps,,,covid19 isolation,د covid19 انزوا
+315,en,ps,,,covid19 lockdown,د covid19 له امله بندیتوب
+316,en,ps,,,covid19 map,د covid19 نقشه
+317,en,ps,,,covid19 medicine,د covid19 دارو
+318,en,ps,,,covid19 medicines,د covid19 داروګانې
+319,en,ps,,,covid19 news,د covid19 اړوند خبرونه
+320,en,ps,,,covid19 outbreak,د covid19 ناڅاپه پیل
+321,en,ps,,,covid19 pandemic,د covid19 پراخه وبا
+324,en,ps,,,covid19 precautions,د کوید19 وقایې
+325,en,ps,,,covid19 protection,د covid19 په وړاندې خوندیتوب
+326,en,ps,,,covid19 quarantine,د covid19 قرنطین
+327,en,ps,,,covid19 SOS Alert,د SOS covid19 ګواښنه
+328,en,ps,,,covid19 spread,د covid19 خپراوی
+329,en,ps,,,covid19 symptoms,د covid19 علایم
+330,en,ps,,,covid19 transmission,د covid19 لېږد
+331,en,ps,,,covid19 travel ban,د covid19 سفر بندیز
+332,en,ps,,,covid19 travel restrictions,د covid19 د سفر محدودیتونه
+333,en,ps,,,covid19 treatment,د covid19 درملنه
+335,en,ps,,,covid19 vaccine,د covid19 واکسین
+336,en,ps,,,covid19 vaccines,د covid19 واکسینونه
+337,en,ps,,,covid19 virus,د covid19 وایرس
+338,en,ps,,,covid19 virus outbreak,د covid19 وایرس ناڅاپه پیل
+339,en,ps,,,covid19 virus transmission,د covid 19وایرس انتقال
+342,en,ps,,,current outbreak,اوسنی ناڅاپه پیل
+343,en,ps,,,deadly outbreak,وژونکی ناڅاپه پیل
+345,en,ps,,,disease outbreak,د ناروغۍ خپراوی
+346,en,ps,,,Disposable hand sanitizer,د لاسونو یو ځل مصرفېدونکی ضد عفوني مایع
+348,en,ps,,,domestic travel,داخلي سفرونه
+351,en,ps,,,droplets,څاڅکي
+357,en,ps,,,Effects of coronavirus,د کروناوایرس اغېزې
+359,en,ps,,,epidemic,وبا
+360,en,ps,,,epidemic and pandemic,وبا او پراخه وبا
+362,en,ps,,,epidemic disease,د وبا ناروغي
+364,en,ps,,,epidemic outbreak,د وبا ناڅاپه پیل
+365,en,ps,,,epidemic period,د وبا جریان
+366,en,ps,,,epidemic prevention,د وبا وقایه
+368,en,ps,,,epidemic season,د وبا فصل
+369,en,ps,,,epidemic situation,د وبا وضعیت
+371,en,ps,,,exposure,په معرض کې یې ولاړېدل
+375,en,ps,,,exposure time,په معرض کې د راتلو وخت
+379,en,ps,,,fever,تبه
+380,en,ps,,,fight the virus,له وایرس سره مقابله وکړئ
+381,en,ps,,,Fighting the outbreak,له ناڅاپه پیل سره مقابله
+382,en,ps,,,flu epidemic,د رېزش وبا
+385,en,ps,,,fomites,د عفونت لېږدوونکي
+392,en,ps,,,global health emergency,د روغتیا نړیوال اضطرار
+393,en,ps,,,global outbreak,نړیوال ناڅاپه پیل
+394,en,ps,,,global pandemic,نړیواله پراخه وبا
+396,en,ps,,,hand sanitizer,د لاس ضد عفوني کوونکې مایع
+397,en,ps,,,hand sanitizer dispenser,د لاسونو د ضد عفوني کوونکې مایع ډیسپینسر
+398,en,ps,,,hand sanitizer gel,د لاسونو د ضد عفوني کوونکې مایع جیل
+399,en,ps,,,hand sanitizer spray,د لاسونو ضد عفوني کوونکې سپرې
+403,en,ps,,,home isolation,د کور انزوا
+404,en,ps,,,home quarantine,د کور قرنطین
+410,en,ps,,,illness,ناروغي
+415,en,ps,,,incubation period,د لوومړیو علایمو جریان
+418,en,ps,,,infected,لړل شوی
+424,en,ps,,,instant hand sanitizer,د لاسونو فوري ضد عفوني کوونکې مایع
+425,en,ps,,,international spread,نړیوال خپراوی
+426,en,ps,,,international travel,نړیوال سفر
+427,en,ps,,,isolation,انزوا
+428,en,ps,,,isolation period,د انزوا جریان
+430,en,ps,,,isolation room,د انزوا خونه
+431,en,ps,,,isolation valve,د انزوا والو
+432,en,ps,,,isolation ward,د انزوا وارډ
+434,en,ps,,,lockdown,بندتوب
+438,en,ps,,,major outbreak,لوی ناڅاپه پیل
+439,en,ps,,,mandatory quarantine,اجباري قرنطین
+440,en,ps,,,mass gathering,ټولیزې غونډې
+444,en,ps,,,medicine,دارو
+445,en,ps,,,medicines,داروګانې
+448,en,ps,,,n95,n95
+449,en,ps,,,n95 mask,n95 ماسک
+450,en,ps,,,n95 respirator,د سا اخیستلو n95 مصنوعي اله
+451,en,ps,,,ncov,ncov
+452,en,ps,,,ncov-2019,ncov-2019
+453,en,ps,,,new coronavirus,نوی کروناوایرس
+454,en,ps,,,new coronavirus pneumonia,د کروناوایرس د سږو نوی پړسوب
+460,en,ps,,,novel coronavirus,نادر کروناوایرس
+462,en,ps,,,novel coronavirus infection,د نادر کروناوایرس عفونت
+463,en,ps,,,novel coronavirus outbreak,د نادر کروناوایرس خپراوی
+464,en,ps,,,novel coronavirus pneumonia,د نادر کروناوایرس د سږو پړسوب
+470,en,ps,,,ongoing outbreak,روان ناڅاپه پیل
+472,en,ps,,,outbreak,ناڅاپه پیل
+474,en,ps,,,outbreak of coronavirus,د کروناوایرس ناڅاپه پیل
+475,en,ps,,,outbreak of disease,د ناروغۍ خپراوی
+482,en,ps,,,pandemic,پراخه وبا
+485,en,ps,,,pandemic influenza,وژونکې انفلونزا
+486,en,ps,,,pandemic outbreak,د وبا ناڅاپه پیل
+487,en,ps,,,pandemic plan,د وبا پلان
+488,en,ps,,,pandemic potential,د وبا ځواک
+495,en,ps,,,pneumonia,د سږو پړسوب
+496,en,ps,,,pneumonia epidemic,د سږو د پړسوب ناروغي
+497,en,ps,,,potential exposure,په معرض کې د بالقوه راتلل
+498,en,ps,,,precautions,وقایې
+499,en,ps,,,prevent virus,له وایرس څخه مخنیوی
+500,en,ps,,,prolonged exposure,په معرض کې د اوږدمهال لپاره راتلل
+504,en,ps,,,quarantine,قرنطین
+505,en,ps,,,quarantine area,د قرنطین سیمه
+506,en,ps,,,quarantine facility,د قرنطین وداني
+507,en,ps,,,quarantine measures,د قرنطین لپاره اقدامات
+508,en,ps,,,quarantine period,د قرنطین جریان
+509,en,ps,,,quarantine room,د قرنطین خونه
+510,en,ps,,,quarantine zone,د قرنطین زون
+512,en,ps,,,Recovered coronavirus patient,د کروناوایرس جوړ شوی ناروغ
+514,en,ps,,,repatriate,بیا استول
+515,en,ps,,,repeated exposure,په معرض کې په تکراري توګه راتلل
+516,en,ps,,,respiratory syncytial virus,د سا همګام کوونکی وایرس
+517,en,ps,,,respiratory virus,تنفسي وایرس
+519,en,ps,,,Sanitizing hand sanitizer,د لاسونو ضد عفونکي کوونکې مایع
+520,en,ps,,,SARS-CoV-2,SARS-CoV-2
+521,en,ps,,,self isolation,خپل ځان منزوي کول
+522,en,ps,,,self quarantine,خپل ځان قرنطین کول
+523,en,ps,,,Severe outbreak,شدید ناڅاپه پیل
+525,en,ps,,,social distancing,ټولنیز واتڼ ساتل
+526,en,ps,,,social distancing measures,د ټولنیز واتڼ اړوند اقدامات
+527,en,ps,,,social isolation,ټولنیزه انزوا
+528,en,ps,,,SOS Alert,د SOS ګواښنه
+529,en,ps,,,spread,خپراوی
+530,en,ps,,,spread of coronavirus,د کروناوایرس خپراوی
+531,en,ps,,,spread of virus,د وایرس خپراوی
+535,en,ps,,,strain of virus,د وایرس ځواک
+541,en,ps,,,the incubation period,د لومړنیو علایمو جریان
+544,en,ps,,,the novel coronavirus,نادر کروناوایرس
+558,en,ps,,,touching face,د مخ لمس کول
+559,en,ps,,,travel advisory,د سفر سلاوې
+560,en,ps,,,travel ban,د سفر بندیز
+561,en,ps,,,travel restrictions,د سفر محدودیتونه
+565,en,ps,,,use hand sanitizer,د لاسو ضد عفوني کوونکې مایع وکاروئ
+566,en,ps,,,vaccines,واکسینونه
+567,en,ps,,,viral outbreak,عمومي خپراوی
+568,en,ps,,,virtual lockdown,مجازي بندیتوب
+569,en,ps,,,virus,وایرس
+570,en,ps,,,virus carrier,د وایرس لېږدوونکی
+573,en,ps,,,virus infection,د وایرس عفونت
+575,en,ps,,,virus mask,د وایرس ماسک
+576,en,ps,,,virus outbreak,د وایرس ناڅاپه پیل
+577,en,ps,,,virus prevention,له وایرس څخه مخنیوی
+578,en,ps,,,virus protection,له وایرس څخه خوندیتوب
+580,en,ps,,,virus spread,د وایرس خپراوی
+582,en,ps,,,virus spreads,وایرس خپرېږي
+583,en,ps,,,virus strain,د وایرس ځواک
+584,en,ps,,,virus transmission,د وایرس انتقال
+586,en,ps,,,wash your hands,خپل لاسونه ووينځئ
+587,en,ps,,,washing hands,د لاسونو مینځل
+589,en,ps,,,WHO,WHO
+590,en,ps,,,WHO Confirmed,د WHO له لوري تائید شوي
+591,en,ps,,,WHO Deaths,د WHO مړینې
+592,en,ps,,,widespread outbreak,په پراخه کچه ناڅاپه پیل
+597,en,ps,,,World Health Organization,د روغتیا نړیوال سازمان
+600,en,ps,,,zoonotic disease,د ژوو پېژندنې ناروغي
+601,en,ps,,,zoonotic virus,د ژوو پېژندنې وایرس

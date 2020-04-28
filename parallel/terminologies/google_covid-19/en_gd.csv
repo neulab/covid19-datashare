@@ -1,0 +1,305 @@
+stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+25,en,gd,,,14 days in isolation,cola-deug air leth-oireachd
+26,en,gd,,,14 days quarantine,cola-deug de chuarantain
+27,en,gd,,,2019 coronavirus,coròna-bhìoras 2019
+28,en,gd,,,2019 novel coronavirus,coròna-bhìoras ùr-nodha 2019
+29,en,gd,,,2019-nCoV,2019-nCoV
+30,en,gd,,,2020 coronavirus,coròna-bhìoras 2020
+31,en,gd,,,2020 novel coronavirus,coròna-bhìoras ùr-nodha 2020
+33,en,gd,,,about coronavirus,mu dhèidhinn a' choròna-bhìorais
+39,en,gd,,,acute respiratory distress syndrome,sionndrom èiginn-analachaidh geur
+40,en,gd,,,advanced hand sanitizer,stuth-slàinteachaidh làimhe adhartach
+41,en,gd,,,Affected by coronavirus,Fo bhuaidh a' choròna-bhìorais
+42,en,gd,,,after exposure,an dèidh leigeil ris
+43,en,gd,,,After the epidemic,An dèidh a' ghalair-sgaoilte
+44,en,gd,,,After the outbreak,An dèidh an taomaidh
+47,en,gd,,,airborne virus,bhìoras air iteal
+48,en,gd,,,alcohol based hand sanitizer,stuth-slàinteachaidh làimhe stèidhichte air alcol
+49,en,gd,,,alcohol hand sanitizer,stuth-slàinteachaidh làimhe le alcol
+51,en,gd,,,alcohol-based hand sanitizer,stuth-slàinteachaidh làimhe stèidhichte air alcol
+59,en,gd,,,Anti-Corona virus spray,Spràidh an aghaidh a' choròna-bhìoraos
+60,en,gd,,,antibacterial hand sanitizer,stuth-slàinteachaidh làimhe an aghaidh lobhagan
+61,en,gd,,,ARDS,ARDS
+64,en,gd,,,avoid exposure,seachain leigeil ris
+65,en,gd,,,be infected,galar gabhaltach air cuideigin
+75,en,gd,,,Beware of coronavirus,An aire ron choròna-bhìorais
+76,en,gd,,,bilateral interstitial pneumonia,fiabhras-clèibhe eadar-uidheachd dà-thaobhach
+77,en,gd,,,CDC,CDC
+78,en,gd,,,Center for Disease Control,Ionad Smachd Thinneasan
+83,en,gd,,,community spread,sgaoileadh sa choimhearsnachd
+84,en,gd,,,compulsory quarantine,cuarantain èigneachail
+85,en,gd,,,contagious,gabhaltach
+135,en,gd,,,coronavirus,coròna-bhìoras
+136,en,gd,,,coronavirus (COVID-19),coròna-bhìoras (COVID-19)
+137,en,gd,,,coronavirus alert,rabhadh a' choròna-bhìorais
+139,en,gd,,,coronavirus cases,euslaintich air a bheil an coròna-bhìoras
+141,en,gd,,,coronavirus concerns,draghan mun choròna-bhìoras
+143,en,gd,,,coronavirus crisis,èiginn a' choròna-bhìorais
+149,en,gd,,,coronavirus disease,tinneas a' choròna-bhìoras
+150,en,gd,,,Coronavirus disease (COVID-19) outbreak,Taomadh tinneas a' choròna-bhìorais (COVID-19)
+153,en,gd,,,coronavirus early symptoms,comharran tràtha a' choròna-bhìorais
+155,en,gd,,,coronavirus epidemic,galar-sgaoilte a' choròna-bhìorais
+156,en,gd,,,coronavirus exposure,leigeil ris a' choròna-bhìorais
+161,en,gd,,,coronavirus incubation,àm-guir a' choròna-bhìorais
+162,en,gd,,,coronavirus incubation period,àm-guir a' choròna-bhìorais
+163,en,gd,,,coronavirus infection,gabhail ris a' choròna-bhìorais
+168,en,gd,,,coronavirus map,mapa a' choròna-bhìorais
+170,en,gd,,,coronavirus medicine,leigheas a' choròna-bhìorais
+171,en,gd,,,coronavirus medicines,leigheasan a' choròna-bhìorais
+172,en,gd,,,coronavirus news,naidheachdan a' choròna-bhìorais
+173,en,gd,,,coronavirus outbreak,taomadh a' choròna-bhìorais
+174,en,gd,,,coronavirus pandemic,galar mòr-sgaoilte a' choròna-bhìorais
+176,en,gd,,,coronavirus pneumonia,fiabhras-clèibhe a' choròna-bhìorais
+177,en,gd,,,coronavirus precautions,earalas a' choròna-bhìorais
+178,en,gd,,,coronavirus prevention,ro-chasg a' choròna-bhìorais
+179,en,gd,,,coronavirus protection,dìon on choròna-bhìoras
+180,en,gd,,,coronavirus quarantine,cuarantain a' choròna-bhìorais
+182,en,gd,,,coronavirus SOS Alert,rabhadh SOS a' choròna-bhìorais
+183,en,gd,,,coronavirus spread,sgaoileadh a' choròna-bhìorais
+184,en,gd,,,coronavirus symptoms,comharran a' choròna-bhìorais
+185,en,gd,,,coronavirus transmission,tar-chur a' choròna-bhìorais
+186,en,gd,,,coronavirus travel ban,casg siubhail fon choròna-bhìoras
+187,en,gd,,,coronavirus travel restrictions,cuingeachadh siubhail fon choròna-bhìoras
+188,en,gd,,,coronavirus treatment,leigheasadh a' choròna-bhìorais
+190,en,gd,,,coronavirus update,naidheachd mun choròna-bhìorais
+191,en,gd,,,coronavirus vaccine,banachdach a' choròna-bhìorais
+192,en,gd,,,coronavirus vaccines,banachdaichean a' choròna-bhìorais
+198,en,gd,,,covid cases,euslaintich covid
+205,en,gd,,,covid early symptoms,comharran tràtha covid
+213,en,gd,,,covid incubation period,àm-guir covid
+215,en,gd,,,covid international spread,sgaoileadh eadar-nàiseanta covid
+216,en,gd,,,covid international travel,siubhail eadar-nàiseanta fo chovid
+217,en,gd,,,covid isolation,leth-oireachd covid
+219,en,gd,,,covid map,mapa covid
+220,en,gd,,,covid medicine,leigheas covid
+221,en,gd,,,covid medicines,leigheasan covid
+222,en,gd,,,covid news,naidheachdan covid
+223,en,gd,,,covid outbreak,taomadh covid
+224,en,gd,,,covid pandemic,galar mòr-sgaoilte covid
+225,en,gd,,,covid panic,maoim covid
+228,en,gd,,,covid SOS Alert,rabhadh SOS covid
+230,en,gd,,,covid symptoms,comharran covid
+231,en,gd,,,covid transmission,tar-chur covid
+232,en,gd,,,covid travel ban,casg siubhail fo chovid
+233,en,gd,,,covid travel restrictions,cuingeachadh siubhail fo chovid
+234,en,gd,,,covid treatment,leigheasadh covid
+236,en,gd,,,covid vaccine,banachdach covid
+237,en,gd,,,covid vaccines,banachdaichean covid
+242,en,gd,,,covid-19,covid-19
+243,en,gd,,,covid-19 alert,rabhadh covid-19
+244,en,gd,,,covid-19 cases,euslaintich covid-19
+245,en,gd,,,covid-19 CDC,covid-19 CDC
+246,en,gd,,,covid-19 contagious,covid-19 gabhaltach
+247,en,gd,,,covid-19 cure,leigheas covid-19
+248,en,gd,,,covid-19 dangerous,covid-19 cunnartach
+249,en,gd,,,covid-19 deadly,covid-19 marbhtach
+250,en,gd,,,covid-19 death,bàs le covid-19
+251,en,gd,,,covid-19 deaths,bàsan le covid-19
+252,en,gd,,,covid-19 domestic travel,siubhail dùthchail covid-19
+253,en,gd,,,covid-19 early symptoms,comharran tràtha covid-19
+254,en,gd,,,covid-19 effects,buaidhean covid-19
+255,en,gd,,,covid-19 epidemic,galar-sgaoilte covid-19
+256,en,gd,,,covid-19 exposure,leigeil ri covid-19
+257,en,gd,,,covid-19 fatal,covid-19 bàsmhor
+258,en,gd,,,covid-19 fever,fiabhras covid-19
+259,en,gd,,,covid-19 illness,tinneas covid-19
+260,en,gd,,,covid-19 incubation,àm-guir covid-19
+261,en,gd,,,covid-19 incubation period,àm-guir covid-19
+262,en,gd,,,covid-19 infection,gabhail air covid-19
+263,en,gd,,,covid-19 international spread,sgaoileadh eadar-nàiseanta covid-19
+264,en,gd,,,covid-19 international travel,siubhail eadar-nàiseanta fo chovid-19
+265,en,gd,,,covid-19 isolation,leth-oireachd covid-19
+266,en,gd,,,covid-19 lockdown,glasadh-sluaigh covid-19
+267,en,gd,,,covid-19 map,mapa covid-19
+268,en,gd,,,covid-19 medicine,leigheas covid-19
+269,en,gd,,,covid-19 medicines,leigheasan covid-19
+270,en,gd,,,covid-19 news,naidheachdan covid-19
+271,en,gd,,,covid-19 outbreak,taomadh de chovid-19
+272,en,gd,,,covid-19 pandemic,galar mòr-sgaoilte covid-19
+273,en,gd,,,covid-19 panic,maoim covid-19
+275,en,gd,,,covid-19 precautions,earalasan ro chovid-19
+276,en,gd,,,covid-19 protection,dìon o chovid-19
+277,en,gd,,,covid-19 quarantine,cuarantain covid-19
+278,en,gd,,,covid-19 SOS Alert,rabhadh SOS covid-19
+279,en,gd,,,covid-19 spread,sgaoileadh covid-19
+280,en,gd,,,covid-19 symptoms,comharran covid-19
+281,en,gd,,,covid-19 transmission,tar-chur covid-19
+282,en,gd,,,covid-19 travel ban,casg siubhail covid-19
+283,en,gd,,,covid-19 travel restrictions,cuingeachadh siubhail fo chovid-19
+284,en,gd,,,covid-19 treatment,leigheasadh covid-19
+285,en,gd,,,covid-19 uncontrolled spread,sgaoileadh gun smachd de chovid-19
+286,en,gd,,,covid-19 vaccine,banachdach covid-19
+287,en,gd,,,covid-19 vaccines,banachdaichean covid-19
+288,en,gd,,,COVID-19 virus,bhìoras covid-19
+289,en,gd,,,covid-19 virus outbreak,taomadh bhìorais covid-19
+290,en,gd,,,covid-19 virus transmission,tar-chur bhìorais covid-19
+291,en,gd,,,covid-19 WHO,covid-19 WHO
+292,en,gd,,,covid19,covid19
+293,en,gd,,,covid19 alert,rabhadh covid19
+294,en,gd,,,covid19 cases,euslaintich covid19
+295,en,gd,,,covid19 CDC,covid19 CDC
+301,en,gd,,,covid19 deaths,bàsan le covid19
+302,en,gd,,,covid19 domestic travel,siubhail dùthchail fo chovid-19
+303,en,gd,,,covid19 effects,buaidhean covid19
+304,en,gd,,,covid19 epidemic,galar-sgaoilte covid19
+305,en,gd,,,covid19 exposure,leigeil ri covid19
+306,en,gd,,,covid19 fatal,covid19 bàsmhor
+307,en,gd,,,covid19 fever,fiabhras covid19
+308,en,gd,,,covid19 illness,tinneas covid19
+309,en,gd,,,covid19 incubation,àm-guir covid19
+310,en,gd,,,covid19 incubation period,àm-guir covid19
+311,en,gd,,,covid19 infection,gabhail ri covid19
+312,en,gd,,,covid19 international spread,sgaoileadh eadar-nàiseanta covid19
+313,en,gd,,,covid19 international travel,siubhail eadar-nàiseanta fo chovid19
+314,en,gd,,,covid19 isolation,leth-oireachd covid19
+315,en,gd,,,covid19 lockdown,glasadh-sluaigh covid19
+316,en,gd,,,covid19 map,mapa covid19
+317,en,gd,,,covid19 medicine,leigheas covid19
+318,en,gd,,,covid19 medicines,leigheasan covid19
+319,en,gd,,,covid19 news,naidheachdan covid19
+320,en,gd,,,covid19 outbreak,taomadh de chovid19
+321,en,gd,,,covid19 pandemic,galar mòr-sgaoilte covid19
+324,en,gd,,,covid19 precautions,earalasan ro chovid19
+325,en,gd,,,covid19 protection,dìon o chovid19
+326,en,gd,,,covid19 quarantine,cuarantain covid19
+327,en,gd,,,covid19 SOS Alert,rabhadh SOS covid19
+328,en,gd,,,covid19 spread,sgaoileadh covid19
+329,en,gd,,,covid19 symptoms,comharran covid19
+330,en,gd,,,covid19 transmission,tar-chur covid19
+331,en,gd,,,covid19 travel ban,casg siubhail fo chovid19
+332,en,gd,,,covid19 travel restrictions,cuingeachadh siubhail fo chovid19
+333,en,gd,,,covid19 treatment,leigheasadh covid19
+335,en,gd,,,covid19 vaccine,banachdach covid19
+336,en,gd,,,covid19 vaccines,banachdaichean covid19
+337,en,gd,,,covid19 virus,bhìoras covid19
+338,en,gd,,,covid19 virus outbreak,taomadh bhìorais covid19
+339,en,gd,,,covid19 virus transmission,tar-chur bhìorais covid19
+342,en,gd,,,current outbreak,an taomadh làithreach
+343,en,gd,,,deadly outbreak,taomadh marbhtach
+345,en,gd,,,disease outbreak,taomadh de thinneas
+346,en,gd,,,Disposable hand sanitizer,Stuth-slàinteachaidh làimhe aon turais
+348,en,gd,,,domestic travel,siubhal am broinn dùthcha
+351,en,gd,,,droplets,sileagan
+357,en,gd,,,Effects of coronavirus,Buaidhean a' choròna-bhìorais
+359,en,gd,,,epidemic,galar-sgaoilte
+360,en,gd,,,epidemic and pandemic,galar-sgaoilte agus galar mòr-sgaoilte
+362,en,gd,,,epidemic disease,tinneas galair-sgaoilte
+364,en,gd,,,epidemic outbreak,taomadh de ghalar-sgaoilte
+365,en,gd,,,epidemic period,ùine galair-sgaoilte
+366,en,gd,,,epidemic prevention,ro-chasg galair-sgaoilte
+368,en,gd,,,epidemic season,seusan galair-sgaoilte
+369,en,gd,,,epidemic situation,suidheachadh galair-sgaoilte
+371,en,gd,,,exposure,leigeil ris
+375,en,gd,,,exposure time,àm na leigealach ris
+379,en,gd,,,fever,fiabhras
+380,en,gd,,,fight the virus,tha mi a' strì an aghaidh a' bhìorais
+381,en,gd,,,Fighting the outbreak,A' strì ris an taomadh
+382,en,gd,,,flu epidemic,galar-sgaoilte a' chnatain-mhòir
+385,en,gd,,,fomites,aiseag-galair
+392,en,gd,,,global health emergency,èiginn slàinte chruinneil
+393,en,gd,,,global outbreak,taomadh cruinneil
+394,en,gd,,,global pandemic,galar mòr-sgaoilte cruinneil
+396,en,gd,,,hand sanitizer,stuth-slàinteachaidh làimhe
+397,en,gd,,,hand sanitizer dispenser,riaraiche stuth-slàinteachaidh làimhe
+398,en,gd,,,hand sanitizer gel,siligean stuth-slàinteachaidh làimhe
+399,en,gd,,,hand sanitizer spray,spràidh stuth-slàinteachaidh làimhe
+403,en,gd,,,home isolation,leth-oireachd aig an taigh
+404,en,gd,,,home quarantine,cuarantain aig an taigh
+410,en,gd,,,illness,tinneas
+415,en,gd,,,incubation period,àm-guir
+418,en,gd,,,infected,galar gabhaltach air cuideigin
+424,en,gd,,,instant hand sanitizer,stuth-slàinteachaidh làimhe sa bhad
+425,en,gd,,,international spread,sgaoileadh eadar-nàiseanta
+426,en,gd,,,international travel,siubhal eadar-nàiseanta
+427,en,gd,,,isolation,leth-oireachd
+428,en,gd,,,isolation period,ùine leth-oireachd
+430,en,gd,,,isolation room,seòmar leth-oireachd
+431,en,gd,,,isolation valve,duille-dhoras leth-oireachd
+432,en,gd,,,isolation ward,uàrd leth-oireachd
+434,en,gd,,,lockdown,glasadh-sluaigh
+438,en,gd,,,major outbreak,taomadh mòr
+439,en,gd,,,mandatory quarantine,cuarantain èigneachail
+440,en,gd,,,mass gathering,mòr-chruinneachadh
+444,en,gd,,,medicine,leigheas
+445,en,gd,,,medicines,leigheasan
+448,en,gd,,,n95,n95
+449,en,gd,,,n95 mask,masg n95
+450,en,gd,,,n95 respirator,anailiche n96
+451,en,gd,,,ncov,ncov
+452,en,gd,,,ncov-2019,ncov-2019
+453,en,gd,,,new coronavirus,coròna-bhìoras ùr
+454,en,gd,,,new coronavirus pneumonia,fiabhras-clèibhe a' choròna-bhìorais ùir
+460,en,gd,,,novel coronavirus,coròna-bhìoras ùr-nodha
+462,en,gd,,,novel coronavirus infection,coròna-bhìoras gabhaltach ùr-nodha
+463,en,gd,,,novel coronavirus outbreak,taomadh a' choròna-bhìorais ùr-nodha
+464,en,gd,,,novel coronavirus pneumonia,fiabhras-clèibhe a' choròna-bhìorais ùr-nodha
+470,en,gd,,,ongoing outbreak,taomadh a tha a' dol air adhart
+472,en,gd,,,outbreak,taomadh
+474,en,gd,,,outbreak of coronavirus,taomadh dhen bhìoras
+475,en,gd,,,outbreak of disease,taomadh de thinneas
+482,en,gd,,,pandemic,galar mòr-sgaoilte
+485,en,gd,,,pandemic influenza,galar mòr-sgaoilte a' chnatain-mhòir
+486,en,gd,,,pandemic outbreak,taomadh de ghalar mòr-sgaoilte
+487,en,gd,,,pandemic plan,plana airson galar mòr-sgaoilte
+488,en,gd,,,pandemic potential,comas galair mhòr-sgaoilte
+495,en,gd,,,pneumonia,am fiabhras-clèibhe
+496,en,gd,,,pneumonia epidemic,galar-sgaoilte an fhiabhrais-chlèibhe
+497,en,gd,,,potential exposure,cothrom leigeil ris
+498,en,gd,,,precautions,earalasan
+499,en,gd,,,prevent virus,tha mi a' casgadh a' bhìorais
+500,en,gd,,,prolonged exposure,leigeil ris fhada
+504,en,gd,,,quarantine,cuarantain
+505,en,gd,,,quarantine area,raon cuarantain
+506,en,gd,,,quarantine facility,ionad curantain
+507,en,gd,,,quarantine measures,ceuman cuarantain
+508,en,gd,,,quarantine period,ùine cuarantain
+509,en,gd,,,quarantine room,seòmar cuarantain
+510,en,gd,,,quarantine zone,sgìre cuarantain
+512,en,gd,,,Recovered coronavirus patient,Euslainteach a chaidh am feabhas an dèidh a' choròna-bhìorais
+514,en,gd,,,repatriate,tha mi ag ath-dhùthachadh
+515,en,gd,,,repeated exposure,ath-leigeil ris
+516,en,gd,,,respiratory syncytial virus,bhìoras siom-plasmach analachaidh
+517,en,gd,,,respiratory virus,bhìoras analachaidh
+519,en,gd,,,Sanitizing hand sanitizer,Stuth-slàinteachaidh làimhe slàinteachail
+520,en,gd,,,SARS-CoV-2,SARS-CoV-2
+521,en,gd,,,self isolation,fèin-leth-oireachd
+522,en,gd,,,self quarantine,fèin-chuarantain
+523,en,gd,,,Severe outbreak,Taomadh èiginneach
+525,en,gd,,,social distancing,astarachadh sòisealta
+526,en,gd,,,social distancing measures,ceuman astarachaidh shòisealta
+527,en,gd,,,social isolation,leth-oireachd shòisealta
+528,en,gd,,,SOS Alert,Rabhadh SOS
+529,en,gd,,,spread,sgaoil
+530,en,gd,,,spread of coronavirus,sgaoileadh a' choròna-bhìorais
+531,en,gd,,,spread of virus,sgaoileadh a' bhìorais
+535,en,gd,,,strain of virus,sìol dhen bhìoras
+541,en,gd,,,the incubation period,an t-àm-guir
+544,en,gd,,,the novel coronavirus,an coròna-bhìoras ùr-nodha
+558,en,gd,,,touching face,a' suathadh ri aodann
+559,en,gd,,,travel advisory,comhairle siubhail
+560,en,gd,,,travel ban,casg air siubhal
+561,en,gd,,,travel restrictions,cuingeachadh siubhail
+565,en,gd,,,use hand sanitizer,tha mi a' cleachdadh stuth-slàinteachaidh làimhe
+566,en,gd,,,vaccines,banachdaichean
+567,en,gd,,,viral outbreak,taomadh bhìorais
+568,en,gd,,,virtual lockdown,glasadh-sluaigh biortail
+569,en,gd,,,virus,bhìoras
+570,en,gd,,,virus carrier,giùlanair bhìorais
+573,en,gd,,,virus infection,gabhail ri bhìoras
+575,en,gd,,,virus mask,masg bhìorais
+576,en,gd,,,virus outbreak,taomadh de bhìoras
+577,en,gd,,,virus prevention,ro-chasg bhìorais
+578,en,gd,,,virus protection,dìon o bhìoras
+580,en,gd,,,virus spread,sgaoileadh de bhìoras
+582,en,gd,,,virus spreads,bhìoras ga sgaoileadh
+583,en,gd,,,virus strain,sìol bhìorais
+584,en,gd,,,virus transmission,tar-chur bhìorais
+586,en,gd,,,wash your hands,buailidh an coròna-bhìoras orm
+587,en,gd,,,washing hands,a' nighe làmhan
+589,en,gd,,,WHO,WHO
+590,en,gd,,,WHO Confirmed,air dearbhadh leis an WHO
+591,en,gd,,,WHO Deaths,Bàsan WHO
+592,en,gd,,,widespread outbreak,taomadh fad is farsaing
+597,en,gd,,,World Health Organization,Buidheann Slàinte na Cruinne
+600,en,gd,,,zoonotic disease,tinneas sù-nòsach
+601,en,gd,,,zoonotic virus,bhìoras sù-nòsach

@@ -100,6 +100,6 @@ Here is who has contributed content so far:
 * Google terminologies: Google. Contact: [Mengmeng Niu](#)
 * The Zhejiang handbook: [Alp Öktem](https://alpoktem.github.io/) from TWB.
 * The Kaggle dataset was originally compiled by [Liling Tang](http://alvations.com)
-* Everything else was scraped by Neulab members: [Junjie Hu](http://www.cs.cmu.edu/~junjieh/), [Zi-Yi Dou](https://scholar.google.com/citations?user=RWogNsEAAAAJ&hl=en), and [Antonis Anastasopoulos](http://www.cs.cmu.edu/~aanastas/)
+* Everything else was scraped by Neulab members: [Junjie Hu](http://www.cs.cmu.edu/~junjieh/), [Zi-Yi Dou](https://scholar.google.com/citations?user=RWogNsEAAAAJ&hl=en), and [Antonis Anastasopoulos](http://www.cs.cmu.edu/~aanastas/). Contact: Antonis.
 * Microsoft shared their URL list from past disaster responses. Contact: [Will Lewis](https://www.microsoft.com/en-us/research/people/wilewis/)
 * [Hady Elsahar](https://www.hadyelsahar.io/) did an initial scraping of covid19 wikipedia domains: It's [here](https://github.com/hadyelsahar/covid-domains).

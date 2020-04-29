@@ -12,7 +12,7 @@ Parallel:
 * [Canadian Government Public Service Announcements](https://www.sac-isc.gc.ca/eng/1583781906998/1583781926813) (21 languages)
 * [King County (WA) fact sheet](https://welcoming.seattle.gov/covid-19/?utm_source=WASCLA+Members&utm_campaign=f9ef53ee9b-EMAIL_CAMPAIGN_2020_03_04_10_45&utm_medium=email&utm_term=0_ec7c02e82f-f9ef53ee9b-47852315&mc_cid=f9ef53ee9b&mc_eid=6e5511a48a#top) (12 languages)
 * Crowd Sourced Translations from [source 1](https://drive.google.com/file/d/12KBKTLwHcBDIO5zV7nuOk2MtuaQ9FNPy/view?fbclid=IwAR01nqJu6DN_RIsoJSfCSCCR-vxPkmzLN8UKmeyIB_ORdWX6rTK795i6Pi8) and [source 2](https://docs.google.com/document/d/1JiBETtDgl1Y2defcjAALBB9-bCSKOMSFUC_0P_G9mAM/edit#) for the languages of the Philippines (13 and 8 languages) 
-* Translations related to COVID-19 originally created by [https://translatorswithoutborders.org/covid-19](https://translatorswithoutborders.org/covid-19) and [https://better.sg/migrantworkertranslations/](https://better.sg/migrantworkertranslations/). Taken from [this Kaggle Dataset](https://www.kaggle.com/alvations/covid19-translations/) created and shared by [Liling Tang](https://www.kaggle.com/alvations).
+* Translations related to COVID-19 originally created by [https://translatorswithoutborders.org/covid-19](https://translatorswithoutborders.org/covid-19) and [https://better.sg/migrantworkertranslations/](https://better.sg/migrantworkertranslations/). Taken from [this Kaggle Dataset](https://www.kaggle.com/alvations/covid19-translations/) created and shared by [Liling Tang](http://alvations.com).
 
 Monolingual/Comparable:
 * Wikipedia
@@ -91,3 +91,15 @@ If we manage to align documents at the sentence level, we can add 'sent_id' info
 If you can't or don't want to convert your data into this xml, you could also share plain text files, but also add a README that will provide information on the source of the data, the type, etc etc
 
 For sharing large files, you can also upload a compressed archive. The current repo tracks `.zip` and `.tar.gz` files and stores them using [git-lfs](https://git-lfs.github.com/).
+
+
+## Contact/Contributors
+
+Here is who has contributed content so far:
+* Facebook terminologies: Facebook. Contact: [Francisco (Paco) Guzman](http://guzmanhe.github.io/)
+* Google terminologies: Google. Contact: [Mengmeng Niu](#)
+* The Zhejiang handbook: [Alp Öktem](https://alpoktem.github.io/) from TWB.
+* The Kaggle dataset was originally compiled by [Liling Tang](http://alvations.com)
+* Everything else was scraped by Neulab members: [Junjie Hu](http://www.cs.cmu.edu/~junjieh/), [Zi-Yi Dou](https://scholar.google.com/citations?user=RWogNsEAAAAJ&hl=en), and [Antonis Anastasopoulos](http://www.cs.cmu.edu/~aanastas/)
+* Microsoft shared their URL list from past disaster responses. Contact: [Will Lewis](https://www.microsoft.com/en-us/research/people/wilewis/)
+* [Hady Elsahar](https://www.hadyelsahar.io/) did an initial scraping of covid19 wikipedia domains: It's [here](https://github.com/hadyelsahar/covid-domains).

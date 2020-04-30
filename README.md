@@ -26,6 +26,7 @@ Other Collections from our friends:
 * The [Translators Without Borders](https://translatorswithoutborders.org/) have compiled [glossaries](https://translatorswithoutborders.org/twb-glossary-for-covid-19/) and are starting to provide [translations](https://translatorswithoutborders.org/translations-covid-19/).
 * [TAUS](https://www.taus.net/) has compiled a corpus of COVID-19-related parallel sentences. Available [here](https://md.taus.net/corona). Note that these corpora are published under the CC BY-NC 4.0 license which means the data can be shared and modified only for non-commercial purposes.  
 * Microsoft has collected covid19-related bing search logs (desktop users only) over the period of Jan 1st, 2020 – April 18th, 2020. They are [here](https://github.com/microsoft/BingCoronavirusQuerySet)
+* An international team of scientists that tries to estimate the number of cases with COVID-19 symptoms in different countries have put out [surveys](https://github.com/GCGImdea/coronasurveys/blob/master/surveys.md) in 57 languages.
 
 
 ## Directory Organization
@@ -97,7 +98,7 @@ For sharing large files, you can also upload a compressed archive. The current r
 
 Here is who has contributed content so far:
 * Facebook terminologies: Facebook. Contact: [Francisco (Paco) Guzman](http://guzmanhe.github.io/)
-* Google terminologies: Google. Contact: [Mengmeng Niu](#)
+* Google terminologies: Google. Contact: Mengmeng Niu (mniu [at] google [dot] com) and Ian Hill (ihill [at] google [dot] com)
 * The Zhejiang handbook: [Alp Öktem](https://alpoktem.github.io/) from TWB.
 * The Kaggle dataset was originally compiled by [Liling Tang](http://alvations.com)
 * Everything else was scraped by Neulab members: [Junjie Hu](http://www.cs.cmu.edu/~junjieh/), [Zi-Yi Dou](https://scholar.google.com/citations?user=RWogNsEAAAAJ&hl=en), and [Antonis Anastasopoulos](http://www.cs.cmu.edu/~aanastas/). Contact: Antonis.

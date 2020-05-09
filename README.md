@@ -16,10 +16,10 @@ Parallel:
 
 Monolingual/Comparable:
 * Wikipedia
-* BBC World Service (22 languages)
-* Voice of America (31 languages)
-* [Deutsche Welle](https://www.dw.com/) (29 languages)
-* [El Diario](diario.aw) (Papiamento language)
+* BBC World Service (22 languages) -- last updated May 8th 2020.
+* Voice of America (31 languages) -- last updated March 26th 2020.
+* [Deutsche Welle](https://www.dw.com/) (29 languages) -- last updated March 28th 2020.
+* [El Diario](diario.aw) (Papiamento language) -- last updated April 6th 2020.
 
 
 Other Collections from our friends:
@@ -27,6 +27,9 @@ Other Collections from our friends:
 * [TAUS](https://www.taus.net/) has compiled a corpus of COVID-19-related parallel sentences. Available [here](https://md.taus.net/corona). Note that these corpora are published under the CC BY-NC 4.0 license which means the data can be shared and modified only for non-commercial purposes.  
 * Microsoft has collected covid19-related bing search logs (desktop users only) over the period of Jan 1st, 2020 – April 18th, 2020. They are [here](https://github.com/microsoft/BingCoronavirusQuerySet)
 * An international team of scientists that tries to estimate the number of cases with COVID-19 symptoms in different countries have put out [surveys](https://github.com/GCGImdea/coronasurveys/blob/master/surveys.md) in 57 languages. (HT: @juliakreutzer)
+* The [COVID-19 Myth Busters in World Languages](https://covid-no-mb.org/) has information in 31+ languages.
+* The [EMEA corpus](http://opus.nlpl.eu/EMEA.php) provides pdf conversions of documents from the European Medicines Agency (22 languages, 231 bitexts).
+* SketchEngine has collected an [English in-domain corpus](https://www.sketchengine.eu/covid19/).
 
 
 ## Directory Organization

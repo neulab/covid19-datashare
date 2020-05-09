@@ -18,7 +18,7 @@ Monolingual/Comparable:
 * Wikipedia
 * BBC World Service (22 languages) -- last updated May 8th 2020.
 * Voice of America (31 languages) -- last updated March 26th 2020.
-* [Deutsche Welle](https://www.dw.com/) (29 languages) -- last updated March 28th 2020.
+* [Deutsche Welle](https://www.dw.com/) (29 languages) -- last updated May 9th 2020.
 * [El Diario](diario.aw) (Papiamento language) -- last updated April 6th 2020.
 
 

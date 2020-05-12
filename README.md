@@ -7,7 +7,8 @@ Parallel Terminologies:
 * Translations of covid19-related terms in dozens of languages and locales, provided by Facebook and Google.
 
 Parallel:
-* Coronavirus advice from the [Doctors of the World](https://www.doctorsoftheworld.org.uk/coronavirus-information/) (47 languages) (last updated May 10th)
+* Coronavirus advice from the [Doctors of the World](https://www.doctorsoftheworld.org.uk/coronavirus-information/) (47 languages; last updated May 10th)
+* Data from the [COVID-19 Myth Busters in World Languages](https://covid-no-mb.org/) project (28 languages; last updated May 9th)
 * The [Zhejiang handbook](https://covid-19.alibabacloud.com/) (10 languages)
 * International SOS Need-to-know slides [vietnamese example](https://pandemic.internationalsos.com/-/media/pandemic/files/pan-comms-new-corona-virus/intlsos_coronavirus_disease_2019_talk_simplified_v3_vi_vn.pptx) (6 languages)
 * [Canadian Government Public Service Announcements](https://www.sac-isc.gc.ca/eng/1583781906998/1583781926813) (21 languages)

@@ -7,6 +7,7 @@ Parallel Terminologies:
 * Translations of covid19-related terms in dozens of languages and locales, provided by Facebook and Google.
 
 Parallel:
+* Coronavirus advice from the [Doctors of the World](https://www.doctorsoftheworld.org.uk/coronavirus-information/) (47 languages) (last updated May 10th)
 * The [Zhejiang handbook](https://covid-19.alibabacloud.com/) (10 languages)
 * International SOS Need-to-know slides [vietnamese example](https://pandemic.internationalsos.com/-/media/pandemic/files/pan-comms-new-corona-virus/intlsos_coronavirus_disease_2019_talk_simplified_v3_vi_vn.pptx) (6 languages)
 * [Canadian Government Public Service Announcements](https://www.sac-isc.gc.ca/eng/1583781906998/1583781926813) (21 languages)
@@ -15,7 +16,7 @@ Parallel:
 * Translations related to COVID-19 originally created by [https://translatorswithoutborders.org/covid-19](https://translatorswithoutborders.org/covid-19) and [https://better.sg/migrantworkertranslations/](https://better.sg/migrantworkertranslations/). Taken from [this Kaggle Dataset](https://www.kaggle.com/alvations/covid19-translations/) created and shared by [Liling Tang](http://alvations.com).
 
 Monolingual/Comparable:
-* Wikipedia
+* Wikipedia -- last updated March 25th 2020.
 * BBC World Service (22 languages) -- last updated May 8th 2020.
 * Voice of America (31 languages) -- last updated March 26th 2020.
 * [Deutsche Welle](https://www.dw.com/) (29 languages) -- last updated May 9th 2020.

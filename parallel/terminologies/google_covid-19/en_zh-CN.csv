@@ -1,4 +1,28 @@
 stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+1,en,zh-CN,adjective,"In the context of coronavirus (COVID-19): transmissible by direct or indirect contact with an infected person (describes the disease or the virus, not a person).",contagious,可传染 : 有传染性
+2,en,zh-CN,noun,In the context of coronavirus (COVID-19): known cases of people who currently have the disease.,active cases,现有病例
+3,en,zh-CN,noun,In the context of coronavirus (COVID-19): cases of people infected with the virus which have been confirmed via medical testing.,confirmed cases,确诊病例
+4,en,zh-CN,proper noun,"Short for ""Centers for Disease Control and Prevention"": a US federal agency under the Department of Health and Human Services, whose main goal is to protect public health and safety through the control and prevention of disease.",CDC,CDC
+5,en,zh-CN,noun,"A formal name for the disease caused by the SARS-CoV-2 virus, responsible for the 2019/2020 global pandemic.",COVID-19,新型冠状病毒肺炎 (COVID-19) : 新冠肺炎 (COVID-19) : COVID-19
+6,en,zh-CN,noun,In the context of coronavirus (COVID-19): a place where people can be tested for the virus.,COVID-19 testing center,COVID-19 检测中心
+7,en,zh-CN,noun,"An informal name for the SARS-CoV-2 virus (also known as ""novel coronavirus""), responsible for the 2019/2020 global pandemic of COVID-19 (the disease caused by the virus). Sometimes refers to the entire category of coronaviruses, of which SARS-CoV-2 is just one example.",coronavirus,新型冠状病毒 (COVID-19) [when referring COVID-19] : 冠状病毒 [when referring the generic virus group]
+8,en,zh-CN,noun,"In the context of coronavirus (COVID-19): a mask covering the nose, mouth and/or eyes of the wearer, intended to protect the wearer from spreading or contracting pathogens.",face mask,口罩
+9,en,zh-CN,noun,"In the context of coronavirus (COVID-19): can be a person, such as a doctor, but also an organization, such as a hospital or insurance company.",healthcare provider,医疗服务提供方
+10,en,zh-CN,noun,"In the context of coronavirus (COVID-19): a person who works in healthcare, such as a doctor or therapist.",healthcare professional,专业医护人员
+11,en,zh-CN,noun,"In the context of coronavirus (COVID-19): the practice of cleaning one's hands, e.g. with water and soap, in order to get rid of the virus and other pathogens.",hand-washing,洗手
+12,en,zh-CN,noun,In the context of coronavirus (COVID-19): the period of time between infection and the appearance of symptoms of the disease.,incubation period,潜伏期
+13,en,zh-CN,noun,In the context of coronavirus (COVID-19): the practice of separating sick people from healthy people to prevent the spread of disease.,isolation,隔离
+14,en,zh-CN,noun,In the context of the coronavirus (COVID-19): the practice of restricting the movement of healthy people who may have been exposed to the virus to see if they become ill.,quarantine,隔离
+15,en,zh-CN,verb,In the context of the coronavirus (COVID-19): to restrict the movement of healthy people who may have been exposed to the virus to see if they become ill.,quarantine,隔离
+16,en,zh-CN,proper noun,"Short for ""National Institutes of Health Agency"": the primary US government agency responsible for biomedical and public health research; part of the United States Department of Health and Human Services.",NIH,NIH
+17,en,zh-CN,noun,"In the context of coronavirus (COVID-19): being within a close distance (1-2m) of another person, not necessarily having actual physical contact. Close contact is one possible way for the virus to spread from person to person.",close contact,密切接触
+18,en,zh-CN,noun,In the context of coronavirus (COVID-19): the process of the virus spreading from person to person.,transmission,传播
+19,en,zh-CN,noun,In the context of coronavirus (COVID-19): cases of people infected with the virus which have resulted in the end of the infected person's life.,deaths,死亡人数
+20,en,zh-CN,noun,In the context of coronavirus (COVID-19): a place where people can be tested for the virus.,testing center,检测中心
+21,en,zh-CN,verb,"In the context of the coronavirus (COVID-19): to infect new people, in a particular area or globally.",spread,扩散
+22,en,zh-CN,verb,A header for a set of five recommendations surfaced to users looking for coronavirus tips. See: https://www.google.com/search?q=coronavirus+tips&fbx=dothefive,Do the Five,做好五件事
+23,en,zh-CN,proper noun,"A specialized agency of the United Nations that is concerned with world public health. Abbreviated as ""WHO"". See: https://en.wikipedia.org/wiki/World_Health_Organization",World Health Organization,世界卫生组织
+24,en,zh-CN,proper noun,"Short for ""World Health Organization"": a specialized agency of the United Nations that is concerned with world public health. See: https://en.wikipedia.org/wiki/World_Health_Organization",WHO,WHO
 25,en,zh-CN,,,14 days in isolation,隔离14天
 26,en,zh-CN,,,14 days quarantine,14天隔离
 27,en,zh-CN,,,2019 coronavirus,2019冠状病毒

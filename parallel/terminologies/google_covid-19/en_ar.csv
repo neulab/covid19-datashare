@@ -1,4 +1,28 @@
 stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+1,en,ar,adjective,"In the context of coronavirus (COVID-19): transmissible by direct or indirect contact with an infected person (describes the disease or the virus, not a person).",contagious,معدٍ
+2,en,ar,noun,In the context of coronavirus (COVID-19): known cases of people who currently have the disease.,active cases,الحالات المصابة حاليًا
+3,en,ar,noun,In the context of coronavirus (COVID-19): cases of people infected with the virus which have been confirmed via medical testing.,confirmed cases,الحالات المؤكَّدة
+4,en,ar,proper noun,"Short for ""Centers for Disease Control and Prevention"": a US federal agency under the Department of Health and Human Services, whose main goal is to protect public health and safety through the control and prevention of disease.",CDC,مركز مكافحة الأمراض والوقاية منها (CDC)
+5,en,ar,noun,"A formal name for the disease caused by the SARS-CoV-2 virus, responsible for the 2019/2020 global pandemic.",COVID-19,فيروس كورونا المستجد (كوفيد-19)
+6,en,ar,noun,In the context of coronavirus (COVID-19): a place where people can be tested for the virus.,COVID-19 testing center,مركز إجراء فحوصات فيروس كورونا المستجد
+7,en,ar,noun,"An informal name for the SARS-CoV-2 virus (also known as ""novel coronavirus""), responsible for the 2019/2020 global pandemic of COVID-19 (the disease caused by the virus). Sometimes refers to the entire category of coronaviruses, of which SARS-CoV-2 is just one example.",coronavirus,فيروس كورونا
+8,en,ar,noun,"In the context of coronavirus (COVID-19): a mask covering the nose, mouth and/or eyes of the wearer, intended to protect the wearer from spreading or contracting pathogens.",face mask,قناع وجه
+9,en,ar,noun,"In the context of coronavirus (COVID-19): can be a person, such as a doctor, but also an organization, such as a hospital or insurance company.",healthcare provider,مقدّم الرعاية الصحية
+10,en,ar,noun,"In the context of coronavirus (COVID-19): a person who works in healthcare, such as a doctor or therapist.",healthcare professional,خبير في الرعاية الصحية
+11,en,ar,noun,"In the context of coronavirus (COVID-19): the practice of cleaning one's hands, e.g. with water and soap, in order to get rid of the virus and other pathogens.",hand-washing,غسل اليدين
+12,en,ar,noun,In the context of coronavirus (COVID-19): the period of time between infection and the appearance of symptoms of the disease.,incubation period,فترة الحضانة
+13,en,ar,noun,In the context of coronavirus (COVID-19): the practice of separating sick people from healthy people to prevent the spread of disease.,isolation,العزل
+14,en,ar,noun,In the context of the coronavirus (COVID-19): the practice of restricting the movement of healthy people who may have been exposed to the virus to see if they become ill.,quarantine,الحجر الصحي
+15,en,ar,verb,In the context of the coronavirus (COVID-19): to restrict the movement of healthy people who may have been exposed to the virus to see if they become ill.,quarantine,الحجر الصحي
+16,en,ar,proper noun,"Short for ""National Institutes of Health Agency"": the primary US government agency responsible for biomedical and public health research; part of the United States Department of Health and Human Services.",NIH,المعاهد الوطنية للصحة (NIH)
+17,en,ar,noun,"In the context of coronavirus (COVID-19): being within a close distance (1-2m) of another person, not necessarily having actual physical contact. Close contact is one possible way for the virus to spread from person to person.",close contact,الاقتراب من الأشخاص
+18,en,ar,noun,In the context of coronavirus (COVID-19): the process of the virus spreading from person to person.,transmission,الانتقال
+19,en,ar,noun,In the context of coronavirus (COVID-19): cases of people infected with the virus which have resulted in the end of the infected person's life.,deaths,حالات الوفاة
+20,en,ar,noun,In the context of coronavirus (COVID-19): a place where people can be tested for the virus.,testing center,مركز إجراء الفحوصات
+21,en,ar,verb,"In the context of the coronavirus (COVID-19): to infect new people, in a particular area or globally.",spread,الانتشار
+22,en,ar,verb,A header for a set of five recommendations surfaced to users looking for coronavirus tips. See: https://www.google.com/search?q=coronavirus+tips&fbx=dothefive,Do the Five,الاحتياطات الخمسة
+23,en,ar,proper noun,"A specialized agency of the United Nations that is concerned with world public health. Abbreviated as ""WHO"". See: https://en.wikipedia.org/wiki/World_Health_Organization",World Health Organization,منظمة الصحة العالمية
+24,en,ar,proper noun,"Short for ""World Health Organization"": a specialized agency of the United Nations that is concerned with world public health. See: https://en.wikipedia.org/wiki/World_Health_Organization",WHO,منظمة الصحة العالمية (WHO)
 25,en,ar,,,14 days in isolation,14 يومًا في العزل
 26,en,ar,,,14 days quarantine,الحجر الصحي لمدة 14 يوم
 27,en,ar,,,2019 coronavirus,فيروس كورونا 2019

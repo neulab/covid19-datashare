@@ -1,4 +1,28 @@
 stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+1,en,ne,adjective,"In the context of coronavirus (COVID-19): transmissible by direct or indirect contact with an infected person (describes the disease or the virus, not a person).",contagious,सरुवा
+2,en,ne,noun,In the context of coronavirus (COVID-19): known cases of people who currently have the disease.,active cases,हाल बिरामीहरूको संख्या
+3,en,ne,noun,In the context of coronavirus (COVID-19): cases of people infected with the virus which have been confirmed via medical testing.,confirmed cases,सङ्क्रमितहरूको सङ्ख्या
+4,en,ne,proper noun,"Short for ""Centers for Disease Control and Prevention"": a US federal agency under the Department of Health and Human Services, whose main goal is to protect public health and safety through the control and prevention of disease.",CDC,CDC
+5,en,ne,noun,"A formal name for the disease caused by the SARS-CoV-2 virus, responsible for the 2019/2020 global pandemic.",COVID-19,COVID-19
+6,en,ne,noun,In the context of coronavirus (COVID-19): a place where people can be tested for the virus.,COVID-19 testing center,COVID-19 परीक्षण केन्द्र
+7,en,ne,noun,"An informal name for the SARS-CoV-2 virus (also known as ""novel coronavirus""), responsible for the 2019/2020 global pandemic of COVID-19 (the disease caused by the virus). Sometimes refers to the entire category of coronaviruses, of which SARS-CoV-2 is just one example.",coronavirus,कोरोना भाइरस
+8,en,ne,noun,"In the context of coronavirus (COVID-19): a mask covering the nose, mouth and/or eyes of the wearer, intended to protect the wearer from spreading or contracting pathogens.",face mask,मास्क
+9,en,ne,noun,"In the context of coronavirus (COVID-19): can be a person, such as a doctor, but also an organization, such as a hospital or insurance company.",healthcare provider,स्वास्थ्य सेवा प्रदायक
+10,en,ne,noun,"In the context of coronavirus (COVID-19): a person who works in healthcare, such as a doctor or therapist.",healthcare professional,स्वास्थ्यकर्मी
+11,en,ne,noun,"In the context of coronavirus (COVID-19): the practice of cleaning one's hands, e.g. with water and soap, in order to get rid of the virus and other pathogens.",hand-washing,हात धुने
+12,en,ne,noun,In the context of coronavirus (COVID-19): the period of time between infection and the appearance of symptoms of the disease.,incubation period,लक्षण देखिन लाग्ने अवधि
+13,en,ne,noun,In the context of coronavirus (COVID-19): the practice of separating sick people from healthy people to prevent the spread of disease.,isolation,आइसोलेसन
+14,en,ne,noun,In the context of the coronavirus (COVID-19): the practice of restricting the movement of healthy people who may have been exposed to the virus to see if they become ill.,quarantine,क्वारेन्टाइन
+15,en,ne,verb,In the context of the coronavirus (COVID-19): to restrict the movement of healthy people who may have been exposed to the virus to see if they become ill.,quarantine,क्वारेन्टाइनमा राख्नु
+16,en,ne,proper noun,"Short for ""National Institutes of Health Agency"": the primary US government agency responsible for biomedical and public health research; part of the United States Department of Health and Human Services.",NIH,NIH
+17,en,ne,noun,"In the context of coronavirus (COVID-19): being within a close distance (1-2m) of another person, not necessarily having actual physical contact. Close contact is one possible way for the virus to spread from person to person.",close contact,नजिकको सम्पर्क
+18,en,ne,noun,In the context of coronavirus (COVID-19): the process of the virus spreading from person to person.,transmission,सार्ने काम
+19,en,ne,noun,In the context of coronavirus (COVID-19): cases of people infected with the virus which have resulted in the end of the infected person's life.,deaths,मृतकहरूको सङ्ख्या
+20,en,ne,noun,In the context of coronavirus (COVID-19): a place where people can be tested for the virus.,testing center,परीक्षण केन्द्र
+21,en,ne,verb,"In the context of the coronavirus (COVID-19): to infect new people, in a particular area or globally.",spread,फैलनु
+22,en,ne,verb,A header for a set of five recommendations surfaced to users looking for coronavirus tips. See: https://www.google.com/search?q=coronavirus+tips&fbx=dothefive,Do the Five,यी पाँच कुराहरू गर्नुहोस्
+23,en,ne,proper noun,"A specialized agency of the United Nations that is concerned with world public health. Abbreviated as ""WHO"". See: https://en.wikipedia.org/wiki/World_Health_Organization",World Health Organization,विश्व स्वास्थ्य सङ्गठन
+24,en,ne,proper noun,"Short for ""World Health Organization"": a specialized agency of the United Nations that is concerned with world public health. See: https://en.wikipedia.org/wiki/World_Health_Organization",WHO,WHO
 25,en,ne,,,14 days in isolation,14 दिन आइसोलेसनमा
 26,en,ne,,,14 days quarantine,14 दिनको क्वारेन्टिन
 27,en,ne,,,2019 coronavirus,2019 कोरोनाभाइरस

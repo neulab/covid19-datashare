@@ -1,4 +1,28 @@
 stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+1,en,fil,adjective,"In the context of coronavirus (COVID-19): transmissible by direct or indirect contact with an infected person (describes the disease or the virus, not a person).",contagious,nakakahawa
+2,en,fil,noun,In the context of coronavirus (COVID-19): known cases of people who currently have the disease.,active cases,mga aktibong kaso
+3,en,fil,noun,In the context of coronavirus (COVID-19): cases of people infected with the virus which have been confirmed via medical testing.,confirmed cases,mga nakumpirmang kaso
+4,en,fil,proper noun,"Short for ""Centers for Disease Control and Prevention"": a US federal agency under the Department of Health and Human Services, whose main goal is to protect public health and safety through the control and prevention of disease.",CDC,CDC
+5,en,fil,noun,"A formal name for the disease caused by the SARS-CoV-2 virus, responsible for the 2019/2020 global pandemic.",COVID-19,COVID-19
+6,en,fil,noun,In the context of coronavirus (COVID-19): a place where people can be tested for the virus.,COVID-19 testing center,testing center para sa COVID-19
+7,en,fil,noun,"An informal name for the SARS-CoV-2 virus (also known as ""novel coronavirus""), responsible for the 2019/2020 global pandemic of COVID-19 (the disease caused by the virus). Sometimes refers to the entire category of coronaviruses, of which SARS-CoV-2 is just one example.",coronavirus,coronavirus
+8,en,fil,noun,"In the context of coronavirus (COVID-19): a mask covering the nose, mouth and/or eyes of the wearer, intended to protect the wearer from spreading or contracting pathogens.",face mask,face mask
+9,en,fil,noun,"In the context of coronavirus (COVID-19): can be a person, such as a doctor, but also an organization, such as a hospital or insurance company.",healthcare provider,provider ng pangangalagang pangkalusugan
+10,en,fil,noun,"In the context of coronavirus (COVID-19): a person who works in healthcare, such as a doctor or therapist.",healthcare professional,propesyonal ng pangangalagang pangkalusugan
+11,en,fil,noun,"In the context of coronavirus (COVID-19): the practice of cleaning one's hands, e.g. with water and soap, in order to get rid of the virus and other pathogens.",hand-washing,paghuhugas ng kamay
+12,en,fil,noun,In the context of coronavirus (COVID-19): the period of time between infection and the appearance of symptoms of the disease.,incubation period,tagal ng incubation
+13,en,fil,noun,In the context of coronavirus (COVID-19): the practice of separating sick people from healthy people to prevent the spread of disease.,isolation,isolation
+14,en,fil,noun,In the context of the coronavirus (COVID-19): the practice of restricting the movement of healthy people who may have been exposed to the virus to see if they become ill.,quarantine,quarantine
+15,en,fil,verb,In the context of the coronavirus (COVID-19): to restrict the movement of healthy people who may have been exposed to the virus to see if they become ill.,quarantine,quarantine
+16,en,fil,proper noun,"Short for ""National Institutes of Health Agency"": the primary US government agency responsible for biomedical and public health research; part of the United States Department of Health and Human Services.",NIH,NIH
+17,en,fil,noun,"In the context of coronavirus (COVID-19): being within a close distance (1-2m) of another person, not necessarily having actual physical contact. Close contact is one possible way for the virus to spread from person to person.",close contact,close contact
+18,en,fil,noun,In the context of coronavirus (COVID-19): the process of the virus spreading from person to person.,transmission,paghawa
+19,en,fil,noun,In the context of coronavirus (COVID-19): cases of people infected with the virus which have resulted in the end of the infected person's life.,deaths,mga pagkamatay
+20,en,fil,noun,In the context of coronavirus (COVID-19): a place where people can be tested for the virus.,testing center,testing center
+21,en,fil,verb,"In the context of the coronavirus (COVID-19): to infect new people, in a particular area or globally.",spread,paglaganap
+22,en,fil,verb,A header for a set of five recommendations surfaced to users looking for coronavirus tips. See: https://www.google.com/search?q=coronavirus+tips&fbx=dothefive,Do the Five,Do the Five
+23,en,fil,proper noun,"A specialized agency of the United Nations that is concerned with world public health. Abbreviated as ""WHO"". See: https://en.wikipedia.org/wiki/World_Health_Organization",World Health Organization,World Health Organization
+24,en,fil,proper noun,"Short for ""World Health Organization"": a specialized agency of the United Nations that is concerned with world public health. See: https://en.wikipedia.org/wiki/World_Health_Organization",WHO,WHO
 25,en,fil,,,14 days in isolation,14 na araw sa isolation
 26,en,fil,,,14 days quarantine,14 na araw na quarantine
 27,en,fil,,,2019 coronavirus,2019 coronavirus

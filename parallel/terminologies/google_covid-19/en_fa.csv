@@ -1,22 +1,46 @@
 stringID,sourceLang,targetLang,pos,description,sourceString,targetString
-25,en,fa,,,14 days in isolation,14 روز ایزوله سازی
-26,en,fa,,,14 days quarantine,قرنطینه 14 روزه
-27,en,fa,,,2019 coronavirus,ویروس کرونای 2019
-28,en,fa,,,2019 novel coronavirus,ویروس کرونای جدید 2019
+1,en,fa,adjective,"In the context of coronavirus (COVID-19): transmissible by direct or indirect contact with an infected person (describes the disease or the virus, not a person).",contagious,مسری
+2,en,fa,noun,In the context of coronavirus (COVID-19): known cases of people who currently have the disease.,active cases,موارد فعال
+3,en,fa,noun,In the context of coronavirus (COVID-19): cases of people infected with the virus which have been confirmed via medical testing.,confirmed cases,موارد تأییدشده
+4,en,fa,proper noun,"Short for ""Centers for Disease Control and Prevention"": a US federal agency under the Department of Health and Human Services, whose main goal is to protect public health and safety through the control and prevention of disease.",CDC,مراکز کنترل و پیشگیری از بیماری (CDC)
+5,en,fa,noun,"A formal name for the disease caused by the SARS-CoV-2 virus, responsible for the 2019/2020 global pandemic.",COVID-19,کووید-۱۹
+6,en,fa,noun,In the context of coronavirus (COVID-19): a place where people can be tested for the virus.,COVID-19 testing center,مرکز آزمایش کووید-۱۹
+7,en,fa,noun,"An informal name for the SARS-CoV-2 virus (also known as ""novel coronavirus""), responsible for the 2019/2020 global pandemic of COVID-19 (the disease caused by the virus). Sometimes refers to the entire category of coronaviruses, of which SARS-CoV-2 is just one example.",coronavirus,ویروس کرونا
+8,en,fa,noun,"In the context of coronavirus (COVID-19): a mask covering the nose, mouth and/or eyes of the wearer, intended to protect the wearer from spreading or contracting pathogens.",face mask,ماسک صورت
+9,en,fa,noun,"In the context of coronavirus (COVID-19): can be a person, such as a doctor, but also an organization, such as a hospital or insurance company.",healthcare provider,ارائه‌دهنده خدمات بهداشتی و درمانی
+10,en,fa,noun,"In the context of coronavirus (COVID-19): a person who works in healthcare, such as a doctor or therapist.",healthcare professional,متخصص بهداشت و درمان
+11,en,fa,noun,"In the context of coronavirus (COVID-19): the practice of cleaning one's hands, e.g. with water and soap, in order to get rid of the virus and other pathogens.",hand-washing,شستن دست‌ها
+12,en,fa,noun,In the context of coronavirus (COVID-19): the period of time between infection and the appearance of symptoms of the disease.,incubation period,دوره نهفتگی
+13,en,fa,noun,In the context of coronavirus (COVID-19): the practice of separating sick people from healthy people to prevent the spread of disease.,isolation,جداسازی
+14,en,fa,noun,In the context of the coronavirus (COVID-19): the practice of restricting the movement of healthy people who may have been exposed to the virus to see if they become ill.,quarantine,قرنطینه
+15,en,fa,verb,In the context of the coronavirus (COVID-19): to restrict the movement of healthy people who may have been exposed to the virus to see if they become ill.,quarantine,قرنطینه کردن
+16,en,fa,proper noun,"Short for ""National Institutes of Health Agency"": the primary US government agency responsible for biomedical and public health research; part of the United States Department of Health and Human Services.",NIH,سازمان مؤسسه ملی سلامت (NIH)
+17,en,fa,noun,"In the context of coronavirus (COVID-19): being within a close distance (1-2m) of another person, not necessarily having actual physical contact. Close contact is one possible way for the virus to spread from person to person.",close contact,تماس نزدیک
+18,en,fa,noun,In the context of coronavirus (COVID-19): the process of the virus spreading from person to person.,transmission,انتقال
+19,en,fa,noun,In the context of coronavirus (COVID-19): cases of people infected with the virus which have resulted in the end of the infected person's life.,deaths,فوت‌شدگان
+20,en,fa,noun,In the context of coronavirus (COVID-19): a place where people can be tested for the virus.,testing center,مرکز آزمایش
+21,en,fa,verb,"In the context of the coronavirus (COVID-19): to infect new people, in a particular area or globally.",spread,سرایت کردن
+22,en,fa,verb,A header for a set of five recommendations surfaced to users looking for coronavirus tips. See: https://www.google.com/search?q=coronavirus+tips&fbx=dothefive,Do the Five,این ۵ کار را انجام دهید
+23,en,fa,proper noun,"A specialized agency of the United Nations that is concerned with world public health. Abbreviated as ""WHO"". See: https://en.wikipedia.org/wiki/World_Health_Organization",World Health Organization,سازمان جهانی بهداشت
+24,en,fa,proper noun,"Short for ""World Health Organization"": a specialized agency of the United Nations that is concerned with world public health. See: https://en.wikipedia.org/wiki/World_Health_Organization",WHO,سازمان جهانی بهداشت (WHO)
+25,en,fa,,,14 days in isolation,جداسازی ۱۴ روزه
+26,en,fa,,,14 days quarantine,قرنطینه ۱۴ روزه
+27,en,fa,,,2019 coronavirus,ویروس کرونای ۲۰۱۹
+28,en,fa,,,2019 novel coronavirus,ویروس کرونای جدید ۲۰۱۹
 29,en,fa,,,2019-nCoV,2019-nCoV
-30,en,fa,,,2020 coronavirus,ویروس کرونای 2020
-31,en,fa,,,2020 novel coronavirus,ویروس کرونای جدید 2020
+30,en,fa,,,2020 coronavirus,ویروس کرونای ۲۰۲۰
+31,en,fa,,,2020 novel coronavirus,ویروس کرونای جدید ۲۰۲۰
 33,en,fa,,,about coronavirus,درباره ویروس کرونا
 39,en,fa,,,acute respiratory distress syndrome,سندرم دیسترس تنفسی حاد
-40,en,fa,,,advanced hand sanitizer,ضدعفونی کننده پیشرفته دست
+40,en,fa,,,advanced hand sanitizer,ضدعفونی‌کننده پیشرفته دست
 41,en,fa,,,Affected by coronavirus,مبتلا به ویروس کرونا
 42,en,fa,,,after exposure,بعد از قرارگیری در معرض بیماری
 43,en,fa,,,After the epidemic,بعد از اپیدمی
 44,en,fa,,,After the outbreak,بعد از شیوع
-47,en,fa,,,airborne virus,ویروس های قابل انتقال در هوا
-48,en,fa,,,alcohol based hand sanitizer,ضد عفونی کننده الکلی دست
-49,en,fa,,,alcohol hand sanitizer,ضدعفونی کننده الکلی دست
-51,en,fa,,,alcohol-based hand sanitizer,ضد عفونی کننده الکلی دست
+47,en,fa,,,airborne virus,ویروس‌های قابل انتقال از هوا
+48,en,fa,,,alcohol based hand sanitizer,ضد عفونی‌کننده الکلی دست
+49,en,fa,,,alcohol hand sanitizer,ضدعفونی‌کننده الکلی دست
+51,en,fa,,,alcohol-based hand sanitizer,ضد عفونی‌کننده الکلی دست
 59,en,fa,,,Anti-Corona virus spray,اسپری ضد ویروس کرونا
 60,en,fa,,,antibacterial hand sanitizer,ضد عفونی کننده ضد باکتری دست
 61,en,fa,,,ARDS,ARDS

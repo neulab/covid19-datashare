@@ -1,4 +1,28 @@
 stringID,sourceLang,targetLang,pos,description,sourceString,targetString
+1,en,si,adjective,"In the context of coronavirus (COVID-19): transmissible by direct or indirect contact with an infected person (describes the disease or the virus, not a person).",contagious,ස්පර්ශයෙන් බෝවෙන
+2,en,si,noun,In the context of coronavirus (COVID-19): known cases of people who currently have the disease.,active cases,සක්‍රිය අවස්ථා
+3,en,si,noun,In the context of coronavirus (COVID-19): cases of people infected with the virus which have been confirmed via medical testing.,confirmed cases,තහවුරු කළ අවස්ථා
+4,en,si,proper noun,"Short for ""Centers for Disease Control and Prevention"": a US federal agency under the Department of Health and Human Services, whose main goal is to protect public health and safety through the control and prevention of disease.",CDC,CDC
+5,en,si,noun,"A formal name for the disease caused by the SARS-CoV-2 virus, responsible for the 2019/2020 global pandemic.",COVID-19,COVID-19
+6,en,si,noun,In the context of coronavirus (COVID-19): a place where people can be tested for the virus.,COVID-19 testing center,COVID-19 පරීක්ෂණ මධ්‍යස්ථානය
+7,en,si,noun,"An informal name for the SARS-CoV-2 virus (also known as ""novel coronavirus""), responsible for the 2019/2020 global pandemic of COVID-19 (the disease caused by the virus). Sometimes refers to the entire category of coronaviruses, of which SARS-CoV-2 is just one example.",coronavirus,කොරෝනා වෛරසය
+8,en,si,noun,"In the context of coronavirus (COVID-19): a mask covering the nose, mouth and/or eyes of the wearer, intended to protect the wearer from spreading or contracting pathogens.",face mask,මුහුණු ආවරණය
+9,en,si,noun,"In the context of coronavirus (COVID-19): can be a person, such as a doctor, but also an organization, such as a hospital or insurance company.",healthcare provider,සෞඛ්‍ය සේවා සපයන්නා
+10,en,si,noun,"In the context of coronavirus (COVID-19): a person who works in healthcare, such as a doctor or therapist.",healthcare professional,සෞඛ්‍ය සේවා වෘත්තීයවේදීයා
+11,en,si,noun,"In the context of coronavirus (COVID-19): the practice of cleaning one's hands, e.g. with water and soap, in order to get rid of the virus and other pathogens.",hand-washing,අත්-සේදීම
+12,en,si,noun,In the context of coronavirus (COVID-19): the period of time between infection and the appearance of symptoms of the disease.,incubation period,බීජෞෂණ සමය
+13,en,si,noun,In the context of coronavirus (COVID-19): the practice of separating sick people from healthy people to prevent the spread of disease.,isolation,හුදෙකලාව
+14,en,si,noun,In the context of the coronavirus (COVID-19): the practice of restricting the movement of healthy people who may have been exposed to the virus to see if they become ill.,quarantine,නිරෝධායනය
+15,en,si,verb,In the context of the coronavirus (COVID-19): to restrict the movement of healthy people who may have been exposed to the virus to see if they become ill.,quarantine,නිරෝධායනය
+16,en,si,proper noun,"Short for ""National Institutes of Health Agency"": the primary US government agency responsible for biomedical and public health research; part of the United States Department of Health and Human Services.",NIH,NIH
+17,en,si,noun,"In the context of coronavirus (COVID-19): being within a close distance (1-2m) of another person, not necessarily having actual physical contact. Close contact is one possible way for the virus to spread from person to person.",close contact,සමීප සම්බන්ධතාව
+18,en,si,noun,In the context of coronavirus (COVID-19): the process of the virus spreading from person to person.,transmission,සම්ප්‍රේෂණය
+19,en,si,noun,In the context of coronavirus (COVID-19): cases of people infected with the virus which have resulted in the end of the infected person's life.,deaths,මරණ
+20,en,si,noun,In the context of coronavirus (COVID-19): a place where people can be tested for the virus.,testing center,පරීක්ෂණ මධ්‍යස්ථානය
+21,en,si,verb,"In the context of the coronavirus (COVID-19): to infect new people, in a particular area or globally.",spread,පැතිරීම
+22,en,si,verb,A header for a set of five recommendations surfaced to users looking for coronavirus tips. See: https://www.google.com/search?q=coronavirus+tips&fbx=dothefive,Do the Five,පහ කරන්න
+23,en,si,proper noun,"A specialized agency of the United Nations that is concerned with world public health. Abbreviated as ""WHO"". See: https://en.wikipedia.org/wiki/World_Health_Organization",World Health Organization,ලෝක සෞඛ්‍ය සංවිධානය
+24,en,si,proper noun,"Short for ""World Health Organization"": a specialized agency of the United Nations that is concerned with world public health. See: https://en.wikipedia.org/wiki/World_Health_Organization",WHO,WHO
 25,en,si,,,14 days in isolation,දින 14 ක් ඒකලනයේ
 26,en,si,,,14 days quarantine,දින 14 ක නිරෝධායනය
 27,en,si,,,2019 coronavirus,2019 කොරෝනාවයිරසය

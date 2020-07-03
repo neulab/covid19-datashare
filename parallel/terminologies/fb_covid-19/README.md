@@ -7,6 +7,7 @@ Key	Dialect
 af_ZA	Afrikaans
 am_ET	Amharic
 ar_AR	Arabic
+ar_AR_rom	Arabic (Romanized)
 as_IN	Assamese
 az_AZ	Azerbaijani
 be_BY	Belarusian
@@ -29,6 +30,7 @@ gu_IN	Gujarati
 ha_NG	Hausa
 he_IL	Hebrew
 hi_IN	Hindi
+hi_IN_rom Hindi(Romanized)
 hr_HR	Croatian
 ht_HT	Haitian Creole
 hu_HU	Hungarian
